@@ -52,3 +52,5 @@ Two sample casebook volumes from Arkansas digitized in the Caselaw Access Projec
      - A simple sequence number can be generated using `(leaf number) - 1 + (page_side)`. For example, 32044078577194_00005_0.tif is the 9th image in the volume, so 5 - 1 + 0 = 9.
 
 Thoughts? Ideas? Hate mail? Tell us! Feel free to file an issue, or send us an email at lil@law.harvard.edu.
+
+Our API is coming soon! 
