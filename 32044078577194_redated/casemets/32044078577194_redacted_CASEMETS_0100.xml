@@ -1,0 +1,363 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0100" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Glick v. Lockhart">Dennis GLICK v. A.L. LOCKHART, Director, Arkansas Department of Correction</name>
+          <docketnumber>85-282</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 417</citation>
+          <citation category="parallel" type="bluebook">706 S.W.2d 178</citation>
+          <decisiondate>1986-03-24</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:00Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00226_0" MIMETYPE="image/tiff" CHECKSUM="c735f0dbf1095ee91745bc553a8a0e2b" CHECKSUMTYPE="MD5" SIZE="35672">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00226_0.tif"/>
+      </file>
+      <file ID="tiff_00226_1" MIMETYPE="image/tiff" CHECKSUM="473624a36b50703662550473b42dfa3e" CHECKSUMTYPE="MD5" SIZE="40206">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00226_1.tif"/>
+      </file>
+      <file ID="tiff_00227_0" MIMETYPE="image/tiff" CHECKSUM="fe8faa09ccb89a6d5f10684c4851d20b" CHECKSUMTYPE="MD5" SIZE="24808">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00227_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00226_0" MIMETYPE="image/jp2" CHECKSUM="9b4e2e5fe200d7977245dd7f41cbcee4" CHECKSUMTYPE="MD5" SIZE="2223402">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00226_0.jp2"/>
+      </file>
+      <file ID="jp2_00226_1" MIMETYPE="image/jp2" CHECKSUM="7efcfa043045f469936cdee804a53c2d" CHECKSUMTYPE="MD5" SIZE="2159682">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00226_1.jp2"/>
+      </file>
+      <file ID="jp2_00227_0" MIMETYPE="image/jp2" CHECKSUM="5d7b1847c1fb90960ae424dea399e0c2" CHECKSUMTYPE="MD5" SIZE="2084268">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00227_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00226_0" MIMETYPE="text/xml" CHECKSUM="d53829109ae70a45e44743f9087aec68" CHECKSUMTYPE="MD5" SIZE="60035">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00226_0.xml"/>
+      </file>
+      <file ID="alto_00226_1" MIMETYPE="text/xml" CHECKSUM="eff700732e5a07e58eb119fb4696c258" CHECKSUMTYPE="MD5" SIZE="67997">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00226_1.xml"/>
+      </file>
+      <file ID="alto_00227_0" MIMETYPE="text/xml" CHECKSUM="7862581b0d2cc75a8de41a5242baf7d0" CHECKSUMTYPE="MD5" SIZE="42680">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00227_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0100" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="417" lastpage="419">
+              <court pgmap="451" id="b451-11">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="451" id="b451-9">85-282</docketnumber>
+              <citation pgmap="451" id="b451-10">706 S.W.2d 178</citation>
+              <parties pgmap="451" id="b451-8">Dennis GLICK v. A.L. LOCKHART, Director, Arkansas Department of Correction</parties>
+              <decisiondate pgmap="451" id="Agk">Opinion delivered March 24, 1986</decisiondate>
+              <judges pgmap="453" id="b453-8">Purtle, J., not participating.</judges>
+              <attorneys pgmap="452" id="b452-8">Appellant, pro se.</attorneys>
+              <attorneys pgmap="452" id="b452-9">Steve Clark, Att’y Gen., by: Mary Beth Sudduth, Asst. Att’y Gen., for: Jack Gillean, Asst. Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="452" id="b452-10">Per Curiam.</author>
+                <p pgmap="452" id="Ad61">Appellant, an inmate of the Arkansas Depart­ment of Correction, filed a petition for writ of mandamus against the Director of the Department taking issue with the Depart­ment’s computation of his parole eligibility date. The circuit court denied relief, and appellant appealed to this Court. When he sought to file a handwritten brief, it was returned to him to be typed since we do not accept handwritten briefs in a direct appeal. See Green v. State, 277 Ark. 129, 639 S.W.2d 512 (1982). Appellant now seeks a writ of mandamus to compel the Depart­ment of Correction to provide him with a typewriter so that he may type the brief and resubmit it for filing.</p>
+                <p pgmap="452" id="b452-11">
+                   In criminal cases where appellants are entitled to appointment of counsel, we will appoint an attorney upon proper motion for inmates who are unable to comply with our rules. Green v. State. In civil matters, including suits against the Department of Correction challenging parole eligibility dates, we will appoint counsel only where the appellant is able to make a substantial showing that he is entitled to relief and that he cannot proceed without counsel. Virgin v. Lockhart, 288 Ark. 92, 702 S.W.2d 9 (1986).</p>
+                <p pgmap="452(56) 453(18)" id="b452-12">
+                   The same general criteria apply to civil suits in which the appellant contends that he cannot submit a conforming brief without access to a typewriter. That is, in those cases where a pro se appellant submits a motion for permission to file a handwritten brief in which he makes a substantial showing that his suit has merit and that he is unable to submit a typed brief, we will accept a legible handwritten brief.</p>
+                <p pgmap="453" id="b453-6">Appellant has thirty days to file a typed brief or submit a motion for permission to file a handwritten brief.</p>
+                <p pgmap="453" id="b453-7">Petition denied.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="451" ORDERLABEL="417" TYPE="page">
+        <fptr FILEID="tiff_00226_0"/>
+        <fptr FILEID="jp2_00226_0"/>
+        <fptr FILEID="alto_00226_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_451.2" BETYPE="IDREF" FILEID="alto_00226_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="452" ORDERLABEL="418" TYPE="page">
+        <fptr FILEID="tiff_00226_1"/>
+        <fptr FILEID="jp2_00226_1"/>
+        <fptr FILEID="alto_00226_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_452.2" BETYPE="IDREF" FILEID="alto_00226_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="453" ORDERLABEL="419" TYPE="page">
+        <fptr FILEID="tiff_00227_0"/>
+        <fptr FILEID="jp2_00227_0"/>
+        <fptr FILEID="alto_00227_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_453.3" BETYPE="IDREF" FILEID="alto_00227_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b452-12" BETYPE="IDREF" FILEID="casebody_0100"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_452.13" BETYPE="IDREF" FILEID="alto_00226_1"/>
+            <area BEGIN="BL_453.1" BETYPE="IDREF" FILEID="alto_00227_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b452-11" BETYPE="IDREF" FILEID="casebody_0100"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_452.12" BETYPE="IDREF" FILEID="alto_00226_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b452-10" BETYPE="IDREF" FILEID="casebody_0100"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_452.9" BETYPE="IDREF" FILEID="alto_00226_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b451-10" BETYPE="IDREF" FILEID="casebody_0100"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_451.9" BETYPE="IDREF" FILEID="alto_00226_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Agk" BETYPE="IDREF" FILEID="casebody_0100"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_451.11" BETYPE="IDREF" FILEID="alto_00226_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b451-8" BETYPE="IDREF" FILEID="casebody_0100"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_451.7" BETYPE="IDREF" FILEID="alto_00226_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b451-9" BETYPE="IDREF" FILEID="casebody_0100"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_451.8" BETYPE="IDREF" FILEID="alto_00226_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b453-7" BETYPE="IDREF" FILEID="casebody_0100"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_453.5" BETYPE="IDREF" FILEID="alto_00227_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ad61" BETYPE="IDREF" FILEID="casebody_0100"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_452.10" BETYPE="IDREF" FILEID="alto_00226_1"/>
+            <area BEGIN="BL_452.11" BETYPE="IDREF" FILEID="alto_00226_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b453-6" BETYPE="IDREF" FILEID="casebody_0100"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_453.4" BETYPE="IDREF" FILEID="alto_00227_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b453-8" BETYPE="IDREF" FILEID="casebody_0100"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_453.6" BETYPE="IDREF" FILEID="alto_00227_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b451-11" BETYPE="IDREF" FILEID="casebody_0100"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_451.10" BETYPE="IDREF" FILEID="alto_00226_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b452-9" BETYPE="IDREF" FILEID="casebody_0100"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_452.8" BETYPE="IDREF" FILEID="alto_00226_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b452-8" BETYPE="IDREF" FILEID="casebody_0100"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_452.7" BETYPE="IDREF" FILEID="alto_00226_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

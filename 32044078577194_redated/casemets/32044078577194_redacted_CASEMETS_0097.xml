@@ -1,0 +1,472 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0097" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Carnathan v. Farm Bureau Insurance">Karen CARNATHAN v. FARM BUREAU INSURANCE COMPANY</name>
+          <docketnumber>85-287</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 399</citation>
+          <citation category="parallel" type="bluebook">705 S.W.2d 885</citation>
+          <decisiondate>1986-03-24</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:00Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00217_0" MIMETYPE="image/tiff" CHECKSUM="2d3cd045d140d0a3457cd23dada55ae5" CHECKSUMTYPE="MD5" SIZE="22620">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00217_0.tif"/>
+      </file>
+      <file ID="tiff_00217_1" MIMETYPE="image/tiff" CHECKSUM="c66a332ed1e58c1e781b77828fc7ddb8" CHECKSUMTYPE="MD5" SIZE="50040">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00217_1.tif"/>
+      </file>
+      <file ID="tiff_00218_0" MIMETYPE="image/tiff" CHECKSUM="b628a8e493c04b2af8c84690c81e0ad1" CHECKSUMTYPE="MD5" SIZE="49578">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00218_0.tif"/>
+      </file>
+      <file ID="tiff_00218_1" MIMETYPE="image/tiff" CHECKSUM="d09c36741481047fac00a7de8e11a166" CHECKSUMTYPE="MD5" SIZE="19404">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00218_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00217_0" MIMETYPE="image/jp2" CHECKSUM="c49d8ceb1af58ef3ed6b6c8c0503286b" CHECKSUMTYPE="MD5" SIZE="1907119">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00217_0.jp2"/>
+      </file>
+      <file ID="jp2_00217_1" MIMETYPE="image/jp2" CHECKSUM="a3cd9312d10a51e0bc20005fb991bc69" CHECKSUMTYPE="MD5" SIZE="2504680">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00217_1.jp2"/>
+      </file>
+      <file ID="jp2_00218_0" MIMETYPE="image/jp2" CHECKSUM="a07bd2a07664df20b6f14d44fb620973" CHECKSUMTYPE="MD5" SIZE="2493729">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00218_0.jp2"/>
+      </file>
+      <file ID="jp2_00218_1" MIMETYPE="image/jp2" CHECKSUM="2f404d5698217584281ac9586cd062b1" CHECKSUMTYPE="MD5" SIZE="1710573">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00218_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00217_0" MIMETYPE="text/xml" CHECKSUM="6abe3d0108f5b5fc35c3399df3d55565" CHECKSUMTYPE="MD5" SIZE="33661">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00217_0.xml"/>
+      </file>
+      <file ID="alto_00217_1" MIMETYPE="text/xml" CHECKSUM="2351312d08e7c54c3d3805dff41292a0" CHECKSUMTYPE="MD5" SIZE="80662">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00217_1.xml"/>
+      </file>
+      <file ID="alto_00218_0" MIMETYPE="text/xml" CHECKSUM="91e17a9363c080c4b6d78d58d4148e7f" CHECKSUMTYPE="MD5" SIZE="84637">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00218_0.xml"/>
+      </file>
+      <file ID="alto_00218_1" MIMETYPE="text/xml" CHECKSUM="de04cb1ff78c629c9db38fd0e9a67eba" CHECKSUMTYPE="MD5" SIZE="30556">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00218_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0097" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="399" lastpage="402">
+              <court pgmap="433" id="b433-10">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="433" id="b433-9">85-287</docketnumber>
+              <citation pgmap="433" id="AgR">705 S.W.2d 885</citation>
+              <parties pgmap="433" id="b433-7">Karen CARNATHAN v. FARM BUREAU INSURANCE COMPANY</parties>
+              <decisiondate pgmap="433" id="A-Ox">Opinion delivered March 24, 1986</decisiondate>
+              <judges pgmap="436" id="b436-8">Purtle, J., not participating.</judges>
+              <attorneys pgmap="434" id="b434-6">Gary Eubanks &amp; Associates, by: James Gerard Schulze, for appellant.</attorneys>
+              <attorneys pgmap="434" id="b434-7">David Hodges, for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="434" id="b434-8">David Newbern, Justice.</author>
+                <p pgmap="434" id="Ayke">The appellant, Karen Carnathan, was injured in an automobile accident. She sued the driver of the other vehicle involved in the collision and ultimately settled for $25,000. Ms. Carnathan was represented by an attorney to whom she paid a contingency fee of one-third of her recovery.</p>
+                <p pgmap="434" id="b434-9">During the settlement negotiations some of Ms. Carnathan’s medical expenses were paid by her insurer, the appellee, Farm Bureau Insurance Company, in the amount of $2,402.59. The accident occurred on December 24,1980. Farm Bureau made the payment to Ms. Carnathan and her attorney on June 14, 1983. The settlement was reached and the suit by Ms. Carnathan against the other driver was dismissed with prejudice on March 21, 1984.</p>
+                <p pgmap="434" id="b434-10">On June 5,1984, a hearing was held in which Farm Bureau, which had not been a party to the litigation, appeared and argued its subrogation claim against Ms. Carnathan. Counsel for Ms. Carnathan argued she was willing to pay the claim but that Farm Bureau was entitled only to the amount it had paid less the cost of collection which, in this case, was one-third because Ms. Carnathan had paid one-third of her total recovery to her attorneys. Ms. Carnathan’s lawyer agreed to allow Farm Bureau to proceed in the matter, and the court’s order said both parties were “agreeable for the court to decide a question which has arisen over a portion of the settlement proceeds.” The court held Farm Bureau was entitled to the entire $2,402.59 essentially because it had not employed Ms. Carnathan’s lawyers to re­present its interest.</p>
+                <p pgmap="434(60) 435(47)" id="b434-11">Ms. Carnathan contends the claim of Farm Bureau is based solely on Ark. Stat. Ann. §§ 66-4014 through 66-4019 (Repl. 1980 and Supp. 1985), our no fault insurance law, which requires every automobile liability insurance policy written in Arkansas to include a provision for payment of minimum medical and hospital benefits without regard to fault, § 66-4014(a), unless rejected in writing by the insured, § 66-4015. The statute requires the payments be made on a monthly basis, § 66-4021, but it gives the insurer a right of reimbursement in the event the insured gets a judgment against or settlement with the tortfeasor, § 66-4019. Section 66-4019 provides:</p>
+                <blockquote pgmap="435" id="b435-4">Insurers’ rights of reimbursement</blockquote>
+                <blockquote pgmap="435" id="b435-5">Whenever a recipient of Section 1(a) and (b) [§ 66-­4014(a) and (b)] benefits recovers in tort for injury, either by settlement or judgment, the insurer paying such bene­fits has a right of reimbursement and credit out of the tort recovery or settlement, less the cost of collection, as hereinafter defined. All costs of collection thereof shall be assessed against insurer and insured in the proportion each benefits from such recovery. Said insurer shall have a lien upon said recovery to the extent of its said benefit payments.</blockquote>
+                <p pgmap="435" id="b435-6">Ms. Carnathan contends the statute clearly limits Farm Bureau’s recovery to the sum it paid less cost of collection.</p>
+                <p pgmap="435" id="b435-7">The essence of Farm Bureau’s counter argument is that because Ms. Carnathan did not introduce the policy in evidence we do not know whether she rejected the no fault coverage, and thus we cannot say the statute is the basis of Farm Bureau’s subrogation claim.</p>
+                <p pgmap="435" id="b435-8">Farm Bureau is correct. We cannot tell from the record before us whether it had a basis for its subrogation claim other than the statutory one which would require it to pay the cost of collection. The reason we have no such record is that Farm Bureau was not a party to the litigation. It has filed no pleadings stating its claim. See Ark. R. Civ. P. 8(a).</p>
+                <p pgmap="435" id="b435-9">
+                   When the judgment was entered dismissing the claim of Ms. Carnathan against the other driver, who was the only other party to the suit, the case was over. Austin v. Austin, 241 Ark. 634, 409 S.W.2d 833 (1966); Mutual Life Insurance Co. of New York v. Phillips, 205 Ark. 432, 169 S.W.2d 132 (1943). The trial court lacked jurisdiction to do anything further in the case. Haft-­Gaines Co. v. Reddick, 350 So. 2d 818 (Fla. 1977); General Motors Acceptance Corporation v. Carpenter, 576 P.2d 1166 (Okla. 1978).</p>
+                <p pgmap="436" id="b436-5">
+                   This case is a good example of the reason courts are not allowed to reopen dismissed cases to allow non-parties to pursue claims. To decide the issue we are asked to resolve, we would have to guess at the basis of Farm Bureau’s claim and thus whether the statute Ms. Carnathan says was applicable applied or not.</p>
+                <p pgmap="436" id="b436-6">The judgment entered in favor of Farm Bureau against Karen Carnathan on June 22,1984, is reversed without prejudice to Farm Bureau’s right to bring its subrogation action by filing a complaint in the proper court.</p>
+                <p pgmap="436" id="b436-7">Reversed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="433" ORDERLABEL="399" TYPE="page">
+        <fptr FILEID="tiff_00217_0"/>
+        <fptr FILEID="jp2_00217_0"/>
+        <fptr FILEID="alto_00217_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_433.3" BETYPE="IDREF" FILEID="alto_00217_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="434" ORDERLABEL="400" TYPE="page">
+        <fptr FILEID="tiff_00217_1"/>
+        <fptr FILEID="jp2_00217_1"/>
+        <fptr FILEID="alto_00217_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_434.1" BETYPE="IDREF" FILEID="alto_00217_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="435" ORDERLABEL="401" TYPE="page">
+        <fptr FILEID="tiff_00218_0"/>
+        <fptr FILEID="jp2_00218_0"/>
+        <fptr FILEID="alto_00218_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_435.3" BETYPE="IDREF" FILEID="alto_00218_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="436" ORDERLABEL="402" TYPE="page">
+        <fptr FILEID="tiff_00218_1"/>
+        <fptr FILEID="jp2_00218_1"/>
+        <fptr FILEID="alto_00218_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_436.1" BETYPE="IDREF" FILEID="alto_00218_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b434-9" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_434.9" BETYPE="IDREF" FILEID="alto_00217_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b434-8" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_434.6" BETYPE="IDREF" FILEID="alto_00217_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b433-10" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_433.11" BETYPE="IDREF" FILEID="alto_00217_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b436-5" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_436.3" BETYPE="IDREF" FILEID="alto_00218_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b436-7" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_436.5" BETYPE="IDREF" FILEID="alto_00218_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b436-6" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_436.4" BETYPE="IDREF" FILEID="alto_00218_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b434-7" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_434.5" BETYPE="IDREF" FILEID="alto_00217_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b434-6" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_434.4" BETYPE="IDREF" FILEID="alto_00217_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b435-6" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_435.6" BETYPE="IDREF" FILEID="alto_00218_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b435-7" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_435.7" BETYPE="IDREF" FILEID="alto_00218_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b435-4" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_435.4" BETYPE="IDREF" FILEID="alto_00218_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b435-5" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_435.5" BETYPE="IDREF" FILEID="alto_00218_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ayke" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_434.7" BETYPE="IDREF" FILEID="alto_00217_1"/>
+            <area BEGIN="BL_434.8" BETYPE="IDREF" FILEID="alto_00217_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A-Ox" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_433.12" BETYPE="IDREF" FILEID="alto_00217_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b435-8" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_435.8" BETYPE="IDREF" FILEID="alto_00218_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b436-8" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_436.6" BETYPE="IDREF" FILEID="alto_00218_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b433-7" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_433.8" BETYPE="IDREF" FILEID="alto_00217_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AgR" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_433.10" BETYPE="IDREF" FILEID="alto_00217_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b435-9" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_435.9" BETYPE="IDREF" FILEID="alto_00218_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b433-9" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_433.9" BETYPE="IDREF" FILEID="alto_00217_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b434-11" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_434.11" BETYPE="IDREF" FILEID="alto_00217_1"/>
+            <area BEGIN="BL_435.1" BETYPE="IDREF" FILEID="alto_00218_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b434-10" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_434.10" BETYPE="IDREF" FILEID="alto_00217_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

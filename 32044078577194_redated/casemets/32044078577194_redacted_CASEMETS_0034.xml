@@ -1,0 +1,641 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0034" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Stevenson v. Barnes">STEVENSON v. Lillie Belle Wood BARNES</name>
+          <docketnumber>85-184</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 147</citation>
+          <citation category="parallel" type="bluebook">702 S.W.2d 787</citation>
+          <decisiondate>1986-02-03</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:00Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00087_0" MIMETYPE="image/tiff" CHECKSUM="6edd36a94d850e24c2f203a2907077e3" CHECKSUMTYPE="MD5" SIZE="26358">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00087_0.tif"/>
+      </file>
+      <file ID="tiff_00087_1" MIMETYPE="image/tiff" CHECKSUM="4e8dba1a7952bdc9ce9ccc25e1b22c04" CHECKSUMTYPE="MD5" SIZE="52184">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00087_1.tif"/>
+      </file>
+      <file ID="tiff_00088_0" MIMETYPE="image/tiff" CHECKSUM="e5b8732f6aeaef46608fad3a895f2fc7" CHECKSUMTYPE="MD5" SIZE="53298">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00088_0.tif"/>
+      </file>
+      <file ID="tiff_00088_1" MIMETYPE="image/tiff" CHECKSUM="0ad3ee88bab5fe49c08ce09a4ab3f137" CHECKSUMTYPE="MD5" SIZE="49898">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00088_1.tif"/>
+      </file>
+      <file ID="tiff_00089_0" MIMETYPE="image/tiff" CHECKSUM="c759fc1d9f438705a71fa2beb8bfda59" CHECKSUMTYPE="MD5" SIZE="55564">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00089_0.tif"/>
+      </file>
+      <file ID="tiff_00089_1" MIMETYPE="image/tiff" CHECKSUM="c7a4265800f9f5a9efd1992fddec42ba" CHECKSUMTYPE="MD5" SIZE="40262">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00089_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00087_0" MIMETYPE="image/jp2" CHECKSUM="c642a31ae683f1a1261a71c44999c903" CHECKSUMTYPE="MD5" SIZE="1873685">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00087_0.jp2"/>
+      </file>
+      <file ID="jp2_00087_1" MIMETYPE="image/jp2" CHECKSUM="719e6b81dedc901b6d720b021e934e18" CHECKSUMTYPE="MD5" SIZE="2887577">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00087_1.jp2"/>
+      </file>
+      <file ID="jp2_00088_0" MIMETYPE="image/jp2" CHECKSUM="e6efc7ec4524594cf1ab90625b0d5dd0" CHECKSUMTYPE="MD5" SIZE="2492711">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00088_0.jp2"/>
+      </file>
+      <file ID="jp2_00088_1" MIMETYPE="image/jp2" CHECKSUM="c6297c75cb89025c8d7112fdf0ef2ab7" CHECKSUMTYPE="MD5" SIZE="2915529">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00088_1.jp2"/>
+      </file>
+      <file ID="jp2_00089_0" MIMETYPE="image/jp2" CHECKSUM="cbe02fbcaee02718d1d0f8d6d2d0ea6d" CHECKSUMTYPE="MD5" SIZE="2530353">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00089_0.jp2"/>
+      </file>
+      <file ID="jp2_00089_1" MIMETYPE="image/jp2" CHECKSUM="bff5a4da9f697f2f89615003fcabdf9c" CHECKSUMTYPE="MD5" SIZE="2720684">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00089_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00087_0" MIMETYPE="text/xml" CHECKSUM="07cf550237a690eabb73fcdd8b603469" CHECKSUMTYPE="MD5" SIZE="43741">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00087_0.xml"/>
+      </file>
+      <file ID="alto_00087_1" MIMETYPE="text/xml" CHECKSUM="6f2b4f1f07b3ad49bcedd6fa1a4fb52b" CHECKSUMTYPE="MD5" SIZE="105659">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00087_1.xml"/>
+      </file>
+      <file ID="alto_00088_0" MIMETYPE="text/xml" CHECKSUM="21c4832c5e102e452a152de8c9a77aa4" CHECKSUMTYPE="MD5" SIZE="96604">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00088_0.xml"/>
+      </file>
+      <file ID="alto_00088_1" MIMETYPE="text/xml" CHECKSUM="f4bbde65fcd5790f31270d8f4c3be73b" CHECKSUMTYPE="MD5" SIZE="88584">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00088_1.xml"/>
+      </file>
+      <file ID="alto_00089_0" MIMETYPE="text/xml" CHECKSUM="34bd58440a5dd1a54b20199863f29a1f" CHECKSUMTYPE="MD5" SIZE="101067">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00089_0.xml"/>
+      </file>
+      <file ID="alto_00089_1" MIMETYPE="text/xml" CHECKSUM="b0a751c078457ad9d2008dee7e30709f" CHECKSUMTYPE="MD5" SIZE="66692">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00089_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0034" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="147" lastpage="152">
+              <court pgmap="173" id="b173-5">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="173" id="b173-4">85-184</docketnumber>
+              <citation pgmap="173" id="AYv">702 S.W.2d 787</citation>
+              <parties pgmap="173" id="b173-3">STEVENSON v. Lillie Belle Wood BARNES</parties>
+              <decisiondate pgmap="173" id="A5s">Opinion delivered February 3, 1986</decisiondate>
+              <judges pgmap="175" id="b175-7">Purtle, J., not participating.</judges>
+              <judges pgmap="175" id="b175-8">Holt, C.J., and Newbern, J., dissent.</judges>
+              <judges pgmap="178" id="b178-7">Newbern, J., joins in this dissent.</judges>
+              <attorneys pgmap="173" id="b173-9">James J. Calloway, for appellant.</attorneys>
+              <attorneys pgmap="173" id="b173-10">J.S. Brooks, for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="173" id="b173-11">George Rose Smith, Justice.</author>
+                <p pgmap="173" id="AhJ">In 1984 the appellee brought this suit to cancel a 1976 oil and gas lease on the ground that the appellant Stevenson, the lessee by assignment, has violated the implied covenant to develop the leasehold for the production of oil and gas. Stevenson asserts that he has acted as a prudent operator. The land covered by the lease consists of three contigu­ous 40-acre tracts lying in a north-south line. The chancellor canceled the lease as to all formations below the Nacatoch Sand and also as to all formations down to the Nacatoch Sand with the exception of five 10-acre tracts that were found to have been sufficiently developed that far down. The appellant argues that none of the lease should have been canceled. Our jurisdiction is under Rule 29(l)(n).</p>
+                <p pgmap="173(10) 174(56)" id="b173-12">We first examine what Stevenson has done before turning to the lessor’s charge that he has not done enough. The lease is in the usual form, for a primary term of three years. The land lies about a mile northwest of some producing oil wells, but for some years before 1977 there had been no activity in the immediate vicinity of the 120 acres in issue.</p>
+                <p pgmap="174" id="b174-6">Stevenson completed the test well, No. 1, in June, 1977. He testified that it proved to be very very good, started a small boom in the area, and has continued to produce about four barrels a day. It, like the other four wells he drilled, is in the Nacatoch Sand. That well is in the northeast ten acres of the southernmost forty of the 120 acres.</p>
+                <p pgmap="174" id="b174-7">Stevenson’s next venture was a well just west of that forty, not on the appellee’s 1.20 acres, but that was a dry hole. He then moved north of No. 1 and drilled No. 2 on the adjacent ten acres to the north, but production was so poor that it is used as a salt water disposal well. He then completed another four-barrel well in November, 1978. That well, No. 3, was on the southeast ten acres of the leasehold. He next tried still farther north, drilling No. 4 north of No. 2, but it has produced only at a loss. Since No. 1 was the east edge of the leased land and No. 3 was at the south edge, the only direction left was west. He tried that, drilling a well in the center of the south forty, but it averages only one barrel a day.</p>
+                <p pgmap="174" id="b174-8">Stevenson testified that in the process of his drilling he learned that the No. 1 well is high on the oil-producing structure. The active water drive that is present will drive the oil up through the sands to the high point. He testified that all the oil will eventually migrate to that point, “and we will eventually get it all.” When asked if he would be harmed if someone else went in and drilled a well (presumably to the west), he said he would be harmed, and explained:</p>
+                <blockquote pgmap="174" id="b174-9">They may go in and get a barrel or two barrels a day on the acreage; that is possible. And once you get a well drilled, you’re going to go ahead and produce it even though it is a barrel a day unless it is totally a losing situation, in which case I would be losing that oil because eventually I will capture it with the wells I have now, so I must keep that acreage to maintain it, marginal as it is now. And I need every barrel of oil I possibly can [get] to break even.</blockquote>
+                <p pgmap="175" id="b175-3">Stevenson’s testimony was not rebutted by the appellee’s principal witness, a petroleum geologist. He first said that if wells were drilled in the west part of the south fourth, “I suspect that you’d get from five to ten barrels a day.” He then admitted, however, that he did not know how much oil Stevenson was producing from any of his wells, a matter of obvious importance. Upon the record as a whole we think the decision to cancel the lease is clearly against the preponderance of the evidence.</p>
+                <p pgmap="175" id="b175-4">
+                   The chancellor was apparently in some doubt about the issue, for he wrote in his letter opinion that he felt it was his duty to follow the law as stated in Byrd v. Bradham, 280 Ark. 11, 655 S.W.2d 366 (1983), though he disagreed with that case. We do not regard Byrd as controlling. There the lessee of 80 acres had done nothing in 28 years except to allow 5 acres to be unitized for a well on neighboring land and to testify that she was “just about to drill a well” when suit was filed. Here, by contrast, the lessee of 120 acres has drilled five wells in the most promising part of the lease, with good production from two of them, and has shown why he would be unduly harmed by cancellation. He has also developed the leasehold systematically and proceeded in every direction as far as is reasonably practical. We are convinced that his actions have complied with the implied covenant to develop the leasehold at the Nacatoch level.</p>
+                <p pgmap="175" id="b175-5">
+                   The chancellor was right in canceling the lease as to the deeper acreage. Stevenson has already released or assigned all his interest in that deeper acreage except for the 20 acres on which his No. 1 and No. 3 are producing. He testified with respect to the deeper rights: “I do not have sufficient acreage to justify drilling a 7,500-foot test. If I had sufficient acreage. . . there is no doubt in my mind if I felt it was there, I’d immediately drill a well.” In view of the lessee’s own admissions, the cancellation of his lease with regard to the deep formations was proper.</p>
+                <p pgmap="175" id="b175-6">Reversed as to the Nacatoch Sand, affirmed as to the deeper levels.</p>
+              </opinion>
+              <opinion type="dissent">
+                <author pgmap="175" id="b175-9">Jack Holt, Jr., Chief Justice,</author>
+                <p pgmap="175(15) 176(22)" id="A6r">dissenting. I do not find the chancellor’s decision to be clearly against the preponderance of the evidence and would therefore uphold the cancellation of the lease for the lessees’ breach of the covenant to develop the leasehold.</p>
+                <p pgmap="176" id="b176-6">The majority states that it does not find Byrd v. Bradham, 280 Ark. 11, 655 S.W.2d 366 (1983), rehearing denied, control­ling. To the contrary, the recitals in Byrd are sound and fully supported by case law, and they apply in this case.</p>
+                <p pgmap="176" id="b176-7">In Byrd, we stated:</p>
+                <blockquote pgmap="176" id="b176-8">In oil and gas leases where royalties constitute the chief consideration, an implied covenant exists that the lessee will explore and develop the property with reasona­ble diligence. Smart v. Crow, 220 Ark. 141, 246 S.W.2d 432(1952). The duty to explore extends to the entire tract, and this is especially true where paying quantities of oil have been found on a part of the tract. Standard Oil Co. of Louisiana v. Giller, 183 Ark. 776, 38 S.W.2d 766 (1931).</blockquote>
+                <blockquote pgmap="176" id="b176-9">Of course, due deference must be given to the judg­ment of the lessee in determining whether to drill, but the lessee must not act arbitrarily. Ezzell v. Oil Associates, Inc., 180 Ark. 802, 22 S.W.2d 1015 (1930); Smart v. Crow, supra. Furthermore, the lessee must act not only for his own benefit but also for the benefit of the lessor. Amoco Production Co. v. Ware, 269 Ark. 313, 602 S.W.2d 620 (1980). The lessee’s obligation to explore is a continuing one, even after paying quantities of oil are discovered, in order to effect the purpose of the lease. Ezzell, supra. Production on only a small portion of the leased land does not justify allowing the lessees to hold the entire leasehold indefinitely, thus depriving the lessor of receiving royalties from another arrangement. Nolan v. Thomas, 228 Ark. 572, 309 S.W.2d 727 (1958).</blockquote>
+                <p pgmap="176(83) 177(44)" id="b176-10">A duty to explore in this instance extends to the entire tract inasmuch as paying quantities of oil have been found on part of the tract. Stevenson’s testimony that the No. 1 well was high on the oil producing structure and that all of the oil would eventually migrate to that point and “will eventually get it all” is disputed by the testimony of the appellees’ principal witness, Mr. Gaffney, who stated that he believes the four wells each drain a ten acre area. He was not sure that they would drain twenty. Gaffney further testified: “Well, the general consensus, in my experience, has been that if wells are drilled at ten acre spacings, they believe that ten acres will be adequate to drain the ten acres.”</p>
+                <p pgmap="177" id="b177-6">In further review of Stevenson’s testimony, the record reflects he made no attempt to drill the north forty acres of the leasehold. Stevenson explains his failure to explore the north acreage by stating that after drilling the No. 1 well, the further north he went the less oil he found. I cannot follow the logic of his statement in this regard. Stevenson describes the No. 1 well as a good well. His No. 2 well on the adjacent ten acres to the north, is described as a poor well, which is now used for salt water disposal. Well No. 4 which is north of No. 2, yet south of the north forty acres, is a producing well. Stevenson testified it is producing at a loss, however, he envisions that it may begin to produce at a profit. Although he makes this statement, he does not furnish us with any information about the extent of current production. Inas­much as Stevenson moved north of well No. 2 and found production in well No. 4, one could assume that moving further north to the north forty, he might find even better conditions for locating oil. Likewise, Stevenson’s assertion that well No. 1 is high on the oil producing structure and that all oil will eventually migrate to that point calls for a migration from the furthermost northern forty through the intermediate forty down to the lower forty. This seems incredible, particularly in light of the testimony of Gaffney, that each one of these wells would only drain ten acres. Both Gaffney, and Gary Rutledge, Land Manager for Hudson Resources (had he been able to obtain a lease from Mrs. Barnes in 1983) would have drilled Mrs. Barnes’ north forty acres.</p>
+                <p pgmap="177" id="b177-7">Stevenson has the duty to explore the entire tract which includes the north forty with reasonable diligence. This he has not done. He assumes the position that the further north he goes the less oil he will find and there would be nothing for him to gain in exploration of this area. We have held that if there is nothing gained then there is nothing to lose by cancellation of the lease, Byrd, supra. See also Skelly Oil Company v. Scoggins, 231 Ark. 357, 329 S.W.2d 424 (1959).</p>
+                <p pgmap="177(11) 178(95)" id="b177-8">A close question develops as to whether or not Stevenson was in further violation of his implied covenant, when he failed to explore the eastern portion of the appellee’s 120 acres. I find the testimony of appellee’s expert and the appellant in hopeless conflict, the appellant standing on the fact that he has drilled five wells in what he considers the most promising part of the lease and his producing wells can eventually take all the oil in the leasehold, even though it takes twenty years or so, as opposed to the appellee’s expert who would expect the appellant’s wells to drain from ten acre areas.</p>
+                <p pgmap="178" id="b178-5">If one assumes that appellants’ wells would drain somewhere in the neighborhood from ten acres, then it is obvious the eastern portion of Mrs. Barnes’ property is still subject to exploration. By allowing the lessee to hold the entire leasehold, Mrs. Barnes is being deprived of potentially “receiving royalties from another arrangement” as discussed in Byrd, supra. On the other hand, if one assumes that the appellants’ producing wells can eventually take all the oil in the leasehold, to take such oil over a twenty year or so period, deprives Mrs. Barnes of a receipt of her royalties over an unreasonable period of time.</p>
+                <p pgmap="178" id="b178-6">In either event, the chancellor’s decision is not against a preponderance of the evidence. I would cancel the lease on the 120 acres except as to the ten acre tracts surrounding each of the four wells presently utilized by the appellee.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="173" ORDERLABEL="147" TYPE="page">
+        <fptr FILEID="tiff_00087_0"/>
+        <fptr FILEID="jp2_00087_0"/>
+        <fptr FILEID="alto_00087_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_173.2" BETYPE="IDREF" FILEID="alto_00087_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="174" ORDERLABEL="148" TYPE="page">
+        <fptr FILEID="tiff_00087_1"/>
+        <fptr FILEID="jp2_00087_1"/>
+        <fptr FILEID="alto_00087_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_174.2" BETYPE="IDREF" FILEID="alto_00087_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="175" ORDERLABEL="149" TYPE="page">
+        <fptr FILEID="tiff_00088_0"/>
+        <fptr FILEID="jp2_00088_0"/>
+        <fptr FILEID="alto_00088_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_175.2" BETYPE="IDREF" FILEID="alto_00088_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="176" ORDERLABEL="150" TYPE="page">
+        <fptr FILEID="tiff_00088_1"/>
+        <fptr FILEID="jp2_00088_1"/>
+        <fptr FILEID="alto_00088_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_176.2" BETYPE="IDREF" FILEID="alto_00088_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="177" ORDERLABEL="151" TYPE="page">
+        <fptr FILEID="tiff_00089_0"/>
+        <fptr FILEID="jp2_00089_0"/>
+        <fptr FILEID="alto_00089_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_177.3" BETYPE="IDREF" FILEID="alto_00089_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="178" ORDERLABEL="152" TYPE="page">
+        <fptr FILEID="tiff_00089_1"/>
+        <fptr FILEID="jp2_00089_1"/>
+        <fptr FILEID="alto_00089_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_178.2" BETYPE="IDREF" FILEID="alto_00089_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b174-6" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_174.4" BETYPE="IDREF" FILEID="alto_00087_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b174-7" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_174.5" BETYPE="IDREF" FILEID="alto_00087_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b176-9" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_176.7" BETYPE="IDREF" FILEID="alto_00088_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b178-6" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_178.5" BETYPE="IDREF" FILEID="alto_00089_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b178-7" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_178.6" BETYPE="IDREF" FILEID="alto_00089_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b176-6" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_176.4" BETYPE="IDREF" FILEID="alto_00088_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A6r" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_175.10" BETYPE="IDREF" FILEID="alto_00088_0"/>
+            <area BEGIN="BL_175.11" BETYPE="IDREF" FILEID="alto_00088_0"/>
+            <area BEGIN="BL_176.1" BETYPE="IDREF" FILEID="alto_00088_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b173-11" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_173.15" BETYPE="IDREF" FILEID="alto_00087_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b173-10" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_173.14" BETYPE="IDREF" FILEID="alto_00087_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b173-12" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_173.18" BETYPE="IDREF" FILEID="alto_00087_0"/>
+            <area BEGIN="BL_174.1" BETYPE="IDREF" FILEID="alto_00087_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b174-8" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_174.6" BETYPE="IDREF" FILEID="alto_00087_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b174-9" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_174.7" BETYPE="IDREF" FILEID="alto_00087_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b175-3" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_175.3" BETYPE="IDREF" FILEID="alto_00088_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b176-10" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_176.8" BETYPE="IDREF" FILEID="alto_00088_1"/>
+            <area BEGIN="BL_177.1" BETYPE="IDREF" FILEID="alto_00089_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b177-8" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_177.6" BETYPE="IDREF" FILEID="alto_00089_0"/>
+            <area BEGIN="BL_178.1" BETYPE="IDREF" FILEID="alto_00089_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AhJ" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_173.16" BETYPE="IDREF" FILEID="alto_00087_0"/>
+            <area BEGIN="BL_173.17" BETYPE="IDREF" FILEID="alto_00087_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b176-7" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_176.5" BETYPE="IDREF" FILEID="alto_00088_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AYv" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_173.5" BETYPE="IDREF" FILEID="alto_00087_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b175-9" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_175.9" BETYPE="IDREF" FILEID="alto_00088_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b178-5" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_178.4" BETYPE="IDREF" FILEID="alto_00089_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b175-6" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_175.6" BETYPE="IDREF" FILEID="alto_00088_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b176-8" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_176.6" BETYPE="IDREF" FILEID="alto_00088_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b173-3" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_173.3" BETYPE="IDREF" FILEID="alto_00087_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b175-8" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_175.8" BETYPE="IDREF" FILEID="alto_00088_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b173-5" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_173.6" BETYPE="IDREF" FILEID="alto_00087_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b173-4" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_173.4" BETYPE="IDREF" FILEID="alto_00087_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b173-9" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_173.13" BETYPE="IDREF" FILEID="alto_00087_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b177-7" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_177.5" BETYPE="IDREF" FILEID="alto_00089_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b177-6" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_177.4" BETYPE="IDREF" FILEID="alto_00089_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b175-7" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_175.7" BETYPE="IDREF" FILEID="alto_00088_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A5s" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_173.7" BETYPE="IDREF" FILEID="alto_00087_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b175-5" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_175.5" BETYPE="IDREF" FILEID="alto_00088_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b175-4" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_175.4" BETYPE="IDREF" FILEID="alto_00088_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,1095 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0136" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Harrod v. Myers">Harrod vs. Myers et al.</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 592</citation>
+          <decisiondate>1860-10</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00297_1" MIMETYPE="image/tiff" CHECKSUM="44940650b72071c85d8a055d32bffab5" CHECKSUMTYPE="MD5" SIZE="38354">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00297_1.tif"/>
+      </file>
+      <file ID="tiff_00298_0" MIMETYPE="image/tiff" CHECKSUM="4ac002456cf798e30d21ef925aa9db75" CHECKSUMTYPE="MD5" SIZE="45546">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00298_0.tif"/>
+      </file>
+      <file ID="tiff_00298_1" MIMETYPE="image/tiff" CHECKSUM="b1b1343183a4c02ee1c95abce3df06b7" CHECKSUMTYPE="MD5" SIZE="45134">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00298_1.tif"/>
+      </file>
+      <file ID="tiff_00299_0" MIMETYPE="image/tiff" CHECKSUM="569ea7e33b49b11aadff3f3cdaf89411" CHECKSUMTYPE="MD5" SIZE="44960">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00299_0.tif"/>
+      </file>
+      <file ID="tiff_00299_1" MIMETYPE="image/tiff" CHECKSUM="700b223a15332cb85cfcd401230461ea" CHECKSUMTYPE="MD5" SIZE="46174">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00299_1.tif"/>
+      </file>
+      <file ID="tiff_00300_0" MIMETYPE="image/tiff" CHECKSUM="9de27627adc94ce1a8d53a2f784a8ce4" CHECKSUMTYPE="MD5" SIZE="48040">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00300_0.tif"/>
+      </file>
+      <file ID="tiff_00300_1" MIMETYPE="image/tiff" CHECKSUM="cee0169d9ada95558df773ac075045a9" CHECKSUMTYPE="MD5" SIZE="49144">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00300_1.tif"/>
+      </file>
+      <file ID="tiff_00301_0" MIMETYPE="image/tiff" CHECKSUM="cf67c3bc2cf6c9b4609c3b95fafcd0d3" CHECKSUMTYPE="MD5" SIZE="49806">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00301_0.tif"/>
+      </file>
+      <file ID="tiff_00301_1" MIMETYPE="image/tiff" CHECKSUM="4fc7898f97e9c6e306eb06aed1edbf68" CHECKSUMTYPE="MD5" SIZE="48628">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00301_1.tif"/>
+      </file>
+      <file ID="tiff_00302_0" MIMETYPE="image/tiff" CHECKSUM="730ff838dbc84591b30bfdd1eb2e7868" CHECKSUMTYPE="MD5" SIZE="48692">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00302_0.tif"/>
+      </file>
+      <file ID="tiff_00302_1" MIMETYPE="image/tiff" CHECKSUM="faae5eebcee2fb358757cfca33e7cec8" CHECKSUMTYPE="MD5" SIZE="25906">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00302_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00297_1" MIMETYPE="image/jp2" CHECKSUM="88eda847d06bb2de5fce77281c75598e" CHECKSUMTYPE="MD5" SIZE="2457927">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00297_1.jp2"/>
+      </file>
+      <file ID="jp2_00298_0" MIMETYPE="image/jp2" CHECKSUM="aabeb0d6e2adb70f843e7a8906c83e6e" CHECKSUMTYPE="MD5" SIZE="2546890">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00298_0.jp2"/>
+      </file>
+      <file ID="jp2_00298_1" MIMETYPE="image/jp2" CHECKSUM="bd5f26c0854cecb894cd59972eba57e7" CHECKSUMTYPE="MD5" SIZE="2536203">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00298_1.jp2"/>
+      </file>
+      <file ID="jp2_00299_0" MIMETYPE="image/jp2" CHECKSUM="1879c15b133753c023acc54407f6c08c" CHECKSUMTYPE="MD5" SIZE="2535897">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00299_0.jp2"/>
+      </file>
+      <file ID="jp2_00299_1" MIMETYPE="image/jp2" CHECKSUM="5e1a49810a80218ece58c4c0c3e3d7a7" CHECKSUMTYPE="MD5" SIZE="2495653">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00299_1.jp2"/>
+      </file>
+      <file ID="jp2_00300_0" MIMETYPE="image/jp2" CHECKSUM="fa587170e228835ed69405c60804fcb3" CHECKSUMTYPE="MD5" SIZE="2632650">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00300_0.jp2"/>
+      </file>
+      <file ID="jp2_00300_1" MIMETYPE="image/jp2" CHECKSUM="e5cfbab16de2956da92f880f9adbd9a3" CHECKSUMTYPE="MD5" SIZE="2549078">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00300_1.jp2"/>
+      </file>
+      <file ID="jp2_00301_0" MIMETYPE="image/jp2" CHECKSUM="7b0050ce245682ff40c765aaf759a4cd" CHECKSUMTYPE="MD5" SIZE="2578833">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00301_0.jp2"/>
+      </file>
+      <file ID="jp2_00301_1" MIMETYPE="image/jp2" CHECKSUM="13755beb4b1edb883fb5c9f9606ed2d6" CHECKSUMTYPE="MD5" SIZE="2920176">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00301_1.jp2"/>
+      </file>
+      <file ID="jp2_00302_0" MIMETYPE="image/jp2" CHECKSUM="d6174f9991ff32107d9067269c8b9ba2" CHECKSUMTYPE="MD5" SIZE="2593478">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00302_0.jp2"/>
+      </file>
+      <file ID="jp2_00302_1" MIMETYPE="image/jp2" CHECKSUM="f300d4c5fcbec6007177e7426cf7e87d" CHECKSUMTYPE="MD5" SIZE="2372742">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00302_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00297_1" MIMETYPE="text/xml" CHECKSUM="1992fc231183af457dfd00b1750c5511" CHECKSUMTYPE="MD5" SIZE="83169">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00297_1.xml"/>
+      </file>
+      <file ID="alto_00298_0" MIMETYPE="text/xml" CHECKSUM="c4898dd7fc2b1a5c06af993a689fab3f" CHECKSUMTYPE="MD5" SIZE="85651">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00298_0.xml"/>
+      </file>
+      <file ID="alto_00298_1" MIMETYPE="text/xml" CHECKSUM="1f812cd63dabb590f26493d4858c38e9" CHECKSUMTYPE="MD5" SIZE="89764">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00298_1.xml"/>
+      </file>
+      <file ID="alto_00299_0" MIMETYPE="text/xml" CHECKSUM="9dd0e590233fa0dfac850f7d7530d99e" CHECKSUMTYPE="MD5" SIZE="88978">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00299_0.xml"/>
+      </file>
+      <file ID="alto_00299_1" MIMETYPE="text/xml" CHECKSUM="95da2e325f6ce92ed33f381b154a2d5f" CHECKSUMTYPE="MD5" SIZE="91947">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00299_1.xml"/>
+      </file>
+      <file ID="alto_00300_0" MIMETYPE="text/xml" CHECKSUM="386df8b87b150154279c9ed8f152cf41" CHECKSUMTYPE="MD5" SIZE="96591">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00300_0.xml"/>
+      </file>
+      <file ID="alto_00300_1" MIMETYPE="text/xml" CHECKSUM="63b6a67a3204dcd46cb870509d645a3e" CHECKSUMTYPE="MD5" SIZE="95823">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00300_1.xml"/>
+      </file>
+      <file ID="alto_00301_0" MIMETYPE="text/xml" CHECKSUM="c77a8b6075b541ec6dcb10e5add2bed0" CHECKSUMTYPE="MD5" SIZE="91720">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00301_0.xml"/>
+      </file>
+      <file ID="alto_00301_1" MIMETYPE="text/xml" CHECKSUM="5b1a0eeeede7d5da81b3daae0d3397cf" CHECKSUMTYPE="MD5" SIZE="94533">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00301_1.xml"/>
+      </file>
+      <file ID="alto_00302_0" MIMETYPE="text/xml" CHECKSUM="517bad039773c75746b9cf381392de07" CHECKSUMTYPE="MD5" SIZE="100212">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00302_0.xml"/>
+      </file>
+      <file ID="alto_00302_1" MIMETYPE="text/xml" CHECKSUM="68b9bd12393cd277845a84276a1ea1fa" CHECKSUMTYPE="MD5" SIZE="51480">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00302_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0136" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="602" firstpage="592">
+              <parties id="b594-4" pgmap="594">Harrod vs. Myers et al.</parties>
+              <attorneys id="b594-12" pgmap="594">Williams &amp; Williams, for the appellant.</attorneys>
+              <attorneys id="b594-15" pgmap="594">Jordan for the appellee,</attorneys>
+              <summary id="b594-10" pgmap="594">Appeal from. Prairie Circuit Court in Chancery.</summary>
+              <summary id="b594-11" pgmap="594">Hon. John J. Clendenin, Circuit Judge.</summary>
+              <summary id="b594-13" pgmap="594">At common law an infant feme covert could not convey her lands, by fine and recovery. She must be of full age. See the case of Charnock wife vs. Worsley, Croke Eliz. 12®. Fil-z. Nat. Bre. 21 D.; 4 Com. Dig. Fine H.</summary>
+              <summary id="b594-14" pgmap="594">The legislature did not intend by the act authorizing married women to convey their real estate {ch. 37, Gould’s Digest secs. 10, 21,) to confer an ability to contract; but only intended to remove a disability. This disability is coverture, not infancy. The following cases are referred to as authorities directly in point, and decided upon statutes precisely similar to our own. Sandford vs. McLean, 3 Paige 117; Youse vs. Norcous, 12 Mo. 549; Bool vs. Mix, 19 Wend. 119.</summary>
+              <summary id="ANe" pgmap="594(5) 595(162)">contended that the statute enabling a married woman to relinquish dower in her husband’s lands, and also enabling her, with her husband, to convey her own, embraced all married females, as well those under age as those who are over twenty-one — there being no restriction whatever in the act nor in the form prescribed for the acknowledgment of the deeds: and admitting that the decisions in 17 Wend. 119, and 3 Paige 117, were in conflict with the principle, contended that they were based upon statutes wholly different from ours: that the husband by deed of himself and wife having conveyed away all his present or future interest in the land acquired by the marriage, and delivered possession, the grantee has an indisputable right to the possession and rents and profits during the life of the husband. 2 Kent Com. 130, 133; Reeve's Rom. Rel. 22 and notes-, 1 Bright's Hus. wife 99, 100; that Davie was an innocent purchaser, for a valuable consideration without notice.</summary>
+              <headnotes id="b594-7" pgmap="594">Marriage does not give a female infant a capacity to convey real estate, and our statute (secs. 10, 21, ch. 37, Gould’s Dig.,) enabling a married woman to convey her lands relieves her only from the inability to contract which marriage attaches to her.</headnotes>
+              <headnotes id="b594-8" pgmap="594">Where the husband and wife unite in the conveyance of the real estate of the wife, who is an infant, she may, during the life of her husband, invoke the aid of a court of chancery to cancel the deed so far as it affects her interest and that of her heirs, but it will be good to convey the interest of the husband during their joint lives, that is, his right to the rents and profits, and of course, the possession, and his lights by curtesy if he survive her.</headnotes>
+              <headnotes id="b594-9" pgmap="594">On a bill to cancel a deed of land on account of the infancy of the grantor, the plaintiff cannot be met by the defence of a purchase for a valuable consideration without notice of the infant’s claim.</headnotes>
+              <opinion type="majority">
+                <author id="b595-5" pgmap="595">Mr. Justice Fairchild</author>
+                <p id="AnF" pgmap="595">delivered the opinion of the court..</p>
+                <p id="b595-6" pgmap="595">On the 29th day of May, 1848, Mary F. Robertson, a minor, obtained a donation deed to the south east quarter of section thirty-three, in township five north of range seven west, in Prairie county, upon condition (hat she should annual!}' there­after pay the State and county taxes, and should reside upon, and improve, and cultivate at least three acres of said quarter section, or instead of residing thereon, should, within eighteen months, clear or cause to be cleared, fenced, improved and placed in readiness for cultivation, at least five acres of said quarter section.</p>
+                <p id="b595-7" pgmap="595(79) 596(13)">Four days before the expiration of eighteen months from the date of the deed, the grantee, or some one for her, caused to be filed in the Auditor’s office, a certificate of a Justice of the Peace, that within ten days next before the 23d of November, 1849, the date of the certificate, he had been on the quarter section of land, and that Mary F. Robertson had cleared, fenced, improved and placed in readiness for cultivation, three acres and upwards of said land, and that the improvement was a substantial one.</p>
+                <p id="b596-6" pgmap="596">While Mary F. Robertson was a minor, and living with her father, he seems to have sold the land, and executed a title bond for it, to Burrell Myers; and upon the 26th of January, 1855, the said Mary F. Robertson, then Mary Harrod, but still under twenty-one years of age, with her husband Presley Harrod, conveyed the land to Myers, who afterwards sold and conveyed it to John C. Davie.</p>
+                <p id="b596-7" pgmap="596">The object of the bill, preferred by Mary Harrod by her next friend, against her husband, Myers and Davie, was to have the deed executed by herself and husband to Myers, avoided on account of her infancy when it was made, also to have the deed of Myers to Davie decreed to be of no effect against her the said Mary, and to have possession of the land given to her, and she be quieted in her possession against the claim of any of the defendants.</p>
+                <p id="b596-8" pgmap="596">The bill was dismissed by the Prairie Circuit Court, sitting in Chancery; but whether this dissmissal involved an affirmation of the validity of the deed executed by the plaintiff, notwith­standing her being a married woman under age; or rested upon the ground that the plaintiff’s claim to the land was not good for non-compliance with the conditions of the grant, or was given because her husband had acquired a right to the posses­sion of the land, and the deed, unimpeached as to him, was suf­ficient to pass his life interest; or because five hundred dollars of the consideration paid to Davie for the land, was acknowl­edged by the plaintiff and her husband to have come to the hands of the husband, we are not informed.</p>
+                <p id="b596-9" pgmap="596">Although the Auditor’s deed and the law under which it was given, required, in case of the donee’s non-residence upon the land conveyed, a preparation of five acres of the land for culti­vation, a subsequent law, found in the 13th section of Art. II of Ch. 101 of Gould's D’gest, exempted the donee from making the improvement, and vested the land in her free from con­dition.</p>
+                <p id="b597-4" pgmap="597">The most important question in the case grows out of the deed of the plaintiff and her husband to Myers, which was executed when she was an infant married woman.</p>
+                <p id="b597-5" pgmap="597">Being a married woman, she might still convey her land by executing a deed with her husband, and acknowledging its exe­cution as the statute requires.</p>
+                <p id="b597-6" pgmap="597">And as no question has been made upon this branch of the case, the plaintiff will not be considered to have been under any disability but that of infancy — and being an infant, her acts must be adjudged to be void, voidable, or valid, like those of an unmarried infant, unless her marriage under age conferred upon her the capacity of a person of full age to execute an irrevoca­ble deed.</p>
+                <p id="b597-7" pgmap="597">No instance is recollected, in which by the common, or our statute law, marriage enfranchises a woman from a state of pupilage or dependence, only by the substitution of a hus­band’s authority for that of a parent, or guardian, or enlarges her civil rights, or confers any new capacity upon her, but of a social and domestic sort.</p>
+                <p id="b597-8" pgmap="597">The interests and rights of property that appertain to her as a wife, or widow, are given in exchange for the merger of her existence into that of her husband, and for the absorption into his estate of what she owned at the time of her marriage.</p>
+                <p id="b597-9" pgmap="597">And upon principle, it would seem strange if marriage, which in other cases restricts the individual rights of a single woman, should emancipate herfrom the condition of infancy. Marriage has no such elevating power over an infant husband, and if it make an infant wife a person of full age and discretion to convey her own real estate, it must be by force of our statute, 'which is in the following words:</p>
+                <blockquote id="b597-10" pgmap="597">“A married woman can convey her real estate, or any part thereof, by deed of conveyance, executed by herself and her husband, and acknowledged and certified in the manner herein­after prescribed.”</blockquote>
+                <blockquote id="b597-11" pgmap="597(22) 598(78)">“ The conveyance of any real estate by any married woman, or the extinguishment of dower in any of her husband’s real estate, shall be authenticated, and the title passed, by such married woman voluntarily appearing before the proper court or officer, and, in the absence of her husband, declaring that she had of her own free will executed the deed or instrument in question, or that she had signed and sealed the relinquishment of dower for the purposes therein contained and set forth, with­out compulsion or undue influence of her husband.” Sec. 10, 21, ch. 37, Gould's Digest.</blockquote>
+                <p id="b598-5" pgmap="598">It was evidently the belief of the General Assembly, that without some legi dative authority, the deed of a married woman could not pass her interest in her real estate, and as evidently their intention, by the law quoted, to enable her to do so. But the statute was not dealing with any other disability than that of marriage, and did not propose to relieve her from any other. The statute is an enabling one, but only from the want of power to sell land, that the common law affixes to the condition of a married woman: it gives to a wife the right of a single woman, if exercised according to the forms prescribed, but does not make an infant a person of full age and discretion in law, nor a luna­tic, insane, or intoxicated person, competent to contract, because such may be married -women.</p>
+                <p id="b598-6" pgmap="598">If the wife is otherwise competent, she may, by executing a deed wdth her husband, and acknowledging it under the law, make a conveyance of her real estate free from objection on account of her marriage; but it will be subject to every other objection that could be taken to it, if made by her while a sin­gle woman.</p>
+                <p id="b598-7" pgmap="598">The validity of a mortgage as against a married woman, executed by her -while an infant, was remarked upon in the High Court of Chancery of Maryland, in this way:</p>
+                <blockquote id="b598-8" pgmap="598(61) 599(21)">“ It must of course be perfectly clear, that if Mrs. Cronise was under the age of twenty one years when she executed this mortgage, it could not be binding upon her, and that unless she has, since she attained the legal capacity to contract, ratified her act in such a way as to give it legal efficacy against her, if it is capable of such ratification, she may now insist upon her incapacity.” Cronise vs. Clarke, 4 Md. Ch. Dec. 405.</blockquote>
+                <p id="b599-5" pgmap="599">This case does not show the statute upon which the married woman joined in the mortgage, but evidently there must have been one, as the case implies that the act of the woman was good against her marriage, but bad for her infancy. And it. is appropriately considered with this case, as like this, the suit was brought by the wife alone.</p>
+                <p id="b599-6" pgmap="599">Two statutes of Virginia came under consideration of the Kentucky Court of Appeals, and the same result, that an infant married woman was not bound by her deed, was reached.</p>
+                <p id="b599-7" pgmap="599">The importance of the case as a construction of two statutes not dissimilar to our own in their apparent intent, and the fitness of the authority to this case, seem to justify, from the report, a quotation from the statutes and the comments of the court upon them.</p>
+                <p id="b599-8" pgmap="599">“ By the fifth section of an act (Body of Laws, 210,) it is enacted ‘That all deeds of conveyance theretofore made, or ‘ thereafter to be made, indented and sealed by husband and ‘ wife, and by them personally acknowledged in the general ‘ court, or county court, the wife having first been examined by ‘ such court, separate and apart from the husband, and giving ‘ her free consent to the same, shall be, and are, hereby declared ‘ to be good and effectual in law, and shall be as valid to con- ‘ vey and pass over all the estate, right, title, interest, and de- ‘ mand of such wife, and her heirs, in and to the land, tene- ‘ ments or hereditaments so granted or conveyed, whether the ‘ same be in right of dower or fee simple, or whatsoever other ‘ estate, not being fee tail, she may have therein, as if the same ‘ had been done by fine and recovery, or by any other way or ‘ means whatsoever.’ ”</p>
+                <p id="b599-9" pgmap="599(57) 600(28)">“ And by a subsequent act of 1785, (Pleasant's Revision, 157, sec. 7,) the mode of alienating the inheritance of married women by deeds of conveyance, is again prescribed, and at the close of the section it is declared that the conveyance so made ‘ shall not only be sufficient to convey or release any right of £ dower thereby intended to be conveyed, or released, but be as £ effectual for every other purpose as if she had been an unmar- £ ried woman.’</p>
+                <p id="Aqe" pgmap="600">“ The language employed in these acts, for the purpose of showing the effect of deeds of conveyance executed by married women, is not in each precisely the same; but according to no fair interpretation of either can the deed, if made during the wife’s minority, be absolutely obligatory upon her. By a deed duly executed, we apprehend, under either act, the title passes from the wife; but we suppose she cannot be precluded by either from avoiding a deed made during her infancy.</p>
+                <p id="b600-6" pgmap="600">££ By the latter act, she certainly cannot; for, as by it the deed is declared to have the same effect as if made by an unmarried woman, it is plain that, as the deed of an unmarried infant may be avoided, so may that of a married woman made during her infancy — and by the former act it is equally clear, the deed made during the wife’s minority may be avoided. By that act, the deed is declared to have no greater effect than a fine and recovery would have; and it is well settled that a fine levied, or a recovery suffered of the wife’s land by the husband and wife, may be avoided on account of the infancy of the wife.” Phillips vs. Green, 3 A. K. M. 10. See also Mackey vs. Proctor, 12 B. Mon. 434.</p>
+                <p id="b600-7" pgmap="600">The same construction was given to a Missouri statute that provided for the execution of deeds by married vromen, and “ that such deed shall be as effectual in law to pass all the right, title and interest of the wife, as if she had been an un­married woman.” Youse vs. Norcoms, 12 Misso. 559.</p>
+                <p id="b600-8" pgmap="600">A full examination made in a late case in the Supreme Court of Tennessee, of the effect of a deed made under the disabilities of infancy and coverture, induced the conclusion that marriage was not, and that infancy was a good defence to the deed. Scott vs. Buchanan, 11 Humph. 468.</p>
+                <p id="b600-9" pgmap="600(31) 601(182)">Chancellor Walworth also says: “ The statute which makes valid the deed of a feme covert, when executed by her husband and acknowledged by her on a private examination, was never intended to sanction or validate a conveyance by an infant wife. There is a plain and obvious distinction between the disability of coverture and that of infancy. The first arises from a supposed want of will on account of the legal power and coercion which the husband may exercise over the volition of the wife. This disability is removed by the private examination of the wife, in the absence of her husband, by which it is legally ascertained that such power and coercion have not been exercised in that particular case. But the disability of infancy arises from the supposed want of capacity and judgment in the infant to act understandingly. And the only way in which that disability can be obviated is, by the legal substitution of some third per­son in the place of the infant, to exercise a judgment in her behalf. And this can only be done under the authority of a court of chancery, and in a few other cases specially provided for by law.” Sanford vs. McLean, 3 Paige 121; Priest vs. Cummings, 20 Wend. 349.</p>
+                <p id="b601-6" pgmap="601">And in action of ejectment, Judge Beonson, in the Supreme Court of the State of New York, expresses his full assent to the doctrine of the foregoing cases, holding the infancy of the plaintiff to present a distinct question from that of her cover­ture, each disability to be considered by itself, neither deriving any additional force from being coupled with the other. Bool vs. Mix, 17 Wend. 129.</p>
+                <p id="b601-7" pgmap="601">The statute of New York regulating the conveyance, and acknowledgment thereof, of land by a married woman, is called in the case just cited, a restraining statute, in reference to the previous custom that had obtained in the province, bj which married women joined- their husbands in deeds, without any separate acknowledgement, which was prohibited by the statute. Considered in its relation to the common law, it was an enabling statute, like ours, which ours so far resembles as to make the New York decisions apply to its construction.</p>
+                <p id="b601-8" pgmap="601(33) 602(16)">We then hold, both upon principle and authority, that mar­riage does not give a female infant a capacity to convey real estate, and that our statute enabling a married woman to' con­vey her lands, only relieves her from the inability to contract which marriage attaches to her.</p>
+                <p id="b602-5" pgmap="602">It follows that the deed of the plaintiff and her husband to Myers, did not pass her estate in the land in controversy.</p>
+                <p id="b602-6" pgmap="602">There is some diversity in the books, as to the proper time of avoiding the deed of an infant; some cases intimating that it cannot be done till the infant arrives of age; some that the dis­affirmance should be before that period, from analogy to the time of avoiding a fine levied, or recovery suffered, and others holding the time to be immaterial,, so that not disavowing the deed shall not be so long delayed as to work its ratification.</p>
+                <p id="b602-7" pgmap="602">Of course, where a former deed is to be invalidated, by a subsequent deed to another person, it must be done after full age, for the same want of capacity that makes the first revoca­ble might annul the second deed. But the act of infancy can ,be revoked by entering upon the land and taking the profits while an infant; and we find no case that denies his right to invoke the aid of chancery to relieve him from the improvi­dence and folly of his immature years; nor, considering the relation of courts of chancery to infants, would we expect to find such' a case.</p>
+                <p id="b602-8" pgmap="602">Although the deed referred to, be invalid as the deed of the plaintiff, it is claimed that her husband had an interest in the land, which passed by the deed as his act, and that, therefore, this suit cannot be maintained.</p>
+                <p id="b602-9" pgmap="602">The husband is entitled to the rents and profits of the estate of inheritance of which the wife was seized at the time of marriage, which is a freehold estate lasting while they shall live. He sues in his own name for an injury to the profits of the land, his interest may be seized and sold on execution. 2 Kent 130, 131; 1 Bright's Husband and Wife, ch. IX, 113; Reeve's Dom. Relations, 27.</p>
+                <p id="b602-10" pgmap="602">But if actual possession be necessary to create this life estate, it may be doubted whether the plaintiff, at the time of marriage, had, or whether the husband, since, has had such possession as to vest in him any interest, which would pass by his deed.</p>
+                <p id="b603-5" pgmap="603">In McDaniel vs. Grace, 15 Ark. 485, this court, after stating that the curtesy of the husband had been extended by modern decisions to equitable estates, to contingent uses, and to money to be laid out in land, declined to extend it to a pre-emption right. But a pre-emption Kight is not an estate, it is only a privilege of being a preferred purchaser of land, and has not attached to it the incidents of realty.</p>
+                <p id="b603-6" pgmap="603">A reason why seizin in fact was necessary to uphold curtesy by the common law was, that the issue of the marriage could not inherit that of which there was only a seizin in law, and there could be no curtesy but when the issue could by possibil­ity inherit the estate of its mother.</p>
+                <p id="b603-7" pgmap="603">But wúth us, the law may be assumed to be, that, whatever real right, or claim an ancestor has by deed only, it descends to his heir; and such is now the law in England by a late enact­ment of parliament. Certainly what will pass to an assignee or vendee, will be cast upon the heir by descent.</p>
+                <p id="b603-8" pgmap="603">But it is not necessary to look upon this case as requiring the essentials to make the husband a tenant of the curtesy, for he is only entitled to the rents and profits till the death of the wife. Though, from a fact disclosed in the evidence,- Presley Harrod is tenant by curtesy initiate, yet the estate of curtesy cannot vest in him, nor can he transfer it during his wife’s life. Bright's Husband and Wife, ch. X. 116, 124.</p>
+                <p id="b603-9" pgmap="603">In Elliott vs. Pierce, 20 Ark. 508, a deed of Putnam and wife, of Mrs. Putnam’s land, defectively acknowledged by her, was held to pass the life interest of Putnam, which was the right to the rents and profits during the joint lives of himself and wife. And from the report of the case, it is inferred that neither of them ever had an actual possession of the land, although no point was made upon that fact before this court.</p>
+                <p id="b603-10" pgmap="603(62) 604(41)">We think the better opinion to be, that the deed of the hus­band and wife, that is, of the plaintiff and Presley Harrod, is valid to transfer the right to the rents and profits, and of course to the possession of the land, during their joint lives; that if the husband survive the wife, he will then, as tenant by the curtesy, control the land during his life, or rather, that his ven­dees will do it, and that the deed is otherwise of no effect against the plaintiff and her heirs, and ought to be canceled as against her and them.</p>
+                <p id="b604-5" pgmap="604">The plaintiff is not subject to be met by the defence of a purchase for a valuable consideration without notice of her claim.</p>
+                <p id="b604-6" pgmap="604">When an infant plaintiff, that has title to real estate, has never been divested of that title by any act of her own, she cannot be told, in a suit to recover the possession of land, that another person has derived her title that was never out of her. Such a defence cannot be available against an infant, when no legal or equitable title has ever passed out of the infant.</p>
+                <p id="b604-7" pgmap="604">The result of this opinion is, that the deed of Presley Harrod and of the plaintiff his wife, is to be canceled, so far as it seeks to affect the right of the wife, which deed is invalid against her and her heirs, and the appellant must recover her costs in this court. Let a decree be entered in this court in conformity with this opinion.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="594" ORDERLABEL="592" TYPE="page">
+        <fptr FILEID="tiff_00297_1"/>
+        <fptr FILEID="jp2_00297_1"/>
+        <fptr FILEID="alto_00297_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_594.1" BETYPE="IDREF" FILEID="alto_00297_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_594.2" BETYPE="IDREF" FILEID="alto_00297_1"/>
+              <area BEGIN="BL_594.3" BETYPE="IDREF" FILEID="alto_00297_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="595" ORDERLABEL="593" TYPE="page">
+        <fptr FILEID="tiff_00298_0"/>
+        <fptr FILEID="jp2_00298_0"/>
+        <fptr FILEID="alto_00298_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_595.3" BETYPE="IDREF" FILEID="alto_00298_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_595.2" BETYPE="IDREF" FILEID="alto_00298_0"/>
+              <area BEGIN="BL_595.4" BETYPE="IDREF" FILEID="alto_00298_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="596" ORDERLABEL="594" TYPE="page">
+        <fptr FILEID="tiff_00298_1"/>
+        <fptr FILEID="jp2_00298_1"/>
+        <fptr FILEID="alto_00298_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_596.2" BETYPE="IDREF" FILEID="alto_00298_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_596.3" BETYPE="IDREF" FILEID="alto_00298_1"/>
+              <area BEGIN="BL_596.4" BETYPE="IDREF" FILEID="alto_00298_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="597" ORDERLABEL="595" TYPE="page">
+        <fptr FILEID="tiff_00299_0"/>
+        <fptr FILEID="jp2_00299_0"/>
+        <fptr FILEID="alto_00299_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_597.2" BETYPE="IDREF" FILEID="alto_00299_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_597.1" BETYPE="IDREF" FILEID="alto_00299_0"/>
+              <area BEGIN="BL_597.3" BETYPE="IDREF" FILEID="alto_00299_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="598" ORDERLABEL="596" TYPE="page">
+        <fptr FILEID="tiff_00299_1"/>
+        <fptr FILEID="jp2_00299_1"/>
+        <fptr FILEID="alto_00299_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_598.2" BETYPE="IDREF" FILEID="alto_00299_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_598.3" BETYPE="IDREF" FILEID="alto_00299_1"/>
+              <area BEGIN="BL_598.4" BETYPE="IDREF" FILEID="alto_00299_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="599" ORDERLABEL="597" TYPE="page">
+        <fptr FILEID="tiff_00300_0"/>
+        <fptr FILEID="jp2_00300_0"/>
+        <fptr FILEID="alto_00300_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_599.3" BETYPE="IDREF" FILEID="alto_00300_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_599.2" BETYPE="IDREF" FILEID="alto_00300_0"/>
+              <area BEGIN="BL_599.4" BETYPE="IDREF" FILEID="alto_00300_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="600" ORDERLABEL="598" TYPE="page">
+        <fptr FILEID="tiff_00300_1"/>
+        <fptr FILEID="jp2_00300_1"/>
+        <fptr FILEID="alto_00300_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_600.2" BETYPE="IDREF" FILEID="alto_00300_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_600.3" BETYPE="IDREF" FILEID="alto_00300_1"/>
+              <area BEGIN="BL_600.4" BETYPE="IDREF" FILEID="alto_00300_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="601" ORDERLABEL="599" TYPE="page">
+        <fptr FILEID="tiff_00301_0"/>
+        <fptr FILEID="jp2_00301_0"/>
+        <fptr FILEID="alto_00301_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_601.3" BETYPE="IDREF" FILEID="alto_00301_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_601.2" BETYPE="IDREF" FILEID="alto_00301_0"/>
+              <area BEGIN="BL_601.4" BETYPE="IDREF" FILEID="alto_00301_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="602" ORDERLABEL="600" TYPE="page">
+        <fptr FILEID="tiff_00301_1"/>
+        <fptr FILEID="jp2_00301_1"/>
+        <fptr FILEID="alto_00301_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_602.2" BETYPE="IDREF" FILEID="alto_00301_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_602.3" BETYPE="IDREF" FILEID="alto_00301_1"/>
+              <area BEGIN="BL_602.4" BETYPE="IDREF" FILEID="alto_00301_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="603" ORDERLABEL="601" TYPE="page">
+        <fptr FILEID="tiff_00302_0"/>
+        <fptr FILEID="jp2_00302_0"/>
+        <fptr FILEID="alto_00302_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_603.2" BETYPE="IDREF" FILEID="alto_00302_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_603.1" BETYPE="IDREF" FILEID="alto_00302_0"/>
+              <area BEGIN="BL_603.3" BETYPE="IDREF" FILEID="alto_00302_0"/>
+              <area BEGIN="BL_603.10" BETYPE="IDREF" FILEID="alto_00302_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="604" ORDERLABEL="602" TYPE="page">
+        <fptr FILEID="tiff_00302_1"/>
+        <fptr FILEID="jp2_00302_1"/>
+        <fptr FILEID="alto_00302_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_604.2" BETYPE="IDREF" FILEID="alto_00302_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_604.3" BETYPE="IDREF" FILEID="alto_00302_1"/>
+              <area BEGIN="BL_604.4" BETYPE="IDREF" FILEID="alto_00302_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b594-12" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_594.10" BETYPE="IDREF" FILEID="alto_00297_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b594-13" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_594.11" BETYPE="IDREF" FILEID="alto_00297_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b594-10" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_594.8" BETYPE="IDREF" FILEID="alto_00297_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b594-11" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_594.9" BETYPE="IDREF" FILEID="alto_00297_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b594-14" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_594.12" BETYPE="IDREF" FILEID="alto_00297_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b594-15" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_594.13" BETYPE="IDREF" FILEID="alto_00297_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ANe" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_594.14" BETYPE="IDREF" FILEID="alto_00297_1"/>
+            <area BEGIN="BL_595.1" BETYPE="IDREF" FILEID="alto_00298_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b603-6" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_603.5" BETYPE="IDREF" FILEID="alto_00302_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b602-6" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_602.6" BETYPE="IDREF" FILEID="alto_00301_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b602-7" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_602.7" BETYPE="IDREF" FILEID="alto_00301_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b602-5" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_602.5" BETYPE="IDREF" FILEID="alto_00301_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b602-8" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_602.8" BETYPE="IDREF" FILEID="alto_00301_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b602-9" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_602.9" BETYPE="IDREF" FILEID="alto_00301_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b598-5" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_598.5" BETYPE="IDREF" FILEID="alto_00299_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b597-11" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_597.11" BETYPE="IDREF" FILEID="alto_00299_0"/>
+            <area BEGIN="BL_598.1" BETYPE="IDREF" FILEID="alto_00299_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b598-7" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_598.7" BETYPE="IDREF" FILEID="alto_00299_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b596-8" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_596.7" BETYPE="IDREF" FILEID="alto_00298_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b596-9" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_596.8" BETYPE="IDREF" FILEID="alto_00298_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b596-6" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_596.5" BETYPE="IDREF" FILEID="alto_00298_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b596-7" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_596.6" BETYPE="IDREF" FILEID="alto_00298_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b604-7" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_604.7" BETYPE="IDREF" FILEID="alto_00302_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b598-8" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_598.8" BETYPE="IDREF" FILEID="alto_00299_1"/>
+            <area BEGIN="BL_599.1" BETYPE="IDREF" FILEID="alto_00300_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b604-6" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_604.6" BETYPE="IDREF" FILEID="alto_00302_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b604-5" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_604.5" BETYPE="IDREF" FILEID="alto_00302_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b597-9" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_597.9" BETYPE="IDREF" FILEID="alto_00299_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b597-8" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_597.8" BETYPE="IDREF" FILEID="alto_00299_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b597-7" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_597.7" BETYPE="IDREF" FILEID="alto_00299_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b597-6" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_597.6" BETYPE="IDREF" FILEID="alto_00299_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b597-5" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_597.5" BETYPE="IDREF" FILEID="alto_00299_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b597-4" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_597.4" BETYPE="IDREF" FILEID="alto_00299_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b600-8" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_600.9" BETYPE="IDREF" FILEID="alto_00300_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b603-8" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_603.7" BETYPE="IDREF" FILEID="alto_00302_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AnF" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_595.6" BETYPE="IDREF" FILEID="alto_00298_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b599-9" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_599.9" BETYPE="IDREF" FILEID="alto_00300_0"/>
+            <area BEGIN="BL_600.1" BETYPE="IDREF" FILEID="alto_00300_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b599-8" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_599.8" BETYPE="IDREF" FILEID="alto_00300_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b597-10" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_597.10" BETYPE="IDREF" FILEID="alto_00299_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b602-10" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_602.10" BETYPE="IDREF" FILEID="alto_00301_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b603-10" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_603.9" BETYPE="IDREF" FILEID="alto_00302_0"/>
+            <area BEGIN="BL_604.1" BETYPE="IDREF" FILEID="alto_00302_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b599-5" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_599.5" BETYPE="IDREF" FILEID="alto_00300_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b599-7" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_599.7" BETYPE="IDREF" FILEID="alto_00300_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b599-6" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_599.6" BETYPE="IDREF" FILEID="alto_00300_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b595-5" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_595.5" BETYPE="IDREF" FILEID="alto_00298_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b600-9" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_600.10" BETYPE="IDREF" FILEID="alto_00300_1"/>
+            <area BEGIN="BL_601.1" BETYPE="IDREF" FILEID="alto_00301_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b595-7" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_595.8" BETYPE="IDREF" FILEID="alto_00298_0"/>
+            <area BEGIN="BL_596.1" BETYPE="IDREF" FILEID="alto_00298_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b595-6" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_595.7" BETYPE="IDREF" FILEID="alto_00298_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b594-4" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_594.4" BETYPE="IDREF" FILEID="alto_00297_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b601-8" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_601.7" BETYPE="IDREF" FILEID="alto_00301_0"/>
+            <area BEGIN="BL_602.1" BETYPE="IDREF" FILEID="alto_00301_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b603-5" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_603.4" BETYPE="IDREF" FILEID="alto_00302_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b594-7" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_594.5" BETYPE="IDREF" FILEID="alto_00297_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b594-8" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_594.6" BETYPE="IDREF" FILEID="alto_00297_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b594-9" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_594.7" BETYPE="IDREF" FILEID="alto_00297_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b601-7" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_601.6" BETYPE="IDREF" FILEID="alto_00301_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b601-6" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_601.5" BETYPE="IDREF" FILEID="alto_00301_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b600-6" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_600.7" BETYPE="IDREF" FILEID="alto_00300_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b600-7" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_600.8" BETYPE="IDREF" FILEID="alto_00300_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b603-7" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_603.6" BETYPE="IDREF" FILEID="alto_00302_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aqe" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_600.5" BETYPE="IDREF" FILEID="alto_00300_1"/>
+            <area BEGIN="BL_600.6" BETYPE="IDREF" FILEID="alto_00300_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b598-6" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_598.6" BETYPE="IDREF" FILEID="alto_00299_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b603-9" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_603.8" BETYPE="IDREF" FILEID="alto_00302_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

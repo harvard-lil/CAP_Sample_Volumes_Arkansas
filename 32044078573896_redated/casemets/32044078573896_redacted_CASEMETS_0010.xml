@@ -1,0 +1,338 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0010" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Bouldin v. State">Bouldin ad. of Paup vs. The State; Dixon ad. of Trigg vs. The State</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 84</citation>
+          <decisiondate>1860-01</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00043_1" MIMETYPE="image/tiff" CHECKSUM="24da26ba22c56e8d835390bf84c22d0f" CHECKSUMTYPE="MD5" SIZE="31268">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00043_1.tif"/>
+      </file>
+      <file ID="tiff_00044_0" MIMETYPE="image/tiff" CHECKSUM="e5cfd7e8dcbf67127b923a0f0dfed0aa" CHECKSUMTYPE="MD5" SIZE="31664">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00044_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00043_1" MIMETYPE="image/jp2" CHECKSUM="d1eb105792ec5a73e86f22adee456c87" CHECKSUMTYPE="MD5" SIZE="2476664">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00043_1.jp2"/>
+      </file>
+      <file ID="jp2_00044_0" MIMETYPE="image/jp2" CHECKSUM="a911074a0543dc6a7b23a00372a7a83d" CHECKSUMTYPE="MD5" SIZE="2486790">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00044_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00043_1" MIMETYPE="text/xml" CHECKSUM="bafbf44b42f69e0dd9a2fc2b98e0e36b" CHECKSUMTYPE="MD5" SIZE="64808">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00043_1.xml"/>
+      </file>
+      <file ID="alto_00044_0" MIMETYPE="text/xml" CHECKSUM="4401d48e4a92963e80c5a08d5e0bc355" CHECKSUMTYPE="MD5" SIZE="61904">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00044_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0010" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="85" firstpage="84">
+              <parties id="b86-4" pgmap="86">Bouldin ad. of Paup vs. The State. Dixon ad. of Trigg vs. The State.</parties>
+              <judges id="b87-6" pgmap="87">Absent, Mr. Justice Rector.</judges>
+              <attorneys id="b86-10" pgmap="86">Watkins &amp; Gallagher, and Garland for appellants.</attorneys>
+              <attorneys id="b86-11" pgmap="86">S. H. Hempstead, Solicitor General, for the appellee.</attorneys>
+              <summary id="b86-8" pgmap="86">Appeal from the Chancery Court of Pulaski County.</summary>
+              <summary id="b86-9" pgmap="86">Hon. H. F. Fairchild, Chancellor.</summary>
+              <headnotes id="b86-6" pgmap="86">The decisions in The State vs. Paup et al. 13 Arle. 129, and The State vs. Pryor et al. Ib. 142, approved.</headnotes>
+              <headnotes id="b86-7" pgmap="86">A bill to enjoin the collection of a judgment obtained by the State, on the ground that the bond, on which the judgment was obtained, was executed without consid­eration, is not a suit pending against the State within the meaning of the 5th and 6th sections of ch. 166, Gould’s Dig.</headnotes>
+              <opinion type="majority">
+                <author id="b86-12" pgmap="86">Mr. Chief Justice English</author>
+                <p id="A-" pgmap="86">delivered the opinion of the Court.</p>
+                <p id="AO" pgmap="86">On the merits, the material facts in these cases are substan­tially similar, and the question of law identically the same, as in the cases of The State vs. Paup et al. 13 Ark. 129, and the State vs. Prior et al. ib. 142.</p>
+                <p id="b86-13" pgmap="86">The Solicitor General insists that the bills should have been dismissed on the motion of the State, under the act of the 15th January, 1857, (Gould’s Dig. ch. 166, secs. 5, 6); but we are of the opinion, as held by the Chancellor, that these cases do not fall within the purview of that act.</p>
+                <p id="b86-14" pgmap="86(23) 87(149)">Paup and Trigg had been sued by the State, upon bonds exe­cuted by them to her, and judgments obtained by default. These bills were filed to enjoin the collection of the judgments, on the ground that the bonds were executed without consideration, and the bills were pending when the above act was passed. The obligors had the right to elect whether they would inter­pose this defence in the law Court or in chancery, (1 Eng. 317), and having elected to resort to the latter tribunal to set up the defence, the bills before us were filed for that purpose. The object of the bills was not to enforce any claim or demand against the State, but to interpose an equitable defence to claims prosecuted by the State against the complainants, and hence the bills, we think, were not suits pending against the State within the meaning of the act. The bills were filed be­fore the passage of the act of 19th January, 1855, (Gould’s Dig., ch. 166, sec. 4.)</p>
+                <p id="b87-5" pgmap="87">' The decrees must be reversed, and decrees entered here, and certified to the Court below, in accordance with the prayers of the bills.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="86" ORDERLABEL="84" TYPE="page">
+        <fptr FILEID="tiff_00043_1"/>
+        <fptr FILEID="jp2_00043_1"/>
+        <fptr FILEID="alto_00043_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_86.1" BETYPE="IDREF" FILEID="alto_00043_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_86.2" BETYPE="IDREF" FILEID="alto_00043_1"/>
+              <area BEGIN="BL_86.3" BETYPE="IDREF" FILEID="alto_00043_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="87" ORDERLABEL="85" TYPE="page">
+        <fptr FILEID="tiff_00044_0"/>
+        <fptr FILEID="jp2_00044_0"/>
+        <fptr FILEID="alto_00044_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_87.3" BETYPE="IDREF" FILEID="alto_00044_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_87.2" BETYPE="IDREF" FILEID="alto_00044_0"/>
+              <area BEGIN="BL_87.4" BETYPE="IDREF" FILEID="alto_00044_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_87.7" BETYPE="IDREF" FILEID="alto_00044_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b86-9" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_86.9" BETYPE="IDREF" FILEID="alto_00043_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b86-8" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_86.8" BETYPE="IDREF" FILEID="alto_00043_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b86-4" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_86.4" BETYPE="IDREF" FILEID="alto_00043_1"/>
+            <area BEGIN="BL_86.5" BETYPE="IDREF" FILEID="alto_00043_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b86-7" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_86.7" BETYPE="IDREF" FILEID="alto_00043_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b86-6" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_86.6" BETYPE="IDREF" FILEID="alto_00043_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b86-11" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_86.11" BETYPE="IDREF" FILEID="alto_00043_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b86-10" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_86.10" BETYPE="IDREF" FILEID="alto_00043_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b86-13" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_86.15" BETYPE="IDREF" FILEID="alto_00043_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b86-12" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_86.12" BETYPE="IDREF" FILEID="alto_00043_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b86-14" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_86.16" BETYPE="IDREF" FILEID="alto_00043_1"/>
+            <area BEGIN="BL_87.1" BETYPE="IDREF" FILEID="alto_00044_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A-" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_86.13" BETYPE="IDREF" FILEID="alto_00043_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AO" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_86.14" BETYPE="IDREF" FILEID="alto_00043_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b87-5" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_87.5" BETYPE="IDREF" FILEID="alto_00044_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b87-6" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_87.6" BETYPE="IDREF" FILEID="alto_00044_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

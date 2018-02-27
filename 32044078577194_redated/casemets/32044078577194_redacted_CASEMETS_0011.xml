@@ -1,0 +1,396 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0011" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Jackson v. Munson">Cliff JACKSON, Individually and as Representative of Affected Class of Arkansas Taxpayers and Ratepayers v. Honorable Lee A. MUNSON</name>
+          <docketnumber>85-288</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 57</citation>
+          <citation category="parallel" type="bluebook">701 S.W.2d 378</citation>
+          <decisiondate>1986-01-13</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:00Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00042_0" MIMETYPE="image/tiff" CHECKSUM="5125beeb6aea3901173ec9f1f9c3c8ee" CHECKSUMTYPE="MD5" SIZE="24910">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00042_0.tif"/>
+      </file>
+      <file ID="tiff_00042_1" MIMETYPE="image/tiff" CHECKSUM="adf5312e8dbcb05a61883f07264967b9" CHECKSUMTYPE="MD5" SIZE="55036">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00042_1.tif"/>
+      </file>
+      <file ID="tiff_00043_0" MIMETYPE="image/tiff" CHECKSUM="5f8dcfd1c4d5fc43593f4eb714abb337" CHECKSUMTYPE="MD5" SIZE="17364">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00043_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00042_0" MIMETYPE="image/jp2" CHECKSUM="4567ebed1a8c9acd190f21de098a69a3" CHECKSUMTYPE="MD5" SIZE="1956480">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00042_0.jp2"/>
+      </file>
+      <file ID="jp2_00042_1" MIMETYPE="image/jp2" CHECKSUM="ca9da21a7edc4cc99811774586c36985" CHECKSUMTYPE="MD5" SIZE="2520243">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00042_1.jp2"/>
+      </file>
+      <file ID="jp2_00043_0" MIMETYPE="image/jp2" CHECKSUM="c279c5a44d597ce6753b451d7754e9db" CHECKSUMTYPE="MD5" SIZE="1622995">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00043_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00042_0" MIMETYPE="text/xml" CHECKSUM="d28c4e4cf1dc9afb1df1e5b0c9c0c5f6" CHECKSUMTYPE="MD5" SIZE="37942">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00042_0.xml"/>
+      </file>
+      <file ID="alto_00042_1" MIMETYPE="text/xml" CHECKSUM="449f85f1c6297a3cc7d3b8bac5e203c6" CHECKSUMTYPE="MD5" SIZE="93118">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00042_1.xml"/>
+      </file>
+      <file ID="alto_00043_0" MIMETYPE="text/xml" CHECKSUM="6d77f91fab2b4f7ea80865023b9e269e" CHECKSUMTYPE="MD5" SIZE="26898">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00043_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0011" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="57" lastpage="59">
+              <court pgmap="83" id="b83-9">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="83" id="b83-7">85-288</docketnumber>
+              <citation pgmap="83" id="b83-8">701 S.W.2d 378</citation>
+              <parties pgmap="83" id="b83-6">Cliff JACKSON, Individually and as Representative of Affected Class of Arkansas Taxpayers and Ratepayers v. Honorable Lee A. MUNSON</parties>
+              <decisiondate pgmap="83" id="AHD">Opinion delivered January 13, 1986</decisiondate>
+              <judges pgmap="85" id="b85-7">Purtle, J., not participating.</judges>
+              <attorneys pgmap="83" id="b83-14">Cliff Jackson, for appellant.</attorneys>
+              <attorneys pgmap="83" id="b83-15">Mitchell, Williams, Selig, Jackson &amp; Tucker, by: Jerry D. Jackson, for AP&amp;L.</attorneys>
+              <attorneys pgmap="83" id="b83-16">Wright, Lindsey &amp; Jennings, by: N.M. Norton, Jr., and Charles L. Schlumberger, for Arkansas Electric Energy Con­sumers and Reynolds Metals Co.</attorneys>
+              <opinion type="majority">
+                <author pgmap="83" id="b83-17">Per Curiam.</author>
+                <p pgmap="83(71) 84(39)" id="A-">The petitioner was the plaintiff in a suit filed against Arkansas Power and Light Company (AP&amp;L) and others in the chancery court. That suit alleged illegality of a settlement, entered into among the defendants, having to do with AP&amp;L’s liability for a portion of expenses of building the Grand Gulf power generator. In response to a motion to dismiss the suit, the chancellor entered an order on October 15,1985, recognizing the exclusive jurisdiction of the Arkansas Public Service Commission (A.P.S.C.) in utility rate cases but refusing to dismiss the petitioner’s suit until the court was satisfied the petitioner had had an adequate opportunity to exhaust his remedies before the A.P.S.C.</p>
+                <p pgmap="84" id="b84-6">The petitioner then demanded an immediate hearing before the chancellor claiming that AP&amp;L would shut off electricity being used by the petitioner and those being represented by him when they refused to pay rates deemed by them to be illegal. The chancellor denied the motion for an immediate hearing. His order noted that the petitioner had been allowed to participate in pertinent hearings before the A.P.S.C. and that decisions made at those hearings were appealable to the Arkansas Court of Appeals pursuant to Ark. Stat. Ann. § 73-229.1(b) (Supp. 1985). The chancellor also noted that under A.P.S.C. regulations the peti­tioner and those represented by him were in no danger of having their electric power shut off until all hearings on the disputed rate were ended.</p>
+                <p pgmap="84" id="b84-7">The petitioner filed a petition for a writ of mandamus in this court on November 20,1985, asking that we order the chancellor to proceed with the case. With the petition the petitioner filed a motion asking that we expedite the matter. We denied the writ on November 25, 1985, without comment. On December 2, 1985, the petitioner filed a motion asking that we reconsider our decision in light of his brief filed on November 25, 1985.</p>
+                <p pgmap="84" id="b84-8">In both the mandamus petition and the brief the petitioner contends his cause is an “illegal exaction” suit permitted by Ark. Const, art. 16, § 13. He cites a number of cases in which we have held or said that an illegal exaction suit is one which may proceed despite the existence of other adequate remedies. No case is cited, however, in which this court has ordered a trial court to hear an illegal exaction suit in spite of the existence of other remedies.</p>
+                <p pgmap="84" id="b84-9">
+                   Nothing in the petitioner’s brief convinces us we were incorrect. While it is true we have been liberal in permitting illegal exaction suits, see, e.g., Nelson v. Berry, 242 Ark. 273, 413 S.W.2d 46 (1967), we have held that an illegal exaction com­plaint was not proper where exclusive jurisdiction of the underly­ing matter was conferred on the circuit rather than the chancery court. Curry v. Dawson, 238 Ark. 310, 379 S.W.2d 287 (1967).</p>
+                <p pgmap="85" id="b85-5">
+                   More to the point, mandamus is a discretionary remedy which will be granted only when the petitioner has shown “a clear and certain legal right to the relief sought and no other adequate remedy.” Girley v. Wood, 258 Ark. 408, 525 S.W.2d 454 (1975). See also, Naylor v. Goza, 232 Ark. 515, 338 S.W.2d 923 (1961), in which we cited with approval authority for the point that the “other adequate remedy” may be an appeal.</p>
+                <p pgmap="85" id="b85-6">Reconsideration denied.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="83" ORDERLABEL="57" TYPE="page">
+        <fptr FILEID="tiff_00042_0"/>
+        <fptr FILEID="jp2_00042_0"/>
+        <fptr FILEID="alto_00042_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_83.2" BETYPE="IDREF" FILEID="alto_00042_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="84" ORDERLABEL="58" TYPE="page">
+        <fptr FILEID="tiff_00042_1"/>
+        <fptr FILEID="jp2_00042_1"/>
+        <fptr FILEID="alto_00042_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_84.2" BETYPE="IDREF" FILEID="alto_00042_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="85" ORDERLABEL="59" TYPE="page">
+        <fptr FILEID="tiff_00043_0"/>
+        <fptr FILEID="jp2_00043_0"/>
+        <fptr FILEID="alto_00043_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_85.2" BETYPE="IDREF" FILEID="alto_00043_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b83-16" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_83.18" BETYPE="IDREF" FILEID="alto_00042_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b83-14" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_83.16" BETYPE="IDREF" FILEID="alto_00042_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b83-15" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_83.17" BETYPE="IDREF" FILEID="alto_00042_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b84-7" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_84.5" BETYPE="IDREF" FILEID="alto_00042_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b84-6" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_84.4" BETYPE="IDREF" FILEID="alto_00042_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AHD" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_83.9" BETYPE="IDREF" FILEID="alto_00042_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b85-6" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_85.4" BETYPE="IDREF" FILEID="alto_00043_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b85-7" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_85.5" BETYPE="IDREF" FILEID="alto_00043_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b85-5" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_85.3" BETYPE="IDREF" FILEID="alto_00043_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b84-9" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_84.7" BETYPE="IDREF" FILEID="alto_00042_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b83-6" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_83.5" BETYPE="IDREF" FILEID="alto_00042_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b83-7" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_83.6" BETYPE="IDREF" FILEID="alto_00042_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b83-8" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_83.7" BETYPE="IDREF" FILEID="alto_00042_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b83-9" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_83.8" BETYPE="IDREF" FILEID="alto_00042_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b84-8" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_84.6" BETYPE="IDREF" FILEID="alto_00042_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b83-17" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_83.19" BETYPE="IDREF" FILEID="alto_00042_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A-" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_83.20" BETYPE="IDREF" FILEID="alto_00042_0"/>
+            <area BEGIN="BL_83.21" BETYPE="IDREF" FILEID="alto_00042_0"/>
+            <area BEGIN="BL_84.1" BETYPE="IDREF" FILEID="alto_00042_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

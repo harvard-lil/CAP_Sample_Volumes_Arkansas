@@ -1,0 +1,665 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0018" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Ashing v. State">Michael ASHING, et al. v. STATE of Arkansas</name>
+          <docketnumber>CR 85-182</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 75</citation>
+          <citation category="parallel" type="bluebook">702 S.W.2d 20</citation>
+          <decisiondate>1986-01-21</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:00Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00051_0" MIMETYPE="image/tiff" CHECKSUM="ea955b28c0f1e3a1babac59270b5ec9c" CHECKSUMTYPE="MD5" SIZE="7092">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00051_0.tif"/>
+      </file>
+      <file ID="tiff_00051_1" MIMETYPE="image/tiff" CHECKSUM="c98fdba25e360166f1d0947c111d48db" CHECKSUMTYPE="MD5" SIZE="4942">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00051_1.tif"/>
+      </file>
+      <file ID="tiff_00052_0" MIMETYPE="image/tiff" CHECKSUM="5c4a72bc2e6bd7fbd9a25d49d4f2083b" CHECKSUMTYPE="MD5" SIZE="43934">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00052_0.tif"/>
+      </file>
+      <file ID="tiff_00052_1" MIMETYPE="image/tiff" CHECKSUM="15fe0a6cbfcd068b07f4a19900575e85" CHECKSUMTYPE="MD5" SIZE="55670">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00052_1.tif"/>
+      </file>
+      <file ID="tiff_00053_0" MIMETYPE="image/tiff" CHECKSUM="22576a7094fb197ab15d84ea01f7593b" CHECKSUMTYPE="MD5" SIZE="53082">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00053_0.tif"/>
+      </file>
+      <file ID="tiff_00053_1" MIMETYPE="image/tiff" CHECKSUM="59767f5d72819bf082b14f2ebe1dbe25" CHECKSUMTYPE="MD5" SIZE="53030">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00053_1.tif"/>
+      </file>
+      <file ID="tiff_00054_0" MIMETYPE="image/tiff" CHECKSUM="d4003766cd5870e9d0c8ea88206a5f3f" CHECKSUMTYPE="MD5" SIZE="30780">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00054_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00051_0" MIMETYPE="image/jp2" CHECKSUM="0212ae0f6ab5278e6a432dde1496287e" CHECKSUMTYPE="MD5" SIZE="1564797">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00051_0.jp2"/>
+      </file>
+      <file ID="jp2_00051_1" MIMETYPE="image/jp2" CHECKSUM="5b207eb1ca25178ec3edc3cd234a1c1c" CHECKSUMTYPE="MD5" SIZE="1002966">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00051_1.jp2"/>
+      </file>
+      <file ID="jp2_00052_0" MIMETYPE="image/jp2" CHECKSUM="e2d36c32d203733e48e7db6163740684" CHECKSUMTYPE="MD5" SIZE="2850984">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00052_0.jp2"/>
+      </file>
+      <file ID="jp2_00052_1" MIMETYPE="image/jp2" CHECKSUM="1192f72bd28e25c8a118f1bd2b1d0b59" CHECKSUMTYPE="MD5" SIZE="2542613">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00052_1.jp2"/>
+      </file>
+      <file ID="jp2_00053_0" MIMETYPE="image/jp2" CHECKSUM="fdea158377c595bbd8c2ce7c5a5c9f84" CHECKSUMTYPE="MD5" SIZE="2481448">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00053_0.jp2"/>
+      </file>
+      <file ID="jp2_00053_1" MIMETYPE="image/jp2" CHECKSUM="232078c0566a7d015e044814a1f7c2a7" CHECKSUMTYPE="MD5" SIZE="2512573">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00053_1.jp2"/>
+      </file>
+      <file ID="jp2_00054_0" MIMETYPE="image/jp2" CHECKSUM="18c407b6c98be0847061404cb75c3b30" CHECKSUMTYPE="MD5" SIZE="2110968">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00054_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00051_0" MIMETYPE="text/xml" CHECKSUM="b415cf36fbade72275c5f7ce44c0f55a" CHECKSUMTYPE="MD5" SIZE="9019">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00051_0.xml"/>
+      </file>
+      <file ID="alto_00051_1" MIMETYPE="text/xml" CHECKSUM="b4481d61b6e2c2eafa62b7b0024edfb3" CHECKSUMTYPE="MD5" SIZE="3860">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00051_1.xml"/>
+      </file>
+      <file ID="alto_00052_0" MIMETYPE="text/xml" CHECKSUM="25c0a0f8ca976931ed0937c27d592d3d" CHECKSUMTYPE="MD5" SIZE="74501">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00052_0.xml"/>
+      </file>
+      <file ID="alto_00052_1" MIMETYPE="text/xml" CHECKSUM="9b27657252fae806e69290402eb243de" CHECKSUMTYPE="MD5" SIZE="96967">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00052_1.xml"/>
+      </file>
+      <file ID="alto_00053_0" MIMETYPE="text/xml" CHECKSUM="170fed4980f080454ede9abc501998ba" CHECKSUMTYPE="MD5" SIZE="95880">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00053_0.xml"/>
+      </file>
+      <file ID="alto_00053_1" MIMETYPE="text/xml" CHECKSUM="5e104d5d5fd81ba4ef7225723843a6f1" CHECKSUMTYPE="MD5" SIZE="92245">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00053_1.xml"/>
+      </file>
+      <file ID="alto_00054_0" MIMETYPE="text/xml" CHECKSUM="a9b9b1b0eaebffc3e100b9aae00febf4" CHECKSUMTYPE="MD5" SIZE="49602">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00054_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0018" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="75" lastpage="81">
+              <court pgmap="101" id="b101-8">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="101" id="b101-7">CR 85-182</docketnumber>
+              <citation pgmap="101" id="AFP">702 S.W.2d 20</citation>
+              <parties pgmap="101" id="b101-6">Michael ASHING, et al. v. STATE of Arkansas</parties>
+              <decisiondate pgmap="101" id="AVL">Opinion delivered January 21, 1986</decisiondate>
+              <judges pgmap="107" id="b107-9">Purtle, J., not participating.</judges>
+              <attorneys pgmap="102" id="b102-17">John W. Settle, for appellant Michael Ashing.</attorneys>
+              <attorneys pgmap="103" id="b103-5">Orville C. Clift, for appellant Brenda Taulbee.</attorneys>
+              <attorneys pgmap="103" id="b103-6">Steve Clark, Att’y Gen., by: Mary Beth Sudduth, Asst. Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="103" id="b103-7">Steele Hays, Justice.</author>
+                <p pgmap="103" id="AqK">Appellants Michael Ashing and Brenda Taulbee were charged with first degree murder of Iris Taulbee, Brenda’s mother, who was shot and killed on August 23, 1984. A motion was made to transfer the cause to juvenile court on the grounds that Michael Ashing was sixteen and Brenda Taulbee was fourteen the date of the murder. The motion was denied after a hearing and appellants were tried in circuit court. The jury returned a verdict of guilty of murder in the first degree, and Taulbee and Ashing were each sentenced to fifteen years.</p>
+                <p pgmap="103" id="b103-8">
+                   Act 390 of 1981 [Ark. Stat. Ann. § 45-420 (Supp. 1983)] deals with the procedure for transfer of a juvenile’s case and provides in part:</p>
+                <blockquote pgmap="103" id="b103-9">In making the decision whether to retain jurisdiction of the case or to transfer the case to another court having jurisdiction over the matter, the court shall consider only the following factors:</blockquote>
+                <blockquote pgmap="103" id="b103-10">(a) The seriousness of the offense and whether vio­lence was employed by the juvenile in the commission of the offense.</blockquote>
+                <blockquote pgmap="103" id="b103-11">(b) Whether the offense is part of a repetitive pattern of adjudicated offenses which would lead to the determina­tion that the juvenile is beyond rehabilitation under existing rehabilitation programs, as evidenced by past efforts to treat and rehabilitate the juvenile and the response to such efforts.</blockquote>
+                <blockquote pgmap="103" id="b103-12">(c) The prior history, character traits and mental maturity, and any other factors which reflect on the juvenile’s prospects for rehabilitation.</blockquote>
+                <p pgmap="103" id="b103-13">On appeal appellants maintain that the court did not take into consideration all three elements of the statute. We reject the argument.</p>
+                <p pgmap="103(24) 104(106)" id="b103-14">The first case to apply this statute was Franklin v. State, 7 Ark. App. 75, 644 S.W.2d 318 (1983). There the court noted that under an earlier act, Act 451 of 1975, the question of the transfer of a case of this nature to the juvenile court was discretionary with the trial judge and our cases had held the ruling would not be disturbed unless that discretion was abused. The Franklin court went on to say that under the current act, Act 390 of 1981, the judge shall, on his own motion or the motion of either party, conduct a hearing on the question of transfer and noted that the act narrowed the exercise of the judge’s discretion to a considera­tion of the three factors mentioned in the act.</p>
+                <p pgmap="104" id="b104-6">In Franklin, the appellant had committed rape, aggravated robbery and theft. The court said the “seriousness of the crimes and the violence with which they were perpetrated would alone appear to be sufficient to sustain the court’s refusal to transfer these causes to the juvenile court.” The court found the second criterion not fully applicable, for there were no adjudicated offenses from which past efforts to treat and rehabilitate the juvenile could be evaluated. The court noted, however, there had been previous criminal activity. There was testimony that the prospects of appellant’s rehabilitation were poor — violent tem­per, hostility, and lack of remorse. And volition and premedita­tion were demonstrated by deliberate attempts to cover up the crime. In overruling the motion to transfer, the trial judge gave his reasons and demonstrated that consideration had been given to all of the criteria set forth in § 45-420.</p>
+                <p pgmap="104" id="b104-7">
+                   In this case, it does not appear that proof of each factor was necessarily adverse to the appellants. However, there is no requirement in the statute that equal weight be given to each factor, or that proof on all factors must be against the appellants in order for the court to retain jurisdiction. Other jurisdictions with similar statutes have reached the same conclusions.<footnotemark>1</footnotemark> People v. Taylor, 76 Ill.2d 289, 29 Ill. Dec. 103, 391 N.E.2d 366 (1979); Hazell v. State, 12 Md.App. 144, 277 A.2d 639 (1971).</p>
+                <p pgmap="104(30) 105(128)" id="b104-8">Here the nature of the crime was given primary considera­tion by the trial court. The appellants were dating each other and Mrs. Taulbee disapproved. The appellants discussed how they might murder her so they could “get on with their lives,” and agreed that Michael would kill Mrs. Taulbee. He came to the Taulbee trailer late at night with a gun belonging to his father. Michael told Mrs. Taulbee there was some trouble at his house and while they discussed the matter he shot her in the back of the head. Michael and Brenda left the trailer but returned after a few minutes to see if Mrs. Taulbee was still alive. Michael then proceeded to shoot Mrs. Taulbee until the gun was empty. Michael and Brenda disposed of the murder weapon and spent several hours deciding how to conceal their participation in the murder. When initially questioned by police, Brenda relayed the story she and Michael had devised.</p>
+                <p pgmap="105" id="b105-6">
+                   The seriousness and violence of this crime might alone be sufficient to sustain the refusal to transfer to juvenile court, but additionally, there was no significant showing on behalf of the appellants for the prospects of rehabilitation. Under the circum­stances the trial court’s discretion in refusing to transfer the cases was not abused.</p>
+                <p pgmap="105" id="b105-7">
+                   The appellant urges there is no “analysis” by the trial court in reaching its conclusion. There is no requirement in the act that a statement of reasons be given, even so, the record shows the foundation of the court’s finding and provides a sufficient basis for review. It is clear enough the trial court found that evidence in support of the motion to transfer did not outweigh the seriousness of the offense. Quoting from the record:</p>
+                <blockquote pgmap="105" id="b105-8">The Court just feels that after considering the evidence and the facts in this case that a charge of first degree murder as indicated by the facts in this case is not one that should be dealt with by the Juvenile court. Many of the matters that have been suggested by the attorneys. . . are matters that the Court feels can properly be made to a jury for its consideration. . . . The Court is going to hold that considering all the facts of this matter, and for the nature of the charge, that this is a case where the defendants should be brought to trial before a circuit court.</blockquote>
+                <p pgmap="105" id="b105-9">As the second point on appeal appellants take a novel approach to Ark. Stat. Ann. § 41-617, which provides for the charging of juveniles of certain ages in either circuit or juvenile court. That portion of the statute reads:</p>
+                <blockquote pgmap="106" id="b106-5">(2) If a person was at least fifteen (15) years of age but less than eighteen (18) years of age at the time of the conduct alleged to constitute an offense, he may be charged either in circuit, municipal or juvenile court. If he is charged in circuit or municipal court, such court may enter any order waiving jurisdiction and transfer the proceedings to juve­nile court. If a person fourteen (14) years of age commits first degree murder, second degree murder, or rape [,] such person may be prosecuted by the prosecuting attorney at his discretion, or if the prosecutor does not choose to prosecute such person, proceedings shall be instituted against such person in the appropriate juvenile court. (Our italics).</blockquote>
+                <p pgmap="106" id="b106-6">
+                   Appellants argue that by using the word “commits,” the statute requires proof by the state that a person fourteen years of age is actually guilty of the crime charged before jurisdiction can be retained in circuit court. But that would require a strained interpretation of the statute. In the context of the act, the intent of the legislature is clear: If a person fourteen years of age is charged with first degree murder, the prosecuting attorney has the discretion to decide whether such person is charged in circuit court. It is our duty, when the context so indicates, to substitute one word for another to give effect to what was evidently the intention of the legislature. State v. Banks, 271 Ark. 331, 609 S.W.2d 10 (1980).</p>
+                <p pgmap="106" id="b106-7">
+                   Here, the context alone is sufficient to make the intent clear, and that conclusion is bolstered by the language of the emergency clause to Act 793 of 1981, amending the original act which gave exclusive jurisdiction over fourteen year olds to juvenile court. The legislature determined that for certain of­fenses fourteen year olds could be prosecuted as adults, and the emergency clause of Act 793 indicates the intent was to adopt stronger measures than were provided by the existing law:</p>
+                <blockquote pgmap="106(62) 107(40)" id="b106-8">It is hereby found and determined by the General Assem­bly that the present Arkansas law provides that a person who is fourteen years of age at the time of commission of a crime may not be prosecuted for such offense; that there are many instances in which persons of fourteen years of age have committed premeditated murder but due to the present law can only be dealt with as juveniles; that this situation results in a mockery of justice and that the Act is immediately necessary to allow persons fourteen years of age to be prosecuted for criminal offenses. . .</blockquote>
+                <p pgmap="107" id="b107-6">
+                   Additionally, while recognizing that penal statutes áre given a strict construction, the rule is not so rigid that it does not give way to the obvious legislative intent or bow to the plain policy and purposes of the statute. Sutherland, Statutory Con­struction, § 59.06. The rule of strict construction is not the enemy of common sense and does not require a literal interpretation leading to absurd consequences. Such a reading should be discarded in favor of a more reasonable interpretation. Dollar v. State, 287 Ark. 61, 697 S.W.2d 868 (1985); Fairchild v. State, 286 Ark. 194, 690 S.W.2d 355 (1985);Hice v. State, 268 Ark. 57, 593 S.W.2d 169 (1980).</p>
+                <p pgmap="107" id="b107-7">What appellant suggests would result in a clearly absurd procedure and common sense dictates the more reasonable interpretation, as stated above.</p>
+                <p pgmap="107" id="b107-8">Affirmed.</p>
+                <footnote label="1">
+                  <p pgmap="104" id="b104-9">1 This approach appears to be constitutionally firm. See People v. Taylor, 76 Ill.2d 289, 29 Ill. Dec. 103, 391 N.E.2d 366 (1979) (discussing the constitutionality of its juvenile transfer procedures in light of Kent v. United States, 383 U.S. 541 (1966).</p>
+                </footnote>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="101" ORDERLABEL="75" TYPE="page">
+        <fptr FILEID="tiff_00051_0"/>
+        <fptr FILEID="jp2_00051_0"/>
+        <fptr FILEID="alto_00051_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_101.2" BETYPE="IDREF" FILEID="alto_00051_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="102" ORDERLABEL="76" TYPE="page">
+        <fptr FILEID="tiff_00051_1"/>
+        <fptr FILEID="jp2_00051_1"/>
+        <fptr FILEID="alto_00051_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_102.2" BETYPE="IDREF" FILEID="alto_00051_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="103" ORDERLABEL="77" TYPE="page">
+        <fptr FILEID="tiff_00052_0"/>
+        <fptr FILEID="jp2_00052_0"/>
+        <fptr FILEID="alto_00052_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_103.2" BETYPE="IDREF" FILEID="alto_00052_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="104" ORDERLABEL="78" TYPE="page">
+        <fptr FILEID="tiff_00052_1"/>
+        <fptr FILEID="jp2_00052_1"/>
+        <fptr FILEID="alto_00052_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_104.2" BETYPE="IDREF" FILEID="alto_00052_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="105" ORDERLABEL="79" TYPE="page">
+        <fptr FILEID="tiff_00053_0"/>
+        <fptr FILEID="jp2_00053_0"/>
+        <fptr FILEID="alto_00053_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_105.3" BETYPE="IDREF" FILEID="alto_00053_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="106" ORDERLABEL="80" TYPE="page">
+        <fptr FILEID="tiff_00053_1"/>
+        <fptr FILEID="jp2_00053_1"/>
+        <fptr FILEID="alto_00053_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_106.1" BETYPE="IDREF" FILEID="alto_00053_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="107" ORDERLABEL="81" TYPE="page">
+        <fptr FILEID="tiff_00054_0"/>
+        <fptr FILEID="jp2_00054_0"/>
+        <fptr FILEID="alto_00054_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_107.3" BETYPE="IDREF" FILEID="alto_00054_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b105-8" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_105.6" BETYPE="IDREF" FILEID="alto_00053_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b105-9" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_105.7" BETYPE="IDREF" FILEID="alto_00053_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b106-5" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_106.3" BETYPE="IDREF" FILEID="alto_00053_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b106-7" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_106.5" BETYPE="IDREF" FILEID="alto_00053_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b106-6" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_106.4" BETYPE="IDREF" FILEID="alto_00053_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b104-7" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_104.5" BETYPE="IDREF" FILEID="alto_00052_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AqK" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_103.6" BETYPE="IDREF" FILEID="alto_00052_0"/>
+            <area BEGIN="BL_103.7" BETYPE="IDREF" FILEID="alto_00052_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b105-6" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_105.4" BETYPE="IDREF" FILEID="alto_00053_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b105-7" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_105.5" BETYPE="IDREF" FILEID="alto_00053_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AFP" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_101.7" BETYPE="IDREF" FILEID="alto_00051_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b103-6" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_103.4" BETYPE="IDREF" FILEID="alto_00052_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b103-7" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_103.5" BETYPE="IDREF" FILEID="alto_00052_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b103-8" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_103.8" BETYPE="IDREF" FILEID="alto_00052_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b103-9" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_103.9" BETYPE="IDREF" FILEID="alto_00052_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b104-9" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_104.7" BETYPE="IDREF" FILEID="alto_00052_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b104-8" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_104.6" BETYPE="IDREF" FILEID="alto_00052_1"/>
+            <area BEGIN="BL_105.1" BETYPE="IDREF" FILEID="alto_00053_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b103-13" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_103.13" BETYPE="IDREF" FILEID="alto_00052_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b103-10" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_103.10" BETYPE="IDREF" FILEID="alto_00052_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b103-11" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_103.11" BETYPE="IDREF" FILEID="alto_00052_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b103-14" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_103.14" BETYPE="IDREF" FILEID="alto_00052_0"/>
+            <area BEGIN="BL_104.1" BETYPE="IDREF" FILEID="alto_00052_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b103-12" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_103.12" BETYPE="IDREF" FILEID="alto_00052_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b106-8" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_106.6" BETYPE="IDREF" FILEID="alto_00053_1"/>
+            <area BEGIN="BL_107.1" BETYPE="IDREF" FILEID="alto_00054_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AVL" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_101.9" BETYPE="IDREF" FILEID="alto_00051_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b101-6" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_101.5" BETYPE="IDREF" FILEID="alto_00051_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b101-7" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_101.6" BETYPE="IDREF" FILEID="alto_00051_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b101-8" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_101.8" BETYPE="IDREF" FILEID="alto_00051_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b104-6" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_104.4" BETYPE="IDREF" FILEID="alto_00052_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b102-17" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_102.12" BETYPE="IDREF" FILEID="alto_00051_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b107-6" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_107.4" BETYPE="IDREF" FILEID="alto_00054_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b107-7" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_107.5" BETYPE="IDREF" FILEID="alto_00054_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b107-8" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_107.6" BETYPE="IDREF" FILEID="alto_00054_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b107-9" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_107.7" BETYPE="IDREF" FILEID="alto_00054_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b103-5" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_103.3" BETYPE="IDREF" FILEID="alto_00052_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,411 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0079" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Miller v. Scott">Miller, Auditor vs. Scott</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 396</citation>
+          <decisiondate>1860-07</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00199_1" MIMETYPE="image/tiff" CHECKSUM="02f9773a4ec1302a58d128c7db4d7ad4" CHECKSUMTYPE="MD5" SIZE="34908">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00199_1.tif"/>
+      </file>
+      <file ID="tiff_00200_0" MIMETYPE="image/tiff" CHECKSUM="e9a97230374363c61903f8dba835a964" CHECKSUMTYPE="MD5" SIZE="50752">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00200_0.tif"/>
+      </file>
+      <file ID="tiff_00200_1" MIMETYPE="image/tiff" CHECKSUM="4dac4d9d648088ae3a8bb449fea96e38" CHECKSUMTYPE="MD5" SIZE="30250">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00200_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00199_1" MIMETYPE="image/jp2" CHECKSUM="e32028597df05ae8dee0a739c693a2e0" CHECKSUMTYPE="MD5" SIZE="2597394">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00199_1.jp2"/>
+      </file>
+      <file ID="jp2_00200_0" MIMETYPE="image/jp2" CHECKSUM="fcde6f6bf9ab0f8bcc75199f7ca6f657" CHECKSUMTYPE="MD5" SIZE="3093104">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00200_0.jp2"/>
+      </file>
+      <file ID="jp2_00200_1" MIMETYPE="image/jp2" CHECKSUM="72be159f9933b2bc3016bdce3be935ba" CHECKSUMTYPE="MD5" SIZE="2547686">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00200_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00199_1" MIMETYPE="text/xml" CHECKSUM="63d584dc73f129e8877b3086e9a0a874" CHECKSUMTYPE="MD5" SIZE="65623">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00199_1.xml"/>
+      </file>
+      <file ID="alto_00200_0" MIMETYPE="text/xml" CHECKSUM="35556c69512de7beeca809a921f8229c" CHECKSUMTYPE="MD5" SIZE="93456">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00200_0.xml"/>
+      </file>
+      <file ID="alto_00200_1" MIMETYPE="text/xml" CHECKSUM="fc1db20f07dcab2101b02e1fa576353a" CHECKSUMTYPE="MD5" SIZE="59842">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00200_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0079" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="398" firstpage="396">
+              <parties id="b398-5" pgmap="398">Miller, Auditor vs. Scott.</parties>
+              <attorneys id="b398-9" pgmap="398">Hempstead, Solicitor General, for the Auditor.</attorneys>
+              <attorneys id="b398-11" pgmap="398">Fowler &amp; Stillwell, for the appelleei</attorneys>
+              <summary id="b398-7" pgmap="398">Appeal from Pulaski Circuit Court.</summary>
+              <summary id="b398-8" pgmap="398">Hon. John J. Clendenin, Circuit Judge.</summary>
+              <summary id="b398-10" pgmap="398">The general authority of the plaintiff’s attorney ceases with the judgment. Jackson vs. Bartlett, 8 J. R. 361; Commissioners vs. Rose, 1 Dessau. 469; Treasurer vs. McDowell, 1 Dill 184; Richardson vs. Talbot, 2 Bibb, 382. But even if it should be conceded that, in ordinary cases, the authority of the attorney does not cease with the judgment; yet in a case like this, he would have no authority to draw msney from the treasury, without the written authority of the client, and that authority to be filed with the Auditor, to show why he issued a warrant to a person to whom the appropriation was not made.</summary>
+              <summary id="b398-12" pgmap="398">The power of the attorney of record does not cease till his client’s judgment is satisfied. 5 Pet. R. 113; 10 J, R . 222; 5 Rand. 645; 3 Stewart’s Ala. Rep. 27; 2 Smcdes Sr Mar. 83; 9 lb. 263; 11. Ark. 229.</summary>
+              <headnotes id="b398-6" pgmap="398">An attorney who has obtained a judgment for his client against the State, and for the payment of which an appropriation has been made, is authorized, by virtue of his retainer, to receive from the auditor his warrant for the money, and to execute, in the name of his client, a proper receipt therefor.</headnotes>
+              <opinion type="majority">
+                <author id="b398-13" pgmap="398">Mr. Chief Justice English</author>
+                <p id="Aeu" pgmap="398">delivered the opinion of the court.</p>
+                <p id="b398-14" pgmap="398(12) 399(123)">Wm. C. Scott, in a suit brought and conducted by Fowler, as his attorney, obtained a judgment, in the Pulaski Circuit Court, against the State. Afterwards, Fowler, as such attorney, and his partner in the practice of the law, presented a transcript of the judgment to the General Assembly, with a petition praying-­an appropriation to pay the judgment, etc. By the appropria­tion act of 1856, the sum of $668 was appropriated to pay Win. C. Scott, a judgment recovered against the State on the 10th of June, 1854; provided, that it should nottake effect until after the 10th of June, 1857, nor then, if the State should, on or before that day, by writ of error, contest the right of the plaintiff in said suit in the Supreme Court. Acts 1856, p. 140.</p>
+                <p id="b399-5" pgmap="399">After the 10th of June, 1857, the State not having sued out a writ of error, Fowler, as the attorney of Scott, applied to the Auditor of Public Accounts for his warrant upon the State Treasurer for the amount appropriated to pay the judgment, which was refused. Whereupon Scott, by Fowler as attorney, applied to the Circuit Court of Pulaski county for a mandamus against the Auditor, to compel him to issue his warrant, etc.</p>
+                <p id="b399-6" pgmap="399">The Auditor in his response insisted that he was not autho­rized to issue the warrant to any person but Scott, or to some one specially empowered by him to receive it; that Fowler, by virtue of his general retainer as the attorney of Scott in the suit in which the judgment was recovered against the State, was not entitled to receive the warrant, and having no special authority from Scott, he had refused to issue and deliver the warrant to him.</p>
+                <p id="b399-7" pgmap="399">A demurrer was sustained to the response, a peremptory mandamus awarded, and the Auditor appealed. ,</p>
+                <p id="b399-8" pgmap="399">The authority of Fowler, as the attorney of Scott, did not cease on the recovery of judgment against the State, as sup­posed by the Solicitor General.</p>
+                <p id="b399-9" pgmap="399(59) 400(34)">In an ordinary suit against an individual, the authority of the attorney, employed to collect a debt, continues after the judg­ment until the money is made, and he has the authority, and it is his duty, as a general rule, to sue out execution on the judg­ment, and he may receive the money from the defendant, or from the sheriff, when collected, give a receipt therefor, or enter satisfaction of the judgment. Such is the practice in this State. See Pennington vs. Yell, 6 Eng. 229; Dig., chap. 96, sec. 23.</p>
+                <p id="b400-5" pgmap="400">In this case, the judgment being against the State, no execu­tion could issue. The only mode of obtaining satisfaction of the judgment was to apply to the General Assembly for an appropriation {Eng. Dig., chap. 185, sec. 6,) as was done by the attorney of record who obtained the judgment; and who, we think, by virtue of his general retainer in the cause, was autho­rised, in the absence of some showing to the contrary, to receive the warrant of the Auditor for the money appropriated to pay the judgment, and to execute, in the name of his client, a proper receipt therefor.</p>
+                <p id="b400-6" pgmap="400">The judgment is affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="398" ORDERLABEL="396" TYPE="page">
+        <fptr FILEID="tiff_00199_1"/>
+        <fptr FILEID="jp2_00199_1"/>
+        <fptr FILEID="alto_00199_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_398.1" BETYPE="IDREF" FILEID="alto_00199_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_398.2" BETYPE="IDREF" FILEID="alto_00199_1"/>
+              <area BEGIN="BL_398.3" BETYPE="IDREF" FILEID="alto_00199_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="399" ORDERLABEL="397" TYPE="page">
+        <fptr FILEID="tiff_00200_0"/>
+        <fptr FILEID="jp2_00200_0"/>
+        <fptr FILEID="alto_00200_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_399.3" BETYPE="IDREF" FILEID="alto_00200_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_399.2" BETYPE="IDREF" FILEID="alto_00200_0"/>
+              <area BEGIN="BL_399.4" BETYPE="IDREF" FILEID="alto_00200_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="400" ORDERLABEL="398" TYPE="page">
+        <fptr FILEID="tiff_00200_1"/>
+        <fptr FILEID="jp2_00200_1"/>
+        <fptr FILEID="alto_00200_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_400.2" BETYPE="IDREF" FILEID="alto_00200_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_400.3" BETYPE="IDREF" FILEID="alto_00200_1"/>
+              <area BEGIN="BL_400.4" BETYPE="IDREF" FILEID="alto_00200_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_400.7" BETYPE="IDREF" FILEID="alto_00200_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b399-7" BETYPE="IDREF" FILEID="casebody_0079"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_399.7" BETYPE="IDREF" FILEID="alto_00200_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b399-6" BETYPE="IDREF" FILEID="casebody_0079"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_399.6" BETYPE="IDREF" FILEID="alto_00200_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b398-8" BETYPE="IDREF" FILEID="casebody_0079"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_398.7" BETYPE="IDREF" FILEID="alto_00199_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b398-9" BETYPE="IDREF" FILEID="casebody_0079"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_398.8" BETYPE="IDREF" FILEID="alto_00199_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b398-6" BETYPE="IDREF" FILEID="casebody_0079"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_398.5" BETYPE="IDREF" FILEID="alto_00199_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b398-7" BETYPE="IDREF" FILEID="casebody_0079"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_398.6" BETYPE="IDREF" FILEID="alto_00199_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b399-9" BETYPE="IDREF" FILEID="casebody_0079"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_399.9" BETYPE="IDREF" FILEID="alto_00200_0"/>
+            <area BEGIN="BL_400.1" BETYPE="IDREF" FILEID="alto_00200_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aeu" BETYPE="IDREF" FILEID="casebody_0079"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_398.13" BETYPE="IDREF" FILEID="alto_00199_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b398-10" BETYPE="IDREF" FILEID="casebody_0079"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_398.9" BETYPE="IDREF" FILEID="alto_00199_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b398-11" BETYPE="IDREF" FILEID="casebody_0079"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_398.10" BETYPE="IDREF" FILEID="alto_00199_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b398-12" BETYPE="IDREF" FILEID="casebody_0079"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_398.11" BETYPE="IDREF" FILEID="alto_00199_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b398-13" BETYPE="IDREF" FILEID="casebody_0079"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_398.12" BETYPE="IDREF" FILEID="alto_00199_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b398-14" BETYPE="IDREF" FILEID="casebody_0079"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_398.14" BETYPE="IDREF" FILEID="alto_00199_1"/>
+            <area BEGIN="BL_399.1" BETYPE="IDREF" FILEID="alto_00200_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b400-6" BETYPE="IDREF" FILEID="casebody_0079"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_400.6" BETYPE="IDREF" FILEID="alto_00200_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b399-5" BETYPE="IDREF" FILEID="casebody_0079"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_399.5" BETYPE="IDREF" FILEID="alto_00200_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b400-5" BETYPE="IDREF" FILEID="casebody_0079"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_400.5" BETYPE="IDREF" FILEID="alto_00200_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b398-5" BETYPE="IDREF" FILEID="casebody_0079"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_398.4" BETYPE="IDREF" FILEID="alto_00199_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b399-8" BETYPE="IDREF" FILEID="casebody_0079"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_399.8" BETYPE="IDREF" FILEID="alto_00200_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

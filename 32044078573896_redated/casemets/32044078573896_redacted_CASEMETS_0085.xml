@@ -1,0 +1,554 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0085" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Baker v. State ex rel. Grimes">Baker et al. vs. State use Grimes ad.</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 405</citation>
+          <decisiondate>1860-07</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00204_0" MIMETYPE="image/tiff" CHECKSUM="aaa44f3862a12c013cb93f49ea46c531" CHECKSUMTYPE="MD5" SIZE="34706">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00204_0.tif"/>
+      </file>
+      <file ID="tiff_00204_1" MIMETYPE="image/tiff" CHECKSUM="39b0d443ebd572e9c2c0fb44c74ddccb" CHECKSUMTYPE="MD5" SIZE="52010">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00204_1.tif"/>
+      </file>
+      <file ID="tiff_00205_0" MIMETYPE="image/tiff" CHECKSUM="2a837cfd80a9867f49863b77110eb321" CHECKSUMTYPE="MD5" SIZE="49864">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00205_0.tif"/>
+      </file>
+      <file ID="tiff_00205_1" MIMETYPE="image/tiff" CHECKSUM="6906175a3aa7c43e8e55d047b3307422" CHECKSUMTYPE="MD5" SIZE="47554">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00205_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00204_0" MIMETYPE="image/jp2" CHECKSUM="6efec77747cd37391b83956ddffc73a4" CHECKSUMTYPE="MD5" SIZE="2587015">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00204_0.jp2"/>
+      </file>
+      <file ID="jp2_00204_1" MIMETYPE="image/jp2" CHECKSUM="dd7aa5ec3d4a17a836fda077c115649d" CHECKSUMTYPE="MD5" SIZE="2647418">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00204_1.jp2"/>
+      </file>
+      <file ID="jp2_00205_0" MIMETYPE="image/jp2" CHECKSUM="f3b397020418f46432664f7bdd832fd8" CHECKSUMTYPE="MD5" SIZE="2782192">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00205_0.jp2"/>
+      </file>
+      <file ID="jp2_00205_1" MIMETYPE="image/jp2" CHECKSUM="674d99282d1cd86dac1543626a7651a3" CHECKSUMTYPE="MD5" SIZE="2675226">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00205_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00204_0" MIMETYPE="text/xml" CHECKSUM="8cb7c64e1c2697685a98d4d7edfd42ba" CHECKSUMTYPE="MD5" SIZE="69134">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00204_0.xml"/>
+      </file>
+      <file ID="alto_00204_1" MIMETYPE="text/xml" CHECKSUM="e3c063e67646da105e80ecf0b112dddc" CHECKSUMTYPE="MD5" SIZE="88962">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00204_1.xml"/>
+      </file>
+      <file ID="alto_00205_0" MIMETYPE="text/xml" CHECKSUM="29fa97d76c718d0034966adb02c5e4e9" CHECKSUMTYPE="MD5" SIZE="87886">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00205_0.xml"/>
+      </file>
+      <file ID="alto_00205_1" MIMETYPE="text/xml" CHECKSUM="7d2d2fa5640dec362eb64b859cee19f3" CHECKSUMTYPE="MD5" SIZE="85123">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00205_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0085" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="408" firstpage="405">
+              <parties id="b407-4" pgmap="407">Baker et al. vs. State use Grimes ad.</parties>
+              <attorneys id="b407-9" pgmap="407">S. F. Clark, for the appellants,</attorneys>
+              <summary id="b407-7" pgmap="407">Appeal from Sebastian Circuit Court.</summary>
+              <summary id="b407-8" pgmap="407">Hon. Felix I. Batson, Circuit Judge.</summary>
+              <summary id="b407-10" pgmap="407">Contended that Baker was not liable to be sued upon his bond until settlement with the Probate Court and an order by the court to pay over any balance of the estate in his hands. Dig. ch. 7, sec. 5; Jones vs. State use, 14 Ark. 170; 2 Eng. 107.</summary>
+              <headnotes id="b407-5" pgmap="407">Where there has been no motion for a new trial, nor any question of law reserved upon the trial of the issue, no point is legitimately presented for the consideration of this court in respect thereof.</headnotes>
+              <headnotes id="b407-6" pgmap="407">No action can be brought upon the bond of a public administrator for his failure to pay over the assets of the estate to the administrator appointed by the Probate Court, until such court shall have adjusted his account and ordered him to pay over any balance that may be found in his hands.</headnotes>
+              <opinion type="majority">
+                <author id="b407-11" pgmap="407">Mr. Chief Justice English</author>
+                <p id="A6B" pgmap="407">delivered the opinion of the court.</p>
+                <p id="b407-12" pgmap="407">This was an action of debt upon the bond of a public admin­istrator.</p>
+                <p id="b407-13" pgmap="407">The action was brought in the name of the State, for the use of Marshall Grimes as surviving administrator of John Booth, deceased, against James J. Baker, sheriff of Sebastian county, the principal in the bond, and Norton, Sutton, Rogers and Spring, securities.</p>
+                <p id="b407-14" pgmap="407">The bond was executed 27th of June, 1853, in the form pre­scribed by the statute.</p>
+                <p id="b407-15" pgmap="407">The declaration, after setting out the bond, assigns a special breach of its condition, in substance as follows:</p>
+                <p id="b408-3" pgmap="408">That, on the 20th of October, 1853, letters of administration upon the estate of John Booth, deceased, were granted to Mar­shall Grimes and Thomas Booth, by the Probate Court of Sebas­tian county; and on the same day it was furthér ordered by said court that Baker, sheriff, etc., and public administrator of the estate of said John Booth, deceased, “ account for, pay and deliver to the said Marshall Grimes and Thomas Booth, adminis­trators of said estate, all the money, property and estate of every kind in his possession.”</p>
+                <p id="b408-4" pgmap="408">That Thomas Booth, co-administrator, afterwards departed this life, leaving Grimes sole administrator.</p>
+                <p id="b408-5" pgmap="408">“ And plaintiff avers that the said James J. Baker, by virtue of his office of public administrator of John Booth, deceased, had, and held in his hands, at the time letters of administration were granted to said Marshall Grimes, etc., on the estate of John Booth, deceased, the sum of six thousand five hundred dollars belonging to said estate, etc.; and being so ordered by the Probate Court, etc., to pay and deliver said sum of money to the said Thomas Booth and Marshall Grimes, wholly failed and refused to pay and deliver said sum of money or any part thereof, to the said Thomas Booth and Marshall Grimes, administrators as aforesaid, or either of them in the lifetime of the said Thomas Booth, but to do so wholly refused, although often requested, and to pay the same since the death of the said Thomas Booth to the said Marshall Grimes, administrator as aforesaid, has wholly failed and refused, although often requested so to do, and still fails and refuses, etc.</p>
+                <p id="b408-6" pgmap="408">The suit was discontinued as to defendant Norton, who was not served with process.</p>
+                <p id="b408-7" pgmap="408">Baker filed a demurrer to the declaration, which was over­ruled, and he rested.</p>
+                <p id="b408-8" pgmap="408(57) 409(50)">The other defendants interposed a plea alleging that Baker had turned over to Booth and Grimes, after letters of adminis­tration were granted to them, all of the' assets of the estate in his hands, etc. The issue was submitted to the court, sitting as a jury, by consent of parties, upon an agreed statement of facts, finding for plaintiff, and damages assessed against the defend­ants for a contested balance of the estate, which the court found, upon the evidence, to be in the hands of Baker, or for which he and his sureties were responsible; and the defendants excepted, set out the evidence, and appealed.</p>
+                <p id="b409-4" pgmap="409">1. There having been no motion for a new trial, and no question of law reserved upon the trial of the issue before the court, sitting as a jury, there is no point legitimately presented for the consideration of this court on this branch of the case. State Bank vs. Conway B, 13 Ark. 344; Gardner vs. Miller, (present term.)</p>
+                <p id="b409-5" pgmap="409">2. In the demurrer interposed'by Baker, the objection taken to the special breach of the condition of the bond assigned in the amended declaration is, that there was no allegation that he, as public administrator, had made any settlement of his accounts with the Probate Court; or that the court had made any order directing him to pay or turn over to Grimes and Booth, the regular administrators of the estate, any balance, cr amount, or assets found to be in his hands upon such settle­ment, etc.</p>
+                <p id="AZZ" pgmap="409">By statute, the sheriff of a county is made, by virtue of his office, public administrator; and in certain cases enumerated in the statute, is required to take charge of the estates of deceased persons and administer them. Gould’s Dig. ch. 6.</p>
+                <p id="b409-7" pgmap="409">When the property of any deceased person shall come into the hands of a public administrator, he is required to enter into the like bond and security as prescribed by law in ordinary cases of administration. Ib. sec. 3.</p>
+                <p id="b409-8" pgmap="409">The bond sued on was executed under this section of the statute.</p>
+                <p id="b409-9" pgmap="409">It was the duty of Baker, as public administrator of Booth, to return an inventory of the estate taken by him into his pos­session, and to administer and account for the same, as near as circumstances would permit, according to the law prescribing the duties of administrators, subject to the control and direction of the court of Probate. Ib. sec. 4.</p>
+                <p id="b410-4" pgmap="410">Sec. 5 provides that: “ If at any time, letters testamentary, or of administration be regularly granted on any estate in the hands orunder the control of the public administrator, he shall, under the order of the court of Prolate, account for, pay and deliver to the executor or administrator thus appointed, all the money, property, and estate of every kind in his possession.”</p>
+                <p id="b410-5" pgmap="410">On the grant of letters of administration to Grimes and Booth,'upon the estate in question, it was the duty of the public administrator to render to the Probate Court an account of his administration for adjustment and settlement by the court, and to pay over to the regular administrators any balance of money, property or effects found to be in his hands, after deducting his compensation, costs, etc., under the order of the court. If he failed voluntarily to render an account for settlement, he could have been compelled to do so by rule from the court. After the adjustment and settlement of his account by the court, if he had failed to pay over to the regular administrators any balance of assets found to be in his hands, or for which he was respon­sible, he and his sureties would then be liable to an action upon his bond.</p>
+                <p id="b410-6" pgmap="410">But no action could be brought upon the bond for the failure of the public administrator to pay over assets until the Probate Court had adjusted, his account, and ordered him to pay over any balance found to be in his hands, because the Circuit Court&gt; in an action upon the bond, would not have competent jurisdic­tion to settle his account, fix his compensation, determine his liability for interest on money, and other questions appertaining peculiarly to the jurisdiction of the Probate Court. Jones et al. vs. State use etc., 14 Ark. 171, and cases cited; Egner vs. Mc­Guire ad. 2 Eng. 107.</p>
+                <p id="b410-7" pgmap="410">For the error of the court in overruling the demurrer to the declaration, the judgment must be reversed, and the cause remanded for further proceedings, etc.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="407" ORDERLABEL="405" TYPE="page">
+        <fptr FILEID="tiff_00204_0"/>
+        <fptr FILEID="jp2_00204_0"/>
+        <fptr FILEID="alto_00204_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_407.2" BETYPE="IDREF" FILEID="alto_00204_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_407.1" BETYPE="IDREF" FILEID="alto_00204_0"/>
+              <area BEGIN="BL_407.3" BETYPE="IDREF" FILEID="alto_00204_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="408" ORDERLABEL="406" TYPE="page">
+        <fptr FILEID="tiff_00204_1"/>
+        <fptr FILEID="jp2_00204_1"/>
+        <fptr FILEID="alto_00204_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_408.1" BETYPE="IDREF" FILEID="alto_00204_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_408.2" BETYPE="IDREF" FILEID="alto_00204_1"/>
+              <area BEGIN="BL_408.3" BETYPE="IDREF" FILEID="alto_00204_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="409" ORDERLABEL="407" TYPE="page">
+        <fptr FILEID="tiff_00205_0"/>
+        <fptr FILEID="jp2_00205_0"/>
+        <fptr FILEID="alto_00205_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_409.3" BETYPE="IDREF" FILEID="alto_00205_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_409.2" BETYPE="IDREF" FILEID="alto_00205_0"/>
+              <area BEGIN="BL_409.4" BETYPE="IDREF" FILEID="alto_00205_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="410" ORDERLABEL="408" TYPE="page">
+        <fptr FILEID="tiff_00205_1"/>
+        <fptr FILEID="jp2_00205_1"/>
+        <fptr FILEID="alto_00205_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_410.1" BETYPE="IDREF" FILEID="alto_00205_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_410.2" BETYPE="IDREF" FILEID="alto_00205_1"/>
+              <area BEGIN="BL_410.3" BETYPE="IDREF" FILEID="alto_00205_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b408-8" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_408.9" BETYPE="IDREF" FILEID="alto_00204_1"/>
+            <area BEGIN="BL_409.1" BETYPE="IDREF" FILEID="alto_00205_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b408-6" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_408.7" BETYPE="IDREF" FILEID="alto_00204_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b408-7" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_408.8" BETYPE="IDREF" FILEID="alto_00204_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b408-4" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_408.5" BETYPE="IDREF" FILEID="alto_00204_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b408-5" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_408.6" BETYPE="IDREF" FILEID="alto_00204_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b408-3" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_408.4" BETYPE="IDREF" FILEID="alto_00204_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b410-5" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_410.5" BETYPE="IDREF" FILEID="alto_00205_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b409-9" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_409.11" BETYPE="IDREF" FILEID="alto_00205_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b409-8" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_409.10" BETYPE="IDREF" FILEID="alto_00205_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b409-7" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_409.9" BETYPE="IDREF" FILEID="alto_00205_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b409-5" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_409.6" BETYPE="IDREF" FILEID="alto_00205_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b409-4" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_409.5" BETYPE="IDREF" FILEID="alto_00205_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A6B" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_407.12" BETYPE="IDREF" FILEID="alto_00204_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b407-15" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_407.16" BETYPE="IDREF" FILEID="alto_00204_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b407-14" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_407.15" BETYPE="IDREF" FILEID="alto_00204_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b407-11" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_407.11" BETYPE="IDREF" FILEID="alto_00204_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b407-10" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_407.10" BETYPE="IDREF" FILEID="alto_00204_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b407-13" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_407.14" BETYPE="IDREF" FILEID="alto_00204_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b407-12" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_407.13" BETYPE="IDREF" FILEID="alto_00204_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b407-9" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_407.9" BETYPE="IDREF" FILEID="alto_00204_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b407-8" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_407.8" BETYPE="IDREF" FILEID="alto_00204_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AZZ" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_409.7" BETYPE="IDREF" FILEID="alto_00205_0"/>
+            <area BEGIN="BL_409.8" BETYPE="IDREF" FILEID="alto_00205_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b410-4" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_410.4" BETYPE="IDREF" FILEID="alto_00205_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b410-7" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_410.7" BETYPE="IDREF" FILEID="alto_00205_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b410-6" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_410.6" BETYPE="IDREF" FILEID="alto_00205_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b407-5" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_407.5" BETYPE="IDREF" FILEID="alto_00204_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b407-4" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_407.4" BETYPE="IDREF" FILEID="alto_00204_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b407-7" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_407.7" BETYPE="IDREF" FILEID="alto_00204_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b407-6" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_407.6" BETYPE="IDREF" FILEID="alto_00204_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

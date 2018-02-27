@@ -1,0 +1,630 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0055" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Watkins v. Rogers">Watkins surv. vs. Rogers</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 298</citation>
+          <decisiondate>1860-05</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00150_1" MIMETYPE="image/tiff" CHECKSUM="7e3de3f18bb18679dc8bee6eb251e905" CHECKSUMTYPE="MD5" SIZE="32312">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00150_1.tif"/>
+      </file>
+      <file ID="tiff_00151_0" MIMETYPE="image/tiff" CHECKSUM="2f2cd882c340ba4cdf320b5c3e62fc1d" CHECKSUMTYPE="MD5" SIZE="44476">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00151_0.tif"/>
+      </file>
+      <file ID="tiff_00151_1" MIMETYPE="image/tiff" CHECKSUM="ba8e95c616f8d8d6a9c243691950704f" CHECKSUMTYPE="MD5" SIZE="48320">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00151_1.tif"/>
+      </file>
+      <file ID="tiff_00152_0" MIMETYPE="image/tiff" CHECKSUM="0094b5cebe7571590b00b7a4894a2d77" CHECKSUMTYPE="MD5" SIZE="46570">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00152_0.tif"/>
+      </file>
+      <file ID="tiff_00152_1" MIMETYPE="image/tiff" CHECKSUM="e2247772b3942f6cc28e2e6d75c4af04" CHECKSUMTYPE="MD5" SIZE="30316">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00152_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00150_1" MIMETYPE="image/jp2" CHECKSUM="9ea08346aaeb07e38968326dcea4c7bc" CHECKSUMTYPE="MD5" SIZE="2483988">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00150_1.jp2"/>
+      </file>
+      <file ID="jp2_00151_0" MIMETYPE="image/jp2" CHECKSUM="c24bd779a960586778f0e7477e86daf1" CHECKSUMTYPE="MD5" SIZE="2826027">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00151_0.jp2"/>
+      </file>
+      <file ID="jp2_00151_1" MIMETYPE="image/jp2" CHECKSUM="f72d33d41d98323f2f2602f474e7ed5b" CHECKSUMTYPE="MD5" SIZE="2598609">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00151_1.jp2"/>
+      </file>
+      <file ID="jp2_00152_0" MIMETYPE="image/jp2" CHECKSUM="fdd1a1594f250fe54dd4c80930971b46" CHECKSUMTYPE="MD5" SIZE="2653281">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00152_0.jp2"/>
+      </file>
+      <file ID="jp2_00152_1" MIMETYPE="image/jp2" CHECKSUM="f1b405edf16b1e30b56a4182538a73a2" CHECKSUMTYPE="MD5" SIZE="2510147">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00152_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00150_1" MIMETYPE="text/xml" CHECKSUM="af4fa3566f70e6d00d934c3501ac3fce" CHECKSUMTYPE="MD5" SIZE="60624">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00150_1.xml"/>
+      </file>
+      <file ID="alto_00151_0" MIMETYPE="text/xml" CHECKSUM="d92d06c5683b16715a8a87384ed08e73" CHECKSUMTYPE="MD5" SIZE="78895">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00151_0.xml"/>
+      </file>
+      <file ID="alto_00151_1" MIMETYPE="text/xml" CHECKSUM="8e12fc92b2436fb404abf568c33d7a04" CHECKSUMTYPE="MD5" SIZE="86081">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00151_1.xml"/>
+      </file>
+      <file ID="alto_00152_0" MIMETYPE="text/xml" CHECKSUM="ad4adb08f12781909d34c883389d6dba" CHECKSUMTYPE="MD5" SIZE="87675">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00152_0.xml"/>
+      </file>
+      <file ID="alto_00152_1" MIMETYPE="text/xml" CHECKSUM="1588ff6b17a6f539205c3f00a78b136e" CHECKSUMTYPE="MD5" SIZE="61010">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00152_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0055" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="302" firstpage="298">
+              <parties id="b300-7" pgmap="300">Watkins surv. vs. Rogers.</parties>
+              <attorneys id="b301-5" pgmap="301">McConaughby, for the appellant.</attorneys>
+              <attorneys id="b301-6" pgmap="301">Jordan, for appellee.</attorneys>
+              <summary id="b300-10" pgmap="300">Appeal from the Circuit Court of White County.</summary>
+              <summary id="b301-4" pgmap="301">Hon. William C. Bevens, Circuit Judge.</summary>
+              <headnotes id="b300-8" pgmap="300">Where the plaintiff declares for the breach of a special contract, he must prove, substantially, the material allegations of the declaration — the allegations of the performance of a contract to execute a “ good and sufficient deed of conveyance,” is not sustained by proof of the execution of a quit claim, deed without covenants.</headnotes>
+              <headnotes id="b300-9" pgmap="300">A new trial should be granted where there is a failure of evidence to support mate­rial allegations of the declaration.</headnotes>
+              <opinion type="majority">
+                <author id="b301-7" pgmap="301">Mr. Chief Justice English</author>
+                <p id="ALh" pgmap="301">delivered the opinion of the court.</p>
+                <p id="b301-8" pgmap="301">Assumpsit by Rogers against Thomas Watkins and wife, Mary J. Watkins, formerly Mary J. Walker.</p>
+                <p id="b301-9" pgmap="301">The declaration alleged, in substance, that Mrs. Watkins, when a.feme sole, on the 12th of December, 1856, in considera­tion that Rogers would execute and deliver to her a good and sufficient deed of conveyance to a tract of land known as the N. E. ¿ of sec. 8, in T. 6 N. R. 9 W., undertook and promised to pay Rogers the sum of $358 19, it being the amount of claims held by Rogers against Alexander S. Walker, deceased, former husband of Mrs. Watkins, when she should be thereunto requested. That Rogers did, on the 12th December, 1856, execute and deliver to her a good and valid deed of conveyance to the land aforesaid, according to the terms of their said agreement.</p>
+                <p id="b301-10" pgmap="301">Breach, that Mrs. Watkins, while a feme sole, and she and her husband since their marriage, though often requested, dis­regarding her said promise and undertaking, had failed to pay to Rogers said sum of money, etc.</p>
+                <p id="b301-11" pgmap="301">The defendants pleaded non assumpsit, and the issue was submitted to the court sitting as a jury.</p>
+                <p id="b301-12" pgmap="301">The plaintiff read in evidence, against the objection of the defendants, from the record book of the recorder of White county, a registered copy of a quit claim deed, from plaintiff to Mrs. Watkins, for the land described in the declaration, dated 12th December, 1856, and filed for registration on the same day.</p>
+                <p id="b301-13" pgmap="301(41) 302(74)">Bond, witness for plaintiff, testified that plaintiff bought some land at tax sale. That Mrs. Watkins (then Walker,) had sold lands to Stamps, which, she afterwards learned, included a tract of land bought by plaintiff at tax sale. She wanted to get it from plaintiff. Plaintiff told witness if she would pay him what he had given for the land, and interest, and what Alex­ander Walker (her deceased former husband) owed him, he would convey to her the land. She told witness she would do so. Witness did not know how much Alexander Walker owed plaintiff; nor what particular land it was, but understood it to be part of the land sold to Stamps.</p>
+                <p id="b302-6" pgmap="302">Ricks, witness for plaintiff, testified that plaintiff placed claims, which were against Alexander Walker, in the hands of Cypert and Hicks, for collection against defendants. The claims were evidenced by accounts and notes payable to vari­ous persons. Witness had the claims before him when he drew the declaration in this suit, and thought the aggregate amount was that specified in the declaration. Did not know how long plaintiff had had them when they were given to Cypert &amp; Hicks to sue on. Witness had made diligent search, and could not find them.</p>
+                <p id="b302-7" pgmap="302">Cypert testified that the claims were in possession of himself and Hicks, for collection, but he did not know what had become of them.</p>
+                <p id="b302-8" pgmap="302">Plaintiff then read in evidence a tax deed for the land des­cribed in the declaration, executed to him by the collector of White county, dated 26th March, 1857, reciting a sale of the land to the plaintiff, 12th March, 1855, for taxes, etc., charged thereon for the years 1836 to 1854, amounting to $80 08.</p>
+                <p id="b302-9" pgmap="302">Cypert, recalled by plaintiff, further testified, that the claims of plaintiff against Alexander Walker, were handed to him for collection, and consisted of several small notes, which were pasted to an account current, between plaintiff and Walker, which consisted of the items of the several notes, with the interest due on such notes, and the credits thereon, amounting in the aggregate to the sum named in the declaration, and that the claims were lost or mislaid.</p>
+                <p id="b302-10" pgmap="302">Upon the above evidence, the court rendered judgment in favor of plaintiff for $358 19 damages.</p>
+                <p id="b302-11" pgmap="302">The defendants moved for a new trial, on the grounds:</p>
+                <p id="b303-4" pgmap="303">1. That the court erred in permitting plaintiff to read in evidence the quit claim deed, purporting to be from him to Mrs. Watkins, (Walker.)</p>
+                <p id="b303-5" pgmap="303">2. There was no evidence to sustain the contract or agree­ment, alleged in the declaration.</p>
+                <p id="b303-6" pgmap="303">3. There was no evidence of the allegation of performance by plaintiff of his part of the contract or agreement.</p>
+                <p id="b303-7" pgmap="303">4. The finding of the court was contrary to law and evi­dence.</p>
+                <p id="b303-8" pgmap="303">The court overruled the motion, and the defendants excepted and appealed.</p>
+                <p id="b303-9" pgmap="303">The plaintiff, having declared for the breach of a special contract, it was incumbent on him to prove substantially the material allegations of the declaration. 1 Arch. N. P. 130-1; 1 Greenleaf Ev. sec. 51; State Bank vs. Peel et al. 6 Eng. 753.</p>
+                <p id="b303-10" pgmap="303">The declaration alleges that the plaintiff agreed to execute and deliver to Mrs. Watkins a good and sufficient deed of' con­veyance to the land, etc. This allegation was not sustained by proof that he executed to her a mere quit claim deed, without any covenants of warranty whatever; which was the character of the deed introduced in evidence. Witter vs. Biscoe et al. 13 Ark. 426; Rawle on Cov. 564, etc. There was no proof that she accepted, or agreed to accept the quit claim deed.</p>
+                <p id="b303-11" pgmap="303">The declaration alleges, that in consideration that the plain­tiff would convey to Mrs. Watkins, the tract of land, she prom­ised to pay him $358 19, this being the amount of claims which he held against her deceased husband. Bond was the only witness who testified in relation to the contract between the parties. He stated that plaintiff told him that if Mrs. Watkins would pay him what he had given for the land at tax sale, and what her deceased husband owed him, he would convey the land to her; and she told witness that she would do so. Wit­ness did not know how- much her deceased husband owed plaintiff.</p>
+                <p id="b303-12" pgmap="303(23) 304(23)">There was no satisfactory proof that she knew the amount of the claims, or that the claims placed in the hands of Cypert &amp; Hicks, for collection, were the same that she agreed to pay; or that Bond was authorized to make the contract for plaintiff.</p>
+                <p id="b304-5" pgmap="304">There being a failure of evidence to support several of the material allegations of the declaration, the plaintiff was not entitled to a verdict, and the court should have sustained the motion for a new trial.</p>
+                <p id="b304-6" pgmap="304">The judgment must be reversed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="300" ORDERLABEL="298" TYPE="page">
+        <fptr FILEID="tiff_00150_1"/>
+        <fptr FILEID="jp2_00150_1"/>
+        <fptr FILEID="alto_00150_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_300.2" BETYPE="IDREF" FILEID="alto_00150_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_300.3" BETYPE="IDREF" FILEID="alto_00150_1"/>
+              <area BEGIN="BL_300.4" BETYPE="IDREF" FILEID="alto_00150_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_300.7" BETYPE="IDREF" FILEID="alto_00150_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="301" ORDERLABEL="299" TYPE="page">
+        <fptr FILEID="tiff_00151_0"/>
+        <fptr FILEID="jp2_00151_0"/>
+        <fptr FILEID="alto_00151_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_301.2" BETYPE="IDREF" FILEID="alto_00151_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_301.1" BETYPE="IDREF" FILEID="alto_00151_0"/>
+              <area BEGIN="BL_301.3" BETYPE="IDREF" FILEID="alto_00151_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="302" ORDERLABEL="300" TYPE="page">
+        <fptr FILEID="tiff_00151_1"/>
+        <fptr FILEID="jp2_00151_1"/>
+        <fptr FILEID="alto_00151_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_302.2" BETYPE="IDREF" FILEID="alto_00151_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_302.3" BETYPE="IDREF" FILEID="alto_00151_1"/>
+              <area BEGIN="BL_302.4" BETYPE="IDREF" FILEID="alto_00151_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="303" ORDERLABEL="301" TYPE="page">
+        <fptr FILEID="tiff_00152_0"/>
+        <fptr FILEID="jp2_00152_0"/>
+        <fptr FILEID="alto_00152_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_303.2" BETYPE="IDREF" FILEID="alto_00152_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_303.1" BETYPE="IDREF" FILEID="alto_00152_0"/>
+              <area BEGIN="BL_303.3" BETYPE="IDREF" FILEID="alto_00152_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="304" ORDERLABEL="302" TYPE="page">
+        <fptr FILEID="tiff_00152_1"/>
+        <fptr FILEID="jp2_00152_1"/>
+        <fptr FILEID="alto_00152_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_304.2" BETYPE="IDREF" FILEID="alto_00152_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_304.3" BETYPE="IDREF" FILEID="alto_00152_1"/>
+              <area BEGIN="BL_304.4" BETYPE="IDREF" FILEID="alto_00152_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_304.7" BETYPE="IDREF" FILEID="alto_00152_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b303-10" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_303.10" BETYPE="IDREF" FILEID="alto_00152_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b303-11" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_303.11" BETYPE="IDREF" FILEID="alto_00152_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b303-12" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_303.12" BETYPE="IDREF" FILEID="alto_00152_0"/>
+            <area BEGIN="BL_304.1" BETYPE="IDREF" FILEID="alto_00152_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ALh" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_301.8" BETYPE="IDREF" FILEID="alto_00151_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b302-11" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_302.10" BETYPE="IDREF" FILEID="alto_00151_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b302-10" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_302.9" BETYPE="IDREF" FILEID="alto_00151_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b304-5" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_304.5" BETYPE="IDREF" FILEID="alto_00152_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b300-9" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_300.10" BETYPE="IDREF" FILEID="alto_00150_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b303-8" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_303.8" BETYPE="IDREF" FILEID="alto_00152_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b303-9" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_303.9" BETYPE="IDREF" FILEID="alto_00152_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b300-10" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_300.11" BETYPE="IDREF" FILEID="alto_00150_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b300-8" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_300.9" BETYPE="IDREF" FILEID="alto_00150_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b303-6" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_303.6" BETYPE="IDREF" FILEID="alto_00152_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b303-7" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_303.7" BETYPE="IDREF" FILEID="alto_00152_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b303-4" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_303.4" BETYPE="IDREF" FILEID="alto_00152_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b303-5" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_303.5" BETYPE="IDREF" FILEID="alto_00152_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b301-12" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_301.13" BETYPE="IDREF" FILEID="alto_00151_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b301-13" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_301.14" BETYPE="IDREF" FILEID="alto_00151_0"/>
+            <area BEGIN="BL_302.1" BETYPE="IDREF" FILEID="alto_00151_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b301-10" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_301.11" BETYPE="IDREF" FILEID="alto_00151_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b301-11" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_301.12" BETYPE="IDREF" FILEID="alto_00151_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b302-7" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_302.6" BETYPE="IDREF" FILEID="alto_00151_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b302-6" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_302.5" BETYPE="IDREF" FILEID="alto_00151_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b304-6" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_304.6" BETYPE="IDREF" FILEID="alto_00152_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b301-8" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_301.9" BETYPE="IDREF" FILEID="alto_00151_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b301-9" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_301.10" BETYPE="IDREF" FILEID="alto_00151_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b300-7" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_300.8" BETYPE="IDREF" FILEID="alto_00150_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b301-4" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_301.4" BETYPE="IDREF" FILEID="alto_00151_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b301-5" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_301.5" BETYPE="IDREF" FILEID="alto_00151_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b301-6" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_301.6" BETYPE="IDREF" FILEID="alto_00151_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b301-7" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_301.7" BETYPE="IDREF" FILEID="alto_00151_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b302-9" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_302.8" BETYPE="IDREF" FILEID="alto_00151_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b302-8" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_302.7" BETYPE="IDREF" FILEID="alto_00151_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

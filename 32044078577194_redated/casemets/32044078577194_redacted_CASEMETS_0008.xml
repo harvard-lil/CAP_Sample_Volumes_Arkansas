@@ -1,0 +1,773 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0008" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Mings v. City of Fort Smith">Harold MINGS v. CITY OF FORT SMITH and ST. EDWARD MERCY MEDICAL CENTER</name>
+          <docketnumber>85-159</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 42</citation>
+          <citation category="parallel" type="bluebook">701 S.W.2d 705</citation>
+          <decisiondate>1986-01-13</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:00Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00034_1" MIMETYPE="image/tiff" CHECKSUM="8b5639e85d1779460e557a38e42ac4e7" CHECKSUMTYPE="MD5" SIZE="10248">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00034_1.tif"/>
+      </file>
+      <file ID="tiff_00035_0" MIMETYPE="image/tiff" CHECKSUM="c0a1478e358a1ba2bbfd5b03798d515d" CHECKSUMTYPE="MD5" SIZE="33308">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00035_0.tif"/>
+      </file>
+      <file ID="tiff_00035_1" MIMETYPE="image/tiff" CHECKSUM="cbef903e770fb2d68235e37914a85948" CHECKSUMTYPE="MD5" SIZE="56290">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00035_1.tif"/>
+      </file>
+      <file ID="tiff_00036_0" MIMETYPE="image/tiff" CHECKSUM="141966417f88a974badfb4ea680278c5" CHECKSUMTYPE="MD5" SIZE="52520">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00036_0.tif"/>
+      </file>
+      <file ID="tiff_00036_1" MIMETYPE="image/tiff" CHECKSUM="fdef880962ca2350d5397debfca00b51" CHECKSUMTYPE="MD5" SIZE="53752">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00036_1.tif"/>
+      </file>
+      <file ID="tiff_00037_0" MIMETYPE="image/tiff" CHECKSUM="c249cc54bf1c054e725fda2e7cc2e7d0" CHECKSUMTYPE="MD5" SIZE="55124">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00037_0.tif"/>
+      </file>
+      <file ID="tiff_00037_1" MIMETYPE="image/tiff" CHECKSUM="772c793e003421d0649e6062af6b4ac7" CHECKSUMTYPE="MD5" SIZE="53460">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00037_1.tif"/>
+      </file>
+      <file ID="tiff_00038_0" MIMETYPE="image/tiff" CHECKSUM="b4ea219fd78b4bd5a8a4cda26dee0182" CHECKSUMTYPE="MD5" SIZE="51004">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00038_0.tif"/>
+      </file>
+      <file ID="tiff_00038_1" MIMETYPE="image/tiff" CHECKSUM="d024dd1c3403d83ebf2ef8346d013a58" CHECKSUMTYPE="MD5" SIZE="16510">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00038_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00034_1" MIMETYPE="image/jp2" CHECKSUM="4b7221538b9307b29f82520570322abb" CHECKSUMTYPE="MD5" SIZE="1379241">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00034_1.jp2"/>
+      </file>
+      <file ID="jp2_00035_0" MIMETYPE="image/jp2" CHECKSUM="821467d7c629d288707bfa1eab67941f" CHECKSUMTYPE="MD5" SIZE="2042767">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00035_0.jp2"/>
+      </file>
+      <file ID="jp2_00035_1" MIMETYPE="image/jp2" CHECKSUM="a1e6870a5bb21582f6815ffc6ae47ad7" CHECKSUMTYPE="MD5" SIZE="2557968">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00035_1.jp2"/>
+      </file>
+      <file ID="jp2_00036_0" MIMETYPE="image/jp2" CHECKSUM="2c5b37ef9b4fde1896bf109526c088d3" CHECKSUMTYPE="MD5" SIZE="2478228">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00036_0.jp2"/>
+      </file>
+      <file ID="jp2_00036_1" MIMETYPE="image/jp2" CHECKSUM="298f04d2552fd978bfb7b0d9c6ea2e34" CHECKSUMTYPE="MD5" SIZE="2515784">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00036_1.jp2"/>
+      </file>
+      <file ID="jp2_00037_0" MIMETYPE="image/jp2" CHECKSUM="1a7b533853f0072f3f93633d334554e7" CHECKSUMTYPE="MD5" SIZE="2532842">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00037_0.jp2"/>
+      </file>
+      <file ID="jp2_00037_1" MIMETYPE="image/jp2" CHECKSUM="eeb9015049516216b8c6c1f73dd5f87f" CHECKSUMTYPE="MD5" SIZE="2514397">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00037_1.jp2"/>
+      </file>
+      <file ID="jp2_00038_0" MIMETYPE="image/jp2" CHECKSUM="dc1e989dc1897d04f49a25c5ea1c5f36" CHECKSUMTYPE="MD5" SIZE="2478846">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00038_0.jp2"/>
+      </file>
+      <file ID="jp2_00038_1" MIMETYPE="image/jp2" CHECKSUM="970b53e520d1aebd42525b97057fcd0e" CHECKSUMTYPE="MD5" SIZE="1664631">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00038_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00034_1" MIMETYPE="text/xml" CHECKSUM="a7a2cf26effda46504c326334b579ee7" CHECKSUMTYPE="MD5" SIZE="13228">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00034_1.xml"/>
+      </file>
+      <file ID="alto_00035_0" MIMETYPE="text/xml" CHECKSUM="415c9e8410493f97cdd57cfd20ade5d4" CHECKSUMTYPE="MD5" SIZE="56418">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00035_0.xml"/>
+      </file>
+      <file ID="alto_00035_1" MIMETYPE="text/xml" CHECKSUM="644ed0d69e88da4e98608d09e0380798" CHECKSUMTYPE="MD5" SIZE="93605">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00035_1.xml"/>
+      </file>
+      <file ID="alto_00036_0" MIMETYPE="text/xml" CHECKSUM="3e55286e8445d837b627ffa1f4e43fc5" CHECKSUMTYPE="MD5" SIZE="89943">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00036_0.xml"/>
+      </file>
+      <file ID="alto_00036_1" MIMETYPE="text/xml" CHECKSUM="c536eb93c2c43f5c235e37e3a21f2f88" CHECKSUMTYPE="MD5" SIZE="90915">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00036_1.xml"/>
+      </file>
+      <file ID="alto_00037_0" MIMETYPE="text/xml" CHECKSUM="af942588f330b10f4e74e842ae9dfea5" CHECKSUMTYPE="MD5" SIZE="92059">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00037_0.xml"/>
+      </file>
+      <file ID="alto_00037_1" MIMETYPE="text/xml" CHECKSUM="0f72d17375b56df24d3bf826e96304bd" CHECKSUMTYPE="MD5" SIZE="86887">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00037_1.xml"/>
+      </file>
+      <file ID="alto_00038_0" MIMETYPE="text/xml" CHECKSUM="386e504a08153ca019b20c92731cae13" CHECKSUMTYPE="MD5" SIZE="92602">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00038_0.xml"/>
+      </file>
+      <file ID="alto_00038_1" MIMETYPE="text/xml" CHECKSUM="a0009cdf1d7c46cd0fab2b8a11a6a60d" CHECKSUMTYPE="MD5" SIZE="25553">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00038_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0008" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="42" lastpage="50">
+              <court pgmap="68" id="b68-10">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="68" id="b68-9">85-159</docketnumber>
+              <citation pgmap="68" id="AFV">701 S.W.2d 705</citation>
+              <parties pgmap="68" id="b68-8">Harold MINGS v. CITY OF FORT SMITH and ST. EDWARD MERCY MEDICAL CENTER</parties>
+              <decisiondate pgmap="68" id="Anz">Opinion delivered January 13, 1986</decisiondate>
+              <judges pgmap="75" id="b75-7">Hickman, J., dissents.</judges>
+              <judges pgmap="75" id="b75-8">Purtle, J., not participating.</judges>
+              <attorneys pgmap="69" id="b69-11">Hardin, Jesson &amp; Dawson, by: Rex M. Terry, for appellant.</attorneys>
+              <attorneys pgmap="69" id="b69-12">Daily, West, Core, Coffman &amp; Canfield, by: Wyman R. Wade, Jr., for appellee City of Fort Smith.</attorneys>
+              <attorneys pgmap="69" id="b69-13">Harper, Young, Smith &amp; Maurras, by: S. Walton Maurras, for appellee St. Edward Mercy Medical Center.</attorneys>
+              <opinion type="majority">
+                <author pgmap="69" id="b69-14">David Newbern, Justice.</author>
+                <p pgmap="69" id="AA">The appellant, Dr. Harold Mings, objects to the use as a parking lot of part of a tract of land owned by the appellee St. Edward Mercy Medical Center. The tract is across the street from Dr. Mings’ home and directly adjacent to a vacant lot he owns. Dr. Mings has been denied declaratory and injunctive relief against the hospital as well as injunctive relief he sought against the appellee City of Fort Smith. The claim against the hospital is that the hospital agreed not to use the land for a parking lot and thus is estopped from doing so. The claim against the city is that it violated its procedural requirements in allowing the parking lot in connection with a conditional use granted on the tract in question. We agree with the chancellor’s finding that Dr. Mings’ proof of estoppel by an agreement by which the hospital promised not to have a parking lot on the land fell short. We also agree with the chancellor that the city’s conduct was in at least substantial compliance with its ordinances. Thus we affirm as to both appellees.</p>
+                <p pgmap="70" id="b70-4">In 1970, Dr. Mings and others fought the rezoning sought and obtained by the hospital to build its facility on a large tract of land near Dr. Mings’ residence. In connection with appearances before the city planning commission, Dr. Mings and others agreed to withdraw their opposition to the hospital’s request that its tract be rezoned T-l (transitional) from R-2 (residential). In exchange for Dr. Mings and others dropping their opposition, the hospital agreed it would maintain a buffer zone between its facility and the property of Dr. Mings and others. The portion of the hospital’s land on which its facility was to be built would be rezoned T-l, but the remaining part of the land constituting the buffer zone would remain zoned R-2. R-2 zoning would permit residential dwellings and duplexes and the sort of parking lot for nine cars which has been developed on the buffer zone and which is the subject of this case.</p>
+                <p pgmap="70" id="b70-5">In 1982, the hospital went back to the planning commission and received permission to construct a jogging and walking trail as a conditional use on the buffer zone. The hospital’s representa­tive at that meeting pointed out explicitly that there would be no parking lot constructed in connection with the jogging trail.</p>
+                <p pgmap="70" id="b70-6">In 1984, the parking lot was constructed on the buffer zone next to Dr. Mings’ vacant lot by boy scouts as part of a merit badge project. When objections were voiced by Dr. Mings and others, the hospital closed the lot. The hospital then sought permission from the planning commission to reopen the parking lot. The planning commission denied the request. No one ap­pealed that decision to the Fort Smith Board of Directors, but it appeared on the board’s agenda. The city attorney advised the board to take no final action in the absence of a formal appeal, so the board voted to ask the planning commission to reconsider the matter. The planning commission again sent out notices and held a second plenary hearing and again denied the hospital’s request. The hospital did not appeal that decision, but one of the citizens, a Mr. Faulkner, who had supported the hospital’s earlier request to the, planning commission, lodged an appeal with the board of directors. The board of directors overruled the planning commis­sion’s decision, thus permitting the hospital to use the parking lot. Dr. Mings brought the action now on appeal.</p>
+                <p pgmap="71" id="b71-5">1. Estoppel by Agreement</p>
+                <p pgmap="71" id="b71-6">Dr. Mings argues the hospital is estopped from operating the parking lot because of its agreement with him and the other property owners not to do so. The evidence of an agreement reached before the original hospital construction supports no conclusion stronger than that the buffer zone would remain R-2 and be developed with a “park like” atmosphere. There was nothing specifically said about a parking lot.</p>
+                <p pgmap="71" id="b71-7">When the hospital applied for the conditional use permit to construct the jogging trail in 1982, its representative told the planning commission that no parking lot would be built in conjunction with the jogging trail. There is evidence that that representation was made as the result of an agreement between the hospital and Dr. Mings. It was only a part of the presentation showing the planning commission how the land was to be used. Dr. Mings cites no authority, and we know of none, to the effect that a statement made by a party seeking a conditional use of land before a planning commission is binding upon that party and enforceable by those who opposed his request to the commission.</p>
+                <p pgmap="71" id="b71-8">
+                   Dr. Mings had the burden of showing the existence of the agreement on which his estoppel claim was based. Hanna v. Johnson, 233 Ark. 409, 344 S.W.2d 846 (1961). When estoppel is the basis of a claim, we have held “. . . that there must be certainty as to every intent, that the facts constituting it must not be taken by argument or inference, and that nothing can be supplied by intendment.” Ford Motor Credit Co. v. Exchange Bank, 251 Ark. 881, 476 S.W.2d 208 (1972). Nor will we set aside the chancellor’s factual determinations that there was no such agreement unless we find it to be clearly erroneous or clearly against the preponderance of the evidence. Ark. R. Civ. P. 52(a); Blevins v. Wagnon, 281 Ark. 272, 664 S.W.2d 198 (1984); Proctor v. Hammons, 277 Ark. 247, 640 S.W.2d 800 (1982). We make no such finding, and we hold the proof of estoppel was at best unclear.</p>
+                <p pgmap="71" id="b71-9">2. Procedural Irregularity</p>
+                <p pgmap="71(34) 72(116)" id="b71-10">Dr. Mings argues either of two procedural errors requires us to declare the parking lot aspect of the conditional use permit void. First, he contends it was improper for the city board to refer the matter back to the planning commission for reconsideration when no appeal had been filed. He contends the board exceeded its authority. The argument would have been stronger had the board reversed the planning commission rather than suggesting reconsideration. However, even in that event we would have been called upon to consider seriously our statement in Taylor v. City of Little Rock, 226 Ark. 384, 583 S.W.2d 72 (1979), to the effect that the role of a planning commission is merely to act as an advisor to the city board of directors. Here, we have the argument that the board had no authority to ask the planning commission to reconsider when there had been no appeal.</p>
+                <p pgmap="72" id="b72-7">
+                   While we recognize that a city may not ignore the procedures it has set up for participation of citizens in municipal government, we have held that a city’s actions are not invalid when it has substantially complied with its prescribed procedures. Adams v. Sims, 238 Ark. 696, 385 S.W.2d 13 (1965).</p>
+                <p pgmap="72" id="b72-8">Dr. Mings cites Potocki v. City of Fort Smith, 279 Ark. 19, 648 S.W.2d 462 (1983), for the proposition that the city must abide by its ordinances. In that case the city flagrantly ignored its own requirement that zoning petitions not be resubmitted until one year after denial. In contrast, we find no mandate in this case saying the board may not suggest reconsideration by the planning commission. In Potocki v. City of Fort Smith, supra, we noted that there was not even substantial compliance with the germane ordinance.</p>
+                <p pgmap="72" id="b72-9">In Taggart &amp; Taggart Seed Co. v. City of Augusta, 278 Ark. 570, 647 S.W.2d 458 (1983), we struck down a city’s attempt to bypass completely its planning commission in the face of its ordinance requiring that zoning matters be presented first to the planning commission and then to the board. There, again, was a flagrant abuse and no hint of substantial compliance.</p>
+                <p pgmap="72" id="b72-10">The action of the city board was appropriate. We can hardly say it constituted an abuse of the sort in the cases cited by Dr. Mings.</p>
+                <p pgmap="72(44) 73(77)" id="b72-11">The second alleged error is that after the planning commis­sion rejected the hospital’s request a second time the appeal was brought before the board by one who was not an “interested party.” Subsection H of Article V of the City of Fort Smith’s zoning ordinance provides that an appeal of a zoning matter may be taken from the planning commission to the city board of directors by an “interested party.” Clearly, had the hospital appealed, it would have been an “interested party.” However, the appeal was made by Mr. Faulkner who owned property in the neighborhood some six blocks away and who had appeared before the planning commission and spoken in favor of allowing the parking lot to be used.</p>
+                <p pgmap="73" id="b73-6">The issue of standing in matters of zoning appeals has been a troublesome one to say the least. It has stimulated controversy when it has arisen from appeals of decisions as to how land should be zoned. See Annot. 69 ALR 3d 805 (1976); Annot. 37 ALR 2d (1954); Annot. 168 ALR 13 (1947); Comment, Standing to Appeal Zoning Determinations: The “Aggrieved Person” Re­quirement, 64 Mich. L. Rev. 1070 (1966). See also M. Gitelman, The Role of Neighbors in Zoning Cases, 28 Ark. L. Rev. 221 (1974). It is perhaps even more complicated when the question is one of standing to contest the granting or denial of a conditional use.</p>
+                <p pgmap="73" id="b73-7">While this case has been argued as if a conditional use were being sought to permit the parking lot, it appears to us that the hospital was requesting a modification of the conditional use it had obtained to construct the jogging trail. There is not complete agreement about whether issuance of a conditional use permit is a legislative or administrative or quasi-judicial function. See R. Wright, Zoning Law in Arkansas: A Comparative Analysis, 3 U.A.L.R. L.J. 421, 425 (1980). Cf. D. Newbern, Zoning Flexi­bility: Bored of Adjustment?, 30 Ark. L. Rev. 491, 495-498 (1977). As appeals from the planning commission go to the city’s legislative body, the board of directors, perhaps it should be considered a legislative matter. The majority tradition, however, has been to treat the conditional use request as invoking quasi-­judicial powers of the planning commission and of the board. See D. Newbern, supra, at 494, n.9. When viewed as a quasi-judicial matter to be addressed by the planning commission and the city board of directors and when ultimately reviewed in a true judicial setting, such as a chancery court, the purpose and nature of zoning decisions can easily be forgotten.</p>
+                <p pgmap="73(11) 74(41)" id="b73-8">
+                   Zoning is a public matter. While the rights and duties of landowners, neighbors, and the general public conferred and required by zoning laws must sometimes be interpreted and protected by the courts, we should recognize that basic land use planning is a legislative function in which we should interfere only when necessary.</p>
+                <p pgmap="74" id="b74-6">Ark. Stat. Ann. § 19-2825(a) (Repl. 1980) provides in part:</p>
+                <blockquote pgmap="74" id="b74-7">The plan or plans of the municipality shall be pre­pared in order to promote, in accordance with present and future needs, the safety, morals, order, convenience, pros­perity and general welfare of the citizens; and may provide, among other things, for efficiency and economy in the process of development, for the appropriate and best use of land, for convenience of traffic and circulation of people and goods, for safety from fire and other dangers, for adequate light and air in the use and occupancy of buildings, for healthful and convenient distribution of population, for good civic design and arrangement, for adequate public utilities and facilities, and for wise and efficient expenditure of funds.</blockquote>
+                <p pgmap="74" id="b74-8">That language should be kept in mind, and neither we nor the trial courts should succumb to the temptation to treat zoning matters as ordinary adversary proceedings in which members of the public have no protective interest. That temptation is indeed present. In the landmark case declaring the constitutionality of land use planning and zoning to achieve it, Village of Euclid v. Ambler Realty Co., 272 U.S. 365 (1926), the U. S. Supreme Court analogized to the common law of nuisance. It should be realized in our time, however, that we are not dealing with the typical adversary proceeding, and our role should be to defer whenever possible to the legislative function of the city board in zoning disputes. See M. Gitelman, Judicial Review of Zoning in Arkansas, 23 Ark. L. Rev. 22 (1969).</p>
+                <p pgmap="74(70) 75(61)" id="b74-9">
+                   That same deference should be given with respect to the question of standing. Again, we should recognize we are not dealing with a typical adversary proceeding. See J. Ayer, The Primitive Law of Standing in Land Use Disputes: Some Notes from a Dark Continent, 55 Iowa L. Rev. 344 (1969). Mr. Faulkner lived in the neighborhood, used the jogging trail, and participated in the first planning commission hearing as a proponent of the parking lot. There was evidence that parking had become a problem because the public was being allowed unrestricted use of the jogging trail. While we need not address here the question whether any member of the public would have standing as an “interested party,” we can not conclude that Mr. Faulkner had no such standing in these circumstances.</p>
+                <p pgmap="75" id="b75-6">Affirmed.</p>
+              </opinion>
+              <opinion type="dissent">
+                <author pgmap="75" id="b75-9">Darrell Hickman, Justice,</author>
+                <p pgmap="75" id="AqY">dissenting. In 1982 St. Edward Mercy Medical Center told the planning commission there would be no parking lot constructed. Nonetheless it was constructed. After it was closed voluntarily, the hospital went before the planning commission again asking permission to reopen the lot. Permission was denied and there was no appeal by the hospital or anyone else. Instead, by some manipulation of the system, an appeal was brought before the city council and the decision of the planning commission denying the hospital’s petition was reversed.</p>
+                <p pgmap="75" id="b75-10">The hospital did not ask the city council to reverse the. decision of the planning commission and in my judgment it is estopped to open the lot. We do not have before us the question of a right of the public to enjoy the use of the land. We have a question of the right of a private landowner to the use of the land. The majority approves of the intervention by Mr. Faulkner and the city board of directors as though this was a matter of public interest. If the hospital wants to dedicate this land to the public, the public will have an interest in it. It has not done that and stands in the position of a private landowner that did not ask to use its land but is being told that it can. If we had a case of a landowner trying to use land in any way detrimental to the public interest, then the intervenor or the city board might have some standing to stop such a use. But how can we decide that the landowner may use, indeed order it to use, its land in a way it does not insist upon? In such a case no one may speak for the hospital except itself and since it has not spoken, the right insisted upon by others should be denied.</p>
+                <p pgmap="75(9) 76(60)" id="b75-11">The corollary to Justice Holmes’ remark that “Men must turn square corners when they deal with the government” is that government should turn square corners when it deals with the people. Foote’s Dixie Dandy, Inc. v. McHenry, Adm’r, 270 Ark. 816, 607 S.W.2d 323 (1980). Harold Mings has every right to complain that the hospital and the City of Fort Smith have turned no square corners in this case.</p>
+                <p pgmap="76" id="b76-6">I respectfully dissent.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="68" ORDERLABEL="42" TYPE="page">
+        <fptr FILEID="tiff_00034_1"/>
+        <fptr FILEID="jp2_00034_1"/>
+        <fptr FILEID="alto_00034_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_68.2" BETYPE="IDREF" FILEID="alto_00034_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="69" ORDERLABEL="43" TYPE="page">
+        <fptr FILEID="tiff_00035_0"/>
+        <fptr FILEID="jp2_00035_0"/>
+        <fptr FILEID="alto_00035_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_69.3" BETYPE="IDREF" FILEID="alto_00035_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="70" ORDERLABEL="44" TYPE="page">
+        <fptr FILEID="tiff_00035_1"/>
+        <fptr FILEID="jp2_00035_1"/>
+        <fptr FILEID="alto_00035_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_70.1" BETYPE="IDREF" FILEID="alto_00035_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="71" ORDERLABEL="45" TYPE="page">
+        <fptr FILEID="tiff_00036_0"/>
+        <fptr FILEID="jp2_00036_0"/>
+        <fptr FILEID="alto_00036_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_71.2" BETYPE="IDREF" FILEID="alto_00036_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="72" ORDERLABEL="46" TYPE="page">
+        <fptr FILEID="tiff_00036_1"/>
+        <fptr FILEID="jp2_00036_1"/>
+        <fptr FILEID="alto_00036_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_72.2" BETYPE="IDREF" FILEID="alto_00036_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="73" ORDERLABEL="47" TYPE="page">
+        <fptr FILEID="tiff_00037_0"/>
+        <fptr FILEID="jp2_00037_0"/>
+        <fptr FILEID="alto_00037_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_73.3" BETYPE="IDREF" FILEID="alto_00037_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="74" ORDERLABEL="48" TYPE="page">
+        <fptr FILEID="tiff_00037_1"/>
+        <fptr FILEID="jp2_00037_1"/>
+        <fptr FILEID="alto_00037_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_74.2" BETYPE="IDREF" FILEID="alto_00037_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="75" ORDERLABEL="49" TYPE="page">
+        <fptr FILEID="tiff_00038_0"/>
+        <fptr FILEID="jp2_00038_0"/>
+        <fptr FILEID="alto_00038_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_75.3" BETYPE="IDREF" FILEID="alto_00038_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="76" ORDERLABEL="50" TYPE="page">
+        <fptr FILEID="tiff_00038_1"/>
+        <fptr FILEID="jp2_00038_1"/>
+        <fptr FILEID="alto_00038_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_76.2" BETYPE="IDREF" FILEID="alto_00038_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b75-7" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_75.5" BETYPE="IDREF" FILEID="alto_00038_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b68-10" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_68.10" BETYPE="IDREF" FILEID="alto_00034_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b75-6" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_75.4" BETYPE="IDREF" FILEID="alto_00038_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b75-8" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_75.6" BETYPE="IDREF" FILEID="alto_00038_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b72-8" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_72.5" BETYPE="IDREF" FILEID="alto_00036_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AA" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_69.12" BETYPE="IDREF" FILEID="alto_00035_0"/>
+            <area BEGIN="BL_69.13" BETYPE="IDREF" FILEID="alto_00035_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b74-6" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_74.4" BETYPE="IDREF" FILEID="alto_00037_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AFV" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_68.9" BETYPE="IDREF" FILEID="alto_00034_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b70-6" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_70.5" BETYPE="IDREF" FILEID="alto_00035_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b70-4" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_70.3" BETYPE="IDREF" FILEID="alto_00035_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b74-9" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_74.7" BETYPE="IDREF" FILEID="alto_00037_1"/>
+            <area BEGIN="BL_75.1" BETYPE="IDREF" FILEID="alto_00038_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b74-8" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_74.6" BETYPE="IDREF" FILEID="alto_00037_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b72-7" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_72.4" BETYPE="IDREF" FILEID="alto_00036_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b73-7" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_73.5" BETYPE="IDREF" FILEID="alto_00037_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b73-6" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_73.4" BETYPE="IDREF" FILEID="alto_00037_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b71-7" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_71.5" BETYPE="IDREF" FILEID="alto_00036_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b71-6" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_71.4" BETYPE="IDREF" FILEID="alto_00036_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b71-5" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_71.3" BETYPE="IDREF" FILEID="alto_00036_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b68-9" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_68.8" BETYPE="IDREF" FILEID="alto_00034_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b68-8" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_68.7" BETYPE="IDREF" FILEID="alto_00034_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b71-9" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_71.7" BETYPE="IDREF" FILEID="alto_00036_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b71-8" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_71.6" BETYPE="IDREF" FILEID="alto_00036_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b73-8" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_73.6" BETYPE="IDREF" FILEID="alto_00037_0"/>
+            <area BEGIN="BL_74.1" BETYPE="IDREF" FILEID="alto_00037_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b69-12" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_69.9" BETYPE="IDREF" FILEID="alto_00035_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b69-13" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_69.10" BETYPE="IDREF" FILEID="alto_00035_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b69-11" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_69.8" BETYPE="IDREF" FILEID="alto_00035_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AqY" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_75.8" BETYPE="IDREF" FILEID="alto_00038_0"/>
+            <area BEGIN="BL_75.9" BETYPE="IDREF" FILEID="alto_00038_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b69-14" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_69.11" BETYPE="IDREF" FILEID="alto_00035_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b76-6" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_76.4" BETYPE="IDREF" FILEID="alto_00038_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b70-5" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_70.4" BETYPE="IDREF" FILEID="alto_00035_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b72-10" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_72.7" BETYPE="IDREF" FILEID="alto_00036_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b75-11" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_75.11" BETYPE="IDREF" FILEID="alto_00038_0"/>
+            <area BEGIN="BL_76.1" BETYPE="IDREF" FILEID="alto_00038_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b75-10" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_75.10" BETYPE="IDREF" FILEID="alto_00038_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b75-9" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_75.7" BETYPE="IDREF" FILEID="alto_00038_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b72-11" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_72.8" BETYPE="IDREF" FILEID="alto_00036_1"/>
+            <area BEGIN="BL_73.1" BETYPE="IDREF" FILEID="alto_00037_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Anz" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_68.11" BETYPE="IDREF" FILEID="alto_00034_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b72-9" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_72.6" BETYPE="IDREF" FILEID="alto_00036_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b71-10" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_71.8" BETYPE="IDREF" FILEID="alto_00036_0"/>
+            <area BEGIN="BL_72.1" BETYPE="IDREF" FILEID="alto_00036_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b74-7" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_74.5" BETYPE="IDREF" FILEID="alto_00037_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

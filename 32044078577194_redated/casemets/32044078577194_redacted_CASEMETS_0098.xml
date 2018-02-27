@@ -1,0 +1,564 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0098" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Poyner v. State">Doug POYNER, SR. v. STATE of Arkansas</name>
+          <docketnumber>CR 85-198</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 402</citation>
+          <citation category="parallel" type="bluebook">705 S.W.2d 882</citation>
+          <decisiondate>1986-03-24</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:00Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00218_1" MIMETYPE="image/tiff" CHECKSUM="d09c36741481047fac00a7de8e11a166" CHECKSUMTYPE="MD5" SIZE="19404">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00218_1.tif"/>
+      </file>
+      <file ID="tiff_00219_0" MIMETYPE="image/tiff" CHECKSUM="9f12d3aa214bfa03d35384b8a4857c71" CHECKSUMTYPE="MD5" SIZE="30512">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00219_0.tif"/>
+      </file>
+      <file ID="tiff_00219_1" MIMETYPE="image/tiff" CHECKSUM="1e68a1f8dd55274ba10a48bda4f66f91" CHECKSUMTYPE="MD5" SIZE="54476">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00219_1.tif"/>
+      </file>
+      <file ID="tiff_00220_0" MIMETYPE="image/tiff" CHECKSUM="27af96ea98d3f0146241ac950b1520b4" CHECKSUMTYPE="MD5" SIZE="52236">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00220_0.tif"/>
+      </file>
+      <file ID="tiff_00220_1" MIMETYPE="image/tiff" CHECKSUM="3b65f90c67a13c5a6ecf65785cd11363" CHECKSUMTYPE="MD5" SIZE="48172">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00220_1.tif"/>
+      </file>
+      <file ID="tiff_00221_0" MIMETYPE="image/tiff" CHECKSUM="5e6bd59028a1112edc3843d96340f123" CHECKSUMTYPE="MD5" SIZE="9314">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00221_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00218_1" MIMETYPE="image/jp2" CHECKSUM="2f404d5698217584281ac9586cd062b1" CHECKSUMTYPE="MD5" SIZE="1710573">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00218_1.jp2"/>
+      </file>
+      <file ID="jp2_00219_0" MIMETYPE="image/jp2" CHECKSUM="ad78b820ce35fc5fa0a2d0a85db2ed24" CHECKSUMTYPE="MD5" SIZE="2019253">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00219_0.jp2"/>
+      </file>
+      <file ID="jp2_00219_1" MIMETYPE="image/jp2" CHECKSUM="e99b31d5f64c7d7ff4fcc41a4af56c5a" CHECKSUMTYPE="MD5" SIZE="2567983">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00219_1.jp2"/>
+      </file>
+      <file ID="jp2_00220_0" MIMETYPE="image/jp2" CHECKSUM="8b3f26d5c9027b8ab518b3e6f4a9ac84" CHECKSUMTYPE="MD5" SIZE="2534168">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00220_0.jp2"/>
+      </file>
+      <file ID="jp2_00220_1" MIMETYPE="image/jp2" CHECKSUM="1691f9ff693ee65e903c26fa1e076bec" CHECKSUMTYPE="MD5" SIZE="2500951">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00220_1.jp2"/>
+      </file>
+      <file ID="jp2_00221_0" MIMETYPE="image/jp2" CHECKSUM="6ce6ced4e400e7a2f3f7d286ee13d7fb" CHECKSUMTYPE="MD5" SIZE="1367971">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00221_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00218_1" MIMETYPE="text/xml" CHECKSUM="de04cb1ff78c629c9db38fd0e9a67eba" CHECKSUMTYPE="MD5" SIZE="30556">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00218_1.xml"/>
+      </file>
+      <file ID="alto_00219_0" MIMETYPE="text/xml" CHECKSUM="24dbf096f90ec640c7e17ac11180b272" CHECKSUMTYPE="MD5" SIZE="49123">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00219_0.xml"/>
+      </file>
+      <file ID="alto_00219_1" MIMETYPE="text/xml" CHECKSUM="d58d89a13f2ad3637e29bae27d69db84" CHECKSUMTYPE="MD5" SIZE="89232">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00219_1.xml"/>
+      </file>
+      <file ID="alto_00220_0" MIMETYPE="text/xml" CHECKSUM="1891c2e23b5b0bfde80c815cf1c18fa5" CHECKSUMTYPE="MD5" SIZE="85795">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00220_0.xml"/>
+      </file>
+      <file ID="alto_00220_1" MIMETYPE="text/xml" CHECKSUM="26b301fb9b9de6ab84e72acecf61480b" CHECKSUMTYPE="MD5" SIZE="78318">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00220_1.xml"/>
+      </file>
+      <file ID="alto_00221_0" MIMETYPE="text/xml" CHECKSUM="a0cec30f98f49a53985e38d1dc4fb97e" CHECKSUMTYPE="MD5" SIZE="11786">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00221_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0098" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="402" lastpage="407">
+              <court pgmap="436" id="b436-10">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="436" id="Aj3I">CR 85-198</docketnumber>
+              <citation pgmap="436" id="AuDV">705 S.W.2d 882</citation>
+              <parties pgmap="436" id="b436-9">Doug POYNER, SR. v. STATE of Arkansas</parties>
+              <decisiondate pgmap="436" id="Agj">Opinion delivered March 24, 1986</decisiondate>
+              <judges pgmap="441" id="b441-5">Purtle, J., not participating.</judges>
+              <attorneys pgmap="437" id="b437-9">Mobley &amp; Smith, by: William F. Smith, for appellant.</attorneys>
+              <attorneys pgmap="437" id="b437-10">Steve Clark, Att’y Gen., by: Jerome T. Kearney, Asst. Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="437" id="b437-11">David Newbern, Justice.</author>
+                <p pgmap="437" id="AJo">
+                   The appellant was convicted of two counts of rape and two counts of incest. He was accused of engaging in sexual intercourse and deviate sexual activity with his son and daughter who were aged eleven and nine, respectively, when the acts allegedly occurred. The appellant has raised ten points on appeal. Several of his allegations of error are supported neither by citation of authority nor by convincing argument, so we decline to consider them. Dixon v. State, 260 Ark. 857, 545 S.W.2d 606 (1977). We find no merit in the others, and thus the conviction is affirmed.</p>
+                <p pgmap="437" id="b437-12">1. Motion in Limine</p>
+                <p pgmap="437(72) 438(43)" id="b437-13">
+                   At the outset of the trial, the appellant asked that the prosecutor be prohibited from discussing, either in his opening statement or in questioning witnesses, statements made by the children to others out of the appellant’s presence. While the court did not grant the motion, he also did not deny it. Thereafter, the appellant, in a sidebar conference, complained that the prosecu­tor had mentioned, in his opening remarks, statements made by the children to other persons. As the appellant has not abstracted the prosecutor’s opening statement, we will not consider an objection based upon it. Arkansas Supreme Court and Court of Appeals Rule 9(d); Adams v. State, 276 Ark. 18, 631 S.W.2d 828 (1982).</p>
+                <p pgmap="438" id="b438-6">The appellant’s argument on this point further relates that the prosecutor, in questioning witnesses, over and over mentioned statements made to the witnesses by the children. He refers to certain pages in the record at which these events are depicted, but he does not describe any of them. Our references to the testimony at the cited pages as abstracted reveal two or three such instances, and at each point the court refused to allow the witness to discuss a statement made by one of the children. In our view, some of the testimony, at least, would have been admissible under U.R.E. 803(25)(A) and Ark. Stat. Ann. §§ 42-812(d) and 42-815 (Repl. 1977 and Supp. 1985). We find no prejudice resulted to the appellant in these instances of the court’s exclusion of testimony at his request.</p>
+                <p pgmap="438" id="b438-7">2. Testimony of Physician</p>
+                <p pgmap="438" id="b438-8">Evidence showed that the mother of the children, wife of the appellant, took the children to a hospital emergency room for examination upon learning from the children of the sexual acts with the appellant. The physician who examined them was called as a witness by the state. She testified as to her findings with respect to their physical condition. On cross examination she stated the mother had told her that her divorce action against the appellant was filed on a certain date. The doctor added that the date was pertinent because children would usually not talk about sexual abuse unless they were sure they were safe. On redirect examination, the prosecutor asked the doctor, without objection, whether she had said children often do not disclose such a problem until they feel safe, and that such reticence is an established characteristic of child abuse reporting. The doctor responded affirmatively, and then the prosecutor asked “What’s going on in their mind?” The appellant’s counsel objected, and the court overruled the objection upon being reminded that the appellant’s counsel had elicited the initial testimony from the doctor on this matter.</p>
+                <p pgmap="438(9) 439(76)" id="b438-9">
+                   The appellant argues, and cites authority to the effect, that there was no proper foundation for allowing an emergency room physician to testify about the mental processes of the children. The issue here, however, is not whether the doctor was qualified to discuss the matter but whether the appellant could complain after having opened up this line of testimony on cross examination. We hold it was not error to allow the testimony under these circumstances. Berry v. State, 278 Ark. 578, 647 S.W.2d 453 (1983).</p>
+                <p pgmap="439" id="b439-6">3. Extraneous Evidence</p>
+                <p pgmap="439" id="b439-7">
+                   The prosecutor questioned the children’s mother about the status of the appellant’s child support payments. One question suggested that the appellant had sought to “catch up” on his payments prior to this trial. In colloquy with the court the prosecutor said the relevancy of the discussion of the child support payments had to do with the love and concern of the appellant for his children. The appellant objected and sought a mistrial. The objection was sustained, and the jury was admon­ished to disregard the prosecutor’s remarks, but a mistrial was denied.</p>
+                <p pgmap="439" id="b439-8">We agree that a mistrial was not required. The admonition to the jury was sufficient. Bliss v. State, 282 Ark. 315, 668 S.W.2d 936 (1984).</p>
+                <p pgmap="439" id="b439-9">4. Abuse Syndrome Expert</p>
+                <p pgmap="439(162) 440(28)" id="b439-10">The state offered testimony of Mary McKinney as expert testimony on the child abuse syndrome. Her qualifications included a college degree in special education, a master’s degree in school psychology, and three and a half years experience as a school counsellor during which she had been involved in twenty-­five to fifty child abuse cases. The appellant objected that the witness had no knowledge of the facts in the case before the court and thus there was no foundation for her to give expert testimony. The appellant cites, e.g., Morton v. Wiley Grain and Chemical Co., 271 Ark. 319, 609 S.W.2d 322 (1980), where we held it was not improper to limit cross examination when the testimony sought of the expert was directed to facts not in issue. The important distinction here is that by the time Mary McKinney testified there was strong evidence of record that a child abuse case was before the court and evidence of the behavior of abused children generally was relevant to explain the conduct of the alleged victims in this case including their unwillingness to discuss it until after their father and mother separated.</p>
+                <p pgmap="440" id="b440-6">
+                   As to her qualifications to testify, we need only say it was apparent that Ms. McKinney’s education and experience with respect to child abuse were greater than those of ordinary persons, Dildine v. Clark Equipment Co., 282 Ark. 130, 666 S.W.2d 692 (1984), and her testimony about child abuse in general was thus admissible. See U.R.E. 702.</p>
+                <p pgmap="440" id="b440-7">5. Attorney-Client Privilege</p>
+                <p pgmap="440" id="b440-8">The mother of the children, Mrs. Poyner, testified she had not been asked by anyone to arrange visitation by the appellant with the children after the separation. The defendant called Mrs. Poyner’s attorney to the stand and asked him whether he had attempted to arrange the visitation with her. The court allowed the attorney to decline to answer on the basis of the attorney-­client privilege. The appellant argues that Mrs. Poyner, the client, had effectively waived the privilege when she answered that no one had attempted to set up the visitation.</p>
+                <p pgmap="440" id="b440-9">
+                   We agree with the appellant’s citation to Sikes v. Segers, 266 Ark. 654, 587 S.W.2d 554 (1979), for the proposition that the privilege belongs to the client, and the citation to Firestone Tire &amp; Rubber Co. v. Little, 276 Ark. 511, 639 S.W.2d 726 (1982), to the effect that the privilege may be waived. However, the appellant cites no authority whatever to demon­strate it was waived in this case. In Firestone Tire &amp; Rubber Co. v. Little, supra, the privilege was waived when a damaging letter from a Firestone lawyer was allowed to fall into the hands of a witness. We held that waived the privilege which otherwise could have been asserted by Firestone. No comparable facts exist here. We find neither authority nor convincing argument that Mrs. Poyner waived the attorney-client privilege by simply answering a question about whether she had been approached by anyone about visitation.</p>
+                <p pgmap="440" id="b440-10">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="436" ORDERLABEL="402" TYPE="page">
+        <fptr FILEID="tiff_00218_1"/>
+        <fptr FILEID="jp2_00218_1"/>
+        <fptr FILEID="alto_00218_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_436.1" BETYPE="IDREF" FILEID="alto_00218_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="437" ORDERLABEL="403" TYPE="page">
+        <fptr FILEID="tiff_00219_0"/>
+        <fptr FILEID="jp2_00219_0"/>
+        <fptr FILEID="alto_00219_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_437.3" BETYPE="IDREF" FILEID="alto_00219_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="438" ORDERLABEL="404" TYPE="page">
+        <fptr FILEID="tiff_00219_1"/>
+        <fptr FILEID="jp2_00219_1"/>
+        <fptr FILEID="alto_00219_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_438.2" BETYPE="IDREF" FILEID="alto_00219_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="439" ORDERLABEL="405" TYPE="page">
+        <fptr FILEID="tiff_00220_0"/>
+        <fptr FILEID="jp2_00220_0"/>
+        <fptr FILEID="alto_00220_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_439.3" BETYPE="IDREF" FILEID="alto_00220_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="440" ORDERLABEL="406" TYPE="page">
+        <fptr FILEID="tiff_00220_1"/>
+        <fptr FILEID="jp2_00220_1"/>
+        <fptr FILEID="alto_00220_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_440.2" BETYPE="IDREF" FILEID="alto_00220_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="441" ORDERLABEL="407" TYPE="page">
+        <fptr FILEID="tiff_00221_0"/>
+        <fptr FILEID="jp2_00221_0"/>
+        <fptr FILEID="alto_00221_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_441.2" BETYPE="IDREF" FILEID="alto_00221_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b440-8" BETYPE="IDREF" FILEID="casebody_0098"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_440.6" BETYPE="IDREF" FILEID="alto_00220_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b436-9" BETYPE="IDREF" FILEID="casebody_0098"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_436.8" BETYPE="IDREF" FILEID="alto_00218_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b440-10" BETYPE="IDREF" FILEID="casebody_0098"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_440.8" BETYPE="IDREF" FILEID="alto_00220_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b441-5" BETYPE="IDREF" FILEID="casebody_0098"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_441.3" BETYPE="IDREF" FILEID="alto_00221_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b438-7" BETYPE="IDREF" FILEID="casebody_0098"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_438.5" BETYPE="IDREF" FILEID="alto_00219_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b438-6" BETYPE="IDREF" FILEID="casebody_0098"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_438.4" BETYPE="IDREF" FILEID="alto_00219_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b439-6" BETYPE="IDREF" FILEID="casebody_0098"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_439.4" BETYPE="IDREF" FILEID="alto_00220_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Agj" BETYPE="IDREF" FILEID="casebody_0098"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_436.12" BETYPE="IDREF" FILEID="alto_00218_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b437-9" BETYPE="IDREF" FILEID="casebody_0098"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_437.8" BETYPE="IDREF" FILEID="alto_00219_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b439-8" BETYPE="IDREF" FILEID="casebody_0098"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_439.6" BETYPE="IDREF" FILEID="alto_00220_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b439-9" BETYPE="IDREF" FILEID="casebody_0098"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_439.7" BETYPE="IDREF" FILEID="alto_00220_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b438-9" BETYPE="IDREF" FILEID="casebody_0098"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_438.7" BETYPE="IDREF" FILEID="alto_00219_1"/>
+            <area BEGIN="BL_439.1" BETYPE="IDREF" FILEID="alto_00220_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b438-8" BETYPE="IDREF" FILEID="casebody_0098"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_438.6" BETYPE="IDREF" FILEID="alto_00219_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AJo" BETYPE="IDREF" FILEID="casebody_0098"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_437.11" BETYPE="IDREF" FILEID="alto_00219_0"/>
+            <area BEGIN="BL_437.12" BETYPE="IDREF" FILEID="alto_00219_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b440-6" BETYPE="IDREF" FILEID="casebody_0098"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_440.4" BETYPE="IDREF" FILEID="alto_00220_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AuDV" BETYPE="IDREF" FILEID="casebody_0098"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_436.10" BETYPE="IDREF" FILEID="alto_00218_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b437-12" BETYPE="IDREF" FILEID="casebody_0098"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_437.13" BETYPE="IDREF" FILEID="alto_00219_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b437-10" BETYPE="IDREF" FILEID="casebody_0098"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_437.9" BETYPE="IDREF" FILEID="alto_00219_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b437-11" BETYPE="IDREF" FILEID="casebody_0098"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_437.10" BETYPE="IDREF" FILEID="alto_00219_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b436-10" BETYPE="IDREF" FILEID="casebody_0098"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_436.11" BETYPE="IDREF" FILEID="alto_00218_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b439-10" BETYPE="IDREF" FILEID="casebody_0098"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_439.8" BETYPE="IDREF" FILEID="alto_00220_0"/>
+            <area BEGIN="BL_440.1" BETYPE="IDREF" FILEID="alto_00220_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b437-13" BETYPE="IDREF" FILEID="casebody_0098"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_437.14" BETYPE="IDREF" FILEID="alto_00219_0"/>
+            <area BEGIN="BL_438.1" BETYPE="IDREF" FILEID="alto_00219_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aj3I" BETYPE="IDREF" FILEID="casebody_0098"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_436.9" BETYPE="IDREF" FILEID="alto_00218_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b440-9" BETYPE="IDREF" FILEID="casebody_0098"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_440.7" BETYPE="IDREF" FILEID="alto_00220_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b440-7" BETYPE="IDREF" FILEID="casebody_0098"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_440.5" BETYPE="IDREF" FILEID="alto_00220_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b439-7" BETYPE="IDREF" FILEID="casebody_0098"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_439.5" BETYPE="IDREF" FILEID="alto_00220_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

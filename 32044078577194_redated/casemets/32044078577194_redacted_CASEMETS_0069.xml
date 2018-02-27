@@ -1,0 +1,555 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0069" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="City of Fort Smith v. O’Loughlin">CITY OF FORT SMITH, et al. v. Joseph F. O’LOUGHLIN</name>
+          <docketnumber>85-238</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 294</citation>
+          <citation category="parallel" type="bluebook">705 S.W.2d 420</citation>
+          <decisiondate>1986-03-03</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:00Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00163_1" MIMETYPE="image/tiff" CHECKSUM="2eb2ecb634dc9709514c0951073aeac5" CHECKSUMTYPE="MD5" SIZE="27904">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00163_1.tif"/>
+      </file>
+      <file ID="tiff_00164_0" MIMETYPE="image/tiff" CHECKSUM="a3bd0cc0c42f4ba725b01d8b3a2192bd" CHECKSUMTYPE="MD5" SIZE="49502">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00164_0.tif"/>
+      </file>
+      <file ID="tiff_00164_1" MIMETYPE="image/tiff" CHECKSUM="022c1d1c98576af8ce99d0b9f7d7a5f7" CHECKSUMTYPE="MD5" SIZE="50680">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00164_1.tif"/>
+      </file>
+      <file ID="tiff_00165_0" MIMETYPE="image/tiff" CHECKSUM="b425f39b28f143c1e1c0591f819770f1" CHECKSUMTYPE="MD5" SIZE="55990">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00165_0.tif"/>
+      </file>
+      <file ID="tiff_00165_1" MIMETYPE="image/tiff" CHECKSUM="07fd662aa28b1808e9a60913841a1308" CHECKSUMTYPE="MD5" SIZE="26736">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00165_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00163_1" MIMETYPE="image/jp2" CHECKSUM="c3b19a6ed543f42bb8405fa3237bfaad" CHECKSUMTYPE="MD5" SIZE="1933119">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00163_1.jp2"/>
+      </file>
+      <file ID="jp2_00164_0" MIMETYPE="image/jp2" CHECKSUM="801936744a4569e51843ade51613acab" CHECKSUMTYPE="MD5" SIZE="2510846">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00164_0.jp2"/>
+      </file>
+      <file ID="jp2_00164_1" MIMETYPE="image/jp2" CHECKSUM="7ce5d45ba290e895c8aeaf413c497e34" CHECKSUMTYPE="MD5" SIZE="2542744">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00164_1.jp2"/>
+      </file>
+      <file ID="jp2_00165_0" MIMETYPE="image/jp2" CHECKSUM="18b0288fa7d43261a05edfaa686a419e" CHECKSUMTYPE="MD5" SIZE="2545262">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00165_0.jp2"/>
+      </file>
+      <file ID="jp2_00165_1" MIMETYPE="image/jp2" CHECKSUM="0ec8e90ca3e52dc49fa7039d12423cdc" CHECKSUMTYPE="MD5" SIZE="2027039">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00165_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00163_1" MIMETYPE="text/xml" CHECKSUM="d4af270a6a2c000c3aa99f139b32ffe3" CHECKSUMTYPE="MD5" SIZE="46341">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00163_1.xml"/>
+      </file>
+      <file ID="alto_00164_0" MIMETYPE="text/xml" CHECKSUM="442e7d0dd7f9516ac90a517ade2251a9" CHECKSUMTYPE="MD5" SIZE="86822">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00164_0.xml"/>
+      </file>
+      <file ID="alto_00164_1" MIMETYPE="text/xml" CHECKSUM="f6668275feeddcf423615657676c746e" CHECKSUMTYPE="MD5" SIZE="82163">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00164_1.xml"/>
+      </file>
+      <file ID="alto_00165_0" MIMETYPE="text/xml" CHECKSUM="bb5dbc93974c159c9cc93d05de446442" CHECKSUMTYPE="MD5" SIZE="97083">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00165_0.xml"/>
+      </file>
+      <file ID="alto_00165_1" MIMETYPE="text/xml" CHECKSUM="c9e5c5fe4bde62a156a782472b5fcf19" CHECKSUMTYPE="MD5" SIZE="44356">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00165_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0069" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="294" lastpage="298">
+              <court pgmap="326" id="b326-11">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="326" id="b326-10">85-238</docketnumber>
+              <citation pgmap="326" id="AMk">705 S.W.2d 420</citation>
+              <parties pgmap="326" id="b326-8">CITY OF FORT SMITH, et al. v. Joseph F. O’LOUGHLIN</parties>
+              <decisiondate pgmap="326" id="AXp">Opinion delivered March 3, 1986</decisiondate>
+              <otherdate pgmap="326" id="Ayk">[Rehearing denied April 15, 1986.<footnotemark>*</footnotemark>]</otherdate>
+              <judges pgmap="327" id="b327-9">Purtle, J., not participating.</judges>
+              <judges pgmap="327" id="b327-10">Hays, J., dissents.</judges>
+              <attorneys pgmap="327" id="b327-3">Friday, Eldredge &amp; Clark, Michael G. Smith, for appellant.</attorneys>
+              <attorneys pgmap="327" id="b327-4">Harrison &amp; Hewett, by: Mark Hewett, for appellee.</attorneys>
+              <footnote label="*">
+                <p pgmap="326" id="b326-16">* Purtle, J., not participating.</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="327" id="b327-5">George Rose Smith, Justice.</author>
+                <p pgmap="327" id="AP6t">This is a taxpayer’s suit brought by the appellee for a declaratory judgment to determine the validity of tax-exempt bonds to be issued by the Fort Smith Tourism Facilities Board for the construction of a nine-story 260-­room hotel in downtown Fort Smith. Although the building is to be 100% financed by the bond issue, it will be a privately owned hotel, operated for profit. Apparently construction is under way, with the opening of the hotel scheduled for the spring of 1986. John Q. Hammonds, the chief developer of the project, testified that the hotel will be completed with or without public financing. After hearing a great deal of testimony the chancellor held that the bonds are invalid, as not being issued for a public purpose. The appeal comes to this court under Rule 29(l)(c).</p>
+                <p pgmap="327" id="b327-6">
+                   We need not discuss the issue of public purpose, for our long standing rule is to affirm the trial court’s decision if it reached the right result, although a different reason for the decision may have been given. Ratliff v. Moss, 284 Ark. 16, 678 S.W.2d 369 (1984). Moreover, when a party to a suit is representing the public, as in this taxpayer’s suit, it is our practice to consider all essential questions on their merits. Morris v. Torch Club, 278 Ark. 283, 644 S.W.2d 945 (1983).</p>
+                <p pgmap="327" id="b327-7">
+                   In another opinion handed down today we are holding that a municipal bond issue such as this one is not valid unless it has been approved at an election. City of Hot Springs v. Creviston, 288 Ark. 286, 705 S.W.2d 415 (1986). There having been no election in the present case, the trial court’s decision was right and must be upheld for the reasons given in the Hot Springs case.</p>
+                <p pgmap="327" id="b327-8">Affirmed.</p>
+              </opinion>
+              <opinion type="dissent">
+                <author pgmap="327" id="b327-11">Steele Hays, Justice,</author>
+                <p pgmap="327(36) 328(10)" id="AI--">dissenting. The chancellor correctly determined that these bonds were to be repaid entirely from funds derived from the convention center/hotel, however, he also held that no public purpose would be served by the facility and the majority has impliedly endorsed that position, which prompts these comments.</p>
+                <p pgmap="328" id="b328-6">In order to affirm the chancellor’s ruling with respect to the public purpose issue, our cases require a finding that the legisla­tive branch acted arbitrarily and capriciously. Purvis v. Hubbell, Mayor, 273 Ark. 330, 620 S.W.2d 282 (1981); Miles v. Gordon, 234 Ark. 525, 353 S.W.2d 157 (1962); Kerr v. East Central Arkansas Housing Authority, 208 Ark. 625, 187 S.W.2d 189 (1945). In Murphy v. Epes, 283 Ark. 517, 678 S.W.2d 352 (1984) we said:</p>
+                <blockquote pgmap="328" id="b328-7">[W]hether legislation fulfills a public purpose is a legisla­tive decision and a court will reverse that decision only if the legislature acted arbitrarily, unreasonably or capri­ciously. The court should not substitute its own judgment for that of the legislature.</blockquote>
+                <p pgmap="328" id="b328-8">Justice Dudley, concurring in Purvis v. City of Little Rock, 282 Ark. 102, 667 S.W.2d 936 (1984), said it aptly:</p>
+                <blockquote pgmap="328" id="b328-9">The determination of whether a municipal undertaking fulfills a public purpose initially is an executive decision to be made at a local level. A court is hesitant to disagree with that local decision. Accordingly, we will reverse that decision only if the local government acted arbitrarily, unreasonably or capriciously.</blockquote>
+                <p pgmap="328(148) 329(59)" id="b328-10">Here, the City of Ft. Smith spent three years and $70,000 considering methods of revitalizing its downtown. It had the benefit of studies from several competent sources. Seen as the major need was the lack of a headquarters hotel with overall convention facilities to be operated in conjunction with the Municipal Auditorium. There was a great deal of testimony from knowledgeable witnesses attesting to the usefulness of such a facility, which did not exist in Ft. Smith, and stressing the importance of a convention center complex in competing for tourist business. In sum: the complex is expected to create 225 construction jobs with an estimated $5,000,000 annual payroll, 250 permanent jobs with an estimated $3,000,000 annual pay­roll. The hotel will have reception facilities for 1,600 people, banquet facilities for 1,200, a ballroom, eight meeting rooms, a first-line dining room seating 110, atrium dining for 150, a lounge and club. The complex, expected to generate $287,000 annually in new sales tax and $432,000 in turnback funds, is described as “labor intense,” employing a high percentage of young and minority employees. The Municipal Auditorium, which has lost money consistently since 1970 ($97,000 in 1984) and the hotel, separated by “a few feet”, are expected to compliment each other.</p>
+                <p pgmap="329" id="b329-5">Unfortunately, the trial court made no real attempt to determine whether the benefits to be derived by Ft. Smith, which are considerable, outweigh those to be gained by the developers, assuming the venture succeeds. Granted, the operators would benefit over ten years by some three million dollars in interest expense if these bonds were upheld, but the City of Ft. Smith can expect to derive many times that amount in direct benefits alone, without attempting to evaluate the indirect benefits.</p>
+                <p pgmap="329" id="b329-6">The Ft. Smith complex is handled precisely as were the facilities in both Purvis cases, the city owns the facility and merely leases it to the developer on an extended basis. The lease period here is for an initial term of twenty-nine years, with options for seven additional terms of ten years each. In Purvis I the lease was for fifty-three years with options for a total of one hundred and three years. The legislature has given authority to cities to lease publicly owned property to private operators in a variety of instances (see Act 175 of 1961), and Act 142 of 1975 expressly includes not only the power to lease tourist facilities but the power to sell those facilities as well. Thus, even if it could be correctly said that this facility was privately owned and privately operated that would not, ipso facto, settle the issue of public purpose. Wayland v. Snapp, 232 Ark. 57, 334 S.W.2d 633 (1960); Lambert v. Wharf Improvement Dist. No. 1 of Helena, 174 Ark. 478, 295 S.W. 730 (1927).</p>
+                <p pgmap="329(98) 330(27)" id="b329-7">It hardly need be mentioned that tourism is of first impor­tance to Arkansas. It is crucial to our economy, producing 1.7 billion dollars in 1984, a thirty percent increase over six years ago. The legislature has declared categorically that tourism is an industry and this court has placed its imprimatur on that policy. Purvis v. City of Little Rock, supra, p. 109. Yet here we find a convention complex in the strict sense, capable of housing 600 conventioneers and providing the expected accommodations, the only one of its kind in Ft. Smith, being rejected, not by the legislative branch, but by the judicial branch. I submit we are substituting our judgment for theirs, which we have repeatedly said is off-limits for the judicial branch.</p>
+                <p pgmap="330" id="b330-4">My views on the election issue are stated in a concurring opinion in Hot Springs v. Creviston, also decided today.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="326" ORDERLABEL="294" TYPE="page">
+        <fptr FILEID="tiff_00163_1"/>
+        <fptr FILEID="jp2_00163_1"/>
+        <fptr FILEID="alto_00163_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_326.2" BETYPE="IDREF" FILEID="alto_00163_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="327" ORDERLABEL="295" TYPE="page">
+        <fptr FILEID="tiff_00164_0"/>
+        <fptr FILEID="jp2_00164_0"/>
+        <fptr FILEID="alto_00164_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_327.2" BETYPE="IDREF" FILEID="alto_00164_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="328" ORDERLABEL="296" TYPE="page">
+        <fptr FILEID="tiff_00164_1"/>
+        <fptr FILEID="jp2_00164_1"/>
+        <fptr FILEID="alto_00164_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_328.2" BETYPE="IDREF" FILEID="alto_00164_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="329" ORDERLABEL="297" TYPE="page">
+        <fptr FILEID="tiff_00165_0"/>
+        <fptr FILEID="jp2_00165_0"/>
+        <fptr FILEID="alto_00165_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_329.2" BETYPE="IDREF" FILEID="alto_00165_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="330" ORDERLABEL="298" TYPE="page">
+        <fptr FILEID="tiff_00165_1"/>
+        <fptr FILEID="jp2_00165_1"/>
+        <fptr FILEID="alto_00165_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_330.2" BETYPE="IDREF" FILEID="alto_00165_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b327-8" BETYPE="IDREF" FILEID="casebody_0069"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_327.10" BETYPE="IDREF" FILEID="alto_00164_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b327-9" BETYPE="IDREF" FILEID="casebody_0069"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_327.11" BETYPE="IDREF" FILEID="alto_00164_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b328-8" BETYPE="IDREF" FILEID="casebody_0069"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_328.6" BETYPE="IDREF" FILEID="alto_00164_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b330-4" BETYPE="IDREF" FILEID="casebody_0069"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_330.4" BETYPE="IDREF" FILEID="alto_00165_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b327-3" BETYPE="IDREF" FILEID="casebody_0069"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_327.3" BETYPE="IDREF" FILEID="alto_00164_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b327-4" BETYPE="IDREF" FILEID="casebody_0069"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_327.4" BETYPE="IDREF" FILEID="alto_00164_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b327-5" BETYPE="IDREF" FILEID="casebody_0069"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_327.5" BETYPE="IDREF" FILEID="alto_00164_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b327-6" BETYPE="IDREF" FILEID="casebody_0069"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_327.8" BETYPE="IDREF" FILEID="alto_00164_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b327-7" BETYPE="IDREF" FILEID="casebody_0069"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_327.9" BETYPE="IDREF" FILEID="alto_00164_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ayk" BETYPE="IDREF" FILEID="casebody_0069"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_326.12" BETYPE="IDREF" FILEID="alto_00163_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AI--" BETYPE="IDREF" FILEID="casebody_0069"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_327.14" BETYPE="IDREF" FILEID="alto_00164_0"/>
+            <area BEGIN="BL_327.15" BETYPE="IDREF" FILEID="alto_00164_0"/>
+            <area BEGIN="BL_328.1" BETYPE="IDREF" FILEID="alto_00164_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b328-10" BETYPE="IDREF" FILEID="casebody_0069"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_328.8" BETYPE="IDREF" FILEID="alto_00164_1"/>
+            <area BEGIN="BL_329.1" BETYPE="IDREF" FILEID="alto_00165_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AMk" BETYPE="IDREF" FILEID="casebody_0069"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_326.9" BETYPE="IDREF" FILEID="alto_00163_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b328-9" BETYPE="IDREF" FILEID="casebody_0069"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_328.7" BETYPE="IDREF" FILEID="alto_00164_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AXp" BETYPE="IDREF" FILEID="casebody_0069"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_326.11" BETYPE="IDREF" FILEID="alto_00163_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b327-11" BETYPE="IDREF" FILEID="casebody_0069"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_327.13" BETYPE="IDREF" FILEID="alto_00164_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b326-8" BETYPE="IDREF" FILEID="casebody_0069"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_326.7" BETYPE="IDREF" FILEID="alto_00163_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AP6t" BETYPE="IDREF" FILEID="casebody_0069"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_327.6" BETYPE="IDREF" FILEID="alto_00164_0"/>
+            <area BEGIN="BL_327.7" BETYPE="IDREF" FILEID="alto_00164_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b327-10" BETYPE="IDREF" FILEID="casebody_0069"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_327.12" BETYPE="IDREF" FILEID="alto_00164_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b326-16" BETYPE="IDREF" FILEID="casebody_0069"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_326.19" BETYPE="IDREF" FILEID="alto_00163_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b326-11" BETYPE="IDREF" FILEID="casebody_0069"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_326.10" BETYPE="IDREF" FILEID="alto_00163_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b326-10" BETYPE="IDREF" FILEID="casebody_0069"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_326.8" BETYPE="IDREF" FILEID="alto_00163_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b328-7" BETYPE="IDREF" FILEID="casebody_0069"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_328.5" BETYPE="IDREF" FILEID="alto_00164_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b328-6" BETYPE="IDREF" FILEID="casebody_0069"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_328.4" BETYPE="IDREF" FILEID="alto_00164_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b329-6" BETYPE="IDREF" FILEID="casebody_0069"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_329.5" BETYPE="IDREF" FILEID="alto_00165_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b329-7" BETYPE="IDREF" FILEID="casebody_0069"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_329.6" BETYPE="IDREF" FILEID="alto_00165_0"/>
+            <area BEGIN="BL_330.1" BETYPE="IDREF" FILEID="alto_00165_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b329-5" BETYPE="IDREF" FILEID="casebody_0069"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_329.4" BETYPE="IDREF" FILEID="alto_00165_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

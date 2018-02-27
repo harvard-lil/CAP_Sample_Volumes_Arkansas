@@ -1,0 +1,400 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0126" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Galloway v. Devaney">Galloway vs. Devaney &amp; Wife</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 526</citation>
+          <decisiondate>1860-10</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00264_1" MIMETYPE="image/tiff" CHECKSUM="a9b13fd14d9f11f3eaf06dfa725e8fb0" CHECKSUMTYPE="MD5" SIZE="30984">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00264_1.tif"/>
+      </file>
+      <file ID="tiff_00265_0" MIMETYPE="image/tiff" CHECKSUM="a2acf12251372ce6a976c869a7f38071" CHECKSUMTYPE="MD5" SIZE="47350">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00265_0.tif"/>
+      </file>
+      <file ID="tiff_00265_1" MIMETYPE="image/tiff" CHECKSUM="110563415276e72ccd3e8bb56e73132e" CHECKSUMTYPE="MD5" SIZE="29482">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00265_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00264_1" MIMETYPE="image/jp2" CHECKSUM="d922d08b76d4584c87643c6d14e9fdb7" CHECKSUMTYPE="MD5" SIZE="2425313">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00264_1.jp2"/>
+      </file>
+      <file ID="jp2_00265_0" MIMETYPE="image/jp2" CHECKSUM="529ec985345dc34e04d10697a4d61337" CHECKSUMTYPE="MD5" SIZE="2567516">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00265_0.jp2"/>
+      </file>
+      <file ID="jp2_00265_1" MIMETYPE="image/jp2" CHECKSUM="bb4b0aa9ed45eef8279b3be3520e81a5" CHECKSUMTYPE="MD5" SIZE="2435151">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00265_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00264_1" MIMETYPE="text/xml" CHECKSUM="5b5d9e016b6541b9b80e98ddf8c2c796" CHECKSUMTYPE="MD5" SIZE="63546">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00264_1.xml"/>
+      </file>
+      <file ID="alto_00265_0" MIMETYPE="text/xml" CHECKSUM="89a360c12c2a92d81480a0c392ea4cd4" CHECKSUMTYPE="MD5" SIZE="89584">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00265_0.xml"/>
+      </file>
+      <file ID="alto_00265_1" MIMETYPE="text/xml" CHECKSUM="384db2d7e3ea2136b14ab59a62c0299d" CHECKSUMTYPE="MD5" SIZE="57958">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00265_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0126" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="528" firstpage="526">
+              <parties id="b528-5" pgmap="528">Galloway vs. Devaney &amp; Wife.</parties>
+              <attorneys id="b528-9" pgmap="528">Garland, for the plaintiff.</attorneys>
+              <attorneys id="b528-11" pgmap="528">Bertrand, for the defendants.</attorneys>
+              <summary id="b528-7" pgmap="528">Writ of Error to Pulaski Circuit Court.</summary>
+              <summary id="b528-8" pgmap="528">Hon. John J. Clenkenin, Circuit Judge.</summary>
+              <summary id="b528-10" pgmap="528">A deed to take effect after the death of the grantor, is but a will. 1 Jarvi. on Wills 12, 13; 4 JDessa. 619; 1 lb. 543; 5 Conn. 317; 7 lb. 315.</summary>
+              <headnotes id="b528-6" pgmap="528">The mere reservation of a life estate in an absolute conveyance of land does not necessarily make the conveyance testamentary in its character.</headnotes>
+              <opinion type="majority">
+                <author id="b528-12" pgmap="528">Mr. Justice Compton</author>
+                <p id="AE_" pgmap="528">delivered the opinion of the Court.</p>
+                <p id="b528-13" pgmap="528">In an action of ejectment, Devaney &amp; wdfe recovered of Galloway a tract of land, known as the S. W. ¿ sec. 29, T. 2 N., R. 11 W., containing 160 acres.</p>
+                <p id="b528-14" pgmap="528">The case was tried in the court below upon an agreed state­ment of facts, from which it appears that, on the 7th of May, 1842, Hardy Robinson, who was the father of Mrs. Devaney, by deed of that date, duly executed and recorded, conveyed to her the land in controversy, reserving to himself a life estate; and that on the 25th of March, 1853, he made his will, by which, among other legacies, he bequeathed as follows:</p>
+                <p id="b528-15" pgmap="528(43) 529(82)">“ Item 5. I will and bequeath unto my son, Henry Robinson, and my daughter, Nancy, (now Mrs. Devaney), in equal portions, the proceeds of eighty acres of land, lying about two miles north-east from Little Rock, known as the Cypress tract, the proceeds to be paid to them after the said land is sold, and the money collected, as hereinafter indicated. * * * Item 7th% I will and bequeath to my beloved wife, Mary Frances, abso­lutely in her own right, in fee simple forever, the plantation on which I now reside, known as Mount Gallant, embracing 640 acres of land more or less, and any and all other real estate which I may own, except the 80 acre Cypress tract above described.”</p>
+                <p id="b529-6" pgmap="529">It also appears that Robinson died soon after making his will, and that Galloway intermarried with his widow.</p>
+                <p id="b529-7" pgmap="529">Devaney &amp; wife claim title to the premisfes under the deed of the 7th of May, 1842, and Galloway under the 7th item of the will above quoted, insisting that the former instrument was in legal effect but a will, and was consequently revoked by the latter.</p>
+                <p id="b529-8" pgmap="529">The conveyance to Mrs. Devaney was not copied into the bill of exceptions, and we have nothing before us from which to determine its character and legal effect, except the agreed statement, that it was the deed of Hardy Robinson, duly exe­cuted and recorded, by which he conveyed the land to Mrs. Devaney, reserving to himself a life estate in it. Taking this to be true, the proposition that the mere reservation of a life estate in Robinson necessarily made the conveyance testamen­tary in its character, is not maintainable. On the contrary, under our system of conveyancing, the deed vested Mrs. De­vaney with a present interest in the land t© be enjoyed in futuro. The authorities relied on by the counsel for Galloway are cases where an animus testandi appeared, either from the face of the instrument itself, or from circumstances attending its execution. There being no such evidence in this case, there is nothing to warrant the conclusion that the conveyance to Mrs. Devaney was intended to be testamentary, and we therefore hold it strictly a deed, which Robinson had not the power to revoke, even if he had desired to do so.</p>
+                <p id="b529-9" pgmap="529(20) 530(67)">The Court deem it unnecessary to notice the legal proposi­tion that Mrs. Devaney was compelled to elect whether she would hold the land conveyed by the deed, or take the proceeds of the sale of that devised by the will, further than to remark that no such question arises upon the record; because it does not appear that Robinson ever attempted to devise by his will the same land which he had previously conveyed to Mrs. De­vaney by the deed of 7th of May,' 1842.</p>
+                <p id="b530-4" pgmap="530">Seeing no error in the record, the judgment must be affirmed with costs.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="528" ORDERLABEL="526" TYPE="page">
+        <fptr FILEID="tiff_00264_1"/>
+        <fptr FILEID="jp2_00264_1"/>
+        <fptr FILEID="alto_00264_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_528.1" BETYPE="IDREF" FILEID="alto_00264_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_528.2" BETYPE="IDREF" FILEID="alto_00264_1"/>
+              <area BEGIN="BL_528.3" BETYPE="IDREF" FILEID="alto_00264_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="529" ORDERLABEL="527" TYPE="page">
+        <fptr FILEID="tiff_00265_0"/>
+        <fptr FILEID="jp2_00265_0"/>
+        <fptr FILEID="alto_00265_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_529.3" BETYPE="IDREF" FILEID="alto_00265_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_529.2" BETYPE="IDREF" FILEID="alto_00265_0"/>
+              <area BEGIN="BL_529.4" BETYPE="IDREF" FILEID="alto_00265_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="530" ORDERLABEL="528" TYPE="page">
+        <fptr FILEID="tiff_00265_1"/>
+        <fptr FILEID="jp2_00265_1"/>
+        <fptr FILEID="alto_00265_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_530.2" BETYPE="IDREF" FILEID="alto_00265_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_530.3" BETYPE="IDREF" FILEID="alto_00265_1"/>
+              <area BEGIN="BL_530.4" BETYPE="IDREF" FILEID="alto_00265_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_530.6" BETYPE="IDREF" FILEID="alto_00265_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b529-9" BETYPE="IDREF" FILEID="casebody_0126"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_529.8" BETYPE="IDREF" FILEID="alto_00265_0"/>
+            <area BEGIN="BL_530.1" BETYPE="IDREF" FILEID="alto_00265_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b529-6" BETYPE="IDREF" FILEID="casebody_0126"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_529.5" BETYPE="IDREF" FILEID="alto_00265_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b529-7" BETYPE="IDREF" FILEID="casebody_0126"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_529.6" BETYPE="IDREF" FILEID="alto_00265_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AE_" BETYPE="IDREF" FILEID="casebody_0126"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_528.12" BETYPE="IDREF" FILEID="alto_00264_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b528-15" BETYPE="IDREF" FILEID="casebody_0126"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_528.15" BETYPE="IDREF" FILEID="alto_00264_1"/>
+            <area BEGIN="BL_529.1" BETYPE="IDREF" FILEID="alto_00265_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b528-14" BETYPE="IDREF" FILEID="casebody_0126"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_528.14" BETYPE="IDREF" FILEID="alto_00264_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b528-11" BETYPE="IDREF" FILEID="casebody_0126"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_528.10" BETYPE="IDREF" FILEID="alto_00264_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b528-10" BETYPE="IDREF" FILEID="casebody_0126"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_528.9" BETYPE="IDREF" FILEID="alto_00264_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b528-13" BETYPE="IDREF" FILEID="casebody_0126"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_528.13" BETYPE="IDREF" FILEID="alto_00264_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b528-12" BETYPE="IDREF" FILEID="casebody_0126"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_528.11" BETYPE="IDREF" FILEID="alto_00264_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b528-9" BETYPE="IDREF" FILEID="casebody_0126"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_528.8" BETYPE="IDREF" FILEID="alto_00264_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b528-8" BETYPE="IDREF" FILEID="casebody_0126"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_528.7" BETYPE="IDREF" FILEID="alto_00264_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b530-4" BETYPE="IDREF" FILEID="casebody_0126"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_530.5" BETYPE="IDREF" FILEID="alto_00265_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b528-5" BETYPE="IDREF" FILEID="casebody_0126"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_528.4" BETYPE="IDREF" FILEID="alto_00264_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b529-8" BETYPE="IDREF" FILEID="casebody_0126"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_529.7" BETYPE="IDREF" FILEID="alto_00265_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b528-7" BETYPE="IDREF" FILEID="casebody_0126"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_528.6" BETYPE="IDREF" FILEID="alto_00264_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b528-6" BETYPE="IDREF" FILEID="casebody_0126"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_528.5" BETYPE="IDREF" FILEID="alto_00264_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

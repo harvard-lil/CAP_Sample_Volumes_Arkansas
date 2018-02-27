@@ -1,0 +1,1159 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0058" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Philyaw v. State">Charles W. PHILYAW v. STATE of Arkansas</name>
+          <docketnumber>CR 85-167</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 237</citation>
+          <citation category="parallel" type="bluebook">704 S.W.2d 608</citation>
+          <decisiondate>1986-02-24</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:00Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00133_0" MIMETYPE="image/tiff" CHECKSUM="f2a820f2c1f74ed8a2178374dd1625d8" CHECKSUMTYPE="MD5" SIZE="23114">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00133_0.tif"/>
+      </file>
+      <file ID="tiff_00133_1" MIMETYPE="image/tiff" CHECKSUM="d9c133a555166e21f66a53570a5da29c" CHECKSUMTYPE="MD5" SIZE="3984">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00133_1.tif"/>
+      </file>
+      <file ID="tiff_00134_0" MIMETYPE="image/tiff" CHECKSUM="f420b1ff2f9e90d103f131b6a12e6d95" CHECKSUMTYPE="MD5" SIZE="16714">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00134_0.tif"/>
+      </file>
+      <file ID="tiff_00134_1" MIMETYPE="image/tiff" CHECKSUM="79f4ca690fbd1ae2cb6374023d8aea58" CHECKSUMTYPE="MD5" SIZE="54698">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00134_1.tif"/>
+      </file>
+      <file ID="tiff_00135_0" MIMETYPE="image/tiff" CHECKSUM="8664e5666d697d6c6a2334ec9dd09018" CHECKSUMTYPE="MD5" SIZE="49474">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00135_0.tif"/>
+      </file>
+      <file ID="tiff_00135_1" MIMETYPE="image/tiff" CHECKSUM="c3a173bcbce781d8758498e20c0fbe6c" CHECKSUMTYPE="MD5" SIZE="34552">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00135_1.tif"/>
+      </file>
+      <file ID="tiff_00136_0" MIMETYPE="image/tiff" CHECKSUM="2709c90337b68c3c227849b34a6a4f82" CHECKSUMTYPE="MD5" SIZE="49472">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00136_0.tif"/>
+      </file>
+      <file ID="tiff_00136_1" MIMETYPE="image/tiff" CHECKSUM="9f799921ebb8e51cd22958d7faf7507f" CHECKSUMTYPE="MD5" SIZE="51126">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00136_1.tif"/>
+      </file>
+      <file ID="tiff_00137_0" MIMETYPE="image/tiff" CHECKSUM="ea14b56f92f6a8c5d2ee0d8d77c8ac74" CHECKSUMTYPE="MD5" SIZE="53128">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00137_0.tif"/>
+      </file>
+      <file ID="tiff_00137_1" MIMETYPE="image/tiff" CHECKSUM="739ce627e30feccdeffb5f80760a9032" CHECKSUMTYPE="MD5" SIZE="47594">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00137_1.tif"/>
+      </file>
+      <file ID="tiff_00138_0" MIMETYPE="image/tiff" CHECKSUM="da0303acf4abf83cc066b99f7e938b30" CHECKSUMTYPE="MD5" SIZE="53208">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00138_0.tif"/>
+      </file>
+      <file ID="tiff_00138_1" MIMETYPE="image/tiff" CHECKSUM="ad683e043bcc3e4e2e472d304b5c584b" CHECKSUMTYPE="MD5" SIZE="42494">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00138_1.tif"/>
+      </file>
+      <file ID="tiff_00139_0" MIMETYPE="image/tiff" CHECKSUM="b2c101d1e3649ed2ed9c3a6d4c607da5" CHECKSUMTYPE="MD5" SIZE="9366">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00139_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00133_0" MIMETYPE="image/jp2" CHECKSUM="82822ccf6a8318855f541f9953811a3d" CHECKSUMTYPE="MD5" SIZE="2303195">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00133_0.jp2"/>
+      </file>
+      <file ID="jp2_00133_1" MIMETYPE="image/jp2" CHECKSUM="02135be278cec722e3dc815d00e1faaf" CHECKSUMTYPE="MD5" SIZE="922667">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00133_1.jp2"/>
+      </file>
+      <file ID="jp2_00134_0" MIMETYPE="image/jp2" CHECKSUM="7ef23823bf11b74dd9410ac3eeb12cb7" CHECKSUMTYPE="MD5" SIZE="1535358">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00134_0.jp2"/>
+      </file>
+      <file ID="jp2_00134_1" MIMETYPE="image/jp2" CHECKSUM="da23e87c35fa28d59344cd6fe0f2509d" CHECKSUMTYPE="MD5" SIZE="2564364">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00134_1.jp2"/>
+      </file>
+      <file ID="jp2_00135_0" MIMETYPE="image/jp2" CHECKSUM="510f1ec84b7777016260df7fccd45c87" CHECKSUMTYPE="MD5" SIZE="2462357">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00135_0.jp2"/>
+      </file>
+      <file ID="jp2_00135_1" MIMETYPE="image/jp2" CHECKSUM="cf80ec1a65b2c615cef1e918a9941bf1" CHECKSUMTYPE="MD5" SIZE="2452148">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00135_1.jp2"/>
+      </file>
+      <file ID="jp2_00136_0" MIMETYPE="image/jp2" CHECKSUM="fcf190f31e966b6e720d9a9a09e4f050" CHECKSUMTYPE="MD5" SIZE="2484350">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00136_0.jp2"/>
+      </file>
+      <file ID="jp2_00136_1" MIMETYPE="image/jp2" CHECKSUM="ced85f458bd226cfbb5585bd95220ef8" CHECKSUMTYPE="MD5" SIZE="2695902">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00136_1.jp2"/>
+      </file>
+      <file ID="jp2_00137_0" MIMETYPE="image/jp2" CHECKSUM="ef663fd16397f19ab8917552e0bbf0b6" CHECKSUMTYPE="MD5" SIZE="2511266">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00137_0.jp2"/>
+      </file>
+      <file ID="jp2_00137_1" MIMETYPE="image/jp2" CHECKSUM="f91c0c500c2562672408d31ca093fff7" CHECKSUMTYPE="MD5" SIZE="2497844">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00137_1.jp2"/>
+      </file>
+      <file ID="jp2_00138_0" MIMETYPE="image/jp2" CHECKSUM="d68648a5ddc2f2b6bf73a796991c4008" CHECKSUMTYPE="MD5" SIZE="2494492">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00138_0.jp2"/>
+      </file>
+      <file ID="jp2_00138_1" MIMETYPE="image/jp2" CHECKSUM="785824b7e6fc33fb0e74155b836cfe88" CHECKSUMTYPE="MD5" SIZE="2413601">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00138_1.jp2"/>
+      </file>
+      <file ID="jp2_00139_0" MIMETYPE="image/jp2" CHECKSUM="5e9a3bcf4ac9c8c0827a0a14c56930fa" CHECKSUMTYPE="MD5" SIZE="1376295">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00139_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00133_0" MIMETYPE="text/xml" CHECKSUM="69f3dadb1d8f228d95c9222ab1a0da8e" CHECKSUMTYPE="MD5" SIZE="38671">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00133_0.xml"/>
+      </file>
+      <file ID="alto_00133_1" MIMETYPE="text/xml" CHECKSUM="97d4c0eae7671ec0c854e5bc002f78d5" CHECKSUMTYPE="MD5" SIZE="1780">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00133_1.xml"/>
+      </file>
+      <file ID="alto_00134_0" MIMETYPE="text/xml" CHECKSUM="7867999a758fbaffe8c26ff5814b42a8" CHECKSUMTYPE="MD5" SIZE="26635">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00134_0.xml"/>
+      </file>
+      <file ID="alto_00134_1" MIMETYPE="text/xml" CHECKSUM="1974148ca41d5633e675c2fbf2b3d4cb" CHECKSUMTYPE="MD5" SIZE="91570">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00134_1.xml"/>
+      </file>
+      <file ID="alto_00135_0" MIMETYPE="text/xml" CHECKSUM="82102785d090de6e90b2885d39875278" CHECKSUMTYPE="MD5" SIZE="86779">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00135_0.xml"/>
+      </file>
+      <file ID="alto_00135_1" MIMETYPE="text/xml" CHECKSUM="1413198e9229f90f557c7cca8a30d24d" CHECKSUMTYPE="MD5" SIZE="70989">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00135_1.xml"/>
+      </file>
+      <file ID="alto_00136_0" MIMETYPE="text/xml" CHECKSUM="53f2faeeb6612436c34665b885ad3963" CHECKSUMTYPE="MD5" SIZE="90861">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00136_0.xml"/>
+      </file>
+      <file ID="alto_00136_1" MIMETYPE="text/xml" CHECKSUM="a69b125908d0a0fdd93be2e0cb4067cf" CHECKSUMTYPE="MD5" SIZE="87581">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00136_1.xml"/>
+      </file>
+      <file ID="alto_00137_0" MIMETYPE="text/xml" CHECKSUM="e68eed82c79a26d2a27cc4100470430b" CHECKSUMTYPE="MD5" SIZE="90815">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00137_0.xml"/>
+      </file>
+      <file ID="alto_00137_1" MIMETYPE="text/xml" CHECKSUM="b747bb44768f6ea9d0dd4097622cde81" CHECKSUMTYPE="MD5" SIZE="83393">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00137_1.xml"/>
+      </file>
+      <file ID="alto_00138_0" MIMETYPE="text/xml" CHECKSUM="cccf1da185f52a4e37d4f61909ecc745" CHECKSUMTYPE="MD5" SIZE="88358">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00138_0.xml"/>
+      </file>
+      <file ID="alto_00138_1" MIMETYPE="text/xml" CHECKSUM="67bf37c535325f69d4412d9660a991bb" CHECKSUMTYPE="MD5" SIZE="74036">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00138_1.xml"/>
+      </file>
+      <file ID="alto_00139_0" MIMETYPE="text/xml" CHECKSUM="7995dfcf4541e74b3fee02c323fba040" CHECKSUMTYPE="MD5" SIZE="10694">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00139_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0058" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="237" lastpage="249">
+              <court pgmap="265" id="b265-17">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="265" id="b265-16">CR 85-167</docketnumber>
+              <citation pgmap="265" id="A-3">704 S.W.2d 608</citation>
+              <parties pgmap="265" id="b265-15">Charles W. PHILYAW v. STATE of Arkansas</parties>
+              <decisiondate pgmap="265" id="AFY">Opinion delivered February 24, 1986</decisiondate>
+              <judges pgmap="277" id="b277-5">Purtle, J., not participating.</judges>
+              <attorneys pgmap="267" id="b267-11">Greg Stephens, for appellant.</attorneys>
+              <attorneys pgmap="267" id="b267-12">Steve Clark, Átt’y Gen., by: Mary Beth Sudduth, Asst. Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="267" id="b267-13">Jack Holt, Jr., Chief Justice.</author>
+                <p pgmap="267" id="AGE">The appellant, Charles W. Philyaw, was convicted of attempted capital murder and sen­tenced to a term of 20 years imprisonment, to run consecutively with a prior life sentence. He sought postconviction relief pursu­ant to Ark. R. Crim. P. 37, which was denied by the trial court after a hearing. It is from that denial that this appeal is brought. Our jurisdiction is based on Sup. Ct. R. 29(1 )(e).</p>
+                <p pgmap="267(9) 268(61)" id="b267-14">Although the appellant raised numerous issues in his Rule 37 petition and in this appeal, we need only discuss the first point he raises, since we find it has merit. The appellant contends that the trial court erred when it refused to appoint an attorney to represent him during the trial. We find that the appellant was denied his constitutional right to assistance of counsel, and accordingly reverse the conviction.</p>
+                <p pgmap="268" id="b268-6">The facts giving rise to this situation are as follows. The appellant was charged with aggravated robbery in Miller County, Arkansas, in connection with a May 11, 1981, robbery. He was also charged by amended information in Hempstead County, Arkansas, with attempted capital murder for allegedly pointing a gun at the arresting officer when he was apprehended for the robbery. The appellant was convicted in Miller County of the aggravated robbery charge and sentenced to life imprison­ment. He was convicted in Hempstead County on the charge of attempted capital murder and sentenced to a consecutive 20 year sentence. An accomplice in the robbery, Fabian Costillo, was also convicted in Miller County. Circuit Judge John Goodson pre­sided over both of appellant’s trials and over Costillo’s trial.</p>
+                <p pgmap="268" id="b268-7">On November 9, 1981, the appellant filed a pro se notice of appeal and on April 14, 1982 he filed a pro se motion seeking a free transcript. The motion was denied and the appeal was never perfected. Later, a pro se motion for a belated appeal was denied by this court. The appellant then filed a petition in circuit court for relief under Rule 37. A different judge presided over the Rule 37 evidentiary hearing, since Judge Goodson was subpoenaed as a witness.</p>
+                <p pgmap="268" id="b268-8">The appellant was represented in the Miller County robbery trial by retained counsel, Gene Harrelson. On October 5, 1981, the day set for trial in Hempstead County on the attempted capital murder charge, Mr. Harrelson was permitted to withdraw as appellant’s attorney. The order permitting withdrawal of counsel states that the motion to withdraw was filed by Mr. Harrelson, with the “consent and approval” of the appellant, and that “from statements of counsel, statements of consent from Charles W. Philyaw, and other things and proof before the Court,” the court found there was sufficient cause to allow the withdrawal and it was in the best interest of justice.</p>
+                <p pgmap="268(7) 269(107)" id="b268-9">The appellant maintains that Mr. Harrelson withdrew because the appellant would not accept an arranged plea bargain and because he had not paid Mr. Harrelson. Mr. Harrelson disagreed that he quit because he had not been paid, but agreed that his withdrawal was based on the disagreement over the plea bargain. At the Rule 37 hearing, Mr. Harrelson testified that the idea of withdrawing originated with him and that he does not remember whether he told the appellant that he could have kept him as his attorney if he insisted. He also stated that the subject never came up about the consequences of his withdrawal and whether the appellant could get an appointed lawyer.</p>
+                <p pgmap="269" id="b269-4">The following colloquy occurred during the October 5, hearing:</p>
+                <blockquote pgmap="269" id="b269-5">Court: Mr. Philyaw, how long do you think it will take you to obtain another counsel?</blockquote>
+                <blockquote pgmap="269" id="b269-6">Defendant: A week, your Honor. I should think I could if I can get some phone calls.</blockquote>
+                <blockquote pgmap="269" id="b269-7">Court: All right, sir. Mr. Harrelson, you will be permitted to withdraw. Mr. Philyaw, you will be given a week to obtain other counsel. I anticipate trying this case next week, here.</blockquote>
+                <blockquote pgmap="269" id="b269-8">Defendant: Yes, sir.</blockquote>
+                <blockquote pgmap="269" id="b269-9">Court: Now, whoever you employ, I recommend that you do it as hurriedly as you can because they will need some time to work on your case but any handicap that they may have will be your responsibility. Do you understand that?</blockquote>
+                <p pgmap="269(138) 270(6)" id="b269-10">On October 12,1981, the case was called and the appellant appeared without counsel. In proceedings before the trial, out of the hearing of the jury, the appellant explained that he was only allowed to use the telephone at night and he could not reach an attorney. Appellant also stated that his sister had talked to 16 lawyers for him who were supposed to call or come and see him, but none of them did. He further stated that he had sent his sister to the judge asking for an appointed attorney and the request was refused. The appellant then related the circumstances under which Mr. Harrelson quit — the lack of payment and appellant’s refusal to plead guilty — and explained that he was told by Mr. Harrelson, “Well, either you plead guilty, or I withdraw as your attorney.” The following then took place:</p>
+                <blockquote pgmap="270" id="b270-6">Court: Now, Mr. Philyaw, whether you — I assume that you knew or know that if an attorney is once in a case, they cannot be relieved unless done so by the judge, and if his — was on the strength of what you said to me, I certainly was not privy and have no business of knowing what you and your attorney’s conversations were. Mr. Harrelson’s not here to give his version of the matter now.</blockquote>
+                <blockquote pgmap="270" id="b270-7">Defendant: —he quit. I did not relieve him because I wanted a different one or to make hardship on the court or anything.</blockquote>
+                <blockquote pgmap="270" id="b270-8">Defendant: He was relieved and I agreed to it.</blockquote>
+                <blockquote pgmap="270" id="b270-9">Court: —I don’t know, and you may make your record, but I plan on trying this case Wednesday. I will appoint a lawyer to sit with you to answer any questions which you may ask, but not to represent you. You may represent yourself, sir.</blockquote>
+                <blockquote pgmap="270" id="b270-10">Defendant: Sir, I don’t know anything about courtroom procedures or anything.</blockquote>
+                <blockquote pgmap="270" id="b270-11">Court: Well, this case was set for last week to try, and we had a jury here and we were ready to do it.</blockquote>
+                <blockquote pgmap="270" id="b270-12">And at that time, you told me you could have a lawyer in a week. Today is the end of that week. I, at that time, told you that this case would be tried on the 13th. I plan to be as good as my word. You can represent yourself . . . Now, your cohort tried this over ... in Miller County, and it didn’t work there; it’s not going to work here.</blockquote>
+                <blockquote pgmap="270" id="b270-13">Defendant: I believe your Honor is wrong there: He fired his attorney; I did not.</blockquote>
+                <blockquote pgmap="270(11) 271(24)" id="b270-14">When an attorney tells me “You owe me money. Do you have any money?” and I say, “No, I do not have the money,” and then he says, “Then I’m not going to represent you.”</blockquote>
+                <blockquote pgmap="271" id="b271-4">Court: When his name is on this book, he is going to be here. He is going to function. And both of you all agreed because I asked you last week.</blockquote>
+                <blockquote pgmap="271" id="b271-5">Defendant: And you refuse to appoint me a court-ap­pointed attorney?</blockquote>
+                <blockquote pgmap="271" id="b271-6">Court: Yes, sir. I’m not going to throw an attorney or a member of the Bar in here on two days notice to prepare a case such as this when you have had an attorney, you agreed that that attorney be relieved or dis­charged — whatever word you care for — and let the matter go ahead.</blockquote>
+                <p pgmap="271" id="b271-7">A jury was empaneled and the trial began two days later on October 14, 1981. During a pretrial conference, the judge restated his reasons for refusing to appoint an attorney for appellant. He noted that the appellant had retained counsel and allowed him to withdraw from the case; the appellant then appeared without an attorney on the day set for trial and without having filed an indigent affidavit; and the court appointed counsel to answer his legal questions during the trial. The appellant asked what an indigent affidavit was and, upon being told, asked if he could fill one out. The judge stated that he would let him fill one out, but that he would still have to proceed to trial that day. He then denied appellant’s motion for a continuance to prepare the case with legal assistance. Once more, during the trial, the appellant asked for a court-appointed lawyer and the judge refused.</p>
+                <p pgmap="271(107) 272(16)" id="b271-8">At the Rule 37 hearing, the trial judge testified that he did not appoint an attorney because: “I had the distinct feeling that this was an effort or subterfuge on Mr. Philyaw’s part to extend the period or to obtain continuance, and that is not the first time that has been tried to be pulled.” The judge also stated that he does not know whether he ever inquired into Mr. Philyaw’s financial status to find out if he could afford to hire a lawyer or whether he provided him with an affidavit of indigency. The judge stated that if he had appointed counsel and postponed the case, “Mr. Philyaw would have probably, in all likelihood, stated that he had ineffective assistance of counsel.”</p>
+                <p pgmap="272" id="b272-4">The attorney who was appointed to assist the appellant, testified he was appointed to “[sit] at counsel table during trial of the case and [answer] any law questions that the defendant might have.”</p>
+                <p pgmap="272" id="b272-5">
+                   We have long recognized that the sixth amendment to the United States Constitution guarantees an accused the right to have the assistance of counsel for his defense. This amendment is made obligatory upon the states by the due process clause of the fourteenth amendment. Gideon v. Wainwright, 372 U.S. 335 (1963); Slaughter &amp; Scott v. State, 240 Ark. 471, 400 S.W.2d 267 (1966). Article 2, § 10 of the Arkansas Constitution specifically provides that an accused in a criminal prosecution shall enjoy the right to be heard by himself and his counsel. Barnes v. State, 258 Ark. 565, 528 S.W.2d 370 (1975). No sentence involving loss of liberty can be imposed where there has been a denial of counsel. White v. State, 277 Ark. 429, 642 S.W.2d 304 (1982). Furthermore, an accused is entitled to relief from a conviction whenever the proceedings indicate the unfair­ness of trial without the help of a lawyer. McIntyre v. State, 242 Ark. 229, 412 S.W.2d 826 (1967).</p>
+                <p pgmap="272" id="b272-6">
+                   The right to counsel, though, is a personal right and the accused may knowingly and intelligently waive counsel either at a pretrial stage or at the trial, Johnson v. Zerbst, 304 U.S. 458 (1938); Barnes v. State, supra, however, every reasonable pre­sumption must be indulged against the waiver of fundamental constitutional rights. Franklin &amp; Reid v. State, 251 Ark. 223, 471 S.W.2d 760 (1971).</p>
+                <p pgmap="272" id="b272-7">
+                   There are certain requirements that must be met, before a trial court can find that an accused has knowingly and intelligently waived counsel and allow the accused to proceed pro se. In Barnes v. State, supra, we adopted a test enunciated by the New York Court of Appeals in People v. McIntyre, 36 N.Y.2d 10, 324 N.E.2d 322 (1974) which provides:</p>
+                <blockquote pgmap="272(31) 273(27)" id="b272-8">A defendant in a criminal case may invoke the right to defend pro se provided: (1) the request is unequivocal and timely asserted, (2) there has been a knowing and intelli­gent waiver of the right to counsel, and (3) the defendant has not engaged in conduct which would prevent the fair and orderly exposition of the issues.</blockquote>
+                <p pgmap="273" id="b273-6">The determination in each case of whether a waiver is intelli­gently made depends upon the particular facts and circum­stances. The accused must have full knowledge or adequate warning concerning his rights and a clear intent to relinquish them, before a waiver can be found, Barnes v. State, supra.</p>
+                <p pgmap="273" id="b273-7">
+                   Here, it is clear that the trial judge did not comply with the guidelines established in Barnes. To the contrary, there was no request by appellant that he be allowed to represent himself. He was not informed of his right to counsel. The record reveals absolutely no waiver of that right, yet he was forced to represent himself.</p>
+                <p pgmap="273" id="b273-8">
+                   Appellant complains that he was not provided with appointed counsel, yet the record reveals no affidavit of indigency was completed by him. While it is true that our Uniform Rules for Circuit and Chancery Courts provide that an affidavit of indi­gency must accompany any claim by an indigent for relief, the rule also provides, “The affidavit form will be provided by the Circuit Court for such purposes.” Rule 18. The circuit judge did not provide him with such a form, nor did he inform him that it was required. In fact he stated that he does not remember whether he inquired about appellant’s financial status.</p>
+                <p pgmap="273" id="b273-9">The trial judge noted in his testimony at the Rule 37 hearing that he appointed counsel to assist appellant. That attorney testified, however, that he was merely appointed to answer legal questions. In Calamese v. State, 276 Ark. 422, 635 S.W.2d 261 (1982) the appellant appeared without counsel the morning of trial and asked to appear pro se. The trial judge appointed two attorneys to assist appellant, but the attorneys assumed a fully active role as trial attorneys and conducted the defense. On appeal, the appellant argued the trial court erred in allowing her to represent herself since the record fails to reflect a voluntary and intelligent waiver. We stated:</p>
+                <blockquote pgmap="273(33) 274(26)" id="b273-10">It is true there is nothing in the record showing the trial court made any inquiry into appellant’s attempted waiver of counsel, and if she had been permitted to act as her own counsel, we would be hard-pressed to deny the argument, as the State has the burden of showing a voluntary and intelligent waiver of counsel, (emphasis added.)</blockquote>
+                <p pgmap="274" id="b274-6">
+                   As in Calamese, there is nothing in this record to indicate the trial court made any inquiry into appellant’s waiver of counsel, but this appellant did act as his own counsel. The state has failed to meet its burden of showing a voluntary and intelligent waiver.</p>
+                <p pgmap="274" id="b274-7">The trial judge placed a great deal of emphasis on the fact that appellant had retained counsel and allowed him to withdraw, maintaining that this was a waiver of right to counsel.</p>
+                <p pgmap="274" id="b274-8">
+                   In Franklin &amp; Reid v. State, supra, we discussed the essential requirements of a waiver and noted that it is “the voluntary abandonment or surrender ... of a right known by him to exist . . .’’In finding that the waiver in that case was not knowingly and intelligently made, we explained:</p>
+                <blockquote pgmap="274" id="b274-9">There is no indication that they [the appellants] were made aware of any alternative to continuing the trial with that representation. . .</blockquote>
+                <blockquote pgmap="274" id="b274-10">In order to say that there was a waiver, it must appear that appellants had full knowledge of their rights and intended to relinquish them . . . One cannot be said to have waived that of which he had no knowledge.</blockquote>
+                <p pgmap="274" id="b274-11">Here too, the appellant argued he did not know he could retain Mr. Harrelson’s services even though the attorney wanted to withdraw. Mr. Harrelson testified he does not remember whether he told the appellant he could keep him as his attorney, and the record does not reveal that the trial judge ever so informed the appellant. Absent that knowledge, the appellant’s act in releasing Mr. Harrelson cannot be viewed as a waiver of a right to counsel.</p>
+                <p pgmap="274(52) 275(89)" id="b274-12">The Eighth Circuit has reached the same conclusion when confronted with this situation. In United States v. White, 529 F.2d 1390 (1976), the appellant appeared for his arraignment with retained counsel but on the date set for the trial, the court announced that it had received a letter from retained counsel four days before, stating that appellant would represent himself. Appellant indicated that he would prefer to have counsel and that he had attempted to obtain other counsel but had been unsuccess­ful. The court stated that appellant would be deemed to have moved for a continuance and the motion would be denied. The government then presented its case. After the government’s presentation, the case was continued for one week. When court reconvened, appellant still did not have counsel and the court made a finding of guilt. The Eighth Circuit found:</p>
+                <blockquote pgmap="275" id="b275-6">On this record we cannot find that White knowingly and intelligently waived his right to counsel . . . Mr. White asserted at the July 15th proceeding that he wanted counsel and he related his unsuccessful attempts to obtain another attorney.</blockquote>
+                <blockquote pgmap="275" id="b275-7">Of course, the right to counsel is a shield, not á sword. A defendant has no right to manipulate his right for the purpose of delaying and disrupting the trial. . . However, this record is insufficient to support a finding of intentional manipulation. For all we can tell, appellant may have discharged [retained counsel] for wholly adequate reasons and may have then proceeded in good faith to attempt to find substitute counsel.</blockquote>
+                <p pgmap="275" id="b275-8">Although here the trial judge testified that he thought this was “an effort or subterfuge” by the appellant to extend time, the record is insufficient to support such a finding of manipulation. We note in particular that appellant’s employed counsel initiated his own removal from this case.</p>
+                <p pgmap="275" id="b275-9">Again in Tollett v. United States, 444 F.2d 622 (1971) the Eighth Circuit dealt with an appellant who began a trial represented by retained counsel. The trial recessed to allow the appellant to be psychiatrically evaluated. When the trial re­sumed, the court explained it had received a letter from appel­lant’s attorney stating that he and appellant had talked it over and appellant had terminated his employment. The trial court said, “Under those circumstances, we have turned him loose ... Do you want to go back and testify without counsel?” The appellant replied “Yes” and no other discussion concerning counsel took place until just prior to sentencing. The Eighth Circuit reversed, noting that at the resumption of the hearing, the trial court:</p>
+                <blockquote pgmap="276" id="b276-5">did not inquire of Tollett as to the circumstances of the termination of counsel and did not ask Tollett whether his prior attorney had resigned or whether Tollett had dis­charged him . . . There was no explanation to Tollett at that time that he was entitled as a matter of law to an attorney; no questioning of Tollett to see if he could afford an attorney; and no explanation of the desirability of having an attorney or that if he could not afford to pay an attorney, that the court would appoint one. Under those circumstances, it cannot be said that Tollett intelligently waived his constitutional right to be represented by counsel.</blockquote>
+                <p pgmap="276" id="b276-6">See also, United States v. Dujanovic, 486 F.2d 182 (9th Cir. 1973).</p>
+                <p pgmap="276" id="b276-7">
+                   We adopt the reasoning of the Eighth Circuit in Tollett. When an accused appears with retained counsel, the trial judge should not allow the attorney of record to withdraw until:</p>
+                <blockquote pgmap="276" id="b276-8">(1) new counsel has been retained; or</blockquote>
+                <blockquote pgmap="276" id="b276-9">(2) a showing of indigency has been made and counsel has been appointed; or</blockquote>
+                <blockquote pgmap="276" id="b276-10">(3) a voluntary and intelligent waiver of the right to counsel is established on the record.</blockquote>
+                <p pgmap="276" id="b276-11">
+                   To establish the latter, the trial judge must explain to the accused that he is entitled as a matter of law to an attorney and question him to see if he can afford to hire counsel. The judge must also explain the desirability of having the assistance of an attorney during the trial and the problems attendant to one representing himself. This last requirement is especially impor­tant since a party appearing pro se is responsible for any mistakes he makes in the conduct of his trial and receives no special consideration on appeal.</p>
+                <p pgmap="276" id="b276-12">Accordingly, since appellant was neither represented by counsel nor knowingly waived his right to representation, the conviction must be reversed.</p>
+                <p pgmap="276" id="b276-13">Reversed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="265" ORDERLABEL="237" TYPE="page">
+        <fptr FILEID="tiff_00133_0"/>
+        <fptr FILEID="jp2_00133_0"/>
+        <fptr FILEID="alto_00133_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_265.2" BETYPE="IDREF" FILEID="alto_00133_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="266" ORDERLABEL="238" TYPE="page">
+        <fptr FILEID="tiff_00133_1"/>
+        <fptr FILEID="jp2_00133_1"/>
+        <fptr FILEID="alto_00133_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_266.2" BETYPE="IDREF" FILEID="alto_00133_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="267" ORDERLABEL="239" TYPE="page">
+        <fptr FILEID="tiff_00134_0"/>
+        <fptr FILEID="jp2_00134_0"/>
+        <fptr FILEID="alto_00134_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_267.3" BETYPE="IDREF" FILEID="alto_00134_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="268" ORDERLABEL="240" TYPE="page">
+        <fptr FILEID="tiff_00134_1"/>
+        <fptr FILEID="jp2_00134_1"/>
+        <fptr FILEID="alto_00134_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_268.2" BETYPE="IDREF" FILEID="alto_00134_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="269" ORDERLABEL="241" TYPE="page">
+        <fptr FILEID="tiff_00135_0"/>
+        <fptr FILEID="jp2_00135_0"/>
+        <fptr FILEID="alto_00135_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_269.3" BETYPE="IDREF" FILEID="alto_00135_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="270" ORDERLABEL="242" TYPE="page">
+        <fptr FILEID="tiff_00135_1"/>
+        <fptr FILEID="jp2_00135_1"/>
+        <fptr FILEID="alto_00135_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_270.2" BETYPE="IDREF" FILEID="alto_00135_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="271" ORDERLABEL="243" TYPE="page">
+        <fptr FILEID="tiff_00136_0"/>
+        <fptr FILEID="jp2_00136_0"/>
+        <fptr FILEID="alto_00136_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_271.3" BETYPE="IDREF" FILEID="alto_00136_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="272" ORDERLABEL="244" TYPE="page">
+        <fptr FILEID="tiff_00136_1"/>
+        <fptr FILEID="jp2_00136_1"/>
+        <fptr FILEID="alto_00136_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_272.2" BETYPE="IDREF" FILEID="alto_00136_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="273" ORDERLABEL="245" TYPE="page">
+        <fptr FILEID="tiff_00137_0"/>
+        <fptr FILEID="jp2_00137_0"/>
+        <fptr FILEID="alto_00137_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_273.3" BETYPE="IDREF" FILEID="alto_00137_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="274" ORDERLABEL="246" TYPE="page">
+        <fptr FILEID="tiff_00137_1"/>
+        <fptr FILEID="jp2_00137_1"/>
+        <fptr FILEID="alto_00137_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_274.2" BETYPE="IDREF" FILEID="alto_00137_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="275" ORDERLABEL="247" TYPE="page">
+        <fptr FILEID="tiff_00138_0"/>
+        <fptr FILEID="jp2_00138_0"/>
+        <fptr FILEID="alto_00138_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_275.3" BETYPE="IDREF" FILEID="alto_00138_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="276" ORDERLABEL="248" TYPE="page">
+        <fptr FILEID="tiff_00138_1"/>
+        <fptr FILEID="jp2_00138_1"/>
+        <fptr FILEID="alto_00138_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_276.1" BETYPE="IDREF" FILEID="alto_00138_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="277" ORDERLABEL="249" TYPE="page">
+        <fptr FILEID="tiff_00139_0"/>
+        <fptr FILEID="jp2_00139_0"/>
+        <fptr FILEID="alto_00139_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_277.2" BETYPE="IDREF" FILEID="alto_00139_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b265-17" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_265.23" BETYPE="IDREF" FILEID="alto_00133_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b265-16" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_265.21" BETYPE="IDREF" FILEID="alto_00133_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b265-15" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_265.20" BETYPE="IDREF" FILEID="alto_00133_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b271-7" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_271.7" BETYPE="IDREF" FILEID="alto_00136_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b276-7" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_276.5" BETYPE="IDREF" FILEID="alto_00138_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b277-5" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_277.3" BETYPE="IDREF" FILEID="alto_00139_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b271-4" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_271.4" BETYPE="IDREF" FILEID="alto_00136_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b271-5" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_271.5" BETYPE="IDREF" FILEID="alto_00136_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b271-6" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_271.6" BETYPE="IDREF" FILEID="alto_00136_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b276-6" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_276.4" BETYPE="IDREF" FILEID="alto_00138_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b276-12" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_276.10" BETYPE="IDREF" FILEID="alto_00138_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b276-11" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_276.9" BETYPE="IDREF" FILEID="alto_00138_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b276-10" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_276.8" BETYPE="IDREF" FILEID="alto_00138_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b273-10" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_273.8" BETYPE="IDREF" FILEID="alto_00137_0"/>
+            <area BEGIN="BL_274.1" BETYPE="IDREF" FILEID="alto_00137_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AGE" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_267.14" BETYPE="IDREF" FILEID="alto_00134_0"/>
+            <area BEGIN="BL_267.15" BETYPE="IDREF" FILEID="alto_00134_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AFY" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_265.24" BETYPE="IDREF" FILEID="alto_00133_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b275-9" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_275.7" BETYPE="IDREF" FILEID="alto_00138_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b270-7" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_270.5" BETYPE="IDREF" FILEID="alto_00135_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b270-6" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_270.4" BETYPE="IDREF" FILEID="alto_00135_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b272-7" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_272.7" BETYPE="IDREF" FILEID="alto_00136_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A-3" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_265.22" BETYPE="IDREF" FILEID="alto_00133_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b272-5" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_272.5" BETYPE="IDREF" FILEID="alto_00136_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b270-14" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_270.12" BETYPE="IDREF" FILEID="alto_00135_1"/>
+            <area BEGIN="BL_271.1" BETYPE="IDREF" FILEID="alto_00136_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b273-6" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_273.4" BETYPE="IDREF" FILEID="alto_00137_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b273-7" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_273.5" BETYPE="IDREF" FILEID="alto_00137_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b272-8" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_272.8" BETYPE="IDREF" FILEID="alto_00136_1"/>
+            <area BEGIN="BL_273.1" BETYPE="IDREF" FILEID="alto_00137_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b270-9" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_270.7" BETYPE="IDREF" FILEID="alto_00135_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b270-8" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_270.6" BETYPE="IDREF" FILEID="alto_00135_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b276-5" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_276.3" BETYPE="IDREF" FILEID="alto_00138_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b270-11" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_270.9" BETYPE="IDREF" FILEID="alto_00135_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b270-10" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_270.8" BETYPE="IDREF" FILEID="alto_00135_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b274-10" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_274.8" BETYPE="IDREF" FILEID="alto_00137_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b271-8" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_271.8" BETYPE="IDREF" FILEID="alto_00136_0"/>
+            <area BEGIN="BL_272.1" BETYPE="IDREF" FILEID="alto_00136_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b274-6" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_274.4" BETYPE="IDREF" FILEID="alto_00137_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b276-8" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_276.6" BETYPE="IDREF" FILEID="alto_00138_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b274-12" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_274.10" BETYPE="IDREF" FILEID="alto_00137_1"/>
+            <area BEGIN="BL_275.1" BETYPE="IDREF" FILEID="alto_00138_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b275-8" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_275.6" BETYPE="IDREF" FILEID="alto_00138_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b269-9" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_269.9" BETYPE="IDREF" FILEID="alto_00135_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b275-6" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_275.4" BETYPE="IDREF" FILEID="alto_00138_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b269-8" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_269.8" BETYPE="IDREF" FILEID="alto_00135_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b274-11" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_274.9" BETYPE="IDREF" FILEID="alto_00137_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b274-9" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_274.7" BETYPE="IDREF" FILEID="alto_00137_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b274-8" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_274.6" BETYPE="IDREF" FILEID="alto_00137_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b276-9" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_276.7" BETYPE="IDREF" FILEID="alto_00138_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b270-12" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_270.10" BETYPE="IDREF" FILEID="alto_00135_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b269-10" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_269.10" BETYPE="IDREF" FILEID="alto_00135_0"/>
+            <area BEGIN="BL_270.1" BETYPE="IDREF" FILEID="alto_00135_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b274-7" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_274.5" BETYPE="IDREF" FILEID="alto_00137_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b272-6" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_272.6" BETYPE="IDREF" FILEID="alto_00136_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b276-13" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_276.11" BETYPE="IDREF" FILEID="alto_00138_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b273-8" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_273.6" BETYPE="IDREF" FILEID="alto_00137_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b273-9" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_273.7" BETYPE="IDREF" FILEID="alto_00137_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b270-13" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_270.11" BETYPE="IDREF" FILEID="alto_00135_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b272-4" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_272.4" BETYPE="IDREF" FILEID="alto_00136_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b267-14" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_267.16" BETYPE="IDREF" FILEID="alto_00134_0"/>
+            <area BEGIN="BL_268.1" BETYPE="IDREF" FILEID="alto_00134_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b268-8" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_268.6" BETYPE="IDREF" FILEID="alto_00134_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b268-9" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_268.7" BETYPE="IDREF" FILEID="alto_00134_1"/>
+            <area BEGIN="BL_269.1" BETYPE="IDREF" FILEID="alto_00135_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b267-11" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_267.11" BETYPE="IDREF" FILEID="alto_00134_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b267-13" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_267.13" BETYPE="IDREF" FILEID="alto_00134_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b267-12" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_267.12" BETYPE="IDREF" FILEID="alto_00134_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b269-7" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_269.7" BETYPE="IDREF" FILEID="alto_00135_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b269-6" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_269.6" BETYPE="IDREF" FILEID="alto_00135_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b269-5" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_269.5" BETYPE="IDREF" FILEID="alto_00135_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b269-4" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_269.4" BETYPE="IDREF" FILEID="alto_00135_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b268-6" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_268.4" BETYPE="IDREF" FILEID="alto_00134_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b268-7" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_268.5" BETYPE="IDREF" FILEID="alto_00134_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b275-7" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_275.5" BETYPE="IDREF" FILEID="alto_00138_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

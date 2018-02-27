@@ -1,0 +1,941 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0053" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Carter v. Adamson">Carter vs. Adamson</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 287</citation>
+          <decisiondate>1860-05</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00145_0" MIMETYPE="image/tiff" CHECKSUM="4608b46833ce27958a336c5be8bbea09" CHECKSUMTYPE="MD5" SIZE="31436">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00145_0.tif"/>
+      </file>
+      <file ID="tiff_00145_1" MIMETYPE="image/tiff" CHECKSUM="497e4ebe4b3ca4594d97d05ceaa7e5f5" CHECKSUMTYPE="MD5" SIZE="44584">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00145_1.tif"/>
+      </file>
+      <file ID="tiff_00146_0" MIMETYPE="image/tiff" CHECKSUM="261a524badf29f63d1c8273de1bb50c4" CHECKSUMTYPE="MD5" SIZE="43386">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00146_0.tif"/>
+      </file>
+      <file ID="tiff_00146_1" MIMETYPE="image/tiff" CHECKSUM="7137995ce570dc0f492b50ce437a4fc9" CHECKSUMTYPE="MD5" SIZE="43924">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00146_1.tif"/>
+      </file>
+      <file ID="tiff_00147_0" MIMETYPE="image/tiff" CHECKSUM="0713a7318433fc5fce839bd08eba07d8" CHECKSUMTYPE="MD5" SIZE="49356">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00147_0.tif"/>
+      </file>
+      <file ID="tiff_00147_1" MIMETYPE="image/tiff" CHECKSUM="c7c539ad88dfd5f5d3906aba636bb7f3" CHECKSUMTYPE="MD5" SIZE="49098">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00147_1.tif"/>
+      </file>
+      <file ID="tiff_00148_0" MIMETYPE="image/tiff" CHECKSUM="efc246d06d1879b1ca73bc1463a3e394" CHECKSUMTYPE="MD5" SIZE="49554">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00148_0.tif"/>
+      </file>
+      <file ID="tiff_00148_1" MIMETYPE="image/tiff" CHECKSUM="ae37c8977643947c21c571823dd1fa15" CHECKSUMTYPE="MD5" SIZE="29324">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00148_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00145_0" MIMETYPE="image/jp2" CHECKSUM="444d0572c3759f777b1eb100d4eefa98" CHECKSUMTYPE="MD5" SIZE="2522468">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00145_0.jp2"/>
+      </file>
+      <file ID="jp2_00145_1" MIMETYPE="image/jp2" CHECKSUM="e71ee0bffa5924fe4db18be9028f5fea" CHECKSUMTYPE="MD5" SIZE="2646039">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00145_1.jp2"/>
+      </file>
+      <file ID="jp2_00146_0" MIMETYPE="image/jp2" CHECKSUM="ec7d0716678bd01d188ba9c3f1380561" CHECKSUMTYPE="MD5" SIZE="2908494">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00146_0.jp2"/>
+      </file>
+      <file ID="jp2_00146_1" MIMETYPE="image/jp2" CHECKSUM="895c18b899fcb89bffec472d6e3cad21" CHECKSUMTYPE="MD5" SIZE="2543280">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00146_1.jp2"/>
+      </file>
+      <file ID="jp2_00147_0" MIMETYPE="image/jp2" CHECKSUM="a1df076d4deeec96e70837edb4932882" CHECKSUMTYPE="MD5" SIZE="3024649">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00147_0.jp2"/>
+      </file>
+      <file ID="jp2_00147_1" MIMETYPE="image/jp2" CHECKSUM="33bb2d857df378f5dee537f600224ed5" CHECKSUMTYPE="MD5" SIZE="2666151">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00147_1.jp2"/>
+      </file>
+      <file ID="jp2_00148_0" MIMETYPE="image/jp2" CHECKSUM="4c6da44de2ee0ebe9c9298998fd777c4" CHECKSUMTYPE="MD5" SIZE="3028475">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00148_0.jp2"/>
+      </file>
+      <file ID="jp2_00148_1" MIMETYPE="image/jp2" CHECKSUM="7270c6badd78214207752e78581d274e" CHECKSUMTYPE="MD5" SIZE="2419881">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00148_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00145_0" MIMETYPE="text/xml" CHECKSUM="fffcf8cb898a8d1ac96075713d857dbd" CHECKSUMTYPE="MD5" SIZE="67197">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00145_0.xml"/>
+      </file>
+      <file ID="alto_00145_1" MIMETYPE="text/xml" CHECKSUM="7e06169a8a143e03bc65afb0446a5a89" CHECKSUMTYPE="MD5" SIZE="88533">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00145_1.xml"/>
+      </file>
+      <file ID="alto_00146_0" MIMETYPE="text/xml" CHECKSUM="f29130b58ae2b3ab489a5c9afc7603c4" CHECKSUMTYPE="MD5" SIZE="80090">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00146_0.xml"/>
+      </file>
+      <file ID="alto_00146_1" MIMETYPE="text/xml" CHECKSUM="08c926f302b3d74aaa1a99d030f709b6" CHECKSUMTYPE="MD5" SIZE="80147">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00146_1.xml"/>
+      </file>
+      <file ID="alto_00147_0" MIMETYPE="text/xml" CHECKSUM="52572f78b18d0efadc7c202ec838acd7" CHECKSUMTYPE="MD5" SIZE="89101">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00147_0.xml"/>
+      </file>
+      <file ID="alto_00147_1" MIMETYPE="text/xml" CHECKSUM="24c7e70e11abbf77a6769042ba75356e" CHECKSUMTYPE="MD5" SIZE="93941">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00147_1.xml"/>
+      </file>
+      <file ID="alto_00148_0" MIMETYPE="text/xml" CHECKSUM="168be473427fbfe990f3b0a513ff0eb3" CHECKSUMTYPE="MD5" SIZE="90231">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00148_0.xml"/>
+      </file>
+      <file ID="alto_00148_1" MIMETYPE="text/xml" CHECKSUM="fc24055bd11842b3da91460f31823edf" CHECKSUMTYPE="MD5" SIZE="57133">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00148_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0053" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="294" firstpage="287">
+              <parties id="b289-5" pgmap="289">Carter vs. Adamson.</parties>
+              <attorneys id="b289-11" pgmap="289">Carroll &amp; Johnson, for appellant.</attorneys>
+              <attorneys id="b290-8" pgmap="290">Watkins &amp; Gallagher, for appellee.</attorneys>
+              <summary id="b289-9" pgmap="289">Appeal from the Circuit Court of Pulaski County.</summary>
+              <summary id="b289-10" pgmap="289">Hon. John J. Clendennin, Circuit Judge.</summary>
+              <summary id="b289-12" pgmap="289(11) 290(50)">The stalute of limitation refers to the remedy and is governed by the lex fori, 2 Parsons on Con. 102; and if the defence set up in the third and fourth pleas, was binding upon Carter, in Maryland, and consequently a good defence for Adamson, the pleas would be liable to objection because the statute of Maryland should have been pleaded.</summary>
+              <summary id="b290-6" pgmap="290">Until some damage, real or nominal, was sustained by Car­ter, he had no right of action upon the covenant, and until there is a right of action no statute bar can begin to run. 1 Tidd’s Pr. 16; 15 Ala. 72; 4 Ohio 331; 4 Peters 72.</summary>
+              <summary id="b290-7" pgmap="290">The transcript of the record of the judgment was evidence of the satisfaction of the judgment by Carter, as well as of the other facts contained in it. 16 Ark. 72; lb. 83.</summary>
+              <summary id="b290-9" pgmap="290">The breach of the instrument sued on took place within a reasonable time after its execution, and then the statute com­menced running. In the case of Lathrop vs. Atwood, 21 Conn. 117, this point was expressly decided in accordance with our position, and upon exactly the same covenants. In fact the instruction was drawn from that case, and the decision is fully supported by the cases of Dorsey vs. Dashiel, 1 Md. Rep. 198; Brown vs. Howht, 1 Fairf. 399; see also 1 Sand. S. Ct. Rep. 98; 2 Strob. 344; 4 Peters 172; 4 Ala. 495; Ang. on Lim. p. 147; 7 Wend. 502; 3 J. R. 137; 3 Cow. 313.</summary>
+              <headnotes id="b289-6" pgmap="289">The statute of limitation of the State where a suit is brought regulates the remedy; and. if, in a suit in this State upon a judgment rendered in another State, the fact, that the cause of action upon which the judgment was rendered was barred by limitation, is relied upon as a matter of defence, the fact must be set up by plea averring what the law of such State was.</headnotes>
+              <headnotes id="b289-7" pgmap="289">Upon a covenant given by the members of a partnership to a retiring partner, to pay the then existing debts of the firm and to save him harmless, no cause of action arises to him on tho covenant to save him harmless, until he is subj ected to dam­ages on account of the partnership liabilities; nor does the statute of limitation begin to run on the covenant until then.</headnotes>
+              <headnotes id="b289-8" pgmap="289">A regularly certified transcript of the record of a judgment of another state, eon» taining an entry of satisfaction of the judgment by the defendant, is prima facie evidence of the payment by him.</headnotes>
+              <opinion type="majority">
+                <author id="b290-10" pgmap="290">Mr. Chief Justice English</author>
+                <p id="AXf" pgmap="290">delivered the opinion of the Court.</p>
+                <p id="b290-11" pgmap="290">This was an action of covenant brought by Robt. W. Carter against John Adamson in the Pulaski Circuit Court.</p>
+                <p id="b290-12" pgmap="290(81) 291(15)">The action was commenced 18th March, 1857, and founded on a covenant entered into on the 7th of July, 1841, at Little Rock, by the plaintiff, the defendant, and one Jesse T. Higgins, who were partners in the mercantile business, and by which Carter sold and assigned to Adamson and Higgins his entire interest in the partnership effects; in consideration whereof they covenanted and bound themselves to pay and satisfy all the creditors to whom Carter stood chargeable and indebted for and concerning the affairs and dealings of the co-partnership, and to save him harmless, etc.</p>
+                <p id="b291-5" pgmap="291">Breach, that plaintiff was sued on one of the partnership debts in the Circuit Court of Montgomery county, in the State of Maryland, on the 12th day of February, 1844, and after pleading, etc., etc., judgment was finally obtained against him by the plaintiffs in the action, on the first Monda}r of March, 1854, for $327 35 damages, and $28 16 costs, which he was compelled to pay, etc.</p>
+                <p id="b291-6" pgmap="291">The defendant pleaded.</p>
+                <p id="b291-7" pgmap="291">1. That he did not execute and deliver said covenant in the declaration mentioned within five years next before the com­mencement of this suit.</p>
+                <p id="b291-8" pgmap="291">2. That the cause of action in the declaration mentioned did not accrue within five years next before the commencement of this suit.</p>
+                <p id="b291-9" pgmap="291">3. That the cause of action upon which the judgment was recovered in the declaration mentioned, did not accrue within three years next before the institution of said suit in which said judgment W'as recovered.</p>
+                <p id="b291-10" pgmap="291">4. That the cause of action upon which the judgment was recovered in the said declaration mentioned did not accrue within five years next before the institution of said suit in which said judgment was recovered.</p>
+                <p id="b291-11" pgmap="291">5. That the cause of action in the declaration mentioned did not accrue for or on account of any payment by said plaintiff of any indebtedness or liability due or owing by the said former partnership of Robt. W. Carter, John Adamson, and Jesse T. Higgins.</p>
+                <p id="b291-12" pgmap="291">6. That said judgment in the declaration mentioned was not recovered for or on account of any partnership indebtedness or liability due or owing or demand against said Robt. W. Carter, John Adamson and Jesse T. Higgins.</p>
+                <p id="b291-13" pgmap="291">7. That the plaintiff did not, and never has paid the said sum of-so recovered against him, nor any part thereof in man­ner and form as in said declaration alleged.</p>
+                <p id="b292-4" pgmap="292">' To the first plea the plaintiff replied that even though defend­ant did not within five years next before the bringing of this suit execute and deliver the said covenant, in the declaration mentioned, to the said plaintiff, precludi non, because he says the right of action did not accrue to the said plaintiff until the breaking of said covenant by said defendant suffering judgment against said plaintiff on account of said partnership transac­tions, violative of the covenant, as alleged in the declara­tion, etc.</p>
+                <p id="b292-5" pgmap="292">(To this replication the defendant took issue, after demurrer thereto overruled.)</p>
+                <p id="b292-6" pgmap="292">To the 2d plea the plaintiff replied that the cause of action in the declaration mentioned did accrue within five years next before the bringing of this suit.</p>
+                <p id="b292-7" pgmap="292">(To which replication defendant took issue.)</p>
+                <p id="b292-8" pgmap="292">To the 3d and 4th pleas the plaintiff demurred, the court overruled the demurrer and the plaintiff rested.</p>
+                <p id="b292-9" pgmap="292">To the 5th plea the plaintiff replied that the causé oí action, in the declaration mentioned, did accrue on account of a pay­ment by him of a debt which was due and owing by said former partnership of Robt. W. Carter, John Adamson, and Jesse T. Higgins.</p>
+                <p id="b292-10" pgmap="292">(To which replication defendant took issue.)</p>
+                <p id="b292-11" pgmap="292">To the 6th plea the plaintiff replied that the judgment in the declaration mentioned was recovered on account of a part­nership indebtedness due and owing by said Robt. W. Carter, John Adamson and Jesse T. Higgins.</p>
+                <p id="b292-12" pgmap="292">(To which replication the defendant took issue.)</p>
+                <p id="b292-13" pgmap="292">To the 7th plea the plaintiff took issue.</p>
+                <p id="b292-14" pgmap="292">The issues were submitted to a jury, and verdict and judg­ment for the defendant.</p>
+                <p id="b292-15" pgmap="292">Plaintiff took a bill of exceptions in relation to the charge of the court to the jury, and appealed.</p>
+                <p id="b292-16" pgmap="292(30) 293(73)">1. The declaration alleges that the suit upon the partnership debt was brought against Carter in the Maryland,Court, on the 12th of February, 1844. At that time the Arkansas limitation to an action on a simple contract, was three years, and to an action on a bond for the payment of money, five years. The counsel for Adamson say that they pleaded the statute of three and five years (in the 3d and 4th pleas) because the declaration did not show whether the partnership debt upon which the judgment was recovered against Carter in Maryland, was evidenced by an unsealed or sealed instrument.</p>
+                <p id="b293-4" pgmap="293">Taking the 3d and 4th pleas to be true, as admitted by the demurrer, and that the suit was not brought, upon the partner­ship debt, against Carter, in the Maryland court, within the period of limitation prescribed by the statute of Arkansas, is that a good defence to this suit brought by Carter against Adamson on the covenant of indemnity, etc? We think not. Carter having been sued in the Maryland court, the remedy was regulated by the limitation law of that State. Such at least is the general rule. Angel on Lim. 62, etc. If the cause of action on the partnership debt was barred by the limitation law of Maryland, at the time Carter Avas there sued, Adamson should have pleaded that fact, averring in the plea what the law of Maryland was, inasmuch as the court here could not judicially know what the law of that State was. 1 Chitty's Plead. 216.</p>
+                <p id="b293-5" pgmap="293">Whether Carter was bound to plead, and insist upon the statute of limitation of Maryland, or not, is a question not now before us. The court erred in overruling the demurrer to the 3d and 4th pleas.</p>
+                <p id="b293-6" pgmap="293">2. On the trial the plaintiff asked the court to charge the jury that: “If they believed from the evidence that the said judgment was obtained within five years before the bringing of this suit, and that the judgment was obtained on account of a subsisting indebtedness due and OAving by the firm of Carter, Adamson, and Higgins, and that the plaintiff in this suit had paid the amount of said judgment so obtained against him, they will find for the plaintiff;” — which instruction the court refused to give.</p>
+                <p id="b293-7" pgmap="293(11) 294(77)">But, on the motion of the defendant, the court instructed the jury as follows: “That the cause of action of said plaintiff, if any he ever had, occurred upon the covenant sued on herein within a reasonable time after the execution thereof; and that if the jury believe from the evidence that more than five years have elapsed prior to the commencement of this suit, and after the lapse of a reasonable time from the execution of said cove­nant sued on, they must find for the defendant.”</p>
+                <p id="b294-5" pgmap="294">The clause in the covenant on which the suit was founded is as follows: “And the said John Adamson and Jesse T. Higgins for themselves, their executors, administrators or assigns doth covenant that they will at all times hereafter pay and satisfy all the creditors to whom the said Robt. W. Carter standeth chargeable or indebted for and concerning all the affairs and dealings of the said co-partnership, and shall at all times save harmless the said Robt. W. Carter, his executors or administra­tors from them and every of them.”</p>
+                <p id="b294-6" pgmap="294">The most reasonable interpretation of this covenant is that it contains two distinct stipulations on the part of Adamson and Higgins: 1. That they would pay and satisfy all of the creditors of the firm to whom Carter was responsible as one of the part­ners: 2. That they would save him harmless on account of the partnership debts. In other words, they covenanted not^only to pay the debts but to indemnify him against loss or damage on account thereof.</p>
+                <p id="b294-7" pgmap="294(140) 295(104)">There being no time fixed in the covenant for the payment of the debts, it may be supposed that it was the intention of the parties that such of them as were due at the date of the con­tract should be paid immediately, and that such of them as were not then due, should be paid at maturity. According to the current of adjudications, on the failure of Adamson and Higgins to pay such of the firm debts as were due at the date of the covenant within a reasonable time thereafter, or on their failure to pay such of them as were not then due within a reasonable time after maturity, the stipulation in the covenant for the payment of the debts was broken, a cause of action thereon accrued to Carter, and the statute of limitation began to run ©n the accrual of the cause of action. But be this as it may, it is not necessary for us to express any opinion on this point, as in the case now before us the action is not founded on the stipulation of the covenant to pay the debts, but on the indemnity clause of the covenant. And Carter was under no legal compulsion to avail himself of any right of action that may have accrued to him on the former clause of the covenant, but had his election to rest upon the latter clause for protection against loss or damage, etc.</p>
+                <p id="b295-5" pgmap="295">Upon the indemnity feature of the covenant, no right of action accrued to Carter until he was subjected to damage on account of the partnership liabilities, and of course the statute of limitation did not begin to run against him until after the cause of action accrued, Churchill vs. Hunt, 3 Denio 321; Gil­bert vs. Weinan, 1 Comstock 563; In the matter of Negus, 7 Wend. 503; Thomas vs. Allen, 1 Hill 145; Lathrop vs. Atwood, 21 Conn. 117; Dorsey vs. Dashiell, 1 Maryland Rep. 202; Sedgwick on Dam. 313.</p>
+                <p id="b295-6" pgmap="295">The court below erred in refusiug the first instruction moved by the plaintifF; and in giving in lieu thereof the instruction moved by the defendant.</p>
+                <p id="b295-7" pgmap="295">3. On the trial, the plaintifF read in evidence a regularly authenticated transcript of the proceedings and judgment of the Maryland court referred to in the declaration.</p>
+                <p id="b295-8" pgmap="295">At the foot of the judgment entry is the following: “Mem. 10th. Tried and verdict for the plaintiffs, damages $327 35 and judgmenCon verdict, damages $327 35 ct. mo. with interest from 10th day of March, 1854, and cost $28 16-J, and satisfied by Robt. W. Carter per line filed 1st April, 1854.”</p>
+                <p id="b295-9" pgmap="295(70) 296(24)">This memorandum is embraced in the transcript as a part of the record of the cause. The last clause of it is doubtless an entry of the satisfaction of the judgment under the Maryland practice, and is prima facie evidence of the payment of the judgment by Carter. Snider vs. Greathouse et al., 16 Ark. 72. This case is unlike that of Chipman vs. Fambro, ib. 291, relied on by the counsel for the appellee. See also Bone as ad. vs. Torry, ib. 93; Slate use etc., vs. Martin, et al. 20 ib. 629.</p>
+                <p id="b296-5" pgmap="296">The court below erred, therefore, in refusing to charge the jury that the transcript was evidence of the payment and satis­faction of the judgment by Carter.</p>
+                <p id="b296-6" pgmap="296">The judgment must be reversed, and the cause remanded for further proceedings, etc.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="289" ORDERLABEL="287" TYPE="page">
+        <fptr FILEID="tiff_00145_0"/>
+        <fptr FILEID="jp2_00145_0"/>
+        <fptr FILEID="alto_00145_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_289.3" BETYPE="IDREF" FILEID="alto_00145_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_289.2" BETYPE="IDREF" FILEID="alto_00145_0"/>
+              <area BEGIN="BL_289.4" BETYPE="IDREF" FILEID="alto_00145_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_289.5" BETYPE="IDREF" FILEID="alto_00145_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="290" ORDERLABEL="288" TYPE="page">
+        <fptr FILEID="tiff_00145_1"/>
+        <fptr FILEID="jp2_00145_1"/>
+        <fptr FILEID="alto_00145_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_290.2" BETYPE="IDREF" FILEID="alto_00145_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_290.3" BETYPE="IDREF" FILEID="alto_00145_1"/>
+              <area BEGIN="BL_290.4" BETYPE="IDREF" FILEID="alto_00145_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="291" ORDERLABEL="289" TYPE="page">
+        <fptr FILEID="tiff_00146_0"/>
+        <fptr FILEID="jp2_00146_0"/>
+        <fptr FILEID="alto_00146_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_291.3" BETYPE="IDREF" FILEID="alto_00146_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_291.2" BETYPE="IDREF" FILEID="alto_00146_0"/>
+              <area BEGIN="BL_291.4" BETYPE="IDREF" FILEID="alto_00146_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="292" ORDERLABEL="290" TYPE="page">
+        <fptr FILEID="tiff_00146_1"/>
+        <fptr FILEID="jp2_00146_1"/>
+        <fptr FILEID="alto_00146_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_292.1" BETYPE="IDREF" FILEID="alto_00146_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_292.2" BETYPE="IDREF" FILEID="alto_00146_1"/>
+              <area BEGIN="BL_292.3" BETYPE="IDREF" FILEID="alto_00146_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="293" ORDERLABEL="291" TYPE="page">
+        <fptr FILEID="tiff_00147_0"/>
+        <fptr FILEID="jp2_00147_0"/>
+        <fptr FILEID="alto_00147_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_293.3" BETYPE="IDREF" FILEID="alto_00147_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_293.2" BETYPE="IDREF" FILEID="alto_00147_0"/>
+              <area BEGIN="BL_293.4" BETYPE="IDREF" FILEID="alto_00147_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="294" ORDERLABEL="292" TYPE="page">
+        <fptr FILEID="tiff_00147_1"/>
+        <fptr FILEID="jp2_00147_1"/>
+        <fptr FILEID="alto_00147_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_294.2" BETYPE="IDREF" FILEID="alto_00147_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_294.3" BETYPE="IDREF" FILEID="alto_00147_1"/>
+              <area BEGIN="BL_294.4" BETYPE="IDREF" FILEID="alto_00147_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="295" ORDERLABEL="293" TYPE="page">
+        <fptr FILEID="tiff_00148_0"/>
+        <fptr FILEID="jp2_00148_0"/>
+        <fptr FILEID="alto_00148_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_295.3" BETYPE="IDREF" FILEID="alto_00148_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_295.2" BETYPE="IDREF" FILEID="alto_00148_0"/>
+              <area BEGIN="BL_295.4" BETYPE="IDREF" FILEID="alto_00148_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="296" ORDERLABEL="294" TYPE="page">
+        <fptr FILEID="tiff_00148_1"/>
+        <fptr FILEID="jp2_00148_1"/>
+        <fptr FILEID="alto_00148_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_296.2" BETYPE="IDREF" FILEID="alto_00148_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_296.3" BETYPE="IDREF" FILEID="alto_00148_1"/>
+              <area BEGIN="BL_296.4" BETYPE="IDREF" FILEID="alto_00148_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_296.7" BETYPE="IDREF" FILEID="alto_00148_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b290-8" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_290.7" BETYPE="IDREF" FILEID="alto_00145_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b295-6" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_295.6" BETYPE="IDREF" FILEID="alto_00148_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b295-7" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_295.7" BETYPE="IDREF" FILEID="alto_00148_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b295-5" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_295.5" BETYPE="IDREF" FILEID="alto_00148_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b295-8" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_295.8" BETYPE="IDREF" FILEID="alto_00148_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b295-9" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_295.9" BETYPE="IDREF" FILEID="alto_00148_0"/>
+            <area BEGIN="BL_296.1" BETYPE="IDREF" FILEID="alto_00148_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b289-7" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_289.8" BETYPE="IDREF" FILEID="alto_00145_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b291-9" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_291.9" BETYPE="IDREF" FILEID="alto_00146_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b289-11" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_289.12" BETYPE="IDREF" FILEID="alto_00145_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b289-10" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_289.11" BETYPE="IDREF" FILEID="alto_00145_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b289-12" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_289.13" BETYPE="IDREF" FILEID="alto_00145_0"/>
+            <area BEGIN="BL_290.1" BETYPE="IDREF" FILEID="alto_00145_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b291-6" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_291.6" BETYPE="IDREF" FILEID="alto_00146_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b291-7" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_291.7" BETYPE="IDREF" FILEID="alto_00146_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b291-5" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_291.5" BETYPE="IDREF" FILEID="alto_00146_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b292-7" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_292.7" BETYPE="IDREF" FILEID="alto_00146_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b289-5" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_289.6" BETYPE="IDREF" FILEID="alto_00145_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b291-8" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_291.8" BETYPE="IDREF" FILEID="alto_00146_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b289-6" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_289.7" BETYPE="IDREF" FILEID="alto_00145_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b292-9" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_292.9" BETYPE="IDREF" FILEID="alto_00146_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b292-8" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_292.8" BETYPE="IDREF" FILEID="alto_00146_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b292-5" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_292.5" BETYPE="IDREF" FILEID="alto_00146_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b292-4" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_292.4" BETYPE="IDREF" FILEID="alto_00146_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b294-5" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_294.5" BETYPE="IDREF" FILEID="alto_00147_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b292-6" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_292.6" BETYPE="IDREF" FILEID="alto_00146_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b293-4" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_293.5" BETYPE="IDREF" FILEID="alto_00147_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b293-5" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_293.6" BETYPE="IDREF" FILEID="alto_00147_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b293-6" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_293.7" BETYPE="IDREF" FILEID="alto_00147_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b293-7" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_293.8" BETYPE="IDREF" FILEID="alto_00147_0"/>
+            <area BEGIN="BL_294.1" BETYPE="IDREF" FILEID="alto_00147_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b289-9" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_289.10" BETYPE="IDREF" FILEID="alto_00145_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b289-8" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_289.9" BETYPE="IDREF" FILEID="alto_00145_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b290-12" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_290.12" BETYPE="IDREF" FILEID="alto_00145_1"/>
+            <area BEGIN="BL_291.1" BETYPE="IDREF" FILEID="alto_00146_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b290-11" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_290.11" BETYPE="IDREF" FILEID="alto_00145_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b290-10" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_290.9" BETYPE="IDREF" FILEID="alto_00145_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b290-6" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_290.5" BETYPE="IDREF" FILEID="alto_00145_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AXf" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_290.10" BETYPE="IDREF" FILEID="alto_00145_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b294-7" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_294.7" BETYPE="IDREF" FILEID="alto_00147_1"/>
+            <area BEGIN="BL_295.1" BETYPE="IDREF" FILEID="alto_00148_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b294-6" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_294.6" BETYPE="IDREF" FILEID="alto_00147_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b292-11" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_292.11" BETYPE="IDREF" FILEID="alto_00146_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b292-10" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_292.10" BETYPE="IDREF" FILEID="alto_00146_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b292-13" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_292.13" BETYPE="IDREF" FILEID="alto_00146_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b292-12" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_292.12" BETYPE="IDREF" FILEID="alto_00146_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b292-15" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_292.15" BETYPE="IDREF" FILEID="alto_00146_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b292-14" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_292.14" BETYPE="IDREF" FILEID="alto_00146_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b292-16" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_292.16" BETYPE="IDREF" FILEID="alto_00146_1"/>
+            <area BEGIN="BL_293.1" BETYPE="IDREF" FILEID="alto_00147_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b290-9" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_290.8" BETYPE="IDREF" FILEID="alto_00145_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b290-7" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_290.6" BETYPE="IDREF" FILEID="alto_00145_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b296-5" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_296.5" BETYPE="IDREF" FILEID="alto_00148_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b291-10" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_291.10" BETYPE="IDREF" FILEID="alto_00146_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b291-11" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_291.11" BETYPE="IDREF" FILEID="alto_00146_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b291-12" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_291.12" BETYPE="IDREF" FILEID="alto_00146_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b291-13" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_291.13" BETYPE="IDREF" FILEID="alto_00146_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b296-6" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_296.6" BETYPE="IDREF" FILEID="alto_00148_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

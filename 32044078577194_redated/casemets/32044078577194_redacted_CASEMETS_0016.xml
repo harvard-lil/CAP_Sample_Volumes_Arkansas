@@ -1,0 +1,385 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0016" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Tapp v. Fowler">J. Sky TAPP v. Bonita FOWLER</name>
+          <docketnumber>85-223</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 70</citation>
+          <citation category="parallel" type="bluebook">702 S.W.2d 17</citation>
+          <decisiondate>1986-01-21</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:00Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00048_1" MIMETYPE="image/tiff" CHECKSUM="aedfeb334ad2ddf259dcd1e03c5aa67e" CHECKSUMTYPE="MD5" SIZE="31594">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00048_1.tif"/>
+      </file>
+      <file ID="tiff_00049_0" MIMETYPE="image/tiff" CHECKSUM="3ebcef3335d4eacf607cc8d150fe2d90" CHECKSUMTYPE="MD5" SIZE="38188">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00049_0.tif"/>
+      </file>
+      <file ID="tiff_00049_1" MIMETYPE="image/tiff" CHECKSUM="24451611653f05c085e1b1652b3beba3" CHECKSUMTYPE="MD5" SIZE="13472">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00049_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00048_1" MIMETYPE="image/jp2" CHECKSUM="1baa155a64c49ebf99440116015d4aca" CHECKSUMTYPE="MD5" SIZE="2129299">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00048_1.jp2"/>
+      </file>
+      <file ID="jp2_00049_0" MIMETYPE="image/jp2" CHECKSUM="c3a4d7d80db1092f320676509f8f8d81" CHECKSUMTYPE="MD5" SIZE="2182129">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00049_0.jp2"/>
+      </file>
+      <file ID="jp2_00049_1" MIMETYPE="image/jp2" CHECKSUM="d9338e938d85f1e7ef0d494ae5adf327" CHECKSUMTYPE="MD5" SIZE="1517023">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00049_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00048_1" MIMETYPE="text/xml" CHECKSUM="1bcb8358f285005772f2de5903de81ef" CHECKSUMTYPE="MD5" SIZE="51877">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00048_1.xml"/>
+      </file>
+      <file ID="alto_00049_0" MIMETYPE="text/xml" CHECKSUM="8cc7ab9977d3eb13740a7dfdefd593fd" CHECKSUMTYPE="MD5" SIZE="63803">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00049_0.xml"/>
+      </file>
+      <file ID="alto_00049_1" MIMETYPE="text/xml" CHECKSUM="13690dfa504f365c351ef1ba52a6f81f" CHECKSUMTYPE="MD5" SIZE="20483">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00049_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0016" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="70" lastpage="72">
+              <court pgmap="96" id="b96-14">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="96" id="b96-11">85-223</docketnumber>
+              <citation pgmap="96" id="b96-13">702 S.W.2d 17</citation>
+              <parties pgmap="96" id="b96-12">J. Sky TAPP v. Bonita FOWLER</parties>
+              <decisiondate pgmap="96" id="Am2">Opinion delivered January 21, 1986</decisiondate>
+              <judges pgmap="98" id="b98-8">Purtle, J., not participating.</judges>
+              <attorneys pgmap="97" id="b97-8">Tapp Law Office, by: J. Sky Tapp, for appellant.</attorneys>
+              <attorneys pgmap="97" id="b97-9">Hobbs, Longinotti, Bosson &amp; Naramore, by: Ronald G. Naramore, for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="97" id="b97-10">Darrell Hickman, Justice.</author>
+                <p pgmap="97" id="ArV">This appeal is dismissed be­cause there was no final judgment or order entered.</p>
+                <p pgmap="97" id="b97-11">Bonita Fowler sued Sky Tapp, who at one time represented her, claiming that Tapp wrongfully withheld money from a property settlement in her divorce case. She asked for the $1,000 in dispute and punitive damages. Tapp filed a motion to dismiss and a motion for summary judgment. The trial judge denied the motions on March 26,1985. Tapp did not file an answer or other pleading. In June Fowler asked for a default judgment, and it was granted for the $ 1,000. The claim for punitive damages was to be determined at a later proceeding.</p>
+                <p pgmap="97" id="b97-12">
+                   Rule 2 of the Arkansas Rules of Appellate Procedure provides that an appeal may be taken from a final judgment or decree. To be final, a judgment must dismiss the parties from court, discharge them from the action, or conclude their rights to the subject matter in controversy. Hyatt v. City of Bentonville, 275 Ark. 210, 628 S.W.2d 326 (1982); McConnell v. Sadle, 248 Ark. 1182, 455 S.W.2d 880 (1970); Piercy v. Baldwin, 205 Ark. 413, 168 S.W.2d 1110 (1943).</p>
+                <p pgmap="97" id="b97-13">
+                   In Fratesi v. Bond, 282 Ark. 213, 666 S.W.2d 712 (1984), a recent case in which the trial court dismissed a claim for punitive damages but deferred the claim for compensatory damages, we said:</p>
+                <blockquote pgmap="97(18) 98(40)" id="b97-14">If this appeal were allowed and we decided the issue on punitive damages and subsequent errors occurred during the trial on the remaining issues, the case could be appealed a second time, resulting in two appeals where one would suffice. This case illustrates simply the reason for the rule that an order must be final to be appealable.</blockquote>
+                <p pgmap="98" id="b98-6">That is exactly the situation presented here.</p>
+                <p pgmap="98" id="b98-7">Appeal dismissed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="96" ORDERLABEL="70" TYPE="page">
+        <fptr FILEID="tiff_00048_1"/>
+        <fptr FILEID="jp2_00048_1"/>
+        <fptr FILEID="alto_00048_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_96.2" BETYPE="IDREF" FILEID="alto_00048_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="97" ORDERLABEL="71" TYPE="page">
+        <fptr FILEID="tiff_00049_0"/>
+        <fptr FILEID="jp2_00049_0"/>
+        <fptr FILEID="alto_00049_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_97.3" BETYPE="IDREF" FILEID="alto_00049_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="98" ORDERLABEL="72" TYPE="page">
+        <fptr FILEID="tiff_00049_1"/>
+        <fptr FILEID="jp2_00049_1"/>
+        <fptr FILEID="alto_00049_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_98.2" BETYPE="IDREF" FILEID="alto_00049_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b96-11" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_96.11" BETYPE="IDREF" FILEID="alto_00048_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b96-12" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_96.10" BETYPE="IDREF" FILEID="alto_00048_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b96-13" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_96.12" BETYPE="IDREF" FILEID="alto_00048_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Am2" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_96.14" BETYPE="IDREF" FILEID="alto_00048_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b97-9" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_97.9" BETYPE="IDREF" FILEID="alto_00049_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b97-8" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_97.8" BETYPE="IDREF" FILEID="alto_00049_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b97-14" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_97.16" BETYPE="IDREF" FILEID="alto_00049_0"/>
+            <area BEGIN="BL_98.1" BETYPE="IDREF" FILEID="alto_00049_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b97-13" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_97.15" BETYPE="IDREF" FILEID="alto_00049_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b97-12" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_97.14" BETYPE="IDREF" FILEID="alto_00049_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b97-11" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_97.13" BETYPE="IDREF" FILEID="alto_00049_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b97-10" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_97.10" BETYPE="IDREF" FILEID="alto_00049_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b98-8" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_98.6" BETYPE="IDREF" FILEID="alto_00049_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ArV" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_97.11" BETYPE="IDREF" FILEID="alto_00049_0"/>
+            <area BEGIN="BL_97.12" BETYPE="IDREF" FILEID="alto_00049_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b98-6" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_98.4" BETYPE="IDREF" FILEID="alto_00049_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b96-14" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_96.13" BETYPE="IDREF" FILEID="alto_00048_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b98-7" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_98.5" BETYPE="IDREF" FILEID="alto_00049_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

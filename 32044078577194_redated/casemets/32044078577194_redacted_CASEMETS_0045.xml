@@ -1,0 +1,419 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0045" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Reel v. State">Jessie REEL v. STATE of Arkansas</name>
+          <docketnumber>CR 85-175</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 189</citation>
+          <citation category="parallel" type="bluebook">702 S.W.2d 809</citation>
+          <decisiondate>1986-02-10</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:00Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00109_0" MIMETYPE="image/tiff" CHECKSUM="bd271d14c62f610bad73314856c59338" CHECKSUMTYPE="MD5" SIZE="15354">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00109_0.tif"/>
+      </file>
+      <file ID="tiff_00109_1" MIMETYPE="image/tiff" CHECKSUM="97c2294e29b45d591ca6eb4e4df0f234" CHECKSUMTYPE="MD5" SIZE="51144">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00109_1.tif"/>
+      </file>
+      <file ID="tiff_00110_0" MIMETYPE="image/tiff" CHECKSUM="b27673808aa4893e8a449c11e8131980" CHECKSUMTYPE="MD5" SIZE="54388">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00110_0.tif"/>
+      </file>
+      <file ID="tiff_00110_1" MIMETYPE="image/tiff" CHECKSUM="d79a2602d093e650209c702f174c0b77" CHECKSUMTYPE="MD5" SIZE="13350">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00110_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00109_0" MIMETYPE="image/jp2" CHECKSUM="c03ef18af20d262b8b72d63f76166d84" CHECKSUMTYPE="MD5" SIZE="1938486">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00109_0.jp2"/>
+      </file>
+      <file ID="jp2_00109_1" MIMETYPE="image/jp2" CHECKSUM="7e1125bb32a4007070d5c54a57e9e956" CHECKSUMTYPE="MD5" SIZE="2520372">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00109_1.jp2"/>
+      </file>
+      <file ID="jp2_00110_0" MIMETYPE="image/jp2" CHECKSUM="c0c19ff22609df40ee6c75b671f04b41" CHECKSUMTYPE="MD5" SIZE="2547361">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00110_0.jp2"/>
+      </file>
+      <file ID="jp2_00110_1" MIMETYPE="image/jp2" CHECKSUM="887a4909eb89e9da44b5c2cd571cd591" CHECKSUMTYPE="MD5" SIZE="1566028">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00110_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00109_0" MIMETYPE="text/xml" CHECKSUM="00120ad7108e4ceacb6168f41527abd4" CHECKSUMTYPE="MD5" SIZE="23042">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00109_0.xml"/>
+      </file>
+      <file ID="alto_00109_1" MIMETYPE="text/xml" CHECKSUM="878b2dd5e6b9466e0aa5a47189d0d588" CHECKSUMTYPE="MD5" SIZE="84247">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00109_1.xml"/>
+      </file>
+      <file ID="alto_00110_0" MIMETYPE="text/xml" CHECKSUM="88ac4e0e3ad16b4f40dd8ea0547d64a8" CHECKSUMTYPE="MD5" SIZE="93430">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00110_0.xml"/>
+      </file>
+      <file ID="alto_00110_1" MIMETYPE="text/xml" CHECKSUM="5d57114b15b0cfeda0587fb6f33a6a97" CHECKSUMTYPE="MD5" SIZE="20591">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00110_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0045" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="189" lastpage="192">
+              <court pgmap="217" id="b217-11">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="217" id="b217-9">CR 85-175</docketnumber>
+              <citation pgmap="217" id="b217-10">702 S.W.2d 809</citation>
+              <parties pgmap="217" id="b217-8">Jessie REEL v. STATE of Arkansas</parties>
+              <decisiondate pgmap="217" id="AGG">Opinion delivered February 10, 1986</decisiondate>
+              <judges pgmap="220" id="b220-5">Purtle, J., not participating.</judges>
+              <attorneys pgmap="218" id="b218-6">Gerald A. Coleman, for appellant.</attorneys>
+              <attorneys pgmap="218" id="b218-7">Steve Clark, Att’y Gen., by: Jerome T. Kearney, Asst. Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="218" id="b218-8">David Newbern, Justice.</author>
+                <p pgmap="218" id="Ar4">The sole question presented here is whether an earlier misdemeanor conviction of the appellant could be mentioned by the state in cross examination of a character witness presented by the appellant. We hold that it may, and thus we affirm.</p>
+                <p pgmap="218" id="b218-9">The appellant was convicted of murder in the first degree for shooting and killing Tony Vellman. The appellant called Allen Helms, a farmer and part owner of a cotton gin, who testified he had been the appellant’s employer and had always regarded the appellant as a truthful and honest employee. The attorneys approached the bench and discussed whether the witness could be questioned with respect to an earlier misdemeanor conviction of the appellant. The court allowed the question. Mr. Helms testified that knowledge of the appellant’s misdemeanor theft conviction did not change his opinion. The court then gave a “limiting instruction” to the jury. The essence of the instruction was that the jury could consider the cross examination including reference to the conviction as evidence going only to the extent of the witness’ knowledge of the appellant and the weight to be given to his opinion of the appellant’s character.</p>
+                <p pgmap="218" id="b218-10">
+                   Evidence of the commission of a crime the punishment for which is less than one year imprisonment may not be used for general impeachment of a witness unless it involves “dishonesty or false statement.” Uniform Rules of Evidence 609(a). How­ever, if the accused has presented a witness to testify as to his good character, cross examination may inquire “into relevant specific instances of conduct.” Uniform Rules of Evidence 405(a). The rule places no limit, other than relevancy, on the kind of instances of misconduct with respect to which cross examination may occur.</p>
+                <p pgmap="218(45) 219(25)" id="b218-11">The appellant recognizes that rule 609(a) does not apply here, as the reference to the prior conviction was not made in an attempt to impeach either the testimony of the appellant or that of the witness on the stand. His argument, rather, is that evidence of the misdemeanor conviction which could not have been used in cross examining him has nevertheless been unfairly allowed to come in through another means.</p>
+                <p pgmap="219" id="b219-6">Rule 609(a) protects an accused person from cross examina­tion with respect to minor crimes. The advisory committee’s note pertaining to the federal rule of which our rule is an exact copy pointed out this limitation was in accord with the great weight of authority which permitted impeachment on the basis of a criminal record only by reference to felonies or specific crimes involving dishonesty or false statement regardless of the punish­ment. 56 F.R.D. 183 at 270. That limitation has perhaps been deemed appropriate in that it protects an accused from impeach­ment based on, for example, juvenile offenses not in any way probative of his veracity.</p>
+                <p pgmap="219" id="b219-7">
+                   The policies behind rule 405(a) are, however, distin­guishable from those underlying rule 609(a). The purpose of the cross examination of a character witness with respect to a prior offense is to ascertain the witness’ knowledge of facts which should have some bearing on the accused’s reputation. If the witness does not know that an accused was previously convicted of a crime, the witness’ credibility suffers. If he knows it but then disregards it in forming his opinion of the accused, that may legitimately go to the weight to be given the opinion of the witness. The limiting instruction, such as the one given in this case, assists the jury in placing the testimony in its proper light. United States v. Gosser, 339 F.2d 102 (6th Cir. 1964); State v. Samson, 388 A.2d 60 (Me. 1978); Annot. 47 ALR 2d 1258, § 14 (1956), and later case service (Supp. 1985). See also Michelson v. U. S., 335 U.S. 469 (1948); State v. Johnson, 389 So. 2d 372 (La. 1980). Cf. State v. Johnson, 41 N.C. App. 423, 255 S.E.2d 275 (1979); State v. Casados, 193 Neb. 28, 225 N.W.2d 267 (1975).</p>
+                <p pgmap="219(73) 220(47)" id="b219-8">
+                   We are not persuaded by the appellant’s argument which when extended would contend that, analogizing to rule 609(a), we should permit a character witness to be cross ex­amined about a prior felony conviction of an accused but not as to a prior misdemeanor conviction. By presenting a character witness an accused opens the door which would otherwise be closed. If he wants us to know what his reputation is, we must be able to determine the witness’ awareness of the relevant facts. Had the authors of rule 405(a) or our General Assembly by adopting the rule, see Ark. Stat. Ann. § 28-1001 (Repl. 1979), intended to limit it as they did rule 609(a), they could easily have done so.</p>
+                <p pgmap="220" id="b220-4">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="217" ORDERLABEL="189" TYPE="page">
+        <fptr FILEID="tiff_00109_0"/>
+        <fptr FILEID="jp2_00109_0"/>
+        <fptr FILEID="alto_00109_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_217.3" BETYPE="IDREF" FILEID="alto_00109_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="218" ORDERLABEL="190" TYPE="page">
+        <fptr FILEID="tiff_00109_1"/>
+        <fptr FILEID="jp2_00109_1"/>
+        <fptr FILEID="alto_00109_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_218.2" BETYPE="IDREF" FILEID="alto_00109_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="219" ORDERLABEL="191" TYPE="page">
+        <fptr FILEID="tiff_00110_0"/>
+        <fptr FILEID="jp2_00110_0"/>
+        <fptr FILEID="alto_00110_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_219.3" BETYPE="IDREF" FILEID="alto_00110_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="220" ORDERLABEL="192" TYPE="page">
+        <fptr FILEID="tiff_00110_1"/>
+        <fptr FILEID="jp2_00110_1"/>
+        <fptr FILEID="alto_00110_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_220.2" BETYPE="IDREF" FILEID="alto_00110_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b218-9" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_218.10" BETYPE="IDREF" FILEID="alto_00109_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AGG" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_217.11" BETYPE="IDREF" FILEID="alto_00109_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b218-7" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_218.6" BETYPE="IDREF" FILEID="alto_00109_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b218-6" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_218.5" BETYPE="IDREF" FILEID="alto_00109_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b219-6" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_219.4" BETYPE="IDREF" FILEID="alto_00110_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b219-7" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_219.5" BETYPE="IDREF" FILEID="alto_00110_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b220-4" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_220.4" BETYPE="IDREF" FILEID="alto_00110_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b218-8" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_218.7" BETYPE="IDREF" FILEID="alto_00109_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b217-8" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_217.7" BETYPE="IDREF" FILEID="alto_00109_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b217-9" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_217.8" BETYPE="IDREF" FILEID="alto_00109_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b217-11" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_217.10" BETYPE="IDREF" FILEID="alto_00109_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b219-8" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_219.6" BETYPE="IDREF" FILEID="alto_00110_0"/>
+            <area BEGIN="BL_220.1" BETYPE="IDREF" FILEID="alto_00110_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ar4" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_218.8" BETYPE="IDREF" FILEID="alto_00109_1"/>
+            <area BEGIN="BL_218.9" BETYPE="IDREF" FILEID="alto_00109_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b220-5" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_220.5" BETYPE="IDREF" FILEID="alto_00110_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b217-10" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_217.9" BETYPE="IDREF" FILEID="alto_00109_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b218-11" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_218.12" BETYPE="IDREF" FILEID="alto_00109_1"/>
+            <area BEGIN="BL_219.1" BETYPE="IDREF" FILEID="alto_00110_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b218-10" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_218.11" BETYPE="IDREF" FILEID="alto_00109_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

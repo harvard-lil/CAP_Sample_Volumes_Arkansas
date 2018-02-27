@@ -1,0 +1,432 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0062" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Chappell v. City of Russellville">Herman CHAPPELL, et al. v. CITY OF RUSSELLVILLE, ARKANSAS, et al.</name>
+          <docketnumber>85-245</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 261</citation>
+          <citation category="parallel" type="bluebook">704 S.W.2d 166</citation>
+          <decisiondate>1986-02-24</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:00Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00145_0" MIMETYPE="image/tiff" CHECKSUM="e1a9ed6d3e5e7345c4bd79aac616c4e4" CHECKSUMTYPE="MD5" SIZE="7526">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00145_0.tif"/>
+      </file>
+      <file ID="tiff_00145_1" MIMETYPE="image/tiff" CHECKSUM="09bb670d69f3aa032c8a9b6e227909fd" CHECKSUMTYPE="MD5" SIZE="55282">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00145_1.tif"/>
+      </file>
+      <file ID="tiff_00146_0" MIMETYPE="image/tiff" CHECKSUM="11ad37ba106332e595c83868cc83c553" CHECKSUMTYPE="MD5" SIZE="55742">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00146_0.tif"/>
+      </file>
+      <file ID="tiff_00146_1" MIMETYPE="image/tiff" CHECKSUM="614e1a8a591a546cd7a0d5e366ec06c2" CHECKSUMTYPE="MD5" SIZE="25008">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00146_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00145_0" MIMETYPE="image/jp2" CHECKSUM="eb82778e6c551c07eb7eac39b0cadbe0" CHECKSUMTYPE="MD5" SIZE="1376189">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00145_0.jp2"/>
+      </file>
+      <file ID="jp2_00145_1" MIMETYPE="image/jp2" CHECKSUM="ca59426fbbe9f51b78ff2d66a50b6d3a" CHECKSUMTYPE="MD5" SIZE="2553494">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00145_1.jp2"/>
+      </file>
+      <file ID="jp2_00146_0" MIMETYPE="image/jp2" CHECKSUM="b1affb44e23aeb26ed2d0666c3ac0b63" CHECKSUMTYPE="MD5" SIZE="2693707">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00146_0.jp2"/>
+      </file>
+      <file ID="jp2_00146_1" MIMETYPE="image/jp2" CHECKSUM="cb4a13be78f035ca4dc582a019ffcb01" CHECKSUMTYPE="MD5" SIZE="1977912">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00146_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00145_0" MIMETYPE="text/xml" CHECKSUM="e50cf9f321d70048cc40c3847233386d" CHECKSUMTYPE="MD5" SIZE="9620">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00145_0.xml"/>
+      </file>
+      <file ID="alto_00145_1" MIMETYPE="text/xml" CHECKSUM="e78dd55886850e118cdbf638e53cffd7" CHECKSUMTYPE="MD5" SIZE="94676">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00145_1.xml"/>
+      </file>
+      <file ID="alto_00146_0" MIMETYPE="text/xml" CHECKSUM="213032f780e8e0346961eab5ba7afe36" CHECKSUMTYPE="MD5" SIZE="92365">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00146_0.xml"/>
+      </file>
+      <file ID="alto_00146_1" MIMETYPE="text/xml" CHECKSUM="6e1901bedd434de9bf1b473d69e4b46d" CHECKSUMTYPE="MD5" SIZE="41098">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00146_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0062" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="261" lastpage="264">
+              <court pgmap="289" id="b289-5">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="289" id="b289-4">85-245</docketnumber>
+              <citation pgmap="289" id="ArC">704 S.W.2d 166</citation>
+              <parties pgmap="289" id="b289-3">Herman CHAPPELL, et al. v. CITY OF RUSSELLVILLE, ARKANSAS, et al.</parties>
+              <decisiondate pgmap="289" id="Adg">Opinion delivered February 24, 1986</decisiondate>
+              <judges pgmap="292" id="b292-7">Purtle, J., not participating.</judges>
+              <attorneys pgmap="289" id="b289-16">Robert E. Irwin, for appellant.</attorneys>
+              <attorneys pgmap="290" id="b290-3">John Bynum, for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="290" id="b290-4">Darrell Hickman, Justice.</author>
+                <p pgmap="290" id="ACF">This is an annexation case. The City of Russellville sought to annex 4,150 acres of contiguous lands. The area sought to be annexed encompasses three irregular tracts of land in the western part of the city, extending Russell-­ville’s boundaries uniformly to Lake Dardanelle and the Arkan­sas River. The city already touched these bodies of water in several places. An election was held and the annexation was approved by a vote of 571 to 210. Several landowners contested the annexation. They alleged the areas were not proper for municipal purposes because they consisted of farmland, swamp­land and open and unimproved land. After the trial, the court dismissed the complaint, finding the land suitable for annexation. We agree.</p>
+                <p pgmap="290" id="b290-5">
+                   A city may annex lands which are either (1) platted and held for sale or use as municipal lots; (2) whether platted or not, if the lands are held to be sold as suburban property; (3) when the lands furnish the abode for a densely settled community, or represent the actual growth of the municipality beyond its legal boundary; (4) when the lands are needed for any proper munici­pal purposes such as for the extension of needed police regulation; or (5) when they are valuable by reason of their adaptability for prospective, municipal uses. Ark. Stat. Ann. § 19-307.1 (Repl. 1980). The lands sought to be annexed must meet one of these five criteria. Holmes v. City of Little Rock, 285 Ark. 296, 686 S.W.2d 425 (1985). If a part of the proposed area does not meet one of the requirements, then the annexation of the entire area is voided in toto. Gay v. City of Springdale, 287 Ark. 55, 696 S.W.2d 723 (1985).</p>
+                <p pgmap="290" id="b290-6">All three tracts are west of Highway 7 which divides the city, running north and south. The first tract is north and west of the existing city, encompassing Bona Dea Trails Park. The second tract is the largest, extending the city limits to the Russellville Boat Dock, encompassing a growing residential section. The third tract lies south of the existing city and takes in existing industrial and commercial sites and land along the Arkansas River.</p>
+                <p pgmap="290(33) 291(37)" id="b290-7">
+                   The landowners first argue that some of the land is swampland which runs into a wooded area, and as such, is not suitable for municipal purposes. We held in Holmes v. City of Little Rock, supra, that annexation is not prohibited simply because a tract is rather rugged or heavily wooded with sparse population; the value of the land is derived from its actual and prospective use for city purposes.</p>
+                <p pgmap="291" id="b291-4">
+                   The landowners next argue and it is conceded that the annexation contains some farmland. There was an abundance of testimony in this case that all the land being annexed was best suited for residential and commercial purposes rather than for agricultural purposes. Before 1975 lands used for agricultural purposes could not be annexed. Act 309 of 1975 amended the law to provide that agricultural lands could not be annexed if their highest and best use is for agricultural purposes. We interpreted this amendment in Gay v. City of Springdale, supra, and held that the prohibition against annexing agricultural lands is no longer absolute. The lands may be annexed if their highest and best use is for a purpose other than agriculture.</p>
+                <p pgmap="291" id="b291-5">Generally, there was other testimony that some of the lands are being held as suburban property. There are several subdivi­sions being developed in the area west of the city due to the city’s residential growth in that direction. The mayor testified that the city can adequately provide police and fire protection, animal control, street lights, water and sewage service, and the lands are needed for orderly growth and development. The chief of police and fire chief testified that the annexation would assist with police and fire protection because in some places the city limits could not be determined. The annexed land would even the city’s bounda­ries, advancing them to natural or man-made boundaries, such as highways.</p>
+                <p pgmap="291" id="b291-6">
+                   The trial court made specific findings of fact, including findings that much of the lands represent the actual growth of the city beyond its legal boundary; the lands are needed for extension of police and fire protection; the lands are valuable by reason of their adaptability for prospective municipal purposes; and al­though some acreage is presently used for agricultural purposes, the highest and best use of these lands is for purposes other than their present use. On appeal our decision is limited to determining if these findings are clearly wrong. ARCP Rule 52, Holmes v. City of Little Rock, supra. They are not in this case.</p>
+                <p pgmap="291(8) 292(73)" id="b291-7">
+                   For all practical purposes, we overruled Saunders v. City of Little Rock, 257 Ark. 195, 515 S.W.2d 633 (1974), with our decision in Holmes v. City of Little Rock, supra, and Gay v. City of Springdale, supra. We rejected the narrow approach we took in Saunders where we upheld the voiding of the proposed annexation of 55 square miles to the City of Little Rock. We no longer have that constrained approach to annexation cases. To that extent, Saunders is overruled.</p>
+                <p pgmap="292" id="b292-6">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="289" ORDERLABEL="261" TYPE="page">
+        <fptr FILEID="tiff_00145_0"/>
+        <fptr FILEID="jp2_00145_0"/>
+        <fptr FILEID="alto_00145_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_289.2" BETYPE="IDREF" FILEID="alto_00145_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="290" ORDERLABEL="262" TYPE="page">
+        <fptr FILEID="tiff_00145_1"/>
+        <fptr FILEID="jp2_00145_1"/>
+        <fptr FILEID="alto_00145_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_290.1" BETYPE="IDREF" FILEID="alto_00145_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="291" ORDERLABEL="263" TYPE="page">
+        <fptr FILEID="tiff_00146_0"/>
+        <fptr FILEID="jp2_00146_0"/>
+        <fptr FILEID="alto_00146_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_291.3" BETYPE="IDREF" FILEID="alto_00146_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="292" ORDERLABEL="264" TYPE="page">
+        <fptr FILEID="tiff_00146_1"/>
+        <fptr FILEID="jp2_00146_1"/>
+        <fptr FILEID="alto_00146_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_292.2" BETYPE="IDREF" FILEID="alto_00146_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b291-6" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_291.6" BETYPE="IDREF" FILEID="alto_00146_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b291-7" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_291.7" BETYPE="IDREF" FILEID="alto_00146_0"/>
+            <area BEGIN="BL_292.1" BETYPE="IDREF" FILEID="alto_00146_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b291-4" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_291.4" BETYPE="IDREF" FILEID="alto_00146_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b291-5" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_291.5" BETYPE="IDREF" FILEID="alto_00146_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ArC" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_289.5" BETYPE="IDREF" FILEID="alto_00145_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Adg" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_289.7" BETYPE="IDREF" FILEID="alto_00145_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ACF" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_290.5" BETYPE="IDREF" FILEID="alto_00145_1"/>
+            <area BEGIN="BL_290.6" BETYPE="IDREF" FILEID="alto_00145_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b289-5" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_289.6" BETYPE="IDREF" FILEID="alto_00145_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b289-4" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_289.4" BETYPE="IDREF" FILEID="alto_00145_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b289-3" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_289.3" BETYPE="IDREF" FILEID="alto_00145_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b289-16" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_289.16" BETYPE="IDREF" FILEID="alto_00145_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b290-3" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_290.3" BETYPE="IDREF" FILEID="alto_00145_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b292-7" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_292.5" BETYPE="IDREF" FILEID="alto_00146_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b292-6" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_292.4" BETYPE="IDREF" FILEID="alto_00146_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b290-7" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_290.9" BETYPE="IDREF" FILEID="alto_00145_1"/>
+            <area BEGIN="BL_291.1" BETYPE="IDREF" FILEID="alto_00146_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b290-6" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_290.8" BETYPE="IDREF" FILEID="alto_00145_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b290-5" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_290.7" BETYPE="IDREF" FILEID="alto_00145_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b290-4" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_290.4" BETYPE="IDREF" FILEID="alto_00145_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

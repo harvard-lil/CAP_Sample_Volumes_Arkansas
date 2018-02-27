@@ -1,0 +1,543 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0048" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Young v. Young">Stephen Bishop YOUNG &amp; Alyce Young BAILEY v. Ben K. YOUNG, Executor of the Estate of Charles Buford YOUNG</name>
+          <docketnumber>85-236</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 199</citation>
+          <citation category="parallel" type="bluebook">703 S.W.2d 457</citation>
+          <decisiondate>1986-02-18</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:00Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00114_0" MIMETYPE="image/tiff" CHECKSUM="adfa9ed3e807158dc7ffd574273fa894" CHECKSUMTYPE="MD5" SIZE="11764">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00114_0.tif"/>
+      </file>
+      <file ID="tiff_00114_1" MIMETYPE="image/tiff" CHECKSUM="409f82695e217448de3b3d0dcebd5a80" CHECKSUMTYPE="MD5" SIZE="52082">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00114_1.tif"/>
+      </file>
+      <file ID="tiff_00115_0" MIMETYPE="image/tiff" CHECKSUM="b009e0ac92e284ceeec2cd7f9daa5af0" CHECKSUMTYPE="MD5" SIZE="45806">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00115_0.tif"/>
+      </file>
+      <file ID="tiff_00115_1" MIMETYPE="image/tiff" CHECKSUM="1d3143e1e7786b160fc82c7a06c17723" CHECKSUMTYPE="MD5" SIZE="48552">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00115_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00114_0" MIMETYPE="image/jp2" CHECKSUM="f9945d2569fb1e29794d66c762b45ab3" CHECKSUMTYPE="MD5" SIZE="1751238">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00114_0.jp2"/>
+      </file>
+      <file ID="jp2_00114_1" MIMETYPE="image/jp2" CHECKSUM="99034e7f7a678a8195e7f173c0013008" CHECKSUMTYPE="MD5" SIZE="2497477">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00114_1.jp2"/>
+      </file>
+      <file ID="jp2_00115_0" MIMETYPE="image/jp2" CHECKSUM="8f3605dc0db9490a0628c041136c4740" CHECKSUMTYPE="MD5" SIZE="2436972">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00115_0.jp2"/>
+      </file>
+      <file ID="jp2_00115_1" MIMETYPE="image/jp2" CHECKSUM="c47692894913573683cb1d5e8b51fd28" CHECKSUMTYPE="MD5" SIZE="2496236">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00115_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00114_0" MIMETYPE="text/xml" CHECKSUM="23bb25b1e5d9135a893a6df47bf74de9" CHECKSUMTYPE="MD5" SIZE="16145">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00114_0.xml"/>
+      </file>
+      <file ID="alto_00114_1" MIMETYPE="text/xml" CHECKSUM="4e706c659ad1264777adf7bae9489ab1" CHECKSUMTYPE="MD5" SIZE="91527">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00114_1.xml"/>
+      </file>
+      <file ID="alto_00115_0" MIMETYPE="text/xml" CHECKSUM="78170fca74a66d10726688e3f8ff43a7" CHECKSUMTYPE="MD5" SIZE="84884">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00115_0.xml"/>
+      </file>
+      <file ID="alto_00115_1" MIMETYPE="text/xml" CHECKSUM="dcf71616ed0d39829ea98f8db65756c1" CHECKSUMTYPE="MD5" SIZE="80484">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00115_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0048" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="199" lastpage="202">
+              <court pgmap="227" id="b227-6">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="227" id="b227-5">85-236</docketnumber>
+              <citation pgmap="227" id="AKZ">703 S.W.2d 457</citation>
+              <parties pgmap="227" id="b227-3">Stephen Bishop YOUNG &amp; Alyce Young BAILEY v. Ben K. YOUNG, Executor of the Estate of Charles Buford YOUNG</parties>
+              <decisiondate pgmap="227" id="Ar9j">Opinion delivered February 18, 1986</decisiondate>
+              <otherdate pgmap="227" id="AaZ">[Rehearing denied March 17, 1986.<footnotemark>*</footnotemark>]</otherdate>
+              <judges pgmap="230" id="b230-10">Purtle, J., not participating.</judges>
+              <attorneys pgmap="227" id="b227-14">John H. Bradley, for appellants.</attorneys>
+              <attorneys pgmap="227" id="b227-15">Fendler, Gibson &amp; Bearden, for appellee.</attorneys>
+              <footnote label="*">
+                <p pgmap="227" id="b227-16">* Purtle, J., not participating.</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="228" id="b228-5">Jack Holt, Jr., Chief Justice.</author>
+                <p pgmap="228" id="Aj3">This case involves the issue of pretermitted children. The probate court found the reference in the testator’s will to “all of my heirs or other relatives” sufficient to mention the testator’s children as a class and exclude them from inheritance. It is from that judgment that this appeal is brought. Our jurisdiction is pursuant to Sup. Ct. R. 29(1)(c) and (p). We affirm.</p>
+                <p pgmap="228" id="b228-6">Charles Buford Young died testate on December 8, 1983, a resident of Florida. His will, executed on August 30, 1983, was admitted to probate in Florida. On August 6,1984, an authenti­cated copy of the will was admitted to probate in the Chick-­asawba District of Mississippi County, Arkansas, where the decedent owned an interest in land and some residential property. The will devised and bequeathed all of the testator’s property to his brother, Benjamin K. Young, with the exception of a hand-­carved pipe bequeathed to a friend. The testator was also survived by two children, the appellants; three grandchildren; and his mother. The testator was divorced from the mother of his children at the time of his death. The will did not mention either of the testator’s children by name.</p>
+                <p pgmap="228" id="b228-7">Appellants filed a petition on January 11,1985, alleging that they are pretermitted children under the will of Charles B. Young and are entitled to inherit the entire estate. A hearing was held on May 16, 1985 after which the trial court found the following language in the will sufficient mention of the appellants to exclude them from inheriting the entire estate as pretermitted children:</p>
+                <blockquote pgmap="228" id="b228-8">I am mindful of the fact that I have willingly and intentionally omitted to provide for all of my heirs or other relatives not specifically mentioned herein.</blockquote>
+                <p pgmap="228" id="b228-9">
+                   The pretermitted child statute, Ark. Stat. Ann. § 60-­507(b) (Repl. 1971) provides:</p>
+                <blockquote pgmap="228(79) 229(25)" id="b228-10">If at the time of the execution of a will there be a living child of the testator, or living child or issue of a deceased child of the testator, whom the testator shall omit to mention or provide for, either specifically or as a member of a class, the testator shall be deemed to have died intestate with respect to such child or issue, and such child or issue shall be entitled to recover from the devises in proportion to the amounts of their respective shares, that portion of the estate which he or they would have inherited had there been no will.</blockquote>
+                <p pgmap="229" id="b229-6">The probate judge, in finding the language in the testator’s will sufficient mention of the appellants as members of a class, cited three Arkansas Supreme Court cases, Taylor v. Cammack, 209 Ark. 983, 193 S.W.2d 323 (1946); Powell v. Hayes, 176 Ark. 660, 3 S.W.2d 974 (1928); and Petty v. Chaney, Ex’x, 281 Ark. 72, 661 S.W.2d 373 (1983).</p>
+                <p pgmap="229" id="b229-7">
+                   In Powell v. Hayes, supra, the will in part read: “The balance of my property to my wife and heirs as law provides.” This court stated:</p>
+                <blockquote pgmap="229" id="b229-8">[A] will in which the testator provides for all of his children as a class, without expressly naming them, is a sufficient mention of his children. . . .</blockquote>
+                <blockquote pgmap="229" id="b229-9">In its strict legal sense the word “heirs” signifies “those upon whom the law casts the inheritance of real estate.” But this construction will give way if there be upon the face of the instrument sufficient to show that it was to be applied to children . . . (citations omitted).</blockquote>
+                <blockquote pgmap="229" id="b229-10">The word “heirs” has been held to be susceptible of two interpretations; the one which is technical, and em­braces the whole line of heirs; the other, not technical, but common, and is used to denote the heirs who may come under the designation of heirs at a particular time, and it is often used in common speech as synonymous with children . . . (citations omitted).</blockquote>
+                <blockquote pgmap="229" id="b229-11">Looking at the entire will and all the circumstances surrounding the testator, we think the word “heirs”, as used in the will, manifestly meant children. The word was not used to denote succession but to describe devises who were to take under the will.</blockquote>
+                <p pgmap="229(57) 230(48)" id="b229-12">Again, in Taylor v. Cammack, supra, we found that a statement in the testator’s will appointing an executor with “full power to sell and dispose of it [his property] [if] in his (its) judgment it is necessary for the payment of debts, or to the advantage of the estate, or of the heirs,” was a sufficient reference to the testator’s children to avoid a pretermitted child problem. In so holding, this court found that since the testator had no heirs other than his three children, it is reasonable to assume that he used the word “heirs”, in the nontechnical sense and meant thereby his children.</p>
+                <p pgmap="230" id="b230-6">In Petty v. Chaney, Ex’x, supra, we found the appellant child was sufficiently provided for in the paragraph of the testator’s will creating a trust for the testator’s “descendants.” In reaching that decision we considered the will as a whole.</p>
+                <p pgmap="230" id="b230-7">
+                   Applying these guidelines to the will in question, we find that the phrase “my heirs” was a reference to the appellants, excluding them from inheritance as pretermitted children. In so holding we note that elsewhere in the will the appellant’s brother and sister-in-law were specifically mentioned. The only other people who could be considered heirs or relatives were the testator’s children and grandchildren and his mother. This court has previously recognized that the word “heirs” when used in common speech is synonymous with children. Powell, supra. Considering the will as a whole, as we are required to do, it is apparent that the testator was referring to his children as his heirs when he stated in his will that he had intentionally failed to provide for that class of people. His mother and grandchildren could well fall within the “other relatives” designation. The purpose of the pretermitted child statute is not to compel a testator to make a provision for his children, but to guard against testamentary thoughtlessness. Taylor, supra. We think the testator was mindful of the fact that he had children when he wrote his will.</p>
+                <p pgmap="230" id="b230-8">
+                   As to the other issues raised by the parties, the probate judge correctly applied Arkansas law in construing the will, Layman v. Hodnett, 205 Ark. 367, 168 S.W.2d 819 (1943), and we need not reach the question of the admissibility of extrinsic evidence since the will can be upheld based solely on the language used.</p>
+                <p pgmap="230" id="b230-9">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="227" ORDERLABEL="199" TYPE="page">
+        <fptr FILEID="tiff_00114_0"/>
+        <fptr FILEID="jp2_00114_0"/>
+        <fptr FILEID="alto_00114_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_227.2" BETYPE="IDREF" FILEID="alto_00114_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="228" ORDERLABEL="200" TYPE="page">
+        <fptr FILEID="tiff_00114_1"/>
+        <fptr FILEID="jp2_00114_1"/>
+        <fptr FILEID="alto_00114_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_228.1" BETYPE="IDREF" FILEID="alto_00114_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="229" ORDERLABEL="201" TYPE="page">
+        <fptr FILEID="tiff_00115_0"/>
+        <fptr FILEID="jp2_00115_0"/>
+        <fptr FILEID="alto_00115_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_229.3" BETYPE="IDREF" FILEID="alto_00115_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="230" ORDERLABEL="202" TYPE="page">
+        <fptr FILEID="tiff_00115_1"/>
+        <fptr FILEID="jp2_00115_1"/>
+        <fptr FILEID="alto_00115_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_230.2" BETYPE="IDREF" FILEID="alto_00115_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b227-3" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_227.3" BETYPE="IDREF" FILEID="alto_00114_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b227-5" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_227.4" BETYPE="IDREF" FILEID="alto_00114_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b227-6" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_227.6" BETYPE="IDREF" FILEID="alto_00114_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b230-10" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_230.8" BETYPE="IDREF" FILEID="alto_00115_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b229-12" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_229.10" BETYPE="IDREF" FILEID="alto_00115_0"/>
+            <area BEGIN="BL_230.1" BETYPE="IDREF" FILEID="alto_00115_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b229-11" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_229.9" BETYPE="IDREF" FILEID="alto_00115_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b229-10" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_229.8" BETYPE="IDREF" FILEID="alto_00115_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b227-15" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_227.17" BETYPE="IDREF" FILEID="alto_00114_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b227-14" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_227.16" BETYPE="IDREF" FILEID="alto_00114_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b227-16" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_227.18" BETYPE="IDREF" FILEID="alto_00114_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b230-9" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_230.7" BETYPE="IDREF" FILEID="alto_00115_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b230-8" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_230.6" BETYPE="IDREF" FILEID="alto_00115_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b229-8" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_229.6" BETYPE="IDREF" FILEID="alto_00115_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b228-10" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_228.10" BETYPE="IDREF" FILEID="alto_00114_1"/>
+            <area BEGIN="BL_229.1" BETYPE="IDREF" FILEID="alto_00115_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AaZ" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_227.8" BETYPE="IDREF" FILEID="alto_00114_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aj3" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_228.4" BETYPE="IDREF" FILEID="alto_00114_1"/>
+            <area BEGIN="BL_228.5" BETYPE="IDREF" FILEID="alto_00114_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AKZ" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_227.5" BETYPE="IDREF" FILEID="alto_00114_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b230-7" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_230.5" BETYPE="IDREF" FILEID="alto_00115_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b230-6" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_230.4" BETYPE="IDREF" FILEID="alto_00115_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ar9j" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_227.7" BETYPE="IDREF" FILEID="alto_00114_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b229-7" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_229.5" BETYPE="IDREF" FILEID="alto_00115_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b229-6" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_229.4" BETYPE="IDREF" FILEID="alto_00115_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b228-8" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_228.8" BETYPE="IDREF" FILEID="alto_00114_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b228-9" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_228.9" BETYPE="IDREF" FILEID="alto_00114_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b228-6" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_228.6" BETYPE="IDREF" FILEID="alto_00114_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b228-7" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_228.7" BETYPE="IDREF" FILEID="alto_00114_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b229-9" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_229.7" BETYPE="IDREF" FILEID="alto_00115_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b228-5" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_228.3" BETYPE="IDREF" FILEID="alto_00114_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

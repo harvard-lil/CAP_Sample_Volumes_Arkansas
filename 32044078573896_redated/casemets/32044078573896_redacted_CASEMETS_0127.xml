@@ -1,0 +1,583 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0127" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Cornish v. Keesee">Cornish vs. Keesee</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 528</citation>
+          <decisiondate>1860-10</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00265_1" MIMETYPE="image/tiff" CHECKSUM="110563415276e72ccd3e8bb56e73132e" CHECKSUMTYPE="MD5" SIZE="29482">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00265_1.tif"/>
+      </file>
+      <file ID="tiff_00266_0" MIMETYPE="image/tiff" CHECKSUM="2403df8b8a3757cb1cf4a90691ba2f0b" CHECKSUMTYPE="MD5" SIZE="45634">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00266_0.tif"/>
+      </file>
+      <file ID="tiff_00266_1" MIMETYPE="image/tiff" CHECKSUM="f3831213dae2d368aac722072a9dc50d" CHECKSUMTYPE="MD5" SIZE="46906">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00266_1.tif"/>
+      </file>
+      <file ID="tiff_00267_0" MIMETYPE="image/tiff" CHECKSUM="8ab57029c68164a8044a6c76fca3c6ed" CHECKSUMTYPE="MD5" SIZE="46968">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00267_0.tif"/>
+      </file>
+      <file ID="tiff_00267_1" MIMETYPE="image/tiff" CHECKSUM="9b9028486f504ea2a916fbb27e72bb0b" CHECKSUMTYPE="MD5" SIZE="43158">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00267_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00265_1" MIMETYPE="image/jp2" CHECKSUM="bb4b0aa9ed45eef8279b3be3520e81a5" CHECKSUMTYPE="MD5" SIZE="2435151">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00265_1.jp2"/>
+      </file>
+      <file ID="jp2_00266_0" MIMETYPE="image/jp2" CHECKSUM="1bd1b97e5fb21fcaacdddd90f0bf9d1c" CHECKSUMTYPE="MD5" SIZE="2605567">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00266_0.jp2"/>
+      </file>
+      <file ID="jp2_00266_1" MIMETYPE="image/jp2" CHECKSUM="a42a05b5177708c82045f72315822c8d" CHECKSUMTYPE="MD5" SIZE="2557992">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00266_1.jp2"/>
+      </file>
+      <file ID="jp2_00267_0" MIMETYPE="image/jp2" CHECKSUM="a71e97aa557a05ecd99a9d72e182feb3" CHECKSUMTYPE="MD5" SIZE="2569791">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00267_0.jp2"/>
+      </file>
+      <file ID="jp2_00267_1" MIMETYPE="image/jp2" CHECKSUM="5043c148f4b31a5679481f5a25352cfe" CHECKSUMTYPE="MD5" SIZE="2542744">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00267_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00265_1" MIMETYPE="text/xml" CHECKSUM="384db2d7e3ea2136b14ab59a62c0299d" CHECKSUMTYPE="MD5" SIZE="57958">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00265_1.xml"/>
+      </file>
+      <file ID="alto_00266_0" MIMETYPE="text/xml" CHECKSUM="95769394d7e2d8f3190b19dfe95fab65" CHECKSUMTYPE="MD5" SIZE="93564">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00266_0.xml"/>
+      </file>
+      <file ID="alto_00266_1" MIMETYPE="text/xml" CHECKSUM="c82b827bb978ab62a650de009e150e6e" CHECKSUMTYPE="MD5" SIZE="91121">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00266_1.xml"/>
+      </file>
+      <file ID="alto_00267_0" MIMETYPE="text/xml" CHECKSUM="83bcd7ad23a8baeef1c85275dacce753" CHECKSUMTYPE="MD5" SIZE="96380">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00267_0.xml"/>
+      </file>
+      <file ID="alto_00267_1" MIMETYPE="text/xml" CHECKSUM="502794994ed3183dc1fc712093522650" CHECKSUMTYPE="MD5" SIZE="83564">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00267_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0127" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="532" firstpage="528">
+              <parties id="b530-5" pgmap="530">Cornish vs. Keesee.</parties>
+              <attorneys id="b530-9" pgmap="530">Carleton for the appellant,</attorneys>
+              <attorneys id="b531-6" pgmap="531">Mare, for the' appellant,</attorneys>
+              <summary id="b530-7" pgmap="530">Appeal from Union Circuit Couit in Chancery.</summary>
+              <summary id="b530-8" pgmap="530">Hon. A. A. Stith, Circuit Judge.</summary>
+              <summary id="A7t0" pgmap="530(59) 531(19)">contended that the court in rendering the decree sought to be reviewed, manifestly erred in perpetually enjoining all proceedings in the replevin sui^ after deciding that the claim of Sims to the negro was fraudu­lent — and that the proceedings in this case to review and cor­rect the error in the original decree are consistent with the general principles laid down in 3 Danl. Ch. Pr. 1723 to 1741; Story Eq. PI. secs. 403 to 425.</summary>
+              <summary id="A3J" pgmap="531">contended that a bill of review lies only for a party against whom there is a decree (2 Mad. Ch. 540; 2 J. C. R. 488; Story's Eq. PL, sec. 634); that none but the original parties can be joined in this kind of a bill (2 Mad. Ch. 537; Story Eq. PL 404; 3 Danl. Ch. Pr. 1725); that it will lie only for a palpable error of law, and not to correct an erro­neous judgfnent (Story's Eq. PI. 324, note (1); 17 Yes. 178; 3 Danl. Ch. PI. 1727, and notes)] nor where the decree was rendered by agreement or consent. (2 Mad. Ch. 576.)</summary>
+              <headnotes id="b530-6" pgmap="530">A bill of review may be brought to correct an error of law into which the court rendering a decree, has inadvertently fallen, or upon discovery of new matter since the decree, by the party who is aggrieved by the former decree, and against the one in whose favor it was rendered; but not to enlarge or modify a'decree rendered by consent, or taken fro confesso.</headnotes>
+              <opinion type="majority">
+                <author id="b531-7" pgmap="531">Mr. Justice Fairchild</author>
+                <p id="ATp" pgmap="531">delivered the opinion of the court.</p>
+                <p id="b531-8" pgmap="531">In April, 1853, Cornish, the plaintiff below, and appellant here, became administrator of the goods, etc., of John H. Hines, and as such had possession of a slave called Catren, or Catherine. This slave was replevied by George W. Simms, who, with Gideon Keessee as his security, executed a sufficient replevin bond. Rhoda Hines, the widow of John H. Hines, also sued Cornish in an action of trover for the value of the slave, claiming it as her separate property.</p>
+                <p id="b531-9" pgmap="531(160) 532(29)">Upon the execution of the writ of replevin, Simms took the negro out of the State. Mrs. Hines then filed her bill on the chancery side of the Union Circuit Court, to have the proceed­ings in trover and replevin stayed, and the whole controversy as to the right to the negro determined in chancery, on the ground that the claim of Simms was fraudulent, that by taking the negro out of the jurisdiction of the court, he had avoided the effect of any judgment against him, except so far as the replevin bond, with its security, would fix his responsibility; that Cornish had no right to the girl as assets of his admini­stration, but that the trover suit would be unfruitful to her, as a judgment against Cornish would be useless from his insolvency. Therefore she preferred her bill, to settle the right to the negro» and upon its being determined for her, to be subrogated in the place of Cornish to the benefit which he could have derived from the replevin bond. Cornish and Simms were made defen­dants to this bill, but Keesee was not.</p>
+                <p id="b532-5" pgmap="532">A_degEg.ej»?;o confesso was taken against Simms, his claim to the negro was declared to be fraudulent and void, and the replevin bond was held to be subjected to the claim of Mrs. Hines, to indemnify her for the value of the slave and her hire.</p>
+                <p id="b532-6" pgmap="532">Cornish answered the bill, denying Mrs. Hines’ right to the negro, and claiming it as assets of the estate of John H. Hines for the benefit of its creditors, and made his answer a cross-­bill against Mrs. Hines and Simms.</p>
+                <p id="b532-7" pgmap="532">The matters in issue between Mrs. Hines and Cornish were compromised, and a consent decree was entered, by which Cornish, subject to certain incumbrances, was to hold the slave Catren, or Catherine, as assets of the estate of John H. Hines. And between them, as also against Simms, his replevin suit was perpetually enjoined, and the replevin bond declared to be forfeited, and was ordered to be put in suit against Keesee for the benefit of the administration of John H. Hines, subject to the equities of the decree.</p>
+                <p id="b532-8" pgmap="532">As part of the compromise, Mrs. Hines was to dismiss her action of trover against Cornish.</p>
+                <p id="b532-9" pgmap="532">The replevin bond having been assigned to Cornish, he sued Keesee on it, but failed to recover, as there had been no judg­ment of return of the property in the replevin suit itself, which position was also maintained by this Court, on appeal by Cor­nish. See Cornish vs. Keesee, 17 Ark. 391.</p>
+                <p id="b532-10" pgmap="532">Such, among others, are allegations in the bill filed by Cor­nish in this suit against Simms, Mrs. Hines and Keesee, the object of which is to obtain a modification, or rather, an enlarge­ment of the decree rendered in the suit prosecuted by Mrs. Hines against Cornish and Keesee. A remedy is sought under that branch of equitable jurisdiction which grants relief upon bills of review, which is the style of the bill in question.</p>
+                <p id="b532-11" pgmap="532(22) 533(16)">It was met by a demurrer from Keesee, which was sustained by the Union circuit court sitting in chancery, and Cornish, by appeal, prays this court to relieve him, as he insists the court below should have done.</p>
+                <p id="b533-5" pgmap="533">Cornish complains in the bill in this case, that the decree sought to be reviewed, should be reversed for its errors in en­joining the replevin suit of Simms, while it was in a condi­tion that no judgment of return of the property could be ren­dered; that it should have required Simms to submit to such judgment, and that an assessment of the value of the negro, and of her hire, should have been decided to be had in the suit at law, on which judgment could have been entered, in default of the execution of the judgment of return, and that the decree should be conclusive evidence to defeat the claim of Simms.</p>
+                <p id="b533-6" pgmap="533">Serious questions might have arisen as to the liability^ of Keesee, upon a bond which should have been forfeited in the way that the bill of review assigns the decree should have declared the forfeiture, and as much may be inferred from the closing paragraph of the opinion of this court in Cornish vs. Keesee; but without consideration of such matters, the decree dismissing the bill of review must be affirmed by the applica­tion of the commonest rules of chancery practice to the facts of the case.</p>
+                <p id="b533-7" pgmap="533">A bill of review, the object of which is to procure an exam­ination and reversal of a former decree that has been enrolled, must be brought upon error of law appearing on the record, or upon discovery of new matter too late to be used in the former suit. Mitf. Ch. Pl., by Jeremy, 101; Lube Eq. Pl. 177.</p>
+                <p id="b533-8" pgmap="533">It does not lie to correct a decision erroneous in its applica­tion of proof, or from a misconception of the facts of the case; but to correct a manifest error, into which a court has inadver­tently fallen. And the review must be sought in favor of a party who was aggrieved by the former decree, and against a party in whose favor the decree was rendered. Lube Eq. Pl. 178, 179; Whiting vs. Bank U. S., 13 Pet. 14.</p>
+                <p id="b533-9" pgmap="533(37) 534(24)">In the American practice, a decree is enrolled after the term is passed at which it is rendered, and such a review as seeks the reversal of a former decree for error upon the face of the record, may be filed without leave of the court, but it would be otherwise, where the review was sought upon newly discov­ered evidence.</p>
+                <p id="b534-5" pgmap="534">In the present case, Cornish was not aggrieved by the decree made, which he now wishes to have reviewed. As against Simms, he took a decree pro confesso, and might^have made it as ample as he was advised his rights required, either upon his cross bill or upon a properly framed pleading: and as between him and Mrs. Hines, the decree, which was doubtless intended to affect Keesee, by making the replevin bond available, was made by consent. The court did not pass upon the matter involved, but merely allowed their compromise to be entered of record to bind themselves, but surely with no design to bind anybody else, and without the effect of conferring new rights upon Cornish, or inflicting burdens upon Keesee, who was not a party to the suitl Clearly, a bill of review will not lie to correct such a decree. Hargraves vs. Lewis, 7 Geo. R. 119; Harrison vs. Rumsey, 2 Ves. 488; Webb vs. Webb, 3 Swanst. 658.</p>
+                <p id="b534-6" pgmap="534">And were it otherwise, if Cornish did not rightly apprehend the influence of his decree, that affords no reason for any reversal, correction or modification of it, by a court, upon a bill of review. Bingham vs. Dawson, Jacob R. 243; Lansing vs. Albany Ins. Co., Hop. R. 105.</p>
+                <p id="b534-7" pgmap="534">And that Keesee was not a party to the suit, in which his interests were to be affected, as they would be, by enlarging the decree against Simms and Mrs. Hines, is not an error that can be corrected in this proceeding. Young vs. Keighly, 16 Ves. 350; Whiling vs. Bank U. S., 13 Pet. 14.</p>
+                <p id="b534-8" pgmap="534">As the decree sought to be reviewed was not made against Cornish, as he cannot be aggrieved by a consent decree, or decree pro confesso, or cannot have the benefit of an after understanding of the force of such sort of decrees, the decree appealed from is affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="530" ORDERLABEL="528" TYPE="page">
+        <fptr FILEID="tiff_00265_1"/>
+        <fptr FILEID="jp2_00265_1"/>
+        <fptr FILEID="alto_00265_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_530.2" BETYPE="IDREF" FILEID="alto_00265_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_530.3" BETYPE="IDREF" FILEID="alto_00265_1"/>
+              <area BEGIN="BL_530.4" BETYPE="IDREF" FILEID="alto_00265_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_530.6" BETYPE="IDREF" FILEID="alto_00265_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="531" ORDERLABEL="529" TYPE="page">
+        <fptr FILEID="tiff_00266_0"/>
+        <fptr FILEID="jp2_00266_0"/>
+        <fptr FILEID="alto_00266_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_531.3" BETYPE="IDREF" FILEID="alto_00266_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_531.2" BETYPE="IDREF" FILEID="alto_00266_0"/>
+              <area BEGIN="BL_531.4" BETYPE="IDREF" FILEID="alto_00266_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="532" ORDERLABEL="530" TYPE="page">
+        <fptr FILEID="tiff_00266_1"/>
+        <fptr FILEID="jp2_00266_1"/>
+        <fptr FILEID="alto_00266_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_532.2" BETYPE="IDREF" FILEID="alto_00266_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_532.3" BETYPE="IDREF" FILEID="alto_00266_1"/>
+              <area BEGIN="BL_532.4" BETYPE="IDREF" FILEID="alto_00266_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="533" ORDERLABEL="531" TYPE="page">
+        <fptr FILEID="tiff_00267_0"/>
+        <fptr FILEID="jp2_00267_0"/>
+        <fptr FILEID="alto_00267_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_533.3" BETYPE="IDREF" FILEID="alto_00267_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_533.2" BETYPE="IDREF" FILEID="alto_00267_0"/>
+              <area BEGIN="BL_533.4" BETYPE="IDREF" FILEID="alto_00267_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="534" ORDERLABEL="532" TYPE="page">
+        <fptr FILEID="tiff_00267_1"/>
+        <fptr FILEID="jp2_00267_1"/>
+        <fptr FILEID="alto_00267_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_534.2" BETYPE="IDREF" FILEID="alto_00267_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_534.3" BETYPE="IDREF" FILEID="alto_00267_1"/>
+              <area BEGIN="BL_534.4" BETYPE="IDREF" FILEID="alto_00267_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b530-8" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_530.10" BETYPE="IDREF" FILEID="alto_00265_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b530-9" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_530.11" BETYPE="IDREF" FILEID="alto_00265_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b534-8" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_534.8" BETYPE="IDREF" FILEID="alto_00267_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b534-6" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_534.6" BETYPE="IDREF" FILEID="alto_00267_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b534-7" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_534.7" BETYPE="IDREF" FILEID="alto_00267_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b534-5" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_534.5" BETYPE="IDREF" FILEID="alto_00267_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b530-6" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_530.8" BETYPE="IDREF" FILEID="alto_00265_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b530-7" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_530.9" BETYPE="IDREF" FILEID="alto_00265_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b530-5" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_530.7" BETYPE="IDREF" FILEID="alto_00265_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b532-10" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_532.10" BETYPE="IDREF" FILEID="alto_00266_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b532-11" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_532.11" BETYPE="IDREF" FILEID="alto_00266_1"/>
+            <area BEGIN="BL_533.1" BETYPE="IDREF" FILEID="alto_00267_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b533-5" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_533.5" BETYPE="IDREF" FILEID="alto_00267_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b531-7" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_531.8" BETYPE="IDREF" FILEID="alto_00266_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b531-6" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_531.5" BETYPE="IDREF" FILEID="alto_00266_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b532-8" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_532.8" BETYPE="IDREF" FILEID="alto_00266_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b532-9" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_532.9" BETYPE="IDREF" FILEID="alto_00266_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A3J" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_531.6" BETYPE="IDREF" FILEID="alto_00266_0"/>
+            <area BEGIN="BL_531.7" BETYPE="IDREF" FILEID="alto_00266_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b533-6" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_533.6" BETYPE="IDREF" FILEID="alto_00267_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b533-9" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_533.9" BETYPE="IDREF" FILEID="alto_00267_0"/>
+            <area BEGIN="BL_534.1" BETYPE="IDREF" FILEID="alto_00267_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b532-5" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_532.5" BETYPE="IDREF" FILEID="alto_00266_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b532-6" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_532.6" BETYPE="IDREF" FILEID="alto_00266_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b532-7" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_532.7" BETYPE="IDREF" FILEID="alto_00266_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b531-9" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_531.11" BETYPE="IDREF" FILEID="alto_00266_0"/>
+            <area BEGIN="BL_532.1" BETYPE="IDREF" FILEID="alto_00266_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b531-8" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_531.10" BETYPE="IDREF" FILEID="alto_00266_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A7t0" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_530.12" BETYPE="IDREF" FILEID="alto_00265_1"/>
+            <area BEGIN="BL_530.13" BETYPE="IDREF" FILEID="alto_00265_1"/>
+            <area BEGIN="BL_531.1" BETYPE="IDREF" FILEID="alto_00266_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ATp" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_531.9" BETYPE="IDREF" FILEID="alto_00266_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b533-8" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_533.8" BETYPE="IDREF" FILEID="alto_00267_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b533-7" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_533.7" BETYPE="IDREF" FILEID="alto_00267_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

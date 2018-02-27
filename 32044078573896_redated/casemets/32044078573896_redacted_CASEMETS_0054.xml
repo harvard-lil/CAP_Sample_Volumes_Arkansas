@@ -1,0 +1,556 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0054" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Smith v. State">Smith vs. The State</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 294</citation>
+          <decisiondate>1860-05</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00148_1" MIMETYPE="image/tiff" CHECKSUM="ae37c8977643947c21c571823dd1fa15" CHECKSUMTYPE="MD5" SIZE="29324">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00148_1.tif"/>
+      </file>
+      <file ID="tiff_00149_0" MIMETYPE="image/tiff" CHECKSUM="538b6d1843dd4337f08eac93b203b3d4" CHECKSUMTYPE="MD5" SIZE="46940">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00149_0.tif"/>
+      </file>
+      <file ID="tiff_00149_1" MIMETYPE="image/tiff" CHECKSUM="6122c6ef8e93e2acf6592fc0c01c7aef" CHECKSUMTYPE="MD5" SIZE="48918">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00149_1.tif"/>
+      </file>
+      <file ID="tiff_00150_0" MIMETYPE="image/tiff" CHECKSUM="b5a8ae1cceb1cfda5ed43a400c1005b4" CHECKSUMTYPE="MD5" SIZE="48018">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00150_0.tif"/>
+      </file>
+      <file ID="tiff_00150_1" MIMETYPE="image/tiff" CHECKSUM="7e3de3f18bb18679dc8bee6eb251e905" CHECKSUMTYPE="MD5" SIZE="32312">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00150_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00148_1" MIMETYPE="image/jp2" CHECKSUM="7270c6badd78214207752e78581d274e" CHECKSUMTYPE="MD5" SIZE="2419881">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00148_1.jp2"/>
+      </file>
+      <file ID="jp2_00149_0" MIMETYPE="image/jp2" CHECKSUM="1b4d5cf44bc60f64b384a47664ef1584" CHECKSUMTYPE="MD5" SIZE="2587297">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00149_0.jp2"/>
+      </file>
+      <file ID="jp2_00149_1" MIMETYPE="image/jp2" CHECKSUM="608f12aaf434b085ca75de2c3a208eca" CHECKSUMTYPE="MD5" SIZE="2614109">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00149_1.jp2"/>
+      </file>
+      <file ID="jp2_00150_0" MIMETYPE="image/jp2" CHECKSUM="3bc5b16be5e6c50eb02a058c154bc87f" CHECKSUMTYPE="MD5" SIZE="2850666">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00150_0.jp2"/>
+      </file>
+      <file ID="jp2_00150_1" MIMETYPE="image/jp2" CHECKSUM="9ea08346aaeb07e38968326dcea4c7bc" CHECKSUMTYPE="MD5" SIZE="2483988">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00150_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00148_1" MIMETYPE="text/xml" CHECKSUM="fc24055bd11842b3da91460f31823edf" CHECKSUMTYPE="MD5" SIZE="57133">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00148_1.xml"/>
+      </file>
+      <file ID="alto_00149_0" MIMETYPE="text/xml" CHECKSUM="6b354a27037e905384b2f84c1afc026d" CHECKSUMTYPE="MD5" SIZE="88797">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00149_0.xml"/>
+      </file>
+      <file ID="alto_00149_1" MIMETYPE="text/xml" CHECKSUM="9c8a26df1b541b580a89d35acf6d049e" CHECKSUMTYPE="MD5" SIZE="89167">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00149_1.xml"/>
+      </file>
+      <file ID="alto_00150_0" MIMETYPE="text/xml" CHECKSUM="ea9f82cb38f275d8ef180a60a4515877" CHECKSUMTYPE="MD5" SIZE="87109">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00150_0.xml"/>
+      </file>
+      <file ID="alto_00150_1" MIMETYPE="text/xml" CHECKSUM="af4fa3566f70e6d00d934c3501ac3fce" CHECKSUMTYPE="MD5" SIZE="60624">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00150_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0054" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="298" firstpage="294">
+              <parties id="b296-7" pgmap="296">Smith vs. The State.</parties>
+              <attorneys id="b296-13" pgmap="296">Watkins &amp; Gallagher, for the appellant.</attorneys>
+              <attorneys id="b297-5" pgmap="297">Hempstead, Solicitor General, contra.</attorneys>
+              <summary id="b296-11" pgmap="296">Appeal from Pulaski Circuit Court.</summary>
+              <summary id="b296-12" pgmap="296">Hon. John J. Clendenin, Circuit Judge.</summary>
+              <summary id="b296-14" pgmap="296(30) 297(19)">The defendants were the private officers or servants of .the Cincinnati and Little Rock Slate Company, and are not charged as claiming or exercising any public office or authority, and therefore, this proceeding does not lie against them. 6 East'. 356; Com. vs. Dearborn, et al. 15 Mass. 125.</summary>
+              <headnotes id="b296-9" pgmap="296">It was not the intention of the Legislature, by the 8th section of the act of the 15th December, 1852, nor within their constitutional power, to authorize the Cincin­nati and Little Rock Slate Company to issue bills to be used as a circulating medium: and the issuance of such bills would be a violation of the charter for which tho franchises of the corporation might be seized.</headnotes>
+              <headnotes id="b296-10" pgmap="296">Upon a writ of guo warranto against a mere officer or servant of a corporation, there can be no judgment of seizure for an abuse of the charter — the proceeding should be against the corporation.</headnotes>
+              <opinion type="majority">
+                <author id="b297-6" pgmap="297">Mr. Chief Justice English</author>
+                <p id="AND" pgmap="297">delivered the opinion of the court.</p>
+                <p id="b297-7" pgmap="297">This was a writ of quo warranto issued by the clerk of the Pulaski Circuit Court, on the motion of the attorney for the State, whereby the sheriff was commanded to summon W. R. Smith and George C. Jones, to appear etc., and show by what warrant they exercised the right to issue and put into circula­tion, bills or notes of the Cincinnati and Little Rock Slate Gom­panij, and the powers and privileges of banking; it being alleged that they had located a banking institution in the State, known and called by the name and style of “ the Cincinnati and Little Rock Slate Company,” and had opened a banking office in the city of Little 'Rock, and kept regular banking hours, for the purpose of issuing and circulating their bills, and had issued and put into circulation a large quantity of said bills.</p>
+                <p id="b297-8" pgmap="297">The writ was returned served on Smith, and not found as to Jones.</p>
+                <p id="AxL" pgmap="297">Smith filed a response to the writ, stating that he did not claim,or exercise the right or privilege of banking, or of issu­ing and putting into circulation bills or notes of said company, for such purpose as alleged, etc. But at the time of the issu­ance and service of the writ, he was the mere officer and ser­vant of said company, being the cashier thereof, and in no wise assuming or claiming in his individual capacity, or by reason of any association with said Jones, to use or exercise any corpo­rate powers or functions whatever.</p>
+                <p id="b297-10" pgmap="297(67) 298(99)">Respondent, protesting that the remedy, if any, sought to be obtained by the writ, had been misconceived, and should have been sought against the company, and that he was not-bound by law to answer the same, other than as above, nevertheless proceeds to state, that at the time of the issuance and service of the writ, he was, and still continued to be, the cashier of the Cincinnati and Little Rock Slate Company, a corporation of the State, created by an act entitled “ An act to grant a charter to the Cincinnati and Little Rock Slate Company,” approved the 15th December, 1852, which was a public act, etc. That he was appointed such cashier by the president and directors of the company, pursuant to the provisions of the charter, etc., and in that capacity had been in the service and employment of the corporation at Little Rock, and engaged in the discharge of such duties as usually and properly appertain to said office of cashier.</p>
+                <p id="b298-6" pgmap="298">That in and by said act, and for the purpose, as declared in its preamble, of developing the resources of the State, and of encouraging capitalists, etc., to take the necessary steps for the development of such resources, it was, amongst other things, enacted, that for the purpose of facilitating the operations of said company, they should have power to draw and sell drafts or bills of exchange, in such sums and amounts as they might think proper, on the different cities to which they might ship their merchandize.</p>
+                <p id="b298-7" pgmap="298">That in order to facilitate the operations of said company, and in the transactions of its business, said president and direc­tors have caused to be drawn, sold and issued divers drafts or bills of exchange, in such sums or amounts as they thought proper, and all of the same form or tenor, (a copy of one of which bills for five dollars is exhibited.)</p>
+                <p id="b298-8" pgmap="298">That all such drafts and bills of exchange were sold and issued for value received, in the business transactions of the company, and that they were payable at the office of the trea­surer and agent of said company, in the city of New York, where all such of them as had been presented for payment had been paid, taken up and cancelled, and never afterwards re-issued.</p>
+                <p id="b298-9" pgmap="298(45) 299(109)">That if such drafts or bills of exchange, from the time of the sale and issuance of them by said company, and before the presentation of them for payment to the said treasurer of the company in New York, had been circulated and passed by delivery, and so, being used as a medium of exchange, fulfilled in that mode the office of currency in business transactions, it was a legitimate and beneficial operation, such as may and does result from the use , of ordinary bills of exchange, when issued by any private individual or corporation, as a medium of exchange, and without contravening any law, etc. That the company had not, as far as respondent knew, drawn, sold, or put into circulation, as currency, any notes thereof, and had not had drawn, sold or issued any drafts or bills of exchange, except of the form and tenor, and in the manner above stated.</p>
+                <p id="b299-6" pgmap="299">The court sustained a demurrer to the response, and rendered judgment — “ that the right, privilege and franchise of issuing and putting into circulation said bills or notes of the Cincinnati and Little Rock Slate Company, by the said|respondents, be seized into the hands of the State, as being exercised and issued by the said defendants, without any sufficient warrant or author­ity, and in violation of the laws of Arkansas, and that the said State do have and recover from respondents all the costs in and about this prosecution expended.”</p>
+                <p id="b299-7" pgmap="299">The defendants appealed.</p>
+                <p id="b299-8" pgmap="299">The 8th section of the charter of the Cincinnati and Little Rock Slate company provides; “ that for the purpose of facili­tating the operations of said company, they shall have power to draw and sell drafts or bills ©f exchange, in such sums or amounts as they think proper, on the different cities to which they may ship their merchandize.”</p>
+                <p id="b299-9" pgmap="299">It was not the intention of the Legislature, by this section of the charter, to confer any banking privileges up on the company, or to authorize them to issue bills, to be used as a circulating medium; and if such had been the intention of the Legislature, they had not the constitutional power to confer such privileges upon the company. Amend, to Const, oj Nov. 1846.</p>
+                <p id="b299-10" pgmap="299(21) 300(58)">If the company claimed and exercised the privilege of bank­ing, or attempted to convert their bills into a circulating medium, as they perhaps did, notwithstanding the plausible response of Smith, it was an abuse of the charter — a misuser — for which, upon a writ of quo warranto issued against the corporation, the franchise granted to the corporators, by the charter, might be seized by the State. The People vs. Utica Ins. Co., 15 John R. 389.</p>
+                <p id="b300-5" pgmap="300">But upon quo warranto against a mére officer or servant of the corporation, there could be no judgment of seizure for ah abuse of the charter. Commonwealth vs. Dearborn et al. 15 Mass. 125; King vs. Cor. of Bedf. 6 East, 356; Queen vs. Tay­lor, 11 Ad. &amp; El. 949. Though, under our statute, in a pro­ceeding against the corporation, the writ may be served upon an officer of the company, the action and judgment are against the corporation. Dig. Ch. 39.</p>
+                <p id="b300-6" pgmap="300">The judgment must be reversed, and the cause remanded.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="296" ORDERLABEL="294" TYPE="page">
+        <fptr FILEID="tiff_00148_1"/>
+        <fptr FILEID="jp2_00148_1"/>
+        <fptr FILEID="alto_00148_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_296.2" BETYPE="IDREF" FILEID="alto_00148_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_296.3" BETYPE="IDREF" FILEID="alto_00148_1"/>
+              <area BEGIN="BL_296.4" BETYPE="IDREF" FILEID="alto_00148_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_296.7" BETYPE="IDREF" FILEID="alto_00148_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="297" ORDERLABEL="295" TYPE="page">
+        <fptr FILEID="tiff_00149_0"/>
+        <fptr FILEID="jp2_00149_0"/>
+        <fptr FILEID="alto_00149_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_297.3" BETYPE="IDREF" FILEID="alto_00149_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_297.2" BETYPE="IDREF" FILEID="alto_00149_0"/>
+              <area BEGIN="BL_297.4" BETYPE="IDREF" FILEID="alto_00149_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="298" ORDERLABEL="296" TYPE="page">
+        <fptr FILEID="tiff_00149_1"/>
+        <fptr FILEID="jp2_00149_1"/>
+        <fptr FILEID="alto_00149_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_298.2" BETYPE="IDREF" FILEID="alto_00149_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_298.3" BETYPE="IDREF" FILEID="alto_00149_1"/>
+              <area BEGIN="BL_298.4" BETYPE="IDREF" FILEID="alto_00149_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="299" ORDERLABEL="297" TYPE="page">
+        <fptr FILEID="tiff_00150_0"/>
+        <fptr FILEID="jp2_00150_0"/>
+        <fptr FILEID="alto_00150_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_299.3" BETYPE="IDREF" FILEID="alto_00150_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_299.2" BETYPE="IDREF" FILEID="alto_00150_0"/>
+              <area BEGIN="BL_299.4" BETYPE="IDREF" FILEID="alto_00150_0"/>
+              <area BEGIN="BL_299.10" BETYPE="IDREF" FILEID="alto_00150_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="300" ORDERLABEL="298" TYPE="page">
+        <fptr FILEID="tiff_00150_1"/>
+        <fptr FILEID="jp2_00150_1"/>
+        <fptr FILEID="alto_00150_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_300.2" BETYPE="IDREF" FILEID="alto_00150_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_300.3" BETYPE="IDREF" FILEID="alto_00150_1"/>
+              <area BEGIN="BL_300.4" BETYPE="IDREF" FILEID="alto_00150_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_300.7" BETYPE="IDREF" FILEID="alto_00150_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b297-5" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_297.5" BETYPE="IDREF" FILEID="alto_00149_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b297-6" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_297.6" BETYPE="IDREF" FILEID="alto_00149_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b297-7" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_297.8" BETYPE="IDREF" FILEID="alto_00149_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AxL" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_297.10" BETYPE="IDREF" FILEID="alto_00149_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b299-8" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_299.7" BETYPE="IDREF" FILEID="alto_00150_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b299-9" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_299.8" BETYPE="IDREF" FILEID="alto_00150_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b299-6" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_299.5" BETYPE="IDREF" FILEID="alto_00150_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b299-7" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_299.6" BETYPE="IDREF" FILEID="alto_00150_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b297-8" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_297.9" BETYPE="IDREF" FILEID="alto_00149_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b298-9" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_298.8" BETYPE="IDREF" FILEID="alto_00149_1"/>
+            <area BEGIN="BL_299.1" BETYPE="IDREF" FILEID="alto_00150_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b298-8" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_298.7" BETYPE="IDREF" FILEID="alto_00149_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b296-12" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_296.12" BETYPE="IDREF" FILEID="alto_00148_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b298-7" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_298.6" BETYPE="IDREF" FILEID="alto_00149_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b298-6" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_298.5" BETYPE="IDREF" FILEID="alto_00149_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b297-10" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_297.11" BETYPE="IDREF" FILEID="alto_00149_0"/>
+            <area BEGIN="BL_298.1" BETYPE="IDREF" FILEID="alto_00149_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b296-14" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_296.14" BETYPE="IDREF" FILEID="alto_00148_1"/>
+            <area BEGIN="BL_297.1" BETYPE="IDREF" FILEID="alto_00149_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b296-11" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_296.11" BETYPE="IDREF" FILEID="alto_00148_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b296-10" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_296.10" BETYPE="IDREF" FILEID="alto_00148_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b296-13" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_296.13" BETYPE="IDREF" FILEID="alto_00148_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AND" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_297.7" BETYPE="IDREF" FILEID="alto_00149_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b296-9" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_296.9" BETYPE="IDREF" FILEID="alto_00148_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b300-5" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_300.5" BETYPE="IDREF" FILEID="alto_00150_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b300-6" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_300.6" BETYPE="IDREF" FILEID="alto_00150_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b299-10" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_299.9" BETYPE="IDREF" FILEID="alto_00150_0"/>
+            <area BEGIN="BL_300.1" BETYPE="IDREF" FILEID="alto_00150_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b296-7" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_296.8" BETYPE="IDREF" FILEID="alto_00148_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

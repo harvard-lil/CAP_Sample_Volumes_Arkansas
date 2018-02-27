@@ -1,0 +1,381 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0108" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Clark County v. Scott">Clark County vs. Scott</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 467</citation>
+          <decisiondate>1860-07</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00235_0" MIMETYPE="image/tiff" CHECKSUM="3b8bed61413d34143aa2227fd163eb25" CHECKSUMTYPE="MD5" SIZE="31426">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00235_0.tif"/>
+      </file>
+      <file ID="tiff_00235_1" MIMETYPE="image/tiff" CHECKSUM="89fe7ffa707c43ee7a0fe454367e1fa6" CHECKSUMTYPE="MD5" SIZE="26244">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00235_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00235_0" MIMETYPE="image/jp2" CHECKSUM="f0fc8c7042f1a0bfb1e3383082d43bc4" CHECKSUMTYPE="MD5" SIZE="2427903">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00235_0.jp2"/>
+      </file>
+      <file ID="jp2_00235_1" MIMETYPE="image/jp2" CHECKSUM="a7a125ed821e963074ed75e7a87ed398" CHECKSUMTYPE="MD5" SIZE="2359028">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00235_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00235_0" MIMETYPE="text/xml" CHECKSUM="6981d4f94ba6073c453f10138a97ccb5" CHECKSUMTYPE="MD5" SIZE="64398">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00235_0.xml"/>
+      </file>
+      <file ID="alto_00235_1" MIMETYPE="text/xml" CHECKSUM="805694f2706a99ffbfeb8fdef0a468c6" CHECKSUMTYPE="MD5" SIZE="49825">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00235_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0108" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="468" firstpage="467">
+              <parties id="b469-4" pgmap="469">Clark County vs. Scott.</parties>
+              <attorneys id="b469-9" pgmap="469">Hempstead, Solicitor General, for the County.</attorneys>
+              <attorneys id="b469-10" pgmap="469">Flanagin, contra.</attorneys>
+              <summary id="b469-7" pgmap="469">Appeal from Clark Circuit Court.</summary>
+              <summary id="b469-8" pgmap="469">Hon. L. B. Green, Circuit Judge.</summary>
+              <headnotes id="b469-5" pgmap="469">Under the statute it is the duty of the clerk of the Circuit Court to provide blank executions) etc, for the use of his office, and it is the duty of. the County Court to allow the account therefor, and provide for its payment.</headnotes>
+              <headnotes id="b469-6" pgmap="469">Upon the reversal of a judgment of the County Court, the Circuit Court ought to proceed to try the case.</headnotes>
+              <opinion type="majority">
+                <author id="b469-11" pgmap="469">Mr. Justice Fairchild</author>
+                <p id="AiQ" pgmap="469">delivered the opinion of the court.</p>
+                <p id="b469-12" pgmap="469">Scott produced his account to the Cark County Court for two quires of blank executions, at $1 25 per quire, which was shown by the evidence to have been furnished on application of the clerk of the Circuit Court, for the use of his office. The amount claimed, $2 50, is proved to be a reasonable charge.</p>
+                <p id="b469-13" pgmap="469">The history of the case, from the County Court up to this Court, is the same as that of Clark County vs. Spence.</p>
+                <p id="b469-14" pgmap="469">The 8th section of chapter 30, of English's Dig., requires the clerk to provide suitable books, stationery, furniture, and other things necessary for his office.</p>
+                <p id="b469-15" pgmap="469(46) 470(39)">These the clerk is to provide, but what the law exacts of him to provide, is not for his own benefit, but what is necessary for his office; books, furniture and stationery that are suitable for the preservation of the county i'ecords, in which every citizen of the comity is interested, furniture for their proper keeping, stationery with which the business of the office is to be done, and whatever else is necessary for the office, for all which the ■ county ought to pay.</p>
+                <p id="b470-5" pgmap="470">And that the county would pay for the things provided, under the authority of the section cited, we think is the meaning of the statute.</p>
+                <p id="b470-6" pgmap="470">The County Court should have allowed Scott’s account. The law authorized and required it to be done.</p>
+                <p id="b470-7" pgmap="470">True economy, the despatch and accuracy of public business are greatly promoted by the use of such blanks as were charged for in the account.</p>
+                <p id="b470-8" pgmap="470">The Circuit Court did right in reversing the judgment of the County Court, but should not have remanded the case to the County Court.</p>
+                <p id="b470-9" pgmap="470">The judgment of the Circuit Court is reversed, with instruc­tions to reverse the judgment of the County Court, and set the case for trial anew in the Circuit Court.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="469" ORDERLABEL="467" TYPE="page">
+        <fptr FILEID="tiff_00235_0"/>
+        <fptr FILEID="jp2_00235_0"/>
+        <fptr FILEID="alto_00235_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_469.2" BETYPE="IDREF" FILEID="alto_00235_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_469.1" BETYPE="IDREF" FILEID="alto_00235_0"/>
+              <area BEGIN="BL_469.3" BETYPE="IDREF" FILEID="alto_00235_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="470" ORDERLABEL="468" TYPE="page">
+        <fptr FILEID="tiff_00235_1"/>
+        <fptr FILEID="jp2_00235_1"/>
+        <fptr FILEID="alto_00235_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_470.2" BETYPE="IDREF" FILEID="alto_00235_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_470.3" BETYPE="IDREF" FILEID="alto_00235_1"/>
+              <area BEGIN="BL_470.4" BETYPE="IDREF" FILEID="alto_00235_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_470.10" BETYPE="IDREF" FILEID="alto_00235_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b469-12" BETYPE="IDREF" FILEID="casebody_0108"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_469.13" BETYPE="IDREF" FILEID="alto_00235_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b469-14" BETYPE="IDREF" FILEID="casebody_0108"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_469.15" BETYPE="IDREF" FILEID="alto_00235_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b469-11" BETYPE="IDREF" FILEID="casebody_0108"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_469.11" BETYPE="IDREF" FILEID="alto_00235_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b469-4" BETYPE="IDREF" FILEID="casebody_0108"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_469.4" BETYPE="IDREF" FILEID="alto_00235_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b469-13" BETYPE="IDREF" FILEID="casebody_0108"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_469.14" BETYPE="IDREF" FILEID="alto_00235_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b469-6" BETYPE="IDREF" FILEID="casebody_0108"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_469.6" BETYPE="IDREF" FILEID="alto_00235_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b469-9" BETYPE="IDREF" FILEID="casebody_0108"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_469.9" BETYPE="IDREF" FILEID="alto_00235_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b469-8" BETYPE="IDREF" FILEID="casebody_0108"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_469.8" BETYPE="IDREF" FILEID="alto_00235_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b469-7" BETYPE="IDREF" FILEID="casebody_0108"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_469.7" BETYPE="IDREF" FILEID="alto_00235_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b469-15" BETYPE="IDREF" FILEID="casebody_0108"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_469.16" BETYPE="IDREF" FILEID="alto_00235_0"/>
+            <area BEGIN="BL_470.1" BETYPE="IDREF" FILEID="alto_00235_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AiQ" BETYPE="IDREF" FILEID="casebody_0108"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_469.12" BETYPE="IDREF" FILEID="alto_00235_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b470-9" BETYPE="IDREF" FILEID="casebody_0108"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_470.9" BETYPE="IDREF" FILEID="alto_00235_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b470-8" BETYPE="IDREF" FILEID="casebody_0108"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_470.8" BETYPE="IDREF" FILEID="alto_00235_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b469-5" BETYPE="IDREF" FILEID="casebody_0108"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_469.5" BETYPE="IDREF" FILEID="alto_00235_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b470-7" BETYPE="IDREF" FILEID="casebody_0108"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_470.7" BETYPE="IDREF" FILEID="alto_00235_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b470-6" BETYPE="IDREF" FILEID="casebody_0108"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_470.6" BETYPE="IDREF" FILEID="alto_00235_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b470-5" BETYPE="IDREF" FILEID="casebody_0108"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_470.5" BETYPE="IDREF" FILEID="alto_00235_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b469-10" BETYPE="IDREF" FILEID="casebody_0108"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_469.10" BETYPE="IDREF" FILEID="alto_00235_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

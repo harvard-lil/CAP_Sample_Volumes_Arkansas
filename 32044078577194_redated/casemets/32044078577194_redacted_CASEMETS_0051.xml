@@ -1,0 +1,475 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0051" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Wright v. State">Carleton C. WRIGHT v. STATE of Arkansas</name>
+          <docketnumber>CR 86-11</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 209</citation>
+          <citation category="parallel" type="bluebook">703 S.W.2d 850</citation>
+          <decisiondate>1986-02-18</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:00Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00119_0" MIMETYPE="image/tiff" CHECKSUM="eafdf283e8de419139107d69986d1ae8" CHECKSUMTYPE="MD5" SIZE="6636">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00119_0.tif"/>
+      </file>
+      <file ID="tiff_00119_1" MIMETYPE="image/tiff" CHECKSUM="08f9eaba8dd8f2d88f67f8a3699b1e07" CHECKSUMTYPE="MD5" SIZE="30584">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00119_1.tif"/>
+      </file>
+      <file ID="tiff_00120_0" MIMETYPE="image/tiff" CHECKSUM="cbb3ac4728df0f7bd7aad760f2729e14" CHECKSUMTYPE="MD5" SIZE="55384">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00120_0.tif"/>
+      </file>
+      <file ID="tiff_00120_1" MIMETYPE="image/tiff" CHECKSUM="6713d779035ec60050d97d449842057e" CHECKSUMTYPE="MD5" SIZE="57034">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00120_1.tif"/>
+      </file>
+      <file ID="tiff_00121_0" MIMETYPE="image/tiff" CHECKSUM="1652c851cf9ca5c02725fdaa3fecdcdd" CHECKSUMTYPE="MD5" SIZE="19106">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00121_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00119_0" MIMETYPE="image/jp2" CHECKSUM="b91360c4954b62ebd4e57bcbaf51117b" CHECKSUMTYPE="MD5" SIZE="1310595">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00119_0.jp2"/>
+      </file>
+      <file ID="jp2_00119_1" MIMETYPE="image/jp2" CHECKSUM="178a060ef514ea8a958f57a23ca1e5ea" CHECKSUMTYPE="MD5" SIZE="1916226">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00119_1.jp2"/>
+      </file>
+      <file ID="jp2_00120_0" MIMETYPE="image/jp2" CHECKSUM="12a9e65b3bb925e1ab793e5b6cdbe2da" CHECKSUMTYPE="MD5" SIZE="2525476">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00120_0.jp2"/>
+      </file>
+      <file ID="jp2_00120_1" MIMETYPE="image/jp2" CHECKSUM="858b735dc1f0a7dc80a1a1695202685e" CHECKSUMTYPE="MD5" SIZE="2705536">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00120_1.jp2"/>
+      </file>
+      <file ID="jp2_00121_0" MIMETYPE="image/jp2" CHECKSUM="ffe4e0108839012d1af8f7cec914c11b" CHECKSUMTYPE="MD5" SIZE="1704433">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00121_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00119_0" MIMETYPE="text/xml" CHECKSUM="5186ee83300f5255db4d8b5daf0dc1d8" CHECKSUMTYPE="MD5" SIZE="8686">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00119_0.xml"/>
+      </file>
+      <file ID="alto_00119_1" MIMETYPE="text/xml" CHECKSUM="f1fadac926fed99a37c340aeebdfd417" CHECKSUMTYPE="MD5" SIZE="50292">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00119_1.xml"/>
+      </file>
+      <file ID="alto_00120_0" MIMETYPE="text/xml" CHECKSUM="b36ed8e709a844e6fadf8c129348bba8" CHECKSUMTYPE="MD5" SIZE="91942">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00120_0.xml"/>
+      </file>
+      <file ID="alto_00120_1" MIMETYPE="text/xml" CHECKSUM="d557f7e61208c9f983c09bae9ace6d7d" CHECKSUMTYPE="MD5" SIZE="101143">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00120_1.xml"/>
+      </file>
+      <file ID="alto_00121_0" MIMETYPE="text/xml" CHECKSUM="3d4eff6003ce4ee1d7bbc3706cd5ee77" CHECKSUMTYPE="MD5" SIZE="31771">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00121_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0051" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="209" lastpage="213">
+              <court pgmap="237" id="b237-7">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="237" id="A7F">CR 86-11</docketnumber>
+              <citation pgmap="237" id="AhJt">703 S.W.2d 850</citation>
+              <parties pgmap="237" id="b237-6">Carleton C. WRIGHT v. STATE of Arkansas</parties>
+              <decisiondate pgmap="237" id="A4t">Opinion delivered February 18, 1986</decisiondate>
+              <judges pgmap="241" id="b241-7">Purtle, J., not participating.</judges>
+              <attorneys pgmap="238" id="b238-8">Fuchs &amp; Villines, by; Kenneth G. Fuchs, for appellant.</attorneys>
+              <attorneys pgmap="238" id="b238-9">Steve Clark, Att’y Gen., by: Theodore Holder, Asst. Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="238" id="b238-10">Robert H. Dudley, Justice.</author>
+                <p pgmap="238" id="APC">Appellant, Carleton C. Wright, Jr., was charged with driving while intoxicated and refusing to take a breathalyzer test. He was found guilty and sentenced for driving while intoxicated, and his driver’s license was suspended for refusing to take a breathalyzer test. We affirm the conviction for driving while intoxicated but reverse the judgment suspending his driver’s license for refusing to take a breathalyzer test.</p>
+                <p pgmap="238" id="b238-11">There is substantial evidence to support the charge of driving while intoxicated. Dorothy Waters, a trooper, testified that she watched appellant’s car on Interstate 40, and it was weaving. She started to follow appellant and, as they approached an overpass she watched his vehicle go off the road to the right and almost strike a guard rail on the bridge. She followed the vehicle for approximately two more miles and saw it run off the side of the road several times.</p>
+                <p pgmap="238(33) 239(70)" id="b238-12">She stopped the car and noticed that appellant had an extremely heavy odor of alcoholic beverage about his person. He told her that he had been to a Christmas party and was returning home. She conducted field sobriety tests on him and reported that he performed “fair” on the alphabet test and “poor” on the finger dexterity test. She stated that he was argumentative and showed obvious signs of intoxication. In her opinion, he was under the influence of alcoholic beverages. She placed appellant under arrest for driving while intoxicated and took him to Northside detention in the North Little Rock Police Department.</p>
+                <p pgmap="239" id="b239-6">
+                   Appellant contends that there was insufficient evidence to find him guilty of driving while intoxicated. On appeal, we view the evidence most favorable to the appellee and sustain the conviction if there is any substantial evidence to support it. Roberts v. State, 287 Ark. 451, 701 S.W.2d 112 (1985). There is substantial evidence to support the conviction for driving while intoxicated.</p>
+                <p pgmap="239" id="b239-7">When Trooper Waters and appellant arrived at the deten­tion center they were met by a North Little Rock officer, A1 Shultz, who advised appellant of his Miranda rights and his rights under the implied consent law, Ark. Stat. Ann. § 75-1045 (Supp. 1985). The warnings were contained in a form that Officer Shultz had personally devised. The Miranda warnings included the right to remain silent and the right to an attorney. At the bottom of the Miranda section of the form there is a blank for a signature if the accused desires to waive his rights against self-incrimination. Appellant stated that he did not want to waive his rights and was instructed to write the word “refused” on the form. The form then explains the implied consent law, § 75-1045. At no place in the “warnings” is it made clear that the right to counsel and the right against self-incrimination have no application whatsoever under the implied consent statute.</p>
+                <p pgmap="239" id="b239-8">Following the implied consent explanation, the form has three questions. The first asks if the person understands all of the rights. Appellant marked “yes.” The second question asks if the person is going to take the test. Appellant left this question blank. The third question asks if the person desires an additional test. This question was also left blank. At the bottom of the section dealing with § 75-1045 there is a signature line. Appellant wrote the word “refused” again.</p>
+                <p pgmap="239(20) 240(70)" id="b239-9">When Officer Shultz asked appellant if he would take the breathalyzer test, appellant told him that he felt he should contact an attorney and talk with him before taking a test. Officer Shultz directed him to a pay phone, but there was no answer at his attorney’s residence. Appellant told the officer that he wanted to wait and talk with his attorney. Shultz told him to try to phone again. Appellant did, but there was still no answer. Trooper Waters wrote out the tickets and appellant was placed in jail.</p>
+                <p pgmap="240" id="b240-6">
+                   This case presents a question of first impression in Arkansas. There are, however, cases from other jurisdictions which come down on both sides of the issue. We think the better reasoned approach is that if a Miranda warning is given in connection with an explanation of the implied consent law, the police officers must explicitly inform the suspect that the Mi­randa rights are not applicable to the decision of whether or not to take the test. Swan v. Department of Public Safety, 311 So.2d 498 (La. App. 1975); Calvert v. State Department of Revenue, Motor Vehicle Division, 184 Colo. 214, 519 P.2d 341 (1974); and Wiseman v. Sullivan, 190 Neb. 724, 211 N.W.2d 906 (1973).</p>
+                <p pgmap="240" id="b240-7">
+                   The reason is simple. Miranda rights include the right to remain silent, the right to consult with an attorney and the right to have an attorney present during questioning. In general it is not necessary to give the Miranda warnings in connection with D WI arrests. But if the state attempts to introduce proof obtained from the defendant under questioning, it cannot do so unless the warnings have been given. Weatherford v. State, 286 Ark. 376, 692 S.W.2d 605 (1985). The rights do not apply, however, with respect to taking tests under the implied consent statute. For example, an accused does not have the right to contact an attorney before taking, or refusing to take, the test. Rights under the implied consent law include the right to refuse to take the test, but refusal results in the seizure of the driver’s license, and may result in the revocation of driving privileges for a period of six months to one year. Ark. Stat. Ann. § 75-1045 (Supp. 1985).</p>
+                <p pgmap="240(79) 241(81)" id="b240-8">
+                   It is easy to understand how confusion can result when the two sets of rights are read together. In addition, in the instant case appellant was given two opportunities to try to reach his attorney, which would tend to confirm his mistaken notion that he had a right to consult with his attorney before deciding whether or not to take the test. Yet, the legislature intended that a suspect fully understand the consequences of refusing to take the test before making a decision. Therefore, when Miranda rights are given in connection with an explanation of the implied consent law, police officers must explicitly inform the suspect that the Miranda rights do not apply to the decision of whether or not to take the test. If the officers do not do so, then the suspect should not be held accountable for a refusal to take the test because of the inherent confusion caused by reading the two sets of rights together.</p>
+                <p pgmap="241" id="b241-6">Affirmed in part; reversed in part.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="237" ORDERLABEL="209" TYPE="page">
+        <fptr FILEID="tiff_00119_0"/>
+        <fptr FILEID="jp2_00119_0"/>
+        <fptr FILEID="alto_00119_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_237.2" BETYPE="IDREF" FILEID="alto_00119_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="238" ORDERLABEL="210" TYPE="page">
+        <fptr FILEID="tiff_00119_1"/>
+        <fptr FILEID="jp2_00119_1"/>
+        <fptr FILEID="alto_00119_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_238.2" BETYPE="IDREF" FILEID="alto_00119_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="239" ORDERLABEL="211" TYPE="page">
+        <fptr FILEID="tiff_00120_0"/>
+        <fptr FILEID="jp2_00120_0"/>
+        <fptr FILEID="alto_00120_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_239.3" BETYPE="IDREF" FILEID="alto_00120_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="240" ORDERLABEL="212" TYPE="page">
+        <fptr FILEID="tiff_00120_1"/>
+        <fptr FILEID="jp2_00120_1"/>
+        <fptr FILEID="alto_00120_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_240.2" BETYPE="IDREF" FILEID="alto_00120_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="241" ORDERLABEL="213" TYPE="page">
+        <fptr FILEID="tiff_00121_0"/>
+        <fptr FILEID="jp2_00121_0"/>
+        <fptr FILEID="alto_00121_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_241.3" BETYPE="IDREF" FILEID="alto_00121_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b241-7" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_241.5" BETYPE="IDREF" FILEID="alto_00121_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b241-6" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_241.4" BETYPE="IDREF" FILEID="alto_00121_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b238-9" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_238.9" BETYPE="IDREF" FILEID="alto_00119_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b238-8" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_238.8" BETYPE="IDREF" FILEID="alto_00119_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b240-7" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_240.5" BETYPE="IDREF" FILEID="alto_00120_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A4t" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_237.9" BETYPE="IDREF" FILEID="alto_00119_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b238-11" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_238.13" BETYPE="IDREF" FILEID="alto_00119_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b238-10" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_238.10" BETYPE="IDREF" FILEID="alto_00119_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b238-12" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_238.14" BETYPE="IDREF" FILEID="alto_00119_1"/>
+            <area BEGIN="BL_239.1" BETYPE="IDREF" FILEID="alto_00120_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="APC" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_238.11" BETYPE="IDREF" FILEID="alto_00119_1"/>
+            <area BEGIN="BL_238.12" BETYPE="IDREF" FILEID="alto_00119_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b240-8" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_240.6" BETYPE="IDREF" FILEID="alto_00120_1"/>
+            <area BEGIN="BL_241.1" BETYPE="IDREF" FILEID="alto_00121_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b240-6" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_240.4" BETYPE="IDREF" FILEID="alto_00120_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A7F" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_237.6" BETYPE="IDREF" FILEID="alto_00119_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b239-6" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_239.4" BETYPE="IDREF" FILEID="alto_00120_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b239-7" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_239.5" BETYPE="IDREF" FILEID="alto_00120_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AhJt" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_237.7" BETYPE="IDREF" FILEID="alto_00119_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b237-6" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_237.5" BETYPE="IDREF" FILEID="alto_00119_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b237-7" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_237.8" BETYPE="IDREF" FILEID="alto_00119_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b239-8" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_239.6" BETYPE="IDREF" FILEID="alto_00120_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b239-9" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_239.7" BETYPE="IDREF" FILEID="alto_00120_0"/>
+            <area BEGIN="BL_240.1" BETYPE="IDREF" FILEID="alto_00120_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,519 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0094" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Neeley v. Barber">Johnnie E. NEELEY v. Juanita BARBER, Pope County Circuit Clerk, et al.</name>
+          <docketnumber>85-191</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 384</citation>
+          <citation category="parallel" type="bluebook">706 S.W.2d 358</citation>
+          <decisiondate>1986-03-24</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:00Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00209_1" MIMETYPE="image/tiff" CHECKSUM="d01793dd340ca90b0f01b77f13c40e3d" CHECKSUMTYPE="MD5" SIZE="38178">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00209_1.tif"/>
+      </file>
+      <file ID="tiff_00210_0" MIMETYPE="image/tiff" CHECKSUM="df946522c56b2fb6151d42a6abaa9175" CHECKSUMTYPE="MD5" SIZE="34202">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00210_0.tif"/>
+      </file>
+      <file ID="tiff_00210_1" MIMETYPE="image/tiff" CHECKSUM="3cdb43393adc62d5494ac02bd307ff27" CHECKSUMTYPE="MD5" SIZE="53956">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00210_1.tif"/>
+      </file>
+      <file ID="tiff_00211_0" MIMETYPE="image/tiff" CHECKSUM="57d2356fbecf2ca6549c9ed018dd859d" CHECKSUMTYPE="MD5" SIZE="46940">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00211_0.tif"/>
+      </file>
+      <file ID="tiff_00211_1" MIMETYPE="image/tiff" CHECKSUM="d0bec4b1601f9ee6e204b2a95362d040" CHECKSUMTYPE="MD5" SIZE="8706">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00211_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00209_1" MIMETYPE="image/jp2" CHECKSUM="5f110f1834a2660a4a6aa2cbf635c5a7" CHECKSUMTYPE="MD5" SIZE="2324053">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00209_1.jp2"/>
+      </file>
+      <file ID="jp2_00210_0" MIMETYPE="image/jp2" CHECKSUM="7a1cde6f4be0763015f980355f85813a" CHECKSUMTYPE="MD5" SIZE="2088941">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00210_0.jp2"/>
+      </file>
+      <file ID="jp2_00210_1" MIMETYPE="image/jp2" CHECKSUM="d7429b56c4c3cada5d8e5e7316a5a34c" CHECKSUMTYPE="MD5" SIZE="2578176">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00210_1.jp2"/>
+      </file>
+      <file ID="jp2_00211_0" MIMETYPE="image/jp2" CHECKSUM="2877c0d94ad34389652abd74fcdbb23d" CHECKSUMTYPE="MD5" SIZE="2482670">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00211_0.jp2"/>
+      </file>
+      <file ID="jp2_00211_1" MIMETYPE="image/jp2" CHECKSUM="e8f546c02d0957171af3b819ac634198" CHECKSUMTYPE="MD5" SIZE="1319039">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00211_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00209_1" MIMETYPE="text/xml" CHECKSUM="2fca36f8366d51a5bc43bedf7f14a073" CHECKSUMTYPE="MD5" SIZE="64209">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00209_1.xml"/>
+      </file>
+      <file ID="alto_00210_0" MIMETYPE="text/xml" CHECKSUM="367ac746d1f042c5d425de1770de9afc" CHECKSUMTYPE="MD5" SIZE="59504">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00210_0.xml"/>
+      </file>
+      <file ID="alto_00210_1" MIMETYPE="text/xml" CHECKSUM="e120d891c9a0f9f2d3564163d08ef9a9" CHECKSUMTYPE="MD5" SIZE="96176">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00210_1.xml"/>
+      </file>
+      <file ID="alto_00211_0" MIMETYPE="text/xml" CHECKSUM="1d361175471394cb91929002baf12f31" CHECKSUMTYPE="MD5" SIZE="87990">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00211_0.xml"/>
+      </file>
+      <file ID="alto_00211_1" MIMETYPE="text/xml" CHECKSUM="d5437d651c6735c71fa8dc48577a83e9" CHECKSUMTYPE="MD5" SIZE="11135">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00211_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0094" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="384" lastpage="388">
+              <court pgmap="418" id="b418-12">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="418" id="b418-11">85-191</docketnumber>
+              <citation pgmap="418" id="A9q">706 S.W.2d 358</citation>
+              <parties pgmap="418" id="b418-10">Johnnie E. NEELEY v. Juanita BARBER, Pope County Circuit Clerk, et al.</parties>
+              <decisiondate pgmap="418" id="ABN">Opinion delivered March 24, 1986</decisiondate>
+              <judges pgmap="421" id="b421-6">Purtle, J., not participating.</judges>
+              <judges pgmap="421" id="b421-7">Newbern, J., dissents.</judges>
+              <judges pgmap="422" id="b422-5">Therefore, I respectfully dissent.</judges>
+              <attorneys pgmap="419" id="b419-9">Young &amp; Finley, by: James K. Young, for appellant.</attorneys>
+              <attorneys pgmap="419" id="b419-10">Steve Clark, Att’y Gen., by: Randel K. Miller, Asst. Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="419" id="b419-11">George Rose Smith, Justice.</author>
+                <p pgmap="419" id="AClD">This is an effort by the appellant Neeley to avoid paying a filing fee for appealing to the circuit court from a misdemeanor conviction in the municipal court. We agree with the circuit judge’s ruling that a fee must be paid.</p>
+                <p pgmap="419" id="b419-12">Neeley was convicted of a misdemeanor by the Pope County municipal court. When he tried to appeal to the circuit court, the circuit clerk demanded a filing fee. Neeley first sought a writ of mandamus to compel the clerk to accept the appeal without a filing fee. When that petition was resisted, Neeley, who does not assert indigency, paid the fee and asked the circuit court for a declaratory judgment sustaining his contention that no filing fee was due. Neeley’s appeal from a declaration that the fee must be paid comes to us under Rule 29(1)(a) and (c).</p>
+                <p pgmap="419" id="b419-13">Neeley first argues that the applicable statute, Act 333 of 1977, does not require the fee. When, however, the statute is read as a whole and in the light of its predecessor, it is almost too clear for argument that the filing fee is required.</p>
+                <p pgmap="419(33) 420(27)" id="b419-14">Before the 1977 act was passed, the pertinent statute enumerated about 60 different fees to be charged by the circuit clerk, some as small as ten or fifteen cents. See the compiler’s note to Ark. Stat. Ann. § 12-1710 (Repl. 1979). Section 2 of the 1977 act reduced that long list to 14 larger and more generalized fees. § 12-1710.</p>
+                <p pgmap="420" id="b420-6">Section 1 of the 1977 act established a uniform advance fee to be charged by circuit clerks for “initiating a cause of action” in the circuit court, no part of the fee being refundable. §12-1710.2. Section 1 goes on to provide that if “a cause of action” in the circuit court becomes unusually lengthy and the filings become so voluminous that the advance fee proves inadequate, an additional fee may be assessed for each additional filing, in accordance with the new schedule. One of the 14 enumerated fees is “[f]or entering each appeal from inferior court, $15.00.” § 12-1710(h).</p>
+                <p pgmap="420" id="b420-7">
+                   Neeley argues that filing an appeal from municipal court is not “initiating a cause of action” in the circuit court, but the statute clearly indicates otherwise. That is, the same section of the statute states that if “a cause of action” becomes so lengthy as to require more fees than are covered by the advance fee, then additional charges may be made. The legislature evidently used “cause of action” to mean a case. Furthermore, one of the specific fees now covered by the advance fee is that for an appeal from an inferior court. Hence the judge was right in holding that the advance fee must be paid in this instance.</p>
+                <p pgmap="420" id="b420-8">
+                   Neeley also argues that even if he can be charged with court costs if convicted, the fee should be refunded if he is acquitted. That objection is premature, for Neeley may not in fact be acquitted. It is not our practice to explore academic questions or render advisory opinions.</p>
+                <p pgmap="420" id="b420-9">
+                   Neeley’s final argument is that since he is entitled under the Constitution to a jury trial, he cannot be charged a fee for demanding that constitutional protection. The fee is not being imposed because Neeley wants a jury trial. It is simply a filing fee that is collected no matter whether he is tried by a jury or by the judge or even if the prosecution ends without any trial at all. Neeley is admittedly not an indigent and therefore has no claim to an exemption from the payment of filing fees for services rendered by the circuit clerk. His undoubted right to a jury trial is totally irrelevant to his refusal to pay the fee imposed by law for the circuit clerk’s services.</p>
+                <p pgmap="421" id="b421-5">Affirmed.</p>
+              </opinion>
+              <opinion type="dissent">
+                <author pgmap="421" id="b421-8">David Newbern, Justice,</author>
+                <p pgmap="421" id="ALle">dissenting. Ark. Const, art. 2, § 10 provides, in part: “In all criminal prosecution, the accused shall enjoy the right to a speedy and public trial by impartial jury. . . .” Ark. Stat. Ann. § 22-737 (Repl. 1962) provides flatly that there shall be no jury trials in municipal courts. We can justify not permitting jury trials in municipal courts because the right to a trial by jury may be exercised by a person tried in municipal court by lodging an appeal in the circuit court where the case will be tried de novo, Ark. Stat. Ann. § 44-509 (Rep. 1977), Ark. Stat. Ann. § 22-707 (Repl. 1962), and a jury trial may be had as a matter of right, Johnston v. City of Pine Bluff, 258 Ark. 346, 525 S.W.2d 76 (1975), unless it is waived. See Ark. R. Crim. P. 31.2.</p>
+                <p pgmap="421" id="b421-9">Although it is not uncommon to assess the costs of criminal proceedings against one found guilty, and § 44-509 requires it in the case of an appeal from municipal to circuit court, I know of no law requiring a criminal defendant to pay a filing fee other than Ark. Stat. Ann. § 12-1710.2 (Supp. 1985) as interpreted by the majority opinion in this case. In my view, appeal to the circuit court by a criminal defendant seeking a jury trial should not be regarded as “initiation” of an action there, and thus Ark. Stat. Ann. § 12-1710.2 (Supp. 1985) should not apply. The action is initiated in the municipal court by the state. As stated above, our constitution requires the state to give the accused a jury trial. When the accused asserts that right the state can only afford it in circuit court. We should, therefore, regard the circuit court action as if no previous trial had occurred, Johnston v. City of Pine Bluff, supra, and we should not impose a premium on the right to a jury trial.</p>
+                <p pgmap="421" id="b421-10">I would interpret § 12-1710.2 as not requiring a filing fee. If it cannot be so interpreted, I consider it to be an unconstitutional imposition on the right to trial by jury in a criminal prosecution.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="418" ORDERLABEL="384" TYPE="page">
+        <fptr FILEID="tiff_00209_1"/>
+        <fptr FILEID="jp2_00209_1"/>
+        <fptr FILEID="alto_00209_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_418.1" BETYPE="IDREF" FILEID="alto_00209_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="419" ORDERLABEL="385" TYPE="page">
+        <fptr FILEID="tiff_00210_0"/>
+        <fptr FILEID="jp2_00210_0"/>
+        <fptr FILEID="alto_00210_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_419.3" BETYPE="IDREF" FILEID="alto_00210_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="420" ORDERLABEL="386" TYPE="page">
+        <fptr FILEID="tiff_00210_1"/>
+        <fptr FILEID="jp2_00210_1"/>
+        <fptr FILEID="alto_00210_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_420.2" BETYPE="IDREF" FILEID="alto_00210_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="421" ORDERLABEL="387" TYPE="page">
+        <fptr FILEID="tiff_00211_0"/>
+        <fptr FILEID="jp2_00211_0"/>
+        <fptr FILEID="alto_00211_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_421.2" BETYPE="IDREF" FILEID="alto_00211_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="422" ORDERLABEL="388" TYPE="page">
+        <fptr FILEID="tiff_00211_1"/>
+        <fptr FILEID="jp2_00211_1"/>
+        <fptr FILEID="alto_00211_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_422.1" BETYPE="IDREF" FILEID="alto_00211_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b420-7" BETYPE="IDREF" FILEID="casebody_0094"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_420.5" BETYPE="IDREF" FILEID="alto_00210_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b421-7" BETYPE="IDREF" FILEID="casebody_0094"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_421.5" BETYPE="IDREF" FILEID="alto_00211_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b421-6" BETYPE="IDREF" FILEID="casebody_0094"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_421.4" BETYPE="IDREF" FILEID="alto_00211_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b419-9" BETYPE="IDREF" FILEID="casebody_0094"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_419.8" BETYPE="IDREF" FILEID="alto_00210_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b421-10" BETYPE="IDREF" FILEID="casebody_0094"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_421.10" BETYPE="IDREF" FILEID="alto_00211_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A9q" BETYPE="IDREF" FILEID="casebody_0094"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_418.11" BETYPE="IDREF" FILEID="alto_00209_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b422-5" BETYPE="IDREF" FILEID="casebody_0094"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_422.3" BETYPE="IDREF" FILEID="alto_00211_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ABN" BETYPE="IDREF" FILEID="casebody_0094"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_418.13" BETYPE="IDREF" FILEID="alto_00209_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b419-12" BETYPE="IDREF" FILEID="casebody_0094"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_419.13" BETYPE="IDREF" FILEID="alto_00210_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b419-13" BETYPE="IDREF" FILEID="casebody_0094"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_419.14" BETYPE="IDREF" FILEID="alto_00210_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b419-10" BETYPE="IDREF" FILEID="casebody_0094"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_419.9" BETYPE="IDREF" FILEID="alto_00210_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b419-11" BETYPE="IDREF" FILEID="casebody_0094"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_419.10" BETYPE="IDREF" FILEID="alto_00210_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b418-11" BETYPE="IDREF" FILEID="casebody_0094"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_418.10" BETYPE="IDREF" FILEID="alto_00209_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b418-10" BETYPE="IDREF" FILEID="casebody_0094"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_418.9" BETYPE="IDREF" FILEID="alto_00209_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b419-14" BETYPE="IDREF" FILEID="casebody_0094"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_419.15" BETYPE="IDREF" FILEID="alto_00210_0"/>
+            <area BEGIN="BL_420.1" BETYPE="IDREF" FILEID="alto_00210_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b418-12" BETYPE="IDREF" FILEID="casebody_0094"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_418.12" BETYPE="IDREF" FILEID="alto_00209_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b421-5" BETYPE="IDREF" FILEID="casebody_0094"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_421.3" BETYPE="IDREF" FILEID="alto_00211_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ALle" BETYPE="IDREF" FILEID="casebody_0094"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_421.7" BETYPE="IDREF" FILEID="alto_00211_0"/>
+            <area BEGIN="BL_421.8" BETYPE="IDREF" FILEID="alto_00211_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b420-9" BETYPE="IDREF" FILEID="casebody_0094"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_420.7" BETYPE="IDREF" FILEID="alto_00210_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b421-9" BETYPE="IDREF" FILEID="casebody_0094"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_421.9" BETYPE="IDREF" FILEID="alto_00211_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b420-6" BETYPE="IDREF" FILEID="casebody_0094"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_420.4" BETYPE="IDREF" FILEID="alto_00210_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b421-8" BETYPE="IDREF" FILEID="casebody_0094"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_421.6" BETYPE="IDREF" FILEID="alto_00211_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b420-8" BETYPE="IDREF" FILEID="casebody_0094"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_420.6" BETYPE="IDREF" FILEID="alto_00210_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AClD" BETYPE="IDREF" FILEID="casebody_0094"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_419.11" BETYPE="IDREF" FILEID="alto_00210_0"/>
+            <area BEGIN="BL_419.12" BETYPE="IDREF" FILEID="alto_00210_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

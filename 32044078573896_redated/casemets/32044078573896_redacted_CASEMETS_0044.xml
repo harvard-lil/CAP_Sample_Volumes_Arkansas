@@ -1,0 +1,570 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0044" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="State ex rel. Dennard v. Roberts">State, use of Dennard vs. Roberts et al.</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 260</citation>
+          <decisiondate>1860-05</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00131_1" MIMETYPE="image/tiff" CHECKSUM="a0346a0bb8234d3cbd66d833934a9f66" CHECKSUMTYPE="MD5" SIZE="38430">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00131_1.tif"/>
+      </file>
+      <file ID="tiff_00132_0" MIMETYPE="image/tiff" CHECKSUM="d8180f36bdca8842f05a805ed195972a" CHECKSUMTYPE="MD5" SIZE="48936">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00132_0.tif"/>
+      </file>
+      <file ID="tiff_00132_1" MIMETYPE="image/tiff" CHECKSUM="047dcca4ce4afad47ec74704636b47f2" CHECKSUMTYPE="MD5" SIZE="47662">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00132_1.tif"/>
+      </file>
+      <file ID="tiff_00133_0" MIMETYPE="image/tiff" CHECKSUM="d88bc2de272458427dd98053f3469bdb" CHECKSUMTYPE="MD5" SIZE="48768">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00133_0.tif"/>
+      </file>
+      <file ID="tiff_00133_1" MIMETYPE="image/tiff" CHECKSUM="1b6b9f153708a03630b176b0c307728e" CHECKSUMTYPE="MD5" SIZE="33680">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00133_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00131_1" MIMETYPE="image/jp2" CHECKSUM="f575d133ac828e8e2fb803274075c92d" CHECKSUMTYPE="MD5" SIZE="2577765">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00131_1.jp2"/>
+      </file>
+      <file ID="jp2_00132_0" MIMETYPE="image/jp2" CHECKSUM="fa9d32a4df576ef403022ffa9cb764ef" CHECKSUMTYPE="MD5" SIZE="2702437">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00132_0.jp2"/>
+      </file>
+      <file ID="jp2_00132_1" MIMETYPE="image/jp2" CHECKSUM="b8fb6db4363c1858ca965f26fc31672f" CHECKSUMTYPE="MD5" SIZE="2591030">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00132_1.jp2"/>
+      </file>
+      <file ID="jp2_00133_0" MIMETYPE="image/jp2" CHECKSUM="dde3c13363537211dcf0cd9b61c30276" CHECKSUMTYPE="MD5" SIZE="2642838">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00133_0.jp2"/>
+      </file>
+      <file ID="jp2_00133_1" MIMETYPE="image/jp2" CHECKSUM="8dd6a3b15c50f8f3c0d7bc9cd6e39467" CHECKSUMTYPE="MD5" SIZE="2550377">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00133_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00131_1" MIMETYPE="text/xml" CHECKSUM="aaa5a334367ece25068d1ed43e8b6a72" CHECKSUMTYPE="MD5" SIZE="83291">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00131_1.xml"/>
+      </file>
+      <file ID="alto_00132_0" MIMETYPE="text/xml" CHECKSUM="2aac6d8754a6fd8939b607785405cf48" CHECKSUMTYPE="MD5" SIZE="92791">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00132_0.xml"/>
+      </file>
+      <file ID="alto_00132_1" MIMETYPE="text/xml" CHECKSUM="ef3b8574ce82182baf79d4eb50ffbb6c" CHECKSUMTYPE="MD5" SIZE="92330">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00132_1.xml"/>
+      </file>
+      <file ID="alto_00133_0" MIMETYPE="text/xml" CHECKSUM="722fe6daf317f339e4ccbf684a02d7cd" CHECKSUMTYPE="MD5" SIZE="98872">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00133_0.xml"/>
+      </file>
+      <file ID="alto_00133_1" MIMETYPE="text/xml" CHECKSUM="5a55718ac076d79fd1a4aa5368863d15" CHECKSUMTYPE="MD5" SIZE="65958">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00133_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0044" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="264" firstpage="260">
+              <parties id="AEo" pgmap="262">State, use of Dennard vs. Roberts et al.</parties>
+              <attorneys id="b262-9" pgmap="262">Waddell, for the plaintiff.</attorneys>
+              <summary id="b262-7" pgmap="262">Error to the Circuit Court of Ashley County.</summary>
+              <summary id="b262-8" pgmap="262">Hon. Theodoric F. Sorrells, Circuit Judge.</summary>
+              <summary id="b262-10" pgmap="262">If to use and waste the money was not a breach of the sheriff’s bond, it is difficult to conceive what would be.</summary>
+              <summary id="b262-11" pgmap="262">And as to the second breach, it was clearly Ducker’s duty so to keep the money, that, in the event of his death, the object for which it had been placed in his hands would not be defeated. He did not do so, and in consequence of his not doing so, Den­nard lost the benefit of his attachment. Ducker should have kept the money distinguished from his own money. Lew. on Trusts 300; lb. 324; 2d John. Ch. Rep. 108; 9th Humphreys R. 612; 11 Vesey 380; Id. 61; 1st Jac. Sp Walk. 247; 1st B. C. C. 384; Chitty on Contracts 413. If Ducker’s administrator had found this money so distinguished, it would not have been, assets, but would' have continued a trust fund for Dennard’s demand. Wms. on Executors 1426; Angelí on Lira, sec.-177.</summary>
+              <summary id="AY_" pgmap="262(13) 263(82)">Where a sheriff in such case has so far violated his duty as to waste the money — or as to mix it with his own, so that, in the event of his death, it cannot be distinguished therefrom, but will go into his general assets, and the party entitled, lose the benefit of it, and his death does intervene while he is expos­ing the beneficiary to that hazard; the beneficiary (so soon as he obtains judgment) has at once a perfect cause of action on the sheriff’s bond without any order to pay.</summary>
+              <headnotes id="b262-5" pgmap="262">It is the duty of the sheriff, upon the sale of perishable property attached under the statute, to retain the money arising from the sale, subject to the order of the court after final judgment in the attachment suit. And if he die before such order, and to the time of his death retained the money, as a trust fund, separate and apart from his own money, he is guilty of no breach of his official bond, for which his securities could be made liable.</headnotes>
+              <headnotes id="b262-6" pgmap="262">But if he converted the money, in his lifetime, or so mingled and mixed it with his own, that his administrator cannot distinguish the one from the other, such dispo­sition of the money is equivalent to a conversion, and a breach of his official bond.</headnotes>
+              <opinion type="majority">
+                <author id="b263-5" pgmap="263">Mr. Chief Justice English</author>
+                <p id="AsP" pgmap="263">delivered the opinion of the Court.</p>
+                <p id="b263-6" pgmap="263">This was an action by the State, for the use of Dennard, against Roberts and Wallace, securities in the official bond of W'm. M. Ducker, as sheriff of Ashley county.</p>
+                <p id="b263-7" pgmap="263">In the declaration, two special breaches of the condition of the bond, (which was in the form prescribed by the statute), were assigned, in substance, as follows:</p>
+                <p id="b263-8" pgmap="263">1. That by virtue of an attachment issued from the Circuit Court of Ashley county, in which Dennard, for whose use this suit was brought, was plaintiff, and one Winfrey was defen­dant, Ducker, as sheriff, levied on and took into his possession, certain articles of personal property. That the property being of a perishable nature, he was directed by an order of the court to sell it; and he accordingly sold the property for $500, “ and wasted and converted the money to his own use:” That afterwards, and after the death of Ducker, Dennard recovered judgment against Winfrey in the attachment suit, and the court ordered the proceeds of the sale of the property to be paid over in satisfaction of the judgment; of which order the administrator of Ducker had notice, and was specially requested to pay over the money, but had failed to do so.</p>
+                <p id="b263-9" pgmap="263(76) 264(31)">2. The second breach was similar to the first, in all respects, except that it alleged that Ducker failed to keep the money arising from the sale of the perishable property separate from his own private moneys, but so mixed and mingled the same with his own private moneys, that, after his death, it could not be distinguished therefrom; whereby his administrator took, and was bound to take the proceeds of the sale of the property as general assets of Ducker’s estate, and Dennard was totally-­deprived of the same, as a special fund attached to secure and pay the demand for which he had sued, etc.</p>
+                <p id="b264-6" pgmap="264">The defendants demurred to the declaration, on the ground that no breach of the condition of the bond was alleged to have occurred during the lifetime of Ducker; and that they, as his sureties, were not responsible for the failure of his administra­tor to pay over the money after his death, etc.</p>
+                <p id="b264-7" pgmap="264">The court sustained the' demurrer, and the plaintiff brought error.</p>
+                <p id="b264-8" pgmap="264">The statute provides that when goods of a perishable nature shall be attached, the court, or judge in vacation, may make an order, directing the sheriff, etc., to sell such property at pub­lic auction, etc.; and that the officer making such sale shall retain the proceeds thereof, subject to the order of the court, after the final judgment in the action. Gould's Digest, chap. 17, sec. 40.</p>
+                <p id="b264-9" pgmap="264">Ducker having received the proceeds of the sale of the pro­perty in his official capacity, it was his duty to retain the money, subject to the order of the court after final judgment in the attachment suit.</p>
+                <p id="b264-10" pgmap="264">The object of the sale was to' prevent the waste of the pro perty, and the lien of the attachment was transferred to the proceeds of the sale in the sheriff’s hands. He held the money as a special trust fund.</p>
+                <p id="b264-11" pgmap="264(129) 265(77)">In England, if the subject of a trust be money, it may safely and most properly be deposited, for temporary purposes, in some responsible banking house; but the trustee will make himself liable for the failure of the bank, if he pay the money to his own credit, and not to the separate account of ’the trust estate. Thus, a receiver transmitted two bills to a banker, to be placed to his account, and in each bill the receiver’s own money was mixed up with the trust fund. The bank failed, and Lord Eldon decreed the receiver to make good the loss. “ A receiver,” he said, “ cannot bs allowed to say he is trans­mitting the money of the estate as such, if he permit it to stand with his own money to his own credit; for, in that case, if any intermediate failure of the receiver happen, his estate gets the benefit of the remittance, and the trust estate none. Then, on the failure of the bank, I will not permit him to say he shall not suffer the loss, but the trust estate shall suffer it.” Wren vs. Kirton, 11 Vesey 380; Lewin on Trust 332-3; Draper vs. Joiner, 9 Humph. 614.</p>
+                <p id="b265-5" pgmap="265">But in this State there are no banks, in which officers and receivers holding trust funds, can deposit them for safe keep­ing.</p>
+                <p id="b265-6" pgmap="265">It was the duty of the sheriff to retain the money subject to the order of the court, and to exercise proper care and dili­gence to provide means for its safe custody. Having died before any order of court was made upon him to pay it over, if, to the time of his death he so retained it in his custody, as a trust fund, he was guilty of no breach of his official bond, for which his sureties could be made liable; and if his administra­tor, after his death, failed to perform any legal duty that de­volved upon him in relation to the special trust fund, he, and not the sureties of his intestate, is responsible therefor. State, etc., vs. Vananda et al., 7 Blackf. 214.</p>
+                <p id="b265-7" pgmap="265">On the other hand, if the sheriff wasted and converted the money to his own use, as alleged in the first breach, so that his administrator, when he took charge of his effects, did not find the money on hand, or in safe custody, so that he could deliver it over as a special trust fund to the person entitled by law to receive it, (2 Lomax on Executors 394) such waste and conver­sion of the trust fund, by the sheriff, was a breach of official duty, for which his sureties are responsible upon his. bond. Governor use, etc., vs. Robins et al., 7 Ala. R. 81; 9 Ib. 487; State vs. Gibbs, 2 Jones (N. C.) 326.</p>
+                <p id="b265-8" pgmap="265(56) 266(92)">An administrator cannot employ, as general assets, property, or money, which his intestate held in trust, or was bound to apply to a particular purpose. 2 Lomax on Executors 394. But if the sheriff, in this case, did not keep the trust fund sepa­rate and apart from his own private money, but so mixed and mingled the two together, that the administrator, on taking charge of the effects, found no means of distinguishing the one from the other, and was compelled, in consequence thereof, to account for all the money on hand, and administer it as general assets, as alleged in the second breach, such disposition of the trust fund, on the part of the sheriff, was, upon principle, equi­valent to a conversion and appropriation of the money to his own use, and a breach of official duty, for which his sureties, we think, are responsible.</p>
+                <p id="b266-5" pgmap="266">The gravamen of the breaches alleged in the declaration is not, as supposed by the defendants, that the administrator failed to pay the money over upon the order of the court, but that the sheriff converted or appropriated the trust fund to his own use during his lifetime.</p>
+                <p id="b266-6" pgmap="266">The judgment must be reversed, and the cause remanded, with instructions to the court below to overrule the demurrer to the declaration, etc.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="262" ORDERLABEL="260" TYPE="page">
+        <fptr FILEID="tiff_00131_1"/>
+        <fptr FILEID="jp2_00131_1"/>
+        <fptr FILEID="alto_00131_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_262.1" BETYPE="IDREF" FILEID="alto_00131_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_262.2" BETYPE="IDREF" FILEID="alto_00131_1"/>
+              <area BEGIN="BL_262.3" BETYPE="IDREF" FILEID="alto_00131_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="263" ORDERLABEL="261" TYPE="page">
+        <fptr FILEID="tiff_00132_0"/>
+        <fptr FILEID="jp2_00132_0"/>
+        <fptr FILEID="alto_00132_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_263.3" BETYPE="IDREF" FILEID="alto_00132_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_263.2" BETYPE="IDREF" FILEID="alto_00132_0"/>
+              <area BEGIN="BL_263.4" BETYPE="IDREF" FILEID="alto_00132_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="264" ORDERLABEL="262" TYPE="page">
+        <fptr FILEID="tiff_00132_1"/>
+        <fptr FILEID="jp2_00132_1"/>
+        <fptr FILEID="alto_00132_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_264.2" BETYPE="IDREF" FILEID="alto_00132_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_264.3" BETYPE="IDREF" FILEID="alto_00132_1"/>
+              <area BEGIN="BL_264.4" BETYPE="IDREF" FILEID="alto_00132_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="265" ORDERLABEL="263" TYPE="page">
+        <fptr FILEID="tiff_00133_0"/>
+        <fptr FILEID="jp2_00133_0"/>
+        <fptr FILEID="alto_00133_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_265.3" BETYPE="IDREF" FILEID="alto_00133_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_265.2" BETYPE="IDREF" FILEID="alto_00133_0"/>
+              <area BEGIN="BL_265.4" BETYPE="IDREF" FILEID="alto_00133_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="266" ORDERLABEL="264" TYPE="page">
+        <fptr FILEID="tiff_00133_1"/>
+        <fptr FILEID="jp2_00133_1"/>
+        <fptr FILEID="alto_00133_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_266.2" BETYPE="IDREF" FILEID="alto_00133_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_266.3" BETYPE="IDREF" FILEID="alto_00133_1"/>
+              <area BEGIN="BL_266.4" BETYPE="IDREF" FILEID="alto_00133_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_266.7" BETYPE="IDREF" FILEID="alto_00133_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b262-8" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_262.8" BETYPE="IDREF" FILEID="alto_00131_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b262-9" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_262.9" BETYPE="IDREF" FILEID="alto_00131_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b263-9" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_263.10" BETYPE="IDREF" FILEID="alto_00132_0"/>
+            <area BEGIN="BL_264.1" BETYPE="IDREF" FILEID="alto_00132_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b263-8" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_263.9" BETYPE="IDREF" FILEID="alto_00132_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b265-8" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_265.8" BETYPE="IDREF" FILEID="alto_00133_0"/>
+            <area BEGIN="BL_266.1" BETYPE="IDREF" FILEID="alto_00133_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b263-5" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_263.5" BETYPE="IDREF" FILEID="alto_00132_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b265-6" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_265.6" BETYPE="IDREF" FILEID="alto_00133_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b263-7" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_263.8" BETYPE="IDREF" FILEID="alto_00132_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b263-6" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_263.7" BETYPE="IDREF" FILEID="alto_00132_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b262-5" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_262.5" BETYPE="IDREF" FILEID="alto_00131_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b262-6" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_262.6" BETYPE="IDREF" FILEID="alto_00131_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b262-7" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_262.7" BETYPE="IDREF" FILEID="alto_00131_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b266-5" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_266.5" BETYPE="IDREF" FILEID="alto_00133_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b266-6" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_266.6" BETYPE="IDREF" FILEID="alto_00133_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b264-6" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_264.5" BETYPE="IDREF" FILEID="alto_00132_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AEo" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_262.4" BETYPE="IDREF" FILEID="alto_00131_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b264-8" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_264.7" BETYPE="IDREF" FILEID="alto_00132_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b264-9" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_264.8" BETYPE="IDREF" FILEID="alto_00132_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b264-10" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_264.9" BETYPE="IDREF" FILEID="alto_00132_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b264-11" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_264.10" BETYPE="IDREF" FILEID="alto_00132_1"/>
+            <area BEGIN="BL_265.1" BETYPE="IDREF" FILEID="alto_00133_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b265-7" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_265.7" BETYPE="IDREF" FILEID="alto_00133_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AY_" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_262.12" BETYPE="IDREF" FILEID="alto_00131_1"/>
+            <area BEGIN="BL_263.1" BETYPE="IDREF" FILEID="alto_00132_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b262-10" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_262.10" BETYPE="IDREF" FILEID="alto_00131_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b262-11" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_262.11" BETYPE="IDREF" FILEID="alto_00131_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AsP" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_263.6" BETYPE="IDREF" FILEID="alto_00132_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b265-5" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_265.5" BETYPE="IDREF" FILEID="alto_00133_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b264-7" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_264.6" BETYPE="IDREF" FILEID="alto_00132_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

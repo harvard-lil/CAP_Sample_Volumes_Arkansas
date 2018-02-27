@@ -1,0 +1,924 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0041" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Witherspoon v. Duncan">Witherspoon et al. Ex’rs. vs. Duncan et al.</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 240</citation>
+          <decisiondate>1860-05</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00121_1" MIMETYPE="image/tiff" CHECKSUM="fcadd0394f9926bc1ba60410e81950e9" CHECKSUMTYPE="MD5" SIZE="30782">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00121_1.tif"/>
+      </file>
+      <file ID="tiff_00122_0" MIMETYPE="image/tiff" CHECKSUM="396ea2d9e7ec427f9728ed5477bbf1c7" CHECKSUMTYPE="MD5" SIZE="48746">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00122_0.tif"/>
+      </file>
+      <file ID="tiff_00122_1" MIMETYPE="image/tiff" CHECKSUM="5339a14e5b3d70666254b577df8f4ffb" CHECKSUMTYPE="MD5" SIZE="48598">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00122_1.tif"/>
+      </file>
+      <file ID="tiff_00123_0" MIMETYPE="image/tiff" CHECKSUM="540ebf8988b6a7c975528b1cc4ed07d8" CHECKSUMTYPE="MD5" SIZE="47248">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00123_0.tif"/>
+      </file>
+      <file ID="tiff_00123_1" MIMETYPE="image/tiff" CHECKSUM="8442be8e8aa6228c4ceff2583c2bf411" CHECKSUMTYPE="MD5" SIZE="48370">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00123_1.tif"/>
+      </file>
+      <file ID="tiff_00124_0" MIMETYPE="image/tiff" CHECKSUM="c0c2ee085ae7f96cc65726570a26ac5d" CHECKSUMTYPE="MD5" SIZE="49218">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00124_0.tif"/>
+      </file>
+      <file ID="tiff_00124_1" MIMETYPE="image/tiff" CHECKSUM="dfabee738df8db61be74a27bfb400010" CHECKSUMTYPE="MD5" SIZE="49942">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00124_1.tif"/>
+      </file>
+      <file ID="tiff_00125_0" MIMETYPE="image/tiff" CHECKSUM="af769c65f3fe63a843164e0b14be949c" CHECKSUMTYPE="MD5" SIZE="51408">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00125_0.tif"/>
+      </file>
+      <file ID="tiff_00125_1" MIMETYPE="image/tiff" CHECKSUM="27ca724e48c0264b7411129aa9e0383e" CHECKSUMTYPE="MD5" SIZE="50160">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00125_1.tif"/>
+      </file>
+      <file ID="tiff_00126_0" MIMETYPE="image/tiff" CHECKSUM="74529b83ba8a8057d894e8b6b8d3b096" CHECKSUMTYPE="MD5" SIZE="31420">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00126_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00121_1" MIMETYPE="image/jp2" CHECKSUM="8fccc915e4fb3622cd5d464aac16f86c" CHECKSUMTYPE="MD5" SIZE="2469851">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00121_1.jp2"/>
+      </file>
+      <file ID="jp2_00122_0" MIMETYPE="image/jp2" CHECKSUM="3c1893856fd18b6edd1958aff487f445" CHECKSUMTYPE="MD5" SIZE="2672904">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00122_0.jp2"/>
+      </file>
+      <file ID="jp2_00122_1" MIMETYPE="image/jp2" CHECKSUM="7525ff801796a1865353db3653be7308" CHECKSUMTYPE="MD5" SIZE="2584545">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00122_1.jp2"/>
+      </file>
+      <file ID="jp2_00123_0" MIMETYPE="image/jp2" CHECKSUM="6202f5cdafb25047fd4b5c6fe49ad1df" CHECKSUMTYPE="MD5" SIZE="2843543">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00123_0.jp2"/>
+      </file>
+      <file ID="jp2_00123_1" MIMETYPE="image/jp2" CHECKSUM="820b60829a92998af67d982a8fc79ddb" CHECKSUMTYPE="MD5" SIZE="2627853">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00123_1.jp2"/>
+      </file>
+      <file ID="jp2_00124_0" MIMETYPE="image/jp2" CHECKSUM="9f89998c4c3d26784ea7720c4ecd7f58" CHECKSUMTYPE="MD5" SIZE="2916984">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00124_0.jp2"/>
+      </file>
+      <file ID="jp2_00124_1" MIMETYPE="image/jp2" CHECKSUM="b426262430ddc7da099a187f73c4b4de" CHECKSUMTYPE="MD5" SIZE="2574588">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00124_1.jp2"/>
+      </file>
+      <file ID="jp2_00125_0" MIMETYPE="image/jp2" CHECKSUM="c0c527a06aa9fd4f9672acae5a8f6c80" CHECKSUMTYPE="MD5" SIZE="2707999">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00125_0.jp2"/>
+      </file>
+      <file ID="jp2_00125_1" MIMETYPE="image/jp2" CHECKSUM="f474546ee254bac470ae5ce5d174381f" CHECKSUMTYPE="MD5" SIZE="2601843">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00125_1.jp2"/>
+      </file>
+      <file ID="jp2_00126_0" MIMETYPE="image/jp2" CHECKSUM="3ea05f401a40f460796e6708dc440575" CHECKSUMTYPE="MD5" SIZE="3049369">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00126_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00121_1" MIMETYPE="text/xml" CHECKSUM="480b134046d5c54c8b72c71bf3204ce2" CHECKSUMTYPE="MD5" SIZE="71329">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00121_1.xml"/>
+      </file>
+      <file ID="alto_00122_0" MIMETYPE="text/xml" CHECKSUM="8a3ea60a4b04ce0f444f2096fb345da3" CHECKSUMTYPE="MD5" SIZE="95893">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00122_0.xml"/>
+      </file>
+      <file ID="alto_00122_1" MIMETYPE="text/xml" CHECKSUM="8a6adb875f14c3caadb0bd23281b31b7" CHECKSUMTYPE="MD5" SIZE="97175">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00122_1.xml"/>
+      </file>
+      <file ID="alto_00123_0" MIMETYPE="text/xml" CHECKSUM="b7a67f8c763f6bf37827a41803747649" CHECKSUMTYPE="MD5" SIZE="92782">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00123_0.xml"/>
+      </file>
+      <file ID="alto_00123_1" MIMETYPE="text/xml" CHECKSUM="4dc4715221b78797510c9259864de1c5" CHECKSUMTYPE="MD5" SIZE="93242">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00123_1.xml"/>
+      </file>
+      <file ID="alto_00124_0" MIMETYPE="text/xml" CHECKSUM="58d8cca22da2cbb354be86f1bce468d6" CHECKSUMTYPE="MD5" SIZE="95181">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00124_0.xml"/>
+      </file>
+      <file ID="alto_00124_1" MIMETYPE="text/xml" CHECKSUM="5b508c5f15c1a3c4139f95ff8e90ddef" CHECKSUMTYPE="MD5" SIZE="97896">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00124_1.xml"/>
+      </file>
+      <file ID="alto_00125_0" MIMETYPE="text/xml" CHECKSUM="51ae42edcca1a262011640e3f9f9e768" CHECKSUMTYPE="MD5" SIZE="94171">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00125_0.xml"/>
+      </file>
+      <file ID="alto_00125_1" MIMETYPE="text/xml" CHECKSUM="3eedfc584ef6eeb94ad2d3f2c3e0782a" CHECKSUMTYPE="MD5" SIZE="92162">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00125_1.xml"/>
+      </file>
+      <file ID="alto_00126_0" MIMETYPE="text/xml" CHECKSUM="4f33c861b5d84d12483b545a6abdf5d3" CHECKSUMTYPE="MD5" SIZE="65830">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00126_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0041" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="249" firstpage="240">
+              <parties id="b242-6" pgmap="242">Witherspoon et al. Ex’rs. vs. Duncan et al.</parties>
+              <attorneys id="b243-3" pgmap="243">Watiuns &amp; Gallagher, for the appellants.</attorneys>
+              <attorneys id="b244-6" pgmap="244">Flanagin &amp; Garland, for the appellees,</attorneys>
+              <summary id="b242-9" pgmap="242">Appeal from Clark Circuit Court in Chancery.</summary>
+              <summary id="AmV" pgmap="242">Hon. Abner A. Stith, Circuit Judge.</summary>
+              <summary id="b243-4" pgmap="243">We concede that, in accordance with the decision of this court in Merrick 4’ Fenno vs. Hull, 15 Ark. 331, a sale for taxes is not vitiated by the assessment of the property to, or in the name of, one who is not the owner.</summary>
+              <summary id="b243-5" pgmap="243">And we are bound to concede.the law to be, that when land has been sold by the United States, entered and paid for by the purchaser, who receives the usual certificate, or receipt, for the purchase money, and in whose favor the usual patent certificate issues, (see the formula stated in Carroll vs. Safford, 3 How. U. 8. 441,) it becomes the property of the purchaser; of which he is entitled to the possession, subject to sale or incumbrance by him, and to sale under execution against him; is devisable or descendable to his heirs; and that it becomes subject to taxa­tion as his property.</summary>
+              <summary id="b243-6" pgmap="243">Of Carroll vs. Safford, it is to be observed, that it was an ordinary cash entry, and the usual certificates were issued to Carroll, the purchaser, from the Register and Receiver, who acted in the discharge of their duty, and within the scope of their authority. Admitting the full force of the decision, it establishes all that we need contend for in this case, which is:</summary>
+              <summary id="b243-7" pgmap="243">] st. That although the point decided in Merrick 4" Fenno vs. Hull, that it makes no difference in whose naipe the land is taxed, is correct, as a general principle, and applicable to the case before it, and to all cases where the title to the land had passed out of the general government, it is qualified by the compact between Arkansas and the United States, and does not apply in all its scope, to lands sold by the United States, but not patented, and on which the patent marj never issue; because, in such case, it does make a difference — so, that if the United States continues to be, or some other grantee of hers becomes the owner of the land, by an independent purchase, which is ripened into a patent, the tax sale would be inopera­tive, and pass no title whatever.</summary>
+              <summary id="b243-8" pgmap="243(22) 244(168)">2d. That although the general principle may be, that a sale for taxes is a proceeding in rem, operating upon and passing the whole title, without reference to the particular title or estate of the person to whom, or in whose name it was assessed, (whose title may be bad or doubtful, or who, as it may be, has only an estate for life, or for years) and that it is the land which is taxed, and not the particular estate of the tenant, so that the entire fee, the interest of all the world, passes by a paramount sale for taxes: still, in the case of land sold by the United States officers, and assessed to the purchaser, the interest or right only, whatsoever it may be, of that purchaser from the United States, is sold or passed by the tax sale, which, as the court say,in Car­roll vs. Safford, “ cannot convey a letter title to the land, sold for taxes, than the owner of such land, to whom it stands charged, possessed at the time the taxes constituted a lien, or when the land ivas sold.'1''</summary>
+              <summary id="b244-5" pgmap="244">When this land was assessed and sold for taxes in the year 1842, it was not in fact assessed or taxed to the heirs of Harrell; and we maintain that, by law, it was not then subject to taxa­tion, as their property. The heirs of Harrell never had any clear ascertained right to the land in controversy, until the final decision of the Commissioner of the General Land Office, in 1846, confirming their donation claim, and the issuance of the patent to them for the lands applied for. Until then the whole subject remained under the control of the land depart­ment. If rejected, the entry of Denton would have held the land, and he would have received the patent. True, the dona­tion claim was not finally rejected, but there was a continuing power to reject it. The claim did not become consummated until by the exercise of their power the jurisdiction of the land officers over the subject, had become exhausted.</summary>
+              <summary id="AEz" pgmap="244(59) 245(23)">contended that lands purchased from the United States are subject to taxation before the issuance of the patent; that when the lands are purchased and paid for they are not the property of the United States, but of the purchaser. Carroll vs. Safford, 3 How. U. S. Rep. 460; Goodleit vs. Smithson, 5 Porter, 245; Gwyne vs. Niswanger, 20 Ohio, 556; Astrom vs. Hammond, 3 Me Lean C. G. R. 107; Carroll vs. Perry et al., 4 McLean C. C. R\, 25.</summary>
+              <headnotes id="b242-7" pgmap="242">Upon the purchase of land at the land office of the United States, payment of the money and issuance of the certificate of entry, the land is no longer the property of the United States, but of the purchaser, who may enter upon and improve it, bring ejectment for it, etc. And it is within the power of the Legislature to impose a tax upon the land before the issuance of a patent — a law imposing such a tax being no violation of any clause of the compact between the State and the United States.</headnotes>
+              <headnotes id="b242-8" pgmap="242">And where, under the act of Congress of 24th May, 1828, a claim to a donation is proved before the land officers, the claim allowed, and lands are purchased with such claim, and a patent certificate issued, the purchaser is the owner of the lands, has the right to enter upon, improve and cultivate them, and they are subject to taxation, and sale upon non-payment of the taxes — and this, though the issuance of the patent may be delayed or suspended by the commissioner of the general land office — the delay or suspension having no effect upon the validity of the title if the patent finally issue upon the original purchase, and not a new one.</headnotes>
+              <opinion type="majority">
+                <author id="b245-4" pgmap="245">Mr. Chief Justice English</author>
+                <p id="ABj" pgmap="245">delivered the opinion of the Court.</p>
+                <p id="b245-5" pgmap="245">The bill in this case was filed in the Clark Circuit Court, by Henry K. Hardy, to the March term, 1856, and he having departed this life before the return term, it was afterwards revived in the names of Witherspoon and others, as his executors.</p>
+                <p id="b245-6" pgmap="245">The object of the bill was to establish and quiet the title of complainant to the S. E. qr. of Sec. 23, and the S. W. qr. of Section 24, T. 8 S. R. 22 W., situate in Clark county, and to cancel a tax title held by Duncan and Flanagin to the same lands.</p>
+                <p id="b245-7" pgmap="245">The cause was heard upon the pleadings, exhibits, and agree­ment of facts; and the bill was dismissed for want of equity; and the executors of Hardy appealed.</p>
+                <p id="b245-8" pgmap="245">The title of Hardy is derived as follows:</p>
+                <p id="b245-9" pgmap="245">Timothy Harrell being a settler in that portion of the terri­tory of Arkansas ceded to the Cherokee nation by the treaty of the 23d May, 1828, and having removed therefrom, was entitled to a donation of a quantity of land not exceeding two quarter sections, under the provisions of the act of Congress of 24th May, 1828. (commonly known as a Lovely Claim.) Having departed this life before he proved up his claim, his heirs, on the 17th May, 1830, made proof of his actual settlement and subsequent removal, before the Register and Receiver of the’ Land Office, at Little Rock, in accordance with the provisions of said act, who allowed their claim to a donation of 320 acres of land. Whereupon, they applied to the Register to enter with the donation claim so established, the lands above described, which were then situated in the Little Rock Land District, and subject to entry at that office; and wdiich entry was allowed on the 22d day of May, 1830, by the Register; and a certificate thereof, in due time, transmitted to Washington.</p>
+                <p id="b245-10" pgmap="245(21) 246(73)">That the Commissioner of the General Land office (as the bill alleges), in conformity wdth law and the usage of the department, and under instructions from the Secretary of the Treasury, suspended said claim, and for some supposed defect in, or objection to the same, refused to confirm the decision of the district land office, or to sanction such entry, or cause to be issued any patent for said land, until the 5th of February, 1846, when the claim was finally confirmed, and a patent issued lor the lands to the heirs of Harrell.</p>
+                <p id="b246-5" pgmap="246">On the 8th of June, 1836, Gabriel W. Denton was permitted, by mistake, to enter the same lands at the land office at Wash­ington, Arkansas, and obtained a certificate of entry. After the confirmation of the entry of Harrell’s heirs, and the issu­ance of the patent to them, the sale to Denton was cancelled, and his purchase money refunded to him by the government.</p>
+                <p id="b246-6" pgmap="246">The title to the land, which the bill seeks to establish and quiet, was obtained by Hardy, through the heirs of Harrell, after the issuance of the patent to them.</p>
+                <p id="b246-7" pgmap="246">Duncan and Flan agin claim title to the lands as follows:</p>
+                <p id="b246-8" pgmap="246">The lands were assessed for taxes, by the sheriff and assessor of Clark County, for the year 1842, in the name of Denton, as a non-resident, etc. Neither he, nor the heirs of Harrell, nor any one else, paying the taxes, etc., charged thereon, the lands were sold by the collector, on the first Monday of November, 1842, for the taxes, and purchased by Duncan and Flanagin, who obtained a certificate of purchase; and on the 1st of January, 1847, the collector executed to them a tax deed for the lands. They afterwards filed a bill in the Circuit Court of Clark county, under the statute, to confirm their title, and at the March term, 1848, after due public notice, obtained a decree of confirmation. It is admitted that the assessment and sale of the land for taxes, as well as the proceedings for confirmation, were regular and formal.</p>
+                <p id="b246-11" pgmap="246">It is insisted by the appellant that the lands were not subject to taxation for the year 1842, and that the tax sale was conse­quently null and void, and that neither it, nor the decree of confirmation conferred any valid title to the lands upon appel­lees.</p>
+                <p id="b247-4" pgmap="247">It is conceded that the assessment of the lands in the name of Denton, who was not the true owner, did not vitiate the sale, if the lands were subject to taxation. The point on which the counsel for appellants rests the case, is, that the lands were not subject to taxation until the entry made with the donation claim was confirmed, and the patent granted.</p>
+                <p id="b247-5" pgmap="247">It has been the practice in this State, from an early period after the formation of the State government, to impose a tax upon lands after they were sold by the United States, and before the patents were issued. Thus, it was provided by the Act of 1th November, 1836, (Pamph. Acts, 1836, p. 188,) that “ there shall be levied and collected, as a state tax, on all lands lying within this State, claimed by any person, etc., by title derived from the United States, or otherwise, whether a patent may have issued from the President of the United States, or not, one-fourth of one per cent,” etc.</p>
+                <p id="b247-6" pgmap="247">Again, it was provided by sec. 1, chap'. 128, of the Revised Statutes, which was in force when the lands in question were assessed and sold, that a tax should be levied upon “ all lands lying within this State,. claimed or owned by any person or corporation, whether such lands may have been patented or not, except such as are exempt from taxation by virtue of the com­pact between this State and the United States.”</p>
+                <p id="b247-7" pgmap="247">The compact exempts from taxation lands which are the property of the United States; and, for a limited period, mili­tary bounty lands. 5 Sec.</p>
+                <p id="b247-8" pgmap="247">By Sec. 9, chap. 18, Rev. Slat., it was made the duty of the Auditor annually to procure and furnish to the proper officer in each county a list of such lands as might, from year to year, become taxable, etc.</p>
+                <p id="b247-9" pgmap="247(69) 248(110)">That it is within the power of the Legislature to impose a tax upon lands purchased at the United States Land Offices, before the patents are issued, does not, we think, admit of a well founded doubt. A law imposing a tax upon such lands is no violation of the clause of the Compact which declares “ that “ the General Assembly of the State shall never interfere with “ the primary 'disposal of the soil within the same by the United “ States, nor with any regulations Congress may find necessary “ for securing the title in such soil to the bona fide purchasers “ thereof.” Nor is such law a violation of that clause of the Compact which declares “ that no tax shall be imposed upon “ lands the property of the United States. See Carroll vs. Saf­ford, 3 How. U. S. R. 400; Astrom et al. vs. Hammond, Aud , 3 McLean R. 108; Carroll vs. Perry et al., 4 Ib. 26; Gwynn vs. Niswanger, 20 Ohio R. 559; Blackwell on Tax Titles. 633.</p>
+                <p id="b248-5" pgmap="248">When land is purchased at the Land Office, paid for, and the certificate of entry issued to the purchaser, it is no longer tire property of the United States, but of the purchaser. He may im­mediately enter upon and improve it. By our laws, he may bring ejectment for it; it is subject to execution as his property, and, on his death, it descends to his heirs. It is not within the power of the United States to sell it again, if the first sale is in accor­dance with law.</p>
+                <p id="b248-6" pgmap="248">It is true that the naked legal title remains.in the United States, until the patent issues, but the equitable title is in the purchaser, and when the patent is issued it relates back to the entry.</p>
+                <p id="b248-7" pgmap="248">It is true, also, that if land be purchased at the Land Office, which is, by law, reserved from sale, the purchaser gets no title and his entry may be set aside, and, in such case, a person purchasing of him, or under an execution against him, or at a sale for taxes charged upon the land, would fail to get any title. But the fact that an erroneous sale may be occasionally made, is no valid objection to the power of the Legislature to impose a tax upon lands entered at the United States Land Offices, before the patents issue.</p>
+                <p id="b248-8" pgmap="248">But it is insisted that if lands entered with money, are sub­ject to taxation before the patents issue, the law does not apply to an entry made with a donation claim, like the one now before us.</p>
+                <p id="b248-9" pgmap="248(23) 249(101)">The public lands belonging to the United States, may doubt­less be disposed of on such terms, and in such modes, as Con­gress may think proper to prescribe. They have been sold under acts of Congress, for money, warrants, and donated for military services, and other considerations. The several modes in which the public lands were acquired, were known to the Legislature, and in imposing a tax upon them before the patents were issued, no exemption is made in favor of lands purchased of the government in any particular mode. The language of the law is, that “ all lands claimed or owned by any person, etc., whether such lands may have been patented or not,” etc., shall be subject to taxation, etc.</p>
+                <p id="b249-4" pgmap="249">By the act of Congress of 24th May, 1828, it was provided that each head of a family, widow, or single man over the age of 21 years, actually settled on that part of the Territory of Arkansas, which, by the first article of the treaty between the United States and the Cherokee Indians, ratified 23d May, 1828, ceased to be a part of said Territory, who shall remove from such settlement, according to the provisions of that treaty, shall be authorised to enter, with the proper Register of the Land Office in Arkansas, a quantity not exceeding two quarter sec­tions of land, on any of the public lands in that Territory, the sale of which is authorised by law, etc., etc.; and upon present­ing the certificate of such entry to the Secretary of the Trea­sury, a patent shall be issued to such settler, or his, her or their heirs, for the lands so entered, as a donation from the United States, and an indemnity for the improvements and losses of such settler, under the aforesaid treaty. The Register and Receiver of the Land Office, to which application may be made to enter such lands, shall be authorised to take the proper testi­mony of such actual settlement, and subsequent removal, as in case of pre-emptions heretofore granted to actual settlers, etc. Brighthly Dig., L. U. S., p. 559.</p>
+                <p id="b249-5" pgmap="249(51) 250(18)">That Timothy Harrell was a settler upon the ceded territory, and removed therefrom; that his heirs proved his claim to a donation before the Register and Receiver of the proper Land office, that the claim was allowed, and that they purchased, with the claim so established, the lands in question, and obtained the patent certificate, in accordance with the provi­sions of the act of Congress, is not controverted.</p>
+                <p id="b250-4" pgmap="250">Upon such compliance with the provisions of the act, and the issuance of the certificate, their purchase was as complete, and they were as much the owners of the lands as if they had purchased them with money, and obtained the ordinary certifi­cate of entry. They had the right to enter upon the lands so purchased, improve and cultivate them, or otherwise appro­priate them to their own use and benefit, and when they were assessed for taxes, it was their duty to see that the taxes were paid.</p>
+                <p id="b250-5" pgmap="250">It is true that the issuance of the patent in this, as in many-­other cases, was delayed or suspended, but it was finally issued, and related back to the date of the entry with the donation claim. What particular objection was made to the entry, or for what particular cause the issuance of the patent was delayed, does not appear; but it was finally issued, it seems, upon the original proof and certificate. The heirs of Harrell made no new purchase of the lands, but the patent issued to them by'virtue of the original entry.</p>
+                <p id="b250-6" pgmap="250">If the lands had been sold under execution against the heirs of Harrell, after they obtained the certificate of entry, and before the patent issued; and after the issuance of the patent to them, the purchaser at execution sale had filed a bill to divest them of the naked legal title held by them as the patentees, it would surely have been no valid defence for them to say that the lands were sold before the patent issued, or that the patent was not issued immediately after the entry, but its issuance was delayed at Washington for the purpose of making enquiry into the fairness of the donation claim with which the lands were purchased, or for the purpose of ascertaining whether the lands were subject to entry, or for any other cause. The delay and investigation can have no effect upon the validity of the title, if the patent finally issues upon the origi­nal purchase, and not a new one. It is but the final evidence of the legality of the entry.</p>
+                <p id="b251-4" pgmap="251">If it be assumed that land is not subject to taxation, and that a sale of it for taxes is void, in all cases where the issu­ance of the patent (as in this case) is suspended or delayed at Washington for investigation, it would be, in effect, to hold that the Auditor should withhold from the assessors the lists of lands entered from year to year until the patents are issued, because he could not know in what cases the issuance of the patents would be so delayed; and then the provision of our law for taxing lands, after they have been sold by the United States, and before the patents are issued, would be, in practical effect, defeated.</p>
+                <p id="b251-5" pgmap="251">Upon the facts of this case, we think the lands in question were subject to taxation, and the decree of the court below must be affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="242" ORDERLABEL="240" TYPE="page">
+        <fptr FILEID="tiff_00121_1"/>
+        <fptr FILEID="jp2_00121_1"/>
+        <fptr FILEID="alto_00121_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_242.2" BETYPE="IDREF" FILEID="alto_00121_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_242.3" BETYPE="IDREF" FILEID="alto_00121_1"/>
+              <area BEGIN="BL_242.4" BETYPE="IDREF" FILEID="alto_00121_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_242.6" BETYPE="IDREF" FILEID="alto_00121_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="243" ORDERLABEL="241" TYPE="page">
+        <fptr FILEID="tiff_00122_0"/>
+        <fptr FILEID="jp2_00122_0"/>
+        <fptr FILEID="alto_00122_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_243.2" BETYPE="IDREF" FILEID="alto_00122_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_243.1" BETYPE="IDREF" FILEID="alto_00122_0"/>
+              <area BEGIN="BL_243.3" BETYPE="IDREF" FILEID="alto_00122_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="244" ORDERLABEL="242" TYPE="page">
+        <fptr FILEID="tiff_00122_1"/>
+        <fptr FILEID="jp2_00122_1"/>
+        <fptr FILEID="alto_00122_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_244.2" BETYPE="IDREF" FILEID="alto_00122_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_244.3" BETYPE="IDREF" FILEID="alto_00122_1"/>
+              <area BEGIN="BL_244.4" BETYPE="IDREF" FILEID="alto_00122_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="245" ORDERLABEL="243" TYPE="page">
+        <fptr FILEID="tiff_00123_0"/>
+        <fptr FILEID="jp2_00123_0"/>
+        <fptr FILEID="alto_00123_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_245.3" BETYPE="IDREF" FILEID="alto_00123_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_245.2" BETYPE="IDREF" FILEID="alto_00123_0"/>
+              <area BEGIN="BL_245.4" BETYPE="IDREF" FILEID="alto_00123_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="246" ORDERLABEL="244" TYPE="page">
+        <fptr FILEID="tiff_00123_1"/>
+        <fptr FILEID="jp2_00123_1"/>
+        <fptr FILEID="alto_00123_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_246.2" BETYPE="IDREF" FILEID="alto_00123_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_246.3" BETYPE="IDREF" FILEID="alto_00123_1"/>
+              <area BEGIN="BL_246.4" BETYPE="IDREF" FILEID="alto_00123_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="247" ORDERLABEL="245" TYPE="page">
+        <fptr FILEID="tiff_00124_0"/>
+        <fptr FILEID="jp2_00124_0"/>
+        <fptr FILEID="alto_00124_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_247.2" BETYPE="IDREF" FILEID="alto_00124_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_247.1" BETYPE="IDREF" FILEID="alto_00124_0"/>
+              <area BEGIN="BL_247.3" BETYPE="IDREF" FILEID="alto_00124_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="248" ORDERLABEL="246" TYPE="page">
+        <fptr FILEID="tiff_00124_1"/>
+        <fptr FILEID="jp2_00124_1"/>
+        <fptr FILEID="alto_00124_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_248.2" BETYPE="IDREF" FILEID="alto_00124_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_248.3" BETYPE="IDREF" FILEID="alto_00124_1"/>
+              <area BEGIN="BL_248.4" BETYPE="IDREF" FILEID="alto_00124_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="249" ORDERLABEL="247" TYPE="page">
+        <fptr FILEID="tiff_00125_0"/>
+        <fptr FILEID="jp2_00125_0"/>
+        <fptr FILEID="alto_00125_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_249.3" BETYPE="IDREF" FILEID="alto_00125_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_249.2" BETYPE="IDREF" FILEID="alto_00125_0"/>
+              <area BEGIN="BL_249.4" BETYPE="IDREF" FILEID="alto_00125_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="250" ORDERLABEL="248" TYPE="page">
+        <fptr FILEID="tiff_00125_1"/>
+        <fptr FILEID="jp2_00125_1"/>
+        <fptr FILEID="alto_00125_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_250.2" BETYPE="IDREF" FILEID="alto_00125_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_250.3" BETYPE="IDREF" FILEID="alto_00125_1"/>
+              <area BEGIN="BL_250.4" BETYPE="IDREF" FILEID="alto_00125_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="251" ORDERLABEL="249" TYPE="page">
+        <fptr FILEID="tiff_00126_0"/>
+        <fptr FILEID="jp2_00126_0"/>
+        <fptr FILEID="alto_00126_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_251.2" BETYPE="IDREF" FILEID="alto_00126_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_251.1" BETYPE="IDREF" FILEID="alto_00126_0"/>
+              <area BEGIN="BL_251.3" BETYPE="IDREF" FILEID="alto_00126_0"/>
+              <area BEGIN="BL_251.11" BETYPE="IDREF" FILEID="alto_00126_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_251.6" BETYPE="IDREF" FILEID="alto_00126_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b246-8" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_246.8" BETYPE="IDREF" FILEID="alto_00123_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b246-6" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_246.6" BETYPE="IDREF" FILEID="alto_00123_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b246-7" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_246.7" BETYPE="IDREF" FILEID="alto_00123_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b246-5" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_246.5" BETYPE="IDREF" FILEID="alto_00123_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ABj" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_245.6" BETYPE="IDREF" FILEID="alto_00123_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b250-6" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_250.7" BETYPE="IDREF" FILEID="alto_00125_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b250-5" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_250.6" BETYPE="IDREF" FILEID="alto_00125_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b250-4" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_250.5" BETYPE="IDREF" FILEID="alto_00125_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AmV" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_242.11" BETYPE="IDREF" FILEID="alto_00121_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b246-11" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_246.9" BETYPE="IDREF" FILEID="alto_00123_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AEz" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_244.7" BETYPE="IDREF" FILEID="alto_00122_1"/>
+            <area BEGIN="BL_244.8" BETYPE="IDREF" FILEID="alto_00122_1"/>
+            <area BEGIN="BL_245.1" BETYPE="IDREF" FILEID="alto_00123_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b245-10" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_245.12" BETYPE="IDREF" FILEID="alto_00123_0"/>
+            <area BEGIN="BL_246.1" BETYPE="IDREF" FILEID="alto_00123_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b242-8" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_242.9" BETYPE="IDREF" FILEID="alto_00121_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b242-9" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_242.10" BETYPE="IDREF" FILEID="alto_00121_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b242-6" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_242.7" BETYPE="IDREF" FILEID="alto_00121_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b242-7" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_242.8" BETYPE="IDREF" FILEID="alto_00121_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b251-4" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_251.4" BETYPE="IDREF" FILEID="alto_00126_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b251-5" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_251.5" BETYPE="IDREF" FILEID="alto_00126_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b243-8" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_243.9" BETYPE="IDREF" FILEID="alto_00122_0"/>
+            <area BEGIN="BL_244.1" BETYPE="IDREF" FILEID="alto_00122_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b243-3" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_243.4" BETYPE="IDREF" FILEID="alto_00122_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b243-7" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_243.8" BETYPE="IDREF" FILEID="alto_00122_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b243-6" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_243.7" BETYPE="IDREF" FILEID="alto_00122_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b243-5" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_243.6" BETYPE="IDREF" FILEID="alto_00122_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b243-4" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_243.5" BETYPE="IDREF" FILEID="alto_00122_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b247-7" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_247.7" BETYPE="IDREF" FILEID="alto_00124_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b247-6" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_247.6" BETYPE="IDREF" FILEID="alto_00124_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b247-5" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_247.5" BETYPE="IDREF" FILEID="alto_00124_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b247-4" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_247.4" BETYPE="IDREF" FILEID="alto_00124_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b245-5" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_245.7" BETYPE="IDREF" FILEID="alto_00123_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b245-4" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_245.5" BETYPE="IDREF" FILEID="alto_00123_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b245-7" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_245.9" BETYPE="IDREF" FILEID="alto_00123_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b245-6" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_245.8" BETYPE="IDREF" FILEID="alto_00123_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b245-9" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_245.11" BETYPE="IDREF" FILEID="alto_00123_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b245-8" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_245.10" BETYPE="IDREF" FILEID="alto_00123_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b244-6" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_244.6" BETYPE="IDREF" FILEID="alto_00122_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b247-9" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_247.9" BETYPE="IDREF" FILEID="alto_00124_0"/>
+            <area BEGIN="BL_248.1" BETYPE="IDREF" FILEID="alto_00124_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b247-8" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_247.8" BETYPE="IDREF" FILEID="alto_00124_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b248-8" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_248.8" BETYPE="IDREF" FILEID="alto_00124_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b248-9" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_248.9" BETYPE="IDREF" FILEID="alto_00124_1"/>
+            <area BEGIN="BL_249.1" BETYPE="IDREF" FILEID="alto_00125_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b244-5" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_244.5" BETYPE="IDREF" FILEID="alto_00122_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b249-5" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_249.6" BETYPE="IDREF" FILEID="alto_00125_0"/>
+            <area BEGIN="BL_250.1" BETYPE="IDREF" FILEID="alto_00125_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b249-4" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_249.5" BETYPE="IDREF" FILEID="alto_00125_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b248-5" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_248.5" BETYPE="IDREF" FILEID="alto_00124_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b248-6" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_248.6" BETYPE="IDREF" FILEID="alto_00124_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b248-7" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_248.7" BETYPE="IDREF" FILEID="alto_00124_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

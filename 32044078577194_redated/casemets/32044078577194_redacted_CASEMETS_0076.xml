@@ -1,0 +1,374 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0076" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Bumgarner v. State">Joseph BUMGARNER v. STATE of Arkansas</name>
+          <docketnumber>CR 85-174</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 315</citation>
+          <citation category="parallel" type="bluebook">705 S.W.2d 10</citation>
+          <decisiondate>1986-03-10</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:00Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00174_0" MIMETYPE="image/tiff" CHECKSUM="6c085568405b8464e2477d99eec7b2f7" CHECKSUMTYPE="MD5" SIZE="25566">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00174_0.tif"/>
+      </file>
+      <file ID="tiff_00174_1" MIMETYPE="image/tiff" CHECKSUM="c6dd3ffc6d75d44b56ea4b59234eaed7" CHECKSUMTYPE="MD5" SIZE="37698">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00174_1.tif"/>
+      </file>
+      <file ID="tiff_00175_0" MIMETYPE="image/tiff" CHECKSUM="64ecdaca92719ccd9e82e01c775985c7" CHECKSUMTYPE="MD5" SIZE="41192">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00175_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00174_0" MIMETYPE="image/jp2" CHECKSUM="3d4752985a202c4d939b9001b80d6476" CHECKSUMTYPE="MD5" SIZE="1970277">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00174_0.jp2"/>
+      </file>
+      <file ID="jp2_00174_1" MIMETYPE="image/jp2" CHECKSUM="78adb68155ff5071538c3d8b960c849a" CHECKSUMTYPE="MD5" SIZE="2154896">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00174_1.jp2"/>
+      </file>
+      <file ID="jp2_00175_0" MIMETYPE="image/jp2" CHECKSUM="59db137972edb0fd9b18ed7086254d43" CHECKSUMTYPE="MD5" SIZE="2423388">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00175_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00174_0" MIMETYPE="text/xml" CHECKSUM="00c46ab9d0deb94776c6c763668dbb52" CHECKSUMTYPE="MD5" SIZE="40893">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00174_0.xml"/>
+      </file>
+      <file ID="alto_00174_1" MIMETYPE="text/xml" CHECKSUM="2c3d9111fcf78a18d0186117c09e5505" CHECKSUMTYPE="MD5" SIZE="62869">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00174_1.xml"/>
+      </file>
+      <file ID="alto_00175_0" MIMETYPE="text/xml" CHECKSUM="9445beae51ce0e0f5b36c449e0e0e4ca" CHECKSUMTYPE="MD5" SIZE="70035">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00175_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0076" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="315" lastpage="317">
+              <court pgmap="347" id="b347-11">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="347" id="b347-10">CR 85-174</docketnumber>
+              <citation pgmap="347" id="AWa">705 S.W.2d 10</citation>
+              <parties pgmap="347" id="b347-9">Joseph BUMGARNER v. STATE of Arkansas</parties>
+              <decisiondate pgmap="347" id="ABmk">Opinion delivered March 10, 1986</decisiondate>
+              <judges pgmap="349" id="b349-7">Purtle, J., not participating.</judges>
+              <attorneys pgmap="348" id="b348-7">Chet Dunlap, for appellant.</attorneys>
+              <attorneys pgmap="348" id="b348-8">Steve Clark, Att’y Gen., by: Jerome T. Kearney, Asst. Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="348" id="b348-9">Jack Holt, Jr., Chief Justice.</author>
+                <p pgmap="348" id="AqD">Appellant filed an Ark. R. Crim. P. Rule 37 motion to vacate his guilty plea and ten-year sentence on a charge of theft by receiving, alleging various plea bargain agreements with the prosecuting attorney were breached; a psychiatric report favorable to a possible defense of insanity was suppressed by the prosecution; a search warrant which resulted in his arrest was defective; and the state had no evidence linking him to the alleged crimes. The petition was denied. Appellant’s single argument for reversal is that the trial court erred in not making specific findings of fact and conclusions of law, as required by Rule 37.3(a), regarding his allegation that he was denied access to a psychiatric report before entering his plea. We agree and reverse and remand for the trial court to correct this error. Jurisdiction is in this court pursuant to Sup. Ct. R. 29(l)(e).</p>
+                <p pgmap="348" id="b348-10">Before the evidentiary hearing on the motion, the circuit court ruled that the search warrant allegation was not a proper Rule 37 issue. The court also stated that it did not consider the psychiatric report, which was based on a preliminary examina­tion before appellant was sent to the state hospital for a full evaluation, to be particularly significant.</p>
+                <p pgmap="348(31) 349(36)" id="b348-11">Although it was the declared intention of the trial court that the plea bargain agreements would be the only issue relevant to the Rule 37 proceedings, the court permitted the psychiatric report to be introduced into evidence and allowed testimony in relation to this report. Once this issue became of record, it was necessary for the court to make written findings of fact and conclusions of law.</p>
+                <p pgmap="349" id="b349-4">
+                   Rule 37.3(a) provides that “[i]f the motion and the files and records of the case conclusively show that the prisoner is entitled to no relief, the trial court shall make written findings to that effect, specifying any parts of the files or records that are relied upon to sustain the court’s findings.” When an evidentiary hearing is held on a Rule 37 petition, this rule is mandatory and requires written findings. Williams v. State, 272 Ark. 98, 612 S.W.2d 115 (1981); State v. Maness, 264 Ark. 190, 569 S.W.2d 665 (1978).</p>
+                <p pgmap="349" id="b349-5">
+                   We do not remove from the trial court its discretion to determine which of the many issues often raised in a post-­conviction petition are conclusively without merit and thus not relevant to the evidentiary hearing on the petition. In fact, if the record conclusively shows that a petitioner is not entitled to a hearing on any issue raised in the motion, this court will not reverse for a failure to make written findings of fact and conclusions of law explaining why the motion was denied. Simmons v. State, 265 Ark. 48, 578 S.W.2d 12 (1979). However, once a hearing is held and an issue is actually considered by the court, its resolution must be supported by written findings so that there can be a meaningful review of the proceedings. Accord­ingly, the trial court committed error in not including in its findings of fact and conclusions of law, a determination as to the psychiatric report.</p>
+                <p pgmap="349" id="b349-6">Reversed and remanded for findings consistent with this opinion.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="347" ORDERLABEL="315" TYPE="page">
+        <fptr FILEID="tiff_00174_0"/>
+        <fptr FILEID="jp2_00174_0"/>
+        <fptr FILEID="alto_00174_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_347.3" BETYPE="IDREF" FILEID="alto_00174_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="348" ORDERLABEL="316" TYPE="page">
+        <fptr FILEID="tiff_00174_1"/>
+        <fptr FILEID="jp2_00174_1"/>
+        <fptr FILEID="alto_00174_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_348.2" BETYPE="IDREF" FILEID="alto_00174_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="349" ORDERLABEL="317" TYPE="page">
+        <fptr FILEID="tiff_00175_0"/>
+        <fptr FILEID="jp2_00175_0"/>
+        <fptr FILEID="alto_00175_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_349.3" BETYPE="IDREF" FILEID="alto_00175_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b348-9" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_348.9" BETYPE="IDREF" FILEID="alto_00174_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b348-8" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_348.8" BETYPE="IDREF" FILEID="alto_00174_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AqD" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_348.10" BETYPE="IDREF" FILEID="alto_00174_1"/>
+            <area BEGIN="BL_348.11" BETYPE="IDREF" FILEID="alto_00174_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b347-10" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_347.9" BETYPE="IDREF" FILEID="alto_00174_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b348-11" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_348.13" BETYPE="IDREF" FILEID="alto_00174_1"/>
+            <area BEGIN="BL_349.1" BETYPE="IDREF" FILEID="alto_00175_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b348-10" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_348.12" BETYPE="IDREF" FILEID="alto_00174_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AWa" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_347.10" BETYPE="IDREF" FILEID="alto_00174_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b347-9" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_347.8" BETYPE="IDREF" FILEID="alto_00174_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b349-5" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_349.5" BETYPE="IDREF" FILEID="alto_00175_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b349-4" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_349.4" BETYPE="IDREF" FILEID="alto_00175_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b348-7" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_348.7" BETYPE="IDREF" FILEID="alto_00174_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b349-6" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_349.6" BETYPE="IDREF" FILEID="alto_00175_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b349-7" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_349.7" BETYPE="IDREF" FILEID="alto_00175_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ABmk" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_347.12" BETYPE="IDREF" FILEID="alto_00174_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b347-11" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_347.11" BETYPE="IDREF" FILEID="alto_00174_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

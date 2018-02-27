@@ -1,0 +1,508 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0074" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Drennen v. Ross">Drennen adx. vs. Ross et al.</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 375</citation>
+          <decisiondate>1860-07</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00189_0" MIMETYPE="image/tiff" CHECKSUM="65a46bedce9e24a8c9a294edd560003b" CHECKSUMTYPE="MD5" SIZE="31548">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00189_0.tif"/>
+      </file>
+      <file ID="tiff_00189_1" MIMETYPE="image/tiff" CHECKSUM="a4aae26f6dfcefe6ae17c2b53e93e22b" CHECKSUMTYPE="MD5" SIZE="43794">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00189_1.tif"/>
+      </file>
+      <file ID="tiff_00190_0" MIMETYPE="image/tiff" CHECKSUM="93ca760a203b2ca3df251d3500223c6c" CHECKSUMTYPE="MD5" SIZE="49202">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00190_0.tif"/>
+      </file>
+      <file ID="tiff_00190_1" MIMETYPE="image/tiff" CHECKSUM="c11664562a6f945217123bfde729b9cb" CHECKSUMTYPE="MD5" SIZE="38106">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00190_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00189_0" MIMETYPE="image/jp2" CHECKSUM="c68b87a7849fa93dc511d38fee5202e2" CHECKSUMTYPE="MD5" SIZE="2594660">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00189_0.jp2"/>
+      </file>
+      <file ID="jp2_00189_1" MIMETYPE="image/jp2" CHECKSUM="bdcc48bc60220589477f171630867424" CHECKSUMTYPE="MD5" SIZE="2575388">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00189_1.jp2"/>
+      </file>
+      <file ID="jp2_00190_0" MIMETYPE="image/jp2" CHECKSUM="febe2fe35d6ade79d31e8dc7d140c4a2" CHECKSUMTYPE="MD5" SIZE="2716905">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00190_0.jp2"/>
+      </file>
+      <file ID="jp2_00190_1" MIMETYPE="image/jp2" CHECKSUM="29fbc8e1b42e545069c73168b0a19344" CHECKSUMTYPE="MD5" SIZE="2588155">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00190_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00189_0" MIMETYPE="text/xml" CHECKSUM="f14f8bf1540ef95c4b5190716a63a92f" CHECKSUMTYPE="MD5" SIZE="64533">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00189_0.xml"/>
+      </file>
+      <file ID="alto_00189_1" MIMETYPE="text/xml" CHECKSUM="c9305f8081c4e64de716bcc287c00909" CHECKSUMTYPE="MD5" SIZE="87058">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00189_1.xml"/>
+      </file>
+      <file ID="alto_00190_0" MIMETYPE="text/xml" CHECKSUM="9259f0f0226dd793c5bb3b899d5a150a" CHECKSUMTYPE="MD5" SIZE="94375">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00190_0.xml"/>
+      </file>
+      <file ID="alto_00190_1" MIMETYPE="text/xml" CHECKSUM="a78a8d11248941132b2b27158bea2aa1" CHECKSUMTYPE="MD5" SIZE="70920">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00190_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0074" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="378" firstpage="375">
+              <parties id="b377-7" pgmap="377">Drennen adx. vs. Ross et al.</parties>
+              <attorneys id="b377-11" pgmap="377">Fowler &amp; Stillwell, for the plaintiff.</attorneys>
+              <attorneys id="b378-6" pgmap="378">Walker &amp; Green, for the defendants,</attorneys>
+              <summary id="b377-9" pgmap="377">Writ of Error to Crawford Circuit Court.</summary>
+              <summary id="b377-10" pgmap="377">Hon. Felix I. Batson, Circuit Judge,</summary>
+              <summary id="b377-12" pgmap="377(10) 378(25)">Under the facts Rachel Ross could not defend against the title of Drennen, or set up title in a third person. 3 Wash. G. G. Rep. 547; 3 Caines’ Cas. 188; 10 J. R. 222.</summary>
+              <summary id="b378-5" pgmap="378">The life estate reserved was subject to sale, and the rights of her creditors could not be defeated by the introduction of Benoni. He was a mere tenant of hers.</summary>
+              <summary id="b378-7" pgmap="378">Contended that the legal estate in the land is in Benoni Ross, there being no proof that the deed of gift to him from Rachel Ross was fraudulent as to creditors (Smith vs. Tell, 3 Eng. 370; 8 Wheat S. G. Rep. 229; 8 B. Mon. 47): and that the plaintiff’s action was barred by the Act of 4th January, 1851.</summary>
+              <headnotes id="b377-8" pgmap="377">A deed of gift of lands by a mother to her son, but reserving to herself the privilege of living on the land and cultivating so much thereof as she shall think proper during her natural life, for the use and benefit of her own family, vests in the soil the legal estate in the land, in the absence of fraud or proof that the mother was insolvent or indebted at the time; and there is no estate in the mother, under the reservation in the deed, subject to execution and sale for her subsequent debts.</headnotes>
+              <opinion type="majority">
+                <author id="b378-8" pgmap="378">Mr. Justice Fairchild</author>
+                <p id="Aua" pgmap="378">delivered the opinion of the Court.</p>
+                <p id="b378-9" pgmap="378">On the 14th of July, 1843, Rachel Ross, in consideration of natural love and affection, conveyed the west half of the north­west quarter of section thirty-five, and the east half of the north-east quarter of section thirty-four, in township ten north, of range thirty-one west, in Crawford county, to her son Benoni Ross, then thirteen years old, which deed was acknowledged and recorded on the 25th of the same month. There is no proof that Mrs. Ross was insolvent, or indebted at the time she made the deed of gift.</p>
+                <p id="b378-10" pgmap="378">On the 15th of July, 1844, Jesse Turner &amp; George W. Pas­chal, as administrators of David Thompson, for the use and benefit of John Drennen, obtained judgment against Mrs. Ross? on which judgment an execution was issued and levied upon the lands mentioned, as the lands of Rachel Ross, and the lands were sold to John Drennen under the execution, who obtained a sheriff’s deed for them on the 23d of August, 1847.</p>
+                <p id="b378-11" pgmap="378">John Drennen having died, his administratrix, the plaintiff in error, brought an action of ejectment for the lands against Rachel Ross, in the Circuit Court of Crawford county.</p>
+                <p id="b378-12" pgmap="378(24) 379(24)">On the application of Rachel Ross and of Benoni Ross, the latter was made a co-defendant to the suit; a trial was had by the court sitting as a jury; the finding and judgment -were for the defendants, and the plaintiff below is now the plaintiff in error.</p>
+                <p id="b379-5" pgmap="379">Rachel Ross was in possession of the lands when judgment was rendered against her, and continued so till the beginning of this suit, upon the 25th of March, 1857. She had the man­agement of the lands and paid the taxes on them till and includ­ing 1854, when Benoni Ross assumed the control of the lands, and had since that time paid their taxes.</p>
+                <p id="b379-6" pgmap="379">From and before the time of the deed of gift to him, Benoni Ross had lived upon the lands with his mother, and had culti­vated them since he was twenty years old.</p>
+                <p id="b379-7" pgmap="379">Upon these facts and upon a reservation contained in the deed of gift, was the finding of the court had, and its judgment rendered: when the plaintiff below moved for a new trial because the finding and judgment of the court were against law and evidence, which motion was overruled.</p>
+                <p id="b379-8" pgmap="379">No fraud being imputable to Rachel Ross in this proceeding, and on the facts set forth, by her deed of gift to Benoni Ross she had parted with her interest in the lands in suit, and had nothing to be bound by the judgment, nothing to be seized and sold under the execution, unless from the clause in the deed, which is relied on by the plaintiff in error, as reserving to her a life interest or estate in the lands. That clause reads thus— “ Reserving to myself the privilege of living as I now do, on the said premises, and cultivating and using so much thereof as I shall think proper and right during my natural life, for the use and benefit of my own family.”</p>
+                <p id="b379-9" pgmap="379">No estate was reserved by the above clause to Mrs. Ross. The terms are too indefinite to mark the boundaries of any right to which she could be held, as one year she might wish to use one acre, and another year one hundred acres of the land, according as the benefit of her family would seem to be pro­moted.</p>
+                <p id="b379-10" pgmap="379(22) 380(70)">The privilege of cultivating any of the lands, or assuming control over them, was personal to her, and she might any time have done what she did after 1854 — leave the control of the whole to her son: it was not an interest that was transferable by herself, and if not to be alienated by her, the law could not sell it /rom her; and her interest, such as it was, was not reserved for herself, for her own individual use and gratifica­tion, but for the benefit of her family.</p>
+                <p id="b380-6" pgmap="380">If Drennen, by his deed, had acquired any legal title, it was only to hold so much of the land as Mrs. Ross would or could have had, and for the benefit of her family, as she alone was authorized to hold it. That interest is too uncertain to be carved out of the lands, is not of a kind subject to voluntary or compulsory sale, would have ceased the moment the plain­tiff in error had put in force a judgment which she might have obtained in this suit.</p>
+                <p id="b380-7" pgmap="380">An examination of the technical rules of the effect of reserv­ing clauses in deeds conveying away the entile estate in lands, would have induced further reasons against the validity of the clause to reserve an estate in Mrs. Ross, but not being able in the most inartificial and general meaning of the terms to sus­tain the position that Mrs. Ross had any estate in the lands vendible under execution, no reference has been made to those rules.</p>
+                <p id="b380-8" pgmap="380">The judgment of the Circuit Court of Crawford county is affirmed, because the lands in question were the property of Benoni Ross; hence the points made as between Drennen and Rachel Ross, and the statutes of limitations relied on by both defendants have not been noticed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="377" ORDERLABEL="375" TYPE="page">
+        <fptr FILEID="tiff_00189_0"/>
+        <fptr FILEID="jp2_00189_0"/>
+        <fptr FILEID="alto_00189_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_377.3" BETYPE="IDREF" FILEID="alto_00189_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_377.2" BETYPE="IDREF" FILEID="alto_00189_0"/>
+              <area BEGIN="BL_377.4" BETYPE="IDREF" FILEID="alto_00189_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_377.7" BETYPE="IDREF" FILEID="alto_00189_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="378" ORDERLABEL="376" TYPE="page">
+        <fptr FILEID="tiff_00189_1"/>
+        <fptr FILEID="jp2_00189_1"/>
+        <fptr FILEID="alto_00189_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_378.2" BETYPE="IDREF" FILEID="alto_00189_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_378.3" BETYPE="IDREF" FILEID="alto_00189_1"/>
+              <area BEGIN="BL_378.4" BETYPE="IDREF" FILEID="alto_00189_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="379" ORDERLABEL="377" TYPE="page">
+        <fptr FILEID="tiff_00190_0"/>
+        <fptr FILEID="jp2_00190_0"/>
+        <fptr FILEID="alto_00190_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_379.3" BETYPE="IDREF" FILEID="alto_00190_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_379.2" BETYPE="IDREF" FILEID="alto_00190_0"/>
+              <area BEGIN="BL_379.4" BETYPE="IDREF" FILEID="alto_00190_0"/>
+              <area BEGIN="BL_379.11" BETYPE="IDREF" FILEID="alto_00190_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="380" ORDERLABEL="378" TYPE="page">
+        <fptr FILEID="tiff_00190_1"/>
+        <fptr FILEID="jp2_00190_1"/>
+        <fptr FILEID="alto_00190_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_380.2" BETYPE="IDREF" FILEID="alto_00190_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_380.3" BETYPE="IDREF" FILEID="alto_00190_1"/>
+              <area BEGIN="BL_380.4" BETYPE="IDREF" FILEID="alto_00190_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b378-7" BETYPE="IDREF" FILEID="casebody_0074"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_378.7" BETYPE="IDREF" FILEID="alto_00189_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aua" BETYPE="IDREF" FILEID="casebody_0074"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_378.9" BETYPE="IDREF" FILEID="alto_00189_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b379-10" BETYPE="IDREF" FILEID="casebody_0074"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_379.10" BETYPE="IDREF" FILEID="alto_00190_0"/>
+            <area BEGIN="BL_380.1" BETYPE="IDREF" FILEID="alto_00190_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b377-7" BETYPE="IDREF" FILEID="casebody_0074"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_377.8" BETYPE="IDREF" FILEID="alto_00189_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b380-6" BETYPE="IDREF" FILEID="casebody_0074"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_380.5" BETYPE="IDREF" FILEID="alto_00190_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b380-8" BETYPE="IDREF" FILEID="casebody_0074"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_380.7" BETYPE="IDREF" FILEID="alto_00190_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b378-12" BETYPE="IDREF" FILEID="casebody_0074"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_378.13" BETYPE="IDREF" FILEID="alto_00189_1"/>
+            <area BEGIN="BL_379.1" BETYPE="IDREF" FILEID="alto_00190_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b378-10" BETYPE="IDREF" FILEID="casebody_0074"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_378.11" BETYPE="IDREF" FILEID="alto_00189_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b378-11" BETYPE="IDREF" FILEID="casebody_0074"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_378.12" BETYPE="IDREF" FILEID="alto_00189_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b380-7" BETYPE="IDREF" FILEID="casebody_0074"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_380.6" BETYPE="IDREF" FILEID="alto_00190_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b377-9" BETYPE="IDREF" FILEID="casebody_0074"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_377.10" BETYPE="IDREF" FILEID="alto_00189_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b377-8" BETYPE="IDREF" FILEID="casebody_0074"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_377.9" BETYPE="IDREF" FILEID="alto_00189_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b378-8" BETYPE="IDREF" FILEID="casebody_0074"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_378.8" BETYPE="IDREF" FILEID="alto_00189_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b378-9" BETYPE="IDREF" FILEID="casebody_0074"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_378.10" BETYPE="IDREF" FILEID="alto_00189_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b379-9" BETYPE="IDREF" FILEID="casebody_0074"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_379.9" BETYPE="IDREF" FILEID="alto_00190_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b379-8" BETYPE="IDREF" FILEID="casebody_0074"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_379.8" BETYPE="IDREF" FILEID="alto_00190_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b377-11" BETYPE="IDREF" FILEID="casebody_0074"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_377.12" BETYPE="IDREF" FILEID="alto_00189_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b377-10" BETYPE="IDREF" FILEID="casebody_0074"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_377.11" BETYPE="IDREF" FILEID="alto_00189_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b379-5" BETYPE="IDREF" FILEID="casebody_0074"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_379.5" BETYPE="IDREF" FILEID="alto_00190_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b379-7" BETYPE="IDREF" FILEID="casebody_0074"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_379.7" BETYPE="IDREF" FILEID="alto_00190_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b379-6" BETYPE="IDREF" FILEID="casebody_0074"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_379.6" BETYPE="IDREF" FILEID="alto_00190_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b378-5" BETYPE="IDREF" FILEID="casebody_0074"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_378.5" BETYPE="IDREF" FILEID="alto_00189_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b378-6" BETYPE="IDREF" FILEID="casebody_0074"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_378.6" BETYPE="IDREF" FILEID="alto_00189_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b377-12" BETYPE="IDREF" FILEID="casebody_0074"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_377.13" BETYPE="IDREF" FILEID="alto_00189_0"/>
+            <area BEGIN="BL_378.1" BETYPE="IDREF" FILEID="alto_00189_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

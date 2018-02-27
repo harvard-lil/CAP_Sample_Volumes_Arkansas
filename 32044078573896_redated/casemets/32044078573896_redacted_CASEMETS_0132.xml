@@ -1,0 +1,613 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0132" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Farr v. Farr">Farr vs. Farr</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 573</citation>
+          <decisiondate>1860-10</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00288_0" MIMETYPE="image/tiff" CHECKSUM="7bf613ced4cb15653f9fbdb6ddbe0003" CHECKSUMTYPE="MD5" SIZE="31142">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00288_0.tif"/>
+      </file>
+      <file ID="tiff_00288_1" MIMETYPE="image/tiff" CHECKSUM="0f521fd5661b3e4ffdaec5cc4b63910c" CHECKSUMTYPE="MD5" SIZE="43770">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00288_1.tif"/>
+      </file>
+      <file ID="tiff_00289_0" MIMETYPE="image/tiff" CHECKSUM="74c93d45f1cfac476ce3503e60060e47" CHECKSUMTYPE="MD5" SIZE="48172">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00289_0.tif"/>
+      </file>
+      <file ID="tiff_00289_1" MIMETYPE="image/tiff" CHECKSUM="a1f1483c64530e652f4781fb98704e32" CHECKSUMTYPE="MD5" SIZE="46272">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00289_1.tif"/>
+      </file>
+      <file ID="tiff_00290_0" MIMETYPE="image/tiff" CHECKSUM="f0513f3f549d377f80c13ca25df7b183" CHECKSUMTYPE="MD5" SIZE="30810">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00290_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00288_0" MIMETYPE="image/jp2" CHECKSUM="1f5e2e9e3175ce3e7c5a87def6423924" CHECKSUMTYPE="MD5" SIZE="2452958">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00288_0.jp2"/>
+      </file>
+      <file ID="jp2_00288_1" MIMETYPE="image/jp2" CHECKSUM="1edaadac58bf0f463cb88d342fd5aa15" CHECKSUMTYPE="MD5" SIZE="2519493">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00288_1.jp2"/>
+      </file>
+      <file ID="jp2_00289_0" MIMETYPE="image/jp2" CHECKSUM="58f32afa6941c86d3e1802736d04cbd0" CHECKSUMTYPE="MD5" SIZE="2574958">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00289_0.jp2"/>
+      </file>
+      <file ID="jp2_00289_1" MIMETYPE="image/jp2" CHECKSUM="e6c49e77cb7dd44f0aac17892e45bc0e" CHECKSUMTYPE="MD5" SIZE="2533940">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00289_1.jp2"/>
+      </file>
+      <file ID="jp2_00290_0" MIMETYPE="image/jp2" CHECKSUM="3163a3155b633203fe6d84f388a0dae4" CHECKSUMTYPE="MD5" SIZE="2429628">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00290_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00288_0" MIMETYPE="text/xml" CHECKSUM="cc7397b59dadd4a7a753c6c239a14f6c" CHECKSUMTYPE="MD5" SIZE="64263">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00288_0.xml"/>
+      </file>
+      <file ID="alto_00288_1" MIMETYPE="text/xml" CHECKSUM="e52f6cf9b4af640afad4ee2d28ecfe0f" CHECKSUMTYPE="MD5" SIZE="85754">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00288_1.xml"/>
+      </file>
+      <file ID="alto_00289_0" MIMETYPE="text/xml" CHECKSUM="24041b5e6b0bd55d6cff49407e11320a" CHECKSUMTYPE="MD5" SIZE="87724">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00289_0.xml"/>
+      </file>
+      <file ID="alto_00289_1" MIMETYPE="text/xml" CHECKSUM="57e8f90af028c3453a1d3d119d5c124e" CHECKSUMTYPE="MD5" SIZE="91623">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00289_1.xml"/>
+      </file>
+      <file ID="alto_00290_0" MIMETYPE="text/xml" CHECKSUM="a09f31d7db9e4d021152862fd3224969" CHECKSUMTYPE="MD5" SIZE="60108">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00290_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0132" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="577" firstpage="573">
+              <parties id="b575-8" pgmap="575">Farr vs. Farr.</parties>
+              <attorneys id="b576-10" pgmap="576">Watkins &amp; Gallagher, for the appellant.</attorneys>
+              <attorneys id="b576-11" pgmap="576">Flanagin, for the appellee.</attorneys>
+              <summary id="b576-8" pgmap="576">Appeal from Montgomery Circuit Court.</summary>
+              <summary id="b576-9" pgmap="576">Hon. Lbn B. Green, Circuit Judge.</summary>
+              <headnotes id="b575-9" pgmap="575">An objection to the declaration in an action of unlawful detainer, for insufficiency in describing the property, cannot avail the defendant after trial upon the general issue — there being a good cause of action defectively stated, the pleading is cured by the statute: sec. 119, ch. 126, Eng. Dig.</headnotes>
+              <headnotes id="b575-10" pgmap="575(46) 576(22)">The demand in writing of possession of property claimed, provided for in the 3á section of chap. 72, Gould’s Dig. is not required to be in any particular form, and though it may not be very definite in the description of the property, it will be sufficient if, in connection with other evidence, it appears that the defendant knew or might have known what premises were alluded to.</headnotes>
+              <headnotes id="b576-6" pgmap="576">The commissioners who have assigned dower to a widow will not be allowed to prove ^.different boundary from that stated in their report to the Probate Court, in a pro­ceeding by the widow for the recovery of the dower assigned her.</headnotes>
+              <headnotes id="A7u" pgmap="576">The county surveyor, who has surveyed the lands assigned to the widow for her dower, according to the report of the commissioners, is a competent witness to prove what lands are included in the lines designated in such report — though such survey may not have been recorded, nor notice given to the party in possession.</headnotes>
+              <opinion type="majority">
+                <author id="b576-12" pgmap="576">Mr. Justice Fairchild</author>
+                <p id="A7x" pgmap="576">delivered the opinion of the court.</p>
+                <p id="b576-13" pgmap="576">The objection made by the appellant to the judgment, be­cause the declaration does not contain a particular description of the land sued for, cannot avail him, after trial upon the general issue, in an action of unlawful detainer.</p>
+                <p id="b576-14" pgmap="576">If the description was comprehensive enough to include the land about which testimony was given on the trial, the defend­ant, after an unfavorable verdict, cannot object to the want of particularity of the description of the premises. By pleading the general issue, and going to trial thereon, he will be held to be informed of the subject of the suit, and to have waived the exact statement thereof, to which he might have insisted by demurrer to the declaration — or, to be more correct, the insuffi­cient pleading that the declaration undoubtedly is, is not a cause for a judgment to be arrested and stayed after verdict rendered in the cause.</p>
+                <p id="b576-15" pgmap="576(39) 577(36)">Sec. 119 of ch. 126 of English’s Digest disallows a judgment to be stayed or arrested after verdict, and after a contest upon trial, in these, among other instances: “ Fifth, for any mis­pleading, miscontinuance, discontinuance, insufficient pleading, or misjoinder of issue.” “ Fourteenth, for any other default, or negligence of any clerk or officer of the court, or of the par­ties, their counsellors or attorneys, by which.neither party shall have been prejudiced.”</p>
+                <p id="b577-6" pgmap="577">In this case, the declaration is but an insufficient pleading in describing the property sued for too generally; it contains a defective statement of a good cause of action. The lapd detained is described as being in Montgomery county, in Caddo township, as part of David Farr’s farm; and if it had gone a little further by describing it, as on the western part of the assignment of dower made to the plaintiff, between the line designated by the commissioners, as extending from the north­west corner of the peach orchard south to the Caddo river, and the old division fence between the same objects, the description would have been good.</p>
+                <p id="b577-7" pgmap="577">The declaration not so stating, was an insufficient pleading under the fifth item of the statute; was'a default and negligence of the plaintiff’s attorney, but if the statute be our law," this insufficiency and default were cured by defendant’s pleading to the merits, by the verdict that was rendered by the jury, by the fact, that is apparent from the transcript, that a fair trial was had between the parties, upon a subject matter of difference, to which they well knew their controversy related, and by which neither party was prejudiced.</p>
+                <p id="b577-8" pgmap="577">The plaintiff below, having had delivered to her the premises she claimed, and which the declaration should have described, there was no occasion, in rendering the judgment for her, for describing the property, but she might only take judgment for costs, so that there was no necessity for the property to be so described in the declaration, as to enable a correct description of it; to be contained in the judgment. Sec. 15, ch. 71 Eng. Big.</p>
+                <p id="b577-9" pgmap="577">If our statute of amendments is ever to receive application, it ought to have it in this case; as the alleged errors fall clearly within the fifth and fourteenth specifications of matters that are not to impair a judgment rendered upon a verdict.</p>
+                <p id="b578-5" pgmap="578">The defect complained of was one that did not alter the issue between the parties at the trial, did not affect the right and justice of the matter of the suit, and was properly by the court below, in refusing a new trial, considered to be supplied and amended there, and if it had not been so held there, it would be the duty of this court so to decide. Sec. 120, ch. 126,, Eng. Dig.</p>
+                <p id="b578-6" pgmap="578">The appellant and appellee both claimed the right of posses­sion to a piece of land, part of David Farr’s farm, extending from the north-west corner of the peach orchard on the north, to the Caddo river on the south, and there is no proof that they had any difference about any other piece of land. It is in proof that Thomas Farr had this land fenced in after it had been assigned as dower to Elizabeth Farr, and in her demand she refers to his having fenced in her premises.</p>
+                <p id="b578-7" pgmap="578">Although the demand of possession is not very definite, this is sufficient, in connection with the other evidence in the case, to show that Thomas Farr did know, or might have known, what premises were alluded to in the demand of Mrs. Farr.</p>
+                <p id="b578-8" pgmap="578">The demand in writing, provided for in the 3d section of ch. 72, of Gould's Dig., is not required to be in any particular form: necessarily it must be often prepared by the plaintiff, or by some person unskillful in draughting legal papers, and only such a demand in writing should be required, as will direct the attention of the defendant to the place demanded.</p>
+                <p id="b578-9" pgmap="578">We have no doubt that Thomas Farr was well apprised what land he was notified by the demand to remove his fence from, and shall not disturb the judgment for the alleged defect of t íe demand.</p>
+                <p id="b578-10" pgmap="578">The testimony of Anderson, one of the commissioners that assigned dower to Mrs. Farr, showing a different line to the assignment than that mentioned in the report to the Probate Court, was properly excluded from the jury, and the offer to prove the same fact by the other commissioners was properly refused.</p>
+                <p id="b578-11" pgmap="578(12) 579(18)">In Biscoe vs. Coulter, 18 Ark. 437, this sort of testimony was held to be of little credibility, though the incompetency of the witness was not asserted by this court.</p>
+                <p id="Av4" pgmap="579">Whatever may be said of the personal competency of the collector in that case, or of the commissioners in this case, the subject matter of the testimony ought to be held to be improper when collaterally introduced.</p>
+                <p id="b579-7" pgmap="579">The report of the commissioners clearly indicated the wes­tern line of their assignment to be due south from the north­west corner of the peach orchard to Caddo river, and they must not then be permitted to re-locate the boundary, by showing, by word of mouth, that the division fence was such boundary.</p>
+                <p id="b579-8" pgmap="579">The testimony of Burke, the county surveyor, was proper to go to the jury, to show what land was included in the assign­ment of dower between the points stated by the report of the commissioners.</p>
+                <p id="b579-9" pgmap="579">Any person who could tell what land would be east of the west line indicated by the commissioners, was a competent witness, and the testimony could be of no less value, that the line was traced by instruments, and by a county surveyor.</p>
+                <p id="b579-10" pgmap="579">The survey was not made under the 6th sec. of ch 45 of Gould's Digest, and was not required to be recorded, or made upon notice to Thomas Farr.</p>
+                <p id="b579-11" pgmap="579">Other objections are made to the judgment, whose legality or reasonableness is not perceptible to us; and it is affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="575" ORDERLABEL="573" TYPE="page">
+        <fptr FILEID="tiff_00288_0"/>
+        <fptr FILEID="jp2_00288_0"/>
+        <fptr FILEID="alto_00288_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_575.2" BETYPE="IDREF" FILEID="alto_00288_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_575.1" BETYPE="IDREF" FILEID="alto_00288_0"/>
+              <area BEGIN="BL_575.3" BETYPE="IDREF" FILEID="alto_00288_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_575.7" BETYPE="IDREF" FILEID="alto_00288_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="576" ORDERLABEL="574" TYPE="page">
+        <fptr FILEID="tiff_00288_1"/>
+        <fptr FILEID="jp2_00288_1"/>
+        <fptr FILEID="alto_00288_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_576.2" BETYPE="IDREF" FILEID="alto_00288_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_576.3" BETYPE="IDREF" FILEID="alto_00288_1"/>
+              <area BEGIN="BL_576.4" BETYPE="IDREF" FILEID="alto_00288_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="577" ORDERLABEL="575" TYPE="page">
+        <fptr FILEID="tiff_00289_0"/>
+        <fptr FILEID="jp2_00289_0"/>
+        <fptr FILEID="alto_00289_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_577.3" BETYPE="IDREF" FILEID="alto_00289_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_577.2" BETYPE="IDREF" FILEID="alto_00289_0"/>
+              <area BEGIN="BL_577.4" BETYPE="IDREF" FILEID="alto_00289_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="578" ORDERLABEL="576" TYPE="page">
+        <fptr FILEID="tiff_00289_1"/>
+        <fptr FILEID="jp2_00289_1"/>
+        <fptr FILEID="alto_00289_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_578.1" BETYPE="IDREF" FILEID="alto_00289_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_578.2" BETYPE="IDREF" FILEID="alto_00289_1"/>
+              <area BEGIN="BL_578.3" BETYPE="IDREF" FILEID="alto_00289_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="579" ORDERLABEL="577" TYPE="page">
+        <fptr FILEID="tiff_00290_0"/>
+        <fptr FILEID="jp2_00290_0"/>
+        <fptr FILEID="alto_00290_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_579.3" BETYPE="IDREF" FILEID="alto_00290_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_579.2" BETYPE="IDREF" FILEID="alto_00290_0"/>
+              <area BEGIN="BL_579.4" BETYPE="IDREF" FILEID="alto_00290_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b576-6" BETYPE="IDREF" FILEID="casebody_0132"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_576.5" BETYPE="IDREF" FILEID="alto_00288_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b579-10" BETYPE="IDREF" FILEID="casebody_0132"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_579.9" BETYPE="IDREF" FILEID="alto_00290_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b578-8" BETYPE="IDREF" FILEID="casebody_0132"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_578.7" BETYPE="IDREF" FILEID="alto_00289_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b578-9" BETYPE="IDREF" FILEID="casebody_0132"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_578.8" BETYPE="IDREF" FILEID="alto_00289_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b578-6" BETYPE="IDREF" FILEID="casebody_0132"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_578.5" BETYPE="IDREF" FILEID="alto_00289_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b578-7" BETYPE="IDREF" FILEID="casebody_0132"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_578.6" BETYPE="IDREF" FILEID="alto_00289_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b578-5" BETYPE="IDREF" FILEID="casebody_0132"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_578.4" BETYPE="IDREF" FILEID="alto_00289_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b576-8" BETYPE="IDREF" FILEID="casebody_0132"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_576.7" BETYPE="IDREF" FILEID="alto_00288_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b576-9" BETYPE="IDREF" FILEID="casebody_0132"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_576.8" BETYPE="IDREF" FILEID="alto_00288_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b579-9" BETYPE="IDREF" FILEID="casebody_0132"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_579.8" BETYPE="IDREF" FILEID="alto_00290_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b579-8" BETYPE="IDREF" FILEID="casebody_0132"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_579.7" BETYPE="IDREF" FILEID="alto_00290_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b579-11" BETYPE="IDREF" FILEID="casebody_0132"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_579.10" BETYPE="IDREF" FILEID="alto_00290_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A7u" BETYPE="IDREF" FILEID="casebody_0132"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_576.6" BETYPE="IDREF" FILEID="alto_00288_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Av4" BETYPE="IDREF" FILEID="casebody_0132"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_579.5" BETYPE="IDREF" FILEID="alto_00290_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A7x" BETYPE="IDREF" FILEID="casebody_0132"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_576.12" BETYPE="IDREF" FILEID="alto_00288_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b576-14" BETYPE="IDREF" FILEID="casebody_0132"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_576.14" BETYPE="IDREF" FILEID="alto_00288_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b576-15" BETYPE="IDREF" FILEID="casebody_0132"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_576.15" BETYPE="IDREF" FILEID="alto_00288_1"/>
+            <area BEGIN="BL_577.1" BETYPE="IDREF" FILEID="alto_00289_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b576-12" BETYPE="IDREF" FILEID="casebody_0132"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_576.11" BETYPE="IDREF" FILEID="alto_00288_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b576-13" BETYPE="IDREF" FILEID="casebody_0132"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_576.13" BETYPE="IDREF" FILEID="alto_00288_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b576-10" BETYPE="IDREF" FILEID="casebody_0132"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_576.9" BETYPE="IDREF" FILEID="alto_00288_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b576-11" BETYPE="IDREF" FILEID="casebody_0132"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_576.10" BETYPE="IDREF" FILEID="alto_00288_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b579-7" BETYPE="IDREF" FILEID="casebody_0132"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_579.6" BETYPE="IDREF" FILEID="alto_00290_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b578-10" BETYPE="IDREF" FILEID="casebody_0132"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_578.9" BETYPE="IDREF" FILEID="alto_00289_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b578-11" BETYPE="IDREF" FILEID="casebody_0132"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_578.10" BETYPE="IDREF" FILEID="alto_00289_1"/>
+            <area BEGIN="BL_579.1" BETYPE="IDREF" FILEID="alto_00290_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b577-9" BETYPE="IDREF" FILEID="casebody_0132"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_577.8" BETYPE="IDREF" FILEID="alto_00289_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b577-8" BETYPE="IDREF" FILEID="casebody_0132"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_577.7" BETYPE="IDREF" FILEID="alto_00289_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b575-9" BETYPE="IDREF" FILEID="casebody_0132"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_575.9" BETYPE="IDREF" FILEID="alto_00288_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b575-8" BETYPE="IDREF" FILEID="casebody_0132"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_575.8" BETYPE="IDREF" FILEID="alto_00288_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b575-10" BETYPE="IDREF" FILEID="casebody_0132"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_575.10" BETYPE="IDREF" FILEID="alto_00288_0"/>
+            <area BEGIN="BL_576.1" BETYPE="IDREF" FILEID="alto_00288_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b577-7" BETYPE="IDREF" FILEID="casebody_0132"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_577.6" BETYPE="IDREF" FILEID="alto_00289_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b577-6" BETYPE="IDREF" FILEID="casebody_0132"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_577.5" BETYPE="IDREF" FILEID="alto_00289_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

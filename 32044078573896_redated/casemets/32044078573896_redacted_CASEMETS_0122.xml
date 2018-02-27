@@ -1,0 +1,448 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0122" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="State v. Richard">The State vs. Richard et al.</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 515</citation>
+          <decisiondate>1860-10</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00259_0" MIMETYPE="image/tiff" CHECKSUM="c6fea2ab8ee0ad0d48b344d6be76cea3" CHECKSUMTYPE="MD5" SIZE="20048">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00259_0.tif"/>
+      </file>
+      <file ID="tiff_00259_1" MIMETYPE="image/tiff" CHECKSUM="ca2ff1e3f4775b8c3f9e26a90e04e306" CHECKSUMTYPE="MD5" SIZE="47332">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00259_1.tif"/>
+      </file>
+      <file ID="tiff_00260_0" MIMETYPE="image/tiff" CHECKSUM="952db44f974129863a90a5e8c82f31b1" CHECKSUMTYPE="MD5" SIZE="50294">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00260_0.tif"/>
+      </file>
+      <file ID="tiff_00260_1" MIMETYPE="image/tiff" CHECKSUM="46c87b628f965651a04037db3b40991e" CHECKSUMTYPE="MD5" SIZE="39630">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00260_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00259_0" MIMETYPE="image/jp2" CHECKSUM="1d60d6191fd50a9f28bb67f870e3324c" CHECKSUMTYPE="MD5" SIZE="2312578">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00259_0.jp2"/>
+      </file>
+      <file ID="jp2_00259_1" MIMETYPE="image/jp2" CHECKSUM="f6518bb0286f48ac46e95385460ff154" CHECKSUMTYPE="MD5" SIZE="2478416">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00259_1.jp2"/>
+      </file>
+      <file ID="jp2_00260_0" MIMETYPE="image/jp2" CHECKSUM="59f8c21886a80fb7281478aa3c7cd8a8" CHECKSUMTYPE="MD5" SIZE="2461012">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00260_0.jp2"/>
+      </file>
+      <file ID="jp2_00260_1" MIMETYPE="image/jp2" CHECKSUM="51451fa10a3e22a0d6b1a4ede9566d58" CHECKSUMTYPE="MD5" SIZE="2414646">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00260_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00259_0" MIMETYPE="text/xml" CHECKSUM="1f945df0c4a007fe1606d0c2a0b5b2e0" CHECKSUMTYPE="MD5" SIZE="38202">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00259_0.xml"/>
+      </file>
+      <file ID="alto_00259_1" MIMETYPE="text/xml" CHECKSUM="dd53ef2f3f61d47e4e9a3e63fcbebdef" CHECKSUMTYPE="MD5" SIZE="91739">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00259_1.xml"/>
+      </file>
+      <file ID="alto_00260_0" MIMETYPE="text/xml" CHECKSUM="58ecfc2739cb1eb60ffe6c2c63a0c8c7" CHECKSUMTYPE="MD5" SIZE="83813">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00260_0.xml"/>
+      </file>
+      <file ID="alto_00260_1" MIMETYPE="text/xml" CHECKSUM="f25489ede13746d6ad0f95576b81e7c3" CHECKSUMTYPE="MD5" SIZE="73294">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00260_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0122" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="518" firstpage="515">
+              <parties id="b517-6" pgmap="517">The State vs. Richard et al.</parties>
+              <attorneys id="b517-10" pgmap="517">S. II. Hempstead, Solicitor General, for the appellant.</attorneys>
+              <attorneys id="b518-6" pgmap="518">Garland for appellees.</attorneys>
+              <summary id="b517-8" pgmap="517">Appeal from Pulaski Circuit Court.</summary>
+              <summary id="b517-9" pgmap="517">Hon. John J. Clendenin, Circuit Judge.</summary>
+              <summary id="b517-11" pgmap="517(10) 518(229)">The deed from Lawson, sheriff, to Newton, executed in 1845, having been read, the plaintiff to show that it was wholly inoperative, offered the decree of the court of chancery annul­ling it for fraud, but which evidence was rejected on the ground that the decree had been appealed from. A decree, from which an appeal has been taken, if the recognizance prescribed by the statute has been entered into, cannot be executed until the appeal is determined; but it is still a binding decree, and the rights of the successful suitor are ascertained by it. It is, in the language of the law, a decree “ unreversed and not in any wise annulled or set aside.” The appeal does not nullify, but only suspends the decree — the execution of it is merely stayed, but the decree itself not annulled, and it must be regarded as importing absolute verity. Gould's Dig. 237; 3 Paige 382; 7 Paige 207, 609; 3 Dall. 87, 119. The case of Dixon vs. Wat­kins, 4 Eng. 139, 157, is decisive of the question; because unless the decree was void — unless it was nullified by the appeal, it was an effective and valid decree for all purposes, except the mere purpose of present execution, and consequently admissi­ble as evidence, to show that the title set up was really no title, and that the same identical deed had been annulled for fraud.</summary>
+              <summary id="b518-7" pgmap="518">The first question presented is, did the court err in refusing to permit the State to read the decree canceling Newton’s deed, from which Newton appealed ? I hold that the decree, by the appeal taken, was suspended — rested in abeyance — could not be made the foundation of any rights in an action, or read in evidence. See Dixon vs. Watkins, 4 Eng. 139; 6 Eng. 675; 7 Eng.^550; 3 Dallas 87; 1 Hayw. 361; 5 Mass. 376.</summary>
+              <headnotes id="b517-7" pgmap="517">In an action of ejectment, the defendant relied, for title to the premises, upon a purchase at execution sale against a former owner, and read the sheriff’s deed in evidence; the plaintiff then offered to read in evidence a decree, at the suit of the former owner, setting aside such sale and vacating the sheriff’s deed, etc., from which an appeal was then pending, and execution of the decree stayed by recogni­zance; Held, That it was competent to introduce the decree in evidence; but the safer practice would be to continue the case until the appeal was determined.</headnotes>
+              <opinion type="majority">
+                <author id="b518-8" pgmap="518">Mr. Chief Justice English</author>
+                <p id="APh" pgmap="518">delivered the opinion of the Court.</p>
+                <p id="b518-9" pgmap="518(50) 519(24)">The State brought an action of ejectment against Richard and Reardon for possession of the west half of lots 1, 2, and 3 in block 81 west of the Quapaw line in the city of Little Rock, on which the banking house of the Bank of the State is situated. On motion, the administrator of Thomas W. Newton deceased, under whom the defendants held possession of the property as tenants, was made a co-defendant.</p>
+                <p id="b519-4" pgmap="519">On the trial the State proved that the Bank purchased the lots of Cross, in the year 1337, and obtained his deed therefor; that they were sold under execution against the Bank, and pur­chased by Wm. G. Thornton in 1348, who conveyed them to the State.</p>
+                <p id="b519-5" pgmap="519">The defendant introduced a deed executed by Lawson, as sheriff of Pulaski county, to Thomas W. Newton, on the 22d of April, 1345, reciting a sale of the lots under an execution against the Bank, and purchase by Newton.</p>
+                <p id="b519-6" pgmap="519">The State, by way of rebutting testimony, and to show that the deed from Lawson to Newton was wholly inoperative, and of no effect, offered to read in evidence a final decree of the Chancery Court of Pulaski county, rendered on the 18th of August, 1358, in a case wherein the Bank of the Stale was complainant and Albert Pike, and the administrator, widow and heirs of Thomas W. Newton, deceased, were defendants, by which decree it was adjudged that the sale of the lots in ques­tion by Lawson, as sheriff, to Newton, and the deed aforesaid were irregular and fraudulent, and that they be canceled and set aside, and that the defendants therein forthwith surrender the possession of the lots to the Bank, and that they be forever enjoined from settingup, or claiming title to the lots under said sale and deed. From which decree the defendants therein appealed to the Supreme Court, and entered into recognizance to stay' execution thereof, and the appeal was pending in the appellate court.</p>
+                <p id="b519-7" pgmap="519">The defendants objected to the introduction of the decree, on the ground that it was suspended and inoperative by virtue of the appeal, etc., and the court sustained the objection, and excluded the decree.</p>
+                <p id="b519-8" pgmap="519">A verdict and judgment were rendered against the State, and she appealed.</p>
+                <p id="b519-9" pgmap="519(10) 520(131)">The appeal from the decree of the Pulaski Chancery Court did not have the effect to vacate the decree. If the appellants had not entered into recognizance, the decree might have been executed after the appeal, and while it was pending in the appellate court. The effect of the recognizance entered into by the appellants was merely to stay the execution of the decree until the appeal was determined. Notwithstanding the appeal and recognizance, the decree continued to be a subsist­ing, valid and unvacated decree until reversed by the appellate court. Gould's Dig. ch. 28, sec. 18 of Art. II, and sec. 146-7-8, Art. I; Caldwell Ex parte, 5 Ark. 390; Dixon vs. Watkins, 4 Eng. 139; Fowler et al. vs. Scott, 6 Eng. 175; Thomason vs. Kircheval, 10 Humph. 322; 2 Sneed 1; 26 Barbour's S. C. Rep. 58.</p>
+                <p id="b520-6" pgmap="520">Such being the condition of the decree, it would seem, upon principle, that the State had the right to introduce it as evidence in this case to prove that the deed from Lawson to Newton had been adjudged to be invalid, and vacated.</p>
+                <p id="b520-7" pgmap="520">It is true that the admission of a decree as evidence from which an appeal is pending, might operate to the prejudice of the party against whom it is admitted, if it should afterwards be reversed; and so its exclusion might prejudice the legal rights of the party, offering it in evidence, if it should subse­quently be affirmed. The safer practice would be for the court to continue the cause, upon the application of the party object­ing to the admission of the decree, until the appeal is deter­mined. Other questions have been raised and discussed in this case, but it is not deemed important to decide them.</p>
+                <p id="b520-8" pgmap="520">The judgment must be reversed and the cause remanded, etc.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="517" ORDERLABEL="515" TYPE="page">
+        <fptr FILEID="tiff_00259_0"/>
+        <fptr FILEID="jp2_00259_0"/>
+        <fptr FILEID="alto_00259_0"/>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_517.1" BETYPE="IDREF" FILEID="alto_00259_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="518" ORDERLABEL="516" TYPE="page">
+        <fptr FILEID="tiff_00259_1"/>
+        <fptr FILEID="jp2_00259_1"/>
+        <fptr FILEID="alto_00259_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_518.2" BETYPE="IDREF" FILEID="alto_00259_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_518.3" BETYPE="IDREF" FILEID="alto_00259_1"/>
+              <area BEGIN="BL_518.4" BETYPE="IDREF" FILEID="alto_00259_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="519" ORDERLABEL="517" TYPE="page">
+        <fptr FILEID="tiff_00260_0"/>
+        <fptr FILEID="jp2_00260_0"/>
+        <fptr FILEID="alto_00260_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_519.3" BETYPE="IDREF" FILEID="alto_00260_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_519.2" BETYPE="IDREF" FILEID="alto_00260_0"/>
+              <area BEGIN="BL_519.4" BETYPE="IDREF" FILEID="alto_00260_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="520" ORDERLABEL="518" TYPE="page">
+        <fptr FILEID="tiff_00260_1"/>
+        <fptr FILEID="jp2_00260_1"/>
+        <fptr FILEID="alto_00260_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_520.2" BETYPE="IDREF" FILEID="alto_00260_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_520.3" BETYPE="IDREF" FILEID="alto_00260_1"/>
+              <area BEGIN="BL_520.4" BETYPE="IDREF" FILEID="alto_00260_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b518-7" BETYPE="IDREF" FILEID="casebody_0122"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_518.6" BETYPE="IDREF" FILEID="alto_00259_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b518-8" BETYPE="IDREF" FILEID="casebody_0122"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_518.7" BETYPE="IDREF" FILEID="alto_00259_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b518-9" BETYPE="IDREF" FILEID="casebody_0122"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_518.9" BETYPE="IDREF" FILEID="alto_00259_1"/>
+            <area BEGIN="BL_519.1" BETYPE="IDREF" FILEID="alto_00260_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b519-7" BETYPE="IDREF" FILEID="casebody_0122"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_519.8" BETYPE="IDREF" FILEID="alto_00260_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b519-6" BETYPE="IDREF" FILEID="casebody_0122"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_519.7" BETYPE="IDREF" FILEID="alto_00260_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b519-9" BETYPE="IDREF" FILEID="casebody_0122"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_519.10" BETYPE="IDREF" FILEID="alto_00260_0"/>
+            <area BEGIN="BL_520.1" BETYPE="IDREF" FILEID="alto_00260_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b519-5" BETYPE="IDREF" FILEID="casebody_0122"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_519.6" BETYPE="IDREF" FILEID="alto_00260_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b517-11" BETYPE="IDREF" FILEID="casebody_0122"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_517.7" BETYPE="IDREF" FILEID="alto_00259_0"/>
+            <area BEGIN="BL_518.1" BETYPE="IDREF" FILEID="alto_00259_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b517-10" BETYPE="IDREF" FILEID="casebody_0122"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_517.6" BETYPE="IDREF" FILEID="alto_00259_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b520-8" BETYPE="IDREF" FILEID="casebody_0122"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_520.7" BETYPE="IDREF" FILEID="alto_00260_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b517-7" BETYPE="IDREF" FILEID="casebody_0122"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_517.3" BETYPE="IDREF" FILEID="alto_00259_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b517-6" BETYPE="IDREF" FILEID="casebody_0122"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_517.2" BETYPE="IDREF" FILEID="alto_00259_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b519-8" BETYPE="IDREF" FILEID="casebody_0122"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_519.9" BETYPE="IDREF" FILEID="alto_00260_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b520-6" BETYPE="IDREF" FILEID="casebody_0122"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_520.5" BETYPE="IDREF" FILEID="alto_00260_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="APh" BETYPE="IDREF" FILEID="casebody_0122"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_518.8" BETYPE="IDREF" FILEID="alto_00259_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b517-9" BETYPE="IDREF" FILEID="casebody_0122"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_517.5" BETYPE="IDREF" FILEID="alto_00259_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b517-8" BETYPE="IDREF" FILEID="casebody_0122"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_517.4" BETYPE="IDREF" FILEID="alto_00259_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b518-6" BETYPE="IDREF" FILEID="casebody_0122"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_518.5" BETYPE="IDREF" FILEID="alto_00259_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b520-7" BETYPE="IDREF" FILEID="casebody_0122"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_520.6" BETYPE="IDREF" FILEID="alto_00260_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b519-4" BETYPE="IDREF" FILEID="casebody_0122"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_519.5" BETYPE="IDREF" FILEID="alto_00260_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

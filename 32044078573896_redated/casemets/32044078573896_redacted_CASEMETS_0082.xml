@@ -1,0 +1,245 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0082" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Sebastian County v. Sutton">Sebastian County vs. Sutton et al.</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 402</citation>
+          <decisiondate>1860-07</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00202_1" MIMETYPE="image/tiff" CHECKSUM="fe9f38002da6e984c15bbbdab2bd5b86" CHECKSUMTYPE="MD5" SIZE="19832">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00202_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00202_1" MIMETYPE="image/jp2" CHECKSUM="e033a0cdc92015caf2926b7ccf668d65" CHECKSUMTYPE="MD5" SIZE="2452369">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00202_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00202_1" MIMETYPE="text/xml" CHECKSUM="2e638f7268fc06e061680326796b6bbc" CHECKSUMTYPE="MD5" SIZE="41751">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00202_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0082" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="402" firstpage="402">
+              <parties id="b404-5" pgmap="404">Sebastian County vs. Sutton et al.</parties>
+              <attorneys id="b404-10" pgmap="404">G. J. Clark, for appellant.</attorneys>
+              <summary id="b404-8" pgmap="404">Appeal from Sebastian Circuit Court.</summary>
+              <summary id="b404-9" pgmap="404">Hon. Felix I. Batson, Circuit Judge.</summary>
+              <headnotes id="b404-6" pgmap="404">Where no motion for a new trial has been made, nor any question of law reserved at the trial, there is nothing before this court for adjudication.</headnotes>
+              <headnotes id="b404-7" pgmap="404">The rule established in State Bank vs. Conway, 13 Ark. 344 — which is simple, and easily understood and followed — applies as well to cases submitted to the court as to a jury; and to casos where there is an agreed statement of facts, as where the facts are proved by witnesses.</headnotes>
+              <opinion type="majority">
+                <author id="b404-11" pgmap="404">Hon. Chief Justice English</author>
+                <p id="A7L" pgmap="404">delivered the opinion of the court.</p>
+                <p id="b404-12" pgmap="404">The judgment in this case must be affirmed under the rule of practice settled in State Bank vs. Conway, 13 Ark. 344—which was applied in Gardner vs. Miller et al., (present term,) a case similar to this.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="404" ORDERLABEL="402" TYPE="page">
+        <fptr FILEID="tiff_00202_1"/>
+        <fptr FILEID="jp2_00202_1"/>
+        <fptr FILEID="alto_00202_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_404.1" BETYPE="IDREF" FILEID="alto_00202_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_404.2" BETYPE="IDREF" FILEID="alto_00202_1"/>
+              <area BEGIN="BL_404.3" BETYPE="IDREF" FILEID="alto_00202_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b404-6" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_404.5" BETYPE="IDREF" FILEID="alto_00202_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b404-7" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_404.6" BETYPE="IDREF" FILEID="alto_00202_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b404-5" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_404.4" BETYPE="IDREF" FILEID="alto_00202_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b404-10" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_404.9" BETYPE="IDREF" FILEID="alto_00202_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b404-11" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_404.10" BETYPE="IDREF" FILEID="alto_00202_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b404-8" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_404.7" BETYPE="IDREF" FILEID="alto_00202_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b404-9" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_404.8" BETYPE="IDREF" FILEID="alto_00202_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A7L" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_404.11" BETYPE="IDREF" FILEID="alto_00202_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b404-12" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_404.12" BETYPE="IDREF" FILEID="alto_00202_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,453 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0147" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Fife v. Thompson">Marie Farris FIFE and Marvin FIFE, Her Husband v. Clarence C. THOMPSON</name>
+          <docketnumber>85-311</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 620</citation>
+          <citation category="parallel" type="bluebook">708 S.W.2d 611</citation>
+          <decisiondate>1986-04-28</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:01Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00329_1" MIMETYPE="image/tiff" CHECKSUM="5d8e5c84cccf36a47127ecc351fb1d9f" CHECKSUMTYPE="MD5" SIZE="11170">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00329_1.tif"/>
+      </file>
+      <file ID="tiff_00330_0" MIMETYPE="image/tiff" CHECKSUM="e6b478ca46c125c1af0c20fc1ae99b12" CHECKSUMTYPE="MD5" SIZE="59388">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00330_0.tif"/>
+      </file>
+      <file ID="tiff_00330_1" MIMETYPE="image/tiff" CHECKSUM="b881980dff67f487d5001481003453c5" CHECKSUMTYPE="MD5" SIZE="51628">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00330_1.tif"/>
+      </file>
+      <file ID="tiff_00331_0" MIMETYPE="image/tiff" CHECKSUM="a38fedcbc29975d273d212c1b68f6f58" CHECKSUMTYPE="MD5" SIZE="9808">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00331_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00329_1" MIMETYPE="image/jp2" CHECKSUM="b2d600e26ec0b2872d539386e52cea18" CHECKSUMTYPE="MD5" SIZE="1466885">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00329_1.jp2"/>
+      </file>
+      <file ID="jp2_00330_0" MIMETYPE="image/jp2" CHECKSUM="c110f351aba9d33f3eddc7e9ba65d49f" CHECKSUMTYPE="MD5" SIZE="2562982">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00330_0.jp2"/>
+      </file>
+      <file ID="jp2_00330_1" MIMETYPE="image/jp2" CHECKSUM="8bbc776d8742dd85f3276c156bdff3b7" CHECKSUMTYPE="MD5" SIZE="2504789">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00330_1.jp2"/>
+      </file>
+      <file ID="jp2_00331_0" MIMETYPE="image/jp2" CHECKSUM="b27cbbdd21a0531daec7e55e2d13c401" CHECKSUMTYPE="MD5" SIZE="1407557">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00331_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00329_1" MIMETYPE="text/xml" CHECKSUM="f0b6b9f4577308acd9cb3666249c09a9" CHECKSUMTYPE="MD5" SIZE="13179">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00329_1.xml"/>
+      </file>
+      <file ID="alto_00330_0" MIMETYPE="text/xml" CHECKSUM="960a3c1d3ab04975932a88173e8dd510" CHECKSUMTYPE="MD5" SIZE="121697">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00330_0.xml"/>
+      </file>
+      <file ID="alto_00330_1" MIMETYPE="text/xml" CHECKSUM="efbd5daf76ab0d349a43f2cca564678a" CHECKSUMTYPE="MD5" SIZE="91651">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00330_1.xml"/>
+      </file>
+      <file ID="alto_00331_0" MIMETYPE="text/xml" CHECKSUM="95a04cbdf8775f497e0507b63865a03e" CHECKSUMTYPE="MD5" SIZE="12919">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00331_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0147" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="620" lastpage="623">
+              <court pgmap="658" id="b658-8">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="658" id="b658-7">85-311</docketnumber>
+              <citation pgmap="658" id="A-JZ">708 S.W.2d 611</citation>
+              <parties pgmap="658" id="b658-6">Marie Farris FIFE and Marvin FIFE, Her Husband v. Clarence C. THOMPSON</parties>
+              <decisiondate pgmap="658" id="Acz">Opinion delivered April 28, 1986</decisiondate>
+              <judges pgmap="661" id="b661-6">Purtle, J., not participating.</judges>
+              <attorneys pgmap="658" id="b658-15">Compton, Prewett, Thomas &amp; Hickey, P.A., for appellants.</attorneys>
+              <attorneys pgmap="658" id="b658-16">W.H. Armstrong, for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="659" id="b659-5">Steele Hays, Justice.</author>
+                <p pgmap="659" id="A1J">Clarence Thompson, appellee, ac­quired oil and gas leases to twenty acres of Ouachita County Arkansas, with the exception of a 1 /8th mineral interest belong­ing to Marie Fife, appellant. Though unable to obtain a lease from Mrs. Fife, Thompson began drilling operations and the well was completed as a producer in January, 1984. It has produced oil at a rate of several barrels a day since its completion.</p>
+                <p pgmap="659" id="b659-6">
+                   Thompson filed suit against Mrs. Fife to impress a lien on her 1 /8th interest, less 1 /8th of 1 / 8th royalty, for the costs of drilling and operating the well, a total of $168,683.40, and for future operating costs. Mrs. Fife does not contend that Thomp­son’s costs are excessive, rather she claims he is a willful trespasser and that she is entitled to the value at the surface of all minerals attributable to her interest, plus $25,000 punitive damages. The chancellor held that while Thompson and Mrs. Fife were not technically co-tenants, their status was tantamount to co-tenancy and that Thompson was entitled to a lien upon 7 / 8ths of Mrs. Fife’s 1 /8th mineral interest until her proportionate share of the expenses is satisfied.<footnotemark>1</footnotemark> Mrs. Fife has appealed. We believe the chancellor was correct.</p>
+                <p pgmap="660" id="b660-5">
+                   The rule in a majority of jurisdictions holds that a lessee of the majority of mineral owners is entitled to remove the minerals, accounting to the non-leasing owner for his proportion­ate share, less the reasonable costs of producing the minerals at the surface. Williams &amp; Meyers, Oil and Gas Law, § 502, pp. 572 and 573. The rationale for this principle doubtless rests on the fact that oil is capable of being removed by others and if an owner in common were free to block the removal of the oil, a valuable asset could be lost entirely to its owners.</p>
+                <p pgmap="660" id="b660-6">Summers, Oil and Gas, § 38, p. 138 states:</p>
+                <blockquote pgmap="660" id="b660-7">In the previous section it was shown that in a majority of the jurisdictions in this country where the question has been raised, a co-tenant of lands containing oil and gas is privileged to take oil and gas therefrom without the consent of his co-tenants, but is under a duty to account to them for their share of the minerals taken after deducting the cost of production. . .The Courts have usually found, whether they were dealing with the co-ownership of land or the co-ownership of a separate mineral estate, sufficient reasons upon which to conclude that in either situation a co-tenant should be privileged to produce oil and gas, subject to a duty to the other co-tenants to account to them for their share of the minerals, less the reasonable cost of production.</blockquote>
+                <p pgmap="660" id="b660-8">
+                   Our own cases have embraced this rule, Ashland Oil and Refining Co. v. Bond, 222 Ark. 696, 263 S.W.2d 74 (1953):</p>
+                <blockquote pgmap="660" id="b660-9">It is a rule well established and plainly just that when one tenant in common has drilled a producing oil well upon the common property, he must be given credit for his reasona­ble expenses upon being required to account to his co-­tenants for the oil withdrawn from the land. Prairie Oil &amp; Gas Co. v. Allen, 8th Cir., 2 F.2d 566, 40 A.L.R. 1389; New Domain Oil &amp; Gas Co. v. McKinney, 188 Ky. 183, 221 S.W. 245; Earp v. Mid-Continent Petroleum Corp., 167 Okla. 86, 27 P.2d 855, 91 A.L.R. 188; Paepcke-Leicht Lbr. Co. v. Collins, 85 Ark. 414, 108 S.W. 511; Burbridge v. Bradley Lbr. Co., 218 Ark. 897, 239 S.W.2d 285.</blockquote>
+                <p pgmap="660(10) 661(8)" id="b660-10">That statement of law was affirmed in McMillan, Trustee v. Powell, 235 Ark. 934, 362 S.W.2d 721 (1962).</p>
+                <p pgmap="661" id="ABhv">The decree is affirmed.</p>
+                <footnote label="1">
+                  <p pgmap="659" id="b659-7">1 The chancellor’s memorandum opinion noted: the parties agree that the produc­tion from this well is not controlled by the Arkansas Oil and Gas Commission. Ark. Stat. Ann. § 53-106 (Repl. 1971) provides that all common sources of supply of crude oil discovered after January 1,1937, shall be controlled and regulated according to Act 105 of the Acts of 1939. Since the Smackover Lime in the Snowhill field is not controlled by the Arkansas Oil and Gas Commission, Thompson could not proceed under § 53-115 and establish a drilling unit. Paragraph 1(c) of § 53-115 provides in part, “Such order shall also provide that an owner who does not affirmatively elect to participate in the risk and cost of such operations shall transfer his right in such drilling unit and the production from the unit well to the parties who elect to participate therein for a reasonable consideration and on a reasonable basis, which in the absence of an agreement between the parties, shall be determined by the Commission. Such transfer may be either a permanent transfer or may be for a limited period pending recoupment out of the share of production attributable to the interest of such non-participating owner by the participating parties of an amount equal to the share of the costs that would have been borne by such non-participating party had he participated in such operations, plus an additional sum to be fixed by the Commission.”</p>
+                  <p pgmap="659" id="b659-8">Paragraph 1 (e) provides that, “In the event there is an unleased mineral interest or interests in any such drilling unit, the owner thereof shall be regarded as the owner of a royalty interest to the extent of a one-eighth (1 /8th) interest in and to said unleased mineral interest and such royalty interest shall not be affected by the provisions of subparagraphs (c) and (d) above.”</p>
+                </footnote>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="658" ORDERLABEL="620" TYPE="page">
+        <fptr FILEID="tiff_00329_1"/>
+        <fptr FILEID="jp2_00329_1"/>
+        <fptr FILEID="alto_00329_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_658.1" BETYPE="IDREF" FILEID="alto_00329_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="659" ORDERLABEL="621" TYPE="page">
+        <fptr FILEID="tiff_00330_0"/>
+        <fptr FILEID="jp2_00330_0"/>
+        <fptr FILEID="alto_00330_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_659.2" BETYPE="IDREF" FILEID="alto_00330_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="660" ORDERLABEL="622" TYPE="page">
+        <fptr FILEID="tiff_00330_1"/>
+        <fptr FILEID="jp2_00330_1"/>
+        <fptr FILEID="alto_00330_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_660.1" BETYPE="IDREF" FILEID="alto_00330_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="661" ORDERLABEL="623" TYPE="page">
+        <fptr FILEID="tiff_00331_0"/>
+        <fptr FILEID="jp2_00331_0"/>
+        <fptr FILEID="alto_00331_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_661.3" BETYPE="IDREF" FILEID="alto_00331_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b658-16" BETYPE="IDREF" FILEID="casebody_0147"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_658.17" BETYPE="IDREF" FILEID="alto_00329_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Acz" BETYPE="IDREF" FILEID="casebody_0147"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_658.9" BETYPE="IDREF" FILEID="alto_00329_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A-JZ" BETYPE="IDREF" FILEID="casebody_0147"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_658.7" BETYPE="IDREF" FILEID="alto_00329_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A1J" BETYPE="IDREF" FILEID="casebody_0147"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_659.4" BETYPE="IDREF" FILEID="alto_00330_0"/>
+            <area BEGIN="BL_659.5" BETYPE="IDREF" FILEID="alto_00330_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b658-15" BETYPE="IDREF" FILEID="casebody_0147"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_658.16" BETYPE="IDREF" FILEID="alto_00329_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b660-10" BETYPE="IDREF" FILEID="casebody_0147"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_660.8" BETYPE="IDREF" FILEID="alto_00330_1"/>
+            <area BEGIN="BL_661.1" BETYPE="IDREF" FILEID="alto_00331_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b658-8" BETYPE="IDREF" FILEID="casebody_0147"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_658.8" BETYPE="IDREF" FILEID="alto_00329_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b661-6" BETYPE="IDREF" FILEID="casebody_0147"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_661.5" BETYPE="IDREF" FILEID="alto_00331_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b660-8" BETYPE="IDREF" FILEID="casebody_0147"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_660.6" BETYPE="IDREF" FILEID="alto_00330_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b660-9" BETYPE="IDREF" FILEID="casebody_0147"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_660.7" BETYPE="IDREF" FILEID="alto_00330_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b660-6" BETYPE="IDREF" FILEID="casebody_0147"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_660.4" BETYPE="IDREF" FILEID="alto_00330_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b660-7" BETYPE="IDREF" FILEID="casebody_0147"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_660.5" BETYPE="IDREF" FILEID="alto_00330_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b660-5" BETYPE="IDREF" FILEID="casebody_0147"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_660.3" BETYPE="IDREF" FILEID="alto_00330_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b658-7" BETYPE="IDREF" FILEID="casebody_0147"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_658.6" BETYPE="IDREF" FILEID="alto_00329_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b658-6" BETYPE="IDREF" FILEID="casebody_0147"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_658.5" BETYPE="IDREF" FILEID="alto_00329_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b659-8" BETYPE="IDREF" FILEID="casebody_0147"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_659.8" BETYPE="IDREF" FILEID="alto_00330_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b659-6" BETYPE="IDREF" FILEID="casebody_0147"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_659.6" BETYPE="IDREF" FILEID="alto_00330_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b659-7" BETYPE="IDREF" FILEID="casebody_0147"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_659.7" BETYPE="IDREF" FILEID="alto_00330_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b659-5" BETYPE="IDREF" FILEID="casebody_0147"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_659.3" BETYPE="IDREF" FILEID="alto_00330_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ABhv" BETYPE="IDREF" FILEID="casebody_0147"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_661.4" BETYPE="IDREF" FILEID="alto_00331_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

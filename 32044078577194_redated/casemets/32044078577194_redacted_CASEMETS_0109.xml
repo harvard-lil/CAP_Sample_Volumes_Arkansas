@@ -1,0 +1,608 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0109" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Hallman v. State">Michael HALLMAN v. STATE of Arkansas</name>
+          <docketnumber>CR 85-153-A</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 448</citation>
+          <citation category="parallel" type="bluebook">706 S.W.2d 381</citation>
+          <decisiondate>1986-03-31</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:00Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00241_1" MIMETYPE="image/tiff" CHECKSUM="66e79daa1d12adf8fb4435da7868f0fb" CHECKSUMTYPE="MD5" SIZE="31540">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00241_1.tif"/>
+      </file>
+      <file ID="tiff_00242_0" MIMETYPE="image/tiff" CHECKSUM="51b53d691ebad5f3f1e1bae81e032d42" CHECKSUMTYPE="MD5" SIZE="4146">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00242_0.tif"/>
+      </file>
+      <file ID="tiff_00242_1" MIMETYPE="image/tiff" CHECKSUM="e59a1b7f4d590059b13c9243fa1abafe" CHECKSUMTYPE="MD5" SIZE="52740">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00242_1.tif"/>
+      </file>
+      <file ID="tiff_00243_0" MIMETYPE="image/tiff" CHECKSUM="abd0d768fbd99f39e09928d23e9fd018" CHECKSUMTYPE="MD5" SIZE="56922">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00243_0.tif"/>
+      </file>
+      <file ID="tiff_00243_1" MIMETYPE="image/tiff" CHECKSUM="d47ef6329cb2192f05580771c6933419" CHECKSUMTYPE="MD5" SIZE="55138">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00243_1.tif"/>
+      </file>
+      <file ID="tiff_00244_0" MIMETYPE="image/tiff" CHECKSUM="852f473404cef2c1b28101f21b64ca67" CHECKSUMTYPE="MD5" SIZE="52896">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00244_0.tif"/>
+      </file>
+      <file ID="tiff_00244_1" MIMETYPE="image/tiff" CHECKSUM="505748c0a499aaa28dade3e3468e6ed8" CHECKSUMTYPE="MD5" SIZE="27150">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00244_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00241_1" MIMETYPE="image/jp2" CHECKSUM="0b02c171e4db8c79e8b72f68b9f81a01" CHECKSUMTYPE="MD5" SIZE="2184646">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00241_1.jp2"/>
+      </file>
+      <file ID="jp2_00242_0" MIMETYPE="image/jp2" CHECKSUM="684d3d573ac91bbeb027c902cf366c2b" CHECKSUMTYPE="MD5" SIZE="1019588">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00242_0.jp2"/>
+      </file>
+      <file ID="jp2_00242_1" MIMETYPE="image/jp2" CHECKSUM="bf233d7eec53c87499048431f0f0908e" CHECKSUMTYPE="MD5" SIZE="2536165">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00242_1.jp2"/>
+      </file>
+      <file ID="jp2_00243_0" MIMETYPE="image/jp2" CHECKSUM="714996d4923790137bd68bba0b23e292" CHECKSUMTYPE="MD5" SIZE="2568367">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00243_0.jp2"/>
+      </file>
+      <file ID="jp2_00243_1" MIMETYPE="image/jp2" CHECKSUM="f3148519cfc1002db4e7254ec5955a0d" CHECKSUMTYPE="MD5" SIZE="2588688">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00243_1.jp2"/>
+      </file>
+      <file ID="jp2_00244_0" MIMETYPE="image/jp2" CHECKSUM="074519b8cba17108b500c2c73d095837" CHECKSUMTYPE="MD5" SIZE="2536305">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00244_0.jp2"/>
+      </file>
+      <file ID="jp2_00244_1" MIMETYPE="image/jp2" CHECKSUM="91bfdd53d3608df4b819897890d85afb" CHECKSUMTYPE="MD5" SIZE="2024857">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00244_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00241_1" MIMETYPE="text/xml" CHECKSUM="2f0aabfdbb2066fd823d7923f8057b13" CHECKSUMTYPE="MD5" SIZE="49427">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00241_1.xml"/>
+      </file>
+      <file ID="alto_00242_0" MIMETYPE="text/xml" CHECKSUM="b9fe893beec388ce62e07fbcee3a65a3" CHECKSUMTYPE="MD5" SIZE="1782">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00242_0.xml"/>
+      </file>
+      <file ID="alto_00242_1" MIMETYPE="text/xml" CHECKSUM="3fbed84212695ae5f4907e7524c52c46" CHECKSUMTYPE="MD5" SIZE="95148">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00242_1.xml"/>
+      </file>
+      <file ID="alto_00243_0" MIMETYPE="text/xml" CHECKSUM="08c34cccd8c00b309c58277f821aed2c" CHECKSUMTYPE="MD5" SIZE="108636">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00243_0.xml"/>
+      </file>
+      <file ID="alto_00243_1" MIMETYPE="text/xml" CHECKSUM="721d07d5ece916e4485920ff044b4135" CHECKSUMTYPE="MD5" SIZE="89614">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00243_1.xml"/>
+      </file>
+      <file ID="alto_00244_0" MIMETYPE="text/xml" CHECKSUM="01b3c5fd13a28911972c706abaaefd11" CHECKSUMTYPE="MD5" SIZE="82755">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00244_0.xml"/>
+      </file>
+      <file ID="alto_00244_1" MIMETYPE="text/xml" CHECKSUM="0c0e1c661838d02d9cac007dab9cff51" CHECKSUMTYPE="MD5" SIZE="41502">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00244_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0109" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="448" lastpage="454">
+              <court pgmap="482" id="b482-12">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="482" id="b482-11">CR 85-153-A</docketnumber>
+              <citation pgmap="482" id="AQF">706 S.W.2d 381</citation>
+              <parties pgmap="482" id="b482-10">Michael HALLMAN v. STATE of Arkansas</parties>
+              <decisiondate pgmap="482" id="Ax">Opinion delivered March 31, 1986</decisiondate>
+              <judges pgmap="488" id="b488-9">Purtle, J., not participating.</judges>
+              <attorneys pgmap="484" id="b484-5">J.F. Atkinson, Jr., for appellant.</attorneys>
+              <attorneys pgmap="484" id="b484-6">Steve Clark, Att’y Gen., by: Theodore Holder, Asst. Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="484" id="b484-7">Robert H. Dudley, Justice.</author>
+                <p pgmap="484" id="Ayy">Appellant, Michael Hallman, is one of three men jointly charged with first degree murder in the death of Ivey Jones. In a joint trial, Randy Hallman and Arthur Dale Taylor were found guilty of first degree murder, while appellant was found guilty of second degree murder. They appeal separately and, in separate arguments, assign unrelated points of error. Accordingly, we hand down concurrent, but separate opinions. In this case, we affirm the conviction for second degree murder.</p>
+                <p pgmap="484" id="b484-8">On January 16, 1984, two hunters found the partially decomposed body of Ivey Jones in a remote section of Crawford County. The medical examiner estimated the date of death as December 8 or 9,1983, and found the causes of death to be a blow to the head with a blunt object and stab wounds through the back.</p>
+                <p pgmap="484" id="b484-9">On February 3, 1984, Arthur Dale Taylor, one of the three defendants, gave a statement implicating himself and two others in the murder. On February 7, 1984, the appellant gave an inculpatory statement. The statements were edited and admitted into evidence at trial. See Gammel v. State, 259 Ark. 96, 531 S.W.2d 474 (1976).</p>
+                <p pgmap="484(191) 485(47)" id="b484-10">Arthur Dale Taylor’s two edited statements are combined and summarized as follows: On the evening of December 8, nobody knew what we were doing except the three of us. We were in my 1972 Dodge Coronet. I was driving. I was told to tell Ivey Jones that a relative was coming from California. I stopped the car at Ivey Jones’ apartment. One of the others got out of the back seat and knocked on her apartment door and told Ivey Jones that her family was back and we were supposed to take her to the house. My understanding of the reason she was picked up was for her money. She got in the front right seat. The other two boys were in the back seat. One of the boys took a screwdriver and started hitting her in the head. I stopped the car. One of the boys pulled Ivey Jones out of the car and hit her on the head with a lug wrench. He then stabbed her with a knife. We got her out of the car and put her on the car trunk. We drove a short distance down the road and then dragged her into some bushes. We then went to my house trailer where I burned up my shirt because it had some blood on it and burned her shoes and purse. Somebody at my house asked me about the blood on my shirt.</p>
+                <p pgmap="485" id="b485-6">The statements constitute proof that Arthur Dale Taylor and two other males planned to obtain money from Ivey Jones. In furtherance of that plan they drove to her apartment where she was enticed into the car. She was then murdered. That proof alone does not implicate appellant.</p>
+                <p pgmap="485" id="b485-7">However, appellant gave two incriminating statements which are summarized as follows: I was with two male friends on the night of the murder. About three weeks before the murder my two friends were talking about robbing Ivey Jones. At that time, the plan was for me and a friend to spend the night at Ivey Jones’ house and leave either the door unlocked or the window up. On the night in question the three of us were driving around and thinking about robbing or burglarizing some place. They decided to break into Wal Mart Discount Store, but changed their minds. We then drove to the victim’s house. I did not know the reason we went to the victim’s house. I left the car, went to the victim’s apartment, and got her to join us in the car. Ivey Jones sat in the front right seat. One of the other two men then hit Ivey Jones on the head with a foot long screwdriver. I did not know that the other two intended to attack Ivey Jones. The victim was told they were at a hospital, and she either got out of the car or was lifted out when the other two men stabbed her with a knife and hit her on the head with a lug wrench. She was then placed on the hood or trunk of the car and taken to the place where her body was later found. The three of us then went to a trailer belonging to one of the men. I made some coffee and went outdoors to find that a fire had been built. The victim’s hat and purse were burned along with a bloody shirt of one of the other men. I did not tell anyone about the murder because I was afraid I could get the electric chair for it.</p>
+                <p pgmap="485(64) 486(1)" id="b485-8">Regina McGrew testified that on the evening of December 8, 1983, the appellant, Arthur Dale Taylor, and Randy Hallman drove to Arthur Dale Taylor’s house trailer in a blue Dodge automobile. Appellant went inside, got three cups of coffee and took them outside. They were drinking coffee and Arthur Dale Taylor took off his bloody shirt, poured gasoline on it, and set it on fire.</p>
+                <p pgmap="486" id="b486-6">
+                   Appellant’s principal point of appeal is that Arthur Dale Taylor was an accomplice and his statement was not sufficiently corroborated for a finding of guilt. The argument is without merit. The test for determining the sufficiency of cor­roborating evidence is whether, after totally eliminating the testimony of the accomplice, the other evidence independently establishes the crime and tends to connect the accused with its commission. Henderson v. State, 279 Ark. 435, 652 S.W.2d 16 (1983). It is not necessary that the corroborating evidence, standing alone, be sufficient to sustain the conviction. Orsini v. State, 281 Ark. 348, 665 S.W.2d 245, cert. denied,_U.S_, 105 S.Ct. 162 (1984).</p>
+                <p pgmap="486" id="b486-9">
+                   In appellant’s case, the testimony of the medical exam­iner corroborated the fact that someone killed Ivey Jones on December 8 or 9, 1983, by striking her on the head with a blunt object and stabbing her in the back. The testimony of Regina McGrew corroborated that appellant was in the presence of the accomplice and Randy Hallman on the evening of December 8, 1983. In addition, her testimony established that Taylor burned his blood-stained shirt while the appellant stood by. Most importantly, appellant’s statements corroborated that he knew there had been a discussion about robbing the victim and that he lured the victim into Taylor’s car where she was murdered. The corroboration is sufficient to sustain the conviction.</p>
+                <p pgmap="486" id="b486-10">The appellant was sixteen years of age at the time of trial. Before trial, he filed a motion to transfer his case to juvenile court pursuant to Ark. Stat. Ann. §§ 41-617 and 45-420 (Supp. 1985). At the hearing on the matter, the Prosecuting Attorney testified that he charged appellant in circuit court because of the serious­ness of the crime, because appellant lured the victim away from her home, left her in a remote area although she may still have been alive, made no effort to help her, and participated in a cover­up of the crime. The trial court stated that the Prosecuting Attorney had used sound judgment and denied the motion based on the factors discussed by the Prosecutor.</p>
+                <p pgmap="486(30) 487(21)" id="b486-11">
+                   The applicable statute, Ark. Stat. Ann. § 45-420, provides that the circuit court, in making the decision whether to retain jurisdiction or transfer the case to the juvenile court, shall consider: (a) the seriousness of the offense, (b) whether the juvenile is beyond rehabilitation, and (c) the juvenile’s prospects for rehabilitation.</p>
+                <p pgmap="487" id="b487-6">
+                   The appellant contends that the trial court erred by not considering all three elements of the statute in the decision not to transfer. Wehave previously rejected the contention. In Ashing v. State, 288 Ark. 75, 702 S.W.2d 20 (1986), we said: “there is no requirement in the statute that equal weight be given to each factor, or that proof on all factors must be against the [moving defendant] in order for the court to retain jurisdiction.”</p>
+                <p pgmap="487" id="b487-7">
+                   Appellant’s next assignment of error concerns the admission of photographs of the body of the victim. We find no error. In Prunty v. State, 271 Ark. 77, 607 S.W.2d 374 (1980) we stated:</p>
+                <blockquote pgmap="487" id="b487-8">[E]ven inflammatory photographs are admissible in the sound discretion of the trial judge “if they tend to shed light on any issue or are useful to enable a witness to better describe the objects portrayed or the jury to better under­stand the testimony or to corroborate testimony.” Sumlin v. State, 266 Ark. 709, 587 S.W.2d 571 (1979); [citations omitted.] Whether or not the court should admit a photo­graph depends upon whether the asserted inflammatory nature is outweighed by its probative value; and neither is it rendered inadmissible merely because it is cumulative or unnecessary due to admitted or other facts proved.</blockquote>
+                <p pgmap="487" id="b487-9">Here, the photographs corroborate and illustrate the testimony of the law enforcement officer who investigated the scene and the testimony of the medical examiner. Their inflammatory nature did not outweigh the probative values. The trial judge did not abuse his considerable discretion in determining that these photographs were admissible.</p>
+                <p pgmap="487(69) 488(41)" id="b487-10">The appellant next argues that the trial court erred in admitting his incriminating statements because he made the statements in reliance upon a promise of juvenile treatment, he never validly waived his right to remain silent, and his will was overborne by the officers. The Prosecuting Attorney and the police officers testified that no promise was made, appellant waived his right to remain silent, and the statements were made without coercion. Appellant and his mother testified that, at a meeting with the mother, the Prosecutor promised treatment as a juvenile if appellant would make a statement. A recording of the meeting with the mother contained no evidence of a promise.</p>
+                <p pgmap="488" id="b488-6">The trial court expressly found that no promise was made to appellant or his mother, that appellant waived his right to remain silent and never asked that the questioning be stopped.</p>
+                <p pgmap="488" id="b488-7">
+                   On appeal of a finding of voluntariness, this Court makes its own independent determination of the issue from the totality of the circumstances, but will reverse the trial court’s determination of the issue only if it is clearly erroneous. Lockett v. State, 275 Ark. 338, 629 S.W.2d 302 (1982). After making an independent examination of the testimony, we cannot say the trial court’s determination was clearly erroneous.</p>
+                <p pgmap="488" id="b488-8">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="482" ORDERLABEL="448" TYPE="page">
+        <fptr FILEID="tiff_00241_1"/>
+        <fptr FILEID="jp2_00241_1"/>
+        <fptr FILEID="alto_00241_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_482.2" BETYPE="IDREF" FILEID="alto_00241_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="483" ORDERLABEL="449" TYPE="page">
+        <fptr FILEID="tiff_00242_0"/>
+        <fptr FILEID="jp2_00242_0"/>
+        <fptr FILEID="alto_00242_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_483.3" BETYPE="IDREF" FILEID="alto_00242_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="484" ORDERLABEL="450" TYPE="page">
+        <fptr FILEID="tiff_00242_1"/>
+        <fptr FILEID="jp2_00242_1"/>
+        <fptr FILEID="alto_00242_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_484.1" BETYPE="IDREF" FILEID="alto_00242_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="485" ORDERLABEL="451" TYPE="page">
+        <fptr FILEID="tiff_00243_0"/>
+        <fptr FILEID="jp2_00243_0"/>
+        <fptr FILEID="alto_00243_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_485.3" BETYPE="IDREF" FILEID="alto_00243_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="486" ORDERLABEL="452" TYPE="page">
+        <fptr FILEID="tiff_00243_1"/>
+        <fptr FILEID="jp2_00243_1"/>
+        <fptr FILEID="alto_00243_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_486.2" BETYPE="IDREF" FILEID="alto_00243_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="487" ORDERLABEL="453" TYPE="page">
+        <fptr FILEID="tiff_00244_0"/>
+        <fptr FILEID="jp2_00244_0"/>
+        <fptr FILEID="alto_00244_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_487.3" BETYPE="IDREF" FILEID="alto_00244_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="488" ORDERLABEL="454" TYPE="page">
+        <fptr FILEID="tiff_00244_1"/>
+        <fptr FILEID="jp2_00244_1"/>
+        <fptr FILEID="alto_00244_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_488.2" BETYPE="IDREF" FILEID="alto_00244_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ayy" BETYPE="IDREF" FILEID="casebody_0109"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_484.6" BETYPE="IDREF" FILEID="alto_00242_1"/>
+            <area BEGIN="BL_484.7" BETYPE="IDREF" FILEID="alto_00242_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b486-10" BETYPE="IDREF" FILEID="casebody_0109"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_486.6" BETYPE="IDREF" FILEID="alto_00243_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b486-11" BETYPE="IDREF" FILEID="casebody_0109"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_486.7" BETYPE="IDREF" FILEID="alto_00243_1"/>
+            <area BEGIN="BL_487.1" BETYPE="IDREF" FILEID="alto_00244_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b484-10" BETYPE="IDREF" FILEID="casebody_0109"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_484.10" BETYPE="IDREF" FILEID="alto_00242_1"/>
+            <area BEGIN="BL_485.1" BETYPE="IDREF" FILEID="alto_00243_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b487-10" BETYPE="IDREF" FILEID="casebody_0109"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_487.8" BETYPE="IDREF" FILEID="alto_00244_0"/>
+            <area BEGIN="BL_488.1" BETYPE="IDREF" FILEID="alto_00244_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b485-8" BETYPE="IDREF" FILEID="casebody_0109"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_485.6" BETYPE="IDREF" FILEID="alto_00243_0"/>
+            <area BEGIN="BL_486.1" BETYPE="IDREF" FILEID="alto_00243_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b487-9" BETYPE="IDREF" FILEID="casebody_0109"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_487.7" BETYPE="IDREF" FILEID="alto_00244_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b482-12" BETYPE="IDREF" FILEID="casebody_0109"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_482.12" BETYPE="IDREF" FILEID="alto_00241_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b486-9" BETYPE="IDREF" FILEID="casebody_0109"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_486.5" BETYPE="IDREF" FILEID="alto_00243_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b484-7" BETYPE="IDREF" FILEID="casebody_0109"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_484.5" BETYPE="IDREF" FILEID="alto_00242_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b488-8" BETYPE="IDREF" FILEID="casebody_0109"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_488.6" BETYPE="IDREF" FILEID="alto_00244_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b487-8" BETYPE="IDREF" FILEID="casebody_0109"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_487.6" BETYPE="IDREF" FILEID="alto_00244_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AQF" BETYPE="IDREF" FILEID="casebody_0109"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_482.11" BETYPE="IDREF" FILEID="alto_00241_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b482-10" BETYPE="IDREF" FILEID="casebody_0109"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_482.9" BETYPE="IDREF" FILEID="alto_00241_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b482-11" BETYPE="IDREF" FILEID="casebody_0109"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_482.10" BETYPE="IDREF" FILEID="alto_00241_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ax" BETYPE="IDREF" FILEID="casebody_0109"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_482.13" BETYPE="IDREF" FILEID="alto_00241_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b487-7" BETYPE="IDREF" FILEID="casebody_0109"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_487.5" BETYPE="IDREF" FILEID="alto_00244_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b485-7" BETYPE="IDREF" FILEID="casebody_0109"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_485.5" BETYPE="IDREF" FILEID="alto_00243_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b485-6" BETYPE="IDREF" FILEID="casebody_0109"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_485.4" BETYPE="IDREF" FILEID="alto_00243_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b487-6" BETYPE="IDREF" FILEID="casebody_0109"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_487.4" BETYPE="IDREF" FILEID="alto_00244_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b484-6" BETYPE="IDREF" FILEID="casebody_0109"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_484.4" BETYPE="IDREF" FILEID="alto_00242_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b484-5" BETYPE="IDREF" FILEID="casebody_0109"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_484.3" BETYPE="IDREF" FILEID="alto_00242_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b488-6" BETYPE="IDREF" FILEID="casebody_0109"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_488.4" BETYPE="IDREF" FILEID="alto_00244_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b488-7" BETYPE="IDREF" FILEID="casebody_0109"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_488.5" BETYPE="IDREF" FILEID="alto_00244_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b486-6" BETYPE="IDREF" FILEID="casebody_0109"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_486.4" BETYPE="IDREF" FILEID="alto_00243_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b488-9" BETYPE="IDREF" FILEID="casebody_0109"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_488.7" BETYPE="IDREF" FILEID="alto_00244_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b484-8" BETYPE="IDREF" FILEID="casebody_0109"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_484.8" BETYPE="IDREF" FILEID="alto_00242_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b484-9" BETYPE="IDREF" FILEID="casebody_0109"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_484.9" BETYPE="IDREF" FILEID="alto_00242_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

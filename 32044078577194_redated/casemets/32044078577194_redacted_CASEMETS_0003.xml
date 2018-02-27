@@ -1,0 +1,641 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0003" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Pope v. Pennzoil Producing Co.">Darrell H. POPE v. PENNZOIL PRODUCING CO.</name>
+          <docketnumber>85-152</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 10</citation>
+          <citation category="parallel" type="bluebook">701 S.W.2d 366</citation>
+          <decisiondate>1986-01-13</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:00Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00018_1" MIMETYPE="image/tiff" CHECKSUM="5e2f08fb4e6e00cf21106962c8ca4f34" CHECKSUMTYPE="MD5" SIZE="15736">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00018_1.tif"/>
+      </file>
+      <file ID="tiff_00019_0" MIMETYPE="image/tiff" CHECKSUM="f65f6e233a84341823c200953eeafb4b" CHECKSUMTYPE="MD5" SIZE="20346">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00019_0.tif"/>
+      </file>
+      <file ID="tiff_00019_1" MIMETYPE="image/tiff" CHECKSUM="a80f422b3390a937a122081e25aed0ed" CHECKSUMTYPE="MD5" SIZE="55936">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00019_1.tif"/>
+      </file>
+      <file ID="tiff_00020_0" MIMETYPE="image/tiff" CHECKSUM="9cf07b5b1de1587ba51ad01648c47939" CHECKSUMTYPE="MD5" SIZE="49798">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00020_0.tif"/>
+      </file>
+      <file ID="tiff_00020_1" MIMETYPE="image/tiff" CHECKSUM="d43d33eeabc1d50f2fe100fbbab2977c" CHECKSUMTYPE="MD5" SIZE="49410">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00020_1.tif"/>
+      </file>
+      <file ID="tiff_00021_0" MIMETYPE="image/tiff" CHECKSUM="a31142a3fab70a5e2068eba521f3046f" CHECKSUMTYPE="MD5" SIZE="55414">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00021_0.tif"/>
+      </file>
+      <file ID="tiff_00021_1" MIMETYPE="image/tiff" CHECKSUM="d90f92e669e9203eb3d3594589ab26ae" CHECKSUMTYPE="MD5" SIZE="25454">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00021_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00018_1" MIMETYPE="image/jp2" CHECKSUM="00b6848c062612a398a33d5204d60f12" CHECKSUMTYPE="MD5" SIZE="1600516">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00018_1.jp2"/>
+      </file>
+      <file ID="jp2_00019_0" MIMETYPE="image/jp2" CHECKSUM="7aa63a493f412382080f3e3d32ff9ddd" CHECKSUMTYPE="MD5" SIZE="1561716">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00019_0.jp2"/>
+      </file>
+      <file ID="jp2_00019_1" MIMETYPE="image/jp2" CHECKSUM="19aeba65df873c53b4f2823eb191404a" CHECKSUMTYPE="MD5" SIZE="2551156">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00019_1.jp2"/>
+      </file>
+      <file ID="jp2_00020_0" MIMETYPE="image/jp2" CHECKSUM="13352dc1ff8a66ffce147c590e9d0100" CHECKSUMTYPE="MD5" SIZE="2483402">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00020_0.jp2"/>
+      </file>
+      <file ID="jp2_00020_1" MIMETYPE="image/jp2" CHECKSUM="6f469a2ab1a224c791efb5566404e338" CHECKSUMTYPE="MD5" SIZE="2490303">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00020_1.jp2"/>
+      </file>
+      <file ID="jp2_00021_0" MIMETYPE="image/jp2" CHECKSUM="39a2ffb2d7b371ec7c31f0732480adec" CHECKSUMTYPE="MD5" SIZE="2488833">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00021_0.jp2"/>
+      </file>
+      <file ID="jp2_00021_1" MIMETYPE="image/jp2" CHECKSUM="533c4576baea305f34acbd3961702282" CHECKSUMTYPE="MD5" SIZE="1993658">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00021_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00018_1" MIMETYPE="text/xml" CHECKSUM="66ae71224b9c349c7a176c2382819555" CHECKSUMTYPE="MD5" SIZE="24738">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00018_1.xml"/>
+      </file>
+      <file ID="alto_00019_0" MIMETYPE="text/xml" CHECKSUM="1eaf3b59a35def97eee0a85f6a67a857" CHECKSUMTYPE="MD5" SIZE="31966">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00019_0.xml"/>
+      </file>
+      <file ID="alto_00019_1" MIMETYPE="text/xml" CHECKSUM="2e26ef2e42bb4ca2dc26fe3d113bf03c" CHECKSUMTYPE="MD5" SIZE="96817">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00019_1.xml"/>
+      </file>
+      <file ID="alto_00020_0" MIMETYPE="text/xml" CHECKSUM="ea716eb267f70ab0eec578d08ef65078" CHECKSUMTYPE="MD5" SIZE="84749">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00020_0.xml"/>
+      </file>
+      <file ID="alto_00020_1" MIMETYPE="text/xml" CHECKSUM="cfc2d41427ee182fb15518dfa303fa54" CHECKSUMTYPE="MD5" SIZE="81297">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00020_1.xml"/>
+      </file>
+      <file ID="alto_00021_0" MIMETYPE="text/xml" CHECKSUM="44f6608c948a54b5fe90c44ee4ba6313" CHECKSUMTYPE="MD5" SIZE="94003">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00021_0.xml"/>
+      </file>
+      <file ID="alto_00021_1" MIMETYPE="text/xml" CHECKSUM="b00ab32b88c5143b53aacb32bf7bea95" CHECKSUMTYPE="MD5" SIZE="37843">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00021_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0003" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="10" lastpage="16">
+              <court pgmap="36" id="b36-8">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="36" id="AJ">85-152</docketnumber>
+              <citation pgmap="36" id="Al">701 S.W.2d 366</citation>
+              <parties pgmap="36" id="b36-7">Darrell H. POPE v. PENNZOIL PRODUCING CO.</parties>
+              <decisiondate pgmap="36" id="AD">Opinion delivered January 13, 1986</decisiondate>
+              <judges pgmap="42" id="b42-7">Purtle, J., not participating.</judges>
+              <attorneys pgmap="37" id="b37-12">Bill F. Jennings, for appellant.</attorneys>
+              <attorneys pgmap="37" id="b37-13">John W. Unger, Jr., for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="37" id="b37-14">Robert H. Dudley, Justice.</author>
+                <p pgmap="37" id="A12">Appellant, Darrell H. Pope, contends that his one-fourth mineral interests are not leased and seeks an accounting from appellee, the owner of the working interest in a producing oil well, for all oil and gas sold. The Chancellor dismissed the petition for an accounting. We affirm.</p>
+                <p pgmap="37" id="b37-15">The mineral interests at issue are under 70 acres of land in Columbia County which were owned by appellant’s father, A.G. Pope, who died intestate on July 11, 1965. Surviving A.G. Pope were his widow, Jupe O. Pope, and their four children; appellant, Jerry Bertie Duke, Gertrude Rolaine, and Garland Pope.</p>
+                <p pgmap="37(12) 38(85)" id="b37-16">In 1956, nine years before his death, A.G. Pope and his wife, Jupe O. Pope, conveyed 30 of the 70 acres to one of their daughters, Gertrude Rolaine, and they then conveyed the other 40 acres to their other daughter, Bertie Duke. Both deeds contained out of the ordinary clauses which provided the convey­ances were to be effective at the death of the grantors and that the grantors reserved the right to sell minerals under the land, to receive bonus money, to receive delay rentals, and to have control of the land for their natural lives.</p>
+                <p pgmap="38" id="b38-6">Bertie Duke did not file her deed for record until July 14, 1965, three days after A.G. Pope’s death. Gertrude Rolaine did not file her deed for record until November 8,1965. On June 20, 1968, two and one-half years after recording the deed, Jupe Pope and Bertie Duke executed an oil and gas lease of the 40 acre tract to the appellee oil company for a term of two years. On July 2, two weeks later, Jupe Pope and Gertrude Rolaine executed an identical oil and gas lease to appellee on the 30 acre tract. Just before these initial leases expired, in mid-summer 1970, the same lessors executed renewal leases on the two tracts. The renewal leases were for a primary term of three years.</p>
+                <p pgmap="38" id="b38-7">On October 17, 1971, appellee commenced drilling and on December 5,1971, completed a producing oil well. In June 1973, Jupe O. Pope and all of the heirs, including appellant, signed a division order which authorized the payment of all royalty to Jupe O. Pope for her lifetime and, in addition, provided:</p>
+                <blockquote pgmap="38" id="b38-8">THIRD: We, the undersigned, do hereby agree that all of Pennzoil Producing Company’s leasehold covering the above described tracts are in full force and effect and we do hereby adopt, ratify and confirm each of Pennzoil Produc­ing Company’s leases covering these tracts and provided Pennzoil pays royalties in the proportions set out, same will be maintained in full force and effect.</blockquote>
+                <p pgmap="38(93) 39(145)" id="b38-9">Jupe O. Pope died on July 31,1979. Appellee Pennzoil then filed a bill of interpleader in order to determine to whom the royalty should be paid. Appellant filed a counter claim asserting that the 1956 deeds from A.G. Pope and wife to Bertie Duke and Gertrude Rolaine were ineffective to pass title. The Chancellor held that there was no delivery of the deeds and, in addition, they were intended as a will, but did not meet the statutory require­ments of a will. The trial court did not decide the validity of the leases to appellee at that time, but decreed that the parties could maintain a separate action concerning the validity of the leases. In 1981, appellant filed the petition in the suit now before us, contending that his one-fourth interest in the 70 acres, which he obtained as a result of the failure of the deeds, is unleased and prayed for “an accounting of all oil and gas sold since date of first production and that all of said monies derived therefrom after pro rata cost of production be paid over to him. . . .” The appellee responded that it was a bona fide purchaser, that appellant was estopped by the ratification of the leases contained in the division order, and that appellant was barred by the combined doctrine of laches and stale demand. The trial court found each of appellee’s defenses was well taken.</p>
+                <p pgmap="39" id="b39-4">The appellant contends that the trial court erred in applying the doctrine of laches to estop him from claiming his one-quarter interest back to the date of first production. The Chancellor was correct.</p>
+                <p pgmap="39" id="b39-5">We have consistently held that oil and gas properties are unusual and require diligence on the part of parties claiming a property interest. Walker-Lucas-Hudson Oil Co. v. Hudson, 168 Ark. 1098, 272 S.W. 836 (1925). In Sanders v. Flenniken, 180 Ark. 303, 21 S.W.2d 430 (1929), this court cited with approval the following language from Patterson v. Hewitt, 195 U.S. 309 (1904):</p>
+                <blockquote pgmap="39" id="b39-6">There is no class of property more subject to sudden and violent fluctuations of value than mining lands. A location which today may have no salable value may in a month become worth millions. Years may be spent in working such property, apparently to no purpose, when suddenly a mass of rich ore may be discovered from which an unusual fortune is realized. Under such circumstances, persons having claims to such property are bound to the utmost diligence in enforcing them, and there is no class of cases in which the doctrine of laches has been more relentlessly enforced.</blockquote>
+                <p pgmap="39" id="b39-7">
+                   In Sanders we continued discussion of the concept as follows:</p>
+                <blockquote pgmap="39(11) 40(46)" id="b39-9">From these citations it will be seen that this court, as well as the Supreme Court of the United States, has uniformly recognized that, on account of the fluctuating and uncertain values of oil and gas lands, parties asserting title thereto must act more promptly than in ordinary cases in which the values remain practically the same.</blockquote>
+                <blockquote pgmap="40" id="b40-6">Of course, it is equally well-settled that, when the question of laches is an issue, the plaintiff is chargeable with such knowledge as he might have obtained upon inquiry, provided the facts already known to him were such as to put the duty of inquiry upon a man of ordinary intelligence.</blockquote>
+                <p pgmap="40" id="b40-7">
+                   Here, the deeds which purported to convey the mineral interests under the 70 acres were recorded in 1965. At that time no oil had been discovered in the drilling unit. The initial oil and gas leases were executed in 1968 and renewed in 1970. Appellant had actual and constructive notice of these leases. Appellee, the owner of the working interest, spent large sums of money drilling from October to December 1971. Production commenced in December 1971. Appellant personally observed the drilling, the erection of the tanks, batteries, pumping units, and the laying of the pipelines. Still, he silently stood by and made no claim until December 1981, thirteen years after the initial leases had been executed, ten years after production had begun, and ten years after the value of the leases had dramatically increased. The Chancellor sagaciously noted:</p>
+                <blockquote pgmap="40" id="b40-8">Due to the risks involved in the exploration for and production of oil and gas, I find that the Plaintiff [appel­lant] should be barred by the doctrine of laches as to any claim at this time to his allegedly unleased mineral interest. No doubt had production ceased before the well paid out the Plaintiff certainly would make no claim to a working interest and share in the cost of drilling, but would only seek payment for his Vs royalty.</blockquote>
+                <p pgmap="40" id="b40-9">The Chancellor was correct. The appellant is barred by the doctrine of laches.</p>
+                <p pgmap="40(16) 41(12)" id="b40-10">The Chancellor additionally applied the doctrine of estoppel because appellant had expressly ratified the leases. Appellant also argues that the Chancellor erred in applying estoppel for this reason.</p>
+                <p pgmap="41" id="b41-4">
+                   The division order, approved by appellant’s attorney and executed by appellant in 1973, provides that appellant does “adopt, ratify, and confirm each of Pennzoil Producing Com­pany’s leases. . . .” Normally, a division order will not consti­tute a conveyance of an interest in the land, minerals, or other interests. However, under some circumstances one who signs a division order may be estopped to deny that the stipulation of interests in the order is correct. 4 Williams &amp; Meyers, Oil &amp; Gas Law § 707 (1985). Here, appellant, the non-leasing concurrent owner, expressly ratified the leases to appellee. Absent fraud or misrepresentation such express ratification is effective to bind appellant. See, e.g. American Refining Co. v. Tidal Western Oil Corp., 264 S.W. 335 (Tex. Civ. App. 1924); 4 Williams &amp; Meyers, Oil &amp; Gas Law § 708 (1985). Under these conditions, detrimental reliance is not essential. Texas &amp; Pacific Coal &amp; Oil Co. v. Kirtley, 288 S.W. 619 (Tex. Civ. App. 1926).</p>
+                <p pgmap="41" id="b41-5">
+                   Appellant tacitly acknowledges that he acquiesed in the leases but argues that they only affect his one-fourth of the one-­eighth royalty interest before his mother’s death. From that basis, he argues that he did not ratify the working interest and therefore, he is entitled to an accounting of the seven-eighths working interest for his one-quarter interest in the land. The argument is without merit. When one executes or ratifies an oil and gas lease to another person in exchange for a one-eighth royalty interest, or some part thereof, he agrees to the seven-­eighths interest being held by someone else. Therefore, the appellant is estopped to deny that the stipulation of interests in the division order is correct.</p>
+                <p pgmap="41" id="b41-6">The Chancellor held that, in addition, the appellee had good title as a bona fide purchaser of the leasehold interests without notice. The appellant contends the ruling was in error. Since we have already upheld the ruling on the basis of the two forms of estoppel we need not discuss this assignment of error.</p>
+                <p pgmap="41(53) 42(18)" id="b41-7">
+                   Appellant additionally argues that appellee will be unjustly enriched if we uphold the Chancellor. Again, the argument is without merit. Appellee spent all of the money and took all of the risk to drill and complete the well. Appellant assumed none of that risk and did not offer to pay his pro rata share of drilling until 10 years after the well was completed. There is no unjust enrichment to appellee.</p>
+                <p pgmap="42" id="b42-6">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="36" ORDERLABEL="10" TYPE="page">
+        <fptr FILEID="tiff_00018_1"/>
+        <fptr FILEID="jp2_00018_1"/>
+        <fptr FILEID="alto_00018_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_36.2" BETYPE="IDREF" FILEID="alto_00018_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="37" ORDERLABEL="11" TYPE="page">
+        <fptr FILEID="tiff_00019_0"/>
+        <fptr FILEID="jp2_00019_0"/>
+        <fptr FILEID="alto_00019_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_37.3" BETYPE="IDREF" FILEID="alto_00019_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="38" ORDERLABEL="12" TYPE="page">
+        <fptr FILEID="tiff_00019_1"/>
+        <fptr FILEID="jp2_00019_1"/>
+        <fptr FILEID="alto_00019_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_38.2" BETYPE="IDREF" FILEID="alto_00019_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="39" ORDERLABEL="13" TYPE="page">
+        <fptr FILEID="tiff_00020_0"/>
+        <fptr FILEID="jp2_00020_0"/>
+        <fptr FILEID="alto_00020_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_39.3" BETYPE="IDREF" FILEID="alto_00020_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="40" ORDERLABEL="14" TYPE="page">
+        <fptr FILEID="tiff_00020_1"/>
+        <fptr FILEID="jp2_00020_1"/>
+        <fptr FILEID="alto_00020_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_40.2" BETYPE="IDREF" FILEID="alto_00020_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="41" ORDERLABEL="15" TYPE="page">
+        <fptr FILEID="tiff_00021_0"/>
+        <fptr FILEID="jp2_00021_0"/>
+        <fptr FILEID="alto_00021_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_41.3" BETYPE="IDREF" FILEID="alto_00021_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="42" ORDERLABEL="16" TYPE="page">
+        <fptr FILEID="tiff_00021_1"/>
+        <fptr FILEID="jp2_00021_1"/>
+        <fptr FILEID="alto_00021_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_42.2" BETYPE="IDREF" FILEID="alto_00021_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b38-8" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_38.6" BETYPE="IDREF" FILEID="alto_00019_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b38-9" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_38.7" BETYPE="IDREF" FILEID="alto_00019_1"/>
+            <area BEGIN="BL_39.1" BETYPE="IDREF" FILEID="alto_00020_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b41-6" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_41.6" BETYPE="IDREF" FILEID="alto_00021_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b38-7" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_38.5" BETYPE="IDREF" FILEID="alto_00019_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b41-7" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_41.7" BETYPE="IDREF" FILEID="alto_00021_0"/>
+            <area BEGIN="BL_42.1" BETYPE="IDREF" FILEID="alto_00021_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b37-14" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_37.13" BETYPE="IDREF" FILEID="alto_00019_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b37-16" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_37.17" BETYPE="IDREF" FILEID="alto_00019_0"/>
+            <area BEGIN="BL_38.1" BETYPE="IDREF" FILEID="alto_00019_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b37-13" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_37.12" BETYPE="IDREF" FILEID="alto_00019_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b37-12" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_37.11" BETYPE="IDREF" FILEID="alto_00019_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AD" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_36.12" BETYPE="IDREF" FILEID="alto_00018_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AJ" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_36.9" BETYPE="IDREF" FILEID="alto_00018_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b40-10" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_40.8" BETYPE="IDREF" FILEID="alto_00020_1"/>
+            <area BEGIN="BL_41.1" BETYPE="IDREF" FILEID="alto_00021_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b36-8" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_36.11" BETYPE="IDREF" FILEID="alto_00018_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b40-7" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_40.5" BETYPE="IDREF" FILEID="alto_00020_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b40-9" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_40.7" BETYPE="IDREF" FILEID="alto_00020_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b42-7" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_42.5" BETYPE="IDREF" FILEID="alto_00021_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b40-8" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_40.6" BETYPE="IDREF" FILEID="alto_00020_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b38-6" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_38.4" BETYPE="IDREF" FILEID="alto_00019_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b40-6" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_40.4" BETYPE="IDREF" FILEID="alto_00020_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b42-6" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_42.4" BETYPE="IDREF" FILEID="alto_00021_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b36-7" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_36.8" BETYPE="IDREF" FILEID="alto_00018_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A12" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_37.14" BETYPE="IDREF" FILEID="alto_00019_0"/>
+            <area BEGIN="BL_37.15" BETYPE="IDREF" FILEID="alto_00019_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b37-15" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_37.16" BETYPE="IDREF" FILEID="alto_00019_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b39-9" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_39.8" BETYPE="IDREF" FILEID="alto_00020_0"/>
+            <area BEGIN="BL_40.1" BETYPE="IDREF" FILEID="alto_00020_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b39-7" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_39.7" BETYPE="IDREF" FILEID="alto_00020_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b39-6" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_39.6" BETYPE="IDREF" FILEID="alto_00020_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b39-5" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_39.5" BETYPE="IDREF" FILEID="alto_00020_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b39-4" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_39.4" BETYPE="IDREF" FILEID="alto_00020_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Al" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_36.10" BETYPE="IDREF" FILEID="alto_00018_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b41-4" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_41.4" BETYPE="IDREF" FILEID="alto_00021_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b41-5" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_41.5" BETYPE="IDREF" FILEID="alto_00021_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

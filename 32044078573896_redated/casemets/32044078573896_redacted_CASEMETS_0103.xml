@@ -1,0 +1,459 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0103" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Moehring v. Kayser">Moehring vs. Kayser</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 457</citation>
+          <decisiondate>1860-07</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00230_0" MIMETYPE="image/tiff" CHECKSUM="0df57c67d7186eac3cf39a7a8af98fec" CHECKSUMTYPE="MD5" SIZE="34390">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00230_0.tif"/>
+      </file>
+      <file ID="tiff_00230_1" MIMETYPE="image/tiff" CHECKSUM="f53d63406a6c82aeae98deef143c30ac" CHECKSUMTYPE="MD5" SIZE="46756">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00230_1.tif"/>
+      </file>
+      <file ID="tiff_00231_0" MIMETYPE="image/tiff" CHECKSUM="3bbb37f7d719bd2f6ac36245480d47e5" CHECKSUMTYPE="MD5" SIZE="49902">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00231_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00230_0" MIMETYPE="image/jp2" CHECKSUM="42a5545626d3833187a90e733ecd99ad" CHECKSUMTYPE="MD5" SIZE="2542461">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00230_0.jp2"/>
+      </file>
+      <file ID="jp2_00230_1" MIMETYPE="image/jp2" CHECKSUM="a25de23ce689e804947957d60691b093" CHECKSUMTYPE="MD5" SIZE="2517230">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00230_1.jp2"/>
+      </file>
+      <file ID="jp2_00231_0" MIMETYPE="image/jp2" CHECKSUM="3357dde4bbfd02263c426c1d63dc1ead" CHECKSUMTYPE="MD5" SIZE="2589112">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00231_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00230_0" MIMETYPE="text/xml" CHECKSUM="17bab308785f3ad729fb4c5471cf3347" CHECKSUMTYPE="MD5" SIZE="71171">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00230_0.xml"/>
+      </file>
+      <file ID="alto_00230_1" MIMETYPE="text/xml" CHECKSUM="9b4e357b0a0a61deb35cd4ac377f0e64" CHECKSUMTYPE="MD5" SIZE="85079">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00230_1.xml"/>
+      </file>
+      <file ID="alto_00231_0" MIMETYPE="text/xml" CHECKSUM="fde4785580d315284d1121f77769fd77" CHECKSUMTYPE="MD5" SIZE="91917">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00231_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0103" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="459" firstpage="457">
+              <parties id="b459-5" pgmap="459">Moehring vs. Kayser.</parties>
+              <attorneys id="b459-10" pgmap="459">Duval and King, for the appellant.</attorneys>
+              <summary id="b459-8" pgmap="459">Appeal from Sebastian Circuit Court.</summary>
+              <summary id="b459-9" pgmap="459">Hon. Felix I. Batson, Circuit Judge.</summary>
+              <summary id="b459-11" pgmap="459">The judgment of the justice was not rendered by default within the meaning of the statute — Dig., sec. 86,. part 2, chap. 95 — the defendant having appeared and filed his set-off, and a regular trial being had upon testimony. Parsel vs. Mayer, 2 Eng. 95; Pryor vs. Williams ex., 295.</summary>
+              <summary id="b459-12" pgmap="459">The court should have permitted the appellant to prove that he did appear before the justice, or to disprove the justice’s response. Justices’ courts not being courts of record, it would not be introducing parol testimony to contradict a record, to prove that the docket entry was false.</summary>
+              <headnotes id="b459-6" pgmap="459">The transcript sent up to the Circuit Court on appeal from the judgment of a justice of the peace is a record, and conclusive between the parties.</headnotes>
+              <headnotes id="b459-7" pgmap="459">Where the defendant, in an attachment from a justice of the peace, appears and enters into bond for the release of the property, and appears before the justice, files a set-off, and consents to a continuance, and a judgment, after trial, is ren­dered against him, it is not such a judgment by default as requires him to appear within fifteen days and move to set it aside in order to warrant an appeal to the Circuit Court.</headnotes>
+              <opinion type="majority">
+                <author id="b459-13" pgmap="459">Mr. Justice Fairchild</author>
+                <p id="ADX" pgmap="459">delivered the opinion of the court.</p>
+                <p id="b459-14" pgmap="459(42) 460(154)">Kayser commenced an action of attachment against Moeh­ring, on an account, before a justice of the peace. Before the return day of the writ of attachment, Moehring filed a bond under the statute for the release of the property attached; and the attachment was dissolved, leaving the cause to be proceeded in as if begun by summons. On the 7th of February, 1855, the return day of the attachment, Moehring filed his set-ofF before the justice of the peace that had charge of the case, on which day the parties appeared, the defendant in person, and agreed to a continuance of the case till the 10th of March, 1855. On that day the trial was had, and the justice of the peace entered in his docket, that there being no evidence to establish the accounts of the plaintiff and of the defendant, the plaintifF called upon the defendant to testify, and had him summoned for that purpose, that upon his failing to appear or testily, the plaintiff was sworn, proved his own account, proved part of that of the defendant, and disproved the remainder, when judgment was given against the defendant according to the evidence.</p>
+                <p id="b460-4" pgmap="460">On the 17th of March, 1855, the defendant prayed an appeal, which was granted to him, upon his filing the affidavit and recognizance required by law.</p>
+                <p id="b460-5" pgmap="460">The justice’s transcript was filed in the Circuit Court clerk’s office, the 5th of April, 1855.</p>
+                <p id="b460-6" pgmap="460">At the February term 1858, of the Circuit Court, Kayser moved to dismiss the cause, because the judgment was taken by default, and no application was made to set it aside within fifteen days from its being rendered.</p>
+                <p id="b460-7" pgmap="460">Before and after this time, various proceedings were had, with a view to have the justice of the peace amend his tran­script, so as to show, in terms, that the defendant did appear by attorney, and contest the plaintiff’s demand upon the day of trial, but the justice refused so to certify. The defendant then wished to contradict the return of the justice to the rule served upon him, by proof, and to examine him individually, he then being out of office, upon interrogatories, which the court refused to allow.</p>
+                <p id="b460-8" pgmap="460">The court, at the same term, sustained the motion of Kayser to dismiss the case, for want of jurisdiction, and Moehring appealed to this court.</p>
+                <p id="b461-4" pgmap="461">He now contends that he ought to have been allowed- to dis­prove the truth of the justice’s return, by showing that he was present on the day of trial, contesting the plaintiff’s demand; and that the judgment of the justice of the peace was not a judgment by default, consequently that his appeal to the Circuit Court was well taken; and that the Circuit Court improperly dismissed him from the court.</p>
+                <p id="b461-5" pgmap="461">The court below was right in refusing the appellant leave to contradict the transcript of the justice, the correctness of which was affirmed by him in response to the rule served upon him.</p>
+                <p id="b461-6" pgmap="461">Within the scope of its jurisdiction the transcript was a record, and, like any other record, conclusive of the facts that were or should have been therein mentioned.</p>
+                <p id="b461-7" pgmap="461">And if contrary to the legal maxim, the record did not dis­close the truth, it must, nevertheless, in law import verity; and the remedy of an injured party must be sought in some other way than by disputing a record, that public policy and settled law require to be held conclusive between the parties.</p>
+                <p id="b461-8" pgmap="461">And it is equally clear that the court erred in dismissing the case, as it had jurisdiction of it, and ought to have tried it on its own merits. For the judgment given by the justice of the peace was not a judgment by default, and the appeal therefrom was properly taken, without any application to set it aside.</p>
+                <p id="b461-9" pgmap="461">Before the return day of the attachment the defendant had appeared to the action, by giving bond to dissolve the attach­ment. On the day fixed for trial, he appeared in person, filed his set-off, and consented to a continuance of the case. On the day of actual trial, judgment was not rendered upon his default, but upon testimony that established part of the set-off, disproved the residue, and established the plaintiff’s demand. The judgment was given on a contested case, and the defen­dant had thirty days in which to appeal from it, without being obliged to apply against it within fifteen days.</p>
+                <p id="b461-10" pgmap="461">Judgment reversed, with instructions to overrule the motion to dismiss for want of jurisdiction, and to set'the case for trial anew in the Circuit Court.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="459" ORDERLABEL="457" TYPE="page">
+        <fptr FILEID="tiff_00230_0"/>
+        <fptr FILEID="jp2_00230_0"/>
+        <fptr FILEID="alto_00230_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_459.2" BETYPE="IDREF" FILEID="alto_00230_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_459.1" BETYPE="IDREF" FILEID="alto_00230_0"/>
+              <area BEGIN="BL_459.3" BETYPE="IDREF" FILEID="alto_00230_0"/>
+              <area BEGIN="BL_459.15" BETYPE="IDREF" FILEID="alto_00230_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="460" ORDERLABEL="458" TYPE="page">
+        <fptr FILEID="tiff_00230_1"/>
+        <fptr FILEID="jp2_00230_1"/>
+        <fptr FILEID="alto_00230_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_460.2" BETYPE="IDREF" FILEID="alto_00230_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_460.3" BETYPE="IDREF" FILEID="alto_00230_1"/>
+              <area BEGIN="BL_460.4" BETYPE="IDREF" FILEID="alto_00230_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="461" ORDERLABEL="459" TYPE="page">
+        <fptr FILEID="tiff_00231_0"/>
+        <fptr FILEID="jp2_00231_0"/>
+        <fptr FILEID="alto_00231_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_461.2" BETYPE="IDREF" FILEID="alto_00231_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_461.1" BETYPE="IDREF" FILEID="alto_00231_0"/>
+              <area BEGIN="BL_461.3" BETYPE="IDREF" FILEID="alto_00231_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b460-4" BETYPE="IDREF" FILEID="casebody_0103"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_460.5" BETYPE="IDREF" FILEID="alto_00230_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b459-5" BETYPE="IDREF" FILEID="casebody_0103"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_459.4" BETYPE="IDREF" FILEID="alto_00230_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b459-6" BETYPE="IDREF" FILEID="casebody_0103"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_459.5" BETYPE="IDREF" FILEID="alto_00230_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b459-7" BETYPE="IDREF" FILEID="casebody_0103"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_459.6" BETYPE="IDREF" FILEID="alto_00230_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b460-5" BETYPE="IDREF" FILEID="casebody_0103"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_460.6" BETYPE="IDREF" FILEID="alto_00230_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b459-8" BETYPE="IDREF" FILEID="casebody_0103"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_459.7" BETYPE="IDREF" FILEID="alto_00230_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b460-8" BETYPE="IDREF" FILEID="casebody_0103"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_460.9" BETYPE="IDREF" FILEID="alto_00230_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b460-6" BETYPE="IDREF" FILEID="casebody_0103"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_460.7" BETYPE="IDREF" FILEID="alto_00230_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b459-9" BETYPE="IDREF" FILEID="casebody_0103"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_459.8" BETYPE="IDREF" FILEID="alto_00230_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b460-7" BETYPE="IDREF" FILEID="casebody_0103"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_460.8" BETYPE="IDREF" FILEID="alto_00230_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b459-14" BETYPE="IDREF" FILEID="casebody_0103"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_459.14" BETYPE="IDREF" FILEID="alto_00230_0"/>
+            <area BEGIN="BL_460.1" BETYPE="IDREF" FILEID="alto_00230_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b459-12" BETYPE="IDREF" FILEID="casebody_0103"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_459.11" BETYPE="IDREF" FILEID="alto_00230_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b459-13" BETYPE="IDREF" FILEID="casebody_0103"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_459.12" BETYPE="IDREF" FILEID="alto_00230_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b459-10" BETYPE="IDREF" FILEID="casebody_0103"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_459.9" BETYPE="IDREF" FILEID="alto_00230_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b459-11" BETYPE="IDREF" FILEID="casebody_0103"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_459.10" BETYPE="IDREF" FILEID="alto_00230_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b461-10" BETYPE="IDREF" FILEID="casebody_0103"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_461.10" BETYPE="IDREF" FILEID="alto_00231_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ADX" BETYPE="IDREF" FILEID="casebody_0103"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_459.13" BETYPE="IDREF" FILEID="alto_00230_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b461-9" BETYPE="IDREF" FILEID="casebody_0103"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_461.9" BETYPE="IDREF" FILEID="alto_00231_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b461-8" BETYPE="IDREF" FILEID="casebody_0103"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_461.8" BETYPE="IDREF" FILEID="alto_00231_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b461-5" BETYPE="IDREF" FILEID="casebody_0103"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_461.5" BETYPE="IDREF" FILEID="alto_00231_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b461-4" BETYPE="IDREF" FILEID="casebody_0103"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_461.4" BETYPE="IDREF" FILEID="alto_00231_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b461-7" BETYPE="IDREF" FILEID="casebody_0103"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_461.7" BETYPE="IDREF" FILEID="alto_00231_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b461-6" BETYPE="IDREF" FILEID="casebody_0103"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_461.6" BETYPE="IDREF" FILEID="alto_00231_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

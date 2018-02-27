@@ -1,0 +1,447 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0123" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Saunders v. Rudd">Saunders, Ad. vs. Rudd, Ad.</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 519</citation>
+          <decisiondate>1860-10</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00261_0" MIMETYPE="image/tiff" CHECKSUM="7335b8a03446207e9f200a7c19278fc5" CHECKSUMTYPE="MD5" SIZE="36980">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00261_0.tif"/>
+      </file>
+      <file ID="tiff_00261_1" MIMETYPE="image/tiff" CHECKSUM="e769d0769f5acaef06779dbcc28735ea" CHECKSUMTYPE="MD5" SIZE="52506">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00261_1.tif"/>
+      </file>
+      <file ID="tiff_00262_0" MIMETYPE="image/tiff" CHECKSUM="348e404636e65498213d4d6489bdcada" CHECKSUMTYPE="MD5" SIZE="30580">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00262_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00261_0" MIMETYPE="image/jp2" CHECKSUM="10a3c4e90499d3349a69300f14e5a03d" CHECKSUMTYPE="MD5" SIZE="2431987">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00261_0.jp2"/>
+      </file>
+      <file ID="jp2_00261_1" MIMETYPE="image/jp2" CHECKSUM="f1e77ed9adea980ec043da456ec23620" CHECKSUMTYPE="MD5" SIZE="2432293">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00261_1.jp2"/>
+      </file>
+      <file ID="jp2_00262_0" MIMETYPE="image/jp2" CHECKSUM="d2d65cc9de88cac0d33dcb6b01e1892e" CHECKSUMTYPE="MD5" SIZE="2420910">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00262_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00261_0" MIMETYPE="text/xml" CHECKSUM="aa8618f0b0a12e3150bc049590129fc5" CHECKSUMTYPE="MD5" SIZE="75096">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00261_0.xml"/>
+      </file>
+      <file ID="alto_00261_1" MIMETYPE="text/xml" CHECKSUM="17f9466e844eb8b13503fad39e25935e" CHECKSUMTYPE="MD5" SIZE="89906">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00261_1.xml"/>
+      </file>
+      <file ID="alto_00262_0" MIMETYPE="text/xml" CHECKSUM="19531f2a5d77699d59d34ca83e89e0fe" CHECKSUMTYPE="MD5" SIZE="59799">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00262_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0123" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="521" firstpage="519">
+              <parties id="b521-4" pgmap="521">Saunders, Ad. vs. Rudd, Ad.</parties>
+              <attorneys id="b521-8" pgmap="521">Garland, for the appellant.</attorneys>
+              <attorneys id="b521-14" pgmap="521">Fowler &amp; Stillwell, for the appellees,</attorneys>
+              <summary id="b521-7" pgmap="521">Appeal from Chicot Circuit Court.</summary>
+              <summary id="A3p" pgmap="521">lion. John C. Murray, Circuit Judge.</summary>
+              <summary id="b521-9" pgmap="521">A party must present his claim duly authenticated to the administrator for allowance before he can sue on it. 2 Eng. R. 78; 14 Ark. 237; lb; 246; sec. 99,p. 120, sec. 102, p. 121, Gould’s Dig.</summary>
+              <summary id="b521-12" pgmap="521">The administrator, acting in a purely fiduciary character, cannot be sued until demand, especially on contracts of his intestate. 2 Williams Ex’rs. 1370; 2 Eng. 429.</summary>
+              <summary id="b521-13" pgmap="521">The party suing before presenting his claim to the adminis­trator is not entitled to costs. Gould’s Dig. p. 122, sec. 108.</summary>
+              <summary id="A18" pgmap="521">referred to section 94, ch. 4 Dig.; 2 Eng. 78; 8 Eng. 278.</summary>
+              <headnotes id="b521-5" pgmap="521">A demand against the estate of a deceased person must be authenticated by the affidavit of the claimant before suit can be brought upon it in any of the courts: but the presentation of it to the administrator for allowance is not a prerequisite ' to tiie right of action.</headnotes>
+              <headnotes id="b521-6" pgmap="521">If suit be brought upon such demand, after being sworn to, without presenting it to the administrator for allowance, and the suit be not controverted, the claimant is not entitled to costs; but if it be controverted, and he recover judgment he is entitled to his costs.</headnotes>
+              <opinion type="majority">
+                <author id="b521-15" pgmap="521">Mr. Chief Justice English</author>
+                <p id="A2z" pgmap="521(66) 522(33)">delivered the opinion of the Court. The action in this case was assumpsit, for money had and received, brought by Rudd as administrator of Maulding against Saunders as administrator of Wm. McD. Pettit. The defendant pleaded non assumpsit and limitation, and upon the trial, it was proven that the plaintiff had sworn to the demand, as required by the statute, before the commencement of the suit, but there was no evidence that he had presented it to the defendant for allowance before bringing the action upon the demand. The defendant moved the court to instruct the jury as follows:</p>
+                <blockquote id="b522-4" pgmap="522">■ “ That before the plaintiff can recover in this suit, he must show that he swore to the justice of his account and presented the same to John II. Gaunders, administrator of said McD. Pettit, for allowance against said McD. Pettit’s estate, previous to the bringing of this suit.”</blockquote>
+                <p id="b522-5" pgmap="522">Which instruction the court refused to give. There was a verdict and judgment in Javor of the plaintiff for the amount of the demand, and costs of suit. A new trial was refused the defendant, and he appealed.</p>
+                <p id="b522-6" pgmap="522">A demand against the estate of a deceased person must be authenticated by the affidavit of the claimant before suit can be brought upon it in any of the courts.</p>
+                <p id="b522-7" pgmap="522">The oath required by the statute is a prerequisite to the right of action. Gould’s Dig. sec. 102-3, etc., 107 ch. 4; Walker as Ad. vs. Byers 14 Ark. 247.</p>
+                <p id="b522-8" pgmap="522">After the demand is thus authenticated, the claimant may present it to the administrator for allowance, and if rejected, he may apply to the Probate Court for judgment upon the demand, after notice to the administrator, in the mode pre­scribed by the statute (Ib. see. 116; Hudson vs. Breeding et al., 2 Eng. 446;) or he may bring an ordinary suit upon the claim in any of the courts having jurisdiction of the subject matter. If he commence such suit without presenting the demand to the administrator for allowance, after he' has sworn to it, and the suit is not controverted, he is not entitled to judgment for costs. Ib. sec. 108; Ryan et al. vs. Lemon as Ad. 2 Eng. 78.</p>
+                <p id="b522-9" pgmap="522">But if the suit is controverted, and the claimant recover judgment for the demand, as in the case now before us, he is entitled to costs. Maddin as Adm’r. vs. State Bank, 13 Ark. 276.</p>
+                <p id="b522-10" pgmap="522(26) 523(91)">In the first case, the fact that the administrator does not con- • trovert the suit, is an indication that if the claim had been pre­sented to him (with the affidavit attached) before suit, he would have allowed it, and thereby saved costs; but in the second case, the fact that he controverts the suit is an indication that an application to him,to allow the claim before suit would have been fruitless. We suppose it was for this reason that the legis­lature declared that the claimant should not be allowed costs in the first - case, and left the second case open for the application of the general rule that the costs follow the judgment.</p>
+                <p id="b523-4" pgmap="523">The court below did not err in refusing to give the instruc­tion above copied; and the counsel for appellant insisting upon no other point, the judgment must be affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="521" ORDERLABEL="519" TYPE="page">
+        <fptr FILEID="tiff_00261_0"/>
+        <fptr FILEID="jp2_00261_0"/>
+        <fptr FILEID="alto_00261_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_521.2" BETYPE="IDREF" FILEID="alto_00261_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_521.1" BETYPE="IDREF" FILEID="alto_00261_0"/>
+              <area BEGIN="BL_521.3" BETYPE="IDREF" FILEID="alto_00261_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="522" ORDERLABEL="520" TYPE="page">
+        <fptr FILEID="tiff_00261_1"/>
+        <fptr FILEID="jp2_00261_1"/>
+        <fptr FILEID="alto_00261_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_522.2" BETYPE="IDREF" FILEID="alto_00261_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_522.3" BETYPE="IDREF" FILEID="alto_00261_1"/>
+              <area BEGIN="BL_522.4" BETYPE="IDREF" FILEID="alto_00261_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="523" ORDERLABEL="521" TYPE="page">
+        <fptr FILEID="tiff_00262_0"/>
+        <fptr FILEID="jp2_00262_0"/>
+        <fptr FILEID="alto_00262_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_523.3" BETYPE="IDREF" FILEID="alto_00262_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_523.2" BETYPE="IDREF" FILEID="alto_00262_0"/>
+              <area BEGIN="BL_523.4" BETYPE="IDREF" FILEID="alto_00262_0"/>
+              <area BEGIN="BL_523.13" BETYPE="IDREF" FILEID="alto_00262_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_523.6" BETYPE="IDREF" FILEID="alto_00262_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b522-7" BETYPE="IDREF" FILEID="casebody_0123"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_522.8" BETYPE="IDREF" FILEID="alto_00261_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b522-6" BETYPE="IDREF" FILEID="casebody_0123"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_522.7" BETYPE="IDREF" FILEID="alto_00261_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b522-5" BETYPE="IDREF" FILEID="casebody_0123"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_522.6" BETYPE="IDREF" FILEID="alto_00261_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b522-4" BETYPE="IDREF" FILEID="casebody_0123"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_522.5" BETYPE="IDREF" FILEID="alto_00261_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b521-8" BETYPE="IDREF" FILEID="casebody_0123"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_521.9" BETYPE="IDREF" FILEID="alto_00261_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b521-9" BETYPE="IDREF" FILEID="casebody_0123"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_521.10" BETYPE="IDREF" FILEID="alto_00261_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b521-4" BETYPE="IDREF" FILEID="casebody_0123"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_521.4" BETYPE="IDREF" FILEID="alto_00261_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b521-5" BETYPE="IDREF" FILEID="casebody_0123"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_521.5" BETYPE="IDREF" FILEID="alto_00261_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b521-6" BETYPE="IDREF" FILEID="casebody_0123"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_521.6" BETYPE="IDREF" FILEID="alto_00261_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b521-7" BETYPE="IDREF" FILEID="casebody_0123"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_521.7" BETYPE="IDREF" FILEID="alto_00261_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b523-4" BETYPE="IDREF" FILEID="casebody_0123"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_523.5" BETYPE="IDREF" FILEID="alto_00262_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b522-9" BETYPE="IDREF" FILEID="casebody_0123"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_522.10" BETYPE="IDREF" FILEID="alto_00261_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A18" BETYPE="IDREF" FILEID="casebody_0123"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_521.14" BETYPE="IDREF" FILEID="alto_00261_0"/>
+            <area BEGIN="BL_521.15" BETYPE="IDREF" FILEID="alto_00261_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b522-8" BETYPE="IDREF" FILEID="casebody_0123"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_522.9" BETYPE="IDREF" FILEID="alto_00261_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b521-14" BETYPE="IDREF" FILEID="casebody_0123"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_521.13" BETYPE="IDREF" FILEID="alto_00261_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b521-15" BETYPE="IDREF" FILEID="casebody_0123"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_521.16" BETYPE="IDREF" FILEID="alto_00261_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b521-12" BETYPE="IDREF" FILEID="casebody_0123"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_521.11" BETYPE="IDREF" FILEID="alto_00261_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b521-13" BETYPE="IDREF" FILEID="casebody_0123"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_521.12" BETYPE="IDREF" FILEID="alto_00261_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b522-10" BETYPE="IDREF" FILEID="casebody_0123"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_522.11" BETYPE="IDREF" FILEID="alto_00261_1"/>
+            <area BEGIN="BL_523.1" BETYPE="IDREF" FILEID="alto_00262_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A3p" BETYPE="IDREF" FILEID="casebody_0123"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_521.8" BETYPE="IDREF" FILEID="alto_00261_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A2z" BETYPE="IDREF" FILEID="casebody_0123"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_521.17" BETYPE="IDREF" FILEID="alto_00261_0"/>
+            <area BEGIN="BL_521.18" BETYPE="IDREF" FILEID="alto_00261_0"/>
+            <area BEGIN="BL_522.1" BETYPE="IDREF" FILEID="alto_00261_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,666 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0030" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Orr v. State">Robert ORR v. STATE of Arkansas</name>
+          <docketnumber>CR 85-145</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 118</citation>
+          <citation category="parallel" type="bluebook">703 S.W.2d 438</citation>
+          <decisiondate>1986-02-03</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:00Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00072_1" MIMETYPE="image/tiff" CHECKSUM="761d334eafabdb4e7436b8293f7eb7f3" CHECKSUMTYPE="MD5" SIZE="17910">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00072_1.tif"/>
+      </file>
+      <file ID="tiff_00073_0" MIMETYPE="image/tiff" CHECKSUM="f8a308184cabe66242ddb27c2af669f6" CHECKSUMTYPE="MD5" SIZE="3530">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00073_0.tif"/>
+      </file>
+      <file ID="tiff_00073_1" MIMETYPE="image/tiff" CHECKSUM="dfcedb3702179510dbd6e9842457829e" CHECKSUMTYPE="MD5" SIZE="42510">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00073_1.tif"/>
+      </file>
+      <file ID="tiff_00074_0" MIMETYPE="image/tiff" CHECKSUM="336aa3a548249ab6c4367acebcc1a205" CHECKSUMTYPE="MD5" SIZE="55684">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00074_0.tif"/>
+      </file>
+      <file ID="tiff_00074_1" MIMETYPE="image/tiff" CHECKSUM="4cde4a8e3697caaaebf558576876cc8a" CHECKSUMTYPE="MD5" SIZE="51020">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00074_1.tif"/>
+      </file>
+      <file ID="tiff_00075_0" MIMETYPE="image/tiff" CHECKSUM="3e4b79f18129a264aa803b76aba6f8a8" CHECKSUMTYPE="MD5" SIZE="54174">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00075_0.tif"/>
+      </file>
+      <file ID="tiff_00075_1" MIMETYPE="image/tiff" CHECKSUM="b416b22edce1c24bf66ec35258ac7d9f" CHECKSUMTYPE="MD5" SIZE="57702">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00075_1.tif"/>
+      </file>
+      <file ID="tiff_00076_0" MIMETYPE="image/tiff" CHECKSUM="4b30b25b8749d7bbec1faa404e43b3f4" CHECKSUMTYPE="MD5" SIZE="27726">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00076_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00072_1" MIMETYPE="image/jp2" CHECKSUM="04495b9c7c6e0602b3d1fb29688985c2" CHECKSUMTYPE="MD5" SIZE="1720726">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00072_1.jp2"/>
+      </file>
+      <file ID="jp2_00073_0" MIMETYPE="image/jp2" CHECKSUM="9c2d18b6166ac0efce538853f3bb2307" CHECKSUMTYPE="MD5" SIZE="1017366">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00073_0.jp2"/>
+      </file>
+      <file ID="jp2_00073_1" MIMETYPE="image/jp2" CHECKSUM="160b245c6094d8f219eed1d2a1244728" CHECKSUMTYPE="MD5" SIZE="2274678">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00073_1.jp2"/>
+      </file>
+      <file ID="jp2_00074_0" MIMETYPE="image/jp2" CHECKSUM="27eb10878b7ae5aa35cfde132355a074" CHECKSUMTYPE="MD5" SIZE="2517234">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00074_0.jp2"/>
+      </file>
+      <file ID="jp2_00074_1" MIMETYPE="image/jp2" CHECKSUM="c89c528202652d9d497f7f11cf4b8cee" CHECKSUMTYPE="MD5" SIZE="2476666">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00074_1.jp2"/>
+      </file>
+      <file ID="jp2_00075_0" MIMETYPE="image/jp2" CHECKSUM="c1086baa15e1a5947714fa46abcb4cf6" CHECKSUMTYPE="MD5" SIZE="2496701">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00075_0.jp2"/>
+      </file>
+      <file ID="jp2_00075_1" MIMETYPE="image/jp2" CHECKSUM="9258b3b1f9a28fc4ac4d5e9184e09ce1" CHECKSUMTYPE="MD5" SIZE="2604295">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00075_1.jp2"/>
+      </file>
+      <file ID="jp2_00076_0" MIMETYPE="image/jp2" CHECKSUM="cc25e706a4c1e5fd656674d1ccaac216" CHECKSUMTYPE="MD5" SIZE="1966570">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00076_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00072_1" MIMETYPE="text/xml" CHECKSUM="a0d7ed4e7f19599641c959605e249f04" CHECKSUMTYPE="MD5" SIZE="30653">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00072_1.xml"/>
+      </file>
+      <file ID="alto_00073_0" MIMETYPE="text/xml" CHECKSUM="2bce938035893899af245fc77daa9b74" CHECKSUMTYPE="MD5" SIZE="1687">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00073_0.xml"/>
+      </file>
+      <file ID="alto_00073_1" MIMETYPE="text/xml" CHECKSUM="c3e3ebd0a8056bba6640c8b0c948c6be" CHECKSUMTYPE="MD5" SIZE="71836">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00073_1.xml"/>
+      </file>
+      <file ID="alto_00074_0" MIMETYPE="text/xml" CHECKSUM="0bd88726b245c4d674be728de83de8dc" CHECKSUMTYPE="MD5" SIZE="94692">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00074_0.xml"/>
+      </file>
+      <file ID="alto_00074_1" MIMETYPE="text/xml" CHECKSUM="c3da47afe3114d87f355efd534f67d0a" CHECKSUMTYPE="MD5" SIZE="83828">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00074_1.xml"/>
+      </file>
+      <file ID="alto_00075_0" MIMETYPE="text/xml" CHECKSUM="61530cca8cfd71938b9c9b320b48ff7d" CHECKSUMTYPE="MD5" SIZE="92016">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00075_0.xml"/>
+      </file>
+      <file ID="alto_00075_1" MIMETYPE="text/xml" CHECKSUM="f5d24320e1251ad385db5d47f6e86533" CHECKSUMTYPE="MD5" SIZE="98794">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00075_1.xml"/>
+      </file>
+      <file ID="alto_00076_0" MIMETYPE="text/xml" CHECKSUM="1772b7a0dbef4a5210f03091e1a6877b" CHECKSUMTYPE="MD5" SIZE="44068">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00076_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0030" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="118" lastpage="125">
+              <court pgmap="144" id="b144-12">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="144" id="b144-10">CR 85-145</docketnumber>
+              <citation pgmap="144" id="b144-11">703 S.W.2d 438</citation>
+              <parties pgmap="144" id="b144-9">Robert ORR v. STATE of Arkansas</parties>
+              <decisiondate pgmap="144" id="ALU">Opinion delivered February 3, 1986</decisiondate>
+              <judges pgmap="151" id="b151-8">Purtle, J., not participating.</judges>
+              <attorneys pgmap="146" id="b146-11">Joe Villines, Jr., for appellant.</attorneys>
+              <attorneys pgmap="146" id="b146-12">Steve Clark, Att’y Gen., by: Charles R. Lucas, Asst. Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="146" id="b146-13">Jack Holt, Jr., Chief Justice.</author>
+                <p pgmap="146" id="A6_">The appellant, Robert Orr, was convicted by a jury of first degree murder and sentenced to life imprisonment. It is from that conviction that this appeal is brought. Our jurisdiction is pursuant to Sup. Ct. R. 29(1)(b). We affirm.</p>
+                <p pgmap="146" id="b146-14">Testimony at the trial indicated that appellant and the victim, Loretta Daniels, had been having an affair for several years. At about 1:30 a.m. on May 16,1984, Mrs. Daniels and her five-year-old daughter, Patty, were sitting in their car outside the entrance to the Mar-Bax Shirt Factory in Gassville, Arkansas. They were waiting for Bill Daniels, Mrs. Daniels’ husband, to get off of work when a pickup truck pulled alongside the car. A shot was fired from the truck which hit the car and then struck Mrs. Daniels on the top of her head, killing her. Later that morning, Orr and his wife and son arrived at the Mountain Home Police Department, where Orr turned himself in. He was transported to the Baxter County Sheriffs Office where he was given a Miranda warning and signed a rights waiver form. He then gave a statement confessing the shooting. Trace metal detection tests were performed on Orr with positive results. After a preliminary hearing, the trial judge ruled the confession and the trace metal test results were admissible.</p>
+                <p pgmap="146" id="b146-15">The appellant’s first argument on appeal is that it was error to admit into evidence his statement because it was involuntary, and the trace metal detection tests, as they were performed without notification to Orr of his Miranda rights.</p>
+                <p pgmap="146(17) 147(71)" id="b146-16">
+                   We independently review the totality of the circum­stances surrounding a confession to determine whether an ac­cused knowingly, voluntarily and intelligently waived his consti­tutional rights. Cessor v. State, 282 Ark. 330, 668 S.W.2d 525 (1984). Among the factors considered in determining the validity of a confession are the age, education, and intelligence of the accused, the advice or lack of advice of his constitutional rights, the length of detention, the repeated or prolonged nature of the questioning, or the use of mental or physical punishment. Id.</p>
+                <p pgmap="147" id="b147-6">Applying this test, the appellant is 36. There is no specific testimony about his education or intelligence, but he testified that he had worked at Travenol Laboratories in Mountain Home for eight and one half years as an assembly worker in the needle department, and he wrote songs as a hobby. He also indicated he could read, since he stated during his testimony that he read his statement over before the trial. Orr was advised of his constitu­tional rights and signed a rights waiver form. He was detained about three and one half hours, an hour of which was spent setting up and conducting the trace metal test, and he was questioned twice, once informally before the trace metal test, and once after. There was no evidence of or testimony about mental or physical punishment.</p>
+                <p pgmap="147" id="b147-7">The appellant bases his argument for exclusion of the confession on the fact that he was so upset at the time the statement was made that he did not fully understand his constitu­tional rights. In fact, the appellant testified that he did not even remember if he was read the Miranda warnings, nor did he remember signing the rights waiver form. Appellant also points to the testimony of the officers that some of his answers to questions were not responsive, and the fact that at the conclusion of the confession he refused to sign the statement and requested a lawyer, as evidence that he did not understand that he was giving testimony against himself.</p>
+                <p pgmap="147" id="b147-8">The officer who read appellant his rights testified, however, that when he signed the rights waiver form and by the time the interview began, Orr “had settled down” and was not shaking anymore and was giving responsive answers.</p>
+                <p pgmap="147(42) 148(51)" id="b147-9">
+                   Examination of Orr’s seven page statement reveals a step by step narrative of Orr’s activities on the evening in question and detailed information as to his relationship with the victim. Although he refused to sign this confession, he was asked by an officer if he wanted to make corrections. The officer testified that Orr did, and that both he and Orr placed their initials on the various pages where corrections appear. This scenario is sufficient to support a conclusion that the appellant’s statement to the investigating officers was given knowingly, intelligently and voluntarily.</p>
+                <p pgmap="148" id="b148-6">The trial court found the appellant knowingly and intelli­gently waived his right to remain silent after being given the standard Miranda warnings. The court also found the confession was voluntary. The court recognized that there was evidence that at one or two points the appellant experienced rather substantial emotional upset but that there was not evidence indicating “the emotional upset occurred at the time that he was advised of his rights or even occurred during the interview. . . The Court can’t help but believe that [it was] a conscious and deliberate act on his part in giving that statement and that it was voluntary. That his present posturing of amnesia, the Court does not find particularly credible.”</p>
+                <p pgmap="148" id="b148-7">
+                   When testimony as to the circumstances surrounding the taking of a confession is conflicting, it is for the trial court to weigh the evidence and resolve the credibility of the witnesses and we do not disturb the court’s finding unless it was clearly against the preponderance of the evidence. Fuller v. State, 278 Ark. 450, 646 S.W.2d 700 (1983). The court’s decision was not clearly against the preponderance of the evidence. The confession was properly admitted.</p>
+                <p pgmap="148" id="b148-8">
+                   The appellant’s contention that the results of the trace metal test should have been excluded is also without merit. Physical tests, such as the trace metal test, are not within the purview of the fifth amendment protection against self-incrimi­nation. Weatherford v. State, 286 Ark. 376, 692 S.W.2d 605 (1985).</p>
+                <p pgmap="148" id="b148-9">The admission into evidence of state’s exhibits 1,5 and 19, all photographs, is next challenged by the appellant. He contends these three photographs have no substantial evidentiary value and unfairly prejudiced or inflamed the jury.</p>
+                <p pgmap="148(21) 149(148)" id="b148-10">
+                   Exhibit 1 is a photograph of the back of the victim’s shaved head showing the wound area. The other two pictures show a portion of the victim’s skull and hair stuck to the car headliner. Exhibit 1 was used by Dr. Donna Brown, a forensic pathologist, to explain the wound received by the victim and the manner in which it caused her death. The question of admissibil­ity of photographs lies largely in the sound discretion of the trial court. Hill v. State, 275 Ark. 71, 628 S.W.2d 285 (1982), rehearing denied. Even inflammatory pictures are admissible “if they tend to shed light on any issue or are useful to enable a witness to better describe the objects portrayed or the jury to better understand the testimony or to corroborate testimony.” Prunty v. State, 271 Ark. 77, 607 S.W.2d 374 (1980) (quoting Sumlin v. State, 266 Ark. 709, 587 S.W.2d 571 (1979)). The photograph of the wound was permissible since it corroborated Dr. Brown’s testimony. Fuller v. State, supra.</p>
+                <p pgmap="149" id="b149-6">
+                   Exhibits 5 and 19 were admitted into evidence without an objection by appellant as to unfair prejudice, thus this argument cannot be raised for the first time on appeal. Neverthe­less, the trial judge did not abuse his discretion in admitting the pictures since they were used by investigating officers in their testimony to demonstrate where the bullet hit the car and deflected.</p>
+                <p pgmap="149" id="b149-7">Appellant next contends that the statements made by 5-­year-old Patty Daniels to the police were hearsay and were therefore inadmissible. Auxiliary Deputy Larry Haskins testified that he questioned Patty about what happened and she told him, “Yes this man shot my mommy.” She said a brown truck pulled up beside their car and her mother told the man to go home and she also said the man wore dark rimmed glasses. Patty told Deputy Sheriff Major McPherson that a man in a brown truck with dark framed glasses shot her mommy in the head.</p>
+                <p pgmap="149" id="b149-8">
+                   Patty’s statements to the police were hearsay and it was error to admit them. They do not fall within the Unif. R. Evid. 803(3) exception governing statements of then existing states of mind, because that exception does not include “a statement of memory or belief to prove the fact remembered or believed.” Patty’s quoted declarations were inadmissible as they were statements of her memory about the past, not statements of an existing state of mind. State v. Abernathy, 265 Ark. 218, 577 S.W.2d 591 (1979).</p>
+                <p pgmap="150" id="b150-5">
+                   Although we find that Patty’s comments to police officers should have been excluded, the trial court’s error was harmless. Before the police testimony was offered at the trial, seven witnesses testified without objection that Patty ran by after the shooting saying “somebody shot my mommy”. Patty was heard by one witness to say that a man pulled up in his truck and shot her. momma, and Bill Daniels, Patty’s father, testified she told him “Momma got shot” and “Robert done it daddy. Momma told him to go away, go home and leave me alone and he wouldn’t do it and he shot mommy.” The only new information given to the police by Patty was that the truck was brown and the man wore glasses. The fact that the pickup truck parked next to the victim’s car was brown was attested to by the other witnesses in the parking lot that night. Since the same evidence was introduced by other witnesses and was properly before the jury for its considera­tion, it was harmless error to allow the officers to testify as to Patty’s statements to them. See Mackey v. State, 279 Ark. 307, 651 S.W.2d 82 (1983). The appellant also claims Patty’s state­ments were inconsistent. That, however, was a matter for the jury to resolve when it weighed the credibility of the witnesses.</p>
+                <p pgmap="150" id="b150-6">The final two issues raised by appellant are that the court erred by limiting testimony about statements made by Loretta Daniels to Patsy Gwenn Estes on the night of the shooting concerning her relationship with appellant, and by not allowing defense counsel to explore the history of that relationship.</p>
+                <p pgmap="150" id="b150-7">
+                   As to the first limitation on testimony, appellant stated that Ms. Estes would have testified that on the night of the shooting, the deceased had a date with the appellant but later made a second date with a man named Bill and was going to break the date with appellant. This information, according to appellant, would have corroborated his testimony. The court ruled that the defense could elicit statements from Ms. Estes that “the decedent said that she was supposed to meet Robert that night and that she was wishing to avoid meeting Robert that night.” That is substantially what Ms. Estes said in her testimony. Inasmuch as the appellant was allowed to inquire into the subject he indicated a desire to pursue, no error was committed.</p>
+                <p pgmap="150(20) 151(119)" id="b150-8">
+                   We need not reach the second limitation on testimony claimed by appellant. He argues that he was denied the opportu­nity to explore the relationship between appellant and the decedent, but he did not proffer the evidence he would have presented. We have held that “where error is assigned in the refusal of the court to hear testimony of a witness, the record must disclose the substance or purport of the offered testimony, so that this court may determine whether or not its rejection was prejudicial.” Williams v. State, 258 Ark. 207, 523 S.W.2d 377 (1975), (quoting Latourette v. State, 91 Ark. 65, 120 S.W. 411 (1909)). Here, the appellant did present testimony by several parties that the appellant and Loretta Daniels were apparently having an affair. Without knowing what additional testimony was refused, we cannot address its exclusion.</p>
+                <p pgmap="151" id="b151-6">Pursuant to Ark. Stat. Ann. § 43-2725 (Repl. 1977) and Sup. Ct. R. 11(f) we have reviewed all objections brought to our attention in the abstract and briefs. We find no prejudicial error.</p>
+                <p pgmap="151" id="b151-7">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="144" ORDERLABEL="118" TYPE="page">
+        <fptr FILEID="tiff_00072_1"/>
+        <fptr FILEID="jp2_00072_1"/>
+        <fptr FILEID="alto_00072_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_144.2" BETYPE="IDREF" FILEID="alto_00072_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="145" ORDERLABEL="119" TYPE="page">
+        <fptr FILEID="tiff_00073_0"/>
+        <fptr FILEID="jp2_00073_0"/>
+        <fptr FILEID="alto_00073_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_145.3" BETYPE="IDREF" FILEID="alto_00073_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="146" ORDERLABEL="120" TYPE="page">
+        <fptr FILEID="tiff_00073_1"/>
+        <fptr FILEID="jp2_00073_1"/>
+        <fptr FILEID="alto_00073_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_146.2" BETYPE="IDREF" FILEID="alto_00073_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="147" ORDERLABEL="121" TYPE="page">
+        <fptr FILEID="tiff_00074_0"/>
+        <fptr FILEID="jp2_00074_0"/>
+        <fptr FILEID="alto_00074_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_147.3" BETYPE="IDREF" FILEID="alto_00074_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="148" ORDERLABEL="122" TYPE="page">
+        <fptr FILEID="tiff_00074_1"/>
+        <fptr FILEID="jp2_00074_1"/>
+        <fptr FILEID="alto_00074_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_148.2" BETYPE="IDREF" FILEID="alto_00074_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="149" ORDERLABEL="123" TYPE="page">
+        <fptr FILEID="tiff_00075_0"/>
+        <fptr FILEID="jp2_00075_0"/>
+        <fptr FILEID="alto_00075_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_149.3" BETYPE="IDREF" FILEID="alto_00075_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="150" ORDERLABEL="124" TYPE="page">
+        <fptr FILEID="tiff_00075_1"/>
+        <fptr FILEID="jp2_00075_1"/>
+        <fptr FILEID="alto_00075_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_150.1" BETYPE="IDREF" FILEID="alto_00075_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="151" ORDERLABEL="125" TYPE="page">
+        <fptr FILEID="tiff_00076_0"/>
+        <fptr FILEID="jp2_00076_0"/>
+        <fptr FILEID="alto_00076_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_151.3" BETYPE="IDREF" FILEID="alto_00076_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b147-8" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_147.6" BETYPE="IDREF" FILEID="alto_00074_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b147-9" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_147.7" BETYPE="IDREF" FILEID="alto_00074_0"/>
+            <area BEGIN="BL_148.1" BETYPE="IDREF" FILEID="alto_00074_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b150-8" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_150.6" BETYPE="IDREF" FILEID="alto_00075_1"/>
+            <area BEGIN="BL_151.1" BETYPE="IDREF" FILEID="alto_00076_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b150-5" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_150.3" BETYPE="IDREF" FILEID="alto_00075_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b150-6" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_150.4" BETYPE="IDREF" FILEID="alto_00075_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b150-7" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_150.5" BETYPE="IDREF" FILEID="alto_00075_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b147-6" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_147.4" BETYPE="IDREF" FILEID="alto_00074_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b147-7" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_147.5" BETYPE="IDREF" FILEID="alto_00074_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b151-8" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_151.6" BETYPE="IDREF" FILEID="alto_00076_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b148-10" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_148.8" BETYPE="IDREF" FILEID="alto_00074_1"/>
+            <area BEGIN="BL_149.1" BETYPE="IDREF" FILEID="alto_00075_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b151-7" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_151.5" BETYPE="IDREF" FILEID="alto_00076_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b151-6" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_151.4" BETYPE="IDREF" FILEID="alto_00076_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b144-9" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_144.8" BETYPE="IDREF" FILEID="alto_00072_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b146-13" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_146.9" BETYPE="IDREF" FILEID="alto_00073_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b146-15" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_146.13" BETYPE="IDREF" FILEID="alto_00073_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b146-14" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_146.12" BETYPE="IDREF" FILEID="alto_00073_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b149-8" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_149.6" BETYPE="IDREF" FILEID="alto_00075_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b146-16" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_146.14" BETYPE="IDREF" FILEID="alto_00073_1"/>
+            <area BEGIN="BL_147.1" BETYPE="IDREF" FILEID="alto_00074_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b146-11" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_146.7" BETYPE="IDREF" FILEID="alto_00073_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b148-9" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_148.7" BETYPE="IDREF" FILEID="alto_00074_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b148-8" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_148.6" BETYPE="IDREF" FILEID="alto_00074_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b148-7" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_148.5" BETYPE="IDREF" FILEID="alto_00074_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b148-6" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_148.4" BETYPE="IDREF" FILEID="alto_00074_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b149-6" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_149.4" BETYPE="IDREF" FILEID="alto_00075_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b149-7" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_149.5" BETYPE="IDREF" FILEID="alto_00075_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b144-12" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_144.11" BETYPE="IDREF" FILEID="alto_00072_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b144-11" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_144.10" BETYPE="IDREF" FILEID="alto_00072_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b144-10" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_144.9" BETYPE="IDREF" FILEID="alto_00072_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b146-12" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_146.8" BETYPE="IDREF" FILEID="alto_00073_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ALU" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_144.12" BETYPE="IDREF" FILEID="alto_00072_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A6_" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_146.10" BETYPE="IDREF" FILEID="alto_00073_1"/>
+            <area BEGIN="BL_146.11" BETYPE="IDREF" FILEID="alto_00073_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

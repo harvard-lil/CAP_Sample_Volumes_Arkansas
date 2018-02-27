@@ -1,0 +1,599 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0148" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Hill v. Bentco Leasing, Inc.">Jack HILL v. BENTCO LEASING, INC.</name>
+          <docketnumber>85-233</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 623</citation>
+          <citation category="parallel" type="bluebook">708 S.W.2d 608</citation>
+          <decisiondate>1986-04-28</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:01Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00331_0" MIMETYPE="image/tiff" CHECKSUM="a38fedcbc29975d273d212c1b68f6f58" CHECKSUMTYPE="MD5" SIZE="9808">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00331_0.tif"/>
+      </file>
+      <file ID="tiff_00331_1" MIMETYPE="image/tiff" CHECKSUM="3f53e04d5e167c69356bbefa875465fc" CHECKSUMTYPE="MD5" SIZE="27934">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00331_1.tif"/>
+      </file>
+      <file ID="tiff_00332_0" MIMETYPE="image/tiff" CHECKSUM="2241d09cf95839e2f929405c573500d8" CHECKSUMTYPE="MD5" SIZE="56062">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00332_0.tif"/>
+      </file>
+      <file ID="tiff_00332_1" MIMETYPE="image/tiff" CHECKSUM="95087ae0b90f373aa78597213ecfcd7a" CHECKSUMTYPE="MD5" SIZE="54868">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00332_1.tif"/>
+      </file>
+      <file ID="tiff_00333_0" MIMETYPE="image/tiff" CHECKSUM="45bec3b181e6f84c7a0679edba184bb4" CHECKSUMTYPE="MD5" SIZE="54738">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00333_0.tif"/>
+      </file>
+      <file ID="tiff_00333_1" MIMETYPE="image/tiff" CHECKSUM="1c322cfbb7d07a8b828945d2efe59b9f" CHECKSUMTYPE="MD5" SIZE="60302">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00333_1.tif"/>
+      </file>
+      <file ID="tiff_00334_0" MIMETYPE="image/tiff" CHECKSUM="e2fee9623878ea40307b38ff5c005c3b" CHECKSUMTYPE="MD5" SIZE="8246">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00334_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00331_0" MIMETYPE="image/jp2" CHECKSUM="b27cbbdd21a0531daec7e55e2d13c401" CHECKSUMTYPE="MD5" SIZE="1407557">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00331_0.jp2"/>
+      </file>
+      <file ID="jp2_00331_1" MIMETYPE="image/jp2" CHECKSUM="c2afc1acd976989959060c792e15fdc1" CHECKSUMTYPE="MD5" SIZE="1799793">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00331_1.jp2"/>
+      </file>
+      <file ID="jp2_00332_0" MIMETYPE="image/jp2" CHECKSUM="c548c6c192b738f2bdc0717db2be8ce4" CHECKSUMTYPE="MD5" SIZE="2528215">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00332_0.jp2"/>
+      </file>
+      <file ID="jp2_00332_1" MIMETYPE="image/jp2" CHECKSUM="9fc09e95e18e27a15884ff605d205045" CHECKSUMTYPE="MD5" SIZE="2540929">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00332_1.jp2"/>
+      </file>
+      <file ID="jp2_00333_0" MIMETYPE="image/jp2" CHECKSUM="4e7bb2063bf879f8e26a821f4ca51c2c" CHECKSUMTYPE="MD5" SIZE="2537552">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00333_0.jp2"/>
+      </file>
+      <file ID="jp2_00333_1" MIMETYPE="image/jp2" CHECKSUM="e7c84e42a9afba62d73810bf75bc263d" CHECKSUMTYPE="MD5" SIZE="2577272">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00333_1.jp2"/>
+      </file>
+      <file ID="jp2_00334_0" MIMETYPE="image/jp2" CHECKSUM="57790cb3fa083699a3bd5d7d679ffe16" CHECKSUMTYPE="MD5" SIZE="1388862">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00334_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00331_0" MIMETYPE="text/xml" CHECKSUM="95a04cbdf8775f497e0507b63865a03e" CHECKSUMTYPE="MD5" SIZE="12919">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00331_0.xml"/>
+      </file>
+      <file ID="alto_00331_1" MIMETYPE="text/xml" CHECKSUM="a211f2ebcec27aed9130ffcdff3cc8b1" CHECKSUMTYPE="MD5" SIZE="45413">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00331_1.xml"/>
+      </file>
+      <file ID="alto_00332_0" MIMETYPE="text/xml" CHECKSUM="92258b7bb6969bd54e81991f035a6bef" CHECKSUMTYPE="MD5" SIZE="95666">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00332_0.xml"/>
+      </file>
+      <file ID="alto_00332_1" MIMETYPE="text/xml" CHECKSUM="0198c0a9e1d339144ccc8273759b6cf3" CHECKSUMTYPE="MD5" SIZE="93348">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00332_1.xml"/>
+      </file>
+      <file ID="alto_00333_0" MIMETYPE="text/xml" CHECKSUM="b1d127ee2f72e40555644bc26cd52398" CHECKSUMTYPE="MD5" SIZE="95754">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00333_0.xml"/>
+      </file>
+      <file ID="alto_00333_1" MIMETYPE="text/xml" CHECKSUM="e2b3ec9c7379342230da613599c8f7c4" CHECKSUMTYPE="MD5" SIZE="101414">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00333_1.xml"/>
+      </file>
+      <file ID="alto_00334_0" MIMETYPE="text/xml" CHECKSUM="3d222a24381bda0aec58cc7955e30823" CHECKSUMTYPE="MD5" SIZE="9667">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00334_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0148" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="623" lastpage="629">
+              <court pgmap="661" id="b661-9">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="661" id="b661-8">85-233</docketnumber>
+              <citation pgmap="661" id="A_o">708 S.W.2d 608</citation>
+              <parties pgmap="661" id="b661-7">Jack HILL v. BENTCO LEASING, INC.</parties>
+              <decisiondate pgmap="661" id="Aig">Opinion delivered April 28, 1986</decisiondate>
+              <otherdate pgmap="661" id="AqgX">[Rehearing denied June 2, 1986.]</otherdate>
+              <judges pgmap="667" id="APCz">Purtle, J., not participating.</judges>
+              <attorneys pgmap="662" id="b662-11">Tim D. Williams, for appellant.</attorneys>
+              <attorneys pgmap="662" id="b662-12">Young &amp; Finley, by: James K. Young, for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="662" id="b662-13">Steele Hays, Justice.</author>
+                <p pgmap="662" id="AXO-">The issue here is whether a lease agreement between Jack Hill, appellant, and Bentco Leasing, appellee, was in fact a sale and, therefore, subject to a defense of usury.</p>
+                <p pgmap="662" id="b662-14">Hill signed a lease with Bentco for a telephone system to be installed in Hill’s Townhouse motel. The agreement, signed in October of 1982, called for sixty monthly payments of $412.26. Hill had made only the first two payments when he sold the motel to Ray Krayecki. Hill assumed Krayecki would take up the lease payments to Bentco and Krayecki could not agree on terms so the system was repossessed by Bentco in January, 1983. Bentco filed suit against Hill in March, 1983 for $15,269, the amount of the purchase price had Hill chosen to buy the system outright. The claim was non-suited in July, 1984, and Bentco refiled in August, 1984 for $8,245, the sum of the lease payments due as of that date.</p>
+                <p pgmap="662(11) 663(90)" id="b662-15">The case was tried in November, 1984. Hill defended on the ground that the agreement was in effect a sale and void for usury. Bentco maintained it was a true lease. The trial court found the arrangement to be a lease, distinguishing Bell v. Itek, 262 Ark. 22, 555 S.W.2d 1 (1977), because the lease did not contain an option to purchase, nor any provision for Hill to obtain title to the equipment. Upon amendment of Bentco’s complaint, the court awarded damages of $24,426, the total of the lease payments due over the sixty month period. Hill appeals from the judgment.</p>
+                <p pgmap="663" id="b663-4">
+                   In Itek, supra, we expressed concern over conditional sales being disguised as lease agreements, permitting charges that under a credit sale would constitute usury. We warned that such transactions would be closely examined in the future. We initially examined the lease agreement and found it resulted in the payment of an amount over the lease term equal to, or greater than, the stated price of the goods. That is true of this case — the system cost Bentco less than $10,000 and could have been bought outright by Hill for $15,260.07, whereas the lease payments totaled $24,426.</p>
+                <p pgmap="663" id="b663-5">
+                   Other factors discussed in Itek are present here. All risk of loss was on the lessee and remedies on default were those that would be available to a conditional seller: under the lease Bentco could declare the entire amount due, repossess the system, sell it and hold Hill liable for any deficiency. This lease also provided that if a sale of the property produced a surplus, it belonged to Hill. A provision which creates an equity in the goods in favor of the lessee is a significant consideration in determining whether the transaction is a sale or a lease. In re Tulsa Port Warehouse, 690 F.2d 809 (10th Cir. 1982); White &amp; Summers, Uniform Commercial Code, § 22-3 (2d ed. 1980); Hillman, McDonnel, Nickles, Common Law and Equity under the UCC, § 18.05 [3][a] (1985).</p>
+                <p pgmap="663(85) 664(25)" id="b663-7">In Itek the lessee had an option to buy the leased property for a nominal amount, which we regarded as having particular significance, as such a provision is seen by some authorities as decisive in deciding whether the transaction is a sale and not a true lease, “[F]or why would a bona fide lessor relinquish a valuable chattel for next to nothing?” Itek, supra. See Uniform Commercial Code, § 1-201(37); B. Clark, The Law of Secured Transactions Under the Uniform Commercial Code, § 1.5 [3] (1980); White &amp; Summers, supra. But all factors must still be considered. Hillman, et al., supra, § 18.05(3)(a) (1985) atp. 18-­43, n. 214, 217.</p>
+                <p pgmap="664" id="b664-6">
+                   Here, while the lease itself contained no provision for purchase by Hill, a former employee of Bentco testified that he customarily told prospects, including Hill, that at the end of the lease the system could be purchased for one dollar. Moreover, Bentco’s president wrote Mr. Krayecki in November, 1982, evidently in the hope of obtaining Krayecki’s assumption of the lease, that at the end of the lease period he could either purchase the system for ten per cent of the purchase price or renew the lease from year to year for the payment of a single monthly payment each year.</p>
+                <p pgmap="664" id="b664-7">Notwithstanding this proof that Bentco would have little interest in the property at the end of the lease, the trial judge found the agreement did not provide for the purchase of the property by Hill, nor did it contain any other terminology indicating how the lessee could obtain title to the system. And while that particular issue was disputed, we believe the only reasonable inference to be drawn from the testimony of the former employee, corroborated as it was by the letter to Krayecki, is that Bentco’s solution to the problems posed by the Itek decision was to simply omit the option provision from the written lease and give verbal assurance to its “lessees” that at the end of the lease an option to purchase for a nominal amount would be observed. Even if we could reach the same conclusion as the trial court with respect to an option to purchase, the absence of that is not conclusive in determining whether the transaction is a lease:</p>
+                <blockquote pgmap="664" id="b664-8">Drafting variants which have not impressed the courts are options to purchase before the price has been fully paid or arrangements under which there is no option to purchase at any time but where the aggregate rentals approximate the value (or purchase price) of the goods. Gilmore, Security Interests in Personal Property, (1965), Vol. 1, § 3.6.</blockquote>
+                <blockquote pgmap="664(47) 665(22)" id="b664-9">The absence of an express transfer or option does not dispose of the question. As has been noted, ‘Since the parties to these transactions are often clever in their attempts to disguise a finance transaction as a true lease, ownership should be liberally defined.’ In Re Gehrke Enterprises, Inc., 1 BR 647 (WD Wis. 1979), citing DeKoven, Leases of Equipment: Puritan Leasing Co. v. August, 12 S.Fran.L. Rev. 1978.</blockquote>
+                <p pgmap="665" id="b665-6">See also B. Clark, The Law of Secured Transactions Under the Uniform Commercial Code, § 1.5 [3] (1985 Cumm. Supp.No. 3); White &amp; Summers, supra; In Re Brookside Drug Store, Inc., 3 BR 120 (D. Conn. 1980); Leasing Service Corp. v. American National Bank &amp; Trust, 19 UCC 252 (1976); In Re Peacock, 6 BR 922 (ND Tex. 1980).<footnotemark>1</footnotemark>
+                </p>
+                <p pgmap="665" id="b665-7">
+                   It has been suggested that the “most fruitful single test” to distinguish a sale from a true lease is the absence of any appreciable residual in the lessor at the expiration of the lease. Coogan, Leases of Equipment and Some Other Unconventional Security Devices, 1 Bender’s Secured Transactions Under the Uniform Commercial Code, § 4A.07 at 4A-177. This is the net effect of a purchase option for a nominal sum, since exercising that option is the only prudent course for the lessee. See White &amp; Summers, supra; B. Clark, The Law of Secured Transactions Under the Uniform Commercial Code, § 1.5 [3] (1980); Matter of Fashion Optical Ltd., 653 F.2d 1385 (10th Cir. 1981). Therefore, the lessor’s only interest in the goods at the end of the lease is the nominal amount of the purchase option.</p>
+                <p pgmap="665(132) 666(143)" id="b665-8">There are other situations, however, where there is no provision for a purchase option by the lessee, and title never technically passes from the lessor to the lessee, but the lessor still has no expectation of a material interest in the property at the expiration of the lease term. The lessee in such cases is deemed to have become the owner of the property. “The lessor has parted with, and the lessee has acquired most of the risks and advantages of ownership.” Coogan, UCC Treatment of All Leases, 1 Bender’s Secured Transactions Under the UCC, § 4.3.03 at 4.3-­10. Coogan lists those situations, some of which have relevance here: 1) The term of the lease equals or exceeds the expected economic life of the property so there is no reasonable expectation that the lessor will have anything significant at the end of the term; 2) the term may be less than the economic life expectancy, but the lessor’s known practice is not to bother with reclaiming the used goods; 3) the lease contains a provision whereby substantially all the risk of increase or decrease in value of the residual is borne by the lessee and the lessor retains no significant economic interest, as where the lessor is obligated to dispose of the property at the termination of the lease and the lessee is entitled to any surplus and bears any loss resulting from the disposition. See, B. Clark, The Law of Secured Transactions Under the Uniform Commercial Code, § 1.5[3] (1980); In Re Peacock, supra. See also, In Re Gehrke, supra; In Re Tulsa Port Warehouse Co., supra; Matter of Fashion Optical, Ltd., supra.</p>
+                <p pgmap="666" id="b666-6">Weighing the three factors discussed by Coogan, supra, the third is inapplicable. Although the agreement contains a provi­sion that upon the lessee’s termination of the lease the property may be sold with the surplus or deficiency going to the lessee, such a disposition is not obligatory on the part of the lessor under the terms of this contract. See, In Re Tulsa Port Warehouse, supra. The other two situations may well apply. It is conceivable that at the end of the lease this equipment would have little value or usefulness, in which case the residual available to Bentco would be, for all practical purposes, worthless. Given the limited value of the equipment at the end of the lease as we noted previously, evidenced by the letter from Bentco to Krayecki, we conclude there would be no appreciable residual in the goods at the end of five years and that the transaction was a sale and not a lease.</p>
+                <p pgmap="666" id="b666-7">
+                   In this case, the difference in the price for which the system could have been purchased by Hill as opposed to the payments to be made under the “lease,” was patently usurious and the transaction was void. United Bilt Homes v. Elder, 272 Ark. 496, 615 S.W.2d 367 (1981); Textraon Inc. v. Whitner, 249 Ark. 57, 458 S.W.2d 367 (1970). The appellants pleaded and argued the usury defense in accordance with the Arkansas Constitution, Art. 19, § 13. On appeal, Bentco argues the federal override statute, 12 U.S.C. 86a, is applicable, but that was not argued below, nor was any objection made as to the ten percent rate being the applicable law. Any argument on appeal has been waived. Jackson v. Farm and Commercial Properties, 284 Ark. 130, 680 S.W.2d 105 (1984).</p>
+                <p pgmap="667" id="b667-5">Reversed and dismissed.</p>
+                <footnote label="1">
+                  <p pgmap="665" id="b665-9">1 While these authorities are distinguishing leases from sales for the purpose of determining the applicability of Article Nine of the UCC, the principles employed in making that distinction are equally as useful in determining whether usury will be available as a defense in the action. See Bell v. Itek, 262 Ark. 22, 555 S.W.2d 1 (1977).</p>
+                </footnote>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="661" ORDERLABEL="623" TYPE="page">
+        <fptr FILEID="tiff_00331_0"/>
+        <fptr FILEID="jp2_00331_0"/>
+        <fptr FILEID="alto_00331_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_661.3" BETYPE="IDREF" FILEID="alto_00331_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="662" ORDERLABEL="624" TYPE="page">
+        <fptr FILEID="tiff_00331_1"/>
+        <fptr FILEID="jp2_00331_1"/>
+        <fptr FILEID="alto_00331_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_662.2" BETYPE="IDREF" FILEID="alto_00331_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="663" ORDERLABEL="625" TYPE="page">
+        <fptr FILEID="tiff_00332_0"/>
+        <fptr FILEID="jp2_00332_0"/>
+        <fptr FILEID="alto_00332_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_663.3" BETYPE="IDREF" FILEID="alto_00332_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="664" ORDERLABEL="626" TYPE="page">
+        <fptr FILEID="tiff_00332_1"/>
+        <fptr FILEID="jp2_00332_1"/>
+        <fptr FILEID="alto_00332_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_664.2" BETYPE="IDREF" FILEID="alto_00332_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="665" ORDERLABEL="627" TYPE="page">
+        <fptr FILEID="tiff_00333_0"/>
+        <fptr FILEID="jp2_00333_0"/>
+        <fptr FILEID="alto_00333_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_665.3" BETYPE="IDREF" FILEID="alto_00333_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="666" ORDERLABEL="628" TYPE="page">
+        <fptr FILEID="tiff_00333_1"/>
+        <fptr FILEID="jp2_00333_1"/>
+        <fptr FILEID="alto_00333_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_666.2" BETYPE="IDREF" FILEID="alto_00333_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="667" ORDERLABEL="629" TYPE="page">
+        <fptr FILEID="tiff_00334_0"/>
+        <fptr FILEID="jp2_00334_0"/>
+        <fptr FILEID="alto_00334_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_667.2" BETYPE="IDREF" FILEID="alto_00334_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b665-7" BETYPE="IDREF" FILEID="casebody_0148"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_665.5" BETYPE="IDREF" FILEID="alto_00333_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b665-8" BETYPE="IDREF" FILEID="casebody_0148"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_665.6" BETYPE="IDREF" FILEID="alto_00333_0"/>
+            <area BEGIN="BL_666.1" BETYPE="IDREF" FILEID="alto_00333_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b667-5" BETYPE="IDREF" FILEID="casebody_0148"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_667.3" BETYPE="IDREF" FILEID="alto_00334_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aig" BETYPE="IDREF" FILEID="casebody_0148"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_661.11" BETYPE="IDREF" FILEID="alto_00331_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b663-5" BETYPE="IDREF" FILEID="casebody_0148"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_663.5" BETYPE="IDREF" FILEID="alto_00332_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b663-4" BETYPE="IDREF" FILEID="casebody_0148"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_663.4" BETYPE="IDREF" FILEID="alto_00332_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AqgX" BETYPE="IDREF" FILEID="casebody_0148"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_661.12" BETYPE="IDREF" FILEID="alto_00331_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b662-11" BETYPE="IDREF" FILEID="casebody_0148"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_662.9" BETYPE="IDREF" FILEID="alto_00331_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b661-7" BETYPE="IDREF" FILEID="casebody_0148"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_661.7" BETYPE="IDREF" FILEID="alto_00331_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b666-7" BETYPE="IDREF" FILEID="casebody_0148"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_666.5" BETYPE="IDREF" FILEID="alto_00333_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b661-9" BETYPE="IDREF" FILEID="casebody_0148"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_661.10" BETYPE="IDREF" FILEID="alto_00331_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b661-8" BETYPE="IDREF" FILEID="casebody_0148"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_661.8" BETYPE="IDREF" FILEID="alto_00331_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b666-6" BETYPE="IDREF" FILEID="casebody_0148"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_666.4" BETYPE="IDREF" FILEID="alto_00333_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b665-9" BETYPE="IDREF" FILEID="casebody_0148"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_665.7" BETYPE="IDREF" FILEID="alto_00333_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b662-12" BETYPE="IDREF" FILEID="casebody_0148"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_662.10" BETYPE="IDREF" FILEID="alto_00331_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b662-13" BETYPE="IDREF" FILEID="casebody_0148"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_662.11" BETYPE="IDREF" FILEID="alto_00331_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A_o" BETYPE="IDREF" FILEID="casebody_0148"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_661.9" BETYPE="IDREF" FILEID="alto_00331_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b665-6" BETYPE="IDREF" FILEID="casebody_0148"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_665.4" BETYPE="IDREF" FILEID="alto_00333_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b662-14" BETYPE="IDREF" FILEID="casebody_0148"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_662.14" BETYPE="IDREF" FILEID="alto_00331_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b662-15" BETYPE="IDREF" FILEID="casebody_0148"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_662.15" BETYPE="IDREF" FILEID="alto_00331_1"/>
+            <area BEGIN="BL_663.1" BETYPE="IDREF" FILEID="alto_00332_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b663-7" BETYPE="IDREF" FILEID="casebody_0148"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_663.6" BETYPE="IDREF" FILEID="alto_00332_0"/>
+            <area BEGIN="BL_664.1" BETYPE="IDREF" FILEID="alto_00332_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AXO-" BETYPE="IDREF" FILEID="casebody_0148"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_662.12" BETYPE="IDREF" FILEID="alto_00331_1"/>
+            <area BEGIN="BL_662.13" BETYPE="IDREF" FILEID="alto_00331_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b664-6" BETYPE="IDREF" FILEID="casebody_0148"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_664.4" BETYPE="IDREF" FILEID="alto_00332_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="APCz" BETYPE="IDREF" FILEID="casebody_0148"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_667.4" BETYPE="IDREF" FILEID="alto_00334_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b664-8" BETYPE="IDREF" FILEID="casebody_0148"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_664.6" BETYPE="IDREF" FILEID="alto_00332_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b664-9" BETYPE="IDREF" FILEID="casebody_0148"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_664.7" BETYPE="IDREF" FILEID="alto_00332_1"/>
+            <area BEGIN="BL_665.1" BETYPE="IDREF" FILEID="alto_00333_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b664-7" BETYPE="IDREF" FILEID="casebody_0148"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_664.5" BETYPE="IDREF" FILEID="alto_00332_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

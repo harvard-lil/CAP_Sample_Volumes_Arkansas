@@ -1,0 +1,397 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0090" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Travelodge International, Inc. v. Handleman National Book Co.">TRAVELODGE INTERNATIONAL, INC. v. HANDLEMAN NATIONAL BOOK COMPANY</name>
+          <docketnumber>85-273</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 368</citation>
+          <citation category="parallel" type="bluebook">705 S.W.2d 440</citation>
+          <decisiondate>1986-03-17</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:00Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00201_1" MIMETYPE="image/tiff" CHECKSUM="18456fc439aa1ff0231cbd7858cc8439" CHECKSUMTYPE="MD5" SIZE="17690">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00201_1.tif"/>
+      </file>
+      <file ID="tiff_00202_0" MIMETYPE="image/tiff" CHECKSUM="614b2f196f34566d7ad9a4f5b77d0417" CHECKSUMTYPE="MD5" SIZE="53646">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00202_0.tif"/>
+      </file>
+      <file ID="tiff_00202_1" MIMETYPE="image/tiff" CHECKSUM="c9445ed45a3879835d40a681dd314b63" CHECKSUMTYPE="MD5" SIZE="19742">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00202_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00201_1" MIMETYPE="image/jp2" CHECKSUM="da43f8a8297d653171124433afd53bcb" CHECKSUMTYPE="MD5" SIZE="1740335">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00201_1.jp2"/>
+      </file>
+      <file ID="jp2_00202_0" MIMETYPE="image/jp2" CHECKSUM="0b5510fff6a89e304c4e0bcf268c3732" CHECKSUMTYPE="MD5" SIZE="2923320">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00202_0.jp2"/>
+      </file>
+      <file ID="jp2_00202_1" MIMETYPE="image/jp2" CHECKSUM="9f47d06687bdec324384d22a884b68ae" CHECKSUMTYPE="MD5" SIZE="1730232">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00202_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00201_1" MIMETYPE="text/xml" CHECKSUM="a1c0d5cdc317c3b7f4aa62baa5ae5b2a" CHECKSUMTYPE="MD5" SIZE="24495">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00201_1.xml"/>
+      </file>
+      <file ID="alto_00202_0" MIMETYPE="text/xml" CHECKSUM="1e470a9f43e78a1cec84cbcb7453017e" CHECKSUMTYPE="MD5" SIZE="85585">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00202_0.xml"/>
+      </file>
+      <file ID="alto_00202_1" MIMETYPE="text/xml" CHECKSUM="84414d7b9993275e892749dd4857e57b" CHECKSUMTYPE="MD5" SIZE="30180">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00202_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0090" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="368" lastpage="370">
+              <court pgmap="402" id="b402-7">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="402" id="b402-6">85-273</docketnumber>
+              <citation pgmap="402" id="AZK">705 S.W.2d 440</citation>
+              <parties pgmap="402" id="b402-5">TRAVELODGE INTERNATIONAL, INC. v. HANDLEMAN NATIONAL BOOK COMPANY</parties>
+              <decisiondate pgmap="402" id="Amb">Opinion delivered March 17, 1986</decisiondate>
+              <judges pgmap="404" id="b404-5">Purtle, J., not participating.</judges>
+              <attorneys pgmap="402" id="b402-12">Hoover, Jacobs &amp; Storey, by: Victor A. Fleming and Joyce Bradley, for appellant.</attorneys>
+              <attorneys pgmap="402" id="b402-13">Davidson, Horne &amp; Hollingsworth, by: Cyril Hollings-­worth, for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="402" id="b402-14">Steele Hays, Justice.</author>
+                <p pgmap="402(35) 403(71)" id="A22a">After obtaining a judgment against Imran Bohra and Rebecca Lee Bohra for $ 11,898.34, Travelodge International, Inc., filed allegations and interrogatories on May 17, 1985 and caused a writ of garnishment to be served on Handleman National Book Company, also known as Han-­dleman, Inc. Handleman responded on June 5, 1985 by filing a verified “Garnishee Disclosure” stating that Handleman was indebted to Rebecca Lee Bohra in the amount of $77.02. The response was stamped in the clerk’s office with the word “An­swer”, but no “filed” stamp was shown on the response and no copy of the response was sent to Travelodge or its attorney.</p>
+                <p pgmap="403" id="b403-4">On June 21, 1985, thinking that no answer had been filed, Travelodge took a default judgment against Handleman for $14,366.96. Some two weeks later Handleman moved to set the judgment aside and Travelodge objected. After a hearing the chancellor sustained the motion and vacated the judgment.</p>
+                <p pgmap="403" id="b403-5">Travelodge argues that several provisions of the Arkansas Rules of Civil Procedure were violated: Rule 5(c), which requires that all papers after the complaint required to be served on a party or his attorney shall be filed with the clerk before service or within a reasonable time thereafter, bearing the date and time of filing; ARCP 10(a), requiring a pleading to contain a caption setting forth the name of the court, the title of the action, the file number and a designation as in ARCP Rule 7(a); and Rule 5(e), requiring that a pleading shall contain a statement that it has been served upon the opposing party or his attorney.</p>
+                <p pgmap="403" id="b403-6">
+                   On appeal, we affirm the chancellor. Garnishment is a special statutory procedure. To the extent the garnishment procedures prescribed in Ark. Stat. Ann. §§31-501 through 31-­524 (Repl. 1962 and Supp. 1985) differ from those prescribed in the Arkansas Rules of Civil Procedure, the statutes control. ARCP 81(a) provides:</p>
+                <blockquote pgmap="403" id="b403-7">(a) Applicability in General. These rules shall apply to all civil proceedings cognizable in the circuit, chancery, and probate courts of this State except in those instances where a statute which creates a right, remedy or proceeding specifically provides a different procedure in which event the procedure so specified shall apply.</blockquote>
+                <p pgmap="403" id="b403-8">The procedures followed by the defendant-garnishee in this case were consistent with the garnishment statutes, and were thus appropriate.</p>
+                <p pgmap="403(10) 404(89)" id="b403-9">
+                   The authority of a chancellor to set aside a judgment within ninety days after it is entered is found in ARCP 60(b). That rule does apply in garnishment proceedings because, in the terms of ARCP 81 (a), the garnishment statutes do not provide a specific procedure for setting such a judgment aside. Under Rule 60(b), the chancellor had the discretion to set the judgment aside. Burgess v. Burgess, 286 Ark. 497, 696 S.W.2d 312 (1985); Blissard Management &amp; Realty, Inc. v. Kremer, 284 Ark. 136, 680 S.W.2d 694 (1984); Burns v. Madden, 271 Ark. 572, 609 S.W.2d 55 (1980).</p>
+                <p pgmap="404" id="b404-4">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="402" ORDERLABEL="368" TYPE="page">
+        <fptr FILEID="tiff_00201_1"/>
+        <fptr FILEID="jp2_00201_1"/>
+        <fptr FILEID="alto_00201_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_402.2" BETYPE="IDREF" FILEID="alto_00201_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="403" ORDERLABEL="369" TYPE="page">
+        <fptr FILEID="tiff_00202_0"/>
+        <fptr FILEID="jp2_00202_0"/>
+        <fptr FILEID="alto_00202_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_403.3" BETYPE="IDREF" FILEID="alto_00202_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="404" ORDERLABEL="370" TYPE="page">
+        <fptr FILEID="tiff_00202_1"/>
+        <fptr FILEID="jp2_00202_1"/>
+        <fptr FILEID="alto_00202_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_404.2" BETYPE="IDREF" FILEID="alto_00202_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b402-5" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_402.6" BETYPE="IDREF" FILEID="alto_00201_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b402-6" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_402.7" BETYPE="IDREF" FILEID="alto_00201_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b402-7" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_402.9" BETYPE="IDREF" FILEID="alto_00201_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b403-9" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_403.9" BETYPE="IDREF" FILEID="alto_00202_0"/>
+            <area BEGIN="BL_404.1" BETYPE="IDREF" FILEID="alto_00202_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b403-8" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_403.8" BETYPE="IDREF" FILEID="alto_00202_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AZK" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_402.8" BETYPE="IDREF" FILEID="alto_00201_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A22a" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_402.20" BETYPE="IDREF" FILEID="alto_00201_1"/>
+            <area BEGIN="BL_402.21" BETYPE="IDREF" FILEID="alto_00201_1"/>
+            <area BEGIN="BL_403.1" BETYPE="IDREF" FILEID="alto_00202_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b403-5" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_403.5" BETYPE="IDREF" FILEID="alto_00202_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b403-4" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_403.4" BETYPE="IDREF" FILEID="alto_00202_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b403-7" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_403.7" BETYPE="IDREF" FILEID="alto_00202_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b403-6" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_403.6" BETYPE="IDREF" FILEID="alto_00202_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b402-14" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_402.19" BETYPE="IDREF" FILEID="alto_00201_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b404-5" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_404.5" BETYPE="IDREF" FILEID="alto_00202_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b402-12" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_402.17" BETYPE="IDREF" FILEID="alto_00201_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b402-13" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_402.18" BETYPE="IDREF" FILEID="alto_00201_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Amb" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_402.10" BETYPE="IDREF" FILEID="alto_00201_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b404-4" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_404.4" BETYPE="IDREF" FILEID="alto_00202_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

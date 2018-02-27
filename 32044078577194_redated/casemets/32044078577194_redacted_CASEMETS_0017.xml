@@ -1,0 +1,395 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0017" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Holmes v. State">Benjamin A. HOLMES v. STATE of Arkansas</name>
+          <docketnumber>CR 85-150</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 72</citation>
+          <citation category="parallel" type="bluebook">702 S.W.2d 18</citation>
+          <decisiondate>1986-01-21</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:00Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00049_1" MIMETYPE="image/tiff" CHECKSUM="24451611653f05c085e1b1652b3beba3" CHECKSUMTYPE="MD5" SIZE="13472">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00049_1.tif"/>
+      </file>
+      <file ID="tiff_00050_0" MIMETYPE="image/tiff" CHECKSUM="b64145ea88857daf4f9c0bcf0d11a5e0" CHECKSUMTYPE="MD5" SIZE="46668">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00050_0.tif"/>
+      </file>
+      <file ID="tiff_00050_1" MIMETYPE="image/tiff" CHECKSUM="9d77b17e37a43b77a8e7147abe72bbde" CHECKSUMTYPE="MD5" SIZE="53748">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00050_1.tif"/>
+      </file>
+      <file ID="tiff_00051_0" MIMETYPE="image/tiff" CHECKSUM="ea955b28c0f1e3a1babac59270b5ec9c" CHECKSUMTYPE="MD5" SIZE="7092">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00051_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00049_1" MIMETYPE="image/jp2" CHECKSUM="d9338e938d85f1e7ef0d494ae5adf327" CHECKSUMTYPE="MD5" SIZE="1517023">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00049_1.jp2"/>
+      </file>
+      <file ID="jp2_00050_0" MIMETYPE="image/jp2" CHECKSUM="105472b5baa4c611fbd0938ffbfb3558" CHECKSUMTYPE="MD5" SIZE="2347000">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00050_0.jp2"/>
+      </file>
+      <file ID="jp2_00050_1" MIMETYPE="image/jp2" CHECKSUM="922d8086721969c54697b1255f0046d8" CHECKSUMTYPE="MD5" SIZE="2498396">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00050_1.jp2"/>
+      </file>
+      <file ID="jp2_00051_0" MIMETYPE="image/jp2" CHECKSUM="0212ae0f6ab5278e6a432dde1496287e" CHECKSUMTYPE="MD5" SIZE="1564797">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00051_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00049_1" MIMETYPE="text/xml" CHECKSUM="13690dfa504f365c351ef1ba52a6f81f" CHECKSUMTYPE="MD5" SIZE="20483">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00049_1.xml"/>
+      </file>
+      <file ID="alto_00050_0" MIMETYPE="text/xml" CHECKSUM="082d9404cb3e7b045cb57cedb5315bfd" CHECKSUMTYPE="MD5" SIZE="77868">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00050_0.xml"/>
+      </file>
+      <file ID="alto_00050_1" MIMETYPE="text/xml" CHECKSUM="9917eb86dcc0529751e204c0a0e7ff3c" CHECKSUMTYPE="MD5" SIZE="86250">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00050_1.xml"/>
+      </file>
+      <file ID="alto_00051_0" MIMETYPE="text/xml" CHECKSUM="b415cf36fbade72275c5f7ce44c0f55a" CHECKSUMTYPE="MD5" SIZE="9019">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00051_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0017" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="72" lastpage="75">
+              <court pgmap="98" id="b98-10">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="98" id="A-_">CR 85-150</docketnumber>
+              <citation pgmap="98" id="AfN">702 S.W.2d 18</citation>
+              <parties pgmap="98" id="b98-9">Benjamin A. HOLMES v. STATE of Arkansas</parties>
+              <decisiondate pgmap="98" id="Ax0">Opinion delivered January 21, 1986</decisiondate>
+              <judges pgmap="101" id="b101-5">Purtle, J., not participating.</judges>
+              <attorneys pgmap="99" id="b99-7">William R. Simpson, Jr., Public Defender, and Donald K. Campbell III, by: Deborah R. Sailings, Deputy Public Defender, for appellant.</attorneys>
+              <attorneys pgmap="99" id="b99-8">Steve Clark, Att’y Gen, by: Theodore Holder, Asst. Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="99" id="b99-9">Robert H. Dudley, Justice.</author>
+                <p pgmap="99" id="Ayj">During the late evening and early morning of December 7 and 8,1984, the appellant commit­ted two burglaries, an aggravated assault, a battery, a kidnap­ping, and a rape, before committing the burglary and the second degree battery which are on appeal in this case. The appellant contends the evidence in the two cases on appeal is insufficient to support the convictions. We find no merit in the argument and affirm both judgments of conviction.</p>
+                <p pgmap="99" id="b99-10">In the early evening of December 7,1984, Terry Nolen and his wife, Kay, went shopping and then returned to their home in west Little Rock where they decorated their Christmas tree, wrapped presents, put their children to bed, and began watching the late movie on television. While in the den watching the movie, the Nolens dozed off. At this time, unknown to the Nolens, the appellant was beginning his rampage in the neighborhood. Sometime between 12:30 and 1:00 a.m., they were awakened by a noise. They looked up and saw a man standing in front of them. His blue jeans were unbuttoned at the waist, and the fly was partially unzipped. The intruder, appellant, never spoke but motioned for Terry Nolen to go into the kitchen. Nolen started toward the kitchen when appellant grabbed him by the right arm, turned him around, and hit him on the side of the face, and knocked his glasses off. Appellant hit him again, and Nolen started to fight back. Nolen tackled the appellant, and in so doing, Nolen broke his kneecap on the den floor. Appellant then ran out of the Nolen’s house and was captured a short distance away.</p>
+                <p pgmap="99(17) 100(120)" id="b99-11">
+                   Appellant argues that the evidence is insufficient to sustain the conviction for second degree battery. The second degree battery statute, Ark. Stat. Ann. § 41-1602(1 )(a) (Supp. 1983), contains three elements: (1) a battery, (2) committed with the purpose of causing physical injury, and (3) causing serious physical injury. Appellant, in effect, argues that he only intended to cause physical injury, not serious physical injury, and there­fore, the third element is missing. The argument is based on a misconstruction of the statute. The only specific intent required by the statute is the intent to cause physical injury. Unquestion­ably, twice striking Nolen on the side of the face with his fist was evidence of an intent to cause physical injury. The third element, causing serious physical injury, was supplied when the serious physical injury actually occurred.</p>
+                <p pgmap="100" id="b100-6">In anticipation of the above holding, appellant argues that even if the only intent required was the intent to commit physical injury, and he was found to have that intent at the time he struck Nolen, that intent had ceased by the time that Nolen broke his kneecap. Thus, he argues, he did not have the requisite intent to cause physical injury at the moment the serious physical injury occurred. The argument is without factual support. Viewing the evidence most favorably to the appellee, as we must do, the blows to Nolen and the breaking of the kneecap were a part of one continuous occurrence. There was evidence to indicate that the prerequisite intent was still present.</p>
+                <p pgmap="100" id="b100-7">
+                   In addition, the appellant argues that the evidence was insufficient to sustain the conviction for burglary. The elements of the crime of burglary are: (1) the entering or remaining unlawfully in an occupiable structure of another person, (2) with the purpose of committing therein an offense punishable by imprisonment. Ark. Stat. Ann. § 41-2002(1) (Repl. 1977). Appellant does not dispute that the evidence was sufficient on the first element, entry. Instead, he argues that the State did not prove the second element, intent to commit an offense punishable by imprisonment. The short answer to the argument is that the State did prove by direct evidence that while inside the victim’s home the appellant did, in fact, intentionally commit an offense punishable by imprisonment, second degree battery.</p>
+                <p pgmap="100" id="b100-8">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="98" ORDERLABEL="72" TYPE="page">
+        <fptr FILEID="tiff_00049_1"/>
+        <fptr FILEID="jp2_00049_1"/>
+        <fptr FILEID="alto_00049_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_98.2" BETYPE="IDREF" FILEID="alto_00049_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="99" ORDERLABEL="73" TYPE="page">
+        <fptr FILEID="tiff_00050_0"/>
+        <fptr FILEID="jp2_00050_0"/>
+        <fptr FILEID="alto_00050_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_99.3" BETYPE="IDREF" FILEID="alto_00050_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="100" ORDERLABEL="74" TYPE="page">
+        <fptr FILEID="tiff_00050_1"/>
+        <fptr FILEID="jp2_00050_1"/>
+        <fptr FILEID="alto_00050_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_100.2" BETYPE="IDREF" FILEID="alto_00050_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="101" ORDERLABEL="75" TYPE="page">
+        <fptr FILEID="tiff_00051_0"/>
+        <fptr FILEID="jp2_00051_0"/>
+        <fptr FILEID="alto_00051_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_101.2" BETYPE="IDREF" FILEID="alto_00051_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b99-7" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_99.7" BETYPE="IDREF" FILEID="alto_00050_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b100-7" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_100.5" BETYPE="IDREF" FILEID="alto_00050_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A-_" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_98.9" BETYPE="IDREF" FILEID="alto_00049_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b100-6" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_100.4" BETYPE="IDREF" FILEID="alto_00050_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AfN" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_98.10" BETYPE="IDREF" FILEID="alto_00049_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b98-10" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_98.11" BETYPE="IDREF" FILEID="alto_00049_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ayj" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_99.10" BETYPE="IDREF" FILEID="alto_00050_0"/>
+            <area BEGIN="BL_99.11" BETYPE="IDREF" FILEID="alto_00050_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b98-9" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_98.8" BETYPE="IDREF" FILEID="alto_00049_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b99-10" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_99.12" BETYPE="IDREF" FILEID="alto_00050_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b101-5" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_101.3" BETYPE="IDREF" FILEID="alto_00051_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b100-8" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_100.6" BETYPE="IDREF" FILEID="alto_00050_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ax0" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_98.12" BETYPE="IDREF" FILEID="alto_00049_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b99-8" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_99.8" BETYPE="IDREF" FILEID="alto_00050_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b99-9" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_99.9" BETYPE="IDREF" FILEID="alto_00050_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b99-11" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_99.13" BETYPE="IDREF" FILEID="alto_00050_0"/>
+            <area BEGIN="BL_100.1" BETYPE="IDREF" FILEID="alto_00050_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

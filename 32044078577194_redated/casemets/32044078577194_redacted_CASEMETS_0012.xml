@@ -1,0 +1,518 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0012" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="In re the Adoption of Glover">IN THE MATTER OF THE ADOPTION OF Nicole Michelle GLOVER</name>
+          <docketnumber>85-208</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 59</citation>
+          <citation category="parallel" type="bluebook">702 S.W.2d 12</citation>
+          <decisiondate>1986-01-21</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:00Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00043_0" MIMETYPE="image/tiff" CHECKSUM="5f8dcfd1c4d5fc43593f4eb714abb337" CHECKSUMTYPE="MD5" SIZE="17364">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00043_0.tif"/>
+      </file>
+      <file ID="tiff_00043_1" MIMETYPE="image/tiff" CHECKSUM="2d68378741ec086ca4a67484820110b9" CHECKSUMTYPE="MD5" SIZE="23390">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00043_1.tif"/>
+      </file>
+      <file ID="tiff_00044_0" MIMETYPE="image/tiff" CHECKSUM="f082e89eb7e747e5359f170ee4cbc271" CHECKSUMTYPE="MD5" SIZE="51234">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00044_0.tif"/>
+      </file>
+      <file ID="tiff_00044_1" MIMETYPE="image/tiff" CHECKSUM="d585c098bffefcf94aad5c9275dfa170" CHECKSUMTYPE="MD5" SIZE="51416">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00044_1.tif"/>
+      </file>
+      <file ID="tiff_00045_0" MIMETYPE="image/tiff" CHECKSUM="2e347f93f7d3bc324d6cbb5f8b409241" CHECKSUMTYPE="MD5" SIZE="27874">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00045_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00043_0" MIMETYPE="image/jp2" CHECKSUM="c279c5a44d597ce6753b451d7754e9db" CHECKSUMTYPE="MD5" SIZE="1622995">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00043_0.jp2"/>
+      </file>
+      <file ID="jp2_00043_1" MIMETYPE="image/jp2" CHECKSUM="da95d41de4690fec47ccc4d68d6fd6c4" CHECKSUMTYPE="MD5" SIZE="1779636">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00043_1.jp2"/>
+      </file>
+      <file ID="jp2_00044_0" MIMETYPE="image/jp2" CHECKSUM="5b5c44e5a4775dd135e58ec4e0ec115f" CHECKSUMTYPE="MD5" SIZE="2456857">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00044_0.jp2"/>
+      </file>
+      <file ID="jp2_00044_1" MIMETYPE="image/jp2" CHECKSUM="ffe9dd831f0019c41adca884639f9d57" CHECKSUMTYPE="MD5" SIZE="2486092">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00044_1.jp2"/>
+      </file>
+      <file ID="jp2_00045_0" MIMETYPE="image/jp2" CHECKSUM="e47b3c84d6c82518d0fb5b188fef89bc" CHECKSUMTYPE="MD5" SIZE="2158968">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00045_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00043_0" MIMETYPE="text/xml" CHECKSUM="6d77f91fab2b4f7ea80865023b9e269e" CHECKSUMTYPE="MD5" SIZE="26898">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00043_0.xml"/>
+      </file>
+      <file ID="alto_00043_1" MIMETYPE="text/xml" CHECKSUM="514825b071ac5a9a3d7c19aa2f2203d5" CHECKSUMTYPE="MD5" SIZE="35861">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00043_1.xml"/>
+      </file>
+      <file ID="alto_00044_0" MIMETYPE="text/xml" CHECKSUM="603b81f969ccff2310d89c296216a5e4" CHECKSUMTYPE="MD5" SIZE="85043">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00044_0.xml"/>
+      </file>
+      <file ID="alto_00044_1" MIMETYPE="text/xml" CHECKSUM="db85cde05db2462f1ce34e20a1d1ca8b" CHECKSUMTYPE="MD5" SIZE="88405">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00044_1.xml"/>
+      </file>
+      <file ID="alto_00045_0" MIMETYPE="text/xml" CHECKSUM="4323053a15dcc1c659159c4ca332c7a1" CHECKSUMTYPE="MD5" SIZE="47993">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00045_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0012" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="59" lastpage="63">
+              <court pgmap="85" id="b85-10">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="85" id="b85-9">85-208</docketnumber>
+              <citation pgmap="85" id="AkK">702 S.W.2d 12</citation>
+              <parties pgmap="85" id="b85-8">IN THE MATTER OF THE ADOPTION OF Nicole Michelle GLOVER</parties>
+              <decisiondate pgmap="85" id="AzD">Opinion delivered January 21, 1986</decisiondate>
+              <judges pgmap="89" id="b89-7">Purtle, J., not participating.</judges>
+              <attorneys pgmap="86" id="b86-7">B. Michael Easley, for appellant.</attorneys>
+              <attorneys pgmap="86" id="b86-8">No response.</attorneys>
+              <opinion type="majority">
+                <author pgmap="86" id="b86-9">Jack Holt, Jr., Chief Justice.</author>
+                <p pgmap="86" id="AsU">Appellants Doug and Marge Glover petitioned to adopt their granddaughter, nine-year-old Nicole Glover, who had lived with them continuously for the preceding four and one-half years. The appellants’ son consented to his daughter’s adoption, but Mary Crenshaw, Nicole’s mother and the appellee, refused to grant her consent. Appellants attempted to dispense with the mother’s consent requirement through exceptions provided in Ark. Stat. Ann. § 56-207 (Supp. 1985). The probate court held that appellee’s consent was required and we affirm. Supreme Court jurisdiction is pursuant to Sup. Ct. R. 29(1)(c).</p>
+                <p pgmap="86" id="b86-10">
+                   Generally, the natural parents must consent to an adoption for it to be valid. Ark. Stat. Ann. § 56-206 (Supp. 1985). The exceptions in Ark. Stat. Ann. § 56-207 provide:</p>
+                <blockquote pgmap="86" id="b86-11">(a) Consent to adoption is not required of:</blockquote>
+                <blockquote pgmap="86" id="b86-12">(1)</blockquote>
+                <blockquote pgmap="87" id="b87-3">(2) a parent of a child in the custody of another, if the parent for a period of at least one (1) year has failed significantly without justifiable cause (i) to communicate with the child or (ii) to provide for the care and support of the child as required by law or judicial decree.</blockquote>
+                <p pgmap="87" id="b87-4">
+                   When proving that a natural parent’s consent is not required, the parties seeking to adopt “bear the heavy burden of proving by clear and convincing evidence facts which justify dispensing with the required consent of the natural parents” and the finding by the trial court that this burden has not been met will be upheld unless clearly erroneous. Loveless v. May, 278 Ark. 127, 644 S.W.2d 261 (1983).</p>
+                <p pgmap="87" id="b87-5">Nicole’s parents were divorced four and one-half years before the petition and appellee was granted custody of the child. The father was ordered to pay $94.00 a month in support, which could be offset by any support paid by his parents, the appellants. Three days after the decree, however, appellee and appellants agreed that Nicole should stay with appellants. The appellants have provided all the support and care of Nicole since that time without contribution from appellee.</p>
+                <p pgmap="87" id="b87-6">The probate court found that áppellee had sent letters and gifts to Nicole, some of which were returned unclaimed, and had made occasional visits, and had therefore not failed significantly to communicate with Nicole for more than one year. The court, in addition, found that the appellee had justifiable cause not to provide support because of her reliance on the divorce decree’s order that the father pay support and because the appellants were in effect put in the position of parents while they had custody of Nicole. The probate court opinion recognized that the original divorce complaint provided that the appellants should remain responsible for support and maintenance of Nicole while they had custody and that the appellants were given the derivative rights of their son.</p>
+                <p pgmap="87" id="b87-7">The probate court relied on the case of In Re C.J.U., 660 P.2d 237 (Utah 1983), for the proposition that</p>
+                <blockquote pgmap="87(16) 88(90)" id="b87-8">parents are permanently “duty-bound” to support their children under [the Utah statute]. However, the extent of that duty is not without limitation, particularly in the context of a marriage which has been dissolved by divorce. Once the question of child support has been submitted to a court of competent jurisdiction and a ruling thereon has been obtained, the more general statutory duty of support becomes circumscribed by the more specific duty imposed by the court. A noncustodial parent whose obligation to provide support is being supervised by such a court order cannot be said to have any “duty” to provide beyond that imposed by the court.</blockquote>
+                <p pgmap="88" id="b88-6">In Loveless v. May, supra, we held that a mother, who moved to Florida and left her child with babysitters before custody was given to other relatives by court order, had not lost her right to withhold consent inasmuch as she had relied on the court order and the advice of the juvenile court judge in assuming that her support was not required while the relatives had custody.</p>
+                <p pgmap="88" id="b88-7">
+                   Granted, a parent cannot simply turn a child’s care and support over to another and thereby be excused from the duty of providing support for the child, a duty which exists whether ordered by a court or not. Pender v. McKee, 266 Ark. 18, 582 S.W.2d 929 (1979). We cannot say, however, given the appellee’s reliance on the special circumstances in this case, that the probate court findings were clearly erroneous that appellants failed to prove by clear and convincing evidence that appellee had no justifiable cause for failing to personally provide support for her child.</p>
+                <p pgmap="88" id="b88-8">
+                   The court gives careful protection to a natural parent’s rights. As announced in Woodson v. Lee, 221 Ark. 517, 254 S.W.2d 326 (1953), quoting In re Cordy, 169 Cal. 157, 146 P. 532 (1914),</p>
+                <blockquote pgmap="88(91) 89(57)" id="b88-9">“. . . the power of the court in adoption proceedings to deprive a parent of her child, being in derogation of her natural right to it, and being a special power conferred by the statute, such statute should be strictly construed; that ‘the law is solicitous toward maintaining the integrity of the natural relation of parent and child; and in adversary proceedings in adoption, where the absolute severance of that relation is sought, without the consent and against the protest of the parent, the inclination of the courts, as the law contemplates it should be, is in favor of maintaining the natural relation. . . . Every intendment should have been in favor of the claim of the mother under the evidence, and if the statute was open to construction and interpreta­tion it should be construed in support of the right of the natural parent.’ ”</blockquote>
+                <p pgmap="89" id="b89-6">For these reasons, we affirm the trial court.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="85" ORDERLABEL="59" TYPE="page">
+        <fptr FILEID="tiff_00043_0"/>
+        <fptr FILEID="jp2_00043_0"/>
+        <fptr FILEID="alto_00043_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_85.2" BETYPE="IDREF" FILEID="alto_00043_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="86" ORDERLABEL="60" TYPE="page">
+        <fptr FILEID="tiff_00043_1"/>
+        <fptr FILEID="jp2_00043_1"/>
+        <fptr FILEID="alto_00043_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_86.2" BETYPE="IDREF" FILEID="alto_00043_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="87" ORDERLABEL="61" TYPE="page">
+        <fptr FILEID="tiff_00044_0"/>
+        <fptr FILEID="jp2_00044_0"/>
+        <fptr FILEID="alto_00044_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_87.2" BETYPE="IDREF" FILEID="alto_00044_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="88" ORDERLABEL="62" TYPE="page">
+        <fptr FILEID="tiff_00044_1"/>
+        <fptr FILEID="jp2_00044_1"/>
+        <fptr FILEID="alto_00044_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_88.2" BETYPE="IDREF" FILEID="alto_00044_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="89" ORDERLABEL="63" TYPE="page">
+        <fptr FILEID="tiff_00045_0"/>
+        <fptr FILEID="jp2_00045_0"/>
+        <fptr FILEID="alto_00045_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_89.3" BETYPE="IDREF" FILEID="alto_00045_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b85-10" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_85.10" BETYPE="IDREF" FILEID="alto_00043_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b86-7" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_86.9" BETYPE="IDREF" FILEID="alto_00043_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b86-9" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_86.11" BETYPE="IDREF" FILEID="alto_00043_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b86-8" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_86.10" BETYPE="IDREF" FILEID="alto_00043_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b88-8" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_88.6" BETYPE="IDREF" FILEID="alto_00044_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b87-8" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_87.8" BETYPE="IDREF" FILEID="alto_00044_0"/>
+            <area BEGIN="BL_88.1" BETYPE="IDREF" FILEID="alto_00044_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b87-6" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_87.6" BETYPE="IDREF" FILEID="alto_00044_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b87-5" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_87.5" BETYPE="IDREF" FILEID="alto_00044_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b85-8" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_85.7" BETYPE="IDREF" FILEID="alto_00043_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b85-9" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_85.8" BETYPE="IDREF" FILEID="alto_00043_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AkK" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_85.9" BETYPE="IDREF" FILEID="alto_00043_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AsU" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_86.12" BETYPE="IDREF" FILEID="alto_00043_1"/>
+            <area BEGIN="BL_86.13" BETYPE="IDREF" FILEID="alto_00043_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b88-6" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_88.4" BETYPE="IDREF" FILEID="alto_00044_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b86-11" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_86.15" BETYPE="IDREF" FILEID="alto_00043_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b86-10" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_86.14" BETYPE="IDREF" FILEID="alto_00043_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b86-12" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_86.16" BETYPE="IDREF" FILEID="alto_00043_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b87-4" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_87.4" BETYPE="IDREF" FILEID="alto_00044_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b87-3" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_87.3" BETYPE="IDREF" FILEID="alto_00044_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b88-7" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_88.5" BETYPE="IDREF" FILEID="alto_00044_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b89-6" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_89.4" BETYPE="IDREF" FILEID="alto_00045_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b89-7" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_89.5" BETYPE="IDREF" FILEID="alto_00045_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AzD" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_85.11" BETYPE="IDREF" FILEID="alto_00043_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b87-7" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_87.7" BETYPE="IDREF" FILEID="alto_00044_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b88-9" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_88.7" BETYPE="IDREF" FILEID="alto_00044_1"/>
+            <area BEGIN="BL_89.1" BETYPE="IDREF" FILEID="alto_00045_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

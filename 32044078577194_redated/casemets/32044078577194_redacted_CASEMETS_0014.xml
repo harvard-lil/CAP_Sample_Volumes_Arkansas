@@ -1,0 +1,441 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0014" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Bankston v. McKenzie">Eddie W. BANKSTON, et ux. v. Charlene McKENZIE</name>
+          <docketnumber>85-71</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 65</citation>
+          <citation category="parallel" type="bluebook">702 S.W.2d 14</citation>
+          <decisiondate>1986-01-21</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:00Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00046_0" MIMETYPE="image/tiff" CHECKSUM="73915da5ba7c4a3933c916ce79c64d26" CHECKSUMTYPE="MD5" SIZE="12852">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00046_0.tif"/>
+      </file>
+      <file ID="tiff_00046_1" MIMETYPE="image/tiff" CHECKSUM="d8dee045165f7625bc1157b4e394f0c9" CHECKSUMTYPE="MD5" SIZE="48872">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00046_1.tif"/>
+      </file>
+      <file ID="tiff_00047_0" MIMETYPE="image/tiff" CHECKSUM="94185545a8442f4997946d3345ff7cc1" CHECKSUMTYPE="MD5" SIZE="52394">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00047_0.tif"/>
+      </file>
+      <file ID="tiff_00047_1" MIMETYPE="image/tiff" CHECKSUM="5e1c8ef718df8c18c85b5eadd9772729" CHECKSUMTYPE="MD5" SIZE="34848">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00047_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00046_0" MIMETYPE="image/jp2" CHECKSUM="338dfaee84a8f53131dc49f9e0e6d9e1" CHECKSUMTYPE="MD5" SIZE="1569789">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00046_0.jp2"/>
+      </file>
+      <file ID="jp2_00046_1" MIMETYPE="image/jp2" CHECKSUM="e0c4a3e09496c63c5b5bedb9cbddf722" CHECKSUMTYPE="MD5" SIZE="2419006">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00046_1.jp2"/>
+      </file>
+      <file ID="jp2_00047_0" MIMETYPE="image/jp2" CHECKSUM="19234671032617fd293ca4838ca961d5" CHECKSUMTYPE="MD5" SIZE="2709402">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00047_0.jp2"/>
+      </file>
+      <file ID="jp2_00047_1" MIMETYPE="image/jp2" CHECKSUM="51a532495f1bbd9cd5b7a2583d823aaa" CHECKSUMTYPE="MD5" SIZE="2331056">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00047_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00046_0" MIMETYPE="text/xml" CHECKSUM="a2a76266c53b468ddc927be745491376" CHECKSUMTYPE="MD5" SIZE="17923">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00046_0.xml"/>
+      </file>
+      <file ID="alto_00046_1" MIMETYPE="text/xml" CHECKSUM="a9e3d16f6fae8a888edfea383b0a0b85" CHECKSUMTYPE="MD5" SIZE="77429">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00046_1.xml"/>
+      </file>
+      <file ID="alto_00047_0" MIMETYPE="text/xml" CHECKSUM="9b1a2be50a19c2bf1044926a2c07dfce" CHECKSUMTYPE="MD5" SIZE="87443">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00047_0.xml"/>
+      </file>
+      <file ID="alto_00047_1" MIMETYPE="text/xml" CHECKSUM="373046446953efd36e07feb57a6e2917" CHECKSUMTYPE="MD5" SIZE="55374">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00047_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0014" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="65" lastpage="68">
+              <court pgmap="91" id="b91-9">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="91" id="AWy">85-71</docketnumber>
+              <citation pgmap="91" id="A6E">702 S.W.2d 14</citation>
+              <parties pgmap="91" id="b91-8">Eddie W. BANKSTON, et ux. v. Charlene McKENZIE</parties>
+              <decisiondate pgmap="91" id="A3L">Opinion delivered January 21, 1986</decisiondate>
+              <judges pgmap="94" id="b94-9">Purtle, J., not participating.</judges>
+              <attorneys pgmap="92" id="b92-7">Patton &amp; Brown, and Eddie W. Bankston, Pro Se, for appellant.</attorneys>
+              <attorneys pgmap="92" id="b92-8">Warren H. Webster, for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="92" id="b92-9">Darrell Hickman, Justice.</author>
+                <p pgmap="92" id="AJq">This case arises from ongoing litigation between the parties in both circuit and chancery court. This is the third time the parties have been before us on appeal. This appeal is from a foreclosure decree in chancery court and presents the question of whether Charlene McKenzie, the appel-­lee, lost her right to foreclosure in chancery court when she voluntarily nonsuited the same claim in the circuit court proceeding.</p>
+                <p pgmap="92" id="b92-10">Charlene McKenzie contracted with the Pulaski County Special School District to build a house; she subsequently leased the house to Eddie and June Bankston, the appellants, with an option to purchase. The Bankstons exercised the option in 1980 and bought the house for $86,000. McKenzie took a mortgage of $83,000. The Bankstons had numerous problems with the house. Then a fire in September of 1980 caused extensive damage. The Bankstons were paid $129,974.68 by their own insurance com­pany for the loss in July, 1981. On June 10, 1982, they sued McKenzie, the school district and the district’s insurance carrier alleging numerous theories including negligence, breach of war­ranties and breach of contract. The first appeal merely questioned the circuit court’s ruling that the school district was totally immune from the claims. We held that the district was only immune from tort liability and could be liable for breach of contract. Bankston v. Pulaski County Special School Dist., 281 Ark. 476, 665 S.W.2d 859 (1984). On remand the circuit court granted summary judgment for all defendants, including Mc­Kenzie. We affirmed. Bankston v. McKenzie, 287 Ark. 350, 698 S.W.2d 799 (1985).</p>
+                <p pgmap="92(43) 93(40)" id="b92-11">After the Bankstons filed their damage suit in circuit court, but before McKenzie was served with notice of that suit, she filed a foreclosure suit in chancery court on July 12,1982, alleging that the Bankstons were four months behind in their payments. The Bankstons filed a motion to dismiss in chancery alleging that McKenzie was obligated to make that claim as a compulsory counterclaim in their circuit court case. The chancellor orally overruled the motion and the foreclosure action remained in chancery court.</p>
+                <p pgmap="93" id="b93-6">At some point, however, McKenzie did file a counterclaim in the circuit court case asking for foreclosure. The counterclaim remained in the case until the circuit court announced it was granting the defense motions for summary judgment. The only remaining issue in circuit court was the foreclosure claim, which also was still pending in chancery court. With the full knowledge of all parties that the foreclosure action was still pending in chancery, McKenzie asked for dismissal of the counterclaim. It was dismissed without prejudice.</p>
+                <p pgmap="93" id="b93-7">
+                   The Bankstons now argue that that voluntary nonsuit is the death knell to McKenzie’s claim in chancery. They do not argue that McKenzie is not entitled to foreclosure on the merits. They simply contend that she is barred because she took a nonsuit on her counterclaim in circuit court. The rule on which they rely is ARCP Rule 13 (a):</p>
+                <blockquote pgmap="93" id="b93-8">(a) Compulsory Counterclaims. A pleading shall state as a counterclaim any claim which, at the time of filing the pleading, the pleader has against any opposing party, if it arises out of the transaction or occurrence that is the subject matter of the opposing party’s claim and does not require for its adjudication the presence of third parties of whom the court cannot acquire jurisdiction. But the pleader need not state the claim if (1) at the time the action was commenced the claim was the subject of another pending action, or (2) the opposing party brought suit upon his claim by attachment or other process by which the court did not acquire jurisdiction to render a personal judgment on the claim, and the pleader is not stating any counterclaim under this Rule 13.</blockquote>
+                <p pgmap="93(55) 94(4)" id="b93-9">The reason for Rule 13 is to require parties to present all existing claims simultaneously to the court or be forever barred, thus preventing a multiplicity of suits arising from one set of circum­stances. Martin v. Citizens Bank of Beebe, 283 Ark. 145, 671 S.W.2d 754 (1984); see Shrieves v. Yarbrough, 220 Ark. 256, 247 S.W.2d 193 (1952).</p>
+                <p pgmap="94" id="b94-6">
+                   If the action had not been pending in chancery court and the chancellor had not already ruled that the cause would remain there, the issue might be troublesome. The chancellor refused to dismiss the foreclosure and when the nonsuit was granted in circuit court, all parties recognized that the claim remained in chancery. The claim was not dropped; it was being pursued elsewhere and all parties were aware of that. The Bankstons have raised no argument of prejudice. The outcome would have been the same in circuit court on the counterclaim. We affirm the chancellor’s holding that McKenzie’s voluntary nonsuit does not operate to bar her claim in chancery. The purpose of the mandatory counterclaim provision was satisfied in this case. The contested claim was made in both courts and ultimately decided in a court that had jurisdiction over the subject matter.</p>
+                <p pgmap="94" id="b94-7">
+                   The Bankstons also argue that the chancellor erred in ruling that their defenses to the foreclosure — breach of contract, breach of warranties and negligence — were res judicata because of their resolution in the circuit court case. We agree with the chancellor. All of those claims against McKenzie had already been litigated and resolved in her favor. They could not be raised again. Olmstead v. Rosedale Building &amp; Supply Co., 229 Ark. 61, 313 S.W.2d 235 (1938).</p>
+                <p pgmap="94" id="b94-8">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="91" ORDERLABEL="65" TYPE="page">
+        <fptr FILEID="tiff_00046_0"/>
+        <fptr FILEID="jp2_00046_0"/>
+        <fptr FILEID="alto_00046_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_91.3" BETYPE="IDREF" FILEID="alto_00046_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="92" ORDERLABEL="66" TYPE="page">
+        <fptr FILEID="tiff_00046_1"/>
+        <fptr FILEID="jp2_00046_1"/>
+        <fptr FILEID="alto_00046_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_92.2" BETYPE="IDREF" FILEID="alto_00046_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="93" ORDERLABEL="67" TYPE="page">
+        <fptr FILEID="tiff_00047_0"/>
+        <fptr FILEID="jp2_00047_0"/>
+        <fptr FILEID="alto_00047_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_93.3" BETYPE="IDREF" FILEID="alto_00047_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="94" ORDERLABEL="68" TYPE="page">
+        <fptr FILEID="tiff_00047_1"/>
+        <fptr FILEID="jp2_00047_1"/>
+        <fptr FILEID="alto_00047_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_94.2" BETYPE="IDREF" FILEID="alto_00047_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b93-9" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_93.7" BETYPE="IDREF" FILEID="alto_00047_0"/>
+            <area BEGIN="BL_94.1" BETYPE="IDREF" FILEID="alto_00047_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b93-8" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_93.6" BETYPE="IDREF" FILEID="alto_00047_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A3L" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_91.11" BETYPE="IDREF" FILEID="alto_00046_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b94-8" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_94.6" BETYPE="IDREF" FILEID="alto_00047_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b93-7" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_93.5" BETYPE="IDREF" FILEID="alto_00047_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b93-6" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_93.4" BETYPE="IDREF" FILEID="alto_00047_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b94-9" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_94.7" BETYPE="IDREF" FILEID="alto_00047_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b94-7" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_94.5" BETYPE="IDREF" FILEID="alto_00047_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b94-6" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_94.4" BETYPE="IDREF" FILEID="alto_00047_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b92-7" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_92.7" BETYPE="IDREF" FILEID="alto_00046_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b91-9" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_91.10" BETYPE="IDREF" FILEID="alto_00046_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b91-8" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_91.7" BETYPE="IDREF" FILEID="alto_00046_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AWy" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_91.8" BETYPE="IDREF" FILEID="alto_00046_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b92-8" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_92.8" BETYPE="IDREF" FILEID="alto_00046_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b92-9" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_92.9" BETYPE="IDREF" FILEID="alto_00046_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b92-10" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_92.12" BETYPE="IDREF" FILEID="alto_00046_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b92-11" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_92.13" BETYPE="IDREF" FILEID="alto_00046_1"/>
+            <area BEGIN="BL_93.1" BETYPE="IDREF" FILEID="alto_00047_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A6E" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_91.9" BETYPE="IDREF" FILEID="alto_00046_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AJq" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_92.10" BETYPE="IDREF" FILEID="alto_00046_1"/>
+            <area BEGIN="BL_92.11" BETYPE="IDREF" FILEID="alto_00046_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

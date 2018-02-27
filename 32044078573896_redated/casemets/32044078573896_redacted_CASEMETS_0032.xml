@@ -1,0 +1,245 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0032" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="State v. Harrison">The State vs. Harrison</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 197</citation>
+          <decisiondate>1860-01</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00100_0" MIMETYPE="image/tiff" CHECKSUM="f7a510669c7f06760b9ed559b0802a0d" CHECKSUMTYPE="MD5" SIZE="21124">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00100_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00100_0" MIMETYPE="image/jp2" CHECKSUM="72ee95fd8dfced99ad6dc7e7688ec037" CHECKSUMTYPE="MD5" SIZE="2451736">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00100_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00100_0" MIMETYPE="text/xml" CHECKSUM="8dc6f71a9b3d6df838f90347c8445213" CHECKSUMTYPE="MD5" SIZE="37649">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00100_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0032" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="197" firstpage="197">
+              <parties id="b199-4" pgmap="199">The State vs. Harrison.</parties>
+              <attorneys id="b199-8" pgmap="199">Mr. Attorney General Hollowell, for the State.</attorneys>
+              <summary id="b199-6" pgmap="199">Appeal from Washington Circuit Court.</summary>
+              <summary id="b199-7" pgmap="199">Hon. John M. Wilson, Circuit Judge.</summary>
+              <headnotes id="b199-5" pgmap="199">To refuse to conform to the mandate of this Court, when a ease is reversed and remanded to the Circuit Court, is a gross error.</headnotes>
+              <opinion type="majority">
+                <author id="b199-9" pgmap="199">Mr. Justice Compton</author>
+                <p id="ASq" pgmap="199">delivered the opinion of the court.</p>
+                <p id="b199-10" pgmap="199">This case was before this Court at January term, 1858, when it was decided that the court below erred in sustaining the motion to quash the indictment. See 19 Ark. 565.</p>
+                <p id="b199-11" pgmap="199">The judgment was reversed and the cause remanded; and it appears, from the transcript now before us, that the court refused to overrule the motion to quash, notwithstanding the decision and mandate of this court. This was a 'gross error, for which the judgment must be reversed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="199" ORDERLABEL="197" TYPE="page">
+        <fptr FILEID="tiff_00100_0"/>
+        <fptr FILEID="jp2_00100_0"/>
+        <fptr FILEID="alto_00100_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_199.2" BETYPE="IDREF" FILEID="alto_00100_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_199.1" BETYPE="IDREF" FILEID="alto_00100_0"/>
+              <area BEGIN="BL_199.3" BETYPE="IDREF" FILEID="alto_00100_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b199-5" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_199.5" BETYPE="IDREF" FILEID="alto_00100_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b199-4" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_199.4" BETYPE="IDREF" FILEID="alto_00100_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b199-7" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_199.7" BETYPE="IDREF" FILEID="alto_00100_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b199-6" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_199.6" BETYPE="IDREF" FILEID="alto_00100_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b199-10" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_199.11" BETYPE="IDREF" FILEID="alto_00100_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b199-11" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_199.12" BETYPE="IDREF" FILEID="alto_00100_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b199-9" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_199.9" BETYPE="IDREF" FILEID="alto_00100_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b199-8" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_199.8" BETYPE="IDREF" FILEID="alto_00100_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ASq" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_199.10" BETYPE="IDREF" FILEID="alto_00100_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

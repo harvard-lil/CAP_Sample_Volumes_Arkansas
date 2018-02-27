@@ -1,0 +1,386 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0036" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Yeager v. Roberts">Randy Lee YEAGER, et al. v. Ronald G. ROBERTS, et ux.</name>
+          <docketnumber>85-222</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 156</citation>
+          <citation category="parallel" type="bluebook">702 S.W.2d 793</citation>
+          <decisiondate>1986-02-03</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:00Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00091_1" MIMETYPE="image/tiff" CHECKSUM="001ee71e8f678ed38148750ebf4763f5" CHECKSUMTYPE="MD5" SIZE="13752">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00091_1.tif"/>
+      </file>
+      <file ID="tiff_00092_0" MIMETYPE="image/tiff" CHECKSUM="5a83a30bc820aadb508c1e574c3d8d86" CHECKSUMTYPE="MD5" SIZE="52510">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00092_0.tif"/>
+      </file>
+      <file ID="tiff_00092_1" MIMETYPE="image/tiff" CHECKSUM="36310023cf6964d8b2190e3a9ab0b1c0" CHECKSUMTYPE="MD5" SIZE="12968">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00092_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00091_1" MIMETYPE="image/jp2" CHECKSUM="8b970bb823376525fdf5d1ca41819a85" CHECKSUMTYPE="MD5" SIZE="1619385">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00091_1.jp2"/>
+      </file>
+      <file ID="jp2_00092_0" MIMETYPE="image/jp2" CHECKSUM="89c2c24993adc2e035fd7878a7e5a979" CHECKSUMTYPE="MD5" SIZE="2482905">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00092_0.jp2"/>
+      </file>
+      <file ID="jp2_00092_1" MIMETYPE="image/jp2" CHECKSUM="b486926cb013c9c4a64602b56534e4b2" CHECKSUMTYPE="MD5" SIZE="1587977">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00092_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00091_1" MIMETYPE="text/xml" CHECKSUM="bab046a65ae9586b42cf26dbd083befb" CHECKSUMTYPE="MD5" SIZE="20639">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00091_1.xml"/>
+      </file>
+      <file ID="alto_00092_0" MIMETYPE="text/xml" CHECKSUM="9b516214f693b96a01efce5f5a2e5087" CHECKSUMTYPE="MD5" SIZE="93345">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00092_0.xml"/>
+      </file>
+      <file ID="alto_00092_1" MIMETYPE="text/xml" CHECKSUM="1dc3be68848ee6ac2d8e19a1a5161a99" CHECKSUMTYPE="MD5" SIZE="20310">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00092_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0036" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="156" lastpage="158">
+              <court pgmap="182" id="b182-8">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="182" id="b182-7">85-222</docketnumber>
+              <citation pgmap="182" id="AsP">702 S.W.2d 793</citation>
+              <parties pgmap="182" id="b182-6">Randy Lee YEAGER, et al. v. Ronald G. ROBERTS, et ux.</parties>
+              <decisiondate pgmap="182" id="A20">Opinion delivered February 3, 1986</decisiondate>
+              <judges pgmap="184" id="b184-7">Purtle, J., not participating.</judges>
+              <attorneys pgmap="182" id="b182-16">Bassett Law Firm, by: Wm. Robert Still, Jr., for appellant.</attorneys>
+              <attorneys pgmap="182" id="b182-17">Patrick Parsons, for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="182" id="b182-18">Darrell Hickman, Justice.</author>
+                <p pgmap="182(27) 183(41)" id="AdS">The circuit judge granted the appellees’ motion for a new trial because the jury’s verdict was against the preponderance of the evidence. On appeal it is argued that since the appellees, plaintiffs below, did not move for a directed verdict, they were precluded by ARCP Rule 50(e) from moving for a new trial. We find no merit to this argument and affirm the decision of the trial court.</p>
+                <p pgmap="183" id="b183-6">This is a negligence case involving an accident between a tractor-trailer rig and a car. The issue of liability was virtually conceded by the appellants. The appellants are the driver and owner of the rig. Mrs. Roberts was injured when her vehicle left the highway between Springdale and Huntsville on a curve. She and several others testified that Yeager, the truck driver, forced her off the road. During closing arguments the appellants’ lawyer said “We will concede the accident was our fault.” Evidence of the appellees’ damages was introduced, but the jury returned a verdict for the appellants.</p>
+                <p pgmap="183" id="b183-7">
+                   The appellees did not move for a directed verdict at the close of the case but did move for a judgment notwithstanding the verdict, which was denied, and then made a motion for a new trial. The appellants argue that Rule 50(e), as interpreted by us, requires a plaintiff to move for a directed verdict or be precluded from filing a motion for a new trial because the verdict is against the preponderance of the evidence. Rule 50(e) has nothing to do with such a motion for a new trial. That rule provides:</p>
+                <blockquote pgmap="183" id="b183-8">When there has been a trial by jury, the failure of a party to move for a directed verdict at the conclusion of all evidence, or to move for judgment notwithstanding the verdict, because of insufficiency of the evidence will constitute a waiver of any question pertaining to the sufficiency of the evidence to support the jury verdict.</blockquote>
+                <p pgmap="183" id="b183-9">
+                   A party does not have to make a motion testing the sufficiency of the evidence to go to the jury as a prerequisite to making a motion for a new trial. Motions for directed verdict and judgment notwithstanding the verdict are made to preserve a later argument on the sufficiency of the evidence to go to the jury. ARCP 59 specifically states a motion for a new trial may be granted for eight reasons, one of which is where the verdict is clearly contrary to the preponderance of the evidence. Such a motion does not test the sufficiency of the evidence and is not precluded by Rule 50(e).</p>
+                <p pgmap="184" id="b184-5">
+                   On appeal we affirm a decision granting a new trial unless we find a manifest or clear abuse of discretion. Landis v. Hastings, 276 Ark. 135, 633 S.W.2d 26 (1982). None occurred here. The appellees’ motion for reimbursement of costs is granted pursuant to Ark. Sup. Ct. R. 9(e).</p>
+                <p pgmap="184" id="b184-6">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="182" ORDERLABEL="156" TYPE="page">
+        <fptr FILEID="tiff_00091_1"/>
+        <fptr FILEID="jp2_00091_1"/>
+        <fptr FILEID="alto_00091_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_182.1" BETYPE="IDREF" FILEID="alto_00091_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="183" ORDERLABEL="157" TYPE="page">
+        <fptr FILEID="tiff_00092_0"/>
+        <fptr FILEID="jp2_00092_0"/>
+        <fptr FILEID="alto_00092_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_183.3" BETYPE="IDREF" FILEID="alto_00092_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="184" ORDERLABEL="158" TYPE="page">
+        <fptr FILEID="tiff_00092_1"/>
+        <fptr FILEID="jp2_00092_1"/>
+        <fptr FILEID="alto_00092_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_184.1" BETYPE="IDREF" FILEID="alto_00092_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b183-8" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_183.6" BETYPE="IDREF" FILEID="alto_00092_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b182-7" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_182.6" BETYPE="IDREF" FILEID="alto_00091_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b182-6" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_182.5" BETYPE="IDREF" FILEID="alto_00091_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b184-6" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_184.4" BETYPE="IDREF" FILEID="alto_00092_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b182-8" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_182.8" BETYPE="IDREF" FILEID="alto_00091_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b182-17" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_182.18" BETYPE="IDREF" FILEID="alto_00091_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b182-16" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_182.17" BETYPE="IDREF" FILEID="alto_00091_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AdS" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_182.20" BETYPE="IDREF" FILEID="alto_00091_1"/>
+            <area BEGIN="BL_182.21" BETYPE="IDREF" FILEID="alto_00091_1"/>
+            <area BEGIN="BL_183.1" BETYPE="IDREF" FILEID="alto_00092_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AsP" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_182.7" BETYPE="IDREF" FILEID="alto_00091_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b182-18" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_182.19" BETYPE="IDREF" FILEID="alto_00091_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b184-7" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_184.5" BETYPE="IDREF" FILEID="alto_00092_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b183-9" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_183.7" BETYPE="IDREF" FILEID="alto_00092_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b184-5" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_184.3" BETYPE="IDREF" FILEID="alto_00092_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b183-6" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_183.4" BETYPE="IDREF" FILEID="alto_00092_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b183-7" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_183.5" BETYPE="IDREF" FILEID="alto_00092_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A20" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_182.9" BETYPE="IDREF" FILEID="alto_00091_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

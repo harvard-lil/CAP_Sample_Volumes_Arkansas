@@ -1,0 +1,849 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0112" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Estate of Johnson v. Carr">The ESTATE of L.W. JOHNSON and Carutha JOHNSON v. Clarence CARR and Rosie CARR</name>
+          <docketnumber>85-285</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 461</citation>
+          <citation category="parallel" type="bluebook">706 S.W.2d 388</citation>
+          <decisiondate>1986-03-31</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:00Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00248_0" MIMETYPE="image/tiff" CHECKSUM="4d5c62bbb0d8fa5b654795e8c7c08859" CHECKSUMTYPE="MD5" SIZE="29794">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00248_0.tif"/>
+      </file>
+      <file ID="tiff_00248_1" MIMETYPE="image/tiff" CHECKSUM="8aff0911d02b5df9d8529cea579085fb" CHECKSUMTYPE="MD5" SIZE="27522">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00248_1.tif"/>
+      </file>
+      <file ID="tiff_00249_0" MIMETYPE="image/tiff" CHECKSUM="87b405ed00b80336ae81346afe701d74" CHECKSUMTYPE="MD5" SIZE="42958">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00249_0.tif"/>
+      </file>
+      <file ID="tiff_00249_1" MIMETYPE="image/tiff" CHECKSUM="a90cfb425e300794848a976e38652920" CHECKSUMTYPE="MD5" SIZE="55928">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00249_1.tif"/>
+      </file>
+      <file ID="tiff_00250_0" MIMETYPE="image/tiff" CHECKSUM="768448165b860fe804acc123a349bb4d" CHECKSUMTYPE="MD5" SIZE="55886">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00250_0.tif"/>
+      </file>
+      <file ID="tiff_00250_1" MIMETYPE="image/tiff" CHECKSUM="d886d001534499f2d4af3e757e38b989" CHECKSUMTYPE="MD5" SIZE="51760">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00250_1.tif"/>
+      </file>
+      <file ID="tiff_00251_0" MIMETYPE="image/tiff" CHECKSUM="144fdae3a2111aef990e0ba631f2930b" CHECKSUMTYPE="MD5" SIZE="50174">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00251_0.tif"/>
+      </file>
+      <file ID="tiff_00251_1" MIMETYPE="image/tiff" CHECKSUM="fd96403b12bb203f7b35865581c9d5b8" CHECKSUMTYPE="MD5" SIZE="33852">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00251_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00248_0" MIMETYPE="image/jp2" CHECKSUM="90b2e60f2b930f43b2f4dea0534af896" CHECKSUMTYPE="MD5" SIZE="2001314">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00248_0.jp2"/>
+      </file>
+      <file ID="jp2_00248_1" MIMETYPE="image/jp2" CHECKSUM="5bfbde4317416680621b61957aea9197" CHECKSUMTYPE="MD5" SIZE="1874909">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00248_1.jp2"/>
+      </file>
+      <file ID="jp2_00249_0" MIMETYPE="image/jp2" CHECKSUM="1cbc217d61fb2dc577d2a676484adcd3" CHECKSUMTYPE="MD5" SIZE="2461170">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00249_0.jp2"/>
+      </file>
+      <file ID="jp2_00249_1" MIMETYPE="image/jp2" CHECKSUM="982cda9aa0487149e3f6e10148dc247f" CHECKSUMTYPE="MD5" SIZE="2561887">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00249_1.jp2"/>
+      </file>
+      <file ID="jp2_00250_0" MIMETYPE="image/jp2" CHECKSUM="96d822bfe240e9bfa9abeff4bf0a89d4" CHECKSUMTYPE="MD5" SIZE="2578216">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00250_0.jp2"/>
+      </file>
+      <file ID="jp2_00250_1" MIMETYPE="image/jp2" CHECKSUM="84c5224897f18d2bb4e44f6df4160d60" CHECKSUMTYPE="MD5" SIZE="2517887">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00250_1.jp2"/>
+      </file>
+      <file ID="jp2_00251_0" MIMETYPE="image/jp2" CHECKSUM="897d8d960b3b45658c703f62b3cbdecf" CHECKSUMTYPE="MD5" SIZE="2503225">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00251_0.jp2"/>
+      </file>
+      <file ID="jp2_00251_1" MIMETYPE="image/jp2" CHECKSUM="f85cbdd9ed888f07aaebf0b335e78df7" CHECKSUMTYPE="MD5" SIZE="2077185">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00251_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00248_0" MIMETYPE="text/xml" CHECKSUM="6d8ec32eda46c3cdba578dd67776624f" CHECKSUMTYPE="MD5" SIZE="45677">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00248_0.xml"/>
+      </file>
+      <file ID="alto_00248_1" MIMETYPE="text/xml" CHECKSUM="f0286761903a6912a0c092fd2a239357" CHECKSUMTYPE="MD5" SIZE="46771">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00248_1.xml"/>
+      </file>
+      <file ID="alto_00249_0" MIMETYPE="text/xml" CHECKSUM="ab686a27b5c257139c39d0c6841af45a" CHECKSUMTYPE="MD5" SIZE="71215">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00249_0.xml"/>
+      </file>
+      <file ID="alto_00249_1" MIMETYPE="text/xml" CHECKSUM="d7cc29f2f2f8aa62ad3c81b203a76142" CHECKSUMTYPE="MD5" SIZE="95237">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00249_1.xml"/>
+      </file>
+      <file ID="alto_00250_0" MIMETYPE="text/xml" CHECKSUM="3610725b3cc10ccef79b312a8cfbe6c2" CHECKSUMTYPE="MD5" SIZE="97929">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00250_0.xml"/>
+      </file>
+      <file ID="alto_00250_1" MIMETYPE="text/xml" CHECKSUM="13fb9f5d6e24660680b6228e29eafc68" CHECKSUMTYPE="MD5" SIZE="90258">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00250_1.xml"/>
+      </file>
+      <file ID="alto_00251_0" MIMETYPE="text/xml" CHECKSUM="5b5e2847d322aa0cff70d4a5c955305a" CHECKSUMTYPE="MD5" SIZE="91154">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00251_0.xml"/>
+      </file>
+      <file ID="alto_00251_1" MIMETYPE="text/xml" CHECKSUM="fab58e1faa920389dafce1e89d00fa24" CHECKSUMTYPE="MD5" SIZE="51992">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00251_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0112" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="461" lastpage="468">
+              <court pgmap="495" id="b495-11">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="495" id="b495-10">85-285</docketnumber>
+              <citation pgmap="495" id="ASv">706 S.W.2d 388</citation>
+              <parties pgmap="495" id="b495-9">The ESTATE of L.W. JOHNSON and Carutha JOHNSON v. Clarence CARR and Rosie CARR</parties>
+              <decisiondate pgmap="495" id="An3">Opinion delivered March 31, 1986</decisiondate>
+              <otherdate pgmap="495" id="Amu">[Rehearing denied May 5, 1986.<footnotemark>*</footnotemark>]</otherdate>
+              <judges pgmap="500" id="b500-8">George Rose Smith, J., dissents.</judges>
+              <judges pgmap="500" id="b500-9">Purtle, J., not participating.</judges>
+              <attorneys pgmap="496" id="b496-9">Eugene Hunt, P.A., by: Eugene Hunt and Lisa A. Kelly, for appellants.</attorneys>
+              <attorneys pgmap="496" id="b496-10">Wilton E. Steed, for appellees.</attorneys>
+              <footnote label="*">
+                <p pgmap="495" id="b495-14">* Purtle, J., not participating.</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="496" id="b496-11">Steele Hays, Justice.</author>
+                <p pgmap="496" id="A-g">This appeal calls for an interpretation of a contract for the sale of land between L. W. and Carutha Johnson, appellants, and Clarence and Rosie Carr, appellees. The contract was made in 1966 and provided that:</p>
+                <blockquote pgmap="496" id="b496-12">for an additional ten dollars and other good and valuable consideration, . . . the sellers shall have the option to repurchase the real property involved in this contract in the event purchasers decide to sell ... in the event the purchasers desire to sell. . . they shall give the sellers written notice of their desire to sell and sellers shall have sixty days from the date of receipt of notice in which to avail themselves of this option to purchase. (Our emphasis).</blockquote>
+                <p pgmap="496" id="b496-13">The contract said the price of the land was to be, “not higher than the appraised value by two appraisers to be selected by the sellers and purchasers.” In January, 1976, the Johnsons delivered their warranty deed to the Carrs and the contract was incorporated into the deed.</p>
+                <p pgmap="497" id="b497-5">On September 17, 1982, Mr. Carr wrote to Mr. Johnson as follows:</p>
+                <blockquote pgmap="497" id="b497-6">Mrs. Carr and I are seriously considering selling the North Cedar property we acquired from you in 1966. If you are interested in reacquiring this property, please call us or contact us by mail within ten days after receipt of the letter.</blockquote>
+                <p pgmap="497" id="b497-7">Through his attorney, Johnson wrote Carr that he wanted to exercise the option. Carr responded to the Johnsons’ letter on September 28:</p>
+                <blockquote pgmap="497" id="b497-8">Our attorney has informed us the option provisions . . . are no longer valid ... it is his opinion that the option expired when the terms of the contract were performed. This is the position we will take in this matter. Neverthe­less, we will sell you the property pursuant to the following conditions.</blockquote>
+                <blockquote pgmap="497" id="b497-9">1. Make us a serious offer within 5 days upon receipt of this letter.</blockquote>
+                <blockquote pgmap="497" id="b497-10">2. We promise to negotiate seriously in reaching a mutual agreement.</blockquote>
+                <blockquote pgmap="497" id="b497-11">3. We will consider a land contract with a substantial down payment.</blockquote>
+                <blockquote pgmap="497" id="b497-12">4. We will also consider a subordination clause if a land contract is used.</blockquote>
+                <blockquote pgmap="497" id="b497-13">5. If an agreement is reached, sale must be finalized in 6 working days. (Our italics.)</blockquote>
+                <p pgmap="497" id="b497-14">Johnson made an offer of $8,000, but got no response and when the Carrs refused to negotiate any further, the Johnsons sued for specific performance. The court found the option agreement violated the rule against perpetuities and dismissed the case. The Johnsons appealed and we reversed, finding no violation of the rule. Johnson v. Carr, 286 Ark. 369, 691 S.W.2d 161 (1985). On remand, no additional testimony was taken, and the court dismissed the complaint, holding the Carrs had not manifested an “intent and desire to sell the property involved by unconditionally offering the same to plaintiffs.”</p>
+                <p pgmap="498" id="b498-5">
+                   This option to repurchase is not strictly an option, but is what is usually referred to as a preemptive right or a right of first refusal. See Corbin On Contracts, § 261 (1963). The right creates an option based on a condition precedent and ordinarily promises that before offering the property for sale or accepting an offer from another, the owner will first offer the property to the optionee at the offered price or at some predetermined price. The wording of these contracts, however, is critical and will vary from contract to contract, thereby affecting the specific right the option holder has. Id. § 261, 261 A. “Such is a Contract for a First Refusal, although the Right that it creates may be described in other terms. Such terms are ‘First Right to Buy,’ ‘Right of Preemption,’ ‘First Privilege to Purchase,’ ‘First Right and Option’. In no case are the legal relations of O and B [owner/ buyer] determinable from the name alone. In all cases, the interpretation requires knowledge of the entire context, context of facts as well as context of words.” Id. § 261 A.</p>
+                <p pgmap="498" id="b498-6">We have not construed such a contract, but cases from other jurisdictions are informative in dealing with the contract lan­guage. In New Haven Trap Rock Company v. Tata, 149 Conn. 181, 177 A.2d 798 (1962), the option to repurchase was almost identical to the one in our case except for the verb: If the buyer “shall consider selling said premises,” notification must be given the seller to repurchase. In discussing this provision the court said:</p>
+                <blockquote pgmap="498" id="b498-7">The plaintiff and the defendants agree that the provisions in the deed relating to repurchase by the plaintiff created a preemptive right in the plaintiff rather than a strict option. In this case, however, the wording of the provision differs materially from that which is generally used and is cited in the cases and authorities upon which the defendants rely. Generally speaking, a preemption does not give a preemp-­tioner the power to compel an unwilling owner to sell; it merely requires the owner, when and if he decides to sell, to offer the property first to the preemptioner at the stipulated price, [cites omitted]. Here, it was necessary only for Tata to give thought to or entertain the idea of selling. He did not have to decide to do so.</blockquote>
+                <p pgmap="498(10) 499(28)" id="b498-8">The court found the option triggered. While there were other considerations in the case that may have been more pivotal in the court’s decision than the construction of the language, their approach to the language is nevertheless instructive.</p>
+                <p pgmap="499" id="b499-6">In Long v. Wayble, 48 Or.App. 851, 618 P.2d 22 (1980), the contract read, “Lessor agrees to give lessee first right of refusal on purchase of this property. . .at an asking price of $35,000.” The lessor did not notify the lessee of any intent and entered into a listing agreement asking $49,000. The lessee attempted to exercise his right of first refusal and the owner then withdrew the property from the market and declined to sell to plaintiff for less than $45,000. The court stated that the dispute in the case concerned whether the act of listing the property for sale satisfied the condition precedent to the lessee’s right to purchase the property — that the lessor be willing to sell. The lessor contended that listing the property was not an offer to sell, but merely an invitation to make an offer and that the lessee’s right did not come into play until some third party made an offer acceptable to him.</p>
+                <p pgmap="499" id="b499-7">The Wayble court distinguished the case before it from those where the right of first refusal does not specify a particular price at which the owner would be willing to sell, should he later decide to do so. The court said:</p>
+                <blockquote pgmap="499" id="b499-8">In such cases, the owner’s willingness to sell is conditioned upon getting an acceptable price for the property at the time he makes the decision to sell and an offer from a third party is necessary to establish that price. . . .In this case, we conclude that the clause is clear that, if defendants decided to sell the property at all, they would first offer it to plaintiff for $35,000. (Our emphasis.)</blockquote>
+                <p pgmap="499" id="b499-9">That court then found sufficient evidence, i.e. the signed agency authorization to sell the property and the listing agree­ment which authorized the realtor to accept a deposit and create an escrow for closing. The court held, in effect, that a willingness to sell only at a higher price or not at all, is still a manifestation of an intent to sell. The court said, “The fact that defendants may, in retrospect, have made a bad bargain is immaterial.”</p>
+                <p pgmap="499(35) 500(52)" id="b499-10">In Turner v. Shirk, 49 Ill.App.3d 764, 7 Ill.Dec. 461, 364 N.E.2d 622 (1977), the court found a “desire to sell” demon­strated by a decision to hold an auction and putting a “for sale” sign on the premises. The court found it was not necessary to prove the defendant would sell only at a specific price. “The right contained in the sale notices to reject all bids does not demon­strate a lack of desire to sell, but merely an unwillingness to accept a low price.”</p>
+                <p pgmap="500" id="b500-4">Turning to this case, we believe there is insufficient evidence to conclude the Carrs had decided to sell, as we construe the contract. The first letter sent to the Johnsons stating they were “seriously considering” selling the property, clearly does not mean the Carrs had decided to sell. The second letter, written under the belief that the original contract option was not in force, also fails to rise to a decision to sell. In that letter the Carrs stated they would sell the property, provided the parties would negotiate seriously and subject to certain conditions. This is not an offer, merely an invitation to deal.</p>
+                <p pgmap="500" id="b500-5">
+                   The words, “decide to sell” as used in this contract would not necessarily require a firm offer to the option holder or any third party to demonstrate such an intention and under other circumstances an invitation to deal might be sufficient to demon­strate a decision to sell, (see Long, supra; Turner, supra) but the cases must turn on the context of the facts as well as the words of each case. Corbin on Contracts, § 261A (1963). Here, we don’t find the evidence sufficiently persuasive to reach that conclusion.</p>
+                <p pgmap="500" id="b500-6">Although a willingness to sell only at a higher price can evidence a decision to sell, we cannot conclude from the Carrs’ second letter that this was the case where there was only an offer to negotiate. It may have been that the Carrs’ plan was to sell at a higher price, but given the circumstances of the case and the language used, we could only speculate as to their motives in sending the second letter. On the record presented to the trial court the evidence was insufficient to show that the Carrs would ever be willing to sell, regardless of price. We cannot hold the chancellor’s finding in this regard was clearly erroneous.</p>
+                <p pgmap="500" id="b500-7">Affirmed.</p>
+              </opinion>
+              <opinion type="dissent">
+                <author pgmap="500" id="b500-10">George Rose Smith, Justice,</author>
+                <p pgmap="500(3) 501(27)" id="AaX">dissenting. The majority opinion is wrong, not merely because it allows the Carrs to “welsh” on their contract but also because it inflicts a manifest injustice on the Johnson family.</p>
+                <p pgmap="501" id="b501-6">The Johnsons owned their home. Next to it they also owned two rent houses, a filling station, and the vacant lot in dispute. They agreed to sell the lot to the Carrs for $7,500, but only if they had a right to repurchase it at a fair price if the Carrs decided to sell the lot to a third person. The price has to be fair, because it will be fixed by two appraisers appointed by the parties and may be more or less than the original selling price.</p>
+                <p pgmap="501" id="b501-7">Apparently the Carrs moved to California, where Carr went into the real estate business. In 1982 Carr wrote to Johnson about the lot. The first sentence in Carr’s two-sentence letter stated that the Carrs were considering selling the lot. I would agree with the majority opinion if the second sentence had read differently, perhaps making the whole letter read:</p>
+                <blockquote pgmap="501" id="b501-8">Mrs. Carr and I are seriously considering selling the North Cedar property we acquired from you in 1966. Please make some inquiries and let us know if this is a good time to sell a vacant lot in Pine Bluff.</blockquote>
+                <p pgmap="501" id="b501-9">But that is not how the letter read. Instead, it alluded to the contract and asked Johnson point-blank if he wanted to reacquire the property. Here is Carr’s letter:</p>
+                <blockquote pgmap="501" id="b501-10">Mrs. Carr and I are seriously considering selling the North Cedar property we acquired from you in 1966. If you are [interested] in reacquiring this property, please call us or contact us by mail within ten days after receipt of the letter.</blockquote>
+                <p pgmap="501" id="b501-11">Johnson did want to reacquire the property. He took the letter to his lawyer, from whose office a letter was written stating that Johnson wanted to exercise the option. At that point the parties had reached an agreement. Carr had stated not only his own desire to sell the property but also his wife’s desire to do so. Johnson had exercised the option to repurchase.</p>
+                <p pgmap="501(35) 502(103)" id="b501-12">What happened after that is, in my opinion, immaterial. Carr apparently realized (Horrors!) that he might have to live up to his promise and resell the land at a fair price. He hastened to his own lawyer, who opined that the contract was too indefinite to be enforceable and that the option had expired when the contract was performed. Later on some lawyer thought of a third possible escape, the rule against perpetuities. Not even the lawyers, however, ever suggested that Carr’s letter to Johnson was not in compliance with the contract. Johnson was forced to take an appeal to this court to establish the obvious fact that the contract was perfectly good. The theory that the Carr letter had just been idle talk apparently surfaced for the first time in the chancellor’s written opinion, after the reversal.</p>
+                <p pgmap="502" id="b502-6">With the affirmance, the parties are back to square one. On the first appeal we held that the contract is personal to the Carrs and to the Johnsons; so it would terminate upon the death of both Carrs or both Johnsons. Until that happens, presumably the lot will remain vacant and useless to everyone on earth. What should have been a simple case, easily disposed of,, has been so badly messed up that even the parties must find the situation disheart­ening. I would reverse and grant the appellant’s request for specific performance.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="495" ORDERLABEL="461" TYPE="page">
+        <fptr FILEID="tiff_00248_0"/>
+        <fptr FILEID="jp2_00248_0"/>
+        <fptr FILEID="alto_00248_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_495.3" BETYPE="IDREF" FILEID="alto_00248_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="496" ORDERLABEL="462" TYPE="page">
+        <fptr FILEID="tiff_00248_1"/>
+        <fptr FILEID="jp2_00248_1"/>
+        <fptr FILEID="alto_00248_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_496.2" BETYPE="IDREF" FILEID="alto_00248_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="497" ORDERLABEL="463" TYPE="page">
+        <fptr FILEID="tiff_00249_0"/>
+        <fptr FILEID="jp2_00249_0"/>
+        <fptr FILEID="alto_00249_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_497.2" BETYPE="IDREF" FILEID="alto_00249_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="498" ORDERLABEL="464" TYPE="page">
+        <fptr FILEID="tiff_00249_1"/>
+        <fptr FILEID="jp2_00249_1"/>
+        <fptr FILEID="alto_00249_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_498.1" BETYPE="IDREF" FILEID="alto_00249_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="499" ORDERLABEL="465" TYPE="page">
+        <fptr FILEID="tiff_00250_0"/>
+        <fptr FILEID="jp2_00250_0"/>
+        <fptr FILEID="alto_00250_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_499.3" BETYPE="IDREF" FILEID="alto_00250_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="500" ORDERLABEL="466" TYPE="page">
+        <fptr FILEID="tiff_00250_1"/>
+        <fptr FILEID="jp2_00250_1"/>
+        <fptr FILEID="alto_00250_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_500.2" BETYPE="IDREF" FILEID="alto_00250_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="501" ORDERLABEL="467" TYPE="page">
+        <fptr FILEID="tiff_00251_0"/>
+        <fptr FILEID="jp2_00251_0"/>
+        <fptr FILEID="alto_00251_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_501.3" BETYPE="IDREF" FILEID="alto_00251_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="502" ORDERLABEL="468" TYPE="page">
+        <fptr FILEID="tiff_00251_1"/>
+        <fptr FILEID="jp2_00251_1"/>
+        <fptr FILEID="alto_00251_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_502.2" BETYPE="IDREF" FILEID="alto_00251_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b500-10" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_500.10" BETYPE="IDREF" FILEID="alto_00250_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b495-14" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_495.16" BETYPE="IDREF" FILEID="alto_00248_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b498-5" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_498.3" BETYPE="IDREF" FILEID="alto_00249_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b498-7" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_498.5" BETYPE="IDREF" FILEID="alto_00249_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b498-6" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_498.4" BETYPE="IDREF" FILEID="alto_00249_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b497-10" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_497.8" BETYPE="IDREF" FILEID="alto_00249_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b497-11" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_497.9" BETYPE="IDREF" FILEID="alto_00249_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b497-12" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_497.10" BETYPE="IDREF" FILEID="alto_00249_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b497-13" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_497.11" BETYPE="IDREF" FILEID="alto_00249_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b497-14" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_497.12" BETYPE="IDREF" FILEID="alto_00249_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b495-9" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_495.8" BETYPE="IDREF" FILEID="alto_00248_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ASv" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_495.10" BETYPE="IDREF" FILEID="alto_00248_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b499-9" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_499.7" BETYPE="IDREF" FILEID="alto_00250_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b499-10" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_499.8" BETYPE="IDREF" FILEID="alto_00250_0"/>
+            <area BEGIN="BL_500.1" BETYPE="IDREF" FILEID="alto_00250_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b497-9" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_497.7" BETYPE="IDREF" FILEID="alto_00249_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b496-9" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_496.8" BETYPE="IDREF" FILEID="alto_00248_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="An3" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_495.12" BETYPE="IDREF" FILEID="alto_00248_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AaX" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_500.11" BETYPE="IDREF" FILEID="alto_00250_1"/>
+            <area BEGIN="BL_501.1" BETYPE="IDREF" FILEID="alto_00251_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b502-6" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_502.4" BETYPE="IDREF" FILEID="alto_00251_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b497-6" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_497.4" BETYPE="IDREF" FILEID="alto_00249_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b497-7" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_497.5" BETYPE="IDREF" FILEID="alto_00249_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b497-5" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_497.3" BETYPE="IDREF" FILEID="alto_00249_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b500-7" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_500.7" BETYPE="IDREF" FILEID="alto_00250_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b500-6" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_500.6" BETYPE="IDREF" FILEID="alto_00250_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b501-10" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_501.8" BETYPE="IDREF" FILEID="alto_00251_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b501-11" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_501.9" BETYPE="IDREF" FILEID="alto_00251_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b501-12" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_501.10" BETYPE="IDREF" FILEID="alto_00251_0"/>
+            <area BEGIN="BL_502.1" BETYPE="IDREF" FILEID="alto_00251_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b500-5" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_500.5" BETYPE="IDREF" FILEID="alto_00250_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b501-9" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_501.7" BETYPE="IDREF" FILEID="alto_00251_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b501-8" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_501.6" BETYPE="IDREF" FILEID="alto_00251_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b500-4" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_500.4" BETYPE="IDREF" FILEID="alto_00250_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b500-9" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_500.9" BETYPE="IDREF" FILEID="alto_00250_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b500-8" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_500.8" BETYPE="IDREF" FILEID="alto_00250_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b496-13" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_496.14" BETYPE="IDREF" FILEID="alto_00248_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b496-12" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_496.13" BETYPE="IDREF" FILEID="alto_00248_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b496-11" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_496.10" BETYPE="IDREF" FILEID="alto_00248_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b496-10" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_496.9" BETYPE="IDREF" FILEID="alto_00248_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b501-6" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_501.4" BETYPE="IDREF" FILEID="alto_00251_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b497-8" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_497.6" BETYPE="IDREF" FILEID="alto_00249_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b501-7" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_501.5" BETYPE="IDREF" FILEID="alto_00251_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Amu" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_495.13" BETYPE="IDREF" FILEID="alto_00248_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b495-10" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_495.9" BETYPE="IDREF" FILEID="alto_00248_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b495-11" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_495.11" BETYPE="IDREF" FILEID="alto_00248_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b499-8" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_499.6" BETYPE="IDREF" FILEID="alto_00250_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A-g" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_496.11" BETYPE="IDREF" FILEID="alto_00248_1"/>
+            <area BEGIN="BL_496.12" BETYPE="IDREF" FILEID="alto_00248_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b498-8" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_498.6" BETYPE="IDREF" FILEID="alto_00249_1"/>
+            <area BEGIN="BL_499.1" BETYPE="IDREF" FILEID="alto_00250_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b499-6" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_499.4" BETYPE="IDREF" FILEID="alto_00250_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b499-7" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_499.5" BETYPE="IDREF" FILEID="alto_00250_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

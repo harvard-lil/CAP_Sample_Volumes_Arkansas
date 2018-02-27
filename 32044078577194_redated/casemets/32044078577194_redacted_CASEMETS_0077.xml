@@ -1,0 +1,408 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0077" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Cox v. Whitten">Ann Whitten COX v. T.E. WHITTEN</name>
+          <docketnumber>85-263</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 318</citation>
+          <citation category="parallel" type="bluebook">704 S.W.2d 628</citation>
+          <decisiondate>1986-03-10</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:00Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00175_1" MIMETYPE="image/tiff" CHECKSUM="808fe7afbac5d3ebeddd0134d16db951" CHECKSUMTYPE="MD5" SIZE="15316">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00175_1.tif"/>
+      </file>
+      <file ID="tiff_00176_0" MIMETYPE="image/tiff" CHECKSUM="3d09e325635141f2a816d59e359cd55c" CHECKSUMTYPE="MD5" SIZE="50920">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00176_0.tif"/>
+      </file>
+      <file ID="tiff_00176_1" MIMETYPE="image/tiff" CHECKSUM="29cc54f69f2cffaf470923c301d5fc52" CHECKSUMTYPE="MD5" SIZE="37780">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00176_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00175_1" MIMETYPE="image/jp2" CHECKSUM="6d6d36c6c6e6e4fa731f1156e5f1b80c" CHECKSUMTYPE="MD5" SIZE="1567855">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00175_1.jp2"/>
+      </file>
+      <file ID="jp2_00176_0" MIMETYPE="image/jp2" CHECKSUM="c951f8d64aec99972e8ed44ce67bed14" CHECKSUMTYPE="MD5" SIZE="2536728">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00176_0.jp2"/>
+      </file>
+      <file ID="jp2_00176_1" MIMETYPE="image/jp2" CHECKSUM="becaa7e6cfc9c2512d700701e7f68302" CHECKSUMTYPE="MD5" SIZE="2407002">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00176_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00175_1" MIMETYPE="text/xml" CHECKSUM="4bb7edc1afcf40888384bd2d8f2aca6c" CHECKSUMTYPE="MD5" SIZE="24790">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00175_1.xml"/>
+      </file>
+      <file ID="alto_00176_0" MIMETYPE="text/xml" CHECKSUM="6ba89eaf2b535093839994710b6d79e2" CHECKSUMTYPE="MD5" SIZE="90935">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00176_0.xml"/>
+      </file>
+      <file ID="alto_00176_1" MIMETYPE="text/xml" CHECKSUM="9d06e91714f3b56c83c8b33523b41aef" CHECKSUMTYPE="MD5" SIZE="67504">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00176_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0077" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="318" lastpage="320">
+              <court pgmap="350" id="b350-6">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="350" id="b350-4">85-263</docketnumber>
+              <citation pgmap="350" id="b350-5">704 S.W.2d 628</citation>
+              <parties pgmap="350" id="b350-3">Ann Whitten COX v. T.E. WHITTEN</parties>
+              <decisiondate pgmap="350" id="A8y">Opinion delivered March 10, 1986</decisiondate>
+              <judges pgmap="352" id="b352-8">Purtle, J., not participating.</judges>
+              <attorneys pgmap="350" id="b350-14">Hale, Fogleman &amp; Rogers, for appellant.</attorneys>
+              <attorneys pgmap="350" id="b350-15">Rieves &amp; May ton, by: Ted Mackell, Jr., for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="350" id="b350-16">George Rose Smith, Justice.</author>
+                <p pgmap="350(52) 351(22)" id="AEJ">In this case the only question, arising from undisputed facts, is whether a provision in Ida Mae Tatum’s will leaving property to the “children” of her four brothers was intended to apply to the appellee, who is the adopted child of one of the brothers. The appeal comes to this court under Rule 29(l)(p). We are unable to agree with the chancellor’s conclusion that the language of the will extends to this adopted child.</p>
+                <p pgmap="351" id="b351-4">Mrs. Tatum, a resident of Mississippi, made her will in 1951. She died there in 1960. Her will left 180 acres of land in Crittenden County, Arkansas, to her four brothers for life. The will continued as follows:</p>
+                <blockquote pgmap="351" id="b351-5">With remainder over in fee simple to their children, provided that in event any one or more of my said brothers shall die childless, then the interest of any brother who shall die childless shall go to the children of those who do not die childless, share and share alike.</blockquote>
+                <p pgmap="351" id="b351-6">Two of the brothers died childless. A third died in 1974 survived by one child, the appellant Ann Whitten Cox. The last brother died in 198 3 survived by the appellee, T.K. Whitten, whom he and his wife had adopted in 1976 in Kentucky, where they lived. The appellee was 48 years old when he was adopted, but there is no suggestion that the adoption was for the purpose of enabling him to share in Mrs. Tatum’s estate.</p>
+                <p pgmap="351" id="b351-7">After the death of the fourth brother, the appellee brought this suit in 1984 to quiet his title to an undivided half interest in the 180 acres. By counterclaim the appellant asked that title to the entire property be quieted in her. This appeal is from a summary judgment in favor of the appellee, no testimony having been necessary.</p>
+                <p pgmap="351" id="b351-8">Both parties recognize in their briefs that the issue is not that of applying the Arkansas statutes that govern the inheritance rights of an adopted child. Instead, the sole issue is whether Mrs.Tatum intended for her reference to “children” to include a person who was adopted as an adult sixteen years after Mrs. Tatum died and twenty-five years after she made her will.</p>
+                <p pgmap="351(76) 352(28)" id="b351-9">
+                   It is certainly true, as the appellee argues, that “chil­dren” is a broader term than the word “heirs” and may include adopted children. Kelly v. Kelly, 176 Ark. 548, 3 S.W.2d 305 (1928), quoted in Deener v. Watkins, 191 Ark. 776, 87 S.W.2d 994 (1935). Neither of those cases concerned an adopted child; so the court’s statement was merely a generalization. If, for exam­ple, a testatrix had three natural children and one adopted child when she made her will, it could be argued with much force that if she left her property to “my children,” her language would include the adopted child.</p>
+                <p pgmap="352" id="b352-6">
+                   That is not the situation before us. The adoption was not by the testatrix but by her brother. The question here is whether Mrs. Tatum’s devise of the remainder interest to her brothers’ “children” was meant to include the appellee, who was not adopted until many years after Mrs. Tatum’s death. In determining a question of intention we try to place ourselves as nearly as possible in the position of the testatrix at the time she signed the will. Weeks v. Weeks, 211 Ark. 132, 199 S.W.2d 955 (1947). When we approach the issue in that way, we are decidedly of the opinion that Mrs. Tatum’s reference to her brothers’ children was not selected with the idea of including a person who was not adopted until long after her death. That is definitely the majority rule. Annotations: 70 A.L.R. 626 (1931); 144 A.L.R. 676 (1943). The North Carolina court cited decisions from twelve states to support its holding that a devise to the children of the testator’s nephews and nieces did not include children who might be adopted after the testator’s death. “To hold otherwise would make it possible for property of a testator to be diverted to strangers of his blood without his knowledge or consent.” Bradford v. Johnson, 237 N.C. 572, 75 S.E.2d 632 (1953). We are convinced that the majority rule should be applied to the facts presented by the case before us.</p>
+                <p pgmap="352" id="b352-7">Reversed and remanded for the entry of a decree quieting title in the appellant.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="350" ORDERLABEL="318" TYPE="page">
+        <fptr FILEID="tiff_00175_1"/>
+        <fptr FILEID="jp2_00175_1"/>
+        <fptr FILEID="alto_00175_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_350.1" BETYPE="IDREF" FILEID="alto_00175_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="351" ORDERLABEL="319" TYPE="page">
+        <fptr FILEID="tiff_00176_0"/>
+        <fptr FILEID="jp2_00176_0"/>
+        <fptr FILEID="alto_00176_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_351.3" BETYPE="IDREF" FILEID="alto_00176_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="352" ORDERLABEL="320" TYPE="page">
+        <fptr FILEID="tiff_00176_1"/>
+        <fptr FILEID="jp2_00176_1"/>
+        <fptr FILEID="alto_00176_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_352.2" BETYPE="IDREF" FILEID="alto_00176_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A8y" BETYPE="IDREF" FILEID="casebody_0077"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_350.7" BETYPE="IDREF" FILEID="alto_00175_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b352-8" BETYPE="IDREF" FILEID="casebody_0077"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_352.6" BETYPE="IDREF" FILEID="alto_00176_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b350-5" BETYPE="IDREF" FILEID="casebody_0077"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_350.5" BETYPE="IDREF" FILEID="alto_00175_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b352-6" BETYPE="IDREF" FILEID="casebody_0077"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_352.4" BETYPE="IDREF" FILEID="alto_00176_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b352-7" BETYPE="IDREF" FILEID="casebody_0077"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_352.5" BETYPE="IDREF" FILEID="alto_00176_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b350-14" BETYPE="IDREF" FILEID="casebody_0077"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_350.15" BETYPE="IDREF" FILEID="alto_00175_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b350-15" BETYPE="IDREF" FILEID="casebody_0077"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_350.16" BETYPE="IDREF" FILEID="alto_00175_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b350-16" BETYPE="IDREF" FILEID="casebody_0077"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_350.17" BETYPE="IDREF" FILEID="alto_00175_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AEJ" BETYPE="IDREF" FILEID="casebody_0077"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_350.18" BETYPE="IDREF" FILEID="alto_00175_1"/>
+            <area BEGIN="BL_350.19" BETYPE="IDREF" FILEID="alto_00175_1"/>
+            <area BEGIN="BL_351.1" BETYPE="IDREF" FILEID="alto_00176_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b351-6" BETYPE="IDREF" FILEID="casebody_0077"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_351.6" BETYPE="IDREF" FILEID="alto_00176_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b351-7" BETYPE="IDREF" FILEID="casebody_0077"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_351.7" BETYPE="IDREF" FILEID="alto_00176_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b351-5" BETYPE="IDREF" FILEID="casebody_0077"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_351.5" BETYPE="IDREF" FILEID="alto_00176_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b351-4" BETYPE="IDREF" FILEID="casebody_0077"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_351.4" BETYPE="IDREF" FILEID="alto_00176_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b350-6" BETYPE="IDREF" FILEID="casebody_0077"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_350.6" BETYPE="IDREF" FILEID="alto_00175_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b350-4" BETYPE="IDREF" FILEID="casebody_0077"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_350.4" BETYPE="IDREF" FILEID="alto_00175_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b351-8" BETYPE="IDREF" FILEID="casebody_0077"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_351.8" BETYPE="IDREF" FILEID="alto_00176_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b350-3" BETYPE="IDREF" FILEID="casebody_0077"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_350.3" BETYPE="IDREF" FILEID="alto_00175_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b351-9" BETYPE="IDREF" FILEID="casebody_0077"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_351.9" BETYPE="IDREF" FILEID="alto_00176_0"/>
+            <area BEGIN="BL_352.1" BETYPE="IDREF" FILEID="alto_00176_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

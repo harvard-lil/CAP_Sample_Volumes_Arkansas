@@ -1,0 +1,541 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0107" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Millsap v. Lane">Leon and Wanda MILLSAP v. Clift C. and Dorothy P. LANE, and LANE PROCESSING, INC.</name>
+          <docketnumber>85-209</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 439</citation>
+          <citation category="parallel" type="bluebook">706 S.W.2d 378</citation>
+          <decisiondate>1986-03-31</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:00Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00237_0" MIMETYPE="image/tiff" CHECKSUM="23ed4043c876493066d1c97108e3f1e5" CHECKSUMTYPE="MD5" SIZE="21274">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00237_0.tif"/>
+      </file>
+      <file ID="tiff_00237_1" MIMETYPE="image/tiff" CHECKSUM="dae596a1218314273b5f4f647286ce2d" CHECKSUMTYPE="MD5" SIZE="33910">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00237_1.tif"/>
+      </file>
+      <file ID="tiff_00238_0" MIMETYPE="image/tiff" CHECKSUM="7fca706b42f168e464947ae41190fbbd" CHECKSUMTYPE="MD5" SIZE="60028">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00238_0.tif"/>
+      </file>
+      <file ID="tiff_00238_1" MIMETYPE="image/tiff" CHECKSUM="275b3126e65a41f217c71819857ac3a5" CHECKSUMTYPE="MD5" SIZE="57582">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00238_1.tif"/>
+      </file>
+      <file ID="tiff_00239_0" MIMETYPE="image/tiff" CHECKSUM="3c63879307d8142ab71f07b037468cd2" CHECKSUMTYPE="MD5" SIZE="56874">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00239_0.tif"/>
+      </file>
+      <file ID="tiff_00239_1" MIMETYPE="image/tiff" CHECKSUM="b1ea53c0d4c9f0e7c491b3b2343f94e3" CHECKSUMTYPE="MD5" SIZE="13376">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00239_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00237_0" MIMETYPE="image/jp2" CHECKSUM="dc504b30bbe0f120dccff375afc9e5bc" CHECKSUMTYPE="MD5" SIZE="1807744">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00237_0.jp2"/>
+      </file>
+      <file ID="jp2_00237_1" MIMETYPE="image/jp2" CHECKSUM="f06f79cbd5a786ee31cc4eef2441071f" CHECKSUMTYPE="MD5" SIZE="1958899">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00237_1.jp2"/>
+      </file>
+      <file ID="jp2_00238_0" MIMETYPE="image/jp2" CHECKSUM="416d71824b3b4b057399c54fbc1e99f5" CHECKSUMTYPE="MD5" SIZE="2610168">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00238_0.jp2"/>
+      </file>
+      <file ID="jp2_00238_1" MIMETYPE="image/jp2" CHECKSUM="118ba0df8e30f41abd6ee0b6756ccf30" CHECKSUMTYPE="MD5" SIZE="2612583">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00238_1.jp2"/>
+      </file>
+      <file ID="jp2_00239_0" MIMETYPE="image/jp2" CHECKSUM="5b17af82ec9fb5c812ef390bc96baa85" CHECKSUMTYPE="MD5" SIZE="2562832">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00239_0.jp2"/>
+      </file>
+      <file ID="jp2_00239_1" MIMETYPE="image/jp2" CHECKSUM="1c9f40f75af8c32acf9f8607afdeefcd" CHECKSUMTYPE="MD5" SIZE="1640454">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00239_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00237_0" MIMETYPE="text/xml" CHECKSUM="61324504e2aaf1ea9f4574746e255802" CHECKSUMTYPE="MD5" SIZE="33622">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00237_0.xml"/>
+      </file>
+      <file ID="alto_00237_1" MIMETYPE="text/xml" CHECKSUM="f7db1a97957748cfc65b9f451c70f2a1" CHECKSUMTYPE="MD5" SIZE="50978">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00237_1.xml"/>
+      </file>
+      <file ID="alto_00238_0" MIMETYPE="text/xml" CHECKSUM="2a0cc2655d8af7ebbebe0d8e5b76b5e8" CHECKSUMTYPE="MD5" SIZE="97151">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00238_0.xml"/>
+      </file>
+      <file ID="alto_00238_1" MIMETYPE="text/xml" CHECKSUM="a61cab37dfbab82249776799c6d96305" CHECKSUMTYPE="MD5" SIZE="94814">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00238_1.xml"/>
+      </file>
+      <file ID="alto_00239_0" MIMETYPE="text/xml" CHECKSUM="e8af3c5e08cee678e98bc3d17ea1edac" CHECKSUMTYPE="MD5" SIZE="93310">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00239_0.xml"/>
+      </file>
+      <file ID="alto_00239_1" MIMETYPE="text/xml" CHECKSUM="10a609c0f224c1ef51957c789f6d1885" CHECKSUMTYPE="MD5" SIZE="18945">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00239_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0107" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="439" lastpage="444">
+              <court pgmap="473" id="b473-11">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="473" id="b473-10">85-209</docketnumber>
+              <citation pgmap="473" id="AP9">706 S.W.2d 378</citation>
+              <parties pgmap="473" id="b473-9">Leon and Wanda MILLSAP v. Clift C. and Dorothy P. LANE, and LANE PROCESSING, INC.</parties>
+              <decisiondate pgmap="473" id="Abi">Opinion delivered March 31, 1986</decisiondate>
+              <otherdate pgmap="473" id="AJeE">[Rehearing denied May 5, 1986.<footnotemark>*</footnotemark>]</otherdate>
+              <judges pgmap="478" id="b478-7">Purtle, J., not participating.</judges>
+              <judges pgmap="478" id="b478-8">George Rose Smith, J., dissents.</judges>
+              <attorneys pgmap="474" id="b474-9">Davidson, Horne &amp; Hollingsworth, A Professional Associ­ation, for appellants.</attorneys>
+              <attorneys pgmap="474" id="b474-10">Kaplan, Brewer &amp; Miller, P.A., by; Philip E. Kaplan and Karen L. Arndt, for appellees.</attorneys>
+              <footnote label="*">
+                <p pgmap="473" id="b473-16">* Purtle, J., not participating.</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="474" id="b474-11">Darrell Hickman, Justice.</author>
+                <p pgmap="474" id="Ayz">This appeal questions an award of attorneys’ fees. Some background is essential to under­stand this litigation which began in 1980 in Pope County Chancery Court, spread to forums in Kansas and North Carolina, and has consumed the time of numerous lawyers and courts. The case arises from a dispute between Leon and Wanda Millsap and Clift C. and Dorothy P. Lane. These couples agreed to build and equip a chicken processing plant in Pope County. The Millsaps were to provide their secret recipe and management, and the Lanes were to provide financing. They formed a corporation called Millsap Processed Foods (MPF), in which the Millsaps and the Lanes were 50/50 shareholders. The Lanes obtained a loan of $3,000,000 and MPF gave Lane Processing, Inc. (LPI), the Lanes’ family corporation, a promissory note for the debt. Disagreements ensued and in 1980 the Lanes petitioned for the dissolution of MPF and for appointment of a receiver. The Millsaps made a derivative counterclaim on behalf of MPF. Ultimately the Lanes purchased the MPF assets for $1,000,000 at a foreclosure sale.</p>
+                <p pgmap="475" id="b475-5">The chancellor’s decree, entered prior to the hearing on fees, contains findings pertinent to our review of the fee award. First, the chancellor found that the Lanes and LPI, who he determined to be one and the same, breached their agreement to finance and breached their fiduciary duties as officers and directors of MPF. This latter breach occurred when the Lanes purchased the MPF assets substantially below their value. He found that the land, building and equipment of the plant were actually worth $3,042,923 rather than the $1,000,000 the Lanes paid. The chancellor awarded damages for the breaches as follows: he found that MPF sustained damages of $2,082,542 from the Lanes’ purchase at foreclosure. That amount represented the actual value of MPF plus $39,717 foreclosure costs, less the one million paid by the Lanes. That judgment was awarded against the Lanes and LPI jointly and severally and was to be satisfied by the offset of the $3,000,000 note owed to LPI by MPF of which the principal sum of $2,316,392 was still owing. Over one million dollars in interest on the note was cancelled. The offset left $233,850 still owing on the note. The chancellor held that that amount was owed to the Lanes and LPI and their contingent claim for that money would be subject to all further judgments, costs and fees in the proceeding.</p>
+                <p pgmap="475" id="b475-6">The controversy in this case is rooted in the disposition of $400,000 of MPF assets. At the earlier foreclosure hearing, the chancellor held that MPF would retain a lien on $400,000 plus interest of its assets. This amount was sheltered from the Lanes’ bankruptcy proceedings in North Carolina and has been earning interest since December 29, 1980. The lien, with interest, amounts to over $540,000 and is in the trial court’s registry.</p>
+                <p pgmap="475(115) 476(25)" id="b475-7">The attorneys for MPF and the Millsaps brought a claim for attorneys’ fees of $422,977.50 for services rendered only to MPF for the derivative action. The claim represented 6,512 hours with hourly fees ranging from $112.50 to $30.00. The court held a hearing on the claim and detailed testimony of the hours spent by ten attorneys on the case was submitted together with actual out-­of-pocket costs. James B. Blair and E. J. Ball, two experienced attorneys, presented their expert opinion of appropriate fees in cases such as this one. They testified at length and concluded the attorneys’ fees claimed were reasonable. Among the factors they considered in their determination were the experience of the attorneys, the complexity of the lawsuit and the results obtained. They both noted that the hourly rate claimed by the MPF attorneys was extremely low.</p>
+                <p pgmap="476" id="b476-6">The chancellor found that the hours spent and the rates charged by the attorneys were reasonable but that the upper limit of recovery of fees would be the total “economic benefit” to MPF. He found that amount to be $166,148 and awarded that amount, with interest, as attorneys’ fees. That figure was obtained by subtracting the Lanes’ $233,852 contingent claim from the $400,000 lien. It is from this finding that both parties appeal.</p>
+                <p pgmap="476" id="b476-7">The question below was what would be a reasonable fee for the MPF attorneys, but the only real issue presented here is whether the chancellor was correct in his determination that the fee should be limited to $166,148, which he found to be the total economic benefit to MPF. We find that the chancellor erred in holding that the fee is limited to $166,148.</p>
+                <p pgmap="476(239) 477(6)" id="b476-8">
+                   The American rule and the rule observed in Arkan­sas are that attorney fees are not chargeable as costs in litigation unless specifically permitted by statute. City of Hot Springs v. Creviston, 288 Ark. 286, 705 S.W.2d 415 (1986); Trustees v. Greenough, 105 U.S. 527 (1882). An exception has been created to that rule where a plaintiff has created or augmented a common fund or where assets have been salvaged for the benefit of others as well as himself. Powell v. Henry, 267 Ark. 484, 592 S.W.2d 107 (1980); Trustees v. Greenough, supra. Note, The Counsel Fee in Stockholder’s Derivative Suits, 39 Columbia L. Rev. 784 (1939). In such a situation, to allow the others to obtain the full benefit from the plaintiffs efforts without requiring contribution or charging the common fund for attorney fees would be to enrich the others unjustly at the expense of the plaintiff. Fleischmann Distilling Corp. v. Maier Brewing Co., 386 U.S. 714 (1966). This exception is commonly applied in shareholder derivative suits. Mills v. Electric Auto-Lite Co., 396 U.S. 375 (1970);Silberman v. Bogle, 683 F.2d 62 (3rd. Cir. 1982). Under the “substantial benefit” rule, which is a variation of the common fund doctrine, the successful plaintiff in a derivative action may be awarded attorneys’ fees against the corporation if the corporation received “substantial benefits” from the litigation even where the benefits were not pecuniary and no fund was created. Fletcher v. A. J. Industries, 72 Cal. Rptr. 146 (1968).</p>
+                <p pgmap="477" id="b477-6">The judge specifically found that the $233,852 owing to the Lanes and LPI was “a contingent claim in this proceeding .... subject to offsets for all judgments, interest, costs, attorneys’ fees and other awards against MPF or the Lanes and/or LPI arising out of these proceedings (not otherwise satisfied by the assets of MPF) as determined by the Court.” (Italics supplied.) Therefore the chancellor was wrong in determining that the Lanes’ contingent claim should be satisfied before the claim for attorneys’ fees. The Millsaps’ derivative action preserved $400,000 plus interest in corporate assets. This preservation of assets benefitted the corporation. See Marlin v. Marsh &amp; Marsh, 189 Ark. 1157, 76 S.W.2d 965 (1934). Fletcher’s Cyclopedia Corp., § 6045 (Rev. Ed.). This fund would not exist at all if it had not been defended from claims made by the Lanes. This was more than a simple breach of contract action, as the Lanes contend; the chancellor found that the Lanes had breached their fiduciary duties to MPF. The chancellor also specifically found that the claim for attorneys’ fees was reasonable. Since over $542,000 as assets were preserved, the claim should be paid.</p>
+                <p pgmap="477" id="b477-7">
+                   The Lanes, by cross-appeal, would like to severely limit the attorneys’ fees. They suggest that the recovery must be limited to a percentage of half of the “economic benefit,” since each of the parties own half of the corporation. No one claimed at trial that this was not a derivative lawsuit; that is, that the Millsaps, as stockholders, were proceeding in behalf of the corporation for its benefit. The attorneys were conservative in the fees charged and the lawsuit was won against strong resistance over a protracted period. The attorneys should not be forced to settle for less than the amount they are due and that which the corporation can pay. Since the claimed fee of $422,977.50 was found to be reasonable, and since the corporation has the money to pay it, it was error to reduce the fee.</p>
+                <p pgmap="477" id="b477-8">The judgment for attorneys’ fees is modified. A judgment for $422,977.50 with interest will be entered effective March 27, 1985, the date from which the order was appealed.</p>
+                <p pgmap="477(30) 478(32)" id="b477-9">
+                   The Lanes also argue that the chancellor erred award­ing over $30,000 in costs after the original bill for costs was approved. They state that this action violates “applicable case law.” No such case law is presented. Since the argument is unsupported by authority or persuasive reasoning, we will not consider it. Thomas v. Sanford, 281 Ark. 365, 663 S.W.2d 932 (1984).</p>
+                <p pgmap="478" id="b478-6">Affirmed as modified.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="473" ORDERLABEL="439" TYPE="page">
+        <fptr FILEID="tiff_00237_0"/>
+        <fptr FILEID="jp2_00237_0"/>
+        <fptr FILEID="alto_00237_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_473.3" BETYPE="IDREF" FILEID="alto_00237_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="474" ORDERLABEL="440" TYPE="page">
+        <fptr FILEID="tiff_00237_1"/>
+        <fptr FILEID="jp2_00237_1"/>
+        <fptr FILEID="alto_00237_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_474.2" BETYPE="IDREF" FILEID="alto_00237_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="475" ORDERLABEL="441" TYPE="page">
+        <fptr FILEID="tiff_00238_0"/>
+        <fptr FILEID="jp2_00238_0"/>
+        <fptr FILEID="alto_00238_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_475.2" BETYPE="IDREF" FILEID="alto_00238_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="476" ORDERLABEL="442" TYPE="page">
+        <fptr FILEID="tiff_00238_1"/>
+        <fptr FILEID="jp2_00238_1"/>
+        <fptr FILEID="alto_00238_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_476.2" BETYPE="IDREF" FILEID="alto_00238_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="477" ORDERLABEL="443" TYPE="page">
+        <fptr FILEID="tiff_00239_0"/>
+        <fptr FILEID="jp2_00239_0"/>
+        <fptr FILEID="alto_00239_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_477.3" BETYPE="IDREF" FILEID="alto_00239_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="478" ORDERLABEL="444" TYPE="page">
+        <fptr FILEID="tiff_00239_1"/>
+        <fptr FILEID="jp2_00239_1"/>
+        <fptr FILEID="alto_00239_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_478.2" BETYPE="IDREF" FILEID="alto_00239_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b473-10" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_473.9" BETYPE="IDREF" FILEID="alto_00237_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b473-11" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_473.11" BETYPE="IDREF" FILEID="alto_00237_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b473-16" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_473.18" BETYPE="IDREF" FILEID="alto_00237_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b477-8" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_477.6" BETYPE="IDREF" FILEID="alto_00239_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b478-7" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_478.5" BETYPE="IDREF" FILEID="alto_00239_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b474-11" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_474.11" BETYPE="IDREF" FILEID="alto_00237_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b478-6" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_478.4" BETYPE="IDREF" FILEID="alto_00239_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b473-9" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_473.8" BETYPE="IDREF" FILEID="alto_00237_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b478-8" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_478.6" BETYPE="IDREF" FILEID="alto_00239_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ayz" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_474.12" BETYPE="IDREF" FILEID="alto_00237_1"/>
+            <area BEGIN="BL_474.13" BETYPE="IDREF" FILEID="alto_00237_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b475-7" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_475.5" BETYPE="IDREF" FILEID="alto_00238_0"/>
+            <area BEGIN="BL_476.1" BETYPE="IDREF" FILEID="alto_00238_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b475-5" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_475.3" BETYPE="IDREF" FILEID="alto_00238_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AP9" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_473.10" BETYPE="IDREF" FILEID="alto_00237_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b477-6" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_477.4" BETYPE="IDREF" FILEID="alto_00239_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b477-7" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_477.5" BETYPE="IDREF" FILEID="alto_00239_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Abi" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_473.12" BETYPE="IDREF" FILEID="alto_00237_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b476-8" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_476.6" BETYPE="IDREF" FILEID="alto_00238_1"/>
+            <area BEGIN="BL_477.1" BETYPE="IDREF" FILEID="alto_00239_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AJeE" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_473.13" BETYPE="IDREF" FILEID="alto_00237_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b474-10" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_474.10" BETYPE="IDREF" FILEID="alto_00237_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b476-7" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_476.5" BETYPE="IDREF" FILEID="alto_00238_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b476-6" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_476.4" BETYPE="IDREF" FILEID="alto_00238_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b474-9" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_474.9" BETYPE="IDREF" FILEID="alto_00237_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b475-6" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_475.4" BETYPE="IDREF" FILEID="alto_00238_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b477-9" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_477.7" BETYPE="IDREF" FILEID="alto_00239_0"/>
+            <area BEGIN="BL_478.1" BETYPE="IDREF" FILEID="alto_00239_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

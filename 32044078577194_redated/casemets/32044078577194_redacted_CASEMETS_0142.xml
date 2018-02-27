@@ -1,0 +1,708 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0142" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Lewis v. State">David Lee LEWIS v. STATE of Arkansas</name>
+          <docketnumber>CR 85-223</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 595</citation>
+          <citation category="parallel" type="bluebook">709 S.W.2d 56</citation>
+          <decisiondate>1986-04-28</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:01Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00317_0" MIMETYPE="image/tiff" CHECKSUM="4fcce52e0b2e3679b991867d52cf4d5d" CHECKSUMTYPE="MD5" SIZE="7858">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00317_0.tif"/>
+      </file>
+      <file ID="tiff_00317_1" MIMETYPE="image/tiff" CHECKSUM="0bbe13eee3107ea5ee2d1c5f3b7c2dc1" CHECKSUMTYPE="MD5" SIZE="5564">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00317_1.tif"/>
+      </file>
+      <file ID="tiff_00318_0" MIMETYPE="image/tiff" CHECKSUM="116f1aa518c9d09766b48d857ba936d4" CHECKSUMTYPE="MD5" SIZE="52784">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00318_0.tif"/>
+      </file>
+      <file ID="tiff_00318_1" MIMETYPE="image/tiff" CHECKSUM="53a64334d17b0e580f25621ed0f5ae7a" CHECKSUMTYPE="MD5" SIZE="55342">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00318_1.tif"/>
+      </file>
+      <file ID="tiff_00319_0" MIMETYPE="image/tiff" CHECKSUM="06b2adb3811bc98fe18af7b5a66ec489" CHECKSUMTYPE="MD5" SIZE="49208">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00319_0.tif"/>
+      </file>
+      <file ID="tiff_00319_1" MIMETYPE="image/tiff" CHECKSUM="ecf956f8785f75d0c9ded66484816ef0" CHECKSUMTYPE="MD5" SIZE="52070">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00319_1.tif"/>
+      </file>
+      <file ID="tiff_00320_0" MIMETYPE="image/tiff" CHECKSUM="88f0eec7eaef8a0275d46c0e37ff35ca" CHECKSUMTYPE="MD5" SIZE="55972">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00320_0.tif"/>
+      </file>
+      <file ID="tiff_00320_1" MIMETYPE="image/tiff" CHECKSUM="b138a6e4da070e3ec85a96db428c0dea" CHECKSUMTYPE="MD5" SIZE="22602">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00320_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00317_0" MIMETYPE="image/jp2" CHECKSUM="b2e3a968ce8f5d7a786bb4b542793c9a" CHECKSUMTYPE="MD5" SIZE="1331030">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00317_0.jp2"/>
+      </file>
+      <file ID="jp2_00317_1" MIMETYPE="image/jp2" CHECKSUM="b7bb3b2434d9d30315b61993dc4bc4b4" CHECKSUMTYPE="MD5" SIZE="1028544">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00317_1.jp2"/>
+      </file>
+      <file ID="jp2_00318_0" MIMETYPE="image/jp2" CHECKSUM="cb9f61fb6231a273fcd20b9689350b2e" CHECKSUMTYPE="MD5" SIZE="2541914">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00318_0.jp2"/>
+      </file>
+      <file ID="jp2_00318_1" MIMETYPE="image/jp2" CHECKSUM="1708c5e15b21e395039deea9e0780028" CHECKSUMTYPE="MD5" SIZE="2564446">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00318_1.jp2"/>
+      </file>
+      <file ID="jp2_00319_0" MIMETYPE="image/jp2" CHECKSUM="b47cd7150e2ea63a585ad63eacbb9235" CHECKSUMTYPE="MD5" SIZE="2498503">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00319_0.jp2"/>
+      </file>
+      <file ID="jp2_00319_1" MIMETYPE="image/jp2" CHECKSUM="92d6aa77bcba8fabb2d33d9b5dfa43e0" CHECKSUMTYPE="MD5" SIZE="2574572">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00319_1.jp2"/>
+      </file>
+      <file ID="jp2_00320_0" MIMETYPE="image/jp2" CHECKSUM="08ed707f6f69812782684d969a2bcd3c" CHECKSUMTYPE="MD5" SIZE="2536989">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00320_0.jp2"/>
+      </file>
+      <file ID="jp2_00320_1" MIMETYPE="image/jp2" CHECKSUM="2cf07b2a24111efbb8882dada45ff3f4" CHECKSUMTYPE="MD5" SIZE="1826309">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00320_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00317_0" MIMETYPE="text/xml" CHECKSUM="f23dbdf38963150d0dca4ae55e2ac74a" CHECKSUMTYPE="MD5" SIZE="8883">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00317_0.xml"/>
+      </file>
+      <file ID="alto_00317_1" MIMETYPE="text/xml" CHECKSUM="acd23777b54f401b3fdbc4f633095417" CHECKSUMTYPE="MD5" SIZE="3266">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00317_1.xml"/>
+      </file>
+      <file ID="alto_00318_0" MIMETYPE="text/xml" CHECKSUM="f0a314d47172d3a06fba3cf4b918af3c" CHECKSUMTYPE="MD5" SIZE="92441">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00318_0.xml"/>
+      </file>
+      <file ID="alto_00318_1" MIMETYPE="text/xml" CHECKSUM="b835108839c06ee97c97a89fc3a7f3fc" CHECKSUMTYPE="MD5" SIZE="91185">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00318_1.xml"/>
+      </file>
+      <file ID="alto_00319_0" MIMETYPE="text/xml" CHECKSUM="eadb34ca75ccec67c2997fb355bb9532" CHECKSUMTYPE="MD5" SIZE="84140">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00319_0.xml"/>
+      </file>
+      <file ID="alto_00319_1" MIMETYPE="text/xml" CHECKSUM="cc53afc0b8e07c56f9ba74d41dea6152" CHECKSUMTYPE="MD5" SIZE="86517">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00319_1.xml"/>
+      </file>
+      <file ID="alto_00320_0" MIMETYPE="text/xml" CHECKSUM="f0c1507172167338bda170c8932b10bc" CHECKSUMTYPE="MD5" SIZE="90462">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00320_0.xml"/>
+      </file>
+      <file ID="alto_00320_1" MIMETYPE="text/xml" CHECKSUM="da6961908c47a72df390992e77128c12" CHECKSUMTYPE="MD5" SIZE="32900">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00320_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0142" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="595" lastpage="602">
+              <court pgmap="633" id="b633-7">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="633" id="Ain">CR 85-223</docketnumber>
+              <citation pgmap="633" id="AyG">709 S.W.2d 56</citation>
+              <parties pgmap="633" id="b633-6">David Lee LEWIS v. STATE of Arkansas</parties>
+              <decisiondate pgmap="633" id="AeQ">Opinion delivered April 28, 1986</decisiondate>
+              <judges pgmap="640" id="b640-7">Purtle, J., not participating.</judges>
+              <attorneys pgmap="634" id="b634-16">James W. Haddock, for appellant.</attorneys>
+              <attorneys pgmap="635" id="b635-5">Steve Clark, Att’y Gen., by: Jerome T. Kearney, Asst. Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="635" id="b635-6">Jack Holt, Jr., Chief Justice.</author>
+                <p pgmap="635" id="ABW">The issues raised in this appeal concern court rulings admitting certain testimony into evidence. We find no error and affirm the trial court. Since this is a second appeal, our jurisdiction is pursuant to Sup. Ct. R. 29( 1) (b) and (j)-</p>
+                <p pgmap="635" id="b635-7">The appellant, David Lee Lewis, was convicted by a jury of first degree battery and aggravated robbery on October 5,1984, and sentenced to 60 years imprisonment. On appeal to this court, the verdict was reversed and remanded on grounds not pertinent here. Lewis v. State, 286 Ark. 372, 691 S.W.2d 864 (1985). A second trial was held September 19 and 20, 1985, which again resulted in the conviction of Lewis and a sentence of 54 years imprisonment. It is from the second conviction that this appeal is brought.</p>
+                <p pgmap="635" id="b635-8">The appellant’s first contention on appeal is that the trial court erred by allowing the prosecution to read the prior testi­mony of Otha Lee Spikes into evidence at the second trial. The trial court based its ruling on the fact that Spikes was an unavailable witness under Unif. R. Evid. 804.</p>
+                <p pgmap="635" id="b635-9">The proof on this issue reflects that the trial lasted two days: September 19 and 20. A subpoena was issued and served on Spikes which ordered him to appear on September 19. According to the testimony of the bailiff, Spikes appeared on September 19, but he was not called to the stand that day. The bailiff testified he told all the witnesses to return the following day, however, he was not positive Spikes was in the witness room at that time. Spikes did not return the following day. After lunch on September 20, the prosecutor announced to the court that the sheriffs office could not find Spikes. A deputy sheriff testified that he went to Spikes’ home that morning looking for him and spoke to his brother. He then talked to a farmer whose truck fit the description of one Spikes was seen leaving in that morning. In spite of these efforts, the deputy was unable to locate Spikes.</p>
+                <p pgmap="635(30) 636(112)" id="b635-10">
+                   A witness is considered unavailable if he is absent from the hearing and the proponent of his statement has been unable to procure his attendance by process or other reasonable means. Unif. R. Evid. 804(a)(5). When the declarant is unavaila­ble as a witness, his former testimony at another hearing of the same proceeding is not excluded by the hearsay rule if the party against whom the testimony is offered had an opportunity and similar motive to develop the testimony. Rule 804(b)(1). The burden of proving the unavailability of a witness is on the party who offers the prior testimony and on appeal we determine whether the trial court abused his discretion in ruling that the witness was unavailable. Worring v. State, 6 Ark. App. 64, 638 S.W.2d 678 (1982), rehearing denied; Satterfield v. State, 248 Ark. 395, 451 S.W.2d 730 (1970).</p>
+                <p pgmap="636" id="b636-6">
+                   We have long held that the right of confrontation by a witness may be dispensed with when that witness is unavailable and has given testimony in a previous proceeding against the same defendant, provided the witness was subject to cross-­examination in the first proceeding by that defendant. Satterfield v. State, supra. In Satterfield, we explained that a witness is not “unavailable” “unless the prosecutorial authorities have made a good faith effort to obtain his presence at trial,” quoting Barber v. Page, Warden, 390 U.S. 719 (1968).</p>
+                <p pgmap="636" id="b636-7">In most of the cases decided by this court in which a lack of good faith effort was found, the state issued a subpoena for the witness which was never served. See, e.g., Satterfield, supra, and Holloway v. State, 268 Ark. 24, 594 S.W.2d 2 (1980), rehearing denied. Here, the subpoena was served and, in fact, Spikes appeared on the date stated in the subpoena.</p>
+                <p pgmap="636" id="b636-8">We recently considered this question in Jones v. State, 288 Ark. 162, 702 S.W.2d 799 (1986). In that case, the trial was scheduled for October 30 and the witness, Carl Stuecken, was served with two subpoenas within a week prior to trial. In addition, the prosecutor interviewed Stuecken on Thursday, October 25, and again advised him to be in court on the following Tuesday. The witness developed health problems over the week­end and was admitted to the hospital on an emergency basis on Sunday night. He underwent surgery Monday and was in intensive care on Tuesday, the day of trial. We held:</p>
+                <blockquote pgmap="636" id="b636-9">It was only then that the prosecution learned of his unavailability, having relied on his recent observations and the subpoenas.</blockquote>
+                <blockquote pgmap="637" id="b637-5">There was nothing in these circumstances to alert the prosecution to any likelihood of Stuecken’s absence. Nor do we find that the prosecution should have exercised greater diligence in order to have discovered the absence of this witness.</blockquote>
+                <p pgmap="637" id="b637-6">
+                   Here too, the prosecutor relied on his subpoena and his recent observation of Spikes in court, and there was nothing to alert the state to any likelihood that Spikes would not return for the second day of the trial. When he failed to appear, the prosecutor dispatched a deputy sheriff to search for him. Accord­ingly, we find the state made a good faith effort to obtain the presence of Spikes, and his testimony from the first trial was properly admitted into evidence.</p>
+                <p pgmap="637" id="b637-7">The appellant next challenges the testimony of Investigator Ed Gilbert. Gilbert first appeared on the stand to read Spikes’ prior testimony into evidence. The appellant argues it was error to allow Gilbert to subsequently testify since he, in effect, heard Spikes’ testimony despite the fact that the parties had invoked the rule. Unif. R. Evid. 615. Gilbert’s own testimony consisted of nothing more than naming the witnesses he had interviewed and using a city map to identify the locations of streets and houses testified about by the other witnesses.</p>
+                <p pgmap="637" id="b637-8">In McCorkle v. State, 270 Ark. 679, 607 S.W.2d 655 (1980), as amended on denial of rehearing, we held it was not error to allow a deputy prosecuting attorney to testify on rebuttal when he was not placed under the rule. In so holding, this court stated:</p>
+                <blockquote pgmap="637" id="b637-9">Here . . . [t]he witness was in the courtroom only briefly and did not hear the appellant testify. There is no conten­tion that the testimony he did hear, a policeman’s, was in any way related to the matter about which the deputy testified, nor does it appear from the record. We find no error.</blockquote>
+                <p pgmap="637" id="b637-10">See also, Gustafson v. State, 267 Ark. 278, 590 S.W.2d 853 (1979).</p>
+                <p pgmap="637(29) 638(12)" id="b637-11">
+                   Lewis has not demonstrated that Gilbert’s testimony related to Spikes’ prior testimony in such a way that Gilbert’s answers could have been affected by his presence in the court­room. The trial court did not err in allowing him to testify.</p>
+                <p pgmap="638" id="b638-6">Appellant’s final contention is that the court erred by permitting unsworn out-of-court statements made by Gloria Tolliver into evidence.</p>
+                <p pgmap="638" id="b638-7">During her testimony at the trial, Ms. Tolliver stated that she was with the appellant and his family at a laundromat on the day the crime occurred. She further testified that the appellant left the laundromat for a period of time. She claimed at the trial that she did not know what time he left nor did she remember what clothes he was wearing that day. The prosecutor asked Ms. Tolliver if she had previously made a statement to Investigator Gilbert in which she gave the information as to the time frame and the appellant’s clothing. Ms. Tolliver admitted making the statement and said that some of that statement was true and some of it was not.</p>
+                <p pgmap="638" id="b638-8">Appellant maintains it was error to allow the state to impeach its own witness when the witness admitted making prior inconsistent statements. The court ruled that Ms. Tolliver’s prior statement could be used for impeachment purposes but could not be introduced into evidence. The court admonished the jury during the course of Ms. Tolliver’s testimony that her prior statement was to be considered only for the purpose of judging her credibility and not as evidence of the truth of the matter set forth in the statement.</p>
+                <p pgmap="638" id="b638-9">The appellant argues Ms. Tolliver’s prior statement was inadmissible under Unif. R. Evid. 801(d)(l)(i) since the state­ment taken by Investigator Gilbert was not “given under oath and subject to the penalty of perjury.”</p>
+                <p pgmap="638" id="b638-10">
+                   The appellant is correct in his analysis of Rule 801(d), however, Ms. Tolliver’s statement is admissible under a different rule. Uniform R. Evid. 607 provides that the credibility of a witness may be attacked by any party, including the party calling him. Furthermore, Rule 613(b) allows extrinsic evidence of a prior inconsistent statement by a witness into evidence if the witness and the opposite party are afforded an opportunity to explain or deny the statement and the opposite party is afforded an opportunity to interrogate the witness.</p>
+                <p pgmap="638(11) 639(131)" id="b638-11">
+                   In Chisum v. State, 273 Ark. 1, 616 SW.2d 728 (1981), rehearing denied, this court held that statements made by a witness to the sheriff during his investigation were admissible for impeachment purposes as inconsistent, out-of-court statements under Rule 613 when the witness professed at the trial not to remember what she told the sheriff. We explained in Chisum that it was formerly the rule that inconsistent statements were admissible only for impeachment and not as substantive evidence. That limitation has been abolished in civil cases and modified in criminal cases to the extent that prior statements given under oath and subject to the penalty of perjury are admissible as substantive evidence. The common law rule still prevails in criminal cases that prior inconsistent statements not made under oath, as in the case before us, are admissible only for impeach­ment purposes.</p>
+                <p pgmap="639" id="b639-6">
+                   We considered the question of unsworn prior state­ments again in Roberts v. State, 278 Ark. 550, 648 S.W.2d 44 (1983), rehearing denied, where we held it was permissible for a party to impeach his own witness by the use of a prior inconsistent hearsay statement if the probative value on the issue of impeach­ment outweighs the prejudicial effect arising from the danger that the jury will give substantive effect to the prior inconsistent statement.</p>
+                <p pgmap="639" id="b639-7">Applying these rules to the case at bar, we find that the trial judge complied with the provisions of Rule 613. Both Ms. Tolliver and the appellant were afforded an opportunity to explain or deny Ms. Tolliver’s statement, and the appellant was able to interro­gate the witness. The trial judge correctly ruled that the state­ment was admissible solely for impeachment purposes and in turn admonished the jury to only consider the evidence in that light. Also, the trial judge weighed the prejudicial effect versus the probative value of the statement in making his decision, as required by Roberts.</p>
+                <p pgmap="639(76) 640(90)" id="b639-8">
+                   It is a general rule that relevancy of evidence is within the trial court’s discretion and, absent a showing of abuse of that discretion, its decision will be affirmed. Ford v. State, 276 Ark. 98, 633 S.W.2d 3 (1982), rehearing denied. We have held that the similar problem of weighing the prejudicial effect of cumulative evidence against its probative value is a matter of balancing which is primarily the function of the trial judge in the exercise of his discretion. Beed v. State, 271 Ark. 526, 609 S.W.2d 898 (1980). The exercise of that discretion should not be interfered with on appeal in the absence of manifest abuse, Id. Here, no such manifest abuse has been demonstrated. The admissibility of evidence must necessarily be decided on a case-­by-case basis. The trial court properly limited the testimony and correctly instructed the jury. In addition, the appellant has failed to show that he suffered any prejudice as a result of the court’s ruling. Unif. R. Evid. 103(a).</p>
+                <p pgmap="640" id="b640-6">Accordingly, the conviction is affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="633" ORDERLABEL="595" TYPE="page">
+        <fptr FILEID="tiff_00317_0"/>
+        <fptr FILEID="jp2_00317_0"/>
+        <fptr FILEID="alto_00317_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_633.2" BETYPE="IDREF" FILEID="alto_00317_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="634" ORDERLABEL="596" TYPE="page">
+        <fptr FILEID="tiff_00317_1"/>
+        <fptr FILEID="jp2_00317_1"/>
+        <fptr FILEID="alto_00317_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_634.2" BETYPE="IDREF" FILEID="alto_00317_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="635" ORDERLABEL="597" TYPE="page">
+        <fptr FILEID="tiff_00318_0"/>
+        <fptr FILEID="jp2_00318_0"/>
+        <fptr FILEID="alto_00318_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_635.2" BETYPE="IDREF" FILEID="alto_00318_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="636" ORDERLABEL="598" TYPE="page">
+        <fptr FILEID="tiff_00318_1"/>
+        <fptr FILEID="jp2_00318_1"/>
+        <fptr FILEID="alto_00318_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_636.2" BETYPE="IDREF" FILEID="alto_00318_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="637" ORDERLABEL="599" TYPE="page">
+        <fptr FILEID="tiff_00319_0"/>
+        <fptr FILEID="jp2_00319_0"/>
+        <fptr FILEID="alto_00319_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_637.2" BETYPE="IDREF" FILEID="alto_00319_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="638" ORDERLABEL="600" TYPE="page">
+        <fptr FILEID="tiff_00319_1"/>
+        <fptr FILEID="jp2_00319_1"/>
+        <fptr FILEID="alto_00319_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_638.2" BETYPE="IDREF" FILEID="alto_00319_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="639" ORDERLABEL="601" TYPE="page">
+        <fptr FILEID="tiff_00320_0"/>
+        <fptr FILEID="jp2_00320_0"/>
+        <fptr FILEID="alto_00320_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_639.3" BETYPE="IDREF" FILEID="alto_00320_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="640" ORDERLABEL="602" TYPE="page">
+        <fptr FILEID="tiff_00320_1"/>
+        <fptr FILEID="jp2_00320_1"/>
+        <fptr FILEID="alto_00320_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_640.2" BETYPE="IDREF" FILEID="alto_00320_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ABW" BETYPE="IDREF" FILEID="casebody_0142"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_635.5" BETYPE="IDREF" FILEID="alto_00318_0"/>
+            <area BEGIN="BL_635.6" BETYPE="IDREF" FILEID="alto_00318_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ain" BETYPE="IDREF" FILEID="casebody_0142"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_633.6" BETYPE="IDREF" FILEID="alto_00317_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b640-6" BETYPE="IDREF" FILEID="casebody_0142"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_640.4" BETYPE="IDREF" FILEID="alto_00320_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b640-7" BETYPE="IDREF" FILEID="casebody_0142"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_640.5" BETYPE="IDREF" FILEID="alto_00320_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b635-5" BETYPE="IDREF" FILEID="casebody_0142"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_635.3" BETYPE="IDREF" FILEID="alto_00318_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b635-6" BETYPE="IDREF" FILEID="casebody_0142"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_635.4" BETYPE="IDREF" FILEID="alto_00318_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b635-7" BETYPE="IDREF" FILEID="casebody_0142"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_635.7" BETYPE="IDREF" FILEID="alto_00318_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b637-10" BETYPE="IDREF" FILEID="casebody_0142"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_637.8" BETYPE="IDREF" FILEID="alto_00319_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b637-11" BETYPE="IDREF" FILEID="casebody_0142"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_637.9" BETYPE="IDREF" FILEID="alto_00319_0"/>
+            <area BEGIN="BL_638.1" BETYPE="IDREF" FILEID="alto_00319_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AeQ" BETYPE="IDREF" FILEID="casebody_0142"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_633.9" BETYPE="IDREF" FILEID="alto_00317_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b635-8" BETYPE="IDREF" FILEID="casebody_0142"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_635.8" BETYPE="IDREF" FILEID="alto_00318_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b635-9" BETYPE="IDREF" FILEID="casebody_0142"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_635.9" BETYPE="IDREF" FILEID="alto_00318_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b639-8" BETYPE="IDREF" FILEID="casebody_0142"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_639.6" BETYPE="IDREF" FILEID="alto_00320_0"/>
+            <area BEGIN="BL_640.1" BETYPE="IDREF" FILEID="alto_00320_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b637-8" BETYPE="IDREF" FILEID="casebody_0142"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_637.6" BETYPE="IDREF" FILEID="alto_00319_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b637-9" BETYPE="IDREF" FILEID="casebody_0142"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_637.7" BETYPE="IDREF" FILEID="alto_00319_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b636-9" BETYPE="IDREF" FILEID="casebody_0142"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_636.7" BETYPE="IDREF" FILEID="alto_00318_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b636-7" BETYPE="IDREF" FILEID="casebody_0142"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_636.5" BETYPE="IDREF" FILEID="alto_00318_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b637-6" BETYPE="IDREF" FILEID="casebody_0142"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_637.4" BETYPE="IDREF" FILEID="alto_00319_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b637-7" BETYPE="IDREF" FILEID="casebody_0142"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_637.5" BETYPE="IDREF" FILEID="alto_00319_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b637-5" BETYPE="IDREF" FILEID="casebody_0142"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_637.3" BETYPE="IDREF" FILEID="alto_00319_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b634-16" BETYPE="IDREF" FILEID="casebody_0142"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_634.13" BETYPE="IDREF" FILEID="alto_00317_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b633-7" BETYPE="IDREF" FILEID="casebody_0142"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_633.8" BETYPE="IDREF" FILEID="alto_00317_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b638-9" BETYPE="IDREF" FILEID="casebody_0142"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_638.7" BETYPE="IDREF" FILEID="alto_00319_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b638-10" BETYPE="IDREF" FILEID="casebody_0142"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_638.8" BETYPE="IDREF" FILEID="alto_00319_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b638-11" BETYPE="IDREF" FILEID="casebody_0142"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_638.9" BETYPE="IDREF" FILEID="alto_00319_1"/>
+            <area BEGIN="BL_639.1" BETYPE="IDREF" FILEID="alto_00320_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b635-10" BETYPE="IDREF" FILEID="casebody_0142"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_635.10" BETYPE="IDREF" FILEID="alto_00318_0"/>
+            <area BEGIN="BL_636.1" BETYPE="IDREF" FILEID="alto_00318_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b636-8" BETYPE="IDREF" FILEID="casebody_0142"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_636.6" BETYPE="IDREF" FILEID="alto_00318_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b638-7" BETYPE="IDREF" FILEID="casebody_0142"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_638.5" BETYPE="IDREF" FILEID="alto_00319_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b638-8" BETYPE="IDREF" FILEID="casebody_0142"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_638.6" BETYPE="IDREF" FILEID="alto_00319_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b633-6" BETYPE="IDREF" FILEID="casebody_0142"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_633.5" BETYPE="IDREF" FILEID="alto_00317_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b638-6" BETYPE="IDREF" FILEID="casebody_0142"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_638.4" BETYPE="IDREF" FILEID="alto_00319_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b639-6" BETYPE="IDREF" FILEID="casebody_0142"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_639.4" BETYPE="IDREF" FILEID="alto_00320_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b636-6" BETYPE="IDREF" FILEID="casebody_0142"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_636.4" BETYPE="IDREF" FILEID="alto_00318_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b639-7" BETYPE="IDREF" FILEID="casebody_0142"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_639.5" BETYPE="IDREF" FILEID="alto_00320_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AyG" BETYPE="IDREF" FILEID="casebody_0142"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_633.7" BETYPE="IDREF" FILEID="alto_00317_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

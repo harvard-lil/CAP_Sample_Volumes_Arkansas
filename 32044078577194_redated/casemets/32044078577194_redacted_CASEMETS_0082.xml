@@ -1,0 +1,581 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0082" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Askins v. Askins">William M. ASKINS v. M. Susan ASKINS</name>
+          <docketnumber>85-165</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 333</citation>
+          <citation category="parallel" type="bluebook">704 S.W.2d 632</citation>
+          <decisiondate>1986-03-10</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:00Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00183_0" MIMETYPE="image/tiff" CHECKSUM="99e4b81e24382d2324b29b929f2032f1" CHECKSUMTYPE="MD5" SIZE="24860">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00183_0.tif"/>
+      </file>
+      <file ID="tiff_00183_1" MIMETYPE="image/tiff" CHECKSUM="90e1cd3cdc3493348a1cc88c8931b0ee" CHECKSUMTYPE="MD5" SIZE="45396">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00183_1.tif"/>
+      </file>
+      <file ID="tiff_00184_0" MIMETYPE="image/tiff" CHECKSUM="f3b6e83870081b4e995d85b75cae3360" CHECKSUMTYPE="MD5" SIZE="53212">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00184_0.tif"/>
+      </file>
+      <file ID="tiff_00184_1" MIMETYPE="image/tiff" CHECKSUM="a2567fc0382c2aa6d2dbf7f2e8cb725c" CHECKSUMTYPE="MD5" SIZE="53726">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00184_1.tif"/>
+      </file>
+      <file ID="tiff_00185_0" MIMETYPE="image/tiff" CHECKSUM="cb0cc6f8d183bff388091364fe3b4b2b" CHECKSUMTYPE="MD5" SIZE="52894">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00185_0.tif"/>
+      </file>
+      <file ID="tiff_00185_1" MIMETYPE="image/tiff" CHECKSUM="b2d32e38b75f1fa1c64d0c8fc0b6bf57" CHECKSUMTYPE="MD5" SIZE="8552">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00185_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00183_0" MIMETYPE="image/jp2" CHECKSUM="4ff52c8f6424cd32e2f3eb624cd15311" CHECKSUMTYPE="MD5" SIZE="2155446">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00183_0.jp2"/>
+      </file>
+      <file ID="jp2_00183_1" MIMETYPE="image/jp2" CHECKSUM="f50d983c2d1bfbaaafba310d43d1d0e3" CHECKSUMTYPE="MD5" SIZE="2474885">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00183_1.jp2"/>
+      </file>
+      <file ID="jp2_00184_0" MIMETYPE="image/jp2" CHECKSUM="4f5222cc969f8fd6394fdca3a9162ce1" CHECKSUMTYPE="MD5" SIZE="2506093">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00184_0.jp2"/>
+      </file>
+      <file ID="jp2_00184_1" MIMETYPE="image/jp2" CHECKSUM="8579e793d6894eda1c77182e080e7fbd" CHECKSUMTYPE="MD5" SIZE="2557021">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00184_1.jp2"/>
+      </file>
+      <file ID="jp2_00185_0" MIMETYPE="image/jp2" CHECKSUM="62fb428e4a90017f6b3fb6612ef398f0" CHECKSUMTYPE="MD5" SIZE="2533856">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00185_0.jp2"/>
+      </file>
+      <file ID="jp2_00185_1" MIMETYPE="image/jp2" CHECKSUM="4cbef7ceda870a0e9e9d226d659420a2" CHECKSUMTYPE="MD5" SIZE="1363726">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00185_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00183_0" MIMETYPE="text/xml" CHECKSUM="99d7d890b53c0218d16cb4647f162e97" CHECKSUMTYPE="MD5" SIZE="39936">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00183_0.xml"/>
+      </file>
+      <file ID="alto_00183_1" MIMETYPE="text/xml" CHECKSUM="dec58775c8bc596c330198c291068d04" CHECKSUMTYPE="MD5" SIZE="72959">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00183_1.xml"/>
+      </file>
+      <file ID="alto_00184_0" MIMETYPE="text/xml" CHECKSUM="56eb8a3b66a3cf3806bba266bfeddbff" CHECKSUMTYPE="MD5" SIZE="89448">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00184_0.xml"/>
+      </file>
+      <file ID="alto_00184_1" MIMETYPE="text/xml" CHECKSUM="9b8b34d913a648727d98f9a27cac1c3a" CHECKSUMTYPE="MD5" SIZE="89568">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00184_1.xml"/>
+      </file>
+      <file ID="alto_00185_0" MIMETYPE="text/xml" CHECKSUM="a8d843fb7522c2fe3b4435e3e54f349f" CHECKSUMTYPE="MD5" SIZE="92888">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00185_0.xml"/>
+      </file>
+      <file ID="alto_00185_1" MIMETYPE="text/xml" CHECKSUM="d7fa5dd78bb40d31a0c8c1a85cb470bd" CHECKSUMTYPE="MD5" SIZE="9054">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00185_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0082" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="333" lastpage="338">
+              <court pgmap="365" id="b365-10">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="365" id="AAz">85-165</docketnumber>
+              <citation pgmap="365" id="ACo">704 S.W.2d 632</citation>
+              <parties pgmap="365" id="b365-9">William M. ASKINS v. M. Susan ASKINS</parties>
+              <decisiondate pgmap="365" id="AWt">Opinion delivered March 10, 1986</decisiondate>
+              <judges pgmap="370" id="b370-5">Purtle, J., not participating.</judges>
+              <attorneys pgmap="366" id="b366-7">B.W. Sanders, and Barber, McCaskill, Amsler, Jones &amp; Hale, P.A., for appellant.</attorneys>
+              <attorneys pgmap="366" id="b366-8">No brief filed.</attorneys>
+              <opinion type="majority">
+                <author pgmap="366" id="b366-9">David Newbern, Justice.</author>
+                <p pgmap="366" id="Avq">In this divorce appeal the appel­lant raises three points with respect to the division of the parties’ property. He contends the chancellor erred by (1) considering his potential military retirement pay as marital property, (2) treat­ing as marital property items acquired after the parties separated, and (3) calculating the appellee’s interest in the retirement pay on the basis of what the appellant will receive upon his retirement, thus giving the appellee the benefit of “enhancement” of his retirement pay which occurred before and after their marriage. By “enhancement” the appellant presumably means increases in the retirement pay which result from longevity and promotions. We find no merit in these arguments, and thus we affirm.</p>
+                <p pgmap="366" id="b366-10">1. Pension Is Marital Property</p>
+                <p pgmap="366" id="b366-11">
+                   In Day v. Day, 281 Ark. 261, 663 S.W.2d 719 (1984), we recognized the error in Paulson v. Paulson, 269 Ark. 523, 601 S.W.2d 873 (1980), which held a military retirement pension was not marital property. In Young v. Young, 288 Ark. 37, 701 S.W.2d 374 (1986), we held clearly that prospective military retirement pay is marital property.</p>
+                <p pgmap="366" id="b366-12">2. Date of Division</p>
+                <p pgmap="366" id="b366-13">
+                   The divorce was awarded in 1985 on the basis of three years separation. The parties had separated in 1981. The appel­lant contends, without citation of authority, that some of the assets should not have been divided by the chancellor because they were acquired by him after separation and before divorce. We note, however, that the decree purported to divide all personal property “used by either [appellant or appellee] as household goods. . . .” The decree also contained the following:</p>
+                <blockquote pgmap="366(17) 367(31)" id="b366-14">Any further real estate interests owned by either party or any identifiable interest in the personal property or stock in trade of the Defendant in her business enter­prise known as the “Emporium” in Fairfax, Virginia, or any equity therein, is ordered divided fifty percent to each party.</blockquote>
+                <p pgmap="367" id="b367-6">The “Emporium” is the business in Virginia where the appellee has worked since the separation. The chancellor thus chose the date of divorce as the date upon which to ascertain what the marital property of the parties was although some of it had apparently been acquired while the parties were still married to each other but living separately. Our statute, Ark. Stat. Ann. § 34-1214 (A)(1) (Supp. 1985), clearly requires “distribution” of marital property at the time the divorce is entered. We hold it was not an abuse of the chancellor’s discretion to ascertain the extent of marital property and evaluate it as of that date as well.</p>
+                <p pgmap="367" id="b367-7">3. Retirement Pay</p>
+                <p pgmap="367" id="b367-8">The court held that when the appellant begins receiving his retirement pay from the Army the appellee will be entitled to one-­half of a fractional interest in each retirement payment. The fraction will have a numerator of twelve, the number of years the parties were married during his military service. The denomina­tor will be the number of years the appellant has served upon retirement. For instance, if he retires with twenty-eight years of service, the appellee will be entitled to one-half of 12/28 of his military retirement pay. The appellant says the flaws in the formula are three-fold. First, it gives the appellee the benefit of enhancement of the retirement pay which occurred during the appellant’s first eleven years of service when he was not married to the appellee. Second, it gives her the benefit of the enhancement which occurred between the date of separation and the date of divorce. Third, it gives her the benefit of the enhancement which will occur between the date of divorce and the appellant’s retirement.</p>
+                <p pgmap="367" id="b367-9">The formula used by the trial court seems to accord with that used in Young v. Young, supra. There we approved awarding the spouse of a military retiree one-half of 17/20 of the retirement pay. In that case, the retirement had occurred during the marriage, and the parties had been married to each other for seventeen of the twenty years of military service.</p>
+                <p pgmap="368" id="b368-5">As stated above, we hold it was within the chancellor’s discretion to evaluate the assets of the parties as of the date of divorce, thus we are not concerned with the period of enhance­ment of the military pension between the date of separation and the date of divorce.</p>
+                <p pgmap="368" id="b368-6">The argument as to the pre- and post-marital enhancement is beguiling but not sound. The appellant cites no authority other than our decision in Marshall v. Marshall, 285 Ark. 426, 688 S.W.2d 279 (1985), for his proposition that the chancellor erred in this respect. He quotes the second headnote from our official reporter as follows: “Pension benefits based on contribution or services not made during the marriage constitute the separate property of the recipient.” The opinion in that case, however, said and held only that the spouse of an employee entitled to a pension would be entitled to a “proportionate share.” 285 Ark. at 429, 688 S.W.2d at 281. The case was remanded for a determination of what that share would be.</p>
+                <p pgmap="368" id="b368-7">
+                   After reviewing many cases involving distribution upon divorce of a prospective military or other pension, we conclude the chancellor in this case was correct. The only support we have found for the appellant’s position is a dissenting opinion in Van Loan v. Van Loan, 162 Ariz. 272, 569 P.2d 214 (1977), where the dissenting justice contended the wife of a military person should not get the benefit of the enhancement of her husband’s military pay which occurred after the divorce. 569 P.2d at 217. The majority in that case refused to consider the argument because it had not been raised in the trial court. We might well take that approach here, because the record does not show any argument whatever was presented to the trial court with respect to the enhancement of the appellant’s pension before or after the marriage.</p>
+                <p pgmap="368" id="b368-8">We are willing to go further in approving the chancellor’s decision, however, because we would affirm it even if the argument had been made below.</p>
+                <p pgmap="368" id="b368-9">The task of the court is to ascertain the value of the prospective military pension as an asset of marital property. Section 34-1214 requires that it be divided with fifty percent to each party unless other considerations stated in the statute make other than equal division more equitable.</p>
+                <p pgmap="369" id="b369-5">If Colonel Askins retired tomorrow or had retired on the day of his divorce, as he is and was eligible to do, under the chancellor’s formula Mrs. Askins would have been limited to a percentage of his base retirement pay determined as of that date. That is and was in Colonel Askins’s power to determine. If he had retired the day of the divorce and then gone to work for a company with a new retirement program, Mrs. Askins would not have been entitled to participate in the new retirement benefits. However, she is entitled to a percentage of whatever his military pension may be because that is the asset to which she contributed.</p>
+                <p pgmap="369" id="b369-6">We are in no position to say, especially given the record before us, that Mrs. Askins’s contribution to the pension was any less because she was married to Colonel Askins in the middle of his career than it would have been had she been married to him for, say, the last twelve years of it. The enhancement of the ultimate retirement pay may be most dramatic at the end, but the record before us contains no evidence of that, and none whatever of military pay scales. Even if such evidence were in the record, we could not say with assurance that Mrs. Askins’s entitlement, based on her contributions to the marriage, should be less than, as in the example above, 12/28 of the pay expected. While no cases we have found, other than the one containing the dissenting opinion cited above, have gone into this “enhancement” discus­sion, many have approved a formula like that used by the chancellor in this case. See, e.g. Le Clert v. Le Clert, 80 N.M. 235, 453 P.2d 755 (1969); Cearley v. Cearley, 544 S.W.2d 661 (Tex. 1976); Woodward v. Woodward, 656 P.2d 431 (Utah 1982). See also Annot. 94 A.L.R. 3d 176 (1979 and Supp. 1985).</p>
+                <p pgmap="369" id="b369-7">Had the chancellor decided not to divide equally the propor­tion of retirement benefits based on the twelve years of marriage, and had he stated good reasons as required by § 34-1214, we would have affirmed. The statute gives the chancellor that broad discretion. It is not the intent of the statute or this opinion to tie the chancellor to any specific formula for dividing prospective retirement benefits. See Addis v. Addis, 288 Ark. 205, 703 S.W.2d 852 (1986).</p>
+                <p pgmap="369" id="b369-8">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="365" ORDERLABEL="333" TYPE="page">
+        <fptr FILEID="tiff_00183_0"/>
+        <fptr FILEID="jp2_00183_0"/>
+        <fptr FILEID="alto_00183_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_365.3" BETYPE="IDREF" FILEID="alto_00183_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="366" ORDERLABEL="334" TYPE="page">
+        <fptr FILEID="tiff_00183_1"/>
+        <fptr FILEID="jp2_00183_1"/>
+        <fptr FILEID="alto_00183_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_366.2" BETYPE="IDREF" FILEID="alto_00183_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="367" ORDERLABEL="335" TYPE="page">
+        <fptr FILEID="tiff_00184_0"/>
+        <fptr FILEID="jp2_00184_0"/>
+        <fptr FILEID="alto_00184_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_367.3" BETYPE="IDREF" FILEID="alto_00184_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="368" ORDERLABEL="336" TYPE="page">
+        <fptr FILEID="tiff_00184_1"/>
+        <fptr FILEID="jp2_00184_1"/>
+        <fptr FILEID="alto_00184_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_368.1" BETYPE="IDREF" FILEID="alto_00184_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="369" ORDERLABEL="337" TYPE="page">
+        <fptr FILEID="tiff_00185_0"/>
+        <fptr FILEID="jp2_00185_0"/>
+        <fptr FILEID="alto_00185_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_369.2" BETYPE="IDREF" FILEID="alto_00185_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="370" ORDERLABEL="338" TYPE="page">
+        <fptr FILEID="tiff_00185_1"/>
+        <fptr FILEID="jp2_00185_1"/>
+        <fptr FILEID="alto_00185_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_370.1" BETYPE="IDREF" FILEID="alto_00185_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Avq" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_366.10" BETYPE="IDREF" FILEID="alto_00183_1"/>
+            <area BEGIN="BL_366.11" BETYPE="IDREF" FILEID="alto_00183_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b365-9" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_365.8" BETYPE="IDREF" FILEID="alto_00183_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b369-8" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_369.6" BETYPE="IDREF" FILEID="alto_00185_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b366-7" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_366.7" BETYPE="IDREF" FILEID="alto_00183_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b366-9" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_366.9" BETYPE="IDREF" FILEID="alto_00183_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b366-8" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_366.8" BETYPE="IDREF" FILEID="alto_00183_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b369-6" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_369.4" BETYPE="IDREF" FILEID="alto_00185_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b370-5" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_370.3" BETYPE="IDREF" FILEID="alto_00185_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b368-9" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_368.7" BETYPE="IDREF" FILEID="alto_00184_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b369-7" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_369.5" BETYPE="IDREF" FILEID="alto_00185_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b366-11" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_366.13" BETYPE="IDREF" FILEID="alto_00183_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b366-10" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_366.12" BETYPE="IDREF" FILEID="alto_00183_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b366-13" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_366.15" BETYPE="IDREF" FILEID="alto_00183_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b366-12" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_366.14" BETYPE="IDREF" FILEID="alto_00183_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b366-14" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_366.16" BETYPE="IDREF" FILEID="alto_00183_1"/>
+            <area BEGIN="BL_367.1" BETYPE="IDREF" FILEID="alto_00184_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AWt" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_365.12" BETYPE="IDREF" FILEID="alto_00183_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b368-8" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_368.6" BETYPE="IDREF" FILEID="alto_00184_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b368-7" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_368.5" BETYPE="IDREF" FILEID="alto_00184_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AAz" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_365.9" BETYPE="IDREF" FILEID="alto_00183_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b367-6" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_367.4" BETYPE="IDREF" FILEID="alto_00184_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b367-7" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_367.5" BETYPE="IDREF" FILEID="alto_00184_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b368-6" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_368.4" BETYPE="IDREF" FILEID="alto_00184_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b368-5" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_368.3" BETYPE="IDREF" FILEID="alto_00184_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ACo" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_365.10" BETYPE="IDREF" FILEID="alto_00183_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b365-10" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_365.11" BETYPE="IDREF" FILEID="alto_00183_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b367-8" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_367.6" BETYPE="IDREF" FILEID="alto_00184_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b367-9" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_367.7" BETYPE="IDREF" FILEID="alto_00184_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b369-5" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_369.3" BETYPE="IDREF" FILEID="alto_00185_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

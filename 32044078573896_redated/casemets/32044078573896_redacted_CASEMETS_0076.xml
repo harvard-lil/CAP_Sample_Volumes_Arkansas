@@ -1,0 +1,398 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0076" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Bobo v. Bryson">Bobo vs. Bryson</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 387</citation>
+          <decisiondate>1860-07</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00195_0" MIMETYPE="image/tiff" CHECKSUM="3f4ac16d9346a7bca8ce8e22f49c5152" CHECKSUMTYPE="MD5" SIZE="34808">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00195_0.tif"/>
+      </file>
+      <file ID="tiff_00195_1" MIMETYPE="image/tiff" CHECKSUM="909a3dec017ae4ca9def3da2070bd437" CHECKSUMTYPE="MD5" SIZE="48220">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00195_1.tif"/>
+      </file>
+      <file ID="tiff_00196_0" MIMETYPE="image/tiff" CHECKSUM="00475fef46ae68cca12925cde7668e62" CHECKSUMTYPE="MD5" SIZE="52752">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00196_0.tif"/>
+      </file>
+      <file ID="tiff_00196_1" MIMETYPE="image/tiff" CHECKSUM="a744054f931d6e7bdedd90510c759888" CHECKSUMTYPE="MD5" SIZE="28660">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00196_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00195_0" MIMETYPE="image/jp2" CHECKSUM="4aff1d3a16ac10574cd1ddd15fff2a7f" CHECKSUMTYPE="MD5" SIZE="2576171">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00195_0.jp2"/>
+      </file>
+      <file ID="jp2_00195_1" MIMETYPE="image/jp2" CHECKSUM="805657469539f7c17c968c723e70fac1" CHECKSUMTYPE="MD5" SIZE="2708267">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00195_1.jp2"/>
+      </file>
+      <file ID="jp2_00196_0" MIMETYPE="image/jp2" CHECKSUM="5be0d4dc9f288f7339547cf6231c0ea2" CHECKSUMTYPE="MD5" SIZE="2730468">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00196_0.jp2"/>
+      </file>
+      <file ID="jp2_00196_1" MIMETYPE="image/jp2" CHECKSUM="df1355c6114fd1fefd4b84f99b770073" CHECKSUMTYPE="MD5" SIZE="2550378">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00196_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00195_0" MIMETYPE="text/xml" CHECKSUM="2522ca9e7995bf146a35ae2846396ce0" CHECKSUMTYPE="MD5" SIZE="73001">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00195_0.xml"/>
+      </file>
+      <file ID="alto_00195_1" MIMETYPE="text/xml" CHECKSUM="86ae3a51057afaf48c6d87d1c1b6430a" CHECKSUMTYPE="MD5" SIZE="91223">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00195_1.xml"/>
+      </file>
+      <file ID="alto_00196_0" MIMETYPE="text/xml" CHECKSUM="243a4383744710ff631609cb7f42b2a1" CHECKSUMTYPE="MD5" SIZE="97537">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00196_0.xml"/>
+      </file>
+      <file ID="alto_00196_1" MIMETYPE="text/xml" CHECKSUM="e6315c6d1f940520ccbe30502cd6e16e" CHECKSUMTYPE="MD5" SIZE="52344">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00196_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0076" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="390" firstpage="387">
+              <parties id="b389-6" pgmap="389">Bobo vs. Bryson.</parties>
+              <judges id="b392-6" pgmap="392">Mr. Justice Fairchild did not sit in this case.</judges>
+              <attorneys id="b389-13" pgmap="389">Byers, for the appellant.</attorneys>
+              <summary id="b389-16" pgmap="389">Appeal from Lawrence Circuit Court.</summary>
+              <summary id="b389-12" pgmap="389">Hon. William C. Bevens, Circuit Judge.</summary>
+              <summary id="b389-14" pgmap="389">In this case, Robert S. Bryson was insolvent, owned neither horses nor oxen; was in the habit of hiring out his sons and appropriating the proceeds of their labor to his own use. The appellee lives with his father; is one of the family, a minor; the father by law entitled to his labor or the proceeds thereof. The father has just as full and complete legal right to the services of his son, and to the proceeds of his labor, as he has to his horse, and we cannot comprehend .the ethics that would permit the father to give one and not the other. See Bell vs. Llallen­back, etal., Wright's {Ohio) Bep. 751; Chase vs. Elkins, 2 Verm. 290; 9 Ala. 933; 10 Ala. 348.</summary>
+              <summary id="b389-15" pgmap="389(47) 390(27)">It appears to us that we had the right to ask Robert S. Bry­son the question which the plaintiff objected to and which the court would not permit him to answer. It might be a privi­leged communication as to Robert Bryson, and he himself might object, probably; but no other person. If he did not object, and was willing to answer the question, no other person had a right to object. '</summary>
+              <headnotes id="b389-9" pgmap="389">A witness will not be required to answer, if at all and for any purpose, a question as to any previous conversations held by him with others, out of court, in reference to any fact, unless his attention has been particularly directed to the fact and he interrogated in direct reference to it.</headnotes>
+              <headnotes id="b389-10" pgmap="389">A witness is protected from testifying as to any communication he may have made to his attorney in confidence.</headnotes>
+              <headnotes id="b389-11" pgmap="389">A father can make a valid gift of his minor son’s services to himself, so as to be beyond reach of the father’s creditors.</headnotes>
+              <opinion type="majority">
+                <author id="b390-4" pgmap="390">Hon. Thomas Johnson, Special Judge,</author>
+                <p id="Au1" pgmap="390">delivered the opinion of the court.</p>
+                <p id="b390-5" pgmap="390(337) 391(402) 392(108)">The first point presented relates to the propriety of the ruling of the Circuit Court, in excusing the witness, Roberts. Bryson, from answering the question propounded to him by the defend­ant. The question was: Did you not, about the time or a short time before David McKnight let your son, the plaintiff, have the roan horse, tell J. W. Townsend, esq., in his office, in the town of Smithville, that you were a poor man and in embarrassed circumstances, and that you had neither horse nor oxen, and how you could buy a horse in your son’s name, so that he could hold him, and you to have the use of his horse.” The witness was properly excused from answering the question, as no foun­dation had been previously laid to authorize its introduction. He had a right to have his attention particularly directed to the fact, and to be interrogated in direct reference to it, before he could be compelled to state what he had said to others out of court, and when not acting under the solemnity of an oath. His declarations out of court, even admitting that they could have been introduced on the trial of this case, could only have been received for the purpose of exhibiting the improbability of his story, and lessening the credit due to it before the jury. If admissible at all it could only have been to contradict what he had previously said, and as a matter of course, he having said nothing in regard to the purchase of his son having been the result of a secret arrangement between him and himself, no declaration that he had made could be drawn out to contra­dict his statement. But the witness was protected upon another and higher ground. The statement, if made at all, was a com­munication made in confidence to an attorney This protec­tion extends to every communication which the client makes to his legal adviser, for the purpose of professional advice or aid&gt; upon the subject of his rights and liabilities. Nor is it neces­sary that any judicial proceedings in particular should have been commenced or contemplated; it is enough if the matter in hand, like every other human transaction, may by possibility become the subject of judicial enquiry. The great object of the rule seems plainly to require that the entire professional intercourse between client and attorney, whatever it may have consisted in, should be protected by profound secrecy. See 1st. Greenleaf, 303. The next and only remaining question involved is, whether Robert S. Bryson, the father, could make a valid gift of his minor son’s services to himself, so as to be beyond the reach of his own creditors. The affirmative of this propo­sition we consider well settled by the authorities. The case of Tillotson vs. Cribbes, 2 Vermont, 477, is directly in point. On the trial of that case in the county court, the plaintiff gave evidence tending to prove that, in the summer of 1834, he being then nineteen years of age, his father, Joseph Tillotson, told him that he might go to work and have his wages. He labored for others that summer and took his pay. In Septem­ber he went to work for one Cutter, for whom he labored about six weeks, and on Cutter’s enquiry of Joseph Tillotson, he was directed to pay plaintiff the amount of his wages. The plain­tiff purchased of Cutter a pair of steers, and paid for them by turning his wages, paying a town order of about five dollars, and agreed to pay about three dollars more, which was after-­wards paid for him by his uncle Moses Sargent. The court, by Collamer, J., said “ The steers out of which this controversy arose, were undoubtedly the property of the plaintiff- That a father may give to his infant son his time, who thereupon will be entitled to the fruit of his earnings, has been fully decided in. this state.” The same doctrine is .held by the Supreme Court of Indiana in the case of Jenison vs. Graves, 2 Blackford, 449. That court in that case said: “ The father, it is true, may claim the services of his minor children, whilst they are under lawful age and are supported by him, lsf Blac. Com. 45-3. But we conceive he may relinquish that claim at any time, and when he does the profits of his children’s labor belong to tnemselves. The property acquired by a minor son, in such case, is as much his own as if it were a legacy bequeathed to him; and it can not be seized by the creditors of the father.” These adjudica­tions are in accordance with the principles of justice, and fully conclusive of the question. The instructions asked for by the defendant were therefore properly refused, and those sought by the plaintiff properly given. The instructions given by the court of its own motion, are substantially the same with those asked by the plaintiff, and consequently are not objectionable.</p>
+                <p id="b392-5" pgmap="392">The judgment is in all things affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="389" ORDERLABEL="387" TYPE="page">
+        <fptr FILEID="tiff_00195_0"/>
+        <fptr FILEID="jp2_00195_0"/>
+        <fptr FILEID="alto_00195_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_389.2" BETYPE="IDREF" FILEID="alto_00195_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_389.1" BETYPE="IDREF" FILEID="alto_00195_0"/>
+              <area BEGIN="BL_389.3" BETYPE="IDREF" FILEID="alto_00195_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="390" ORDERLABEL="388" TYPE="page">
+        <fptr FILEID="tiff_00195_1"/>
+        <fptr FILEID="jp2_00195_1"/>
+        <fptr FILEID="alto_00195_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_390.2" BETYPE="IDREF" FILEID="alto_00195_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_390.3" BETYPE="IDREF" FILEID="alto_00195_1"/>
+              <area BEGIN="BL_390.4" BETYPE="IDREF" FILEID="alto_00195_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="391" ORDERLABEL="389" TYPE="page">
+        <fptr FILEID="tiff_00196_0"/>
+        <fptr FILEID="jp2_00196_0"/>
+        <fptr FILEID="alto_00196_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_391.3" BETYPE="IDREF" FILEID="alto_00196_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_391.2" BETYPE="IDREF" FILEID="alto_00196_0"/>
+              <area BEGIN="BL_391.4" BETYPE="IDREF" FILEID="alto_00196_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="392" ORDERLABEL="390" TYPE="page">
+        <fptr FILEID="tiff_00196_1"/>
+        <fptr FILEID="jp2_00196_1"/>
+        <fptr FILEID="alto_00196_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_392.2" BETYPE="IDREF" FILEID="alto_00196_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_392.3" BETYPE="IDREF" FILEID="alto_00196_1"/>
+              <area BEGIN="BL_392.4" BETYPE="IDREF" FILEID="alto_00196_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_392.7" BETYPE="IDREF" FILEID="alto_00196_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b392-5" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_392.5" BETYPE="IDREF" FILEID="alto_00196_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b392-6" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_392.6" BETYPE="IDREF" FILEID="alto_00196_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b389-9" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_389.5" BETYPE="IDREF" FILEID="alto_00195_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b390-4" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_390.5" BETYPE="IDREF" FILEID="alto_00195_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b390-5" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_390.8" BETYPE="IDREF" FILEID="alto_00195_1"/>
+            <area BEGIN="BL_391.1" BETYPE="IDREF" FILEID="alto_00196_0"/>
+            <area BEGIN="BL_392.1" BETYPE="IDREF" FILEID="alto_00196_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b389-6" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_389.4" BETYPE="IDREF" FILEID="alto_00195_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b389-16" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_389.8" BETYPE="IDREF" FILEID="alto_00195_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b389-14" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_389.11" BETYPE="IDREF" FILEID="alto_00195_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b389-15" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_389.12" BETYPE="IDREF" FILEID="alto_00195_0"/>
+            <area BEGIN="BL_390.1" BETYPE="IDREF" FILEID="alto_00195_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b389-12" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_389.9" BETYPE="IDREF" FILEID="alto_00195_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b389-13" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_389.10" BETYPE="IDREF" FILEID="alto_00195_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b389-10" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_389.6" BETYPE="IDREF" FILEID="alto_00195_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b389-11" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_389.7" BETYPE="IDREF" FILEID="alto_00195_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Au1" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_390.6" BETYPE="IDREF" FILEID="alto_00195_1"/>
+            <area BEGIN="BL_390.7" BETYPE="IDREF" FILEID="alto_00195_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

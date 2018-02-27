@@ -1,0 +1,587 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0016" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Hicks v. Ewhartonah">Hicks vs. Ewhartonah</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 106</citation>
+          <decisiondate>1860-01</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00054_1" MIMETYPE="image/tiff" CHECKSUM="fcbe342275d0b54dba9e46f07fd487f8" CHECKSUMTYPE="MD5" SIZE="34464">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00054_1.tif"/>
+      </file>
+      <file ID="tiff_00055_0" MIMETYPE="image/tiff" CHECKSUM="5e011be8cd4bae84437aa366ebce3946" CHECKSUMTYPE="MD5" SIZE="44808">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00055_0.tif"/>
+      </file>
+      <file ID="tiff_00055_1" MIMETYPE="image/tiff" CHECKSUM="54ca295db2b8e4106f0d1e5e638063ec" CHECKSUMTYPE="MD5" SIZE="46942">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00055_1.tif"/>
+      </file>
+      <file ID="tiff_00056_0" MIMETYPE="image/tiff" CHECKSUM="4547246843bbc744d2bd837ca244d48c" CHECKSUMTYPE="MD5" SIZE="41616">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00056_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00054_1" MIMETYPE="image/jp2" CHECKSUM="7b5d9b4c75dc6acca9081772ef80e10d" CHECKSUMTYPE="MD5" SIZE="2426106">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00054_1.jp2"/>
+      </file>
+      <file ID="jp2_00055_0" MIMETYPE="image/jp2" CHECKSUM="9bf9e640db789d2a1dfc8f957315b495" CHECKSUMTYPE="MD5" SIZE="2594413">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00055_0.jp2"/>
+      </file>
+      <file ID="jp2_00055_1" MIMETYPE="image/jp2" CHECKSUM="eda5560ab146411389c2a74f429585f7" CHECKSUMTYPE="MD5" SIZE="2603068">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00055_1.jp2"/>
+      </file>
+      <file ID="jp2_00056_0" MIMETYPE="image/jp2" CHECKSUM="18b55217f0dae5db6af47437b520ea16" CHECKSUMTYPE="MD5" SIZE="2591551">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00056_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00054_1" MIMETYPE="text/xml" CHECKSUM="24e8115add2b4edcb224b823062d8699" CHECKSUMTYPE="MD5" SIZE="63825">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00054_1.xml"/>
+      </file>
+      <file ID="alto_00055_0" MIMETYPE="text/xml" CHECKSUM="099535254b839e0d63abece85a33f048" CHECKSUMTYPE="MD5" SIZE="79537">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00055_0.xml"/>
+      </file>
+      <file ID="alto_00055_1" MIMETYPE="text/xml" CHECKSUM="3738eaff99cd75bb665ebd7a03c7fd5d" CHECKSUMTYPE="MD5" SIZE="82686">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00055_1.xml"/>
+      </file>
+      <file ID="alto_00056_0" MIMETYPE="text/xml" CHECKSUM="c0be4e9289226c64e206f57cc5061971" CHECKSUMTYPE="MD5" SIZE="79620">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00056_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0016" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="109" firstpage="106">
+              <parties id="b108-4" pgmap="108">Hicks vs. Ewhartonah.</parties>
+              <attorneys id="b108-8" pgmap="108">Duval &amp; King, for appellant.</attorneys>
+              <summary id="b108-6" pgmap="108">Appeal from Sebastian Circuit Court.</summary>
+              <summary id="b108-7" pgmap="108">Hon. Felix I. Batson, Circuit Judge.</summary>
+              <summary id="b108-9" pgmap="108">The Circuit Court erred in holding this cause to be within the last clause of the act of Congress,'3c? sec., approved March 3d, 1847, entitled “ An act to provide for the better organization of the Department of Indian Affairs,” etc. This act is only intended to apply to contracts made by an Indian in the Indian country, or in relation to claims against or moneys to be received from the United States. The contract in this case was made in the State of Arkansas, and, by the laws of this State, is valid and binding upon the parties. The facts in this case are essentially different from those in the case of Clark vs. Crosland, 17 Ark., where the contract was made in the Indian country.</summary>
+              <summary id="b108-10" pgmap="108(64) 109(25)">Congress has power to regulate commerce with foreign nations, and among the several States, and with the Indian tribes. Const. U. S., sec. 8; but this clause of the constitution confers ho power upon Congress to declare contracts made by Indians in this State to be void. U. S. vs. Cisna, 1 McLean’s Rep. 254; Murray vs. Wooden, 17 Wend. 531; Merril vs. Tome, 8 Spel. 535; Hastings vs. Barber, 3 Barb. 8. C. R. 492; Hast­ings vs. Farmer, 4 Ccnv. 293; Gibbons vs. Ogden, 9 Wheat Rep.</summary>
+              <headnotes id="b108-5" pgmap="108">An executory contract entered into, in this State, between an Indian and a white man, may be enforced — Congress possessing no constitutional power to invalidate contracts entered into within the limits of a sovereign State, whether with Indians or others.</headnotes>
+              <opinion type="majority">
+                <author id="b109-5" pgmap="109">Mr. Justice Rector</author>
+                <p id="ANZ" pgmap="109">delivered the opinion of the Court.</p>
+                <p id="b109-6" pgmap="109">This is a suit by attachment commenced by the appellant, against the appellee, before a Justice of the Peace in Sebastian county.</p>
+                <p id="b109-7" pgmap="109">The appellant obtained, judgment before the justice, and the case was taken to the Circuit Court by appeal.</p>
+                <p id="b109-8" pgmap="109">Upon the trial there, the appellant proved the sale and delivery of merchandise, to the amount of one hundred dollars, within Sebastian county, State of Arkansas.</p>
+                <p id="b109-9" pgmap="109">It was also proven that Ewhartonah, the appelle, was an Indian, and Hicks was a white man.</p>
+                <p id="b109-10" pgmap="109">And upon this proof, the Circuit Court, sitting as a jury, found for the appellee, and gave judgment accordingly; and Hicks appealed to this Court.</p>
+                <p id="b109-11" pgmap="109">The question is&gt; whether an executory contract, entered into in the State, by an Indian with a white man, can be enforced.</p>
+                <p id="b109-12" pgmap="109">The Constitution of the United States gives Congress the power “ to regulate commerce with foreign nations, and among the several States, and with the Indian tribes.”</p>
+                <p id="b109-13" pgmap="109">And by the 3d section of an act passed by Congress, 3d March, 1847, it is provided, amongst other regulations, touch­ing the payment to the Indians of annuities, “ that all execu- “ lory contracts, made and entered into by any Indian for the “ payment of money or goods, shall be deemed and held to be “ null and void, and of no binding effect whatever.”</p>
+                <p id="b109-14" pgmap="109">Commerce, by its universal signification, when applied to governmental polity, can mean nothing less than commercial in,­tercourse, carried on between States or governments. And without a palpable perversion of the term, cannot be held applicable to ordinary business transactions occurring between individuals.</p>
+                <p id="b109-15" pgmap="109(11) 110(36)">Will it be contended that under the- provision of the consti­tution, the States delegated to the federal government the power to nullify contracts entered into by an alien with a citizen, or the citizen of one State with one who is a citizen of another State?</p>
+                <p id="b110-6" pgmap="110">Certainly, nothing could more seriously trench upon the attributes of State sovereignty, than to concede the power in the general government to invalidate contracts entered into by the citizen within the borders of his own State.</p>
+                <p id="b110-7" pgmap="110">And whether with those having citizenship elsewhere or not, it is quite immaterial.</p>
+                <p id="b110-8" pgmap="110">Nor do we perceive the case to be essentially different, be­cause as in this instance one of the contracting parties is an Indian.</p>
+                <p id="b110-9" pgmap="110">The Indians residing west and contiguous to Arkansas, have, for many years past been an educated and intelligent people, many of them the owners of large estates, having a local gov­ernment of their own, carrying on a foreign and internal trade with citizens from all parts of the Union, and having as much need for credit, and the validation of their pecuniary engage­ments as any other class of persons.</p>
+                <p id="b110-10" pgmap="110">In the case of the United States vs. Cisna, the Supreme Court at Washington, say: that “When the Indians occupy a “ territory of limited extent, surrounded by a white population, “ which necessarily have daily intercourse with the Indians, “ and it becomes impracticable to enforce the United States “laws, the federal jurisdiction must cease.”</p>
+                <p id="b110-11" pgmap="110">In several of the States, regulations have been passed forbid­ing the enforcement of contracts entered into with Indians; showing the repeated exercise of the power by the States to enact such laws.</p>
+                <p id="b110-12" pgmap="110">And in New York (Murray vs. Wooden, 17 Wendell 531,) it is held, that a deed from an Indian, executed in accordance with the laws of that State, is valid — notwithstanding the inhibition of Congress, that no grant of lands from an Indian shall be valid’ unless made by treaty or convention, entered into in pursuance of the Constitution of the United States.</p>
+                <p id="b111-4" pgmap="111">And so again, in New York, where the State law forbids the bringing of any suit against an Indian, upon penalty of treble costs, it is held that the disability must be pleaded. Hastings vs. Barber, 3 Barber's S. C. R. 492; Hastings vs. Farmer, 4 Cow. 293.</p>
+                <p id="b111-5" pgmap="111">In the case of Gibbons vs. Ogden, wherein the Supreme Court of the United States have treated the subject now under consideration before us, elaborately, it is remarked, that “ the “ genius and character of the whole government, seem to be “ that its action is to be applied to all the external concerns of “ the Nation, and to those internal concerns, which affect the “ States generally, but not to those which are completely within “ a particular State, which do not affect other States; and with “ which it is not necessary to interfere for the purpose of exe- “ cuting some of the general powers of the government.</p>
+                <p id="b111-6" pgmap="111">“ The completely internal commerce of a State, then, maybe “ considered as reserved for the State itself.”</p>
+                <p id="b111-7" pgmap="111">Conceding the interpretation given by the Court below, to the act of Congress, above referred to; yet, in our opinion, Congress lacks the constitutional power to enact laws invalidating con­tracts entered into within the limits of a sovereign State, whether with an Indian or a resident of a sister State, or sub­ject of a foreign government, this being one of the reserved rights retained to the States, and the people.</p>
+                <p id="b111-8" pgmap="111">The case of Clark vs. Crosland, 17 Ark., furnishes no prece­dent in this. There the writing obligatory was executed by the Indian, in the Indian country, whereto the lex loci applied, as it does in this case, and must as a settled rule in all cases of a similar character.</p>
+                <p id="b111-9" pgmap="111">Let the judgment of the Circuit Court be reversed with direc­tions to proceed with the cause, in accordance with this opinion.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="108" ORDERLABEL="106" TYPE="page">
+        <fptr FILEID="tiff_00054_1"/>
+        <fptr FILEID="jp2_00054_1"/>
+        <fptr FILEID="alto_00054_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_108.1" BETYPE="IDREF" FILEID="alto_00054_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_108.2" BETYPE="IDREF" FILEID="alto_00054_1"/>
+              <area BEGIN="BL_108.3" BETYPE="IDREF" FILEID="alto_00054_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="109" ORDERLABEL="107" TYPE="page">
+        <fptr FILEID="tiff_00055_0"/>
+        <fptr FILEID="jp2_00055_0"/>
+        <fptr FILEID="alto_00055_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_109.3" BETYPE="IDREF" FILEID="alto_00055_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_109.2" BETYPE="IDREF" FILEID="alto_00055_0"/>
+              <area BEGIN="BL_109.4" BETYPE="IDREF" FILEID="alto_00055_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="110" ORDERLABEL="108" TYPE="page">
+        <fptr FILEID="tiff_00055_1"/>
+        <fptr FILEID="jp2_00055_1"/>
+        <fptr FILEID="alto_00055_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_110.2" BETYPE="IDREF" FILEID="alto_00055_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_110.3" BETYPE="IDREF" FILEID="alto_00055_1"/>
+              <area BEGIN="BL_110.4" BETYPE="IDREF" FILEID="alto_00055_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="111" ORDERLABEL="109" TYPE="page">
+        <fptr FILEID="tiff_00056_0"/>
+        <fptr FILEID="jp2_00056_0"/>
+        <fptr FILEID="alto_00056_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_111.2" BETYPE="IDREF" FILEID="alto_00056_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_111.1" BETYPE="IDREF" FILEID="alto_00056_0"/>
+              <area BEGIN="BL_111.3" BETYPE="IDREF" FILEID="alto_00056_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b111-5" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_111.5" BETYPE="IDREF" FILEID="alto_00056_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b111-4" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_111.4" BETYPE="IDREF" FILEID="alto_00056_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b111-7" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_111.7" BETYPE="IDREF" FILEID="alto_00056_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b111-6" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_111.6" BETYPE="IDREF" FILEID="alto_00056_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b109-6" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_109.7" BETYPE="IDREF" FILEID="alto_00055_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b109-7" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_109.8" BETYPE="IDREF" FILEID="alto_00055_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b110-6" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_110.5" BETYPE="IDREF" FILEID="alto_00055_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b109-5" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_109.5" BETYPE="IDREF" FILEID="alto_00055_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b110-8" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_110.7" BETYPE="IDREF" FILEID="alto_00055_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b110-9" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_110.8" BETYPE="IDREF" FILEID="alto_00055_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b109-8" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_109.9" BETYPE="IDREF" FILEID="alto_00055_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b109-9" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_109.10" BETYPE="IDREF" FILEID="alto_00055_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b111-9" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_111.9" BETYPE="IDREF" FILEID="alto_00056_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b111-8" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_111.8" BETYPE="IDREF" FILEID="alto_00056_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b109-10" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_109.11" BETYPE="IDREF" FILEID="alto_00055_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b109-11" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_109.12" BETYPE="IDREF" FILEID="alto_00055_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b109-12" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_109.13" BETYPE="IDREF" FILEID="alto_00055_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b109-13" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_109.14" BETYPE="IDREF" FILEID="alto_00055_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b109-14" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_109.15" BETYPE="IDREF" FILEID="alto_00055_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b109-15" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_109.16" BETYPE="IDREF" FILEID="alto_00055_0"/>
+            <area BEGIN="BL_110.1" BETYPE="IDREF" FILEID="alto_00055_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b108-10" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_108.10" BETYPE="IDREF" FILEID="alto_00054_1"/>
+            <area BEGIN="BL_109.1" BETYPE="IDREF" FILEID="alto_00055_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b110-12" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_110.11" BETYPE="IDREF" FILEID="alto_00055_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b110-10" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_110.9" BETYPE="IDREF" FILEID="alto_00055_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b110-11" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_110.10" BETYPE="IDREF" FILEID="alto_00055_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b110-7" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_110.6" BETYPE="IDREF" FILEID="alto_00055_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ANZ" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_109.6" BETYPE="IDREF" FILEID="alto_00055_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b108-9" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_108.9" BETYPE="IDREF" FILEID="alto_00054_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b108-8" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_108.8" BETYPE="IDREF" FILEID="alto_00054_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b108-7" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_108.7" BETYPE="IDREF" FILEID="alto_00054_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b108-6" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_108.6" BETYPE="IDREF" FILEID="alto_00054_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b108-5" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_108.5" BETYPE="IDREF" FILEID="alto_00054_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b108-4" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_108.4" BETYPE="IDREF" FILEID="alto_00054_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

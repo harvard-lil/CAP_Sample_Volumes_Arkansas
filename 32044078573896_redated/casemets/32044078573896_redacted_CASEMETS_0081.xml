@@ -1,0 +1,267 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0081" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Henry v. Green">Henry vs. Green</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 401</citation>
+          <decisiondate>1860-07</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00202_0" MIMETYPE="image/tiff" CHECKSUM="cf52018a98edcaa54f369a0c3f4dd1ac" CHECKSUMTYPE="MD5" SIZE="26316">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00202_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00202_0" MIMETYPE="image/jp2" CHECKSUM="5f2d0b7edebc4f64421d62753eeff226" CHECKSUMTYPE="MD5" SIZE="2527462">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00202_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00202_0" MIMETYPE="text/xml" CHECKSUM="f67387c90651684bd1580cf309c210a7" CHECKSUMTYPE="MD5" SIZE="52166">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00202_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0081" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="401" firstpage="401">
+              <parties id="b403-4" pgmap="403">Henry vs. Green.</parties>
+              <attorneys id="b403-9" pgmap="403">Hollowell, for appellant.</attorneys>
+              <attorneys id="b403-10" pgmap="403">Jordan, for the appellee.</attorneys>
+              <summary id="b403-7" pgmap="403">Appeal f rom Yell Circuit Court.</summary>
+              <summary id="b403-8" pgmap="403">Hon. John J. Clendenin, Circuit Judge.</summary>
+              <headnotes id="b403-5" pgmap="403">Where no motion for a now trial has been made, nor any question of law reserved at the trial, there is nothing' before this court for adjudication.</headnotes>
+              <headnotes id="b403-6" pgmap="403">The rule established in State Bank vs. Conway, 13 Ark. 344 — which is simple, and easily understood and followed — applies as well to cases submitted to the court, as to a jury, and to cases where there is an agreed statement of facts, as where the facts are proven by witnesses.</headnotes>
+              <opinion type="majority">
+                <author id="b403-11" pgmap="403">Mr. Chief Justice English</author>
+                <p id="ATx" pgmap="403">delivered the opinion of the court.</p>
+                <p id="b403-12" pgmap="403">The judgment in this case must be affirmed under the rule of practice settled in State Bank vs. Conway, 13 Ark. 344.</p>
+                <p id="b403-13" pgmap="403">The issues were submitted to the court, sitting as a jury, and finding for defendant. The plaintiff excepted to the finding, and without moving for a new trial, but merely taking a bill of exceptions setting out the evidence, appealed. No question of law is legitimately presented for the decision of this court, See also Gardner vs. Miller, et al., (present term.)</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="403" ORDERLABEL="401" TYPE="page">
+        <fptr FILEID="tiff_00202_0"/>
+        <fptr FILEID="jp2_00202_0"/>
+        <fptr FILEID="alto_00202_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_403.2" BETYPE="IDREF" FILEID="alto_00202_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_403.1" BETYPE="IDREF" FILEID="alto_00202_0"/>
+              <area BEGIN="BL_403.3" BETYPE="IDREF" FILEID="alto_00202_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b403-11" BETYPE="IDREF" FILEID="casebody_0081"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_403.11" BETYPE="IDREF" FILEID="alto_00202_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b403-12" BETYPE="IDREF" FILEID="casebody_0081"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_403.13" BETYPE="IDREF" FILEID="alto_00202_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b403-9" BETYPE="IDREF" FILEID="casebody_0081"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_403.9" BETYPE="IDREF" FILEID="alto_00202_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b403-8" BETYPE="IDREF" FILEID="casebody_0081"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_403.8" BETYPE="IDREF" FILEID="alto_00202_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b403-10" BETYPE="IDREF" FILEID="casebody_0081"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_403.10" BETYPE="IDREF" FILEID="alto_00202_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b403-5" BETYPE="IDREF" FILEID="casebody_0081"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_403.5" BETYPE="IDREF" FILEID="alto_00202_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b403-4" BETYPE="IDREF" FILEID="casebody_0081"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_403.4" BETYPE="IDREF" FILEID="alto_00202_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b403-7" BETYPE="IDREF" FILEID="casebody_0081"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_403.7" BETYPE="IDREF" FILEID="alto_00202_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b403-6" BETYPE="IDREF" FILEID="casebody_0081"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_403.6" BETYPE="IDREF" FILEID="alto_00202_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ATx" BETYPE="IDREF" FILEID="casebody_0081"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_403.12" BETYPE="IDREF" FILEID="alto_00202_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b403-13" BETYPE="IDREF" FILEID="casebody_0081"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_403.14" BETYPE="IDREF" FILEID="alto_00202_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

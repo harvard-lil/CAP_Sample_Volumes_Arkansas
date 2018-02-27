@@ -1,0 +1,388 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0106" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Hicks v. Fluit">Hicks vs. Fluit</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 463</citation>
+          <decisiondate>1860-07</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00233_0" MIMETYPE="image/tiff" CHECKSUM="adeeaa19b2d2f7aba52ea33f04d29b02" CHECKSUMTYPE="MD5" SIZE="32588">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00233_0.tif"/>
+      </file>
+      <file ID="tiff_00233_1" MIMETYPE="image/tiff" CHECKSUM="020c529ce117a667979a950d9a04e507" CHECKSUMTYPE="MD5" SIZE="49454">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00233_1.tif"/>
+      </file>
+      <file ID="tiff_00234_0" MIMETYPE="image/tiff" CHECKSUM="ce9fd56e432a5766df12ab70b7e51e2c" CHECKSUMTYPE="MD5" SIZE="25632">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00234_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00233_0" MIMETYPE="image/jp2" CHECKSUM="ba61ef95efa53375471d80334da227a8" CHECKSUMTYPE="MD5" SIZE="2552745">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00233_0.jp2"/>
+      </file>
+      <file ID="jp2_00233_1" MIMETYPE="image/jp2" CHECKSUM="0985c12e1c50accfa48bdcb2755b79a9" CHECKSUMTYPE="MD5" SIZE="2634132">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00233_1.jp2"/>
+      </file>
+      <file ID="jp2_00234_0" MIMETYPE="image/jp2" CHECKSUM="0dc80c61c41abb72579ca9a33c79fd2a" CHECKSUMTYPE="MD5" SIZE="2532181">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00234_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00233_0" MIMETYPE="text/xml" CHECKSUM="e80b155bf306e477b7a88f9f1873ca42" CHECKSUMTYPE="MD5" SIZE="64887">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00233_0.xml"/>
+      </file>
+      <file ID="alto_00233_1" MIMETYPE="text/xml" CHECKSUM="1af2641ab911f03da80051265712ee0a" CHECKSUMTYPE="MD5" SIZE="90975">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00233_1.xml"/>
+      </file>
+      <file ID="alto_00234_0" MIMETYPE="text/xml" CHECKSUM="45398883c078ebaf0b9c903f43f1314f" CHECKSUMTYPE="MD5" SIZE="53821">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00234_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0106" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="465" firstpage="463">
+              <parties id="b465-5" pgmap="465">Hicks vs. Fluit.</parties>
+              <attorneys id="b465-8" pgmap="465">Carretón, for the appellant.</attorneys>
+              <attorneys id="b465-10" pgmap="465">McConaughey, for the appellee.</attorneys>
+              <summary id="b465-7" pgmap="465">Appeal from Columbia Circuit Court.</summary>
+              <summary id="AZQx" pgmap="465">Hon. Len B. Greer, Circuit Judge.</summary>
+              <summary id="b465-9" pgmap="465">Three years peaceable adverse possession not only takes away the remedy from the original owner, but invests the pos­sessor with the absolute property, so as to enable' him to recover it from the original owner, should he come again into posses­sion. Blackburn vs. Morton et al., 18 Ark. 384; Sims vs. Can-­field’s Exrs. 2 Ala. n. s. 561; Shelby vs. Guy, 11 Wheat. 361; Brent vs. Chapman, 5 Crunch 358; Newby vs. Blakely, 3 líen, cf-­Mun. 57.</summary>
+              <headnotes id="b465-6" pgmap="465">Where a person in possession of personal property, and those under whom he claims, have been in the adverse possession thereof during the full period of limitation, ho may have the benefit of such title by limitation in a suit against the original owner, who has seized the possession thereof, as fully as if such original owner had sued him for the property.</headnotes>
+              <opinion type="majority">
+                <author id="b465-11" pgmap="465">Mr. Justice Fairciiird</author>
+                <p id="A7O" pgmap="465">delivered the opinion of the court.</p>
+                <p id="b465-12" pgmap="465">In the spring of 1853, the defendant bought the horse sued for, from a Missouri horse trader, and in the fall of 1853, turned him out in Louisiana with mules and colts. The latter return­ed, but the horse did not. But about the time this suit was begun, in March, 1858, the defendant saw the horse grazing on the commons in Magnolia, and took him into possession, and the plaintiff replevied him from the defendant.</p>
+                <p id="b466-3" pgmap="466">During all this interval, from the fall of 1853, to March, 1858, the horse had been held in Columbia county by various persons, they claiming, using and trading him as their own, was wéll known in the county, had been sold under execution two or three owmers back of the plaintiff, and the defendant’s claim to the horse had never been known or heard of. At the time of the beginning of the suit, the plaintiff had acquired the horse, and was in the habit of allowing him to graze upon the com­mons in Magnolia. Upon these facts, and upon a demand of the horse before suit, the case was submitted to the court sitting as a jury, which found for the defendant.</p>
+                <p id="b466-4" pgmap="466">The plaintiff contended that the horse having been out of the possession of the defendant long enough to bar an action brought by him for the horse, and having for the same time been in the possession of the plaintiff and others who had held possession of the horse as their own, such adverse possession was a good title to the horse against the defendant, the former owner, and asked the court to so declare the law and apply it to the facts of the case. But the court refused so to declare and apply the law; holding that, though the defendant could not have recovered the horse in suit against the plea of limita­tions, having obtained possession of him, his former ownership and present possession would preyailj against the possessory right of the plaintiff.</p>
+                <p id="b466-5" pgmap="466">The plaintiff excepted, and properly saved the point con­tained in the foregoing opinion of the court, judgment was given against him and he appealed.</p>
+                <p id="b466-6" pgmap="466">The plaintiff’s proposition wa¿ correct: the court erred in its exposition of the law. ^</p>
+                <p id="b466-7" pgmap="466(76) 467(42)">The possession of the horse in Columbia county must be pre­sumed to be lawful: it was contin'jued for the full term of limi­tations against any claim the defendant could make; that pos­session, so continued, became a góod title. The horse was in the possession of the plaintiff, whejn the defendant found him on the commons; that possession was rightful, was legal, and the defendant could not disturb it* rihore than he could recover the horse of the plaintiff by suit. Sadler vs. Sadler, 16 Ark. 642; Newley vs. Blahty, 3 Hen. Mun. 61, 63, 66; Brent vs. Chapman, 5 Cranch 358; Stanley vs. Earl, 5 Litlell 285; Sims vs. Canfield, 2 Ala. N. S. 563.</p>
+                <p id="b467-5" pgmap="467">Let the judgment be reversed, with instructions to grant a new trial.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="465" ORDERLABEL="463" TYPE="page">
+        <fptr FILEID="tiff_00233_0"/>
+        <fptr FILEID="jp2_00233_0"/>
+        <fptr FILEID="alto_00233_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_465.2" BETYPE="IDREF" FILEID="alto_00233_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_465.1" BETYPE="IDREF" FILEID="alto_00233_0"/>
+              <area BEGIN="BL_465.3" BETYPE="IDREF" FILEID="alto_00233_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="466" ORDERLABEL="464" TYPE="page">
+        <fptr FILEID="tiff_00233_1"/>
+        <fptr FILEID="jp2_00233_1"/>
+        <fptr FILEID="alto_00233_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_466.1" BETYPE="IDREF" FILEID="alto_00233_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_466.2" BETYPE="IDREF" FILEID="alto_00233_1"/>
+              <area BEGIN="BL_466.3" BETYPE="IDREF" FILEID="alto_00233_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="467" ORDERLABEL="465" TYPE="page">
+        <fptr FILEID="tiff_00234_0"/>
+        <fptr FILEID="jp2_00234_0"/>
+        <fptr FILEID="alto_00234_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_467.3" BETYPE="IDREF" FILEID="alto_00234_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_467.2" BETYPE="IDREF" FILEID="alto_00234_0"/>
+              <area BEGIN="BL_467.4" BETYPE="IDREF" FILEID="alto_00234_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_467.6" BETYPE="IDREF" FILEID="alto_00234_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b466-6" BETYPE="IDREF" FILEID="casebody_0106"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_466.7" BETYPE="IDREF" FILEID="alto_00233_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b466-7" BETYPE="IDREF" FILEID="casebody_0106"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_466.8" BETYPE="IDREF" FILEID="alto_00233_1"/>
+            <area BEGIN="BL_467.1" BETYPE="IDREF" FILEID="alto_00234_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b466-4" BETYPE="IDREF" FILEID="casebody_0106"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_466.5" BETYPE="IDREF" FILEID="alto_00233_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AZQx" BETYPE="IDREF" FILEID="casebody_0106"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_465.7" BETYPE="IDREF" FILEID="alto_00233_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b465-6" BETYPE="IDREF" FILEID="casebody_0106"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_465.5" BETYPE="IDREF" FILEID="alto_00233_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A7O" BETYPE="IDREF" FILEID="casebody_0106"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_465.12" BETYPE="IDREF" FILEID="alto_00233_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b465-5" BETYPE="IDREF" FILEID="casebody_0106"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_465.4" BETYPE="IDREF" FILEID="alto_00233_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b466-5" BETYPE="IDREF" FILEID="casebody_0106"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_466.6" BETYPE="IDREF" FILEID="alto_00233_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b465-9" BETYPE="IDREF" FILEID="casebody_0106"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_465.9" BETYPE="IDREF" FILEID="alto_00233_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b465-8" BETYPE="IDREF" FILEID="casebody_0106"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_465.8" BETYPE="IDREF" FILEID="alto_00233_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b467-5" BETYPE="IDREF" FILEID="casebody_0106"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_467.5" BETYPE="IDREF" FILEID="alto_00234_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b465-11" BETYPE="IDREF" FILEID="casebody_0106"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_465.11" BETYPE="IDREF" FILEID="alto_00233_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b465-10" BETYPE="IDREF" FILEID="casebody_0106"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_465.10" BETYPE="IDREF" FILEID="alto_00233_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b465-7" BETYPE="IDREF" FILEID="casebody_0106"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_465.6" BETYPE="IDREF" FILEID="alto_00233_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b465-12" BETYPE="IDREF" FILEID="casebody_0106"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_465.13" BETYPE="IDREF" FILEID="alto_00233_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b466-3" BETYPE="IDREF" FILEID="casebody_0106"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_466.4" BETYPE="IDREF" FILEID="alto_00233_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

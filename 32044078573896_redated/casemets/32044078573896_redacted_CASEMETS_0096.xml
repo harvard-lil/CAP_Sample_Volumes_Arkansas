@@ -1,0 +1,695 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0096" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Rogers v. Sebastian County">Rogers vs. Sebastian County</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 440</citation>
+          <decisiondate>1860-07</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00221_1" MIMETYPE="image/tiff" CHECKSUM="a9b8aa8547d833074d71473bb882436a" CHECKSUMTYPE="MD5" SIZE="30720">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00221_1.tif"/>
+      </file>
+      <file ID="tiff_00222_0" MIMETYPE="image/tiff" CHECKSUM="8f2ef66fb9ddcb304d56a94f927b5e03" CHECKSUMTYPE="MD5" SIZE="38390">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00222_0.tif"/>
+      </file>
+      <file ID="tiff_00222_1" MIMETYPE="image/tiff" CHECKSUM="f543440fc12ff3c7ee0f2b841dc9b56f" CHECKSUMTYPE="MD5" SIZE="47260">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00222_1.tif"/>
+      </file>
+      <file ID="tiff_00223_0" MIMETYPE="image/tiff" CHECKSUM="5d91d473182ea6e838647807c9d97fac" CHECKSUMTYPE="MD5" SIZE="44178">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00223_0.tif"/>
+      </file>
+      <file ID="tiff_00223_1" MIMETYPE="image/tiff" CHECKSUM="a96023df41d09b6d303787f201550fca" CHECKSUMTYPE="MD5" SIZE="41172">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00223_1.tif"/>
+      </file>
+      <file ID="tiff_00224_0" MIMETYPE="image/tiff" CHECKSUM="bb589d81c199c2d692657c16eee95d12" CHECKSUMTYPE="MD5" SIZE="25924">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00224_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00221_1" MIMETYPE="image/jp2" CHECKSUM="507da296bac11750566000d264a6c932" CHECKSUMTYPE="MD5" SIZE="2370939">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00221_1.jp2"/>
+      </file>
+      <file ID="jp2_00222_0" MIMETYPE="image/jp2" CHECKSUM="5aafd386a61a902beae818480ab6a03b" CHECKSUMTYPE="MD5" SIZE="2479760">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00222_0.jp2"/>
+      </file>
+      <file ID="jp2_00222_1" MIMETYPE="image/jp2" CHECKSUM="51a132a2dec7b1408e04b37dee9a2a54" CHECKSUMTYPE="MD5" SIZE="2484896">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00222_1.jp2"/>
+      </file>
+      <file ID="jp2_00223_0" MIMETYPE="image/jp2" CHECKSUM="340c0008715c69082ca5935fd4b9d417" CHECKSUMTYPE="MD5" SIZE="2557186">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00223_0.jp2"/>
+      </file>
+      <file ID="jp2_00223_1" MIMETYPE="image/jp2" CHECKSUM="b5cf1286cbb8c1a7255baa37a39d49ff" CHECKSUMTYPE="MD5" SIZE="2502481">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00223_1.jp2"/>
+      </file>
+      <file ID="jp2_00224_0" MIMETYPE="image/jp2" CHECKSUM="70088245998ec8941521ab5c91f6226c" CHECKSUMTYPE="MD5" SIZE="2405073">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00224_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00221_1" MIMETYPE="text/xml" CHECKSUM="adcb89870697709e25428a8ff3ca0607" CHECKSUMTYPE="MD5" SIZE="61739">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00221_1.xml"/>
+      </file>
+      <file ID="alto_00222_0" MIMETYPE="text/xml" CHECKSUM="1b0b1cee469a48c0a2b41b8a487da018" CHECKSUMTYPE="MD5" SIZE="77645">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00222_0.xml"/>
+      </file>
+      <file ID="alto_00222_1" MIMETYPE="text/xml" CHECKSUM="56a768d61caaf1bedb128df6f3dc39ae" CHECKSUMTYPE="MD5" SIZE="87449">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00222_1.xml"/>
+      </file>
+      <file ID="alto_00223_0" MIMETYPE="text/xml" CHECKSUM="435ba9b85d0babf877537cbde32cff31" CHECKSUMTYPE="MD5" SIZE="84065">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00223_0.xml"/>
+      </file>
+      <file ID="alto_00223_1" MIMETYPE="text/xml" CHECKSUM="5cda44e51efe71ba606e5174ea28a2ee" CHECKSUMTYPE="MD5" SIZE="83717">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00223_1.xml"/>
+      </file>
+      <file ID="alto_00224_0" MIMETYPE="text/xml" CHECKSUM="25d6244406afa352772a83477b881e2a" CHECKSUMTYPE="MD5" SIZE="53755">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00224_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0096" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="445" firstpage="440">
+              <parties id="b442-7" pgmap="442">Rogers vs. Sebastian County.</parties>
+              <attorneys id="b443-6" pgmap="443">Hempstead, for the appellant.</attorneys>
+              <attorneys id="b443-8" pgmap="443">Green J. Clark, contra.</attorneys>
+              <summary id="b443-4" pgmap="443">Appeal from the Circuit Court of Sebastian County.</summary>
+              <summary id="b443-5" pgmap="443">Hon. Felix I. Batson, Circuit Judge.</summary>
+              <summary id="b443-7" pgmap="443">The title to the lot donated, was divested by the non-per­formance of the condition, and reverted to the donor. 5 Iiam. 389; 18 Martin 221; 4 Kent 125; 2 Bl. Com. 156; 18 John. 104; 1 Aik. 383.</summary>
+              <summary id="b443-9" pgmap="443">The appellee relies on the following authorities to sustain the decree of the court below. Gould’s Dig., chap. 44, sec. 12; The Stale vs. Allis, 18 Ark. 289; Blackburn. Ex parle, 5 Ark. 21; Adams rt al. vs. Logan counhj, 11 111. Rep. 336; Elwclland others vs. Tucker, 1 Blackf. 285; Armstrong and others vs. The Board of Comm'rs, dc., 4 lb. 208.</summary>
+              <summary id="b443-10" pgmap="443">If the appellant can set up a parol agreement between him* «elf and the commissioners, at variance with the terms of his deed, still they had no authority to make such parol agreement; and any condition or reservation expressed in the deed would be void.</summary>
+              <headnotes id="b442-8" pgmap="442">Where a deed is absolute on its face, no parol condition, reservation or defeasance can be proved to defeat the grant.</headnotes>
+              <headnotes id="b442-9" pgmap="442">Under the act (Gould’s Digest, chap. 44, sec. 12), prohibiting county commissioners to receive conveyances of lands in fee simple to the county, with a reservation or condition, the commissioners have no powor to receive a donation of land, with a reservation or limitation expressed in the deed; and so a contract of reconvey­ance, in the event that the county court should not build a court-house upon the land conveyed, or that it should be used for other purposes than a site for a court­house, cannot be lawfully made.</headnotes>
+              <opinion type="majority">
+                <author id="b443-11" pgmap="443">Mr. Justice Fairchild</author>
+                <p id="AIc" pgmap="443">delivered the opinion of the court.</p>
+                <p id="b443-12" pgmap="443">Previous to the 6th of May, 1852, Mitchell Sparks, Felix G, Ake and Zachariah Ilerrib}', as commissioners of Sebastian county, had located the seat of justice of that county at Fort Smith; and also seem to have determined upon putting up a court house on a certain part of block thirty-two, of the new addition to Fort Smith, as surveyed by Langtree, which land was then owned by the plaintiff.</p>
+                <p id="b443-13" pgmap="443(56) 444(14)">To further this object, and with the expectation that Fort Smith would be the permanent county seat, and the ground so selected the permanent site of the court-house, the plaintiff and his wile, by a deed, absolute on its lace, made a full con­veyance of the land mentioned in the bill, to Sparks, Alce and Ilemby, as commissioners, to hold the same to Sebastian county in fee simple forever.</p>
+                <p id="b444-4" pgmap="444">The consideration expressed in the deed is the “ sum of one dollar, as well as for divers other good and valuable considera­tions, to me in hand paid by Mitchell Sparks, Felix G. Ake and Zachariah Hemby, as commissioners.”</p>
+                <p id="b444-5" pgmap="444">. The deed bore no date, but was made upon the 6th of May,-­1852, was acknowledged by Rogers and wife upon that day, and was filed fot record on the 10th of May, 1852.</p>
+                <p id="b444-6" pgmap="444">But because no date was expressed in the body of the deed, the county court was dissatisfied with it; and on the 2d of May, 1854, Rogers and wife made another deed,recitingthe former one and confirming it, which did not, as did the first deed, contain, the statutory words of “ grant, bargain and sell,” but contained covenants of non-incumbrance made and suffered by Rogers, and of general and special warranty against the claim of all persons whatever.</p>
+                <p id="b444-7" pgmap="444">• Notwithstanding the recitals of the first deed, its only con­sideration was the erection of a court-house upon the ground conveyed, and there was also an agreement between Rogers and the commissioners, that if, by the refusal of the county court, or otherwise, a court-house should not be built upon the ground, or if it should be used for any other purpose than for a site for a court-house, and other necessary public buildings for the seat oi justice tor the- county, the ground was-to be recon­veyed to Rogers.</p>
+                <p id="b444-8" pgmap="444(100) 445(17)">After the first deed was made, and before the execution of the second deed, the commissioners, with the consent of the county court, had let out a contract for building a court-house on the ground conveyed, and the court-house was in the course of erection when the second deed was made. This deed made at the instance of, and for the satisfaction of the county court, absolute on its face like the other, but intended by Rogers to be conditioned like the other, although there was no condi­tion agreed to by the county court, nor were they informed of the agreement of reconveyance made between Rogers and the commissioners, from anything that appears upon the bill.</p>
+                <p id="b445-5" pgmap="445">The second deed "was accepted by the county court, was acknowledged before its presiding judge the day of its execu­tion and was the same day filed for record.</p>
+                <p id="b445-6" pgmap="445">Soon alter this, the work upon the court-house stopped, the contract for its building rescinded, and in 1855 new commis­sioners were elected, and re-located the county seat eighteen miles from Fort Smith.</p>
+                <p id="b445-7" pgmap="445">, Such are the main allegations of the bill, which was taken as confessed.</p>
+                <p id="b445-8" pgmap="445">But upon final hearing the county contested the plaintiff’s right to a cancellation of the deeds, and to a reinvestment of ’ the tille to the ground conveyed, which was the object of the . bill, claiming the same as her own absolute property, conveyed to her, free from, condition, by the general law, and necessarily so received by her commissioners, under the law in sec. 12, ch. 44, Gould's Dg.</p>
+                <p id="b445-9" pgmap="445">. The court below held the defence to be good, and dismissed the bill. Rogers appealed.</p>
+                <p id="b445-10" pgmap="445">No authority has been cited, on the part of the appellant, to show that a deed, absolute upon its face, can be avoided by a subsequent condition resting upon a parol agreement.</p>
+                <p id="b445-11" pgmap="445">All the citations made for the appellant that affirm the effect of conditions, relate to conditions written in the grqnts.</p>
+                <p id="b445-12" pgmap="445">And with our notions of the worthlessness of parol defea­zances to the conveyance of interests expressed in the deed to be absolute, without authority inducing to the contrary, we should, upon general principles, affirm the decree in this case. But the affirmance of this decree need not rest on general principles.</p>
+                <p id="b445-13" pgmap="445(52) 446(27)">By the 10th section of the act establishing the county of Sebastian, Acts of 8th session, p. 83, it was enacted that the commissioners of Sebastian county should be subject to the restrictions then resting by law upon county commissioners, one of which restrictions is not to receive title deeds that con­rey lands to ihe county in fee simple with reservation or con­dition, whether the same accrued from donation or otherwise. Gould's Dig., src. 12, ch. 44.</p>
+                <p id="b446-5" pgmap="446">The commissioners, then, had no power to receive any dona­tion of land from Rogers with a reservation or limitation expressed in the deed; and, if so, they certainly had no right to attach a condition to Rogers’ absolute deed by parol agree­ment.</p>
+                <p id="b446-6" pgmap="446">This Rogers knew, or was obliged to know, it being the public law. The State vs. Allis, 18 Ark. 276. He also knew that the county could not be bound to continue the county-seat permanent!}' at Fort Smith, or the court-house upon the ground conveyed, as the County Court had full jurisdiction and power to remove the county-seat upon legal cause. Blackburn Ex parte 5 Ark. 22.</p>
+                <p id="b446-7" pgmap="446">No such contract of reconveyance to Rogers, as alleged in the bill, could have been lawfully made. Elwell vs. Tucker, 1 Blackf. 286.</p>
+                <p id="b446-8" pgmap="446">And without the restrictive provision of the Statute, the location of the county-seat could not be made to depend upon a contract with Rogers. The authority of the commissioners was to locate the county-seat with reference to the interests of the county alone, and not to make contracts fettering the free and legal action of the County Court, or sacrificing the property of the county. Armstrong vs. The Board of Commissioners, 4 Blackf. 214.</p>
+                <p id="b446-9" pgmap="446">The following extracts from an Opinion of the Supreme Court of Illinois, upon a case such as this would have been but for the restriction upon the commissioners contained in our law, are applicable, and meet with our approval:</p>
+                <p id="b446-10" pgmap="446(65) 447(128)">“ Nor was there any covenant or agreement that the money should be repaid; or that the land should revert, which had been donated to the county by the proprietors of Postville, under the several acts of the Legislature, to induce the location of the county-scat at that place. When the money was paid and the land conveyed, the donors knew that the county-scat might, when the good of ihe community should require it, be changed; and it must be presumed that they acted in view of such a contingency. Had tht-y intended to guard against the conse­quences of such a removal, they should have made an express agreement or reservation to that effect in the deed. So far from that, they made an absolute conveyance, without any reservation whatever. Even had an express agreement been made, at the time of the conveyance, that the land should revert in the case of the removal of the county-seat, it could not be proved by parol, but should have been expressed on the face of the deed, or at least in a separate writing.” Adams vs. The Comity of Logan, 11 Ill. R. 339.</p>
+                <p id="b447-5" pgmap="447">Upon general principles, and upon law specially applicable to this case, the decree is affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="442" ORDERLABEL="440" TYPE="page">
+        <fptr FILEID="tiff_00221_1"/>
+        <fptr FILEID="jp2_00221_1"/>
+        <fptr FILEID="alto_00221_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_442.2" BETYPE="IDREF" FILEID="alto_00221_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_442.3" BETYPE="IDREF" FILEID="alto_00221_1"/>
+              <area BEGIN="BL_442.4" BETYPE="IDREF" FILEID="alto_00221_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_442.7" BETYPE="IDREF" FILEID="alto_00221_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="443" ORDERLABEL="441" TYPE="page">
+        <fptr FILEID="tiff_00222_0"/>
+        <fptr FILEID="jp2_00222_0"/>
+        <fptr FILEID="alto_00222_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_443.2" BETYPE="IDREF" FILEID="alto_00222_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_443.1" BETYPE="IDREF" FILEID="alto_00222_0"/>
+              <area BEGIN="BL_443.3" BETYPE="IDREF" FILEID="alto_00222_0"/>
+              <area BEGIN="BL_443.15" BETYPE="IDREF" FILEID="alto_00222_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="444" ORDERLABEL="442" TYPE="page">
+        <fptr FILEID="tiff_00222_1"/>
+        <fptr FILEID="jp2_00222_1"/>
+        <fptr FILEID="alto_00222_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_444.2" BETYPE="IDREF" FILEID="alto_00222_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_444.3" BETYPE="IDREF" FILEID="alto_00222_1"/>
+              <area BEGIN="BL_444.4" BETYPE="IDREF" FILEID="alto_00222_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="445" ORDERLABEL="443" TYPE="page">
+        <fptr FILEID="tiff_00223_0"/>
+        <fptr FILEID="jp2_00223_0"/>
+        <fptr FILEID="alto_00223_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_445.3" BETYPE="IDREF" FILEID="alto_00223_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_445.2" BETYPE="IDREF" FILEID="alto_00223_0"/>
+              <area BEGIN="BL_445.4" BETYPE="IDREF" FILEID="alto_00223_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="446" ORDERLABEL="444" TYPE="page">
+        <fptr FILEID="tiff_00223_1"/>
+        <fptr FILEID="jp2_00223_1"/>
+        <fptr FILEID="alto_00223_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_446.2" BETYPE="IDREF" FILEID="alto_00223_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_446.3" BETYPE="IDREF" FILEID="alto_00223_1"/>
+              <area BEGIN="BL_446.4" BETYPE="IDREF" FILEID="alto_00223_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="447" ORDERLABEL="445" TYPE="page">
+        <fptr FILEID="tiff_00224_0"/>
+        <fptr FILEID="jp2_00224_0"/>
+        <fptr FILEID="alto_00224_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_447.3" BETYPE="IDREF" FILEID="alto_00224_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_447.2" BETYPE="IDREF" FILEID="alto_00224_0"/>
+              <area BEGIN="BL_447.4" BETYPE="IDREF" FILEID="alto_00224_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_447.6" BETYPE="IDREF" FILEID="alto_00224_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b445-13" BETYPE="IDREF" FILEID="casebody_0096"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_445.13" BETYPE="IDREF" FILEID="alto_00223_0"/>
+            <area BEGIN="BL_446.1" BETYPE="IDREF" FILEID="alto_00223_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b445-12" BETYPE="IDREF" FILEID="casebody_0096"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_445.12" BETYPE="IDREF" FILEID="alto_00223_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b445-11" BETYPE="IDREF" FILEID="casebody_0096"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_445.11" BETYPE="IDREF" FILEID="alto_00223_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b445-10" BETYPE="IDREF" FILEID="casebody_0096"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_445.10" BETYPE="IDREF" FILEID="alto_00223_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b443-11" BETYPE="IDREF" FILEID="casebody_0096"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_443.11" BETYPE="IDREF" FILEID="alto_00222_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b443-10" BETYPE="IDREF" FILEID="casebody_0096"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_443.10" BETYPE="IDREF" FILEID="alto_00222_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b443-13" BETYPE="IDREF" FILEID="casebody_0096"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_443.14" BETYPE="IDREF" FILEID="alto_00222_0"/>
+            <area BEGIN="BL_444.1" BETYPE="IDREF" FILEID="alto_00222_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b443-12" BETYPE="IDREF" FILEID="casebody_0096"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_443.13" BETYPE="IDREF" FILEID="alto_00222_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b444-6" BETYPE="IDREF" FILEID="casebody_0096"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_444.7" BETYPE="IDREF" FILEID="alto_00222_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b444-7" BETYPE="IDREF" FILEID="casebody_0096"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_444.8" BETYPE="IDREF" FILEID="alto_00222_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b444-4" BETYPE="IDREF" FILEID="casebody_0096"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_444.5" BETYPE="IDREF" FILEID="alto_00222_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b444-5" BETYPE="IDREF" FILEID="casebody_0096"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_444.6" BETYPE="IDREF" FILEID="alto_00222_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b446-6" BETYPE="IDREF" FILEID="casebody_0096"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_446.6" BETYPE="IDREF" FILEID="alto_00223_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b444-8" BETYPE="IDREF" FILEID="casebody_0096"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_444.9" BETYPE="IDREF" FILEID="alto_00222_1"/>
+            <area BEGIN="BL_445.1" BETYPE="IDREF" FILEID="alto_00223_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b445-9" BETYPE="IDREF" FILEID="casebody_0096"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_445.9" BETYPE="IDREF" FILEID="alto_00223_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b445-8" BETYPE="IDREF" FILEID="casebody_0096"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_445.8" BETYPE="IDREF" FILEID="alto_00223_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b443-5" BETYPE="IDREF" FILEID="casebody_0096"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_443.5" BETYPE="IDREF" FILEID="alto_00222_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b445-7" BETYPE="IDREF" FILEID="casebody_0096"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_445.7" BETYPE="IDREF" FILEID="alto_00223_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b445-6" BETYPE="IDREF" FILEID="casebody_0096"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_445.6" BETYPE="IDREF" FILEID="alto_00223_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b445-5" BETYPE="IDREF" FILEID="casebody_0096"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_445.5" BETYPE="IDREF" FILEID="alto_00223_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b442-9" BETYPE="IDREF" FILEID="casebody_0096"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_442.10" BETYPE="IDREF" FILEID="alto_00221_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b447-5" BETYPE="IDREF" FILEID="casebody_0096"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_447.5" BETYPE="IDREF" FILEID="alto_00224_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b446-10" BETYPE="IDREF" FILEID="casebody_0096"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_446.10" BETYPE="IDREF" FILEID="alto_00223_1"/>
+            <area BEGIN="BL_447.1" BETYPE="IDREF" FILEID="alto_00224_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b442-8" BETYPE="IDREF" FILEID="casebody_0096"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_442.9" BETYPE="IDREF" FILEID="alto_00221_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b443-4" BETYPE="IDREF" FILEID="casebody_0096"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_443.4" BETYPE="IDREF" FILEID="alto_00222_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b443-7" BETYPE="IDREF" FILEID="casebody_0096"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_443.7" BETYPE="IDREF" FILEID="alto_00222_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b443-6" BETYPE="IDREF" FILEID="casebody_0096"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_443.6" BETYPE="IDREF" FILEID="alto_00222_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b443-9" BETYPE="IDREF" FILEID="casebody_0096"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_443.9" BETYPE="IDREF" FILEID="alto_00222_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b443-8" BETYPE="IDREF" FILEID="casebody_0096"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_443.8" BETYPE="IDREF" FILEID="alto_00222_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b446-7" BETYPE="IDREF" FILEID="casebody_0096"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_446.7" BETYPE="IDREF" FILEID="alto_00223_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b442-7" BETYPE="IDREF" FILEID="casebody_0096"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_442.8" BETYPE="IDREF" FILEID="alto_00221_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b446-5" BETYPE="IDREF" FILEID="casebody_0096"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_446.5" BETYPE="IDREF" FILEID="alto_00223_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b446-8" BETYPE="IDREF" FILEID="casebody_0096"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_446.8" BETYPE="IDREF" FILEID="alto_00223_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b446-9" BETYPE="IDREF" FILEID="casebody_0096"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_446.9" BETYPE="IDREF" FILEID="alto_00223_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AIc" BETYPE="IDREF" FILEID="casebody_0096"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_443.12" BETYPE="IDREF" FILEID="alto_00222_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

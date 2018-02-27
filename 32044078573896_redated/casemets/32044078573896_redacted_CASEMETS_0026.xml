@@ -1,0 +1,536 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0026" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Ferguson v. Etter">Ferguson as ex. et al. vs. Etter et al.</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 160</citation>
+          <decisiondate>1860-01</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00081_1" MIMETYPE="image/tiff" CHECKSUM="5a146e1784623e06dd7e042d7b288f04" CHECKSUMTYPE="MD5" SIZE="28048">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00081_1.tif"/>
+      </file>
+      <file ID="tiff_00082_0" MIMETYPE="image/tiff" CHECKSUM="2145516c76b86dc0a294cbfbacc06469" CHECKSUMTYPE="MD5" SIZE="45012">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00082_0.tif"/>
+      </file>
+      <file ID="tiff_00082_1" MIMETYPE="image/tiff" CHECKSUM="376bfed36b4f788196513001542cb54b" CHECKSUMTYPE="MD5" SIZE="45684">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00082_1.tif"/>
+      </file>
+      <file ID="tiff_00083_0" MIMETYPE="image/tiff" CHECKSUM="3c00a38608941b9c711c7d5e57a5e67a" CHECKSUMTYPE="MD5" SIZE="46704">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00083_0.tif"/>
+      </file>
+      <file ID="tiff_00083_1" MIMETYPE="image/tiff" CHECKSUM="0006f17a64a9632e2f2b58e388f031e9" CHECKSUMTYPE="MD5" SIZE="38220">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00083_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00081_1" MIMETYPE="image/jp2" CHECKSUM="db8bcb9894652f06b26b99259eeb0d3f" CHECKSUMTYPE="MD5" SIZE="2453303">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00081_1.jp2"/>
+      </file>
+      <file ID="jp2_00082_0" MIMETYPE="image/jp2" CHECKSUM="9f05992f7b53895990e5648043151c00" CHECKSUMTYPE="MD5" SIZE="2634768">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00082_0.jp2"/>
+      </file>
+      <file ID="jp2_00082_1" MIMETYPE="image/jp2" CHECKSUM="1eb0856c127e6645fea039f44a46d77d" CHECKSUMTYPE="MD5" SIZE="2579779">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00082_1.jp2"/>
+      </file>
+      <file ID="jp2_00083_0" MIMETYPE="image/jp2" CHECKSUM="e02b505df4894fcf42edf8704690ba21" CHECKSUMTYPE="MD5" SIZE="2622882">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00083_0.jp2"/>
+      </file>
+      <file ID="jp2_00083_1" MIMETYPE="image/jp2" CHECKSUM="d0718a6eb5613b708a8dc06306bd6f4c" CHECKSUMTYPE="MD5" SIZE="2535844">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00083_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00081_1" MIMETYPE="text/xml" CHECKSUM="d6986b60992684a1e9f4097209316b79" CHECKSUMTYPE="MD5" SIZE="57286">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00081_1.xml"/>
+      </file>
+      <file ID="alto_00082_0" MIMETYPE="text/xml" CHECKSUM="978effb7d9f6fdb198b9c7ced3ba1a71" CHECKSUMTYPE="MD5" SIZE="91771">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00082_0.xml"/>
+      </file>
+      <file ID="alto_00082_1" MIMETYPE="text/xml" CHECKSUM="e68b7cfc45558cab16a9b8212ee03830" CHECKSUMTYPE="MD5" SIZE="89901">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00082_1.xml"/>
+      </file>
+      <file ID="alto_00083_0" MIMETYPE="text/xml" CHECKSUM="29bdb6e720612a7932a6cca90675610e" CHECKSUMTYPE="MD5" SIZE="93542">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00083_0.xml"/>
+      </file>
+      <file ID="alto_00083_1" MIMETYPE="text/xml" CHECKSUM="70fadc5bfa4594094a13fb8ba7281191" CHECKSUMTYPE="MD5" SIZE="81154">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00083_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0026" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="164" firstpage="160">
+              <parties id="b162-7" pgmap="162">Ferguson as ex. et al. vs. Etter et al.</parties>
+              <attorneys id="b162-11" pgmap="162">S. H. Hempstead for the appellants,</attorneys>
+              <attorneys id="b163-5" pgmap="163">Garland for the appellees.</attorneys>
+              <summary id="b162-10" pgmap="162">Appeal from Hempstead Circuit Court in Chancery.</summary>
+              <summary id="ATn" pgmap="162(4) 163(106)">contended that there was no legal, Adalid assessment of the land; that the sale by the col­lector wks void, and the deed conveyed no title to the purcha­sers: that the defendants were not estopped to deny the validity of the tax sale, because they did not hold under the tax title, nor did Maddux recognize Etter and Williams as joint owners, or promise to pay them rent, or admit them into possession: that if they were tenants in common, Maddux had claimed adversely, denying the joint title; had actual possession of the property nearly five years from the sale, unquestioned by those Avho noAV claim as joint tenants.</summary>
+              <summary id="b163-6" pgmap="163">In Bettison vs. Budd, 17 Ark. R., it is held that a tenant can purchase in land at a tax sale, and set up such title against his landlord; that he may show the title under which he entered, has expired, or has been extinguished, citing Jackson vs. Rov&gt;­land. 6 Wend. R. 670. Maddux cannot dispute the legality of the sale; for he has no claims under Miller, the original owner; there is no priAÚty between them, and until he, or his repre­sentatives, can ttike such a position in court, let the sale be as illegal as a sale could be, it lies not in their mouths to set it up.</summary>
+              <summary id="b163-7" pgmap="163">There is, then, no one to bring in question before the court, the validity of the tax sale, and the court has only to see if the complainants beloAv make out a prima jacie case. This they do most effectually. The deed is full — containing every necessary recital, and being evidence of the authority under which the sale was made, the description of the land, and the price for Avhich it was purchased, the court must grant the relief prayed for. Ark. Dig. p. 967, sec. 5; Pillow vs. Roberts, 13 How. U. S. R., 472; (7 Eng. 822;) Parker vs. Overman, 18 How. U. S. R. 137.</summary>
+              <headnotes id="b162-8" pgmap="162">It is lawful for a tenant in possession to purchase, at, tax sale, the lands of his landlord (Bcttison vs. Budd, 17 Ark. 546,) and the sale, if valid, not only extin­guishes the landlord’s title but cuts off the lease.</headnotes>
+              <headnotes id="b162-9" pgmap="162">A tenant in common, under a joint purchase at a tax sale, who has held possession of the premises under the title thus acqnired, and enjoyed the rents and profits, is estopped to sot up that the tax sale was void, on a bill by his co-tenants for parti­tion and for account of rents and profits.</headnotes>
+              <opinion type="majority">
+                <author id="b163-8" pgmap="163">Mr. Justice Compton</author>
+                <p id="ADk" pgmap="163">delivered the opinion of the Court.</p>
+                <p id="b163-9" pgmap="163(31) 164(31)">The bill was exhibited by Daniel E. Williams and William H. Etter, against the executor and devisees under the will of Thomas H. W. Maddux, deceased, for partition of certain lands described as lots 1, 2, 3^ and 4, in block 8, and lot 3, in block 22, situate in the town of Washington; and for an account of rents and profits.</p>
+                <p id="b164-5" pgmap="164">The court decreed for the complainants and the defendants appealed.</p>
+                <p id="b164-6" pgmap="164">It appears that at a sale of the premises for taxes, .made by the sheriff on the 3d November, 1851, the complainants and Maddux, the testator, became the purchasers, to whom as ten­ants in common, the sheriff, on the 20th November, 1852, made a deed in due form, containing the usual recitals.</p>
+                <p id="b164-7" pgmap="164">At the time of the sale, Maddux was in possession of the premises under a lease from one Miller, who was the former owner; and after the sale continued in possession until the day of his death, recognizing the validit}' of the sale, and holding under it. By his will he disposed of his undivided interest in the premises to certain of his devisees, who are made defend­ants to the bill.</p>
+                <p id="b164-8" pgmap="164">The defence was that.the sale for taxes was void, and did not divest the title of Miller, which the defendants allege is out­standing and paramount.</p>
+                <p id="AlC" pgmap="164">Some of the objections relied on to impeach the- validity of the sale, relate to the assessment of the lots, and are similar to those urged in Kinsworthy et al. vs. Mitchell &amp; wife, at the pre­sent term, and which the court decided were not maintainable. Other objections, however, are taken, and especially that rela­ting to the assessment for back taxes for a period anterior to the formation of the State government. But whether well taken or not, it is immaterial to enquire, as the defendants are estop­ped to set them up.</p>
+                <p id="b164-10" pgmap="164(78) 165(197)">Under our system, the particular lands taxed are, by express legislation, made liable for the taxes, Gould's Dig! chap. 148, sections 106, 133; the legal effect of which is to make the State first creditor for the taxes, and give her a lien for the payment paramount to all individual claims. In other words, it makes the taxes a charge which attaches to the land under all circum­stances, regardless of incumbrances, or the rights of any one whomsoever. See Merrick Fenno vs. Hutt, 15 Ark. 340, 343. So that the sale of the lots, if valid, not only extinguished the title of Miller, but also cut off the lease from him to Mad­dux. And though Maddux was in possession at the date of the sale, as the tenant of Miller, it was, nevertheless, lawful for him to become the purchaser of the premises, as held in Bettison vs. Budd, 17 Ark. 546; and having become such'purchaser jointly with the complainants, and the deed of the sheriff to him and the complainants, as tenants in common,being prima facie evi­dence of valid legal title, Gossett vs. Kent, 19 Ark. 611, and having held the premises under the tax title thus acquired, and enjoyed the rents and profits, he could not have been heard to set up an outstanding title in a stranger, in order to defeat a partition, and protect himself against liability to his co-tenants for the rents and profits. See Proprietors of Bahitree vs. Bat­tles, 6 Vermont, 395; Jackson vs. Kinman, 10 John. 291; and his executors and devisees stand in no better situation. Let the decree be affirmed with costs.</p>
+              </opinion>
+              <opinion type="dissent">
+                <author id="b165-5" pgmap="165">Mr. Justice Rector,</author>
+                <p id="Ahk" pgmap="165">dissenting.</p>
+                <p id="b165-6" pgmap="165">• So much of the opinion of the court as intimates a decision sustaining the validity of the tax tille set up by complainants in the court below, I dissent from, for the reasons, first: The assessment of 1851, under which the sale was made, compre­hended the taxes supposed to be due for the years 1831 to 1836 inclusive, in all which years the territorial government existed» and I find no authority, either in the State constitution or in the acts of the legislature, directing or empowering the State authorities to assess or collect the unpaid territorial tax, county or State: and a sale bad for a part is so for the whole, as is well established.</p>
+                <p id="b165-7" pgmap="165(61) 166(67)">Again: the law requires the sheriff or assessor to assess the lands as “ best he can,” and the presumption is, until the con­trary is proven, that in making an assessment, he has done his duty. But if, as in this case, he sees proper to stultify himself by testifying in the case, that he made no assessment at all himself, but copied into his own book an assessment madehiy another person, having no official connection with his office and having no legal right to make an assessment, the presump­tion is destroyed, and the proposition established that he did not assess the lands “as best he could” — hence not as the law required him; and the act becomes void, and lays no foundation for title.</p>
+                <p id="b166-5" pgmap="166">But it is proven that Maddux repudiated the lease taken from Miller, the original owner; for by agreement with his co-tenants, Williams and Etter, he erected and used a house upon the pre­mises, and therefore is estopped from disputing or calling in question their title in any way, whether'it be void or otherwise.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="162" ORDERLABEL="160" TYPE="page">
+        <fptr FILEID="tiff_00081_1"/>
+        <fptr FILEID="jp2_00081_1"/>
+        <fptr FILEID="alto_00081_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_162.1" BETYPE="IDREF" FILEID="alto_00081_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_162.2" BETYPE="IDREF" FILEID="alto_00081_1"/>
+              <area BEGIN="BL_162.3" BETYPE="IDREF" FILEID="alto_00081_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_162.8" BETYPE="IDREF" FILEID="alto_00081_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="163" ORDERLABEL="161" TYPE="page">
+        <fptr FILEID="tiff_00082_0"/>
+        <fptr FILEID="jp2_00082_0"/>
+        <fptr FILEID="alto_00082_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_163.3" BETYPE="IDREF" FILEID="alto_00082_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_163.2" BETYPE="IDREF" FILEID="alto_00082_0"/>
+              <area BEGIN="BL_163.4" BETYPE="IDREF" FILEID="alto_00082_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="164" ORDERLABEL="162" TYPE="page">
+        <fptr FILEID="tiff_00082_1"/>
+        <fptr FILEID="jp2_00082_1"/>
+        <fptr FILEID="alto_00082_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_164.2" BETYPE="IDREF" FILEID="alto_00082_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_164.3" BETYPE="IDREF" FILEID="alto_00082_1"/>
+              <area BEGIN="BL_164.4" BETYPE="IDREF" FILEID="alto_00082_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="165" ORDERLABEL="163" TYPE="page">
+        <fptr FILEID="tiff_00083_0"/>
+        <fptr FILEID="jp2_00083_0"/>
+        <fptr FILEID="alto_00083_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_165.3" BETYPE="IDREF" FILEID="alto_00083_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_165.2" BETYPE="IDREF" FILEID="alto_00083_0"/>
+              <area BEGIN="BL_165.4" BETYPE="IDREF" FILEID="alto_00083_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="166" ORDERLABEL="164" TYPE="page">
+        <fptr FILEID="tiff_00083_1"/>
+        <fptr FILEID="jp2_00083_1"/>
+        <fptr FILEID="alto_00083_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_166.2" BETYPE="IDREF" FILEID="alto_00083_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_166.3" BETYPE="IDREF" FILEID="alto_00083_1"/>
+              <area BEGIN="BL_166.4" BETYPE="IDREF" FILEID="alto_00083_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_166.6" BETYPE="IDREF" FILEID="alto_00083_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b162-11" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_162.13" BETYPE="IDREF" FILEID="alto_00081_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b162-10" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_162.12" BETYPE="IDREF" FILEID="alto_00081_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AlC" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_164.9" BETYPE="IDREF" FILEID="alto_00082_1"/>
+            <area BEGIN="BL_164.10" BETYPE="IDREF" FILEID="alto_00082_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b164-5" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_164.5" BETYPE="IDREF" FILEID="alto_00082_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b164-7" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_164.7" BETYPE="IDREF" FILEID="alto_00082_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b164-6" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_164.6" BETYPE="IDREF" FILEID="alto_00082_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b165-5" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_165.5" BETYPE="IDREF" FILEID="alto_00083_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b165-6" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_165.7" BETYPE="IDREF" FILEID="alto_00083_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b165-7" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_165.8" BETYPE="IDREF" FILEID="alto_00083_0"/>
+            <area BEGIN="BL_166.1" BETYPE="IDREF" FILEID="alto_00083_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b163-6" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_163.6" BETYPE="IDREF" FILEID="alto_00082_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b164-8" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_164.8" BETYPE="IDREF" FILEID="alto_00082_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ADk" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_163.9" BETYPE="IDREF" FILEID="alto_00082_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b163-5" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_163.5" BETYPE="IDREF" FILEID="alto_00082_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b164-10" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_164.11" BETYPE="IDREF" FILEID="alto_00082_1"/>
+            <area BEGIN="BL_165.1" BETYPE="IDREF" FILEID="alto_00083_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ATn" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_162.14" BETYPE="IDREF" FILEID="alto_00081_1"/>
+            <area BEGIN="BL_163.1" BETYPE="IDREF" FILEID="alto_00082_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b163-8" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_163.8" BETYPE="IDREF" FILEID="alto_00082_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b166-5" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_166.5" BETYPE="IDREF" FILEID="alto_00083_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b163-7" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_163.7" BETYPE="IDREF" FILEID="alto_00082_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b162-7" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_162.9" BETYPE="IDREF" FILEID="alto_00081_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b163-9" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_163.10" BETYPE="IDREF" FILEID="alto_00082_0"/>
+            <area BEGIN="BL_164.1" BETYPE="IDREF" FILEID="alto_00082_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ahk" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_165.6" BETYPE="IDREF" FILEID="alto_00083_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b162-9" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_162.11" BETYPE="IDREF" FILEID="alto_00081_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b162-8" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_162.10" BETYPE="IDREF" FILEID="alto_00081_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

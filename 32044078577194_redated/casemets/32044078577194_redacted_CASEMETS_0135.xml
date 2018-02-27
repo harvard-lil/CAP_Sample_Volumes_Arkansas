@@ -1,0 +1,396 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0135" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Shaver v. Vowell">Jeff SHAVER and Eileen SHAVER, Husband and Wife, v. Mark VOWELL</name>
+          <docketnumber>85-325</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 558</citation>
+          <citation category="parallel" type="bluebook">707 S.W.2d 772</citation>
+          <decisiondate>1986-04-21</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:01Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00298_1" MIMETYPE="image/tiff" CHECKSUM="a8fbf48694ef5ee74182e58c5f61badf" CHECKSUMTYPE="MD5" SIZE="21490">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00298_1.tif"/>
+      </file>
+      <file ID="tiff_00299_0" MIMETYPE="image/tiff" CHECKSUM="384e204148c4663ffa7ed869ccb81060" CHECKSUMTYPE="MD5" SIZE="46880">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00299_0.tif"/>
+      </file>
+      <file ID="tiff_00299_1" MIMETYPE="image/tiff" CHECKSUM="c08b58b245ef9113b420437b2f0992b7" CHECKSUMTYPE="MD5" SIZE="42956">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00299_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00298_1" MIMETYPE="image/jp2" CHECKSUM="8932d50073133d139aea61ac88b3f1fb" CHECKSUMTYPE="MD5" SIZE="1789924">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00298_1.jp2"/>
+      </file>
+      <file ID="jp2_00299_0" MIMETYPE="image/jp2" CHECKSUM="39abf8ff71e41bd20732e9c48332be6a" CHECKSUMTYPE="MD5" SIZE="2401850">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00299_0.jp2"/>
+      </file>
+      <file ID="jp2_00299_1" MIMETYPE="image/jp2" CHECKSUM="d605551dbd1f4c50a09e5803765f6d0c" CHECKSUMTYPE="MD5" SIZE="2450701">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00299_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00298_1" MIMETYPE="text/xml" CHECKSUM="47e21f8e4dcb9a37ae40bb82836a9b3b" CHECKSUMTYPE="MD5" SIZE="33685">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00298_1.xml"/>
+      </file>
+      <file ID="alto_00299_0" MIMETYPE="text/xml" CHECKSUM="dab12f3ed640d43ce5e144f6408b1e8c" CHECKSUMTYPE="MD5" SIZE="81965">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00299_0.xml"/>
+      </file>
+      <file ID="alto_00299_1" MIMETYPE="text/xml" CHECKSUM="e34c8550475be71a8fdbaa42c01d8c28" CHECKSUMTYPE="MD5" SIZE="72254">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00299_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0135" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="558" lastpage="560">
+              <court pgmap="596" id="b596-12">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="596" id="b596-10">85-325</docketnumber>
+              <citation pgmap="596" id="b596-11">707 S.W.2d 772</citation>
+              <parties pgmap="596" id="b596-9">Jeff SHAVER and Eileen SHAVER, Husband and Wife, v. Mark VOWELL</parties>
+              <decisiondate pgmap="596" id="A7d">Opinion delivered April 21, 1986</decisiondate>
+              <judges pgmap="598" id="b598-9">Purtle, J., not participating.</judges>
+              <attorneys pgmap="597" id="b597-7">Curtis E. Hogue, for appellants.</attorneys>
+              <attorneys pgmap="597" id="b597-8">Davis, Cox &amp; Wright, by: Constance G. Clark, for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="597" id="b597-9">Robert H. Dudley, Justice.</author>
+                <p pgmap="597" id="AlCY">This appeal is from a jury verdict in a suit over a car wreck. We affirm the jury verdict.</p>
+                <p pgmap="597" id="b597-10">Appellant, Eileen Shaver, was driving her automobile on rain-slickened Highway 68 near Marble when a truck suddenly stopped in front of her. She was unable to stop her car without hitting the rear of the truck. Close behind, appellee, Mark Vowell, was unable to stop his car and ran into the rear of appellant’s vehicle. The jury found that appellee was 80% at fault and appellant was 20% at fault. Damages of $5,718.00 were awarded which resulted in a judgment of $4,574.86, after deducting the 20%.</p>
+                <p pgmap="597" id="b597-11">Appellant first contends that there was insufficient evidence to support a finding that she was at fault to any degree as compared to the fault of appellee. She maintains that any negligence on her part in “tapping” the truck in front of her has no bearing on the issue of negligence because that accident was already over when appellee ran into the rear of her car. However, there was substantial evidence that the sequence of events could be viewed as one whole occurrence which was partially occa­sioned because she was following the truck in front of her too closely, or was traveling too fast, or did not stop her car soon enough.</p>
+                <p pgmap="597" id="b597-12">
+                   We do not reverse the verdict of a jury if there is substantial evidence to support it. Shelton v. Firestone Tire &amp; Rubber Co., 281 Ark. 100, 662 S.W.2d 473 (1983). The weighing of fault is peculiarly a jury function and, where there is negligence by all parties, we will rarely disturb that weighing. Harrell Motors, Inc. v. Flanery, 272 Ark. 105, 612 S.W.2d 727 (1981). Since, on appeal, we view the evidence in the light most favorable to appellee, we will not reverse the jury’s finding that appellant was 20% at fault.</p>
+                <p pgmap="597(10) 598(36)" id="b597-13">Appellants’ next point for reversal is that the jury verdict was inadequate. The argument merits only limited discussion. Appellant contends that the amounts awarded for the elements of medical expenses and lost income were inadequate, and the jury should have awarded damages for pain and suffering.</p>
+                <p pgmap="598" id="b598-6">
+                   The evidence on the elements of damage for medical expenses and lost income was in conflict, and where a jury returns a verdict for substantial damages on conflicting evidence, a judgment entered thereon will not be disturbed on appeal even though the evidence would have sustained a verdict for a greater amount. Pickett Lake Farms v. Sullivan, 245 Ark. 709, 434 S.W.2d 88 (1968).</p>
+                <p pgmap="598" id="b598-7">The jury made no award for pain and suffering experienced in the past by appellant, Eileen Shaver. With respect to that element of damage, it is important to note that she testified that by the time the police arrived at the accident scene she felt no pain and did not believe she was really hurt. In fact, Mrs. Shaver told the investigating police officer that she was not injured. She did not seek medical treatment until four weeks after the accident, and was then treated by Dr. Box, a medical doctor, only one time. Dr. Box did not testify. She later went to Dr. Sevcik, a chiroprac­tor, but she had not seen him in a year and a half. She admitted at trial, and the jury obviously observed, that she could move her head freely up and down and to the side. She testified that the only medication she had ever taken for the pain was Tylenol, and that she only took it “sometimes.” This evidence .was sufficient to create serious doubt in the jury’s mind as to whether appellant, Eileen Shaver, truly experienced pain and suffering sufficient to entitle her to an award of damages.</p>
+                <p pgmap="598" id="b598-8">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="596" ORDERLABEL="558" TYPE="page">
+        <fptr FILEID="tiff_00298_1"/>
+        <fptr FILEID="jp2_00298_1"/>
+        <fptr FILEID="alto_00298_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_596.2" BETYPE="IDREF" FILEID="alto_00298_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="597" ORDERLABEL="559" TYPE="page">
+        <fptr FILEID="tiff_00299_0"/>
+        <fptr FILEID="jp2_00299_0"/>
+        <fptr FILEID="alto_00299_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_597.3" BETYPE="IDREF" FILEID="alto_00299_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="598" ORDERLABEL="560" TYPE="page">
+        <fptr FILEID="tiff_00299_1"/>
+        <fptr FILEID="jp2_00299_1"/>
+        <fptr FILEID="alto_00299_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_598.2" BETYPE="IDREF" FILEID="alto_00299_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b596-10" BETYPE="IDREF" FILEID="casebody_0135"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_596.9" BETYPE="IDREF" FILEID="alto_00298_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b596-11" BETYPE="IDREF" FILEID="casebody_0135"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_596.10" BETYPE="IDREF" FILEID="alto_00298_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b596-12" BETYPE="IDREF" FILEID="casebody_0135"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_596.11" BETYPE="IDREF" FILEID="alto_00298_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A7d" BETYPE="IDREF" FILEID="casebody_0135"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_596.12" BETYPE="IDREF" FILEID="alto_00298_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b598-6" BETYPE="IDREF" FILEID="casebody_0135"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_598.4" BETYPE="IDREF" FILEID="alto_00299_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b598-7" BETYPE="IDREF" FILEID="casebody_0135"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_598.5" BETYPE="IDREF" FILEID="alto_00299_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b597-7" BETYPE="IDREF" FILEID="casebody_0135"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_597.6" BETYPE="IDREF" FILEID="alto_00299_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b596-9" BETYPE="IDREF" FILEID="casebody_0135"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_596.8" BETYPE="IDREF" FILEID="alto_00298_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b597-9" BETYPE="IDREF" FILEID="casebody_0135"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_597.8" BETYPE="IDREF" FILEID="alto_00299_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b597-8" BETYPE="IDREF" FILEID="casebody_0135"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_597.7" BETYPE="IDREF" FILEID="alto_00299_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b598-8" BETYPE="IDREF" FILEID="casebody_0135"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_598.6" BETYPE="IDREF" FILEID="alto_00299_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b598-9" BETYPE="IDREF" FILEID="casebody_0135"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_598.7" BETYPE="IDREF" FILEID="alto_00299_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b597-13" BETYPE="IDREF" FILEID="casebody_0135"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_597.14" BETYPE="IDREF" FILEID="alto_00299_0"/>
+            <area BEGIN="BL_598.1" BETYPE="IDREF" FILEID="alto_00299_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b597-12" BETYPE="IDREF" FILEID="casebody_0135"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_597.13" BETYPE="IDREF" FILEID="alto_00299_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b597-11" BETYPE="IDREF" FILEID="casebody_0135"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_597.12" BETYPE="IDREF" FILEID="alto_00299_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b597-10" BETYPE="IDREF" FILEID="casebody_0135"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_597.11" BETYPE="IDREF" FILEID="alto_00299_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AlCY" BETYPE="IDREF" FILEID="casebody_0135"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_597.9" BETYPE="IDREF" FILEID="alto_00299_0"/>
+            <area BEGIN="BL_597.10" BETYPE="IDREF" FILEID="alto_00299_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

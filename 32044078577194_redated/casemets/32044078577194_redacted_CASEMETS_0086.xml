@@ -1,0 +1,634 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0086" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Cokeley v. State">Dickie COKELEY v. STATE of Arkansas</name>
+          <docketnumber>CR 85-147</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 349</citation>
+          <citation category="parallel" type="bluebook">705 S.W.2d 425</citation>
+          <decisiondate>1986-03-17</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:00Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00192_0" MIMETYPE="image/tiff" CHECKSUM="b52309e58b571edf2c3efe19775a7cdb" CHECKSUMTYPE="MD5" SIZE="32010">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00192_0.tif"/>
+      </file>
+      <file ID="tiff_00192_1" MIMETYPE="image/tiff" CHECKSUM="e18026a9e88752366faf66a17b8ec980" CHECKSUMTYPE="MD5" SIZE="18256">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00192_1.tif"/>
+      </file>
+      <file ID="tiff_00193_0" MIMETYPE="image/tiff" CHECKSUM="44461a6d12aeede66d8d9f2d2a79e37e" CHECKSUMTYPE="MD5" SIZE="51498">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00193_0.tif"/>
+      </file>
+      <file ID="tiff_00193_1" MIMETYPE="image/tiff" CHECKSUM="3d4633c8cdabb84f612bf2f7d61583b7" CHECKSUMTYPE="MD5" SIZE="54400">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00193_1.tif"/>
+      </file>
+      <file ID="tiff_00194_0" MIMETYPE="image/tiff" CHECKSUM="9ca8bd42efab2d72421e137a452cae2a" CHECKSUMTYPE="MD5" SIZE="50814">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00194_0.tif"/>
+      </file>
+      <file ID="tiff_00194_1" MIMETYPE="image/tiff" CHECKSUM="333bab0d356ff7512c5f851cffe31b8d" CHECKSUMTYPE="MD5" SIZE="38996">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00194_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00192_0" MIMETYPE="image/jp2" CHECKSUM="71102dd9bb8f275ecfad43dcf1723d90" CHECKSUMTYPE="MD5" SIZE="2222246">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00192_0.jp2"/>
+      </file>
+      <file ID="jp2_00192_1" MIMETYPE="image/jp2" CHECKSUM="9e0eb1a0cb9139e8abb637e1642b41f6" CHECKSUMTYPE="MD5" SIZE="1541334">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00192_1.jp2"/>
+      </file>
+      <file ID="jp2_00193_0" MIMETYPE="image/jp2" CHECKSUM="07e4af0d1ccafdb5c680c331c2242856" CHECKSUMTYPE="MD5" SIZE="2522054">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00193_0.jp2"/>
+      </file>
+      <file ID="jp2_00193_1" MIMETYPE="image/jp2" CHECKSUM="db05ccb53225871f5c19d6e80f6b40c6" CHECKSUMTYPE="MD5" SIZE="2585483">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00193_1.jp2"/>
+      </file>
+      <file ID="jp2_00194_0" MIMETYPE="image/jp2" CHECKSUM="3b828b4691421aab9658c6e1abefb39a" CHECKSUMTYPE="MD5" SIZE="2547887">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00194_0.jp2"/>
+      </file>
+      <file ID="jp2_00194_1" MIMETYPE="image/jp2" CHECKSUM="2244f27b8fbc7f8dd7d6a2848d8eefbc" CHECKSUMTYPE="MD5" SIZE="2400576">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00194_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00192_0" MIMETYPE="text/xml" CHECKSUM="7c6d13f83a288e8dff1241332bef1cf4" CHECKSUMTYPE="MD5" SIZE="55910">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00192_0.xml"/>
+      </file>
+      <file ID="alto_00192_1" MIMETYPE="text/xml" CHECKSUM="db85d2ba459eeab501e45875c38b375d" CHECKSUMTYPE="MD5" SIZE="28513">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00192_1.xml"/>
+      </file>
+      <file ID="alto_00193_0" MIMETYPE="text/xml" CHECKSUM="438a5dd4609ae2ae70ae403868d70fd9" CHECKSUMTYPE="MD5" SIZE="88065">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00193_0.xml"/>
+      </file>
+      <file ID="alto_00193_1" MIMETYPE="text/xml" CHECKSUM="c437828ae6dbb3a99220b3401facc7a5" CHECKSUMTYPE="MD5" SIZE="89514">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00193_1.xml"/>
+      </file>
+      <file ID="alto_00194_0" MIMETYPE="text/xml" CHECKSUM="390c64ddc8e30071e599b6d5fcc0f5da" CHECKSUMTYPE="MD5" SIZE="87706">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00194_0.xml"/>
+      </file>
+      <file ID="alto_00194_1" MIMETYPE="text/xml" CHECKSUM="c916e1ddecd0aad507251944e081a984" CHECKSUMTYPE="MD5" SIZE="65035">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00194_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0086" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="349" lastpage="354">
+              <court pgmap="383" id="b383-9">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="383" id="Ap_">CR 85-147</docketnumber>
+              <citation pgmap="383" id="A_T">705 S.W.2d 425</citation>
+              <parties pgmap="383" id="b383-8">Dickie COKELEY v. STATE of Arkansas</parties>
+              <decisiondate pgmap="383" id="A4O">Opinion delivered March 17, 1986</decisiondate>
+              <otherdate pgmap="383" id="Add">[Rehearing denied April 21, 1986.<footnotemark>*</footnotemark>]</otherdate>
+              <judges pgmap="387" id="b387-9">Purtle, J., not participating.</judges>
+              <judges pgmap="387" id="b387-10">Dudley and Newbern, JJ., dissent.</judges>
+              <judges pgmap="388" id="b388-9">Newbern, J., joins in this dissent.</judges>
+              <attorneys pgmap="384" id="b384-11">James E. Davis, for appellant.</attorneys>
+              <attorneys pgmap="384" id="b384-12">Steve Clark, Att’y Gen., by: Connie Griffin, Asst. Att’y Gen., for appellee.</attorneys>
+              <footnote label="*">
+                <p pgmap="383" id="b383-11">* Purtle, J., not participating.</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="384" id="b384-13">Darrell Hickman, Justice.</author>
+                <p pgmap="384" id="AX-z">This appeal raises the question of whether it is error to instruct the jury that rape can be committed by engaging in sexual intercourse or deviate sexual activity when only sexual intercourse is charged. We find no error since there is no demonstration of prejudice. There was substan­tial evidence of both sexual acts in this case.</p>
+                <p pgmap="384(33) 385(119)" id="b384-14">
+                   This issue was first considered in Clayborn v. State, 278 Ark. 533, 647 S.W.2d 433 (1983). There we held that even though the evidence was sufficient to support a finding of guilt, the conviction must be reversed because the defendant was only charged with raping the woman by deviate sexual activity, not by sexual intercourse. The main basis of our decision was that two separate crimes of rape exist: rape by sexual intercourse and rape by deviate sexual activity. We said “. . . two different crimes are involved. . .and the essential elements of the crimes differ.” We were wrong in that regard and overrule Clayborn v. State, supra, as it conflicts with our later decisions and our holding in this case. Ark. Stat. Ann. § 41-1803 (Supp. 1985) provides for just one offense of rape with two different ways of commission. The statute itself sets forth the elements of rape:</p>
+                <blockquote pgmap="385" id="b385-4">(1) A person commits rape if he engages in sexual intercourse or deviate sexual activity with another person:</blockquote>
+                <blockquote pgmap="385" id="b385-5">(a) by forcible compulsion;</blockquote>
+                <p pgmap="385" id="b385-6">The elements of the offense are the sexual act and forcible compulsion. Clayborn interpreted the statute to read that the reference to different kinds of sexual acts created two separate crimes.</p>
+                <p pgmap="385" id="b385-7">In our most recent decision on this statute, we clearly rejected the rationale in Clayborn. In Wood v. State, 287 Ark. 203, 697 S.W.2d 884 (1985), we held there is only one crime of rape under Ark. Stat. Ann. § 41-1803. Wood had been charged with rape by sexual intercourse. At the trial he changed his story by saying he had merely fingered the victim instead of having sexual intercourse with her. The state was allowed to amend the information charging rape either by sexual intercourse or deviate sexual activity. The court instructed the jury that the state had the burden of proving rape by “either sexual intercourse or deviate sexual activity.” We said “[t]he amendment did not change the nature or degree of the crime.” Our holding was contrary to Clayborn v. State, supra.</p>
+                <p pgmap="385(64) 386(100)" id="b385-8">Several other recent decisions support this reasoning. Before Clayborn, in Browning v. State, 274 Ark. 13, 621 S.W.2d 688 (1981), we permitted the introduction of evidence of deviate sexual activity although the charge was rape by sexual inter­course. We did so for two reasons: a general charge of rape was made under the statute which had not been challenged by a bill of particulars, and the state was entitled to prove the entire criminal episode. In two cases since Clayborn, we unanimously held that there is only one offense of driving while intoxicated with two ways of violating the act, either by operating or controlling a vehicle while intoxicated or operating or controlling a vehicle when blood alcohol content is 0.10% or more. Yacono v. State, 285 Ark. 130, 685 S.W.2d 500 (1985); Wilson v. State, 285 Ark. 257, 685 S.W.2d 811 (1985). In Wilson the defendant was charged under one subsection of the act but convicted under the other subsection. We said:</p>
+                <blockquote pgmap="386" id="b386-4">The appellant next argues that he was charged under subsection (b) of the act but was convicted under subsec­tion (a) of the act, and therefore, his conviction must be reversed. Again, the argument is without merit. The charging instrument, whether a citation or information, is not in the record. The municipal court appeal transcript reflects that appellant was ‘charged with the offense of DWI one.’ Other parts of the record indicate that he was charged with ‘DWI one.’ Such a charge is sufficient even though the evidentiary requirements of the subsections are different. (Italics supplied.)</blockquote>
+                <p pgmap="386" id="b386-5">The case before us presents almost the same question we had in Clayborn. Cokeley was charged with rape by sexual inter­course. The victim testified she was beaten, threatened with a knife, forced to commit oral sex on Cokeley and raped by sexual intercourse. Cokeley’s defense was consent. He did not deny he was with the victim or that sexual acts occurred. He said the victim voluntarily committed oral sex on him. He said he could not get an erection so they did not have sexual intercourse. Cokeley also claimed he was intoxicated. The victim’s testimony was corroborated by passersby who picked her up in the middle of the night when she ran naked from Cokeley’s vehicle. She was immediately taken to a police station, later submitted to a medical examination and subsequently made a statement to the police in which she said she was raped by sexual intercourse and forced to commit oral sex.</p>
+                <p pgmap="386(30) 387(83)" id="b386-6">
+                   The trial court simply instructed the jury according to the statute that a person commits rape if he engages in sexual intercourse or deviate sexual activity with another person by forcible compulsion and defined the two acts. The evidence supports a finding of guilt of rape by either or both means. The issue in this case is not the manner of the rape, but whether rape by forcible compulsion indeed occurred. There is no argument that there is not substantial evidence to support a finding that Cokeley raped the victim either way. Cokeley was convicted of the crime with which he was charged — rape. It was not error to give the instruction.</p>
+                <p pgmap="387" id="b387-6">
+                   No bill of particulars was filed in this case. The victim had stated to the police in a written statement, provided to the defense, that both types of sexual misconduct occurred; the prosecuting attorney argued in his opening statement that both sexual intercourse and oral sex occurred. Cokeley cannot claim surprise by the evidence of deviate sexual activity.</p>
+                <p pgmap="387" id="b387-7">We need not speculate on the outcome if a homosexual were charged with the rape by sexual intercourse of a person of the same sex and that defendant timely objected and demonstrated prejudice. The only question before us in this case and those cases cited are whether one crime of rape exists with two means of commission or whether rape is two separate crimes; and whether prejudicial error is demonstrated.</p>
+                <p pgmap="387" id="b387-8">
+                   Since there is only one crime of rape with two possible means of commission, Cokeley was not prejudiced by the jury being instructed as to the two sexual acts that could be committed to constitute rape. There was substantial evidence of both acts. We will not reverse a lower court’s decision unless there is prejudicial error. Berna v. State, 282 Ark. 563, 670 S.W.2d 434 (1984). Finding no prejudice, we affirm the conviction.</p>
+              </opinion>
+              <opinion type="dissent">
+                <author pgmap="387" id="b387-11">Robert H. Dudley, Justice,</author>
+                <p pgmap="387" id="ACl">dissenting. The majority overrule Clayborn v. State, 278 Ark. 533, 647 S.W.2d 433 (1983), and hold that rape by sexual intercourse and rape by deviate sexual activity are the same crime and involve the same elements of proof. I cannot agree with that rationale.</p>
+                <p pgmap="387(25) 388(24)" id="b387-12">The crime of rape by deviate sexual activity is a neuter gender crime. Either a male or a female can be the victim or the perpetrator of the crime. It includes homosexual conduct as well as most types of unnatural heterosexual conduct. Ark. Stat. Ann. § 41-1801 (Supp. 1985).</p>
+                <p pgmap="388" id="b388-6">The crime of forcibly engaging in sexual intercourse is a separately defined crime and is limited to the heterosexual act of penetration of a vagina by a penis. Ark. Stat. Ann. § 41-1801(9) (Supp. 1985).</p>
+                <p pgmap="388" id="b388-7">The acts are not of the same general character, and rape by sexual intercourse does not contain all of the elements of rape by deviate sexual activity. Thus, they are two separate crimes. Correspondingly, the charge of rape by sexual intercourse filed in this case did not include the charge of rape by deviate sexual activity. Under the instructions given, the appellant may stand convicted of rape by deviate sexual activity, a charge not made. Conviction upon a charge not made is a sheer denial of due process. Thornhill v. Alabama, 310 U.S. 88, 96 (1939).</p>
+                <p pgmap="388" id="b388-8">Of course, the appellant may well have been found guilty of the crime with which he was charged. However, the conclusion does not follow that the case should be affirmed, for the appellant may just as well have been found guilty of the crime with which he was not charged, and that would constitute the denial of due process. Since it is impossible to determine from the general verdict of guilty the crime for which appellant was convicted, the conviction cannot be upheld. Stromberg v. California, 283 U.S. 359, 368 (1931). An appellate court should not speculate on which charge a defendant was found guilty in order to uphold a conviction.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="383" ORDERLABEL="349" TYPE="page">
+        <fptr FILEID="tiff_00192_0"/>
+        <fptr FILEID="jp2_00192_0"/>
+        <fptr FILEID="alto_00192_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_383.3" BETYPE="IDREF" FILEID="alto_00192_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="384" ORDERLABEL="350" TYPE="page">
+        <fptr FILEID="tiff_00192_1"/>
+        <fptr FILEID="jp2_00192_1"/>
+        <fptr FILEID="alto_00192_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_384.1" BETYPE="IDREF" FILEID="alto_00192_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="385" ORDERLABEL="351" TYPE="page">
+        <fptr FILEID="tiff_00193_0"/>
+        <fptr FILEID="jp2_00193_0"/>
+        <fptr FILEID="alto_00193_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_385.3" BETYPE="IDREF" FILEID="alto_00193_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="386" ORDERLABEL="352" TYPE="page">
+        <fptr FILEID="tiff_00193_1"/>
+        <fptr FILEID="jp2_00193_1"/>
+        <fptr FILEID="alto_00193_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_386.2" BETYPE="IDREF" FILEID="alto_00193_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="387" ORDERLABEL="353" TYPE="page">
+        <fptr FILEID="tiff_00194_0"/>
+        <fptr FILEID="jp2_00194_0"/>
+        <fptr FILEID="alto_00194_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_387.3" BETYPE="IDREF" FILEID="alto_00194_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="388" ORDERLABEL="354" TYPE="page">
+        <fptr FILEID="tiff_00194_1"/>
+        <fptr FILEID="jp2_00194_1"/>
+        <fptr FILEID="alto_00194_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_388.2" BETYPE="IDREF" FILEID="alto_00194_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A4O" BETYPE="IDREF" FILEID="casebody_0086"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_383.11" BETYPE="IDREF" FILEID="alto_00192_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AX-z" BETYPE="IDREF" FILEID="casebody_0086"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_384.13" BETYPE="IDREF" FILEID="alto_00192_1"/>
+            <area BEGIN="BL_384.14" BETYPE="IDREF" FILEID="alto_00192_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b388-9" BETYPE="IDREF" FILEID="casebody_0086"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_388.7" BETYPE="IDREF" FILEID="alto_00194_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b388-8" BETYPE="IDREF" FILEID="casebody_0086"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_388.6" BETYPE="IDREF" FILEID="alto_00194_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b388-7" BETYPE="IDREF" FILEID="casebody_0086"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_388.5" BETYPE="IDREF" FILEID="alto_00194_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b388-6" BETYPE="IDREF" FILEID="casebody_0086"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_388.4" BETYPE="IDREF" FILEID="alto_00194_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b384-11" BETYPE="IDREF" FILEID="casebody_0086"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_384.10" BETYPE="IDREF" FILEID="alto_00192_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b384-13" BETYPE="IDREF" FILEID="casebody_0086"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_384.12" BETYPE="IDREF" FILEID="alto_00192_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b384-12" BETYPE="IDREF" FILEID="casebody_0086"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_384.11" BETYPE="IDREF" FILEID="alto_00192_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b385-8" BETYPE="IDREF" FILEID="casebody_0086"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_385.8" BETYPE="IDREF" FILEID="alto_00193_0"/>
+            <area BEGIN="BL_386.1" BETYPE="IDREF" FILEID="alto_00193_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b384-14" BETYPE="IDREF" FILEID="casebody_0086"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_384.15" BETYPE="IDREF" FILEID="alto_00192_1"/>
+            <area BEGIN="BL_385.1" BETYPE="IDREF" FILEID="alto_00193_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b385-5" BETYPE="IDREF" FILEID="casebody_0086"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_385.5" BETYPE="IDREF" FILEID="alto_00193_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A_T" BETYPE="IDREF" FILEID="casebody_0086"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_383.9" BETYPE="IDREF" FILEID="alto_00192_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Add" BETYPE="IDREF" FILEID="casebody_0086"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_383.12" BETYPE="IDREF" FILEID="alto_00192_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b385-6" BETYPE="IDREF" FILEID="casebody_0086"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_385.6" BETYPE="IDREF" FILEID="alto_00193_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b387-9" BETYPE="IDREF" FILEID="casebody_0086"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_387.7" BETYPE="IDREF" FILEID="alto_00194_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b387-8" BETYPE="IDREF" FILEID="casebody_0086"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_387.6" BETYPE="IDREF" FILEID="alto_00194_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ap_" BETYPE="IDREF" FILEID="casebody_0086"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_383.8" BETYPE="IDREF" FILEID="alto_00192_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b385-7" BETYPE="IDREF" FILEID="casebody_0086"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_385.7" BETYPE="IDREF" FILEID="alto_00193_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b383-11" BETYPE="IDREF" FILEID="casebody_0086"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_383.14" BETYPE="IDREF" FILEID="alto_00192_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b386-6" BETYPE="IDREF" FILEID="casebody_0086"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_386.6" BETYPE="IDREF" FILEID="alto_00193_1"/>
+            <area BEGIN="BL_387.1" BETYPE="IDREF" FILEID="alto_00194_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ACl" BETYPE="IDREF" FILEID="casebody_0086"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_387.10" BETYPE="IDREF" FILEID="alto_00194_0"/>
+            <area BEGIN="BL_387.11" BETYPE="IDREF" FILEID="alto_00194_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b386-5" BETYPE="IDREF" FILEID="casebody_0086"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_386.5" BETYPE="IDREF" FILEID="alto_00193_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b387-10" BETYPE="IDREF" FILEID="casebody_0086"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_387.8" BETYPE="IDREF" FILEID="alto_00194_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b387-11" BETYPE="IDREF" FILEID="casebody_0086"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_387.9" BETYPE="IDREF" FILEID="alto_00194_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b387-12" BETYPE="IDREF" FILEID="casebody_0086"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_387.12" BETYPE="IDREF" FILEID="alto_00194_0"/>
+            <area BEGIN="BL_388.1" BETYPE="IDREF" FILEID="alto_00194_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b386-4" BETYPE="IDREF" FILEID="casebody_0086"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_386.4" BETYPE="IDREF" FILEID="alto_00193_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b385-4" BETYPE="IDREF" FILEID="casebody_0086"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_385.4" BETYPE="IDREF" FILEID="alto_00193_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b383-8" BETYPE="IDREF" FILEID="casebody_0086"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_383.7" BETYPE="IDREF" FILEID="alto_00192_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b383-9" BETYPE="IDREF" FILEID="casebody_0086"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_383.10" BETYPE="IDREF" FILEID="alto_00192_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b387-6" BETYPE="IDREF" FILEID="casebody_0086"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_387.4" BETYPE="IDREF" FILEID="alto_00194_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b387-7" BETYPE="IDREF" FILEID="casebody_0086"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_387.5" BETYPE="IDREF" FILEID="alto_00194_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

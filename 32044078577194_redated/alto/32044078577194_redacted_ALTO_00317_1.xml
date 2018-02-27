@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#">
+  <!--Created by Innodata R.E.D. RLI tool: 2017-04-25 06:27:40.214030-->
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>32044078577194_00317_1.tif</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OP_1">
+      <ocrProcessingStep>
+        <processingStepDescription>Alto coordinates refer to the deskewed TIFF file. 
+		To convert point (x, y) to original image (TIFF or JP2) apply transformation matrix T=(m00, m01, m10, m11, b0, b1) using the rule:
+			T * (x,y) = (m00 * x + m01 * y + b0), (m10 * x + m11 * y + b1)</processingStepDescription>
+        <processingStepSettings>RED.transform=(0.9999875000260416, 0.004999979166692708, -0.004999979166692708, 0.9999875000260416, -12.699999999999955, 0.6199999999998909)</processingStepSettings>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Styles>
+    <TextStyle FONTFAMILY="Times New Roman" FONTSIZE="10.00" FONTTYPE="serif" FONTWIDTH="proportional" ID="Style_3"/>
+    <TextStyle FONTFAMILY="Times New Roman" FONTSIZE="11.00" FONTSTYLE="italics" FONTTYPE="serif" FONTWIDTH="proportional" ID="Style_6"/>
+  </Styles>
+  <Tags>
+    <StructureTag ID="b634-1" LABEL="pagelabel"/>
+    <StructureTag ID="b634-16" LABEL="attorneys"/>
+  </Tags>
+  <Layout>
+    <Page HEIGHT="2687" ID="PG_634" PHYSICAL_IMG_NR="634" WIDTH="1660">
+      <PrintSpace HEIGHT="2687" HPOS="0" ID="PS_634" VPOS="0" WIDTH="1660">
+        <TextBlock HEIGHT="34.0" HPOS="290.0" ID="BL_634.2" TAGREFS="b634-1" VPOS="259.0" WIDTH="67.0">
+          <TextLine HEIGHT="34" HPOS="290" ID="TL_634.2.1" VPOS="259" WIDTH="67">
+            <String CONTENT="596" HEIGHT="34" HPOS="290" ID="ST_634.2.1.1" STYLEREFS="Style_3" VPOS="259" WIDTH="67" WC="0.88" CC="000" TAGREFS=""/>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HEIGHT="44.0" HPOS="382.0" ID="BL_634.13" TAGREFS="b634-16" VPOS="2393.0" WIDTH="685.0">
+          <TextLine HEIGHT="44" HPOS="382" ID="TL_634.13.1" VPOS="2393" WIDTH="685">
+            <String CONTENT="James" HEIGHT="33" HPOS="382" ID="ST_634.13.1.1" STYLEREFS="Style_6" VPOS="2396" WIDTH="122" WC="0.97" CC="00000" TAGREFS=""/>
+            <SP HPOS="504" ID="SP_634.13.1.2" VPOS="2395" WIDTH="24"/>
+            <String CONTENT="W." HEIGHT="33" HPOS="528" ID="ST_634.13.1.3" STYLEREFS="Style_6" VPOS="2395" WIDTH="46" WC="0.96" CC="00" TAGREFS=""/>
+            <SP HPOS="574" ID="SP_634.13.1.4" VPOS="2393" WIDTH="22"/>
+            <String CONTENT="Haddock," HEIGHT="41" HPOS="596" ID="ST_634.13.1.5" STYLEREFS="Style_6" VPOS="2393" WIDTH="189" WC="0.94" CC="00000000" TAGREFS=""/>
+            <SP HPOS="785" ID="SP_634.13.1.6" VPOS="2393" WIDTH="22"/>
+            <String CONTENT="for" HEIGHT="35" HPOS="807" ID="ST_634.13.1.7" STYLEREFS="Style_3" VPOS="2393" WIDTH="53" WC="0.95" CC="000" TAGREFS=""/>
+            <SP HPOS="860" ID="SP_634.13.1.8" VPOS="2393" WIDTH="20"/>
+            <String CONTENT="appellant." HEIGHT="44" HPOS="880" ID="ST_634.13.1.9" STYLEREFS="Style_3" VPOS="2393" WIDTH="187" WC="1.00" CC="0000000000" TAGREFS=""/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

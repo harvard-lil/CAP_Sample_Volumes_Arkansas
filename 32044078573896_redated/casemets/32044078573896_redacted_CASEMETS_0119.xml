@@ -1,0 +1,417 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0119" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Moreland v. Gilliam">Moreland vs. Gilliam Adm.</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 507</citation>
+          <decisiondate>1860-07</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00255_0" MIMETYPE="image/tiff" CHECKSUM="6f4f7e400f19d3d375d70fa570da4aa7" CHECKSUMTYPE="MD5" SIZE="32112">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00255_0.tif"/>
+      </file>
+      <file ID="tiff_00255_1" MIMETYPE="image/tiff" CHECKSUM="a2c30375609d7c21b1253d320c9c1caf" CHECKSUMTYPE="MD5" SIZE="45642">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00255_1.tif"/>
+      </file>
+      <file ID="tiff_00256_0" MIMETYPE="image/tiff" CHECKSUM="6015d101c9673457a4dd31ad8c2c6994" CHECKSUMTYPE="MD5" SIZE="25628">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00256_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00255_0" MIMETYPE="image/jp2" CHECKSUM="2beba406b246ffd5bf600ebbe9dfbc16" CHECKSUMTYPE="MD5" SIZE="2421996">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00255_0.jp2"/>
+      </file>
+      <file ID="jp2_00255_1" MIMETYPE="image/jp2" CHECKSUM="3a06ef257f57019ec857ac1f0cbfa125" CHECKSUMTYPE="MD5" SIZE="2437695">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00255_1.jp2"/>
+      </file>
+      <file ID="jp2_00256_0" MIMETYPE="image/jp2" CHECKSUM="8b2ab4d3cb879f498f8c289f195cc254" CHECKSUMTYPE="MD5" SIZE="2328690">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00256_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00255_0" MIMETYPE="text/xml" CHECKSUM="3accce6aa9abeefb4d3101e167ae4c0b" CHECKSUMTYPE="MD5" SIZE="60375">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00255_0.xml"/>
+      </file>
+      <file ID="alto_00255_1" MIMETYPE="text/xml" CHECKSUM="dc3ab302ea6e066cb78858f32eafe313" CHECKSUMTYPE="MD5" SIZE="74811">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00255_1.xml"/>
+      </file>
+      <file ID="alto_00256_0" MIMETYPE="text/xml" CHECKSUM="77685684add0eeb602ad5a69d60ec990" CHECKSUMTYPE="MD5" SIZE="53503">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00256_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0119" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="509" firstpage="507">
+              <parties id="b509-8" pgmap="509">Moreland vs. Gilliam Adm.</parties>
+              <attorneys id="b509-12" pgmap="509">Bertrand, for the appellant,</attorneys>
+              <attorneys id="b510-4" pgmap="510">Fowler &amp; Stillwell, for the appellee.</attorneys>
+              <summary id="b509-11" pgmap="509">Appeal from Pulaski Circuit Court.</summary>
+              <summary id="Ay-" pgmap="509">Hon. John J. Clendenin, Circuit Judge.</summary>
+              <summary id="APa" pgmap="509(5) 510(68)">contended that the Circuit Court had. no jurisdiction, because there was no bill of exceptions set­ting out the testimony on the trial in the Probate Court: that in Dempsey vs. Fenno, (16 Ark. 491,) it was decided that a bill of exceptions was unnecessary where the record itself presents everything necessary to a full adjudication of the case; but in this case there was testimony, which does not appear upon the record.</summary>
+              <headnotes id="b509-9" pgmap="509">The Probate Court having allowed expenses of administration of the husband’s estate, against the estate of his widow, the Circuit Court properly reversed the' judgment.</headnotes>
+              <headnotes id="b509-10" pgmap="509">No bill of exceptions is necessary to give the Circuit Court jurisdiction, on appeal from the Probate Court, where the error appears upon the record.</headnotes>
+              <opinion type="majority">
+                <author id="b510-5" pgmap="510">Mr. Justice Fairchild</author>
+                <p id="AiB" pgmap="510">delivered the opinion of the court.</p>
+                <p id="b510-6" pgmap="510">Moreland had been the administrator of Wiley Beasley, and in defending law suits as such administrator, had incurred costs, as he claimed, to the amount of one hundred and seventeen dollars and ninety cents.</p>
+                <p id="b510-7" pgmap="510">Gilliam had become the administrator of Lucy Beasley; where­upon without presentation of the claim to Gilliam, and without notice to him, Moreland presented his petition to the Probate Court of Pulaski county, at its October term 1857, to have the aforementioned sum allowed to him out of the estate of Lucy Beasley, as expenses of the administration of Wiley Beasley’s estate.</p>
+                <p id="b510-8" pgmap="510">The Probate Court sustained the petition, and ordered the allowance to be made.</p>
+                <p id="b510-9" pgmap="510">On a subsequent day, at the same term, Gilliam appeared in the Probate Court, and prayed and obtained an appeal against the allowance to the Circuit Court.</p>
+                <p id="AKd" pgmap="510">There the judgment of the Probate Court was reversed, and on hearing of the case in the Circuit Court, judgment was rendered against Moreland.</p>
+                <p id="b510-11" pgmap="510">No reason is shown why Lucy Beasley’s estate should be charged with the account presented in Moreland’s petition. We do not see how expenses of administration could be allowed against her estate, but at the instance of its representative, and for moneys paid out in the. course of the administration of that estate.</p>
+                <p id="b511-3" pgmap="511">No bill of exceptions was necessary to give the Circuit Court jurisdiction, the error appearing upon the record of the Probate Court. Dempsey vs. Fenno, 16 Ark. 493; Jones vs. Jones, 21 Ark.</p>
+                <p id="b511-4" pgmap="511">The judgment of the Circuit Court is affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="509" ORDERLABEL="507" TYPE="page">
+        <fptr FILEID="tiff_00255_0"/>
+        <fptr FILEID="jp2_00255_0"/>
+        <fptr FILEID="alto_00255_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_509.3" BETYPE="IDREF" FILEID="alto_00255_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_509.2" BETYPE="IDREF" FILEID="alto_00255_0"/>
+              <area BEGIN="BL_509.4" BETYPE="IDREF" FILEID="alto_00255_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_509.7" BETYPE="IDREF" FILEID="alto_00255_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="510" ORDERLABEL="508" TYPE="page">
+        <fptr FILEID="tiff_00255_1"/>
+        <fptr FILEID="jp2_00255_1"/>
+        <fptr FILEID="alto_00255_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_510.2" BETYPE="IDREF" FILEID="alto_00255_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_510.3" BETYPE="IDREF" FILEID="alto_00255_1"/>
+              <area BEGIN="BL_510.4" BETYPE="IDREF" FILEID="alto_00255_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="511" ORDERLABEL="509" TYPE="page">
+        <fptr FILEID="tiff_00256_0"/>
+        <fptr FILEID="jp2_00256_0"/>
+        <fptr FILEID="alto_00256_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_511.2" BETYPE="IDREF" FILEID="alto_00256_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_511.1" BETYPE="IDREF" FILEID="alto_00256_0"/>
+              <area BEGIN="BL_511.3" BETYPE="IDREF" FILEID="alto_00256_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_511.6" BETYPE="IDREF" FILEID="alto_00256_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b510-4" BETYPE="IDREF" FILEID="casebody_0119"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_510.5" BETYPE="IDREF" FILEID="alto_00255_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b510-5" BETYPE="IDREF" FILEID="casebody_0119"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_510.6" BETYPE="IDREF" FILEID="alto_00255_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b510-6" BETYPE="IDREF" FILEID="casebody_0119"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_510.8" BETYPE="IDREF" FILEID="alto_00255_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ay-" BETYPE="IDREF" FILEID="casebody_0119"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_509.12" BETYPE="IDREF" FILEID="alto_00255_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AKd" BETYPE="IDREF" FILEID="casebody_0119"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_510.12" BETYPE="IDREF" FILEID="alto_00255_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b510-8" BETYPE="IDREF" FILEID="casebody_0119"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_510.10" BETYPE="IDREF" FILEID="alto_00255_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b510-9" BETYPE="IDREF" FILEID="casebody_0119"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_510.11" BETYPE="IDREF" FILEID="alto_00255_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b509-8" BETYPE="IDREF" FILEID="casebody_0119"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_509.8" BETYPE="IDREF" FILEID="alto_00255_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b509-9" BETYPE="IDREF" FILEID="casebody_0119"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_509.9" BETYPE="IDREF" FILEID="alto_00255_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="APa" BETYPE="IDREF" FILEID="casebody_0119"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_509.14" BETYPE="IDREF" FILEID="alto_00255_0"/>
+            <area BEGIN="BL_510.1" BETYPE="IDREF" FILEID="alto_00255_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b510-7" BETYPE="IDREF" FILEID="casebody_0119"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_510.9" BETYPE="IDREF" FILEID="alto_00255_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b509-10" BETYPE="IDREF" FILEID="casebody_0119"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_509.10" BETYPE="IDREF" FILEID="alto_00255_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b509-11" BETYPE="IDREF" FILEID="casebody_0119"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_509.11" BETYPE="IDREF" FILEID="alto_00255_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b509-12" BETYPE="IDREF" FILEID="casebody_0119"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_509.13" BETYPE="IDREF" FILEID="alto_00255_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b511-3" BETYPE="IDREF" FILEID="casebody_0119"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_511.4" BETYPE="IDREF" FILEID="alto_00256_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AiB" BETYPE="IDREF" FILEID="casebody_0119"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_510.7" BETYPE="IDREF" FILEID="alto_00255_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b511-4" BETYPE="IDREF" FILEID="casebody_0119"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_511.5" BETYPE="IDREF" FILEID="alto_00256_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b510-11" BETYPE="IDREF" FILEID="casebody_0119"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_510.13" BETYPE="IDREF" FILEID="alto_00255_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

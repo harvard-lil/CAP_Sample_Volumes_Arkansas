@@ -1,0 +1,469 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0120" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Powell v. State">Powell vs. The State</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 509</citation>
+          <decisiondate>1860-07</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00256_0" MIMETYPE="image/tiff" CHECKSUM="6015d101c9673457a4dd31ad8c2c6994" CHECKSUMTYPE="MD5" SIZE="25628">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00256_0.tif"/>
+      </file>
+      <file ID="tiff_00256_1" MIMETYPE="image/tiff" CHECKSUM="aef5d2db674b67efc39a1292366160c7" CHECKSUMTYPE="MD5" SIZE="49224">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00256_1.tif"/>
+      </file>
+      <file ID="tiff_00257_0" MIMETYPE="image/tiff" CHECKSUM="9d80ffdf8b7b2865dc32d908144ce6a1" CHECKSUMTYPE="MD5" SIZE="46578">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00257_0.tif"/>
+      </file>
+      <file ID="tiff_00257_1" MIMETYPE="image/tiff" CHECKSUM="876ae518a60fa176f80ed7e0ebd3a79d" CHECKSUMTYPE="MD5" SIZE="27026">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00257_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00256_0" MIMETYPE="image/jp2" CHECKSUM="8b2ab4d3cb879f498f8c289f195cc254" CHECKSUMTYPE="MD5" SIZE="2328690">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00256_0.jp2"/>
+      </file>
+      <file ID="jp2_00256_1" MIMETYPE="image/jp2" CHECKSUM="1afbfcf964491ca67ef26b5e4c38bf52" CHECKSUMTYPE="MD5" SIZE="2531488">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00256_1.jp2"/>
+      </file>
+      <file ID="jp2_00257_0" MIMETYPE="image/jp2" CHECKSUM="c5a67887d66623035a817659366e4d5d" CHECKSUMTYPE="MD5" SIZE="2504473">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00257_0.jp2"/>
+      </file>
+      <file ID="jp2_00257_1" MIMETYPE="image/jp2" CHECKSUM="93a58c308e192179aa85d0d68bcbbaa7" CHECKSUMTYPE="MD5" SIZE="2318381">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00257_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00256_0" MIMETYPE="text/xml" CHECKSUM="77685684add0eeb602ad5a69d60ec990" CHECKSUMTYPE="MD5" SIZE="53503">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00256_0.xml"/>
+      </file>
+      <file ID="alto_00256_1" MIMETYPE="text/xml" CHECKSUM="d0c232ee412346ddf7427a7ff269101c" CHECKSUMTYPE="MD5" SIZE="92886">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00256_1.xml"/>
+      </file>
+      <file ID="alto_00257_0" MIMETYPE="text/xml" CHECKSUM="4e845543aa734210e63782b318a782a2" CHECKSUMTYPE="MD5" SIZE="89733">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00257_0.xml"/>
+      </file>
+      <file ID="alto_00257_1" MIMETYPE="text/xml" CHECKSUM="3743af75857171f1615e67d913facbfb" CHECKSUMTYPE="MD5" SIZE="53448">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00257_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0120" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="512" firstpage="509">
+              <parties id="b511-5" pgmap="511">Powell vs. The State.</parties>
+              <attorneys id="Am9" pgmap="511">Thomason, for appellant.</attorneys>
+              <attorneys id="b511-10" pgmap="511">Hollowell, Attorney General, for appellee.</attorneys>
+              <summary id="b511-8" pgmap="511">Appeal from Crawford Circuit Court.</summary>
+              <summary id="b511-9" pgmap="511">Hon. John M. Wilson, Circuit Judge.</summary>
+              <headnotes id="b511-6" pgmap="511">Any employment of a slave about a retail grocery or dram shop, such as sweep­ing the house, rolling barrels, and bringing water, and the like, is sufficient to con­stitute the offence prohibited by sec. 20, ch. 169, Gould’s Digest.</headnotes>
+              <headnotes id="b511-7" pgmap="511">On the trial of an indictment for such offence, an instruction that if the jury find the defendant guilty, their discretion, in fixing the amount of the fine, was a legal discretion which they could not disregard; that it would be a wrong exercise of it to assess the highest damages for the least aggravated offence, and to assess the lowest penalty for the most aggravated offence, and to do otherwise would not accord with their oath as jurors, is neither contrary to law, nor calculated to mis­lead the jury, nor a usurpation by the court over the jury.</headnotes>
+              <opinion type="majority">
+                <author id="b512-4" pgmap="512">Mr. Justice Fairchild</author>
+                <p id="ArW" pgmap="512">delivered the opinion of the court.</p>
+                <p id="b512-5" pgmap="512">Three counts of the indictment in this case were quashed, but the third was held to be good by the Circuit Court, and charged Powell with employing his slave John in a retail grocery, where ardent spirits were sold in quantities less than a quart.</p>
+                <p id="b512-6" pgmap="512">To this count Powell pleaded not guilty, and on trial it was proved by two witnesses, that Powell and John W. Wallace kept a dram shop in Yan Burén, in Crawford county, during the year previous to the finding of the indictment; that John was frequently in the dram shop, seeming to be kept about the house to bring water, sweep, go on errands, and the like, and that he frequently was sent to set out liquors to customers, and that they could not say whether John belonged to Powell or to Wallace.</p>
+                <p id="b512-7" pgmap="512">By another witness the same facts of employment of John were proven, only that the witness had frequently seen John both serve|customers, and receive the pay therefor; that he was frequently alone at the grocery in charge of it, and that he, frequently, or generally, .slept in the grocery, as the witness thought; that he brought water, swept the house, -would bring out Powell’s horse, and appeared to be kept about the estab­lishment to do anything Powell &amp; Wallace wanted to have done; that John was a mulatto, reported to belong to Powell, and that witness had heard Powell claim him as his.</p>
+                <p id="b512-8" pgmap="512">The court instructed the jury, that to establish the offence, it was sufficient to prove that the slave was employed in the grocery, and that such employment as sweeping the house, roll­ing barrels, and bringing water and the like, was sufficient to constitute the offence.</p>
+                <p id="b512-9" pgmap="512(81) 513(27)">Although in this case the proof is positive, that the slave did more in the grocery than to sweep, bring water, roll barrels and the like, by helping customers to liquor, and the instruction might have been as broad as the facts, yet it was right. What is prohibited by the statute is the employment of a slave about the grocery, doubtless for the evil example to other negroes, and for the facilities thereby afforded to them to obtain liquor; and any employment of a slave, by which he has, or may have access to ardent spirits, is within the mischief apprehended, and prohibition enforced by the act.</p>
+                <p id="b513-5" pgmap="513">There was no error in this instruction.</p>
+                <p id="b513-6" pgmap="513">The court also instructed the jury that if they found the defendant guilty, they would assess the fine at any sum between fifty and one hundred dollars; that in fixing the amount, they should be governed by the circumstances and aggravations of the offence; that this discretion in fixing the amount, was a legal discretion which they could not disregard; that it would be a wrong exercise of it, to assess the highest damages for the least aggravated offence, or to assess the lowest penalty lor the most aggravated offence, and that to do otherwise would not accord with their oaths as jurors.</p>
+                <p id="b513-7" pgmap="513">This instruction is the subject of vehement complaint by the counsel of Powell.</p>
+                <p id="b513-8" pgmap="513">The court did not assume that Powell was guilty, with the least, or the most aggravation, or that he was guilty at all, and although the taste of the counsel is much shocked that the court should speak to the jury of what might be, or not, a violation of their oath, we do not think the instruction was illegal, or cal­culated to mislead the jury; and therefore the defendant is not entitled to any relief here on account of the instruction. Even if we thought the chai’ge questionable in point of propriety, which we do not say, it would not be as much so, as for the court itself, on account of the chai’ge, to be accused of extrava­gant language and dictatorial assumption.</p>
+                <p id="b513-9" pgmap="513">By the verdict of the jury the defendant’s fine was assessed at seventy-five dcllai's. He moved for a new trial because the verdict was against evidence and law, because the charge of the court was contrary to law, and a usurpation of the province of the jury. The motion was overruled, and he excepted, set­ting out the evidence, instructions and motion for a new trial, and appealed.</p>
+                <p id="b513-10" pgmap="513(22) 514(34)">We have already decided that the instructions were not con­trary to law, or calculated to mislead the jux-y, and we now decide that there was no usurpation by the court over the jury, and that the verdict was not contrary to law and evidence, or either, and that the appellant take nothing by his appeal.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="511" ORDERLABEL="509" TYPE="page">
+        <fptr FILEID="tiff_00256_0"/>
+        <fptr FILEID="jp2_00256_0"/>
+        <fptr FILEID="alto_00256_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_511.2" BETYPE="IDREF" FILEID="alto_00256_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_511.1" BETYPE="IDREF" FILEID="alto_00256_0"/>
+              <area BEGIN="BL_511.3" BETYPE="IDREF" FILEID="alto_00256_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_511.6" BETYPE="IDREF" FILEID="alto_00256_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="512" ORDERLABEL="510" TYPE="page">
+        <fptr FILEID="tiff_00256_1"/>
+        <fptr FILEID="jp2_00256_1"/>
+        <fptr FILEID="alto_00256_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_512.1" BETYPE="IDREF" FILEID="alto_00256_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_512.2" BETYPE="IDREF" FILEID="alto_00256_1"/>
+              <area BEGIN="BL_512.3" BETYPE="IDREF" FILEID="alto_00256_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="513" ORDERLABEL="511" TYPE="page">
+        <fptr FILEID="tiff_00257_0"/>
+        <fptr FILEID="jp2_00257_0"/>
+        <fptr FILEID="alto_00257_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_513.3" BETYPE="IDREF" FILEID="alto_00257_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_513.2" BETYPE="IDREF" FILEID="alto_00257_0"/>
+              <area BEGIN="BL_513.4" BETYPE="IDREF" FILEID="alto_00257_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="514" ORDERLABEL="512" TYPE="page">
+        <fptr FILEID="tiff_00257_1"/>
+        <fptr FILEID="jp2_00257_1"/>
+        <fptr FILEID="alto_00257_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_514.2" BETYPE="IDREF" FILEID="alto_00257_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_514.3" BETYPE="IDREF" FILEID="alto_00257_1"/>
+              <area BEGIN="BL_514.4" BETYPE="IDREF" FILEID="alto_00257_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_514.5" BETYPE="IDREF" FILEID="alto_00257_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b512-9" BETYPE="IDREF" FILEID="casebody_0120"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_512.10" BETYPE="IDREF" FILEID="alto_00256_1"/>
+            <area BEGIN="BL_513.1" BETYPE="IDREF" FILEID="alto_00257_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b512-6" BETYPE="IDREF" FILEID="casebody_0120"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_512.7" BETYPE="IDREF" FILEID="alto_00256_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b512-7" BETYPE="IDREF" FILEID="casebody_0120"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_512.8" BETYPE="IDREF" FILEID="alto_00256_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b512-4" BETYPE="IDREF" FILEID="casebody_0120"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_512.4" BETYPE="IDREF" FILEID="alto_00256_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b512-5" BETYPE="IDREF" FILEID="casebody_0120"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_512.6" BETYPE="IDREF" FILEID="alto_00256_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b513-7" BETYPE="IDREF" FILEID="casebody_0120"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_513.7" BETYPE="IDREF" FILEID="alto_00257_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b512-8" BETYPE="IDREF" FILEID="casebody_0120"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_512.9" BETYPE="IDREF" FILEID="alto_00256_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Am9" BETYPE="IDREF" FILEID="casebody_0120"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_511.12" BETYPE="IDREF" FILEID="alto_00256_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b511-10" BETYPE="IDREF" FILEID="casebody_0120"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_511.13" BETYPE="IDREF" FILEID="alto_00256_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b511-9" BETYPE="IDREF" FILEID="casebody_0120"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_511.11" BETYPE="IDREF" FILEID="alto_00256_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b511-8" BETYPE="IDREF" FILEID="casebody_0120"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_511.10" BETYPE="IDREF" FILEID="alto_00256_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b513-9" BETYPE="IDREF" FILEID="casebody_0120"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_513.9" BETYPE="IDREF" FILEID="alto_00257_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b513-8" BETYPE="IDREF" FILEID="casebody_0120"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_513.8" BETYPE="IDREF" FILEID="alto_00257_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ArW" BETYPE="IDREF" FILEID="casebody_0120"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_512.5" BETYPE="IDREF" FILEID="alto_00256_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b513-6" BETYPE="IDREF" FILEID="casebody_0120"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_513.6" BETYPE="IDREF" FILEID="alto_00257_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b513-5" BETYPE="IDREF" FILEID="casebody_0120"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_513.5" BETYPE="IDREF" FILEID="alto_00257_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b513-10" BETYPE="IDREF" FILEID="casebody_0120"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_513.10" BETYPE="IDREF" FILEID="alto_00257_0"/>
+            <area BEGIN="BL_514.1" BETYPE="IDREF" FILEID="alto_00257_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b511-5" BETYPE="IDREF" FILEID="casebody_0120"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_511.7" BETYPE="IDREF" FILEID="alto_00256_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b511-7" BETYPE="IDREF" FILEID="casebody_0120"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_511.9" BETYPE="IDREF" FILEID="alto_00256_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b511-6" BETYPE="IDREF" FILEID="casebody_0120"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_511.8" BETYPE="IDREF" FILEID="alto_00256_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

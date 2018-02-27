@@ -1,0 +1,567 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0033" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Wilburn v. State">Wilburn vs. The State</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 198</citation>
+          <decisiondate>1860-01</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00100_1" MIMETYPE="image/tiff" CHECKSUM="3b9641b5976a01bd1b31c6163ddfe956" CHECKSUMTYPE="MD5" SIZE="36254">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00100_1.tif"/>
+      </file>
+      <file ID="tiff_00101_0" MIMETYPE="image/tiff" CHECKSUM="b8fe000cb924f9d24344dea97055f4f3" CHECKSUMTYPE="MD5" SIZE="45868">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00101_0.tif"/>
+      </file>
+      <file ID="tiff_00101_1" MIMETYPE="image/tiff" CHECKSUM="7eac1ae34145e8d0a629e7cabb0a2a21" CHECKSUMTYPE="MD5" SIZE="48190">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00101_1.tif"/>
+      </file>
+      <file ID="tiff_00102_0" MIMETYPE="image/tiff" CHECKSUM="dc39cb71230d38077311405f348ead80" CHECKSUMTYPE="MD5" SIZE="48642">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00102_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00100_1" MIMETYPE="image/jp2" CHECKSUM="6f5895f1a335626b6a28a20c4e97b63b" CHECKSUMTYPE="MD5" SIZE="2444208">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00100_1.jp2"/>
+      </file>
+      <file ID="jp2_00101_0" MIMETYPE="image/jp2" CHECKSUM="54bb0888c093e17d66daedfa443ad799" CHECKSUMTYPE="MD5" SIZE="2598381">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00101_0.jp2"/>
+      </file>
+      <file ID="jp2_00101_1" MIMETYPE="image/jp2" CHECKSUM="554da1bc64544a8214c8ceeb5b8bc0b3" CHECKSUMTYPE="MD5" SIZE="2635579">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00101_1.jp2"/>
+      </file>
+      <file ID="jp2_00102_0" MIMETYPE="image/jp2" CHECKSUM="7671b91a067ec468233c5663011c9753" CHECKSUMTYPE="MD5" SIZE="2648331">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00102_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00100_1" MIMETYPE="text/xml" CHECKSUM="bba1962d934db93d70a0ff10115896bc" CHECKSUMTYPE="MD5" SIZE="77999">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00100_1.xml"/>
+      </file>
+      <file ID="alto_00101_0" MIMETYPE="text/xml" CHECKSUM="4950b4e68b64f63e3c368a33d2735a98" CHECKSUMTYPE="MD5" SIZE="83366">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00101_0.xml"/>
+      </file>
+      <file ID="alto_00101_1" MIMETYPE="text/xml" CHECKSUM="7ea182f628f99aede02d78ce1a3a3c90" CHECKSUMTYPE="MD5" SIZE="91862">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00101_1.xml"/>
+      </file>
+      <file ID="alto_00102_0" MIMETYPE="text/xml" CHECKSUM="faa587bd464b09aa45f4b3fb326f02fe" CHECKSUMTYPE="MD5" SIZE="87513">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00102_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0033" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="201" firstpage="198">
+              <parties id="b200-3" pgmap="200">Wilburn vs. The State.</parties>
+              <attorneys id="b200-10" pgmap="200">Garland &amp; Randolph, for the appellant.</attorneys>
+              <summary id="b200-8" pgmap="200">Appeal from Chicot Circuit Court.</summary>
+              <summary id="b200-9" pgmap="200">Hon. John C. Murray, Circuit Judge.</summary>
+              <summary id="b200-11" pgmap="200">It may well be doubted whether the decision in Straughan rs. The State, 16 Ark. 37, is correct; the power being expressly given to the County Court to select the grand jury, and the statute (sec. 4, chap. 98, Dig.,) only confers the power on the Circuit Court “ to supply the deficiency” in the panel of the grand jury. It may be that the Circuit Court would have had the inherent power to cause the grand jury to be summoned, had not the statute given the power to another tribunal. State vs. Brown, 10 Ark. 80; Stewart vs. State, 13 Ark. 744.</summary>
+              <summary id="b200-12" pgmap="200(22) 201(137)">We contend that the grand jury, as shown by the plea in abatement, were not legally summoned. It will be seen by reference to the plea, that none of the jurors mentioned in it were ordered to be summoned by the County Court at the proper time — were not selected at the first term after the last adjournment of the Circuit Court, as directed by the statute (sec. 2, chap. 98, Gould’s Big.)] and the only authority shown for summoning them is the order made at the second term of the County Court. It is not necessary to argue that this order of the County Court is coram non judice. The consequence is that tiie persons mentioned in the plea, sat and officiated as grand jurors without having been summoned in any manner known to the law; and the question is, can persons be con­sidered legal grand jurors who act as such without ever having been summoned?</summary>
+              <summary id="b201-4" pgmap="201">The error of the court in assessing the fine without e.mpan­neling a jury to try his guilt, etc., is a sufficient cause for reversal. 1 Gk. Gr. Law 451; .Buzzard v's. The State, 20 Ark. 106; see. 125, chap. 52, Gould’s B’g.</summary>
+              <summary id="b201-5" pgmap="201">Hollowell, for the State.</summary>
+              <summary id="b201-6" pgmap="201">As to the objection raised to the judgment of the court below on the plea in abatement, that question has been settled by the court in the case of Cantrell vs. The State, decided the present term.</summary>
+              <summary id="b201-7" pgmap="201">The correctness of the court below in giving final judgment against the appellant, on sustaining the demurrer, may be questioned, if the court adhere to its previous decisions. (20 Ark. 106). In Tennessee, the principles of these decisions have been, to some extent, modified, and the English decisions favored. 2 Terg. 472; Arch. Gr. Law 111.</summary>
+              <headnotes id="b200-4" pgmap="200">The County Court has no general power to select grand jurors for the Circuit Court, and the power given to it for that purpose being a special one, can only be exercised at the first term after the adjournment of the Circuit Court,-as expressly limited by the statute.</headnotes>
+              <headnotes id="b200-5" pgmap="200">Courts are strict in discountenancing irregularities in the mode of selecting and cmpanneling grand jurors, and the objection may be taken by plea in abatement, which should be certain to every intent.</headnotes>
+              <headnotes id="b200-6" pgmap="200">If the grand jury be not selected pursuant to the provisions of the statute, the Circuit Court has the inherent constitutional power to cause them to be selected. {Straughan vs. The State, 16 Ark. 37.)</headnotes>
+              <headnotes id="b200-7" pgmap="200">On sustaining a demurrer to a plea in abatement, the judgment should be, that the defendant answer over, etc.; {Buzzard vs. State, 20 Ark. 106;) and not a final judgment, as on issue to the plea and a finding against it. {McCann vs. State, 19 Ark. 630.)</headnotes>
+              <opinion type="majority">
+                <author id="b201-8" pgmap="201">Mr. Justice Compton</author>
+                <p id="AmX" pgmap="201">delivered the opinion of the Court.</p>
+                <p id="b201-9" pgmap="201">The appellant was indicted in the Chicot Circuit Court for retailing spirituous liquors contrary to the statute.</p>
+                <p id="b201-10" pgmap="201(33) 202(39)">He pleaded in abatement, that four of the grand jurors by whom the indictment was found, were not selected by the County Court at its first term (which was held in April, 1858), but were selected at its second term (which was held in July, 1858,) after the last adjournment of the Circuit Court; and were summoned, sworn and empanneled as members of said grand jury, pursuant to the selection thus made.</p>
+                <p id="b202-5" pgmap="202">A demurrer was sustained to the plea, and the appellant saying nothing further in defence of the indictment, the court adjudged that he be fined ten dollars, for which, with costs, final judgment was rendered.</p>
+                <p id="b202-6" pgmap="202">The sufficiency of the plea is the question presented, and that depends, to some extent, upon a construction of our statute prescribing the mode in which grand jurors are to be selected.</p>
+                <p id="b202-7" pgmap="202">The second section, chapter 98, of the Digest, provides as follows:</p>
+                <blockquote id="b202-8" pgmap="202">“It shall be the duty of the County Court, of each county, at the first term of such court, after the adjournment of the Cir­cuit Court, to make out and cause to be delivered to the sheriff, a list of sixteen persons qualified to serve as grand jurors; and it shall be the duty of the sheriff, within twenty days thereafter, to summon such persons to appear at the next term of the Cir­cuit Court, to be holden in and for the county, on the first day of said term, to serve as grand jurors.”</blockquote>
+                <p id="b202-9" pgmap="202">If the County Court had general power to select grand jurors, we might be inclined to hold that so much of this provision as prescribed a particular time when the power is to be exercised, was directory merely. But it has no such power. The power given is a special one, and the enacting clause of the statute which confers it, also expressly limits its exercise. And the conclusion that the legislature probably did not intend the County Court should select grand jurors at any other time than that mentioned, is fortified by the third section of the act, which makes it the duty of the sheriff to select and summon the requisite number himself if the term of the County Court, at which they are to be selected, is not held.</p>
+                <p id="b202-10" pgmap="202(29) 203(17)">Whatever practical inconvenience may result from this con­struction, it must be remembered that the whole subject is within the control of the legislature, and that we have no authority to sanction a departure from what would seem to be an imperative provision of the statute.</p>
+                <p id="b203-5" pgmap="203">The courts are strict in discountenancing irregularities in the mode of selecting and empanneling grand jurors, and the decided weight of American authority is, that objection may be taken to the irregularity by plea in abatement. Leathers vs. The State, 26 Miss. 73; State vs. Symonds, 36 Maine 128; Stale vs. Newer, 7 Blackf. 307; Vallier vs. The State, 4 Blackf. 73; Whart. Crim. Law 173; Cantrell vs. The State (present term.)</p>
+                <p id="b203-6" pgmap="203">In framing pleas of this character, it is said the greatest accuracy and precision are required, and that they should be certain to every intent. Under our system, there are. two modes-­by which a grand jury may be lawfully selected. One is where they are selected pursuant to the provisions of the statute; and the other is, where the Circuit Court causes them to be selected, in the exercise of its inherent constitutional power as held by the court in Straughan vs. The State, 16 Ark. 37. The plea sufficiently negatives á selection in either mode.</p>
+                <p id="b203-7" pgmap="203">According to this view, the plea was good, and the court erred in sustaining the demurrer.</p>
+                <p id="b203-8" pgmap="203">The court erred also, in rendering final judgment. On sus­taining the demurrer, the judgment should have been that the defendant answer over; and if he declined to do so, the court should have directed the plea of not guilty to be entered for him, and that the cause proceed to trial, as decided in Buzzard vs. The State, 20 Ark. 106.</p>
+                <p id="b203-9" pgmap="203">In misdemeanors, where the defendant pleads matter in abatement, and upon an issue to the plea, the finding is against him, he is not allowed to plead over, and the judgment is final, as in Guess vs. The State, 1 Eng. 147; McOuen vs. The State, 19 Ark. 630; but not so, where a demurrer is sustained to the plea — and this is the distinction between the cases last cited and Buzzard vs. The State, supra.</p>
+                <p id="b203-10" pgmap="203">Let the judgment be reversed, and the cause remanded for further proceeding.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="200" ORDERLABEL="198" TYPE="page">
+        <fptr FILEID="tiff_00100_1"/>
+        <fptr FILEID="jp2_00100_1"/>
+        <fptr FILEID="alto_00100_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_200.1" BETYPE="IDREF" FILEID="alto_00100_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_200.2" BETYPE="IDREF" FILEID="alto_00100_1"/>
+              <area BEGIN="BL_200.3" BETYPE="IDREF" FILEID="alto_00100_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="201" ORDERLABEL="199" TYPE="page">
+        <fptr FILEID="tiff_00101_0"/>
+        <fptr FILEID="jp2_00101_0"/>
+        <fptr FILEID="alto_00101_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_201.3" BETYPE="IDREF" FILEID="alto_00101_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_201.2" BETYPE="IDREF" FILEID="alto_00101_0"/>
+              <area BEGIN="BL_201.4" BETYPE="IDREF" FILEID="alto_00101_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="202" ORDERLABEL="200" TYPE="page">
+        <fptr FILEID="tiff_00101_1"/>
+        <fptr FILEID="jp2_00101_1"/>
+        <fptr FILEID="alto_00101_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_202.2" BETYPE="IDREF" FILEID="alto_00101_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_202.3" BETYPE="IDREF" FILEID="alto_00101_1"/>
+              <area BEGIN="BL_202.4" BETYPE="IDREF" FILEID="alto_00101_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="203" ORDERLABEL="201" TYPE="page">
+        <fptr FILEID="tiff_00102_0"/>
+        <fptr FILEID="jp2_00102_0"/>
+        <fptr FILEID="alto_00102_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_203.3" BETYPE="IDREF" FILEID="alto_00102_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_203.2" BETYPE="IDREF" FILEID="alto_00102_0"/>
+              <area BEGIN="BL_203.4" BETYPE="IDREF" FILEID="alto_00102_0"/>
+              <area BEGIN="BL_203.11" BETYPE="IDREF" FILEID="alto_00102_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b201-9" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_201.11" BETYPE="IDREF" FILEID="alto_00101_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b201-8" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_201.9" BETYPE="IDREF" FILEID="alto_00101_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b203-9" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_203.9" BETYPE="IDREF" FILEID="alto_00102_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b203-8" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_203.8" BETYPE="IDREF" FILEID="alto_00102_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b203-7" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_203.7" BETYPE="IDREF" FILEID="alto_00102_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b203-6" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_203.6" BETYPE="IDREF" FILEID="alto_00102_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b203-5" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_203.5" BETYPE="IDREF" FILEID="alto_00102_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b200-3" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_200.4" BETYPE="IDREF" FILEID="alto_00100_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b201-5" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_201.6" BETYPE="IDREF" FILEID="alto_00101_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b201-4" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_201.5" BETYPE="IDREF" FILEID="alto_00101_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b201-7" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_201.8" BETYPE="IDREF" FILEID="alto_00101_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b201-6" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_201.7" BETYPE="IDREF" FILEID="alto_00101_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b200-4" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_200.5" BETYPE="IDREF" FILEID="alto_00100_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b200-5" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_200.6" BETYPE="IDREF" FILEID="alto_00100_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b200-6" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_200.7" BETYPE="IDREF" FILEID="alto_00100_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b200-7" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_200.8" BETYPE="IDREF" FILEID="alto_00100_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b202-6" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_202.6" BETYPE="IDREF" FILEID="alto_00101_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b202-7" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_202.7" BETYPE="IDREF" FILEID="alto_00101_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b202-5" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_202.5" BETYPE="IDREF" FILEID="alto_00101_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b202-8" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_202.8" BETYPE="IDREF" FILEID="alto_00101_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b202-9" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_202.9" BETYPE="IDREF" FILEID="alto_00101_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b200-8" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_200.9" BETYPE="IDREF" FILEID="alto_00100_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b200-9" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_200.10" BETYPE="IDREF" FILEID="alto_00100_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b203-10" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_203.10" BETYPE="IDREF" FILEID="alto_00102_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b202-10" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_202.10" BETYPE="IDREF" FILEID="alto_00101_1"/>
+            <area BEGIN="BL_203.1" BETYPE="IDREF" FILEID="alto_00102_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AmX" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_201.10" BETYPE="IDREF" FILEID="alto_00101_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b200-12" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_200.13" BETYPE="IDREF" FILEID="alto_00100_1"/>
+            <area BEGIN="BL_201.1" BETYPE="IDREF" FILEID="alto_00101_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b200-10" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_200.11" BETYPE="IDREF" FILEID="alto_00100_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b200-11" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_200.12" BETYPE="IDREF" FILEID="alto_00100_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b201-10" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_201.12" BETYPE="IDREF" FILEID="alto_00101_0"/>
+            <area BEGIN="BL_202.1" BETYPE="IDREF" FILEID="alto_00101_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,955 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0006" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Carnall v. Wilson">Carnall vs. Wilson</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 62</citation>
+          <decisiondate>1860-01</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00032_1" MIMETYPE="image/tiff" CHECKSUM="fab113e39394cc6765541d5b21ac4a7b" CHECKSUMTYPE="MD5" SIZE="39606">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00032_1.tif"/>
+      </file>
+      <file ID="tiff_00033_0" MIMETYPE="image/tiff" CHECKSUM="0b4ea42ebba0c7fb028ce2e0b549216b" CHECKSUMTYPE="MD5" SIZE="46186">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00033_0.tif"/>
+      </file>
+      <file ID="tiff_00033_1" MIMETYPE="image/tiff" CHECKSUM="8511c1ebcc92fcaaf6012860401c1a97" CHECKSUMTYPE="MD5" SIZE="44132">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00033_1.tif"/>
+      </file>
+      <file ID="tiff_00034_0" MIMETYPE="image/tiff" CHECKSUM="a7e109fd988af30bf61733396096cb98" CHECKSUMTYPE="MD5" SIZE="46582">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00034_0.tif"/>
+      </file>
+      <file ID="tiff_00034_1" MIMETYPE="image/tiff" CHECKSUM="e1b708c75f678bb1b864cfb4dcf6f707" CHECKSUMTYPE="MD5" SIZE="44760">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00034_1.tif"/>
+      </file>
+      <file ID="tiff_00035_0" MIMETYPE="image/tiff" CHECKSUM="98207cecc4d905e714e5f16cd9f53f28" CHECKSUMTYPE="MD5" SIZE="48464">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00035_0.tif"/>
+      </file>
+      <file ID="tiff_00035_1" MIMETYPE="image/tiff" CHECKSUM="eab3627474721ab18aa284b6ce24797b" CHECKSUMTYPE="MD5" SIZE="47278">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00035_1.tif"/>
+      </file>
+      <file ID="tiff_00036_0" MIMETYPE="image/tiff" CHECKSUM="798a7ab0b273ff67eac3c40ac95e4870" CHECKSUMTYPE="MD5" SIZE="28928">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00036_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00032_1" MIMETYPE="image/jp2" CHECKSUM="ae79722110dbbd7fdf556a8bab034aff" CHECKSUMTYPE="MD5" SIZE="2530954">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00032_1.jp2"/>
+      </file>
+      <file ID="jp2_00033_0" MIMETYPE="image/jp2" CHECKSUM="0fe6766042ec845cb31b66ce051445c3" CHECKSUMTYPE="MD5" SIZE="2606202">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00033_0.jp2"/>
+      </file>
+      <file ID="jp2_00033_1" MIMETYPE="image/jp2" CHECKSUM="fc0da4e70c5fa6a91c1687e233e1b4be" CHECKSUMTYPE="MD5" SIZE="2529848">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00033_1.jp2"/>
+      </file>
+      <file ID="jp2_00034_0" MIMETYPE="image/jp2" CHECKSUM="de448969fd57061357fc3fda6bf0da95" CHECKSUMTYPE="MD5" SIZE="2842687">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00034_0.jp2"/>
+      </file>
+      <file ID="jp2_00034_1" MIMETYPE="image/jp2" CHECKSUM="88a9c1b5db1632da4443a610b7e35efe" CHECKSUMTYPE="MD5" SIZE="2576347">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00034_1.jp2"/>
+      </file>
+      <file ID="jp2_00035_0" MIMETYPE="image/jp2" CHECKSUM="f4a054eb940d9c2edbaf774d6324318a" CHECKSUMTYPE="MD5" SIZE="2644435">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00035_0.jp2"/>
+      </file>
+      <file ID="jp2_00035_1" MIMETYPE="image/jp2" CHECKSUM="abc162c458bf1e939ca8123e1e68af3f" CHECKSUMTYPE="MD5" SIZE="2568909">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00035_1.jp2"/>
+      </file>
+      <file ID="jp2_00036_0" MIMETYPE="image/jp2" CHECKSUM="0f885ca3a3d34ee831b057bc0ffd4c73" CHECKSUMTYPE="MD5" SIZE="2413644">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00036_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00032_1" MIMETYPE="text/xml" CHECKSUM="41c8e71b22b54cb3af34591641a4074a" CHECKSUMTYPE="MD5" SIZE="83208">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00032_1.xml"/>
+      </file>
+      <file ID="alto_00033_0" MIMETYPE="text/xml" CHECKSUM="6dfe8b16d98fb0bea757d4bdf05339e1" CHECKSUMTYPE="MD5" SIZE="89551">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00033_0.xml"/>
+      </file>
+      <file ID="alto_00033_1" MIMETYPE="text/xml" CHECKSUM="37598f63c57a86e3e05aa494d6bc95d7" CHECKSUMTYPE="MD5" SIZE="87612">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00033_1.xml"/>
+      </file>
+      <file ID="alto_00034_0" MIMETYPE="text/xml" CHECKSUM="cc2281e022862c9ba3d6a33507d5c443" CHECKSUMTYPE="MD5" SIZE="94535">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00034_0.xml"/>
+      </file>
+      <file ID="alto_00034_1" MIMETYPE="text/xml" CHECKSUM="8debf72eeb40942a8b0c1588a8d69b70" CHECKSUMTYPE="MD5" SIZE="93388">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00034_1.xml"/>
+      </file>
+      <file ID="alto_00035_0" MIMETYPE="text/xml" CHECKSUM="e3059e9ca13c6faf713195db5e6f9c3f" CHECKSUMTYPE="MD5" SIZE="92638">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00035_0.xml"/>
+      </file>
+      <file ID="alto_00035_1" MIMETYPE="text/xml" CHECKSUM="8e7b9bbd7a5cb0b78e61208fcab4dfee" CHECKSUMTYPE="MD5" SIZE="89908">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00035_1.xml"/>
+      </file>
+      <file ID="alto_00036_0" MIMETYPE="text/xml" CHECKSUM="0864e3f6c4531759902e49d649147a78" CHECKSUMTYPE="MD5" SIZE="62690">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00036_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0006" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="69" firstpage="62">
+              <parties id="b64-6" pgmap="64">Carnall ad. vs. Wilson.</parties>
+              <judges id="b71-5" pgmap="71">Absent, Mr. Justice Rector.</judges>
+              <attorneys id="b64-13" pgmap="64">Walker &amp; Green, for the appellant.</attorneys>
+              <summary id="b64-11" pgmap="64">Appeal from Sebastian Circuit Court.</summary>
+              <summary id="b64-12" pgmap="64">Hon. Felix I. Batson, Circuit Judge.</summary>
+              <summary id="b64-14" pgmap="64">The administrator is entitled to the possession of the lands of his intestate, and may therefore maintain the action of eject­ment for their recovery. Dig. ch. 4, sec. 62; Adamson et at. vs. Cummins, 6 Eng. 549; Menefee’s adr. vs. Menefee, 3 ib. 48.</summary>
+              <summary id="b64-15" pgmap="64">The proof that the intestate was in possession of the land at the time of his death, is presumptive evidence of a seizin in fee until the contrary appear. Adams on Ejectment m. p. 282; Phill. on Ev. 282; Runn. on Ejectment, 12; 17 Ala. 533; Smith vs. Lorillard, 10 John. Rep. 564.</summary>
+              <summary id="b64-16" pgmap="64(37) 65(25)">The widow cannot alienate her right of dower before it is assigned to her. Park on Dower, 335; Kent’s Com. 61; 7 Blackf. 62; 13 Wend. 524; 2 Cow. 638; 17 John. R. 167; nor can the widow or her grantee maintain or defend ejectment before assignment. See als'o Adams on Ejectment, 23; 14 Mass. 378; 6 Ala. 873; 13 Pick. 33.</summary>
+              <headnotes id="b64-7" pgmap="64">The administrator is entitled to the possession of the real estate of which his intes­tate died seized, and may maintain ejectment against the heir at law, or any other person in possession, except the widow, or her tenant, occupying the mansion and farm attached, before the assignment of dower.</headnotes>
+              <headnotes id="b64-8" pgmap="64">In an action of ejectment by the administrator, proof that his intestate died in pos­session of the land is prima, facie, evidence that he was seized in foe; and is suffi­cient proof of title, unless the presumption arising from possession is rebutted.</headnotes>
+              <headnotes id="b64-9" pgmap="64">The widow may relinquish her right of dower, before assignment, to a person holding the legal title, but she cannot transfer it to a stranger so as to confer on him a right of action for the dower, or enable him to defend against ejectment brought by the administrator or heirs at law.</headnotes>
+              <headnotes id="b64-10" pgmap="64">Dower being an interest in land for the period of the widow’s life, it can only be re­leased or discharged, under the statute of frauds, by some instrument in writing.</headnotes>
+              <opinion type="majority">
+                <author id="b65-5" pgmap="65">Mr. Chief Justice English</author>
+                <p id="AZ3" pgmap="65">delivered the opinion of the Court.</p>
+                <p id="Az" pgmap="65">Ejectment, commenced 3d May, 1854, in the Sebastian Circuit Court, by John Carnall, as administrator of John Dillard, de­ceased, against Thomas E. Wilson, for possession of the S. W. qr. of Sec. 1, and the N. W. qr. of Sec 12, in T. 8 N. li. 32 W.</p>
+                <p id="b65-7" pgmap="65">The cause was submitted to the Court, sitting as a jury, upon issues to the pleas of ne unques administrator, and not guilty.</p>
+                <p id="b65-8" pgmap="65">The plaintiff proved that he was duly appointed administra­tor of John Dillard, and letters of administration granted to him, by the Probate Court of Crawford county, 10th January, 1848.</p>
+                <p id="b65-9" pgmap="65">It was then admitted by both parties, the bill of exceptions states, that the lands described in the declaration had been sold by the United States, and patents issued therefor, and that •they were not the property of the United States. That the plaintiff’s intestate entered upon the lands in the year 1840, and resided thereon, with his family, until his death, in Decem­ber, 1845. That the lands were known as, and called his home­stead. He had about 40 acres in cultivation, embracing nearly an equal portion of each of the two quarters, and the balance of the lands were wild and unimproved. During the time he resided on the lands, he claimed to be the owner thereof. At the time of his death he left a widow, and several children sur­viving him, who remained in possession of the lands for about one month after his death.</p>
+                <p id="b65-10" pgmap="65">That in January, 1846, the defendant, who had intermarried with the daughter of plaintiff’s intestate, entered upon the lands, and from thence to the time of the trial, continued in the exclusive possession, alleging himself to be the owner thereof.</p>
+                <p id="b65-11" pgmap="65(36) 66(16)">The defendant proved, by a witness, that the widow of intes­tate was still living; and that he was allowed by her, under a part purchase made from her, to enjoy her dower interest in the lands. That none oí the heirs of Dillard had ever set up title to the lands.</p>
+                <p id="b66-6" pgmap="66">The plaintiff objected to the admission of evidence to prove the sale by the widow of her dower interest to the defendant, on the grounds that it was irrelevant’, and if admissible for any purpose, could not be proven by parol. But the court over­ruled the objection, and permitted the witness to testify that the widow of intestate had made an arrangement with defend­ant, that he might occupy her dower interest in the lands.</p>
+                <p id="b66-7" pgmap="66">The above being all of the evidence introduced, the plaintiff' moved the Court to declare the law upon the facts in proof, to be as follows:</p>
+                <blockquote id="b66-8" pgmap="66">“ 1st. That the administrator of a deceased person is entitled to the possession of real estate whereof his intestate died seized, and may maintain ejectment against the heirs at law, or any other person holding possession thereof, except the widow of his intestate.</blockquote>
+                <blockquote id="b66-9" pgmap="66">“ 2d. That in ejectment by an administrator, to recover the possession of the lands of his intestate, proof of his intestate having died in possession thereof, is prima facie evidence of seizin in fee of the intestate, and sufficient proof of title against one in possession, who offers no proof to rebut the presumption of seizin of the intestate arising from his prior possession.</blockquote>
+                <blockquote id="b66-10" pgmap="66">“ 3d. That the sale of her right of dower by a widow, before assignment, is inoperative and void.</blockquote>
+                <blockquote id="b66-11" pgmap="66">“ 4. That the right of dower-interest cannot be transferred by parol.</blockquote>
+                <blockquote id="b66-12" pgmap="66">5. That upon the state of facts proven on the trial of this cause, the plaintiff is entitled to judgment.</blockquote>
+                <p id="b66-13" pgmap="66">The Court refused to declare the above propositions, or either of them, to be the law of the case, but held that, upon the facts proven upon the trial, the defendant was entitled to judgment; and accordingly found and rendered judgment in favor of the defendant; and the plaintiff excepted and appealed.</p>
+                <p id="b66-14" pgmap="66(27) 67(107)">Though upon the death of a land owner the legal title to his lands descends to and vests in his heirs at law (Dig. ch. 56; 5 Arlt. 608,) yet, by statute, the lands are assets in the hands of his executor or admistrator, and are deemed to be in his pos­session, and subject to his control, in like manner as personal estate. Dig. ch. 4, sec. 67. His right to such possession and control, subject to the widow’s claim to dower, etc., continues until the debts are paid, and the administration closed; and if the possession is unlawfully withheld from him, he may doubt­less- maintain ejectment therefor. Dig. ch. 61, sec. 9; Mene­fee’s ad. vs. Menefee, et al. 3 Eng. 48, overruling Morrill et al. vs. Menefee, 5 Ark. 629.</p>
+                <p id="b67-5" pgmap="67">It is the duty of the heirs at law, however, if of age, and if not, it is the duty of their guardians to assign dower to the widow in the lands, as soon as practicable after the death of her husband; and if dower be not assigned to her within one year after his death, or within three months after demand by her, she may apply to the Probate Court for the appointment of commissioners to lay off her dower. Dig. ch. 60.</p>
+                <p id="b67-6" pgmap="67">Until her dower is assigned to her, she has the right to remain and possess the mansion or chief dwelling house of her late husband, together with the farm thereto attached, free of all rent. Ib. sec. 18.</p>
+                <p id="b67-7" pgmap="67">By the common law the widow had the right to tarry in the mansion for forty days after the death of her husband; which is called her quarantine, but after the expiration of that time the heir could put her out of possession, and drive her to her suit for dower. 4 Kent. 61.</p>
+                <p id="b67-8" pgmap="67">But, under our law, neither the administrator, nor the heirs at law, claiming under the husband, can, by ejectment or other­wise, deprive the widow of possession of the mansion and farm attached, until dower is assigned her. 4 Kent 61, 62; Taylor vs. McCracken, 2 Blackf. 261.</p>
+                <p id="b67-9" pgmap="67(61) 68(46)">The right of dower, until it is assigned to the widow, is a mere chose in action, and not the subject of execution (Pen­nington’s Ex. vs. Yell, 6 Eng. 236); and though the widow may relinquish the right to the heirs at law, or to one holding the legal title to the lands under the husband, etc., and such relin­quishment will bar her right to recover dower,' yet she cannot alien or transfer her claim to dower so as to vest in any other person the right of action therefor. Jackson vs. Vanderheyden, 19 John. R. 168; 1 Lomax Dig. 92; 4 Kent 61. etc.</p>
+                <p id="b68-6" pgmap="68">And it was held in Croade vs. Ingraham, 13 Pick. 33, that the right of a widow to have dower assigned to her, is not such an estate in land as can be the subject of a lease, not even as between the widow and the owner oí the fee.</p>
+                <p id="b68-7" pgmap="68">The right of the widow to remain in possession of the dwel­ling of her deceased husband, and the farm attached, free of rent, until dower is assigned to her, is not strictly part of her dower, but-it is a provision made by statute for her benefit, and which she has the right to enjoy, until her dower is laid off to her.</p>
+                <p id="b68-8" pgmap="68">It perhaps may'be regarded as an enlargement of her com­mon law quarantine. It has been well said that the law, in its provident care, has made this provision in consideration of the destitute situation in which the widow is cast upon the death of her husband. (18 Ala. 814.)</p>
+                <p id="b68-9" pgmap="68">But it has been held that this mere right to occupy the dwel­ling and farm attached until dower is assigned her, gives her no such estate in the lands as may be sold under execution; (Doe ex. Dem Cook et al. vs. Webb 18 Ala. 814; Pennington ex. vs. Yell, sup.;) or as she may sell and convey to one not holding the legal title etc. Wallace vs. Hall’s Heirs, 19 Ala. 372.</p>
+                <p id="b68-10" pgmap="68">She may, however, the better opinion seems to be, occupy and use the dwelling and farm attached personally, or by her tenant; and, until dower is assigned her, neither the heirs at law, nor the administrator, can turn her, or her tenants holding under her, out of possession of the dwelling and farm attached, by ejectment. Stokes vs. McAllister, 2 Mo. 165; Clark et al. vs. Burnside, 15 Ill. 63; Inge vs. Murphy, 14 Ala. 291; Contra, Wallace vs. Doe, ex. dem. Smith’s Heirs, 2 Sm. &amp; M. 224; but see the subsequent case of Doe vs. Bernard et ux., 7 Sm. &amp; M. 319.</p>
+                <p id="b69-4" pgmap="69">In Inge vs. Murphy, it was well remarked, by Mr. Justice Dargan, upon a statute similar to ours, “ that the right secured to the widow by this act, is the right of possession, free from molestation, or rent,'and, by the very terms of the statute, must continue until her dower is assigned. The object of this act must have been to provide support and maintenance for the widow, until her dower should be allotted to her, on which she might enter, and having the right of possession by this statute, she is entitled to recover the rents and profits, and may hold the premises free from molestation or rent. Nor could it have been the object of the statute to coerce her to remain in person on the premises, or rather to make her title dependent on that condition, for it may be that she could only derive support from the premises by renting them, and to hold that the mere remov­ing from the premises defeats this right, might, in many instances, defeat the intent of the statute, which is a provision for the widow until her dower is set apart for her.”</p>
+                <p id="b69-5" pgmap="69">Where the plaintiff in ejectment claims as heir or admini­strator, the seizin of the ancestor or intestate, may be proved by showing that he was either in the actual possession of the land, at the time of his death, or in the -receipt of rent from the tei’-tenant, for possession is presumptive evidence of seizin in fee until the contrary be shown. Until the presumption of title arising from proof of possession is rebutted by the defen­dant, the plaintiff is under no necessity of introducing other evidence. Adams on Eject. 281; Smith vs. Lorillard, 10 John. R. 339; 2 Greenleaf Ev., sec. 311.</p>
+                <p id="b69-6" pgmap="69">Having settled the above principles, the correctness of the legal propositions which the appellant asked the Court below to declare to be the law of the case, may be tested by them.</p>
+                <p id="b69-7" pgmap="69">1. The first proposition is substantially aorrect, with the additional exception that the administrator cannot maintain ejectment against one occupying the mansion and farm attached, as tenant of the widow, before assignment of dower.</p>
+                <p id="b69-8" pgmap="69">2. The second proposition is well settled law.</p>
+                <p id="b69-9" pgmap="69(8) 70(58)">3. The third proposition requires qualification. The widow» as above shown, may relinquish her right of dower, before assignment, to a person holding the legal title, but she cannot transfer it to a stranger so as to confer on him the right of action for the dower, nor so as to enable him to defend against eject­ment brought by the administrator or heirs at law.</p>
+                <p id="b70-4" pgmap="70">4. The fourth proposition is correct. Dower being an interest in land for the period of the widow’s life, it can only be released or discharged, under.the statute of frauds, by some instrument in writing. Keeler vs. Tatnell, 3 Zabriskie 62; White vs. White, 1 Harr. 202.</p>
+                <p id="b70-5" pgmap="70">5. The fifth proposition involves the correctness of the judg­ment of the Court below upon the facts of the case.</p>
+                <p id="b70-6" pgmap="70">The appellant proved that his intestate died in possession of the lands, and that for some five years prior to his death he had been residing thereon, cultivating a portion of them, and claim­ing to be the owner thereof. That, after his death, the appellee entered upon the lands, and from thence, until after the action was brought, continued in the exclusive possession, alleging himself to be the owner thereof.</p>
+                <p id="b70-7" pgmap="70">This proof of the possession of the intestate was, as above shown, prima facie evidence of title, and, until rebutted, suffi­cient to entitle appellant to recover.</p>
+                <p id="b70-8" pgmap="70">It seems, from the evidence introduced by the appellee, that he claimed to hold the lands under some right derived from the widow of intestate.</p>
+                <p id="b70-9" pgmap="70">If he had proven that the widow’s dower had been assigned to her, and that, after assignment, she had conveyed or leased her dower interest to him, this would have been sufficient to defeat the recovery of appellant to the extent of the portion of the lands set apart to the widow as her dower.</p>
+                <p id="b70-10" pgmap="70">Or if he had proven that the widow’s dower had not been assigned to her, and that he occupied the mansion or chief dwelling of her late husband, with the farm attached, as her tenant, and for her use and benefit, this would have been suffi­cient to defeat the recovery of the appellant to that extent.</p>
+                <p id="b70-11" pgmap="70">But neither of these defences was sufficiently made out.</p>
+                <p id="b71-4" pgmap="71">The judgment of the Court below is reversed, and the cause remanded for a new trial.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="64" ORDERLABEL="62" TYPE="page">
+        <fptr FILEID="tiff_00032_1"/>
+        <fptr FILEID="jp2_00032_1"/>
+        <fptr FILEID="alto_00032_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_64.1" BETYPE="IDREF" FILEID="alto_00032_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_64.2" BETYPE="IDREF" FILEID="alto_00032_1"/>
+              <area BEGIN="BL_64.3" BETYPE="IDREF" FILEID="alto_00032_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="65" ORDERLABEL="63" TYPE="page">
+        <fptr FILEID="tiff_00033_0"/>
+        <fptr FILEID="jp2_00033_0"/>
+        <fptr FILEID="alto_00033_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_65.3" BETYPE="IDREF" FILEID="alto_00033_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_65.2" BETYPE="IDREF" FILEID="alto_00033_0"/>
+              <area BEGIN="BL_65.4" BETYPE="IDREF" FILEID="alto_00033_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="66" ORDERLABEL="64" TYPE="page">
+        <fptr FILEID="tiff_00033_1"/>
+        <fptr FILEID="jp2_00033_1"/>
+        <fptr FILEID="alto_00033_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_66.2" BETYPE="IDREF" FILEID="alto_00033_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_66.3" BETYPE="IDREF" FILEID="alto_00033_1"/>
+              <area BEGIN="BL_66.4" BETYPE="IDREF" FILEID="alto_00033_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="67" ORDERLABEL="65" TYPE="page">
+        <fptr FILEID="tiff_00034_0"/>
+        <fptr FILEID="jp2_00034_0"/>
+        <fptr FILEID="alto_00034_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_67.3" BETYPE="IDREF" FILEID="alto_00034_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_67.2" BETYPE="IDREF" FILEID="alto_00034_0"/>
+              <area BEGIN="BL_67.4" BETYPE="IDREF" FILEID="alto_00034_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="68" ORDERLABEL="66" TYPE="page">
+        <fptr FILEID="tiff_00034_1"/>
+        <fptr FILEID="jp2_00034_1"/>
+        <fptr FILEID="alto_00034_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_68.2" BETYPE="IDREF" FILEID="alto_00034_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_68.3" BETYPE="IDREF" FILEID="alto_00034_1"/>
+              <area BEGIN="BL_68.4" BETYPE="IDREF" FILEID="alto_00034_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="69" ORDERLABEL="67" TYPE="page">
+        <fptr FILEID="tiff_00035_0"/>
+        <fptr FILEID="jp2_00035_0"/>
+        <fptr FILEID="alto_00035_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_69.2" BETYPE="IDREF" FILEID="alto_00035_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_69.1" BETYPE="IDREF" FILEID="alto_00035_0"/>
+              <area BEGIN="BL_69.3" BETYPE="IDREF" FILEID="alto_00035_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="70" ORDERLABEL="68" TYPE="page">
+        <fptr FILEID="tiff_00035_1"/>
+        <fptr FILEID="jp2_00035_1"/>
+        <fptr FILEID="alto_00035_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_70.2" BETYPE="IDREF" FILEID="alto_00035_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_70.3" BETYPE="IDREF" FILEID="alto_00035_1"/>
+              <area BEGIN="BL_70.4" BETYPE="IDREF" FILEID="alto_00035_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="71" ORDERLABEL="69" TYPE="page">
+        <fptr FILEID="tiff_00036_0"/>
+        <fptr FILEID="jp2_00036_0"/>
+        <fptr FILEID="alto_00036_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_71.2" BETYPE="IDREF" FILEID="alto_00036_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_71.1" BETYPE="IDREF" FILEID="alto_00036_0"/>
+              <area BEGIN="BL_71.3" BETYPE="IDREF" FILEID="alto_00036_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_71.6" BETYPE="IDREF" FILEID="alto_00036_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b68-10" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_68.9" BETYPE="IDREF" FILEID="alto_00034_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Az" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_65.7" BETYPE="IDREF" FILEID="alto_00033_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b67-8" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_67.8" BETYPE="IDREF" FILEID="alto_00034_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b67-9" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_67.9" BETYPE="IDREF" FILEID="alto_00034_0"/>
+            <area BEGIN="BL_68.1" BETYPE="IDREF" FILEID="alto_00034_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b65-8" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_65.9" BETYPE="IDREF" FILEID="alto_00033_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b65-9" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_65.10" BETYPE="IDREF" FILEID="alto_00033_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b65-5" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_65.5" BETYPE="IDREF" FILEID="alto_00033_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b65-7" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_65.8" BETYPE="IDREF" FILEID="alto_00033_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b67-6" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_67.6" BETYPE="IDREF" FILEID="alto_00034_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b67-7" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_67.7" BETYPE="IDREF" FILEID="alto_00034_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b67-5" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_67.5" BETYPE="IDREF" FILEID="alto_00034_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b64-14" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_64.12" BETYPE="IDREF" FILEID="alto_00032_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b64-11" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_64.9" BETYPE="IDREF" FILEID="alto_00032_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b64-10" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_64.8" BETYPE="IDREF" FILEID="alto_00032_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b64-13" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_64.11" BETYPE="IDREF" FILEID="alto_00032_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b66-14" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_66.13" BETYPE="IDREF" FILEID="alto_00033_1"/>
+            <area BEGIN="BL_67.1" BETYPE="IDREF" FILEID="alto_00034_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b66-13" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_66.12" BETYPE="IDREF" FILEID="alto_00033_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b66-12" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_66.11" BETYPE="IDREF" FILEID="alto_00033_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b66-11" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_66.10" BETYPE="IDREF" FILEID="alto_00033_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b66-10" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_66.9" BETYPE="IDREF" FILEID="alto_00033_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b65-11" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_65.12" BETYPE="IDREF" FILEID="alto_00033_0"/>
+            <area BEGIN="BL_66.1" BETYPE="IDREF" FILEID="alto_00033_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b70-11" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_70.12" BETYPE="IDREF" FILEID="alto_00035_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b70-8" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_70.9" BETYPE="IDREF" FILEID="alto_00035_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b70-9" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_70.10" BETYPE="IDREF" FILEID="alto_00035_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b70-6" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_70.7" BETYPE="IDREF" FILEID="alto_00035_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b70-7" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_70.8" BETYPE="IDREF" FILEID="alto_00035_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b70-4" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_70.5" BETYPE="IDREF" FILEID="alto_00035_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b70-5" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_70.6" BETYPE="IDREF" FILEID="alto_00035_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b64-15" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_64.13" BETYPE="IDREF" FILEID="alto_00032_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b71-5" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_71.5" BETYPE="IDREF" FILEID="alto_00036_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b71-4" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_71.4" BETYPE="IDREF" FILEID="alto_00036_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b66-7" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_66.6" BETYPE="IDREF" FILEID="alto_00033_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b66-6" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_66.5" BETYPE="IDREF" FILEID="alto_00033_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b64-12" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_64.10" BETYPE="IDREF" FILEID="alto_00032_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b68-9" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_68.8" BETYPE="IDREF" FILEID="alto_00034_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b68-8" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_68.7" BETYPE="IDREF" FILEID="alto_00034_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b64-7" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_64.5" BETYPE="IDREF" FILEID="alto_00032_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b64-6" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_64.4" BETYPE="IDREF" FILEID="alto_00032_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b64-9" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_64.7" BETYPE="IDREF" FILEID="alto_00032_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b64-8" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_64.6" BETYPE="IDREF" FILEID="alto_00032_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b68-7" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_68.6" BETYPE="IDREF" FILEID="alto_00034_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b68-6" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_68.5" BETYPE="IDREF" FILEID="alto_00034_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b66-9" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_66.8" BETYPE="IDREF" FILEID="alto_00033_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b66-8" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_66.7" BETYPE="IDREF" FILEID="alto_00033_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b69-8" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_69.8" BETYPE="IDREF" FILEID="alto_00035_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b69-9" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_69.9" BETYPE="IDREF" FILEID="alto_00035_0"/>
+            <area BEGIN="BL_70.1" BETYPE="IDREF" FILEID="alto_00035_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b65-10" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_65.11" BETYPE="IDREF" FILEID="alto_00033_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b70-10" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_70.11" BETYPE="IDREF" FILEID="alto_00035_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AZ3" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_65.6" BETYPE="IDREF" FILEID="alto_00033_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b64-16" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_64.14" BETYPE="IDREF" FILEID="alto_00032_1"/>
+            <area BEGIN="BL_65.1" BETYPE="IDREF" FILEID="alto_00033_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b69-4" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_69.4" BETYPE="IDREF" FILEID="alto_00035_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b69-5" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_69.5" BETYPE="IDREF" FILEID="alto_00035_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b69-6" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_69.6" BETYPE="IDREF" FILEID="alto_00035_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b69-7" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_69.7" BETYPE="IDREF" FILEID="alto_00035_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

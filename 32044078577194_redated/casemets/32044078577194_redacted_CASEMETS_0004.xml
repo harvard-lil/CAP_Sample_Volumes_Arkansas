@@ -1,0 +1,433 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0004" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="State v. Dunhall Pharmaceuticals, Inc.">STATE of Arkansas, DEPARTMENT OF FINANCE AND ADMINISTRATION, Revenue Division, and Charles D. RAGLAND, Arkansas Commissioner of Revenues v. DUNHALL PHARMACEUTICALS, INC.</name>
+          <docketnumber>85-183</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 16</citation>
+          <citation category="parallel" type="bluebook">702 S.W.2d 402</citation>
+          <decisiondate>1986-01-13</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:00Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00021_1" MIMETYPE="image/tiff" CHECKSUM="d90f92e669e9203eb3d3594589ab26ae" CHECKSUMTYPE="MD5" SIZE="25454">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00021_1.tif"/>
+      </file>
+      <file ID="tiff_00022_0" MIMETYPE="image/tiff" CHECKSUM="9d15c349e7d5dde86cb6e5830b33fc33" CHECKSUMTYPE="MD5" SIZE="50958">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00022_0.tif"/>
+      </file>
+      <file ID="tiff_00022_1" MIMETYPE="image/tiff" CHECKSUM="9d0b7d849716478cdb8f5407135407ab" CHECKSUMTYPE="MD5" SIZE="27664">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00022_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00021_1" MIMETYPE="image/jp2" CHECKSUM="533c4576baea305f34acbd3961702282" CHECKSUMTYPE="MD5" SIZE="1993658">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00021_1.jp2"/>
+      </file>
+      <file ID="jp2_00022_0" MIMETYPE="image/jp2" CHECKSUM="063a08a7d3f5f13f708dc5d52b8b129c" CHECKSUMTYPE="MD5" SIZE="2858160">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00022_0.jp2"/>
+      </file>
+      <file ID="jp2_00022_1" MIMETYPE="image/jp2" CHECKSUM="6fa91e066b672eda7d53b25d51b4bf25" CHECKSUMTYPE="MD5" SIZE="1944966">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00022_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00021_1" MIMETYPE="text/xml" CHECKSUM="b00ab32b88c5143b53aacb32bf7bea95" CHECKSUMTYPE="MD5" SIZE="37843">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00021_1.xml"/>
+      </file>
+      <file ID="alto_00022_0" MIMETYPE="text/xml" CHECKSUM="6405a22e3b1e715d2afc906456bcf466" CHECKSUMTYPE="MD5" SIZE="81062">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00022_0.xml"/>
+      </file>
+      <file ID="alto_00022_1" MIMETYPE="text/xml" CHECKSUM="674c569dc2f1876a1bbd578eaffdb2f3" CHECKSUMTYPE="MD5" SIZE="45255">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00022_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0004" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="16" lastpage="18">
+              <court pgmap="42" id="b42-10">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="42" id="b42-9">85-183</docketnumber>
+              <citation pgmap="42" id="Af7">702 S.W.2d 402</citation>
+              <parties pgmap="42" id="b42-8">STATE of Arkansas, DEPARTMENT OF FINANCE AND ADMINISTRATION, Revenue Division, and Charles D. RAGLAND, Arkansas Commissioner of Revenues v. DUNHALL PHARMACEUTICALS, INC.</parties>
+              <decisiondate pgmap="42" id="ANO">Opinion delivered January 13, 1986</decisiondate>
+              <judges pgmap="43" id="b43-11">Purtle, J., not participating.</judges>
+              <judges pgmap="43" id="b43-12">George Rose Smith, J., concurs.</judges>
+              <attorneys pgmap="42" id="b42-14">Timothy J. Leathers, Joseph V. Svoboda, Wayne Zakrzw-­ski, Kelly S. Jennings, John H. Theis, Ann Kell, and Joe Morphew, by: Michael D. Munns, for appellant.</attorneys>
+              <attorneys pgmap="42" id="b42-15">Bassett Law Firm, by: Wm. Robert Still, Jr., for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="42" id="b42-16">Robert H. Dudley, Justice.</author>
+                <p pgmap="42" id="AeJ">The sole issue on appeal is whether the free distribution of samples of prescription products by the appellee, Dunhall Pharmaceuticals, Inc., is subject to a sales tax. The trial court held the distribution was not taxable. We affirm.</p>
+                <p pgmap="42(8) 43(58)" id="b42-17">
+                   The Arkansas Gross Receipts Tax is applicable when there is a transfer of either title or possession for a valuable consideration. Ark. Stat. Ann. § 84-1902 (Repl. 1980). Obvi­ously, when the samples were distributed there was a transfer of title and possession. The issue is whether the distribution was for a valuable consideration. The scant determinative facts before us are contained in the following stipulation:</p>
+                <blockquote pgmap="43" id="b43-6">Between November 1, 1979 and October 31, 1982, Appellee gave samples of prescription flouride products and gels without charge to a number of Arkansas dentists.</blockquote>
+                <p pgmap="43" id="b43-7">The State argues that there was a valuable consideration in the form of advertising. That argument asks us to reverse the trial court upon sheer speculation, and not upon the stipulated facts.</p>
+                <p pgmap="43" id="b43-8">
+                   The stipulation does not show the method of distribu­tion; it does not show whether the sample contained any printing, printed materials, or whether any representations were made about them. Thus, if the samples were mailed to the dentists, no advertising was shown. If they were delivered by representatives, no representative advertising was shown. The stipulation offers no clue about the reason for the distribution. It does not reveal how particular dentists were selected as distributees or how many of them received an unknown quantity of samples. The stipula­tion does not tell us whether the dentists even know the name of the manufacturer or distributor of the samples. A valuable consideration in the form of advertising is simply not shown by the fact stipulation.</p>
+                <p pgmap="43" id="b43-9">The stipulation contains no evidence of consideration.</p>
+                <p pgmap="43" id="b43-10">Affirmed.</p>
+              </opinion>
+              <opinion type="concurrence">
+                <author pgmap="43" id="b43-13">George Rose Smith, Justice,</author>
+                <p pgmap="43(77) 44(36)" id="A7i">concurring. The court’s opinion encourages the Commissioner of Revenues to think that the giving away of free samples by the appellee would be a taxable transaction if the Commissioner had bothered to show that it has some advertising value. The tax, however, is a percentage of the “gross proceeds or gross receipts” derived from the transfer of title or possession for a valuable consideration. Ark. Stat. Ann. §§ 84-1902(c) and -1903 (Repl. 1980). What is the advertising value derived from giving away the samples in question? Surely that value is too nebulous to be measured in dollars and cents when a dentist is free to discard the sample if he prefers another brand.</p>
+                <p pgmap="44" id="b44-6">The legislature knows how to tax a transaction of this kind. The sales tax expressly applies to free or complimentary tickets or passes to places of amusement and the like. The statute then declares that such tickets or passes have a value equal to the sale price of similar tickets or passes. § 84-1903 (e). The legislature, however, has not seen fit to tax the giving away of pharmaceutical samples. I do not think the courts should levy that tax.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="42" ORDERLABEL="16" TYPE="page">
+        <fptr FILEID="tiff_00021_1"/>
+        <fptr FILEID="jp2_00021_1"/>
+        <fptr FILEID="alto_00021_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_42.2" BETYPE="IDREF" FILEID="alto_00021_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="43" ORDERLABEL="17" TYPE="page">
+        <fptr FILEID="tiff_00022_0"/>
+        <fptr FILEID="jp2_00022_0"/>
+        <fptr FILEID="alto_00022_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_43.3" BETYPE="IDREF" FILEID="alto_00022_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="44" ORDERLABEL="18" TYPE="page">
+        <fptr FILEID="tiff_00022_1"/>
+        <fptr FILEID="jp2_00022_1"/>
+        <fptr FILEID="alto_00022_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_44.2" BETYPE="IDREF" FILEID="alto_00022_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b42-10" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_42.10" BETYPE="IDREF" FILEID="alto_00021_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b42-15" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_42.18" BETYPE="IDREF" FILEID="alto_00021_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b42-14" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_42.17" BETYPE="IDREF" FILEID="alto_00021_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b42-17" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_42.22" BETYPE="IDREF" FILEID="alto_00021_1"/>
+            <area BEGIN="BL_43.1" BETYPE="IDREF" FILEID="alto_00022_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b42-16" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_42.19" BETYPE="IDREF" FILEID="alto_00021_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b44-6" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_44.4" BETYPE="IDREF" FILEID="alto_00022_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ANO" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_42.11" BETYPE="IDREF" FILEID="alto_00021_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Af7" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_42.9" BETYPE="IDREF" FILEID="alto_00021_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A7i" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_43.12" BETYPE="IDREF" FILEID="alto_00022_0"/>
+            <area BEGIN="BL_43.13" BETYPE="IDREF" FILEID="alto_00022_0"/>
+            <area BEGIN="BL_44.1" BETYPE="IDREF" FILEID="alto_00022_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b43-6" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_43.4" BETYPE="IDREF" FILEID="alto_00022_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b43-7" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_43.5" BETYPE="IDREF" FILEID="alto_00022_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b42-9" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_42.8" BETYPE="IDREF" FILEID="alto_00021_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b42-8" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_42.7" BETYPE="IDREF" FILEID="alto_00021_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b43-8" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_43.6" BETYPE="IDREF" FILEID="alto_00022_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b43-9" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_43.7" BETYPE="IDREF" FILEID="alto_00022_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b43-12" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_43.10" BETYPE="IDREF" FILEID="alto_00022_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b43-13" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_43.11" BETYPE="IDREF" FILEID="alto_00022_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b43-10" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_43.8" BETYPE="IDREF" FILEID="alto_00022_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b43-11" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_43.9" BETYPE="IDREF" FILEID="alto_00022_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AeJ" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_42.20" BETYPE="IDREF" FILEID="alto_00021_1"/>
+            <area BEGIN="BL_42.21" BETYPE="IDREF" FILEID="alto_00021_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

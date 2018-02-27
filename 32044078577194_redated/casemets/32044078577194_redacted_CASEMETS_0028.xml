@@ -1,0 +1,652 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0028" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Watson v. Dietz">Irma Jean WATSON v. Richard L. DIETZ, Administrator, Arkansas Social Services</name>
+          <docketnumber>85-211</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 111</citation>
+          <citation category="parallel" type="bluebook">702 S.W.2d 407</citation>
+          <decisiondate>1986-01-27</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:00Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00069_0" MIMETYPE="image/tiff" CHECKSUM="06e6bf707c3636f94ff7d6cebfb1ed9a" CHECKSUMTYPE="MD5" SIZE="8664">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00069_0.tif"/>
+      </file>
+      <file ID="tiff_00069_1" MIMETYPE="image/tiff" CHECKSUM="18c96c48a98d9823bac65cec89e9ea99" CHECKSUMTYPE="MD5" SIZE="52474">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00069_1.tif"/>
+      </file>
+      <file ID="tiff_00070_0" MIMETYPE="image/tiff" CHECKSUM="fd3c3f9d75c64bbd865d07c61bbe6062" CHECKSUMTYPE="MD5" SIZE="55204">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00070_0.tif"/>
+      </file>
+      <file ID="tiff_00070_1" MIMETYPE="image/tiff" CHECKSUM="a2e7c023c0e9ee7dacea28bfeff222e2" CHECKSUMTYPE="MD5" SIZE="55378">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00070_1.tif"/>
+      </file>
+      <file ID="tiff_00071_0" MIMETYPE="image/tiff" CHECKSUM="167f295c6b5c131d0059cf280d32beea" CHECKSUMTYPE="MD5" SIZE="51690">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00071_0.tif"/>
+      </file>
+      <file ID="tiff_00071_1" MIMETYPE="image/tiff" CHECKSUM="11b984882270d0f95bc85176d1dd89ba" CHECKSUMTYPE="MD5" SIZE="53562">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00071_1.tif"/>
+      </file>
+      <file ID="tiff_00072_0" MIMETYPE="image/tiff" CHECKSUM="777c1c7d2dc5f4eef081f70a75bc81d4" CHECKSUMTYPE="MD5" SIZE="30344">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00072_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00069_0" MIMETYPE="image/jp2" CHECKSUM="b3aa84c96c831c22adb85804331c654e" CHECKSUMTYPE="MD5" SIZE="1330718">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00069_0.jp2"/>
+      </file>
+      <file ID="jp2_00069_1" MIMETYPE="image/jp2" CHECKSUM="63426de5df802fc62b43af939476bb1d" CHECKSUMTYPE="MD5" SIZE="2520140">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00069_1.jp2"/>
+      </file>
+      <file ID="jp2_00070_0" MIMETYPE="image/jp2" CHECKSUM="c564911c7a70f2e1723fb09bebfd535c" CHECKSUMTYPE="MD5" SIZE="2803439">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00070_0.jp2"/>
+      </file>
+      <file ID="jp2_00070_1" MIMETYPE="image/jp2" CHECKSUM="db49e6312a146651e239d70acb92ff17" CHECKSUMTYPE="MD5" SIZE="2541961">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00070_1.jp2"/>
+      </file>
+      <file ID="jp2_00071_0" MIMETYPE="image/jp2" CHECKSUM="92495f04e3d052bdabf102f34a42dfdd" CHECKSUMTYPE="MD5" SIZE="2480619">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00071_0.jp2"/>
+      </file>
+      <file ID="jp2_00071_1" MIMETYPE="image/jp2" CHECKSUM="f77f67c15669926ff80639379aa125e0" CHECKSUMTYPE="MD5" SIZE="2574149">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00071_1.jp2"/>
+      </file>
+      <file ID="jp2_00072_0" MIMETYPE="image/jp2" CHECKSUM="6fc2990c8fd332d28f69aa93177c9631" CHECKSUMTYPE="MD5" SIZE="2191288">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00072_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00069_0" MIMETYPE="text/xml" CHECKSUM="7a1ec7cc41195bd5e889ca21a6205d0e" CHECKSUMTYPE="MD5" SIZE="10339">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00069_0.xml"/>
+      </file>
+      <file ID="alto_00069_1" MIMETYPE="text/xml" CHECKSUM="9209f4c350b8896ef5373ef18521efb4" CHECKSUMTYPE="MD5" SIZE="94141">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00069_1.xml"/>
+      </file>
+      <file ID="alto_00070_0" MIMETYPE="text/xml" CHECKSUM="5888f969cb9d790bd25ea42b65cc46f7" CHECKSUMTYPE="MD5" SIZE="91689">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00070_0.xml"/>
+      </file>
+      <file ID="alto_00070_1" MIMETYPE="text/xml" CHECKSUM="b92d26d12173bbad867f42bee26031df" CHECKSUMTYPE="MD5" SIZE="97177">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00070_1.xml"/>
+      </file>
+      <file ID="alto_00071_0" MIMETYPE="text/xml" CHECKSUM="176b3e3c4866b1fd92b2135618c5a17a" CHECKSUMTYPE="MD5" SIZE="88865">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00071_0.xml"/>
+      </file>
+      <file ID="alto_00071_1" MIMETYPE="text/xml" CHECKSUM="c8db660011b6022d52a241546d43de5c" CHECKSUMTYPE="MD5" SIZE="86259">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00071_1.xml"/>
+      </file>
+      <file ID="alto_00072_0" MIMETYPE="text/xml" CHECKSUM="b0256eee84fabbc2b10250d07b318b14" CHECKSUMTYPE="MD5" SIZE="50589">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00072_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0028" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="111" lastpage="117">
+              <court pgmap="137" id="b137-4">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="137" id="b137-3">85-211</docketnumber>
+              <citation pgmap="137" id="AzDO">702 S.W.2d 407</citation>
+              <parties pgmap="137" id="b137-2">Irma Jean WATSON v. Richard L. DIETZ, Administrator, Arkansas Social Services</parties>
+              <decisiondate pgmap="137" id="AJr">Opinion delivered January 27, 1986</decisiondate>
+              <judges pgmap="143" id="b143-9">Purtle, J., not participating.</judges>
+              <attorneys pgmap="137(8) 138(3)" id="b137-16">Rose Law Firm, A Professional Association, by: Phillip Carroll, for appellant.</attorneys>
+              <attorneys pgmap="138" id="b138-6">Stephen C. Sipes, for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="138" id="b138-7">Robert H. Dudley, Justice.</author>
+                <p pgmap="138" id="AMA">Appellee, the Administrator of Adoption Services for Arkansas Social Services, filed a petition in probate court for appointment of a guardian with power to consent to adoption without notice to, or consent of, the natural parent. The trial court granted the petition and terminated the parental rights of appellant. We affirm.</p>
+                <p pgmap="138" id="b138-8">The petition alleged, and the trial court found, that placing three of appellant’s illegitimate children in her custody would raise a substantial risk of serious harm to the children. The trial court recited three reasons for his decision. Each of the three. reasons constitutes a valid reason to grant the petition. See Ark. Stat. Ann. §§ 56-128(F)2.a.i.; 56-128(F)3.; and 56-128(H) (Supp. 1985). The appellant contends that the evidence is insufficient to show that she is an unfit mother. We affirm on the issue of the sufficiency of the evidence, and we need discuss only one of the three reasons given, since any one of them is sufficient to uphold the ruling.</p>
+                <p pgmap="138" id="b138-9">One of the reasons given by the trial court to show that appellant is unfit is that placing the children in the custody of the appellant would raise a substantial risk of serious harm to the children because the appellant is irremediably unable to provide for the basic needs of the children over an extended period of time. See Ark. Stat. Ann. § 56-128(F)3. (Supp. 1985).</p>
+                <p pgmap="138(154) 139(32)" id="b138-10">A summary of the family members and their ages is as follows. The appellant was born on July 20,1964. Her first child, Tichia, was born on July 12,1976, a few days before the appellant reached her twelfth birthday. The putative father lives in Chicago and does not contribute to the child’s support. Tichia, now nine years old, was first placed in a foster home at fifteen months of age, and now has lived in a foster home for over seven of her nine years. The second child, Visa, was born June 5, 1978, when appellant was thirteen years old. The putative father is in the penitentiary and does not contribute to the support of the child. Visa is now seven years old and has been in a foster home for all but six months of her life. The third child, Mary Ann, was born July 23,1979, when appellant was fifteen. Her putative father is also in the penitentiary and does not contribute to her support. She is six years of age and has been in a foster home for all but ten months of her life.</p>
+                <p pgmap="139" id="b139-6">The dynamics of the family life which led to this case are as follows. In October 1977, Social Services received a report that appellant and five other children were destitute and alone in the home of appellant’s mother. Upon investigating, a representative of the agency found appellant, then thirteen, with her brothers, sisters, and her own one year old child, Tichia, in her mother’s house without gas, water, or food. At the time, appellant’s mother was incarcerated. Foster placement was ordered, but, when the mother was released from jail, appellant and her child were returned to appellant’s mother. In February, 1978, appellant, then fourteen, and her child were ordered placed in foster care. At that time, it was learned that appellant and Tichia both had a social disease, and that appellant was again pregnant. Appellant was placed in the Florence Crittenden Home for Unwed Mothers. She soon ran away from the home. Shortly thereafter, she entered the University Medical Center, where Visa was born. Her first child, Tichia, was then placed in one foster home, while appellant and Visa were placed in another. Appellant took her new baby and ran away. The baby was later located and returned to foster care.</p>
+                <p pgmap="139" id="b139-7">Appellant, who by this time was 14 years old, began living with a 33 year old man by whom she soon had her third child, Mary Ann.</p>
+                <p pgmap="139(129) 140(105)" id="b139-8">The evidence which demonstrates the inability of the appel­lant to meet the needs of the children is summarized as follows. In 1980, Social Services attempted to stabilize the family situation. Custody of the two older children was returned to appellant, with the agency retaining supervisory custody. At that point, the appellant had not lost custody of the youngest child. The arrangement soon gave the employees of Social Services cause for apprehension. One testified, “The on-going safety of proper supervision was of great concern to me. No amount of discussion with Ernestine [appellant’s mother] or Irma [appellant] pro­duced any real changes for the better.” The agency representative described some of the causes for concern: She had purchased safety gates for the kitchen and stairwells since there were several toddlers, and she had also secured two baby beds for the youngest, yet, none of these items were ever used. She visited the home almost daily and many times found “Mary Ann left unattended on the sofa or stuck in a box off in the corner getting no attention from anyone,” On one occasion, she caught Mary Ann just as she was about to roll off of the sofa onto the concrete floor. She discovered there had been a grease fire in the kitchen which had caused extensive damage. It had been caused by leaving the gas jets on full blast to heat the house.</p>
+                <p pgmap="140" id="b140-6">The Social Services’ representative testified that Visa re­ceived splash and dip burns to her foot and leg while playing unsupervised with the younger children in an upstairs bathroom. Visa was hospitalized for several weeks and she also received treatment for an old burn on her arm the size of a quarter. She required follow-up care at the burn unit of Children’s Hospital. The representative stated, however, that “it was impossible to get Ernestine or Irma to see the importance of the follow-up appoint­ments, and they missed several.”</p>
+                <p pgmap="140" id="b140-7">During this period Tichia had to be hospitalized for a staph infection all over her body. The Social Services’ representative testified that she helped get funds for medicine upon the child’s release and tried to monitor the administration of medicine on her daily visits, but subsequently she found the bottle half full because appellant had not given the child the prescribed amount.</p>
+                <p pgmap="140" id="b140-8">The representative of the agency testified that the cribs were full of dirty bedding, and were never used. When the gas for heating was turned off by the utility company, an electric hot plate was continuously left on the high setting for heat. “Another matter of great concern was the male traffic, the drinking and the violence in the home.”</p>
+                <p pgmap="140(98) 141(77)" id="b140-9">During the period following Visa’s release from the hospital, appellant and the representative of Social Services discussed a rehabilitation plan for Irma. Appellant decided she wanted to go back to school, and she enrolled in Booker Junior High School where she stayed for only five days. The representative stated that the deciding factor in the decision to remove the children came on April 15,1980, when she made a routine home visit and found the children at home alone. Tichia was playing with fish hooks and a tackle box. The electrical hot plate was sitting on the coffee table and was red hot. She found Visa, in diapers, sitting on an electrical cord with a dishpan of dirty water next to her. Mary Ann was in the same room in a playpen. She was crying. She had a thick mucous caked under her nose and a pus-like substance on her neck. She had a circle around her neck of what appeared to be a raw-type infection. She was hot to the touch, flushed, and appeared sick.</p>
+                <p pgmap="141" id="b141-6">Appellant later took the children to her aunt’s house. While there, there were almost daily reports from the aunt to Social Services that appellant was not participating in the care of the children. Instead, the Aunt said, she was going to see her boyfriend for two or three day periods. Appellant only attended three of the six basic child care classes which a representative of Social Services arranged.</p>
+                <p pgmap="141" id="b141-7">When appellant was 16 years old she had a miscarriage, but did not seek help. While she has received CETA job training, she has not had a job. She moved from house to house until she finally moved in with her boyfriend, by whom she has had another baby. The appellant had eight visits with her children over the three years immediately before trial, and the children were frightened of her during the visits.</p>
+                <p pgmap="141" id="b141-8">
+                   From the foregoing evidence we affirm the probate court’s finding that placing the children in the custody of appellant would raise a substantial risk of serious harm to the children because appellant is irremediably unable to provide for the basic physical, mental, and emotional needs of the children over an extended period of time.</p>
+                <p pgmap="141" id="b141-9">
+                   Ark. Stat. Ann. § 56-128(F), the section of the statute under which we affirm this case, provides that before grounds may be established under this subsection, the parent must be given remedial support services designed to reunite the child and parent. The services must last at least six months. Appellant contends that she did not receive sufficient remedial services. We find no merit in the argument.</p>
+                <p pgmap="141(38) 142(25)" id="b141-10">A Permanency Planning Specialist, Sandra Walters, was assigned to appellant’s family. She testified to numerous visits, and her initial goal was to return the children to appellant. In order to accomplish that goal, she helped appellant and her mother locate a home, secured the rent and utility deposit money, and secured furniture and bedding. Immediately afterwards, the children were returned to appellant’s care.</p>
+                <p pgmap="142" id="b142-6">The Social Services’ representative discussed appellant’s future with her, and then assisted her in enrolling in junior high school, where appellant remained for five days. The representa­tive assisted appellant in enrolling in a CETA funded program and later assisted her in enrolling in a Job Corps program. The representative testified to numerous, almost daily, visits with appellant. Despite those offers and provisions of assistance, appellant was unable to provide for the basic, essential, and necessary physical, mental, and emotional needs of her children.</p>
+                <p pgmap="142" id="b142-7">
+                   With regard to the final point of appeal, it is beyond question that the standard of proof constitutionally required by due process in termination of parental rights cases is the standard of clear and convincing evidence. Santosky v. Kramer, 455 U.S. 745 (1982); Harper v. Caskin, 265 Ark. 558, 580 S.W.2d 176 (1979); and A.B. v. Arkansas Social Services, 273 Ark. 261, 620 S.W.2d 271 (1981). Appellant contends that Ark. Stat. Ann. § 56-128, the termination of parental rights act, is unconstitutional because it does not require that unfitness of a parent be found by clear and convincing evidence. While the argument, without more, has merit, we reject it in this case because the trial judge did apply the clear and convincing standard. The trial court expressly ruled:</p>
+                <blockquote pgmap="142" id="b142-8">4. Prior to the presentation of the instant cause of action before this Court, said Court has previously determined, of its own and in light of decisions of the Supreme Court of the United States and the State of Arkansas and of other courts of competent jurisdiction, that the standard of clear and convincing evidence is the required standard of proof and evidence to be employed when considering actions wherein Guardianship with power to consent to adoption is sought.</blockquote>
+                <blockquote pgmap="142(48) 143(7)" id="b142-9">5. Consistent and in compliance with the decision of the United States Supreme Court in Santosky v. Kramer, 102 S.Ct. 1388 (1982), this Court has applied the clear and convincing evidence standard of proof in its determination of this cause of action, thus according due process in a constitutional matter to the parties before it.</blockquote>
+                <p pgmap="143" id="b143-6">The Probate Judge in this case was the sole factfinder. The quotation demonstrates that he was impressed with the impor­tance of the decision, and that he would not terminate the parental rights solely on a few isolated instances of unusual conduct or idiosyncratic behavior. He understood the degree of confidence our society thinks he should have in the correctness of factual conclusions for this type of case. The proper function of the standard of proof was fully implemented. The statute is constitutionally valid as applied in this case.</p>
+                <p pgmap="143" id="b143-7">
+                   While we affirm this case, we are concerned at the length of time the Probate Judge took to decide this case. The case was heard on October 3, 1983, but a finding was not made until February 4,1985, a period of sixteen months. The sixteen month delay violated Ark. Stat. Ann. § 56-127(c) (Supp. 1985).</p>
+                <p pgmap="143" id="b143-8">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="137" ORDERLABEL="111" TYPE="page">
+        <fptr FILEID="tiff_00069_0"/>
+        <fptr FILEID="jp2_00069_0"/>
+        <fptr FILEID="alto_00069_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_137.2" BETYPE="IDREF" FILEID="alto_00069_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="138" ORDERLABEL="112" TYPE="page">
+        <fptr FILEID="tiff_00069_1"/>
+        <fptr FILEID="jp2_00069_1"/>
+        <fptr FILEID="alto_00069_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_138.2" BETYPE="IDREF" FILEID="alto_00069_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="139" ORDERLABEL="113" TYPE="page">
+        <fptr FILEID="tiff_00070_0"/>
+        <fptr FILEID="jp2_00070_0"/>
+        <fptr FILEID="alto_00070_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_139.3" BETYPE="IDREF" FILEID="alto_00070_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="140" ORDERLABEL="114" TYPE="page">
+        <fptr FILEID="tiff_00070_1"/>
+        <fptr FILEID="jp2_00070_1"/>
+        <fptr FILEID="alto_00070_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_140.2" BETYPE="IDREF" FILEID="alto_00070_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="141" ORDERLABEL="115" TYPE="page">
+        <fptr FILEID="tiff_00071_0"/>
+        <fptr FILEID="jp2_00071_0"/>
+        <fptr FILEID="alto_00071_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_141.3" BETYPE="IDREF" FILEID="alto_00071_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="142" ORDERLABEL="116" TYPE="page">
+        <fptr FILEID="tiff_00071_1"/>
+        <fptr FILEID="jp2_00071_1"/>
+        <fptr FILEID="alto_00071_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_142.2" BETYPE="IDREF" FILEID="alto_00071_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="143" ORDERLABEL="117" TYPE="page">
+        <fptr FILEID="tiff_00072_0"/>
+        <fptr FILEID="jp2_00072_0"/>
+        <fptr FILEID="alto_00072_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_143.3" BETYPE="IDREF" FILEID="alto_00072_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b138-6" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_138.4" BETYPE="IDREF" FILEID="alto_00069_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b141-7" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_141.5" BETYPE="IDREF" FILEID="alto_00071_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b141-6" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_141.4" BETYPE="IDREF" FILEID="alto_00071_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b143-9" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_143.7" BETYPE="IDREF" FILEID="alto_00072_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b137-16" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_137.16" BETYPE="IDREF" FILEID="alto_00069_0"/>
+            <area BEGIN="BL_138.1" BETYPE="IDREF" FILEID="alto_00069_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b141-8" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_141.6" BETYPE="IDREF" FILEID="alto_00071_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b141-9" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_141.7" BETYPE="IDREF" FILEID="alto_00071_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b138-8" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_138.8" BETYPE="IDREF" FILEID="alto_00069_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b138-9" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_138.9" BETYPE="IDREF" FILEID="alto_00069_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b142-8" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_142.6" BETYPE="IDREF" FILEID="alto_00071_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b140-9" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_140.7" BETYPE="IDREF" FILEID="alto_00070_1"/>
+            <area BEGIN="BL_141.1" BETYPE="IDREF" FILEID="alto_00071_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b138-7" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_138.5" BETYPE="IDREF" FILEID="alto_00069_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b140-8" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_140.6" BETYPE="IDREF" FILEID="alto_00070_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b143-8" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_143.6" BETYPE="IDREF" FILEID="alto_00072_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b137-3" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_137.4" BETYPE="IDREF" FILEID="alto_00069_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b137-2" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_137.3" BETYPE="IDREF" FILEID="alto_00069_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b138-10" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_138.10" BETYPE="IDREF" FILEID="alto_00069_1"/>
+            <area BEGIN="BL_139.1" BETYPE="IDREF" FILEID="alto_00070_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b137-4" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_137.6" BETYPE="IDREF" FILEID="alto_00069_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b141-10" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_141.8" BETYPE="IDREF" FILEID="alto_00071_0"/>
+            <area BEGIN="BL_142.1" BETYPE="IDREF" FILEID="alto_00071_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b142-9" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_142.7" BETYPE="IDREF" FILEID="alto_00071_1"/>
+            <area BEGIN="BL_143.1" BETYPE="IDREF" FILEID="alto_00072_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b143-7" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_143.5" BETYPE="IDREF" FILEID="alto_00072_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b140-7" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_140.5" BETYPE="IDREF" FILEID="alto_00070_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AzDO" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_137.5" BETYPE="IDREF" FILEID="alto_00069_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AJr" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_137.7" BETYPE="IDREF" FILEID="alto_00069_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b139-8" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_139.6" BETYPE="IDREF" FILEID="alto_00070_0"/>
+            <area BEGIN="BL_140.1" BETYPE="IDREF" FILEID="alto_00070_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b140-6" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_140.4" BETYPE="IDREF" FILEID="alto_00070_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b142-7" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_142.5" BETYPE="IDREF" FILEID="alto_00071_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AMA" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_138.6" BETYPE="IDREF" FILEID="alto_00069_1"/>
+            <area BEGIN="BL_138.7" BETYPE="IDREF" FILEID="alto_00069_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b143-6" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_143.4" BETYPE="IDREF" FILEID="alto_00072_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b142-6" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_142.4" BETYPE="IDREF" FILEID="alto_00071_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b139-7" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_139.5" BETYPE="IDREF" FILEID="alto_00070_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b139-6" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_139.4" BETYPE="IDREF" FILEID="alto_00070_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

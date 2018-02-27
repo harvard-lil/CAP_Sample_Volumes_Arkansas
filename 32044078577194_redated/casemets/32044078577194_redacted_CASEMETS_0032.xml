@@ -1,0 +1,598 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0032" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Lawyer v. Lawyer">Robert Michael LAWYER v. Linda Lorraine LAWYER</name>
+          <docketnumber>85-212</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 128</citation>
+          <citation category="parallel" type="bluebook">702 S.W.2d 790</citation>
+          <decisiondate>1986-02-03</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:00Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00077_1" MIMETYPE="image/tiff" CHECKSUM="13a689b95a59b30c13d8a37f03508104" CHECKSUMTYPE="MD5" SIZE="21102">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00077_1.tif"/>
+      </file>
+      <file ID="tiff_00078_0" MIMETYPE="image/tiff" CHECKSUM="a1685cae6e92a1cb811631aa9bdc3b16" CHECKSUMTYPE="MD5" SIZE="56760">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00078_0.tif"/>
+      </file>
+      <file ID="tiff_00078_1" MIMETYPE="image/tiff" CHECKSUM="34556018fdecee1f1e02d481909e76f0" CHECKSUMTYPE="MD5" SIZE="54504">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00078_1.tif"/>
+      </file>
+      <file ID="tiff_00079_0" MIMETYPE="image/tiff" CHECKSUM="6f3693a5784863be398d7f0a008733a4" CHECKSUMTYPE="MD5" SIZE="54264">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00079_0.tif"/>
+      </file>
+      <file ID="tiff_00079_1" MIMETYPE="image/tiff" CHECKSUM="92a94094e2cf84518903636d8ed6c669" CHECKSUMTYPE="MD5" SIZE="53576">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00079_1.tif"/>
+      </file>
+      <file ID="tiff_00080_0" MIMETYPE="image/tiff" CHECKSUM="0dd83aea0a21cd01ad59c6b8295fb6b6" CHECKSUMTYPE="MD5" SIZE="30574">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00080_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00077_1" MIMETYPE="image/jp2" CHECKSUM="7805c68769822b4fe933f2bec85ee42c" CHECKSUMTYPE="MD5" SIZE="1658152">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00077_1.jp2"/>
+      </file>
+      <file ID="jp2_00078_0" MIMETYPE="image/jp2" CHECKSUM="ba83579760f7d22131cae3d0c1a26afa" CHECKSUMTYPE="MD5" SIZE="2571275">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00078_0.jp2"/>
+      </file>
+      <file ID="jp2_00078_1" MIMETYPE="image/jp2" CHECKSUM="65686bed84f3c4c2fa3314c18f9e6805" CHECKSUMTYPE="MD5" SIZE="2509891">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00078_1.jp2"/>
+      </file>
+      <file ID="jp2_00079_0" MIMETYPE="image/jp2" CHECKSUM="014a73dc57f65a562e4c453ee49d9670" CHECKSUMTYPE="MD5" SIZE="2730763">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00079_0.jp2"/>
+      </file>
+      <file ID="jp2_00079_1" MIMETYPE="image/jp2" CHECKSUM="f09552f20ef50c8674865217b2f9ab1c" CHECKSUMTYPE="MD5" SIZE="2539793">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00079_1.jp2"/>
+      </file>
+      <file ID="jp2_00080_0" MIMETYPE="image/jp2" CHECKSUM="b83cdccfaa88fe9b1c0b0018551e6c2f" CHECKSUMTYPE="MD5" SIZE="1976498">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00080_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00077_1" MIMETYPE="text/xml" CHECKSUM="b42da7a761524b6a269ba80506cf71cb" CHECKSUMTYPE="MD5" SIZE="32552">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00077_1.xml"/>
+      </file>
+      <file ID="alto_00078_0" MIMETYPE="text/xml" CHECKSUM="c65286663667a31719011a736a9e39af" CHECKSUMTYPE="MD5" SIZE="95420">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00078_0.xml"/>
+      </file>
+      <file ID="alto_00078_1" MIMETYPE="text/xml" CHECKSUM="df430d46c306be5d2ceacaeca2f5464a" CHECKSUMTYPE="MD5" SIZE="88091">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00078_1.xml"/>
+      </file>
+      <file ID="alto_00079_0" MIMETYPE="text/xml" CHECKSUM="685899d69348444af0531e870641bd99" CHECKSUMTYPE="MD5" SIZE="94117">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00079_0.xml"/>
+      </file>
+      <file ID="alto_00079_1" MIMETYPE="text/xml" CHECKSUM="2601aa0ef2fe40768dbfd7333fabea8e" CHECKSUMTYPE="MD5" SIZE="90473">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00079_1.xml"/>
+      </file>
+      <file ID="alto_00080_0" MIMETYPE="text/xml" CHECKSUM="d7e7d13bd4b2a5e710713b6181f1b6e4" CHECKSUMTYPE="MD5" SIZE="50051">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00080_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0032" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="128" lastpage="133">
+              <court pgmap="154" id="b154-4">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="154" id="A0t">85-212</docketnumber>
+              <citation pgmap="154" id="AOj">702 S.W.2d 790</citation>
+              <parties pgmap="154" id="b154-3">Robert Michael LAWYER v. Linda Lorraine LAWYER</parties>
+              <decisiondate pgmap="154" id="AWY">Opinion delivered February 3, 1986</decisiondate>
+              <judges pgmap="157" id="b157-8">Purtle, J., not participating.</judges>
+              <judges pgmap="157" id="b157-9">Dudley and Hays, JJ., dissent.</judges>
+              <attorneys pgmap="154" id="b154-9">William W. Benton, P.A., for appellant.</attorneys>
+              <attorneys pgmap="154" id="b154-10">Edward M. Owens, for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="154" id="b154-11">George Rose Smith, Justice.</author>
+                <p pgmap="154(89) 155(30)" id="AoC">In this divorce suit both parties asked for a divorce, for indignities. The couple were married in 1967 and separated in 1983. They have two children, Robert, now 15, and Janessa, now 11. After hearing much testimony the chancellor entered decrees granting a divorce to the wife, awarding custody of the children to her for nine months of each year and to the husband for the summer months, leaving the matter of visitation to the parties, awarding Mrs. Lawyer monthly alimony of $300 and monthly child support of $700, dividing the property, finding that Lawyer’s termination benefits under his contract of employment are marital property, and dividing those benefits in a manner to be detailed later in this opinion.</p>
+                <p pgmap="155" id="b155-6">Lawyer has appealed, arguing (1) that he should have been given custody of the children and therefore possession of the family residence, and (2) that his possible termination benefits do not constitute marital property. The case comes to us for construction of the marital property statute. Rule 29(l)(c).</p>
+                <p pgmap="155" id="b155-7">
+                   On the first issue we do not find the chancellor’s decision to be clearly erroneous. Most of each spouse’s proof was offered to show the other’s misconduct. Neither has been a faithful partner in the marriage, but nothing would be accom­plished by a recitation of the testimony in detail. The chancellor observed that both the father and the mother had been excellent parents. In deciding that an award of custody to the mother would be in the best interest of the children, the chancellor considered it important that she had been at home much of the time and thus had had a close relationship with the children. We note, too, that a number of neighbors testified from their own observation that Mrs. Lawyer had been a fine mother. In custody cases especially we attach great weight to the conclusions reached by the trial judge. Here we cannot say that he was clearly wrong.</p>
+                <p pgmap="155(175) 156(2)" id="b155-8">The other issue is whether Lawyer’s possible termination pay is marital property subject to division. In 1973, six years after the marriage, Lawyer began working as a local agent for the State Farm insurance companies and was still so employed when the case was tried in 1984. His employment contract provides that if the contract is terminated by either party, he will be entitled to 60 monthly installments of termination pay, based upon a specified percentage of his earnings during his final year of employment. The trial court, relying on Day v. Day, 281 Ark. 261, 663 S.W.2d 719 (1984), and Gentry v. Gentry, 282 Ark. 413, 668 S.W.2d 947 (1984), held that the payments will be marital property if received. By request, State Farm calculated that if Lawyer’s contract were terminated at the time of trial, he would be entitled to receive $1,288 a month for five years. The decree provides that if termination payments are made, Mrs. Lawyer, if still living, will receive half of each payment, not to exceed $644 (half of Lawyer’s $1,288).</p>
+                <p pgmap="156" id="b156-6">Lawyer argues that the termination pay has not been acquired during the marriage and that its eventual receipt is too speculative for it to constitute marital property.</p>
+                <p pgmap="156" id="b156-7">We must consider the payments in their proper setting. When an insurance agent sells a policy of automobile, fire, or life insurance, it is to be expected that the policy will remain in force indefinitely. For that reason it is a settled practice for the agent to receive a commission not only on the original premium but also on the renewals. Indeed, renewal commissions are so commonplace as to be discussed at length in treatises on insurance law. Appleman, Insurance Law &amp; Practice, Ch.313 (1981);Couchon Insurance, §§ 26A:232 et seq. (2d ed., 1984). Hence when an insurance agent stays with the same company, as Lawyer has done, his renewal commissions increase as he writes more and more policies; they become a growing part of his regular earnings.</p>
+                <p pgmap="156" id="b156-8">Lawyer’s printed contract with State Farm fixes initial and renewal commissions varying with the type of insurance sold. For automobile policies, for example, his commission is 55% of the first premium and 10% of renewals. He is required to solicit applications for insurance, collect initial premiums, countersign and deliver policies, assist policyholders, and cooperate with adjustors in handling claims. The contract recites that the renewal commissions are compensation for the agent’s required servicing of the policies he has written.</p>
+                <p pgmap="156" id="b156-9">The contract may be terminated by either party at any time and will terminate if Lawyer dies. The five-year termination benefits, described earlier, begin at termination if the agent has been employed for two years or more. There is also a true retirement plan, entitled Extended Termination Payments. That plan takes effect if the contract is terminated after the agent reaches age 65 and has at least 20 years of service. The retirement benefits begin as in the five-year plan and then continue at the same monthly rate until the agent’s death. In any case of termination the agent must return all property and not solicit State Farm’s policyholders competitively for a year, but those restrictions are within the agent’s control and not relevant here.</p>
+                <p pgmap="156(10) 157(228)" id="b156-10">
+                   We are unable to agree with the chancellor’s ruling that the five-year termination payments are vested marital property in this case. We are not concerned with State Farm’s true retire­ment plan, only with the 60-month stopgap that is evidently intended to compensate the agent for lost renewal commissions when the contract is terminated by the employer or by the agent himself. Lawyer was born in 1946 and will not reach 65 until the year 2011, twenty-five years in the future. When the suit was filed he had been with State Farm for ten years. His annual commis­sions had increased to about $80,000 (from which he must pay his staff and office expenses, not detailed in the testimony). There is no indication he is likely to terminate his association with State Farm. It would be next to impossible to put a present value on the possibility that Lawyer will receive termination payments before he reaches retirement age. Certainly no such estimate is in the record as abstracted. If, on the other hand, Lawyer retires after reaching 65, as presumably he will, the decree requires that up to $644 of his retirement benefits must be paid to his wife of 25 years earlier, though his earnings so long ago will have little to do with the amount of his retirement income. We are unwilling to extend our holdings in Day and Gentry to the facts of this case.</p>
+                <p pgmap="157" id="b157-6">Before closing we should mention a case, not cited in the briefs, in which the California Supreme Court, on facts identical to those in the case at bar, held that five-year termination benefits under the same State Farm contract are divisible as community property, upon divorce. Skaden v. Skaden, 19 Cal. 3d 682, 139 Cal.Rptr. 615, 566 P.2d 249 (1977). The opinion, however, supplies no guidance; for the court made no suggestion about the division, declaring instead that in all such cases the proper division should be left to the sound discretion of the trial court, to which the case was remanded.</p>
+                <p pgmap="157" id="b157-7">Affirmed in part, reversed in part.</p>
+              </opinion>
+              <opinion type="dissent">
+                <author pgmap="157" id="b157-10">Steele Hays, Justice,</author>
+                <p pgmap="157(50) 158(60)" id="Ap7">dissenting. In Day v. Day, 281 Ark. 261, 663 S.W.2d 719 (1984), this court took a significant step forward in interpreting marital property under Ark. Stat. Ann. § 34-1214 (1985 Supp.), modelling our approach after the case of In re Marriage of Brown, 15 Cal.3rd 838, 126 Cal.Rept. 633, 544 P.2d 561 (1976). In Day v. Day we pointed out that we were not adopting an inflexible rule with respect to pension plans, but that our marital property law allows leeway for the exercise of the chancellor’s best judgment in providing that “all marital property shall be divided equally unless the court finds such a division to be inequitable,” adding:</p>
+                <blockquote pgmap="158" id="b158-6">What we do hold is simply that earnings or other property acquired by each spouse must be treated as marital property, unless falling within one of the statutory excep­tions, and neither one can deprive the other of any interest in such property by putting it temporarily beyond his or her own control, as by the purchase of annuities, participation in a retirement plan, or other device for postponing full enjoyment of the property.</blockquote>
+                <p pgmap="158" id="b158-7">We have followed the Day decision in several later cases: Young v. Young, 288 Ark. 33, 701 S.W.2d 369 (1986); Gentry v. Gentry, 282 Ark. 413, 668 S.W.2d 947 (1984); Marshall v. Marshall, 285 Ark. 426, 688 S.W.2d 279 (1985), as has the Court of Appeals, Womacks v. Womack, 16 Ark.App. 139 (1985). Thus, in Day, we departed from earlier decisions that had looked largely to the question of vesting in determining whether one spouse had a marital interest in personal property of the other spouse: Hackett v. Hackett, 278 Ark. 82, 643 S.W.2d 560 (1982); Sweeney v. Sweeney, 267 Ark. 595, 593 S.W.2d 21 (1980); Paulsen v. Paulsen, 269 Ark. 523, 601 S.W.2d 873 (1980); and Potter v. Potter, 280 Ark. 38, 655 S.W.2d 382 (1983).</p>
+                <p pgmap="158" id="b158-8">Here, the chancellor held that the termination benefits were marital property to be divided in kind, as in Day v. Day, supra, so that Mrs. Lawyer would receive her share of the benefits only when and if, Mr. Lawyer receives them.</p>
+                <p pgmap="158" id="b158-9">These termination benefits, which became vested in 1975 though not mature until Mr. Lawyer’s employment terminates, are nothing more than deferred compensation, accruing, at least in part, during the marriage of these parties. That was the factor which prompted the court to hold as it did in In re Marriage of Brown, supra, and which should guide us to the same conclusion.</p>
+                <p pgmap="158(23) 159(96)" id="b158-10">I disagree that Skaden v. Skaden, 19 Cal.3d 679, 139 Cal. Rept. 615, 566 P.2d 249 (1977) can be so easily disregarded as the majority opinion suggests. It has precedence for us in light of our dependence on Brown. The trial judge in Skaden held that termination benefits virtually identical to the benefits in this case were not divisible property. The Supreme Court reversed, finding on the strength of the Brown decision that the benefits were a form of deferred compensation as opposed to a mere expectancy, leaving only to the trial court on remand whether to divide the benefits in kind as received, or on the basis of present value. We should, I submit, adopt a similar position.</p>
+                <p pgmap="159" id="b159-4">We have said that chancellors are given broad powers under § 34-­1214 to distribute property in divorce, Williford v. Will­iford, 280 Ark. 77, 655 S.W.2d 398 (1983) and that the legislative purpose behind § 34-1214 should not be frustrated by drawing controlling differences between pensions vested and currently payable and those that are vested but payable in the future. Day v. Day, supra. If we are to be consistent, we should affirm the chancellor.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="154" ORDERLABEL="128" TYPE="page">
+        <fptr FILEID="tiff_00077_1"/>
+        <fptr FILEID="jp2_00077_1"/>
+        <fptr FILEID="alto_00077_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_154.1" BETYPE="IDREF" FILEID="alto_00077_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="155" ORDERLABEL="129" TYPE="page">
+        <fptr FILEID="tiff_00078_0"/>
+        <fptr FILEID="jp2_00078_0"/>
+        <fptr FILEID="alto_00078_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_155.3" BETYPE="IDREF" FILEID="alto_00078_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="156" ORDERLABEL="130" TYPE="page">
+        <fptr FILEID="tiff_00078_1"/>
+        <fptr FILEID="jp2_00078_1"/>
+        <fptr FILEID="alto_00078_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_156.2" BETYPE="IDREF" FILEID="alto_00078_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="157" ORDERLABEL="131" TYPE="page">
+        <fptr FILEID="tiff_00079_0"/>
+        <fptr FILEID="jp2_00079_0"/>
+        <fptr FILEID="alto_00079_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_157.3" BETYPE="IDREF" FILEID="alto_00079_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="158" ORDERLABEL="132" TYPE="page">
+        <fptr FILEID="tiff_00079_1"/>
+        <fptr FILEID="jp2_00079_1"/>
+        <fptr FILEID="alto_00079_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_158.2" BETYPE="IDREF" FILEID="alto_00079_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="159" ORDERLABEL="133" TYPE="page">
+        <fptr FILEID="tiff_00080_0"/>
+        <fptr FILEID="jp2_00080_0"/>
+        <fptr FILEID="alto_00080_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_159.3" BETYPE="IDREF" FILEID="alto_00080_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b154-9" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_154.14" BETYPE="IDREF" FILEID="alto_00077_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b158-10" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_158.8" BETYPE="IDREF" FILEID="alto_00079_1"/>
+            <area BEGIN="BL_159.1" BETYPE="IDREF" FILEID="alto_00080_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b157-10" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_157.8" BETYPE="IDREF" FILEID="alto_00079_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b154-3" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_154.3" BETYPE="IDREF" FILEID="alto_00077_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b154-4" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_154.6" BETYPE="IDREF" FILEID="alto_00077_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AWY" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_154.7" BETYPE="IDREF" FILEID="alto_00077_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b158-7" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_158.5" BETYPE="IDREF" FILEID="alto_00079_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b156-10" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_156.8" BETYPE="IDREF" FILEID="alto_00078_1"/>
+            <area BEGIN="BL_157.1" BETYPE="IDREF" FILEID="alto_00079_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AOj" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_154.5" BETYPE="IDREF" FILEID="alto_00077_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AoC" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_154.17" BETYPE="IDREF" FILEID="alto_00077_1"/>
+            <area BEGIN="BL_154.18" BETYPE="IDREF" FILEID="alto_00077_1"/>
+            <area BEGIN="BL_155.1" BETYPE="IDREF" FILEID="alto_00078_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b155-7" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_155.5" BETYPE="IDREF" FILEID="alto_00078_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b155-6" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_155.4" BETYPE="IDREF" FILEID="alto_00078_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b157-7" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_157.5" BETYPE="IDREF" FILEID="alto_00079_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b157-6" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_157.4" BETYPE="IDREF" FILEID="alto_00079_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b156-8" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_156.6" BETYPE="IDREF" FILEID="alto_00078_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b156-9" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_156.7" BETYPE="IDREF" FILEID="alto_00078_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b156-6" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_156.4" BETYPE="IDREF" FILEID="alto_00078_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b156-7" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_156.5" BETYPE="IDREF" FILEID="alto_00078_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b157-9" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_157.7" BETYPE="IDREF" FILEID="alto_00079_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b157-8" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_157.6" BETYPE="IDREF" FILEID="alto_00079_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b158-8" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_158.6" BETYPE="IDREF" FILEID="alto_00079_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b155-8" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_155.6" BETYPE="IDREF" FILEID="alto_00078_0"/>
+            <area BEGIN="BL_156.1" BETYPE="IDREF" FILEID="alto_00078_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b158-9" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_158.7" BETYPE="IDREF" FILEID="alto_00079_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b154-10" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_154.15" BETYPE="IDREF" FILEID="alto_00077_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b154-11" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_154.16" BETYPE="IDREF" FILEID="alto_00077_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A0t" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_154.4" BETYPE="IDREF" FILEID="alto_00077_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ap7" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_157.9" BETYPE="IDREF" FILEID="alto_00079_0"/>
+            <area BEGIN="BL_157.10" BETYPE="IDREF" FILEID="alto_00079_0"/>
+            <area BEGIN="BL_158.1" BETYPE="IDREF" FILEID="alto_00079_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b158-6" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_158.4" BETYPE="IDREF" FILEID="alto_00079_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b159-4" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_159.4" BETYPE="IDREF" FILEID="alto_00080_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

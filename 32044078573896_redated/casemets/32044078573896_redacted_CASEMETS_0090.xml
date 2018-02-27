@@ -1,0 +1,326 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0090" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Pulliam v. Booth">Pulliam vs. Booth</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 420</citation>
+          <decisiondate>1860-07</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00211_1" MIMETYPE="image/tiff" CHECKSUM="e4488d578300e7ac513463e428c93d53" CHECKSUMTYPE="MD5" SIZE="26066">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00211_1.tif"/>
+      </file>
+      <file ID="tiff_00212_0" MIMETYPE="image/tiff" CHECKSUM="d61a7644093d4300b23077a2abd6a478" CHECKSUMTYPE="MD5" SIZE="34064">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00212_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00211_1" MIMETYPE="image/jp2" CHECKSUM="c1f72d6c2f05a13a27fa247ae90e77d4" CHECKSUMTYPE="MD5" SIZE="2529512">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00211_1.jp2"/>
+      </file>
+      <file ID="jp2_00212_0" MIMETYPE="image/jp2" CHECKSUM="46db4e1a048901c9a7459bf8f1addbe0" CHECKSUMTYPE="MD5" SIZE="2607956">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00212_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00211_1" MIMETYPE="text/xml" CHECKSUM="549892fd1b3365df7f17e7a9e923e7d1" CHECKSUMTYPE="MD5" SIZE="49909">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00211_1.xml"/>
+      </file>
+      <file ID="alto_00212_0" MIMETYPE="text/xml" CHECKSUM="1ba3f10d430ada810e524e4eda882212" CHECKSUMTYPE="MD5" SIZE="60678">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00212_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0090" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="421" firstpage="420">
+              <parties id="b422-7" pgmap="422">Pulliam vs. Booth.</parties>
+              <attorneys id="b422-11" pgmap="422">Duval &amp; King, for plaintiff.</attorneys>
+              <summary id="b422-9" pgmap="422">Writ of Error to Sebastian Circuit Court.</summary>
+              <summary id="b422-10" pgmap="422">Hon. Felix I. Batson Circuit Judge.</summary>
+              <headnotes id="b422-8" pgmap="422">The plaintiff having called on defendant for settlement and payment of a fee due him as attorney, and the parties having agreed as to the amount, which the defen­dant promised to pay, the plaintiff is entitled to a verdict for the amount, as upon an account stated between the parties.</headnotes>
+              <opinion type="majority">
+                <author id="b422-12" pgmap="422">Mr. Chief Justice English</author>
+                <p id="Alk" pgmap="422">delivered the opinion of the Court.</p>
+                <p id="ANc" pgmap="422(21) 423(119)">The plaintiff in error sued the defendant for services as an attorney. On the trial the plaintiff proved that the defendant employed Mm to assist other counsel in prosecuting a claim made by him to a large estate; that he rendered services for the defendant, was present and assisted in several consultations about the claim, at one of which he wrote down the facts of the case; and assisted in procuring an administration upon the estate. That after the claim was established, the plaintiff called on defendant for settlement and payment of Ms fee, they dis­agreed about the amount at first, but finally agreed upon $000, which the defendant promised to pay, and afterwards directed the administrator, who had charge of the estate, to pay the plaintiff that sum, but after that, countermanded the order, and plaintiff sued him.</p>
+                <p id="b423-6" pgmap="423">The evidence for the defendant was negative, the witnesses stating that they did not know of any services rendered for him by the plaintiff.</p>
+                <p id="b423-7" pgmap="423">The jury found a verdict for the defendant, and the court refused a new trial.</p>
+                <p id="b423-8" pgmap="423">We think, upon the whole evidence, the plaintiff was clearly entitled to a verdict for $600, as upon an account stated between the parties, and that the court erred in refusing a new trial.</p>
+                <p id="b423-9" pgmap="423">The evidence in this case is much stronger for the plaintiff than the evidence for plaintiff in the case of Wilcox vs. Boothe, 19 Ark. 684.</p>
+                <p id="b423-10" pgmap="423">The judgment is reversed, and the cause remanded with instructions to the court below to grant the plaintiff a new trial.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="422" ORDERLABEL="420" TYPE="page">
+        <fptr FILEID="tiff_00211_1"/>
+        <fptr FILEID="jp2_00211_1"/>
+        <fptr FILEID="alto_00211_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_422.2" BETYPE="IDREF" FILEID="alto_00211_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_422.3" BETYPE="IDREF" FILEID="alto_00211_1"/>
+              <area BEGIN="BL_422.4" BETYPE="IDREF" FILEID="alto_00211_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_422.7" BETYPE="IDREF" FILEID="alto_00211_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="423" ORDERLABEL="421" TYPE="page">
+        <fptr FILEID="tiff_00212_0"/>
+        <fptr FILEID="jp2_00212_0"/>
+        <fptr FILEID="alto_00212_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_423.3" BETYPE="IDREF" FILEID="alto_00212_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_423.2" BETYPE="IDREF" FILEID="alto_00212_0"/>
+              <area BEGIN="BL_423.4" BETYPE="IDREF" FILEID="alto_00212_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b423-9" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_423.8" BETYPE="IDREF" FILEID="alto_00212_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b423-8" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_423.7" BETYPE="IDREF" FILEID="alto_00212_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Alk" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_422.14" BETYPE="IDREF" FILEID="alto_00211_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ANc" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_422.15" BETYPE="IDREF" FILEID="alto_00211_1"/>
+            <area BEGIN="BL_423.1" BETYPE="IDREF" FILEID="alto_00212_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b423-7" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_423.6" BETYPE="IDREF" FILEID="alto_00212_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b423-6" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_423.5" BETYPE="IDREF" FILEID="alto_00212_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b423-10" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_423.9" BETYPE="IDREF" FILEID="alto_00212_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b422-8" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_422.9" BETYPE="IDREF" FILEID="alto_00211_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b422-9" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_422.10" BETYPE="IDREF" FILEID="alto_00211_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b422-7" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_422.8" BETYPE="IDREF" FILEID="alto_00211_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b422-10" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_422.11" BETYPE="IDREF" FILEID="alto_00211_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b422-11" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_422.12" BETYPE="IDREF" FILEID="alto_00211_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b422-12" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_422.13" BETYPE="IDREF" FILEID="alto_00211_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

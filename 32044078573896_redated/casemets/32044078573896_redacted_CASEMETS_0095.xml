@@ -1,0 +1,493 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0095" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Lacefield v. Stell">Lacefield vs. Stell</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 437</citation>
+          <decisiondate>1860-07</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00220_0" MIMETYPE="image/tiff" CHECKSUM="722e2d340da8c7c5de5c3ace7d7bee73" CHECKSUMTYPE="MD5" SIZE="29576">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00220_0.tif"/>
+      </file>
+      <file ID="tiff_00220_1" MIMETYPE="image/tiff" CHECKSUM="5b98089564f696e5346d6754c1017777" CHECKSUMTYPE="MD5" SIZE="47208">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00220_1.tif"/>
+      </file>
+      <file ID="tiff_00221_0" MIMETYPE="image/tiff" CHECKSUM="ead1c934701771cf8577c67549654437" CHECKSUMTYPE="MD5" SIZE="46080">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00221_0.tif"/>
+      </file>
+      <file ID="tiff_00221_1" MIMETYPE="image/tiff" CHECKSUM="a9b8aa8547d833074d71473bb882436a" CHECKSUMTYPE="MD5" SIZE="30720">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00221_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00220_0" MIMETYPE="image/jp2" CHECKSUM="47a9a5e4d60de184faada831a1f1ed69" CHECKSUMTYPE="MD5" SIZE="2487728">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00220_0.jp2"/>
+      </file>
+      <file ID="jp2_00220_1" MIMETYPE="image/jp2" CHECKSUM="4a9052c1506ecb658153fefea701b982" CHECKSUMTYPE="MD5" SIZE="2488195">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00220_1.jp2"/>
+      </file>
+      <file ID="jp2_00221_0" MIMETYPE="image/jp2" CHECKSUM="422d54de35d5a7d59b557b1a32f40271" CHECKSUMTYPE="MD5" SIZE="2521110">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00221_0.jp2"/>
+      </file>
+      <file ID="jp2_00221_1" MIMETYPE="image/jp2" CHECKSUM="507da296bac11750566000d264a6c932" CHECKSUMTYPE="MD5" SIZE="2370939">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00221_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00220_0" MIMETYPE="text/xml" CHECKSUM="227b3a9f7d8eb339112ea2dfbb9aff3f" CHECKSUMTYPE="MD5" SIZE="57114">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00220_0.xml"/>
+      </file>
+      <file ID="alto_00220_1" MIMETYPE="text/xml" CHECKSUM="f75df30ac98237f03f9868ddc1a994a2" CHECKSUMTYPE="MD5" SIZE="89992">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00220_1.xml"/>
+      </file>
+      <file ID="alto_00221_0" MIMETYPE="text/xml" CHECKSUM="88edefd467d2b6db4b857b68efe8feef" CHECKSUMTYPE="MD5" SIZE="87818">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00221_0.xml"/>
+      </file>
+      <file ID="alto_00221_1" MIMETYPE="text/xml" CHECKSUM="adcb89870697709e25428a8ff3ca0607" CHECKSUMTYPE="MD5" SIZE="61739">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00221_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0095" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="440" firstpage="437">
+              <parties id="b439-8" pgmap="439">Lacefield vs. Stell.</parties>
+              <attorneys id="b439-12" pgmap="439">Williams for the appellant.</attorneys>
+              <attorneys id="b440-8" pgmap="440">Jordan for appellee,</attorneys>
+              <summary id="b439-10" pgmap="439">Appeal from. Conway Circuit Court.</summary>
+              <summary id="A0N" pgmap="439">Hon. John J. Clendenin, Circuit Judge.</summary>
+              <summary id="b439-13" pgmap="439(10) 440(17)">Did Stell, the defendant, have an improvement upon the land within the meaning of the act of 11th of January,° 1851. Gould's Dig. chap. 101, sec. 19.</summary>
+              <summary id="b440-6" pgmap="440">The act providing for the donation of these lands, provides improvement of them as a condition, upon failure to comply with which, the “land and improvement" thereon are to “revert" to the State. See English's Dig. chap. 97, sec. 4; Gould's Dig. chap. 101, sec. 4. See also, sec. 15, English's Dig. chap. 97, sec. 15; Gould's Dig. chap. 101, sec. 11.</summary>
+              <summary id="b440-7" pgmap="440">When Stell donated the land, he took it, subject to not only the land, but the improvements thereon reverting to the State, upon failure to certify, and if the improvement reverted to the State, (to enable it to re-donate, no doubt is the object of the law,) it was not Stell’s improvement, but had reverted with the land to the State; and when the complainant took the land it was free from any right in Stell to pay for his improvement, because that was not his — having reverted to the State; and not being his, his affidavit was legally false, however honestly taken; and the deed procured by it, is legal fraud; and being a cloud upon our title, will and ought to be canceled.</summary>
+              <summary id="ACe" pgmap="440">contended that the appellant lost all right he acquired by his deed, by failing to pay double the value of the improvement on the land within three months from the date of his deed (Dig. p. 696, sec. 3;) and that the position, that the appellee, by not complying with the conditions of the donation to him, had forfeited his improvement to the State, was not warranted by a fair construction of the statute.</summary>
+              <headnotes id="b439-9" pgmap="439">A donee of forfeited lands having failed to pay the owner of improvements on the land, double the value of his improvements, as prescribed by the 19th section of the act (art. 2, ch. 101, Gould’s Dig.,) his right to the land becomes forfeited to the State, and the auditor may sell the land to another.</headnotes>
+              <opinion type="majority">
+                <author id="b440-9" pgmap="440">Mr. Justice Fairchild</author>
+                <p id="A6X" pgmap="440">delivered the opinion of the court.</p>
+                <p id="b440-10" pgmap="440(73) 441(51)">On the 26th of November, 1856. the plaintiff, a minor, ob­tained from the auditor of public accounts a donation deed to the north-west quarter of section twenty-eight, in township seven, north of range fifteen west, in Conway county. But at this time, and for several years before, the defendant owned an improvement on the land, ‘ whereby, under section 19, chapter 101, Gould's Digest, it became necessary for the plaintiff to pay to the defendant double the value of the improvement, and to do so within three months from the deed, and take a receipt from the defendant of the amount of money paid for the im­provement, and also, within thirty days from that time, to file the receipt with the auditor.</p>
+                <p id="b441-5" pgmap="441">The plaintiff did not pay, or offer to pay, the defendant for his improvement.</p>
+                <p id="b441-6" pgmap="441">On the 27th of March, 1857, the defendant applied to the auditor to purchase the land, filing his affidavit with the auditor, in which he|stated thatahe owned an improvement on the land at the time it was donated to the plaintiff, and that the plaintiff had not paid or tendered to him double the value of his im­provement.</p>
+                <p id="b441-7" pgmap="441">The auditor thereupon allowed the defendant to purchase the land by paying all arrearages of taxes charged on it, amount­ing to one hundred and sixteen 35-100 dollars. The defendant paid the money to the auditor, and the auditor executed a deed to him for the land as if it had never been donated, under the authority of the section of the statute before cited.</p>
+                <p id="b441-8" pgmap="441">The case is a conflict as to the validity of the two deeds, the plaintiff praying that the defendant’s deed be canceled. The court below dismissed his bill, and he appealed.</p>
+                <p id="b441-9" pgmap="441">The plaintiff obtained the land as a gratuity from the State, subject to the condition prescribed by the law, of paying double the value of the defendant’s improvement.</p>
+                <p id="b441-10" pgmap="441">Failing in this his right was forfeited, and the auditor pro­perly sold the land to the defendant, whose title to it is good against the plaintiff.</p>
+                <p id="b441-11" pgmap="441(83) 442(37)">We have not overlooked the argument of the counsel for the appellant, that the defendant had no improvement on the land when it was donated to the plaintiff, from the improvement having reverted to the State upon the defendant’s failure to preserve his donation title of 1855, and therefore that the plain­tiff was not obliged to pay the defendant double the value of the improvement. However that might be determined, upon suitable allegations, we need not say, for the first donation title and its forfeiture are not brought into the case, only as evidence in the agreed state of facts. There is no pleading in the case setting it up, on which the evidence can stand for considera­tion.</p>
+                <p id="b442-5" pgmap="442">The case made by the bill is the plaintiff’s donation deed, and the defendant’s subsequent purchase from the auditor, which is alleged to be void. The case of the answer is, that defendant owned an improvement on the land when plaintiff obtained a donation deed to it, which was not paid for, for which the auditor’s deed of March, 1857, was procured by the defendant. Thus, the foundation of the appellant’s argument, however good it may be in itself, has no pleadings upon which to rest.</p>
+                <p id="b442-6" pgmap="442">Let the decree be affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="439" ORDERLABEL="437" TYPE="page">
+        <fptr FILEID="tiff_00220_0"/>
+        <fptr FILEID="jp2_00220_0"/>
+        <fptr FILEID="alto_00220_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_439.3" BETYPE="IDREF" FILEID="alto_00220_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_439.2" BETYPE="IDREF" FILEID="alto_00220_0"/>
+              <area BEGIN="BL_439.4" BETYPE="IDREF" FILEID="alto_00220_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_439.8" BETYPE="IDREF" FILEID="alto_00220_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="440" ORDERLABEL="438" TYPE="page">
+        <fptr FILEID="tiff_00220_1"/>
+        <fptr FILEID="jp2_00220_1"/>
+        <fptr FILEID="alto_00220_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_440.2" BETYPE="IDREF" FILEID="alto_00220_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_440.3" BETYPE="IDREF" FILEID="alto_00220_1"/>
+              <area BEGIN="BL_440.4" BETYPE="IDREF" FILEID="alto_00220_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="441" ORDERLABEL="439" TYPE="page">
+        <fptr FILEID="tiff_00221_0"/>
+        <fptr FILEID="jp2_00221_0"/>
+        <fptr FILEID="alto_00221_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_441.3" BETYPE="IDREF" FILEID="alto_00221_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_441.2" BETYPE="IDREF" FILEID="alto_00221_0"/>
+              <area BEGIN="BL_441.4" BETYPE="IDREF" FILEID="alto_00221_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="442" ORDERLABEL="440" TYPE="page">
+        <fptr FILEID="tiff_00221_1"/>
+        <fptr FILEID="jp2_00221_1"/>
+        <fptr FILEID="alto_00221_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_442.2" BETYPE="IDREF" FILEID="alto_00221_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_442.3" BETYPE="IDREF" FILEID="alto_00221_1"/>
+              <area BEGIN="BL_442.4" BETYPE="IDREF" FILEID="alto_00221_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_442.7" BETYPE="IDREF" FILEID="alto_00221_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b440-8" BETYPE="IDREF" FILEID="casebody_0095"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_440.7" BETYPE="IDREF" FILEID="alto_00220_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b440-9" BETYPE="IDREF" FILEID="casebody_0095"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_440.10" BETYPE="IDREF" FILEID="alto_00220_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b439-10" BETYPE="IDREF" FILEID="casebody_0095"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_439.11" BETYPE="IDREF" FILEID="alto_00220_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b439-12" BETYPE="IDREF" FILEID="casebody_0095"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_439.13" BETYPE="IDREF" FILEID="alto_00220_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b439-13" BETYPE="IDREF" FILEID="casebody_0095"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_439.14" BETYPE="IDREF" FILEID="alto_00220_0"/>
+            <area BEGIN="BL_440.1" BETYPE="IDREF" FILEID="alto_00220_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b440-6" BETYPE="IDREF" FILEID="casebody_0095"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_440.5" BETYPE="IDREF" FILEID="alto_00220_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b440-7" BETYPE="IDREF" FILEID="casebody_0095"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_440.6" BETYPE="IDREF" FILEID="alto_00220_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ACe" BETYPE="IDREF" FILEID="casebody_0095"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_440.8" BETYPE="IDREF" FILEID="alto_00220_1"/>
+            <area BEGIN="BL_440.9" BETYPE="IDREF" FILEID="alto_00220_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A0N" BETYPE="IDREF" FILEID="casebody_0095"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_439.12" BETYPE="IDREF" FILEID="alto_00220_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b441-7" BETYPE="IDREF" FILEID="casebody_0095"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_441.7" BETYPE="IDREF" FILEID="alto_00221_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b441-6" BETYPE="IDREF" FILEID="casebody_0095"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_441.6" BETYPE="IDREF" FILEID="alto_00221_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b441-5" BETYPE="IDREF" FILEID="casebody_0095"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_441.5" BETYPE="IDREF" FILEID="alto_00221_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b439-9" BETYPE="IDREF" FILEID="casebody_0095"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_439.10" BETYPE="IDREF" FILEID="alto_00220_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b442-5" BETYPE="IDREF" FILEID="casebody_0095"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_442.5" BETYPE="IDREF" FILEID="alto_00221_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b442-6" BETYPE="IDREF" FILEID="casebody_0095"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_442.6" BETYPE="IDREF" FILEID="alto_00221_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b441-9" BETYPE="IDREF" FILEID="casebody_0095"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_441.9" BETYPE="IDREF" FILEID="alto_00221_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b441-8" BETYPE="IDREF" FILEID="casebody_0095"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_441.8" BETYPE="IDREF" FILEID="alto_00221_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b440-10" BETYPE="IDREF" FILEID="casebody_0095"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_440.12" BETYPE="IDREF" FILEID="alto_00220_1"/>
+            <area BEGIN="BL_441.1" BETYPE="IDREF" FILEID="alto_00221_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b441-11" BETYPE="IDREF" FILEID="casebody_0095"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_441.11" BETYPE="IDREF" FILEID="alto_00221_0"/>
+            <area BEGIN="BL_442.1" BETYPE="IDREF" FILEID="alto_00221_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b441-10" BETYPE="IDREF" FILEID="casebody_0095"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_441.10" BETYPE="IDREF" FILEID="alto_00221_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b439-8" BETYPE="IDREF" FILEID="casebody_0095"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_439.9" BETYPE="IDREF" FILEID="alto_00220_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A6X" BETYPE="IDREF" FILEID="casebody_0095"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_440.11" BETYPE="IDREF" FILEID="alto_00220_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

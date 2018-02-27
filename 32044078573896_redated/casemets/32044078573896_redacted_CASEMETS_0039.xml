@@ -1,0 +1,471 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0039" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Scarborough v. Arnold">Scarborough vs. Arnold</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 231</citation>
+          <decisiondate>1860-05</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00117_0" MIMETYPE="image/tiff" CHECKSUM="53854be7ac5779b688d11ea1d03699a3" CHECKSUMTYPE="MD5" SIZE="18632">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00117_0.tif"/>
+      </file>
+      <file ID="tiff_00117_1" MIMETYPE="image/tiff" CHECKSUM="3341b5312920d34683329ac0fec790c8" CHECKSUMTYPE="MD5" SIZE="48738">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00117_1.tif"/>
+      </file>
+      <file ID="tiff_00118_0" MIMETYPE="image/tiff" CHECKSUM="21fdd6774246ef102bf93d018896eebf" CHECKSUMTYPE="MD5" SIZE="50492">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00118_0.tif"/>
+      </file>
+      <file ID="tiff_00118_1" MIMETYPE="image/tiff" CHECKSUM="c169ebf8f001ba2d6b858dc0c7ded910" CHECKSUMTYPE="MD5" SIZE="30012">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00118_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00117_0" MIMETYPE="image/jp2" CHECKSUM="ca83bf06718f538ef6765b837ec7856d" CHECKSUMTYPE="MD5" SIZE="2439156">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00117_0.jp2"/>
+      </file>
+      <file ID="jp2_00117_1" MIMETYPE="image/jp2" CHECKSUM="3f3d5dad7f8220010f4facccf092d5ed" CHECKSUMTYPE="MD5" SIZE="2654557">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00117_1.jp2"/>
+      </file>
+      <file ID="jp2_00118_0" MIMETYPE="image/jp2" CHECKSUM="5353bf4c369552f9eeec70750a914460" CHECKSUMTYPE="MD5" SIZE="2695171">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00118_0.jp2"/>
+      </file>
+      <file ID="jp2_00118_1" MIMETYPE="image/jp2" CHECKSUM="d087260c628ebfe1a7922e9fff64e58e" CHECKSUMTYPE="MD5" SIZE="2467013">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00118_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00117_0" MIMETYPE="text/xml" CHECKSUM="da9d204062ffc578cebb8e29575b0383" CHECKSUMTYPE="MD5" SIZE="32926">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00117_0.xml"/>
+      </file>
+      <file ID="alto_00117_1" MIMETYPE="text/xml" CHECKSUM="ba91776a4dc70d280d9f881a44ecffef" CHECKSUMTYPE="MD5" SIZE="97224">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00117_1.xml"/>
+      </file>
+      <file ID="alto_00118_0" MIMETYPE="text/xml" CHECKSUM="3aaf0e957cdd56384ec38a5e3ccdd54c" CHECKSUMTYPE="MD5" SIZE="93884">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00118_0.xml"/>
+      </file>
+      <file ID="alto_00118_1" MIMETYPE="text/xml" CHECKSUM="158946b4e0c31f81eea7cf751e8fbebb" CHECKSUMTYPE="MD5" SIZE="57625">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00118_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0039" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="234" firstpage="231">
+              <parties id="b233-7" pgmap="233">Scarborough vs. Arnold.</parties>
+              <attorneys id="b233-11" pgmap="233">Byers, for the appellant,</attorneys>
+              <summary id="b233-9" pgmap="233">Appeal from Marion Circuit Court.</summary>
+              <summary id="b233-10" pgmap="233">Hon. William C. Bevens, Circuit Judge.</summary>
+              <summary id="AKp" pgmap="233">relied upon section 70, page 507, Revised Statutes, in support of the motion for judgment against the sheriff.</summary>
+              <headnotes id="b233-8" pgmap="233">Where the sheriff offers land for sale under execution, and it is struck off to a bidder, who refuses to pay his bid, and the sheriff does no act treating the sale as complete, it is not such a sale as will subject him to a motion under sec. 76, chuj). 68, Gould's Digest. ,</headnotes>
+              <opinion type="majority">
+                <author id="b234-3" pgmap="234">Mi*. Chief Justice</author>
+                <p id="A2R" pgmap="234">English delivered the opinion of the Court.</p>
+                <p id="b234-4" pgmap="234">This was a motion by Scarborough, in the Marion Circuit Court, for judgment against Arnold, as sheriff, founded on the provisions of sec. 76, chap. 68, Gould’s Dig.</p>
+                <p id="b234-5" pgmap="234">It was alleged in the motion that by virtue of an execution in favor of Scarborough against Jesse Mooney and others, Arnold levied upon and offered for sale certain lands, as the property of Mooney, which were purchased by Pearson and Moore at $111 50; and that Arnold had returned upon the execution that he had sold the lands to them, for that sum, but that they had not paid him therefor. That Arnold failed to have the money in court on the return day of -the fi. fa., and also refused to pay it to the plaintiff, etc. Wherefore he moved for judgment against him for the amount of the money bid for the lands, with interest, and damages at the rate of ten per cent, per month, as provided by the statute, etc.</p>
+                <p id="b234-6" pgmap="234">Arnold stated in his response to the motion, that Moore and Pearson bid off the lands at the sum stated, but refused to pay him the money. That when the sale was made, he demanded the money of them, and they promised to pay it to him on the next morning; and that, on the next morning they refused to do so; and that, when he ascertained they would not pay him the amount bid by them for the lands, the time prescribed by law for judicial sales had expired, and that he could not legally offer the lands for sale a second time.</p>
+                <p id="b234-7" pgmap="234">The matter was submitted to the court, by consent of parties, and the plaintiff read in evidence the execution, return, etc.</p>
+                <p id="b234-8" pgmap="234">Arnold stated in his return on the fi. fa., that he offered the lands for sale, that one tract was bid off by Pearson for $107, and the other by Moore at $5, w'hich sum of money remained wholly unpaid, etc., and the execution unsatisfied, etc.</p>
+                <p id="b234-9" pgmap="234(56) 235(139)">Wm. Byers, Esq., the attorney for the plaintiff in the execu­tion, testified that he was present at the sale, and, immediately on the close of the sale, directed Arnold to demand the money of Pearson, stating to him that he believed, from the conduct of Pearson, that he intended to deceive Arnold, and would not pay him the money. Witness also told Arnold, at the time, that if he did not do his duty about the matter, he would hold him responsible. That Arnold went, as he- said, to Pearson and Moore, and demanded the money, and they told him they would pay it to him the next day, or some time thereafter, the exact time not recollected by witness. Witness then told him if he waited on them for the money, he would do so at his peril. A few days after the sale, Arnold told witness that Pearson refused to pay his bid, alleging that the defendant in the exe­cution had no title to the land bid off by him. Witness fre­quently requested Arnold to settle the matter, during the term of the court at which the sale took place.</p>
+                <p id="b235-4" pgmap="235">The court overruled the motion for judgment, and discharged the defendant, and the plaintiff appealed.</p>
+                <p id="b235-5" pgmap="235">The section of the statute, under which the motion was made, declares: “ If any officer sell any property under execu­tion, whether he received payment therefor or not, or shall make the money in any execution specified, or thereon indorsed, and directed to be levied, or any part thereof, and shall not have the amount of such sale, or the money so made, before the court, and pay over the same according to law, he shall be liable to pay the whole amount of such sale, or money by him made, to the person entitled thereto, with lawful interest, etc. and damages, etc., at the rate of ten per cent, per month, etc. And the party aggrieved is given a remedy by action against the 'officer and his securities, on his official bond, or by motion for judgment against the officer.</p>
+                <p id="b235-6" pgmap="235">Under this section of the statute, the officer is liable to an action, or motion for judgment, in two cases; first, where he sells property, under execution, and fails to pay over the amount of the sale, whether he received the money or not; and, second,­where he receives money on the execution, and fails to pay it over. Levy vs. Lawson, 5 Ark. 213.</p>
+                <p id="b235-7" pgmap="235(26) 236(43)">It was expressly held in State use, etc. vs. Borden et al., 15 Ark. R. 615, that where a sheriff offers land for sale under an execution, and it is struck off to a bidder, who refuses to pay his bid, it is not such a sale of the property, within the meaning of this section of the statute, as would make the officer respon­sible for the amount.</p>
+                <p id="b236-5" pgmap="236">In the case before us, the lands were bid off by Pearson and Moore; the sheriff demanded the money of them immediately; they promised to pay it to him on the next day, but on the next day refused to do so. He did not execute to them deeds for the lands, or treat the sale as completed, by his return, or other­wise, so as to assume responsibility for the amount bid by them for the lands.</p>
+                <p id="b236-6" pgmap="236">It follows that the appellant, in proceeding by motion under the 76th section of chap. 68, of the Dig., mistook his remedy.</p>
+                <p id="b236-7" pgmap="236">If the appellee was guilty of a breach of official duty in not offering the lands for sale again, on the failure of Pearson and Moore to pay the amount of their bids, when the lands were struck off to them, and as a consequence returned the execution without making safe of the property taken in execution, the 74th and 75 sections of the 68th chapter of the Digest, pre­scribe for the appellant an ample remedy.</p>
+                <p id="b236-8" pgmap="236">The judgment of the court below must be affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="233" ORDERLABEL="231" TYPE="page">
+        <fptr FILEID="tiff_00117_0"/>
+        <fptr FILEID="jp2_00117_0"/>
+        <fptr FILEID="alto_00117_0"/>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_233.1" BETYPE="IDREF" FILEID="alto_00117_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="234" ORDERLABEL="232" TYPE="page">
+        <fptr FILEID="tiff_00117_1"/>
+        <fptr FILEID="jp2_00117_1"/>
+        <fptr FILEID="alto_00117_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_234.1" BETYPE="IDREF" FILEID="alto_00117_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_234.2" BETYPE="IDREF" FILEID="alto_00117_1"/>
+              <area BEGIN="BL_234.3" BETYPE="IDREF" FILEID="alto_00117_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="235" ORDERLABEL="233" TYPE="page">
+        <fptr FILEID="tiff_00118_0"/>
+        <fptr FILEID="jp2_00118_0"/>
+        <fptr FILEID="alto_00118_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_235.3" BETYPE="IDREF" FILEID="alto_00118_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_235.2" BETYPE="IDREF" FILEID="alto_00118_0"/>
+              <area BEGIN="BL_235.4" BETYPE="IDREF" FILEID="alto_00118_0"/>
+              <area BEGIN="BL_235.9" BETYPE="IDREF" FILEID="alto_00118_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="236" ORDERLABEL="234" TYPE="page">
+        <fptr FILEID="tiff_00118_1"/>
+        <fptr FILEID="jp2_00118_1"/>
+        <fptr FILEID="alto_00118_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_236.2" BETYPE="IDREF" FILEID="alto_00118_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_236.3" BETYPE="IDREF" FILEID="alto_00118_1"/>
+              <area BEGIN="BL_236.4" BETYPE="IDREF" FILEID="alto_00118_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b233-10" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_233.5" BETYPE="IDREF" FILEID="alto_00117_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b233-11" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_233.6" BETYPE="IDREF" FILEID="alto_00117_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b234-3" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_234.4" BETYPE="IDREF" FILEID="alto_00117_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b234-5" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_234.7" BETYPE="IDREF" FILEID="alto_00117_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b234-4" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_234.6" BETYPE="IDREF" FILEID="alto_00117_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b234-7" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_234.9" BETYPE="IDREF" FILEID="alto_00117_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b234-6" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_234.8" BETYPE="IDREF" FILEID="alto_00117_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b235-4" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_235.5" BETYPE="IDREF" FILEID="alto_00118_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b235-5" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_235.6" BETYPE="IDREF" FILEID="alto_00118_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b235-6" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_235.7" BETYPE="IDREF" FILEID="alto_00118_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b235-7" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_235.8" BETYPE="IDREF" FILEID="alto_00118_0"/>
+            <area BEGIN="BL_236.1" BETYPE="IDREF" FILEID="alto_00118_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b234-9" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_234.11" BETYPE="IDREF" FILEID="alto_00117_1"/>
+            <area BEGIN="BL_235.1" BETYPE="IDREF" FILEID="alto_00118_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b234-8" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_234.10" BETYPE="IDREF" FILEID="alto_00117_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b236-8" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_236.8" BETYPE="IDREF" FILEID="alto_00118_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AKp" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_233.7" BETYPE="IDREF" FILEID="alto_00117_0"/>
+            <area BEGIN="BL_233.8" BETYPE="IDREF" FILEID="alto_00117_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b236-7" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_236.7" BETYPE="IDREF" FILEID="alto_00118_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b236-6" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_236.6" BETYPE="IDREF" FILEID="alto_00118_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b236-5" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_236.5" BETYPE="IDREF" FILEID="alto_00118_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b233-7" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_233.2" BETYPE="IDREF" FILEID="alto_00117_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b233-9" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_233.4" BETYPE="IDREF" FILEID="alto_00117_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b233-8" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_233.3" BETYPE="IDREF" FILEID="alto_00117_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A2R" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_234.5" BETYPE="IDREF" FILEID="alto_00117_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

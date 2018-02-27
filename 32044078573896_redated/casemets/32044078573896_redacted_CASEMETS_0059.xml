@@ -1,0 +1,563 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0059" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Vines v. Clingfost">Vines et al. vs. Clingfost, Exr.</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 309</citation>
+          <decisiondate>1860-07</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00156_0" MIMETYPE="image/tiff" CHECKSUM="16a349e4d52f24acaa2d23fb38b7f551" CHECKSUMTYPE="MD5" SIZE="20626">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00156_0.tif"/>
+      </file>
+      <file ID="tiff_00156_1" MIMETYPE="image/tiff" CHECKSUM="b2237d638526983f6d6c83bd085bed55" CHECKSUMTYPE="MD5" SIZE="46388">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00156_1.tif"/>
+      </file>
+      <file ID="tiff_00157_0" MIMETYPE="image/tiff" CHECKSUM="4d849287771c4f83b85fc157dd8ad152" CHECKSUMTYPE="MD5" SIZE="49032">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00157_0.tif"/>
+      </file>
+      <file ID="tiff_00157_1" MIMETYPE="image/tiff" CHECKSUM="0ec6a4c881dd97b699eef27ebfe8febe" CHECKSUMTYPE="MD5" SIZE="49714">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00157_1.tif"/>
+      </file>
+      <file ID="tiff_00158_0" MIMETYPE="image/tiff" CHECKSUM="79450107546ee7e3b84fa64fb9a44000" CHECKSUMTYPE="MD5" SIZE="29426">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00158_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00156_0" MIMETYPE="image/jp2" CHECKSUM="e52a0f1427121be7711077fec74b4c59" CHECKSUMTYPE="MD5" SIZE="2615157">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00156_0.jp2"/>
+      </file>
+      <file ID="jp2_00156_1" MIMETYPE="image/jp2" CHECKSUM="52a153dd7296d29e70e7b71c75e4d46c" CHECKSUMTYPE="MD5" SIZE="2577069">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00156_1.jp2"/>
+      </file>
+      <file ID="jp2_00157_0" MIMETYPE="image/jp2" CHECKSUM="8b98c8b61c2d5b5042413844958a77d2" CHECKSUMTYPE="MD5" SIZE="2815510">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00157_0.jp2"/>
+      </file>
+      <file ID="jp2_00157_1" MIMETYPE="image/jp2" CHECKSUM="76d0af6a1925db32c7868f7a163f2c04" CHECKSUMTYPE="MD5" SIZE="2558454">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00157_1.jp2"/>
+      </file>
+      <file ID="jp2_00158_0" MIMETYPE="image/jp2" CHECKSUM="8dd1e1105e045c108d804b1dce974670" CHECKSUMTYPE="MD5" SIZE="2615371">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00158_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00156_0" MIMETYPE="text/xml" CHECKSUM="869a3745a874b72ac802fc02b829e8f7" CHECKSUMTYPE="MD5" SIZE="38916">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00156_0.xml"/>
+      </file>
+      <file ID="alto_00156_1" MIMETYPE="text/xml" CHECKSUM="f5985f511fe9e49971cd2536faf69c2f" CHECKSUMTYPE="MD5" SIZE="91906">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00156_1.xml"/>
+      </file>
+      <file ID="alto_00157_0" MIMETYPE="text/xml" CHECKSUM="65107745f86f3e4d6c1965db719d286a" CHECKSUMTYPE="MD5" SIZE="97991">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00157_0.xml"/>
+      </file>
+      <file ID="alto_00157_1" MIMETYPE="text/xml" CHECKSUM="d8f387a047deda5db3fd09457db655c4" CHECKSUMTYPE="MD5" SIZE="94856">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00157_1.xml"/>
+      </file>
+      <file ID="alto_00158_0" MIMETYPE="text/xml" CHECKSUM="ecd7341f8bfb7af7659595912ff98f01" CHECKSUMTYPE="MD5" SIZE="56949">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00158_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0059" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="313" firstpage="309">
+              <parties id="b311-7" pgmap="311">Vines et al. vs. Clingfost, Exr.</parties>
+              <attorneys id="b311-11" pgmap="311">Lee &amp; McConaugiiey for the appellants.</attorneys>
+              <attorneys id="b312-6" pgmap="312">Carleton, for the appellee.</attorneys>
+              <summary id="b311-9" pgmap="311">Appeal from Union Circuit Court.</summary>
+              <summary id="b311-10" pgmap="311">Hon. Shelton Watson, Circuit Judge.</summary>
+              <summary id="b311-12" pgmap="311">The supposed will was not signed by the testator — a signa­ture consists of the act of writing the party’s name, and the intent. 2 Greenl. Ev., sec. 674.</summary>
+              <summary id="b311-13" pgmap="311(23) 312(23)">The testator’s name was not signed for him by either of the attesting witnesses; 10 Paige R. 91; the signing was by Cobb, who was not an attesting witness. Dayton on Surrogates 1G2; Dig., secs. 4 and 5, Statute Wills; 14 Ark. 682; 17 lb. 319.</summary>
+              <summary id="b312-7" pgmap="312">The principal and only point is, was the will properly signed? On this point, the court is referred to Cornelius Will, 14 Ark. 675; Steven vs. Vanclave, 4 Wash. 262; 2 Greenl. Ev. sec. 674.</summary>
+              <headnotes id="b311-8" pgmap="311">Where the testator holds the pen, in subscribing his name to his will, and another person guides it, the signature thus made is the act of the testator, and it is not necessary that the person guiding the pen should sign the will as an attesting witness.</headnotes>
+              <opinion type="majority">
+                <author id="b312-8" pgmap="312">Mr. Chief Justice English</author>
+                <p id="AuC" pgmap="312">delivered the opinion of the court.</p>
+                <p id="b312-9" pgmap="312">The will of Jacob Clingfost was admitted to probate, in the Probate Court of Union county, against objections interposed by his daughter, Mrs. Vines, and her husband, who appealed to the Circuit Court, where the judgment of the Probate Court, on inspection of the record, was affirmed, and they appealed to this court.</p>
+                <p id="b312-10" pgmap="312">It was objected that the will was not signed by the testator.</p>
+                <p id="b312-11" pgmap="312">John Ford, one of the subscribing witnesses, testified, that at the time the will was signed, the testator was very weak, and at his instance, Hugh B. Cobb guided the pen while the testator held it, and in this way signed Ms name. He was of sound mind, though in feeble health, but perfectly at himself men­tally. Just before signing, Cobb called the witnesses in, and said that was the will of the testator, and read it over; the tes­tator nodded his head, and said “ yes.” Affiant subscribed his name as a witness to the will, in the presence and at the request of the testator, etc. Before the signing of the will, it was read aloud in the hearing of all present, etc., etc.</p>
+                <p id="b312-12" pgmap="312">Wm. Roach, the other subscribing witness, testified that the testator signed the will in the manner stated by Ford, etc., etc.</p>
+                <p id="b312-13" pgmap="312(82) 313(378)">Hugh B. Cobb testified that he wrote the will, at the request of the testator. Roach came for witness, and said testator wanted him to go and write his will: and he went to the house of testator’s son, where testator was. Found him in very feeble health. He said he had sent for witness to write him a will, witness wrote the instrument in question, read it over to him and he said it was right. After witness had written caption’ he asked testator how he wished to dispose of his property, and he told him, and witness wrote it down nearly in the words of the testator. Ford and Roach were called into the house, after the will had been written and read over to testator, and it was read to them, and testator again sanctioned it as being accord­ing to his wish. Witness then presented the paper to testator to sign, in their presence. The room was dark, had but one door, which was shut, and no window, and the bed curtained with blankets, except a small place in front. Testator asked his son Jacob to hand him his specks; and when they were handed to him, he observed that it was so dark that he did not believe he could see, and if he could see, he believed his hand trembled so that he could not write; and he then remarked to his son, “ here, Jake, I reckon you had better write it,” meaning his name — and witness then observed to testator “ for him to hold the pen, and he would write his name for him.” The in­strument was laid on the bible, before testator, and in his lap. Witness sat on the side of the bed or leaned against it, deceased held the top of the pen, above his hand, witness guided it, and in this way the name was written. Testator held the staff of the pen with his right hand, above the hand of witness, who held next to the paper, guiding the pen, and in that way it was signed — testator’s hand touching the hand of witness at the time. Testator had his face towards the paper at the time his name was written, but witness did not know whether he saw the letters being formed or not — nor could witness say whether he used any exertion towards writing his name or not, but wit­ness guided the pen in writing the name of testator to the will, as above stated — and the signature was in the obstructed hand­writing of witness. Testator was in his proper mind at the time. Witness was not interested in the will, and got nothing for writing it.</p>
+                <p id="b313-4" pgmap="313">Such is the substance of the testimony of Cobb, as stated in the bill of exceptions.</p>
+                <p id="b313-5" pgmap="313(10) 314(24)">Every last will and testament, of real or personal property, or both, must be subscribed by the testator at the end of the will, or by some person for him, at his request, etc.</p>
+                <p id="b314-6" pgmap="314">Every person who shall sign the testator’s name to any will, by his direction, shall write his own name as a witness, to such will, and state that he signed the testator’s name at his request. Gould’s Dig. ch. 180, sec. 4-5.</p>
+                <p id="b314-7" pgmap="314">It is insisted for the appellant, that the name of the testator was signed to the will, in this case, by Cobb, who did not sub­scribe his own name, as an attesting witness, and that therefore the will was not executed in accordance with the statute.</p>
+                <p id="b314-8" pgmap="314">A signature, says Mr. Grebnleaf, consists both of the act of writing the parties name, and of intention of thereby finally authenticating the instrument. It is not necessary that the testator should write his entire name. His mark is now held sufficient, even though he was able to write. [This court held the mark sufficient in the matter of Cornelius, 14 Ark. 678.] And if the signature is made by another person guiding his hand with his consent, it is sufficient. 2 Greenleafs Ev. sec. 674.</p>
+                <p id="b314-9" pgmap="314">In Stevens et al. vs. Vandave, 4 Wash. R. 269, the hand of the testator was steadied and guided by one Pharis, and the sig­nature thus written. Washington, J., said, this will, in the opinion of the court, was, upon strictly legal principles, signed by the testator, his hand being with his own consent guided by another and the will afterwards acknowledged by him. Under these circumstances the act of Pharis was, in point of law, (he act of the testator.</p>
+                <p id="b314-10" pgmap="314(107) 315(25)">In Vandruff et al. vs. Reinhart, 29 Penn. State Rep. 232, the testator was so badly affected with palsy, he could not hold the pen to write his name. Pie attempted to make his mark, but wasxmable to do so without assistance, and aby-stander steadied his hand while he made his mark. The court said: If one hav­ing testamentary capacity, is unable from palsy or other cause, to steady his hand so as to make to his will the signature required by law, another person may hold his hand, and aid him in so doing; and it is not necessary to prove any express request from the testator for such assistance. The act is his own, with the assistance of another, and not the act of another under authority from him.</p>
+                <p id="b315-5" pgmap="315">In the case now before us, there was no fraud or .unfairness practiced on the testator. The will was written at his request, and as dictated by him. He manifestly had the mental capacity to make his will. It is clear that'his intention was to sign the will as prepared for him, but being unable to do so, from weak­ness, he was assisted by Gobb, who appears to have acted in good faith, and merely aided the testator to do what he mani­festly desired to do- — to sign the will.</p>
+                <p id="b315-6" pgmap="315">Under these circumstances we think the signature was, in legal effect, the act of the testator, and not the act of Gobb by his request. ' ,</p>
+                <p id="b315-7" pgmap="315">There is no other point in the case that need be noticed.</p>
+                <p id="b315-8" pgmap="315">The judgment must be affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="311" ORDERLABEL="309" TYPE="page">
+        <fptr FILEID="tiff_00156_0"/>
+        <fptr FILEID="jp2_00156_0"/>
+        <fptr FILEID="alto_00156_0"/>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_311.1" BETYPE="IDREF" FILEID="alto_00156_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="312" ORDERLABEL="310" TYPE="page">
+        <fptr FILEID="tiff_00156_1"/>
+        <fptr FILEID="jp2_00156_1"/>
+        <fptr FILEID="alto_00156_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_312.2" BETYPE="IDREF" FILEID="alto_00156_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_312.3" BETYPE="IDREF" FILEID="alto_00156_1"/>
+              <area BEGIN="BL_312.4" BETYPE="IDREF" FILEID="alto_00156_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="313" ORDERLABEL="311" TYPE="page">
+        <fptr FILEID="tiff_00157_0"/>
+        <fptr FILEID="jp2_00157_0"/>
+        <fptr FILEID="alto_00157_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_313.3" BETYPE="IDREF" FILEID="alto_00157_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_313.2" BETYPE="IDREF" FILEID="alto_00157_0"/>
+              <area BEGIN="BL_313.4" BETYPE="IDREF" FILEID="alto_00157_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="314" ORDERLABEL="312" TYPE="page">
+        <fptr FILEID="tiff_00157_1"/>
+        <fptr FILEID="jp2_00157_1"/>
+        <fptr FILEID="alto_00157_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_314.2" BETYPE="IDREF" FILEID="alto_00157_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_314.3" BETYPE="IDREF" FILEID="alto_00157_1"/>
+              <area BEGIN="BL_314.4" BETYPE="IDREF" FILEID="alto_00157_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="315" ORDERLABEL="313" TYPE="page">
+        <fptr FILEID="tiff_00158_0"/>
+        <fptr FILEID="jp2_00158_0"/>
+        <fptr FILEID="alto_00158_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_315.3" BETYPE="IDREF" FILEID="alto_00158_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_315.2" BETYPE="IDREF" FILEID="alto_00158_0"/>
+              <area BEGIN="BL_315.4" BETYPE="IDREF" FILEID="alto_00158_0"/>
+              <area BEGIN="BL_315.14" BETYPE="IDREF" FILEID="alto_00158_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_315.9" BETYPE="IDREF" FILEID="alto_00158_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b311-13" BETYPE="IDREF" FILEID="casebody_0059"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_311.8" BETYPE="IDREF" FILEID="alto_00156_0"/>
+            <area BEGIN="BL_312.1" BETYPE="IDREF" FILEID="alto_00156_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b311-12" BETYPE="IDREF" FILEID="casebody_0059"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_311.7" BETYPE="IDREF" FILEID="alto_00156_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b311-11" BETYPE="IDREF" FILEID="casebody_0059"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_311.6" BETYPE="IDREF" FILEID="alto_00156_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b311-10" BETYPE="IDREF" FILEID="casebody_0059"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_311.5" BETYPE="IDREF" FILEID="alto_00156_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b314-8" BETYPE="IDREF" FILEID="casebody_0059"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_314.7" BETYPE="IDREF" FILEID="alto_00157_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b314-9" BETYPE="IDREF" FILEID="casebody_0059"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_314.8" BETYPE="IDREF" FILEID="alto_00157_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b314-6" BETYPE="IDREF" FILEID="casebody_0059"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_314.5" BETYPE="IDREF" FILEID="alto_00157_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b314-7" BETYPE="IDREF" FILEID="casebody_0059"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_314.6" BETYPE="IDREF" FILEID="alto_00157_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b315-8" BETYPE="IDREF" FILEID="casebody_0059"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_315.8" BETYPE="IDREF" FILEID="alto_00158_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b312-12" BETYPE="IDREF" FILEID="casebody_0059"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_312.12" BETYPE="IDREF" FILEID="alto_00156_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b312-13" BETYPE="IDREF" FILEID="casebody_0059"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_312.13" BETYPE="IDREF" FILEID="alto_00156_1"/>
+            <area BEGIN="BL_313.1" BETYPE="IDREF" FILEID="alto_00157_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b312-10" BETYPE="IDREF" FILEID="casebody_0059"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_312.10" BETYPE="IDREF" FILEID="alto_00156_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b312-11" BETYPE="IDREF" FILEID="casebody_0059"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_312.11" BETYPE="IDREF" FILEID="alto_00156_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AuC" BETYPE="IDREF" FILEID="casebody_0059"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_312.8" BETYPE="IDREF" FILEID="alto_00156_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b315-7" BETYPE="IDREF" FILEID="casebody_0059"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_315.7" BETYPE="IDREF" FILEID="alto_00158_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b315-6" BETYPE="IDREF" FILEID="casebody_0059"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_315.6" BETYPE="IDREF" FILEID="alto_00158_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b315-5" BETYPE="IDREF" FILEID="casebody_0059"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_315.5" BETYPE="IDREF" FILEID="alto_00158_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b311-7" BETYPE="IDREF" FILEID="casebody_0059"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_311.2" BETYPE="IDREF" FILEID="alto_00156_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b311-8" BETYPE="IDREF" FILEID="casebody_0059"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_311.3" BETYPE="IDREF" FILEID="alto_00156_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b313-5" BETYPE="IDREF" FILEID="casebody_0059"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_313.6" BETYPE="IDREF" FILEID="alto_00157_0"/>
+            <area BEGIN="BL_314.1" BETYPE="IDREF" FILEID="alto_00157_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b313-4" BETYPE="IDREF" FILEID="casebody_0059"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_313.5" BETYPE="IDREF" FILEID="alto_00157_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b312-8" BETYPE="IDREF" FILEID="casebody_0059"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_312.7" BETYPE="IDREF" FILEID="alto_00156_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b312-6" BETYPE="IDREF" FILEID="casebody_0059"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_312.5" BETYPE="IDREF" FILEID="alto_00156_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b312-7" BETYPE="IDREF" FILEID="casebody_0059"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_312.6" BETYPE="IDREF" FILEID="alto_00156_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b314-10" BETYPE="IDREF" FILEID="casebody_0059"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_314.9" BETYPE="IDREF" FILEID="alto_00157_1"/>
+            <area BEGIN="BL_315.1" BETYPE="IDREF" FILEID="alto_00158_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b311-9" BETYPE="IDREF" FILEID="casebody_0059"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_311.4" BETYPE="IDREF" FILEID="alto_00156_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b312-9" BETYPE="IDREF" FILEID="casebody_0059"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_312.9" BETYPE="IDREF" FILEID="alto_00156_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

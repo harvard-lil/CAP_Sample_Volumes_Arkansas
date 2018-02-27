@@ -1,0 +1,342 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0078" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Huffman v. State">Donald HUFFMAN v. STATE of Arkansas</name>
+          <docketnumber>CR 85-190</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 321</citation>
+          <citation category="parallel" type="bluebook">704 S.W.2d 627</citation>
+          <decisiondate>1986-03-10</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:00Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00177_0" MIMETYPE="image/tiff" CHECKSUM="d534ade97d850b9c2c2434d62c92b150" CHECKSUMTYPE="MD5" SIZE="16278">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00177_0.tif"/>
+      </file>
+      <file ID="tiff_00177_1" MIMETYPE="image/tiff" CHECKSUM="b5b1561547a945f98c0bfc9ea2ba88c6" CHECKSUMTYPE="MD5" SIZE="44226">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00177_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00177_0" MIMETYPE="image/jp2" CHECKSUM="b660d39b4db3d6d9ad2da8264e0e78d5" CHECKSUMTYPE="MD5" SIZE="1680243">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00177_0.jp2"/>
+      </file>
+      <file ID="jp2_00177_1" MIMETYPE="image/jp2" CHECKSUM="3af943dc1e095b07077fc1cd1208dcfc" CHECKSUMTYPE="MD5" SIZE="2446789">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00177_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00177_0" MIMETYPE="text/xml" CHECKSUM="faabadc89e18c088f56001481a7f71a8" CHECKSUMTYPE="MD5" SIZE="25990">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00177_0.xml"/>
+      </file>
+      <file ID="alto_00177_1" MIMETYPE="text/xml" CHECKSUM="a293d62ae4fd53e843a244fe08e52292" CHECKSUMTYPE="MD5" SIZE="74579">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00177_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0078" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="321" lastpage="322">
+              <court pgmap="353" id="b353-4">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="353" id="b353-3">CR 85-190</docketnumber>
+              <citation pgmap="353" id="A52">704 S.W.2d 627</citation>
+              <parties pgmap="353" id="b353-2">Donald HUFFMAN v. STATE of Arkansas</parties>
+              <decisiondate pgmap="353" id="A0pP">Opinion delivered March 10, 1986</decisiondate>
+              <judges pgmap="354" id="b354-9">Purtle, J., not participating.</judges>
+              <attorneys pgmap="353" id="b353-9">Edwin J. Alford, for appellant.</attorneys>
+              <attorneys pgmap="353" id="b353-10">Sieve Clark, Att’y Gen., by: Jerome T. Kearney, Asst. Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="353" id="b353-11">George Rose Smith, Justice.</author>
+                <p pgmap="353" id="A0fk">On November 15,1984, the appellant was charged with having committed rape on or about January 15, 1984, by engaging in sexual intercourse or deviate sexual activity with a girl under the age of eleven. The jury found him guilty and imposed a 35-year sentence. There is no merit in his three arguments for reversal.</p>
+                <p pgmap="354" id="b354-5">
+                   It is first contended that the appellant’s signed confes­sion was involuntary and should not have been received in evidence. At the suppression hearing the appellant testified that the police officers compelled him to sign the statement, which he said was not true. The State presented convincing proof to the contrary. The officers testified that Huffman had not wanted to make a statement when he was arrested, but after three or four days he said he wanted to see the sheriff and make a statement. According to the officers, Huffman made the statement volunta­rily. At the hearing Huffman admitted the truth of parts of the statement, relating to his childhood and his first job. His descrip­tion of the criminal incident was the same as that given by the child in her testimony at the trial. We have reviewed the testimony taken at the suppression hearing and find that the statement was voluntarily made.</p>
+                <p pgmap="354" id="b354-6">
+                   A second argument is that the court should have granted a continuance when, just before the trial began, the State was allowed to amend the information to allege that the crime occurred between November 1,1983, and January 15,1984. No prejudice resulted from the court’s action. In a case of this kind the particular time is not an ingredient of the offense; so the amendment was permissible. Ark. Stat. Ann. § 43-1015 (Repl. 1977); Scoggins v. State, 258 Ark. 749, 528 S.W.2d 641 (1975). The prosecutrix testified that there was intercourse both before and after Christmas (1983). In view of the statute making a variance in time immaterial, we fail to see how the defense was affected by the amendment.</p>
+                <p pgmap="354" id="b354-7">
+                   A third argument is that the State’s proof was insuffi­cient, but the appellant concedes that if the confession was admissible, as we hold it to have been, this point is not well taken.</p>
+                <p pgmap="354" id="b354-8">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="353" ORDERLABEL="321" TYPE="page">
+        <fptr FILEID="tiff_00177_0"/>
+        <fptr FILEID="jp2_00177_0"/>
+        <fptr FILEID="alto_00177_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_353.2" BETYPE="IDREF" FILEID="alto_00177_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="354" ORDERLABEL="322" TYPE="page">
+        <fptr FILEID="tiff_00177_1"/>
+        <fptr FILEID="jp2_00177_1"/>
+        <fptr FILEID="alto_00177_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_354.1" BETYPE="IDREF" FILEID="alto_00177_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b353-4" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_353.6" BETYPE="IDREF" FILEID="alto_00177_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b354-9" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_354.7" BETYPE="IDREF" FILEID="alto_00177_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b354-6" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_354.4" BETYPE="IDREF" FILEID="alto_00177_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A0pP" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_353.7" BETYPE="IDREF" FILEID="alto_00177_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b353-3" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_353.4" BETYPE="IDREF" FILEID="alto_00177_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b354-8" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_354.6" BETYPE="IDREF" FILEID="alto_00177_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b353-2" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_353.3" BETYPE="IDREF" FILEID="alto_00177_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b353-9" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_353.13" BETYPE="IDREF" FILEID="alto_00177_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b353-11" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_353.15" BETYPE="IDREF" FILEID="alto_00177_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b353-10" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_353.14" BETYPE="IDREF" FILEID="alto_00177_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b354-5" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_354.3" BETYPE="IDREF" FILEID="alto_00177_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A52" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_353.5" BETYPE="IDREF" FILEID="alto_00177_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b354-7" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_354.5" BETYPE="IDREF" FILEID="alto_00177_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A0fk" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_353.16" BETYPE="IDREF" FILEID="alto_00177_0"/>
+            <area BEGIN="BL_353.17" BETYPE="IDREF" FILEID="alto_00177_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

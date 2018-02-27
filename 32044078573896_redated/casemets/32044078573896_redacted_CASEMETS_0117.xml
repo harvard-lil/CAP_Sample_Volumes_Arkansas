@@ -1,0 +1,326 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0117" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Hubbard v. Gray">Hubbard vs. Gray</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 501</citation>
+          <decisiondate>1860-07</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00252_0" MIMETYPE="image/tiff" CHECKSUM="833b4ac06dc928428ffd135f8fce507e" CHECKSUMTYPE="MD5" SIZE="27152">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00252_0.tif"/>
+      </file>
+      <file ID="tiff_00252_1" MIMETYPE="image/tiff" CHECKSUM="039920b303f173a0c30801ceaca13573" CHECKSUMTYPE="MD5" SIZE="29606">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00252_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00252_0" MIMETYPE="image/jp2" CHECKSUM="390725fe2ada48a9592ece0e2a0ee176" CHECKSUMTYPE="MD5" SIZE="2358619">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00252_0.jp2"/>
+      </file>
+      <file ID="jp2_00252_1" MIMETYPE="image/jp2" CHECKSUM="1cb99c58239db18ee7d86501a243bf5d" CHECKSUMTYPE="MD5" SIZE="2321430">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00252_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00252_0" MIMETYPE="text/xml" CHECKSUM="b840c8e7612f057734ecfdcd3cfb0749" CHECKSUMTYPE="MD5" SIZE="50661">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00252_0.xml"/>
+      </file>
+      <file ID="alto_00252_1" MIMETYPE="text/xml" CHECKSUM="45ce735e9a38c6c0d949dfc465271cf1" CHECKSUMTYPE="MD5" SIZE="52056">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00252_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0117" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="502" firstpage="501">
+              <parties id="b503-5" pgmap="503">Hubbard vs. Gray.</parties>
+              <attorneys id="b503-9" pgmap="503">Hempstead, for the appellant.</attorneys>
+              <attorneys id="b503-10" pgmap="503">Watkins &amp; Gallagher, for appellee.</attorneys>
+              <summary id="b503-7" pgmap="503">Appeal from, Hempstead Circuit Court in Chancery.</summary>
+              <summary id="b503-8" pgmap="503">Hon. Len B. Green, Circuit Judge.</summary>
+              <headnotes id="b503-6" pgmap="503">Bill for tlie specific performance of a contract: tlio defendant proposed, by letter, to buy of the plaintiff' a house and lot, naming the price — complainant replied that he could have the property — defendant wont into possession; afterwards, the parties differed as to the price, the complainant claiming a larger sum — the nego­tiation was broken off, and the defendant abandoned the possession; Held, That the Circuit Court properly dismissed the bill.</headnotes>
+              <opinion type="majority">
+                <author id="b503-11" pgmap="503">Mr. Justice Fairchild</author>
+                <p id="AQvu" pgmap="503">delivered the opinion of the court.</p>
+                <p id="AJx" pgmap="503">Hubbard being the owner of the Burton place, in Spring Hill, received a letter from Gray, proposing to buy it for three hundred dollars.</p>
+                <p id="b503-12" pgmap="503(23) 504(43)">Hubbard replied that he could have the property, that he had been waiting on another person, to whom he had offered it for four hundred dollars — other letters passed, and conversations were had between the parties upon the subject, but none in which any further agreement of the price to be paid was made; and in the meantime Gray had taken possession of the place.</p>
+                <p id="b504-6" pgmap="504">When the agreement came to be perfected by deed and pay­ment, Hubbard understood that he was to have four hundred dollars, and Gray that he was to give three hundred dollars for the property. The negotiation was broken oiT. Gray aban­doned his possession of the property, and Hubbard brought his bill for a specific performance of Gray’s contract of purchase at four hundred dollars.</p>
+                <p id="b504-7" pgmap="504">As we construe the evidence, Gray never promised to pay four hundred dollars for the property. He wrote to Hubbard offering three hundred for it, Hubbard wrote back that he could have it, and that could only mean, that he could have it for what he proposed to give; and if Hubbard had offered to let another man have it for four hundred dollars, that is no reason why Gray should give one hundred dollars more than he agreed to give.</p>
+                <p id="b504-8" pgmap="504">The Circuit Court, sitting in chancery, properly dismissed the bill, and its decree is affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="503" ORDERLABEL="501" TYPE="page">
+        <fptr FILEID="tiff_00252_0"/>
+        <fptr FILEID="jp2_00252_0"/>
+        <fptr FILEID="alto_00252_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_503.2" BETYPE="IDREF" FILEID="alto_00252_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_503.1" BETYPE="IDREF" FILEID="alto_00252_0"/>
+              <area BEGIN="BL_503.3" BETYPE="IDREF" FILEID="alto_00252_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_503.5" BETYPE="IDREF" FILEID="alto_00252_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="504" ORDERLABEL="502" TYPE="page">
+        <fptr FILEID="tiff_00252_1"/>
+        <fptr FILEID="jp2_00252_1"/>
+        <fptr FILEID="alto_00252_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_504.2" BETYPE="IDREF" FILEID="alto_00252_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_504.3" BETYPE="IDREF" FILEID="alto_00252_1"/>
+              <area BEGIN="BL_504.4" BETYPE="IDREF" FILEID="alto_00252_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b503-12" BETYPE="IDREF" FILEID="casebody_0117"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_503.15" BETYPE="IDREF" FILEID="alto_00252_0"/>
+            <area BEGIN="BL_504.1" BETYPE="IDREF" FILEID="alto_00252_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b504-6" BETYPE="IDREF" FILEID="casebody_0117"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_504.5" BETYPE="IDREF" FILEID="alto_00252_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b503-10" BETYPE="IDREF" FILEID="casebody_0117"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_503.11" BETYPE="IDREF" FILEID="alto_00252_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b503-11" BETYPE="IDREF" FILEID="casebody_0117"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_503.12" BETYPE="IDREF" FILEID="alto_00252_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b503-5" BETYPE="IDREF" FILEID="casebody_0117"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_503.6" BETYPE="IDREF" FILEID="alto_00252_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b503-6" BETYPE="IDREF" FILEID="casebody_0117"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_503.7" BETYPE="IDREF" FILEID="alto_00252_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b503-7" BETYPE="IDREF" FILEID="casebody_0117"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_503.8" BETYPE="IDREF" FILEID="alto_00252_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b503-8" BETYPE="IDREF" FILEID="casebody_0117"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_503.9" BETYPE="IDREF" FILEID="alto_00252_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b503-9" BETYPE="IDREF" FILEID="casebody_0117"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_503.10" BETYPE="IDREF" FILEID="alto_00252_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AJx" BETYPE="IDREF" FILEID="casebody_0117"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_503.14" BETYPE="IDREF" FILEID="alto_00252_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b504-7" BETYPE="IDREF" FILEID="casebody_0117"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_504.6" BETYPE="IDREF" FILEID="alto_00252_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AQvu" BETYPE="IDREF" FILEID="casebody_0117"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_503.13" BETYPE="IDREF" FILEID="alto_00252_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b504-8" BETYPE="IDREF" FILEID="casebody_0117"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_504.7" BETYPE="IDREF" FILEID="alto_00252_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

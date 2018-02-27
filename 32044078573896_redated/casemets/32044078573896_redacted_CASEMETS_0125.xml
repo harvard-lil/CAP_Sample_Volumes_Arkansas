@@ -1,0 +1,454 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0125" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Darby v. State">Darby et al. vs. The State</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 523</citation>
+          <decisiondate>1860-10</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00263_0" MIMETYPE="image/tiff" CHECKSUM="213de9f8696c136ca30492d813bdb4ff" CHECKSUMTYPE="MD5" SIZE="28208">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00263_0.tif"/>
+      </file>
+      <file ID="tiff_00263_1" MIMETYPE="image/tiff" CHECKSUM="d5b5561c519f08c53d52990afc63e300" CHECKSUMTYPE="MD5" SIZE="41804">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00263_1.tif"/>
+      </file>
+      <file ID="tiff_00264_0" MIMETYPE="image/tiff" CHECKSUM="ae9d6330e60e8cb2a63473c0120a326a" CHECKSUMTYPE="MD5" SIZE="46042">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00264_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00263_0" MIMETYPE="image/jp2" CHECKSUM="d82db6f7461b11d81a2a71eaa9f65098" CHECKSUMTYPE="MD5" SIZE="2435969">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00263_0.jp2"/>
+      </file>
+      <file ID="jp2_00263_1" MIMETYPE="image/jp2" CHECKSUM="99e31a9f1f28ca1461da8d9f9fee4bcc" CHECKSUMTYPE="MD5" SIZE="2522638">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00263_1.jp2"/>
+      </file>
+      <file ID="jp2_00264_0" MIMETYPE="image/jp2" CHECKSUM="161d8a0dc3e816046cf4d859f1961edf" CHECKSUMTYPE="MD5" SIZE="2611071">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00264_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00263_0" MIMETYPE="text/xml" CHECKSUM="36a5f1c2be3d3811037ba7d2416d582f" CHECKSUMTYPE="MD5" SIZE="57810">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00263_0.xml"/>
+      </file>
+      <file ID="alto_00263_1" MIMETYPE="text/xml" CHECKSUM="4958f1bcb9594baf9d351fb41420879a" CHECKSUMTYPE="MD5" SIZE="82436">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00263_1.xml"/>
+      </file>
+      <file ID="alto_00264_0" MIMETYPE="text/xml" CHECKSUM="fee566c9c4f8f797c1ff655cfa4d2ff9" CHECKSUMTYPE="MD5" SIZE="89755">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00264_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0125" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="525" firstpage="523">
+              <parties id="b525-8" pgmap="525">Darby et al. vs. The State.</parties>
+              <attorneys id="b526-5" pgmap="526">B. D. Turner, for plaintiffs.</attorneys>
+              <attorneys id="b526-9" pgmap="526">Hempstead, Solicitor General, contra.</attorneys>
+              <summary id="b525-11" pgmap="525">Writ of Error to Monroe Circuit Court.</summary>
+              <summary id="b525-12" pgmap="525">Hon. George W. Beazley, Circuit Judge.</summary>
+              <summary id="b526-6" pgmap="526">A scire Jadas will lie only upon'recognizances taken in strict compliance with sections 57 to 62, chap. 52 Dig.</summary>
+              <summary id="b526-7" pgmap="526">It was error to issue the scire facias out of the Circuit Court of Monroe county to the sheriff of Prairie county — all the defendants resided in Prairie county. The scire facias should have issued to Monroe county, and if not served should have been re-issued as required by sec. 62 chap. 52 Dig.</summary>
+              <summary id="b526-8" pgmap="526">The scire facias does not-show that the “ bond” was payable to “the State of Arkansas,” as required by sections 57, ch. 52 Dig.', nor does it disclose when, or by whom, or by what authority it was taken. Ib.; 5 Ar/c. 265.</summary>
+              <summary id="b526-10" pgmap="526">The writ discloses the liability of the plaintiffs in error, and states sufficient facts to bring the case within the law. Gould’s Dig. 401.</summary>
+              <summary id="b526-11" pgmap="526">Writs in criminal cases may issue to any part of the State; and this, although in form a civil, is yet in its nature a. criminal proceeding or growing out of a criminal proceeding. The pro­vision as to two nihils being equal to service was intended to apply where parties are not residents of the State. Gould’s Dig. 402.</summary>
+              <headnotes id="b525-9" pgmap="525">The scire facias on a recognizance of bail in a criminal ease should set forth all the facts necessary to show a right of action — and if it fail to show that the recog­nizance was entered into before the c.ourt or officer authorized to take it, or that the recognizors were bound to the State for the sum mentioned in it, it will not sustain a judgment by default.</headnotes>
+              <headnotes id="b525-10" pgmap="525">A scire facias upon recognizance of bail in a criminal case may issue from the county in which the prosecution was had to any county in the state.</headnotes>
+              <opinion type="majority">
+                <author id="b526-12" pgmap="526">Mr. Justice Compton</author>
+                <p id="AlM" pgmap="526">delivered the opinion of the Court.</p>
+                <p id="b526-13" pgmap="526">This was a scire facias issued from the Circuit Court of Mon­roe county, and directed to and served in the county of Prairie.</p>
+                <p id="b526-14" pgmap="526">At the return term, Bridges not being served, discontinuance as to him; Darby and Johnson defaulted, and judgment against them.</p>
+                <p id="b526-15" pgmap="526">The first objection taken to the proceedings in the court below is, that the scire facias was not sufficient in law to sustain the judgment by default.</p>
+                <p id="b526-16" pgmap="526(34) 527(188)">After the decision of this court in Hicks vs. The State, 3 Ark. 313, and in Gray vs. The State, 5 Ark. 265, the Legislature, for greater convenience in practice, passed an act, approved 2d February 1843, which prescribes the form for a scire facias on recognizance of bail in criminal cases. Gould's Dig. ch. 52, sec. 63. In this case the form prescribed was not substantially followed. The scire facias recites that “ Clinton H. Bridges was bound with W. J. Darby, and William Johnson, as his securi­ties, in a bond for the sum of two hundred and fifty dollars, conditioned for his appearance,” etc., to answer an'indictment for assault and battery, etc. Thus failing to show that the recognizance was entered into before the court in which the prosecution was had. or before any of the several officers authorized by law to take it; or that the recognizors were bound to the State for the sum mentioned in the obligation recited, as in order to show a right of action in the State, it should have done. The scire facias occupying the place of both writ and declaration, should have set forth all the facts necessary to show a right of action in the plaintiff. Failing in this, it does not sustain the judgment by default against the defendants.</p>
+                <p id="b527-5" pgmap="527">It is further objected, that the issuance of the scire facias to Prairie county, and its service there upon the defendants, was erroneous.</p>
+                <p id="b527-6" pgmap="527">It is provided by statute, that in all actions deemed local at common law, the original writ may be issued from the county, where the injury was committed, to any other county where the defendant may be found; but in declaring in any such action the plaintiff shall not set forth any matter which would be the subject of a transitory action.</p>
+                <p id="b527-7" pgmap="527">In a proceeding by scire facias on a recognizance of bail, the venue is local at common law. Smith vs. Clarke, 1 Ark. 651. 1 Chit. Plead. 269. The scire facias is also regarded as an origi­nal writ, and as the institution of a new suit. Gray vs. The Slate, supra. We think, therefore, that such a proceeding is within the provision of the statute, and that the writ may well issue to any county in the State.</p>
+                <p id="b527-8" pgmap="527">For the error, however, above indicated, the judgment must be reversed,</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="525" ORDERLABEL="523" TYPE="page">
+        <fptr FILEID="tiff_00263_0"/>
+        <fptr FILEID="jp2_00263_0"/>
+        <fptr FILEID="alto_00263_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_525.3" BETYPE="IDREF" FILEID="alto_00263_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_525.2" BETYPE="IDREF" FILEID="alto_00263_0"/>
+              <area BEGIN="BL_525.4" BETYPE="IDREF" FILEID="alto_00263_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_525.8" BETYPE="IDREF" FILEID="alto_00263_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="526" ORDERLABEL="524" TYPE="page">
+        <fptr FILEID="tiff_00263_1"/>
+        <fptr FILEID="jp2_00263_1"/>
+        <fptr FILEID="alto_00263_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_526.1" BETYPE="IDREF" FILEID="alto_00263_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_526.2" BETYPE="IDREF" FILEID="alto_00263_1"/>
+              <area BEGIN="BL_526.3" BETYPE="IDREF" FILEID="alto_00263_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="527" ORDERLABEL="525" TYPE="page">
+        <fptr FILEID="tiff_00264_0"/>
+        <fptr FILEID="jp2_00264_0"/>
+        <fptr FILEID="alto_00264_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_527.3" BETYPE="IDREF" FILEID="alto_00264_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_527.2" BETYPE="IDREF" FILEID="alto_00264_0"/>
+              <area BEGIN="BL_527.4" BETYPE="IDREF" FILEID="alto_00264_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b526-13" BETYPE="IDREF" FILEID="casebody_0125"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_526.13" BETYPE="IDREF" FILEID="alto_00263_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b526-12" BETYPE="IDREF" FILEID="casebody_0125"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_526.11" BETYPE="IDREF" FILEID="alto_00263_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b526-11" BETYPE="IDREF" FILEID="casebody_0125"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_526.10" BETYPE="IDREF" FILEID="alto_00263_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b526-10" BETYPE="IDREF" FILEID="casebody_0125"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_526.9" BETYPE="IDREF" FILEID="alto_00263_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b526-16" BETYPE="IDREF" FILEID="casebody_0125"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_526.16" BETYPE="IDREF" FILEID="alto_00263_1"/>
+            <area BEGIN="BL_527.1" BETYPE="IDREF" FILEID="alto_00264_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b526-15" BETYPE="IDREF" FILEID="casebody_0125"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_526.15" BETYPE="IDREF" FILEID="alto_00263_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b526-14" BETYPE="IDREF" FILEID="casebody_0125"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_526.14" BETYPE="IDREF" FILEID="alto_00263_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b525-8" BETYPE="IDREF" FILEID="casebody_0125"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_525.9" BETYPE="IDREF" FILEID="alto_00263_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b525-9" BETYPE="IDREF" FILEID="casebody_0125"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_525.10" BETYPE="IDREF" FILEID="alto_00263_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b527-5" BETYPE="IDREF" FILEID="casebody_0125"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_527.5" BETYPE="IDREF" FILEID="alto_00264_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b526-9" BETYPE="IDREF" FILEID="casebody_0125"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_526.8" BETYPE="IDREF" FILEID="alto_00263_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b526-8" BETYPE="IDREF" FILEID="casebody_0125"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_526.7" BETYPE="IDREF" FILEID="alto_00263_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AlM" BETYPE="IDREF" FILEID="casebody_0125"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_526.12" BETYPE="IDREF" FILEID="alto_00263_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b526-7" BETYPE="IDREF" FILEID="casebody_0125"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_526.6" BETYPE="IDREF" FILEID="alto_00263_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b526-6" BETYPE="IDREF" FILEID="casebody_0125"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_526.5" BETYPE="IDREF" FILEID="alto_00263_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b526-5" BETYPE="IDREF" FILEID="casebody_0125"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_526.4" BETYPE="IDREF" FILEID="alto_00263_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b525-12" BETYPE="IDREF" FILEID="casebody_0125"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_525.13" BETYPE="IDREF" FILEID="alto_00263_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b525-10" BETYPE="IDREF" FILEID="casebody_0125"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_525.11" BETYPE="IDREF" FILEID="alto_00263_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b525-11" BETYPE="IDREF" FILEID="casebody_0125"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_525.12" BETYPE="IDREF" FILEID="alto_00263_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b527-8" BETYPE="IDREF" FILEID="casebody_0125"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_527.8" BETYPE="IDREF" FILEID="alto_00264_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b527-6" BETYPE="IDREF" FILEID="casebody_0125"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_527.6" BETYPE="IDREF" FILEID="alto_00264_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b527-7" BETYPE="IDREF" FILEID="casebody_0125"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_527.7" BETYPE="IDREF" FILEID="alto_00264_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

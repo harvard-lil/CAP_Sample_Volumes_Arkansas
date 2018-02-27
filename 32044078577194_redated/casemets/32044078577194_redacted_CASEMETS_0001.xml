@@ -1,0 +1,554 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0001" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Livingston v. Arkansas State Medical Board">Pat V. LIVINGSTON, M.D. v. ARKANSAS STATE MEDICAL BOARD</name>
+          <docketnumber>85-201</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 1</citation>
+          <citation category="parallel" type="bluebook">701 S.W.2d 361</citation>
+          <decisiondate>1986-01-13</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:00Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00014_0" MIMETYPE="image/tiff" CHECKSUM="b11215113b5cd65720ef71c7a46e3781" CHECKSUMTYPE="MD5" SIZE="7236">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00014_0.tif"/>
+      </file>
+      <file ID="tiff_00014_1" MIMETYPE="image/tiff" CHECKSUM="a26b5a7b002e40aa79eba94b9e4fe07f" CHECKSUMTYPE="MD5" SIZE="22318">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00014_1.tif"/>
+      </file>
+      <file ID="tiff_00015_0" MIMETYPE="image/tiff" CHECKSUM="c453b0e8a9ec779cb8bcdb5815ae5d67" CHECKSUMTYPE="MD5" SIZE="55952">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00015_0.tif"/>
+      </file>
+      <file ID="tiff_00015_1" MIMETYPE="image/tiff" CHECKSUM="b9691e1d9649a6aa804961fe203d68b1" CHECKSUMTYPE="MD5" SIZE="55298">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00015_1.tif"/>
+      </file>
+      <file ID="tiff_00016_0" MIMETYPE="image/tiff" CHECKSUM="f7ec19c2f827e80ac679babea9652b60" CHECKSUMTYPE="MD5" SIZE="54764">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00016_0.tif"/>
+      </file>
+      <file ID="tiff_00016_1" MIMETYPE="image/tiff" CHECKSUM="5097695a3227030b2c7b2c8dcf6aa198" CHECKSUMTYPE="MD5" SIZE="26244">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00016_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00014_0" MIMETYPE="image/jp2" CHECKSUM="e455053896f581fd27961af5ff927b73" CHECKSUMTYPE="MD5" SIZE="1415303">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00014_0.jp2"/>
+      </file>
+      <file ID="jp2_00014_1" MIMETYPE="image/jp2" CHECKSUM="67d2b572380138853726efb421d665ed" CHECKSUMTYPE="MD5" SIZE="1563475">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00014_1.jp2"/>
+      </file>
+      <file ID="jp2_00015_0" MIMETYPE="image/jp2" CHECKSUM="6bd1d78cb036228f9d9fae3b06db1f81" CHECKSUMTYPE="MD5" SIZE="2929404">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00015_0.jp2"/>
+      </file>
+      <file ID="jp2_00015_1" MIMETYPE="image/jp2" CHECKSUM="25991ba2e64ae80b5b7fd83506054640" CHECKSUMTYPE="MD5" SIZE="2558849">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00015_1.jp2"/>
+      </file>
+      <file ID="jp2_00016_0" MIMETYPE="image/jp2" CHECKSUM="6eab71844250f1620e583849db0ea202" CHECKSUMTYPE="MD5" SIZE="2535693">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00016_0.jp2"/>
+      </file>
+      <file ID="jp2_00016_1" MIMETYPE="image/jp2" CHECKSUM="9a8a17785380119a712ccdbcd9cdbf27" CHECKSUMTYPE="MD5" SIZE="1928608">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00016_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00014_0" MIMETYPE="text/xml" CHECKSUM="8a2a283c3338b79f647d98c792488dcd" CHECKSUMTYPE="MD5" SIZE="7792">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00014_0.xml"/>
+      </file>
+      <file ID="alto_00014_1" MIMETYPE="text/xml" CHECKSUM="e254f6b670867c6f8909661123fa5d1f" CHECKSUMTYPE="MD5" SIZE="33488">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00014_1.xml"/>
+      </file>
+      <file ID="alto_00015_0" MIMETYPE="text/xml" CHECKSUM="8d7946a8d841b775ee41560879f8168d" CHECKSUMTYPE="MD5" SIZE="92864">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00015_0.xml"/>
+      </file>
+      <file ID="alto_00015_1" MIMETYPE="text/xml" CHECKSUM="de18e84488078b6018ea3c9febccc347" CHECKSUMTYPE="MD5" SIZE="88699">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00015_1.xml"/>
+      </file>
+      <file ID="alto_00016_0" MIMETYPE="text/xml" CHECKSUM="fa0f4198455c249336faf3e30a11662a" CHECKSUMTYPE="MD5" SIZE="85948">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00016_0.xml"/>
+      </file>
+      <file ID="alto_00016_1" MIMETYPE="text/xml" CHECKSUM="ffe3844df035694074b3c86047bc50da" CHECKSUMTYPE="MD5" SIZE="39194">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00016_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0001" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="1" lastpage="6">
+              <court pgmap="27" id="b27-7">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="27" id="b27-6">85-201</docketnumber>
+              <citation pgmap="27" id="AQ">701 S.W.2d 361</citation>
+              <parties pgmap="27" id="b27-5">Pat V. LIVINGSTON, M.D. v. ARKANSAS STATE MEDICAL BOARD</parties>
+              <decisiondate pgmap="27" id="A4">Opinion delivered January 13, 1986</decisiondate>
+              <judges pgmap="32" id="b32-7">Turtle, J., not participating.</judges>
+              <attorneys pgmap="28" id="b28-12">Huckabay, Munson, Rowlett &amp; Tilley, P.A., for appellant.</attorneys>
+              <attorneys pgmap="28" id="b28-13">Cearley, Mitchell &amp; Roachell, for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="28" id="b28-14">Jack Holt, Jr., Chief Justice.</author>
+                <p pgmap="28" id="AS">The Arkansas State Medical Board found that appellant, Dr. Pat Livingston, committed “grossly negligent or ignorant malpractice” and ordered her license suspended for 30 days. The doctor appealed to Pulaski Circuit Court where the board’s decision was upheld. It is from that holding that this appeal is brought. Our jurisdiction is pursuant to Sup. Ct. R. 29(1)(c) as this case was certified to us by the Court of Appeals to interpret Ark. Stat. Ann. § 72-613 (Repl. 1979 and Supp. 1985).</p>
+                <p pgmap="28(32) 29(220)" id="b28-15">The basis of the board’s action was that Dr. Livingston had “negligently and repeatedly diagnosed and confirmed the diagno­sis of pregnancy of a female patient over a period of four (4) months,” when the patient was not, in fact, pregnant. Testimony at the hearing before the board revealed that Mrs. Kathy Hooper, 23, visited Dr. Livingston seven times between September 9,1983 and January 7,1984. Mrs. Hooper testified that those visits were for obstetric purposes, since Dr. Livingston told her she was pregnant at the first visit on September 9; treated her as such during subsequent visits; and did not tell her she was not pregnant until January 7. Dr. Livingston denied having ever told Mrs. Hooper she was definitely pregnant and relies on the fact that her medical records do not reveal that specific statement was ever made. During the course of the seven visits, a pregnancy test was performed on Mrs. Hooper with positive results, she was checked for uterine enlargement, placed on vitamins, given a due date of May 6, 1984, and had three ultrasounds. The ultrasounds were performed by Lucy McDaniel, an employee of Dr. Livingston’s, who told Mrs. Hooper that the baby was so small she could not get a good picture of it and that the baby might be “hiding.” At Mrs. Hooper’s final visit, Dr. Livingston told Mrs. Hooper that she was sorry about the amount of time that had gone by, but that she thought Mrs. Hooper understood that she was probably not pregnant.</p>
+                <p pgmap="29" id="b29-6">Dr. Livingston offered the testimony of Dr. Orman Sim­mons, an obstetrician/gynecologist practicing in Little Rock. Dr. Simmons testified that Dr. Livingston’s records were adequate and reflected an appropriate standard of care. He also testified, however, that he would have taken steps before January 7 to determine conclusively whether Mrs. Hooper was pregnant, and that it would not be up to the standard of care in the community to wait four months to tell the patient she was not pregnant, and to not seek a second opinion. Dr. Livingston admitted during her testimony, “I feel that we did let the girl go too long”, and that she should have sent her to another doctor who would have told her definitely whether she was pregnant.</p>
+                <p pgmap="29" id="b29-7">The appellant argues on appeal that the trial court erred in failing to find that the decision of the appellee, the Arkansas State Medical Board, was arbitrary, capricious and characterized by an abuse of discretion.</p>
+                <p pgmap="29(19) 30(32)" id="b29-8">
+                   When reviewing administrative action to determine if it is arbitrary or capricious, we determine whether the action lacks a rational basis or hinges on a finding of fact based on an erroneous view of the law. Woodyard, Comm’r v. Ark. Diversified Ins., 268 Ark. 94, 594 S.W.2d 13 (1980), rehearing denied.</p>
+                <p pgmap="30" id="b30-6">
+                   The testimony at the hearing provided a rational basis for the board’s action. The appellant contends, however, that the decision hinged “on a finding of fact based on an erroneous view of the law.” In support of this contention, appellant maintains that the board held Dr. Livingston, a general practitioner, to the same standard of care as that exercised by Dr. Simmons, a specialist. Appellant claims the board thereby violated Ark. Stat. Ann. § 34-­2614 (Supp. 1985) which provides that the plaintiff in an action for medical injury has the burden of proving the skill ordinarily possessed by members of the profession engaged in the same type of practice. Arkansas Stat. Ann. § 34-2613 (Supp. 1985), however, defines “action for medical injury” as “any action against a medical care provider ... to recover damages on account of medical injury.” This was an action by an administra­tive board reviewing the conduct of a professional, and ultimately punishing that professional. It was not an action to recover damages. The statute is therefore inapplicable.</p>
+                <p pgmap="30" id="b30-7">
+                   The authorizing statute for the board’s action is Ark. Stat. Ann. § 72-613 (Repl. 1979 and Supp. 1985) which provides that the board may revoke or suspend a license if the holder has committed any acts or offenses defined to be unprofessional conduct. Included in the list of definitions is “(g) grossly negligent or ignorant malpractice.” The board’s action was not the result of an erroneous application of the law.</p>
+                <p pgmap="30" id="b30-8">The other “erroneous view of the law” argued by appellant is the board’s interpretation of “grossly negligent or ignorant malpractice.” The appellant maintains there was not substantial evidence to support the board’s finding.</p>
+                <p pgmap="30" id="b30-9">
+                   We affirm an agency’s decision if there is substantial evidence to support it. Partlow v. Ark. State Police Comm’n, 271 Ark. 351, 609 S.W.2d 23 (1980); Ark. Stat. Ann. § 5-713(h)(5) (Supp. 1985). To determine whether a decision is supported by substantial evidence, we review the whole record to ascertain if it is supported by relevant evidence that a reasonable mind might accept as adequate to support a conclusion, Id.</p>
+                <p pgmap="31" id="b31-5">
+                   “Malpractice” is defined by Regulation 2 of the Arkan­sas State Medical Board to include “any professional miscon­duct, unreasonable lack of skill or fidelity in professional duties, evil practice, or illegal or immoral conduct in the practice of medicine and surgery.”</p>
+                <p pgmap="31" id="b31-6">The appellant argues that her conduct does not fall within the category defined in the regulation. She states that even if her conduct could be considered “an unreasonable lack of skill” that this definition is only for “malpractice” and not for “grossly negligent” or “ignorant malpractice.”</p>
+                <p pgmap="31" id="b31-7">
+                   Although we have not previously defined “ignorant malpractice” this court has considered the question of “gross negligence” in other contexts. We have stated our commitment “to the majority rule that willful and wanton misconduct is, as a matter of law, higher in degree than gross negligence”, St. Louis S.W. Ry. Co. v. Clemons, etc., 242 Ark. 707, 415 S.W.2d 332 (1967). The U.S. District Court, Western District, Fort Smith Division, has stated that “[g]ross negligence is the failure to observe even slight care; it is carelessness or recklessness to a degree that shows utter indifference to the consequences that may result,” Robinson Ins. &amp; Real Estate Inc. v. Southwestern Bell Tel. Co., 366 F. Supp. 307 (1973). The district court further explained that the element of willfulness is absent in gross negligence. Id.</p>
+                <p pgmap="31" id="b31-8">California has a similar medical licensing statute which includes “gross negligence” as a form of unprofessional conduct. Cal. Bus. &amp; Prof. Code § 2234(b) (Deering 1985). Interpreting this statute, (formerly § 2361) the California Court of Appeal in Gore v. Board of Medical Quality Assur., 110 Cal. App. 3d 184, 167 Cal. Rptr. 881 (1980), also defined gross negligence as “a want of even slight care, but not necessarily involving wanton or willful misconduct; in other words, an extreme departure from the ordinary standard of care.” In finding the doctor in that case committed gross negligence, the court held:</p>
+                <blockquote pgmap="31(45) 32(17)" id="b31-9">Substantial evidence shows that he failed to exercise the standard of care in diagnosis, monitoring and treatment that is basically and routinely taught to students in medical school. Thus, management of his patient was an extreme departure from the standard of medical care, which we hold to be the equivalent of “want of even scant care” under the circumstances of this case.</blockquote>
+                <p pgmap="32" id="b32-5">
+                   Although the board did not differentiate in its finding between “ignorant malpractice” or “gross negligence” there was substantial evidence of an extreme departure from the ordinary standard of care, which constitutes gross negligence. The board had the benefit of expert testimony in reaching their decision, see Hake v. Ark. State Medical Bd., 237 Ark. 506, 374 S.W.2d 173 (1964), and we traditionally accord a great deal of deference to the findings of administrative agencies in light of their “specialization, insight through experience and more flexi­ble procedures,” Arkansas ABC Bd. v. King, 275 Ark. 308, 629 S.W.2d 288 (1982).</p>
+                <p pgmap="32" id="b32-6">Accordingly, the judgment of the trial court is affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="27" ORDERLABEL="1" TYPE="page">
+        <fptr FILEID="tiff_00014_0"/>
+        <fptr FILEID="jp2_00014_0"/>
+        <fptr FILEID="alto_00014_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_27.2" BETYPE="IDREF" FILEID="alto_00014_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="28" ORDERLABEL="2" TYPE="page">
+        <fptr FILEID="tiff_00014_1"/>
+        <fptr FILEID="jp2_00014_1"/>
+        <fptr FILEID="alto_00014_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_28.2" BETYPE="IDREF" FILEID="alto_00014_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="29" ORDERLABEL="3" TYPE="page">
+        <fptr FILEID="tiff_00015_0"/>
+        <fptr FILEID="jp2_00015_0"/>
+        <fptr FILEID="alto_00015_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_29.3" BETYPE="IDREF" FILEID="alto_00015_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="30" ORDERLABEL="4" TYPE="page">
+        <fptr FILEID="tiff_00015_1"/>
+        <fptr FILEID="jp2_00015_1"/>
+        <fptr FILEID="alto_00015_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_30.2" BETYPE="IDREF" FILEID="alto_00015_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="31" ORDERLABEL="5" TYPE="page">
+        <fptr FILEID="tiff_00016_0"/>
+        <fptr FILEID="jp2_00016_0"/>
+        <fptr FILEID="alto_00016_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_31.2" BETYPE="IDREF" FILEID="alto_00016_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="32" ORDERLABEL="6" TYPE="page">
+        <fptr FILEID="tiff_00016_1"/>
+        <fptr FILEID="jp2_00016_1"/>
+        <fptr FILEID="alto_00016_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_32.2" BETYPE="IDREF" FILEID="alto_00016_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AQ" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_27.6" BETYPE="IDREF" FILEID="alto_00014_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AS" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_28.15" BETYPE="IDREF" FILEID="alto_00014_1"/>
+            <area BEGIN="BL_28.16" BETYPE="IDREF" FILEID="alto_00014_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b30-9" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_30.7" BETYPE="IDREF" FILEID="alto_00015_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b32-6" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_32.5" BETYPE="IDREF" FILEID="alto_00016_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b29-8" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_29.6" BETYPE="IDREF" FILEID="alto_00015_0"/>
+            <area BEGIN="BL_30.1" BETYPE="IDREF" FILEID="alto_00015_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b31-6" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_31.4" BETYPE="IDREF" FILEID="alto_00016_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b31-5" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_31.3" BETYPE="IDREF" FILEID="alto_00016_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b31-7" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_31.5" BETYPE="IDREF" FILEID="alto_00016_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b30-6" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_30.4" BETYPE="IDREF" FILEID="alto_00015_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b31-8" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_31.6" BETYPE="IDREF" FILEID="alto_00016_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b29-6" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_29.4" BETYPE="IDREF" FILEID="alto_00015_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b29-7" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_29.5" BETYPE="IDREF" FILEID="alto_00015_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A4" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_27.8" BETYPE="IDREF" FILEID="alto_00014_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b30-7" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_30.5" BETYPE="IDREF" FILEID="alto_00015_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b30-8" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_30.6" BETYPE="IDREF" FILEID="alto_00015_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b32-7" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_32.6" BETYPE="IDREF" FILEID="alto_00016_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b31-9" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_31.7" BETYPE="IDREF" FILEID="alto_00016_0"/>
+            <area BEGIN="BL_32.1" BETYPE="IDREF" FILEID="alto_00016_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b32-5" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_32.4" BETYPE="IDREF" FILEID="alto_00016_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b28-15" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_28.17" BETYPE="IDREF" FILEID="alto_00014_1"/>
+            <area BEGIN="BL_29.1" BETYPE="IDREF" FILEID="alto_00015_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b28-14" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_28.14" BETYPE="IDREF" FILEID="alto_00014_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b28-12" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_28.12" BETYPE="IDREF" FILEID="alto_00014_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b27-6" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_27.5" BETYPE="IDREF" FILEID="alto_00014_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b27-7" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_27.7" BETYPE="IDREF" FILEID="alto_00014_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b28-13" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_28.13" BETYPE="IDREF" FILEID="alto_00014_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b27-5" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_27.4" BETYPE="IDREF" FILEID="alto_00014_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

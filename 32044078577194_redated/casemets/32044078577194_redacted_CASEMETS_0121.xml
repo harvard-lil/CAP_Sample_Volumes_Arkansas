@@ -1,0 +1,639 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0121" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Brown v. Lockhart">Johnny Charles BROWN v. A. L. LOCKHART, Director Arkansas Department of Correction</name>
+          <docketnumber>85-220</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 483</citation>
+          <citation category="parallel" type="bluebook">707 S.W.2d 304</citation>
+          <decisiondate>1986-04-07</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:01Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00259_0" MIMETYPE="image/tiff" CHECKSUM="aece1e4b0fc126a6dc280edb18efddc3" CHECKSUMTYPE="MD5" SIZE="20966">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00259_0.tif"/>
+      </file>
+      <file ID="tiff_00259_1" MIMETYPE="image/tiff" CHECKSUM="8c48f0456ff197a839db75c178ddeca3" CHECKSUMTYPE="MD5" SIZE="21562">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00259_1.tif"/>
+      </file>
+      <file ID="tiff_00260_0" MIMETYPE="image/tiff" CHECKSUM="a45ab2c70607d9c0e69c832c3f2e5dec" CHECKSUMTYPE="MD5" SIZE="49256">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00260_0.tif"/>
+      </file>
+      <file ID="tiff_00260_1" MIMETYPE="image/tiff" CHECKSUM="b37587b283b3efe7533265ae098721c8" CHECKSUMTYPE="MD5" SIZE="48080">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00260_1.tif"/>
+      </file>
+      <file ID="tiff_00261_0" MIMETYPE="image/tiff" CHECKSUM="0ee5b787c016ba7fa4735ff042bb78bb" CHECKSUMTYPE="MD5" SIZE="50710">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00261_0.tif"/>
+      </file>
+      <file ID="tiff_00261_1" MIMETYPE="image/tiff" CHECKSUM="c318de7f50b9a9523d28795773a402a6" CHECKSUMTYPE="MD5" SIZE="32522">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00261_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00259_0" MIMETYPE="image/jp2" CHECKSUM="cd3452290c7e712c1e5182089bdf7e92" CHECKSUMTYPE="MD5" SIZE="1854744">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00259_0.jp2"/>
+      </file>
+      <file ID="jp2_00259_1" MIMETYPE="image/jp2" CHECKSUM="f16b1a56cc5760f5713c3a5f4020451d" CHECKSUMTYPE="MD5" SIZE="1628451">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00259_1.jp2"/>
+      </file>
+      <file ID="jp2_00260_0" MIMETYPE="image/jp2" CHECKSUM="f23ceee609c61ce0d10a98b883f75348" CHECKSUMTYPE="MD5" SIZE="2500443">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00260_0.jp2"/>
+      </file>
+      <file ID="jp2_00260_1" MIMETYPE="image/jp2" CHECKSUM="32e2b9a072f88149f1dfcaae1a78b858" CHECKSUMTYPE="MD5" SIZE="2515178">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00260_1.jp2"/>
+      </file>
+      <file ID="jp2_00261_0" MIMETYPE="image/jp2" CHECKSUM="14150c0eeb341ecb01baaabd0737d9ef" CHECKSUMTYPE="MD5" SIZE="2513135">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00261_0.jp2"/>
+      </file>
+      <file ID="jp2_00261_1" MIMETYPE="image/jp2" CHECKSUM="6c93117e0c7955b3ba22677f2c086d68" CHECKSUMTYPE="MD5" SIZE="2105145">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00261_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00259_0" MIMETYPE="text/xml" CHECKSUM="0a96b4eb44458b80f31f0421a6b41473" CHECKSUMTYPE="MD5" SIZE="32330">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00259_0.xml"/>
+      </file>
+      <file ID="alto_00259_1" MIMETYPE="text/xml" CHECKSUM="34b6db86d6c56b154148925470603a90" CHECKSUMTYPE="MD5" SIZE="32315">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00259_1.xml"/>
+      </file>
+      <file ID="alto_00260_0" MIMETYPE="text/xml" CHECKSUM="a7c602c9269e01571ed86cb298c62bb3" CHECKSUMTYPE="MD5" SIZE="86948">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00260_0.xml"/>
+      </file>
+      <file ID="alto_00260_1" MIMETYPE="text/xml" CHECKSUM="4787d60577789e4d5e3cf635b959fd20" CHECKSUMTYPE="MD5" SIZE="75604">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00260_1.xml"/>
+      </file>
+      <file ID="alto_00261_0" MIMETYPE="text/xml" CHECKSUM="72a4b9999347a2bf24a94966dd87a1d2" CHECKSUMTYPE="MD5" SIZE="83461">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00261_0.xml"/>
+      </file>
+      <file ID="alto_00261_1" MIMETYPE="text/xml" CHECKSUM="c127c9c066f4e37731e7dd940a7165a6" CHECKSUMTYPE="MD5" SIZE="53461">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00261_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0121" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="483" lastpage="488">
+              <court pgmap="517" id="b517-12">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="517" id="b517-11">85-220</docketnumber>
+              <citation pgmap="517" id="AvvZ">707 S.W.2d 304</citation>
+              <parties pgmap="517" id="b517-10">Johnny Charles BROWN v. A. L. LOCKHART, Director Arkansas Department of Correction</parties>
+              <decisiondate pgmap="517" id="Aj5">Opinion delivered April 7, 1986</decisiondate>
+              <judges pgmap="522" id="b522-9">Purtle, J., not participating.</judges>
+              <attorneys pgmap="518" id="b518-11">O. Jerome Green, for appellant.</attorneys>
+              <attorneys pgmap="518" id="b518-12">Steve Clark, Att’y Gen., by: Clint Miller, Asst. Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="518" id="b518-13">Robert H. Dudley, Justice.</author>
+                <p pgmap="518" id="AgW">The appellee in this case is A.L. Lockhart, Director of the Arkansas Department of Correc­tion. Appellant, Johnny Charles Brown, is an inmate in the Department of Correction. Appellant sought a declaratory judg­ment stating that appellee had erroneously applied Act 93 of 1977 in determining his parole eligibility date. Appellant also sought a writ of mandamus ordering appellee to make him eligible for parole after serving one-third (Í/3) of his sentence. The lower court denied the relief sought by appellant. We affirm.</p>
+                <p pgmap="518(22) 519(82)" id="b518-14">Appellant was arrested and charged with the commission of a rape that occurred on May 1,1978. He was found guilty of that charge by a Pulaski County Circuit Court jury and was sentenced to serve thirty-five (35) years in the Arkansas Department of Correction. Appellant had a prior federal conviction for posses­sion of a stolen government check. He committed that crime prior to 1977 and served six (6) months in a federal prison in Missouri with two and one-half {2Vi) years on probation. He was still on probation in connection with the stolen check charge when he committed the rape in May 1978.</p>
+                <p pgmap="519" id="b519-6">Appellee classified appellant as a second offender under Act 93 of 1977. Ark. Stat. Ann. § 43-2828 (2) (Repl. 1977). As a second offender under that act, appellant would have to serve one-­half (V2) of his 35 year sentence before becoming eligible for parole. Ark. Stat. Ann. § 43-2829 B. (3) (Repl. 1977).</p>
+                <p pgmap="519" id="b519-7">Ark. Stat. Ann. § 43-2829 B. (3) provides in pertinent part:</p>
+                <blockquote pgmap="519" id="b519-8">B. Persons who commit felonies on and after April 1,1977, and shall be convicted and incarcerated for the same, shall be eligible for release on parole as follows:</blockquote>
+                <blockquote pgmap="519" id="b519-9">(3) Inmates classified as second offenders under this Act upon entering a correctional institution in this State under sentence from a circuit court shall not be eligible for release on parole until a minimum of one-half (W) of their sentence shall have been served, with credit for good time allowances, ....</blockquote>
+                <p pgmap="519" id="b519-10">
+                   Appellant committed the rape for which he is currently serving a 35 year sentence in May 1978. Ark. Stat. Ann. § 43-­2829 B. (3) governs the calculation of appellant’s parole eligibil­ity date. Accordingly, he must serve a minimum of one-half (V2) of the 35 year sentence, with credit for good time, before he will become eligible for parole.</p>
+                <p pgmap="519(82) 520(32)" id="b519-11">In an effort to avoid the clear application of Ark. Stat. Ann. § 43-2829 B. (3), appellant first argues that Ark. Stat. Ann. § 43-­2829 D. and E. (Repl. 1977) place persons who commit a felony while they are on probation from an earlier sentence in a different category from § 43-2829 B. (3). He cites Bosnick v. Lockhart, 283 Ark. 206, 672 S.W.2d 52, supp. op., 677 S.W.2d 292 (1984) as controlling authority for that proposition. He concludes that he should only be required to serve one-third (í/3), rather than one-­half (Í/2), of his sentence before becoming eligible for parole. Appellant’s argument is a house of cards which collapses under scrutiny.</p>
+                <p pgmap="520" id="b520-6">Ark. Stat. Ann. § 43-2829 D. (Repl. 1977) provides in pertinent part:</p>
+                <blockquote pgmap="520" id="b520-7">Any person found guilty of a felony and placed on probation or suspended sentence therefor, who is subse­quently found guilty of another felony committed while on probation or suspended sentence, shall be committed to the Department of Correction to serve the remainder of his suspended sentence plus the sentence imposed for the subsequent felony. The sentence imposed for the subse­quent felony is to be served consecutively with the remain­der of the suspended sentence.</blockquote>
+                <p pgmap="520" id="b520-8">(Emphasis added)</p>
+                <p pgmap="520" id="b520-9">Ark. Stat. Ann. § 43-2829 E. (Repl. 1977) provides:</p>
+                <blockquote pgmap="520" id="b520-10">For parole eligibility purposes, consecutive sentences by one or more courts, or for one or more counts, shall be considered as a single commitment reflecting the cumula­tive sentence to be served.</blockquote>
+                <p pgmap="520" id="b520-11">(Emphasis added.)</p>
+                <p pgmap="520" id="b520-12">In Bosnick, supra, we stated that “[i]n treating consecutive sentences as a single commitment, we hold that the parole eligibility statute governing the original sentence is the one that should control the cumulative sentence.” (Emphasis added.) Subsections D. and E. and the quoted portion from Bosnick all address situations involving consecutive, cumulative sentences. Using those authorities, appellant attempts to bootstrap himself onto the more lenient parole eligibility statute which was in effect at the time he committed the earlier federal felony. See Ark. Stat. Ann. § 43-2829 A. (Repl. 1977). That is, he argues that under those authorities, his three (3) year sentence on the earlier federal felony conviction and his 35 year sentence on the state felony conviction constitute a single sentence of 38 years, and that under Bosnick, the more lenient parole eligibility statute in effect when he committed the earlier federal felony should apply.</p>
+                <p pgmap="521" id="b521-5">
+                   In making that argument, however, appellant relies more upon fiction than upon fact. He completely ignores the fact that his prior felony conviction was in federal court stemming from a federal charge. Arkansas statutes governing parole eligibility do not apply with respect to sentences imposed by federal courts or other state courts outside of Arkansas. Arkansas simply has no authority over sentences imposed in other jurisdic­tions. Appellant is serving only one sentence in the Arkansas Department of Correction, the 35 year state sentence for rape. That 35 year sentence is not being served consecutively with his sentence on the federal felony conviction. Consequently, Ark. Stat. Ann. § 43-2829 D. and E. and Bosnick, supra, are not applicable to the case at hand. Appellant must serve a minimum of one-half of the 35 year sentence, with credit for good time, before he will become eligible for parole. Ark. Stat. Ann. § 43-­2829 B. (3) (Repl. 1977).</p>
+                <p pgmap="521" id="b521-6">For his second point of appeal, appellant argues that it is unconstitutional to apply Act 93 of 1977 in determining his parole eligibility date because it violates the Ex Post Facto Clause. This argument is also without merit.</p>
+                <p pgmap="521" id="b521-7">
+                   In Bosnick, supra, we quoted from the United States Supreme Court case of Weaver v. Graham, 450 U.S. 24 (1981):</p>
+                <blockquote pgmap="521" id="b521-8">The ex post facto prohibition forbids the Congress and the States to enact any law “which imposes a punishment for an act which was not punishable at the time it was committed; or imposes additional punishment to that then prescribed.” (citations omitted) Through this prohibition, the Framers sought to assure that legislative Acts give fair warning of their effect and permit individuals to rely on their meaning until explicitly changed. (Cites omitted)</blockquote>
+                <blockquote pgmap="521" id="b521-9">In accord with these purposes, our decisions prescribe that two critical elements must be present for a criminal or penal law to be ex post facto: it must be retrospective, that is, it must apply to events occurring before its enactment, and it must disadvantage the offender affected by it. . . .</blockquote>
+                <blockquote pgmap="521(11) 522(26)" id="b521-10">[I]t is the effect, not the form, of the law that determines whether it is ex post facto. The critical ques­tion is whether the law changes the legal consequences of acts completed before its effective date.</blockquote>
+                <p pgmap="522" id="b522-6">(Emphasis added)</p>
+                <p pgmap="522" id="b522-7">
+                   There are two critical elements which must be present for a criminal penal law to be ex post facto: 1) it must be retrospective, that is, it must apply to events occurring before its enactment, and 2) it must disadvantage the offender affected by it. Neither of those two elements is present in the case at hand. Ark. Stat. Ann. § 43-2829 B. (3), effective April 1,1977, has in no way been applied to appellant’s prior federal felony conviction. It was only applied to appellant’s 35 year state felony conviction for rape. The rape was committed in May 1978, long after the statute took effect. There is no ex post facto violation.</p>
+                <p pgmap="522" id="b522-8">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="517" ORDERLABEL="483" TYPE="page">
+        <fptr FILEID="tiff_00259_0"/>
+        <fptr FILEID="jp2_00259_0"/>
+        <fptr FILEID="alto_00259_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_517.3" BETYPE="IDREF" FILEID="alto_00259_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="518" ORDERLABEL="484" TYPE="page">
+        <fptr FILEID="tiff_00259_1"/>
+        <fptr FILEID="jp2_00259_1"/>
+        <fptr FILEID="alto_00259_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_518.2" BETYPE="IDREF" FILEID="alto_00259_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="519" ORDERLABEL="485" TYPE="page">
+        <fptr FILEID="tiff_00260_0"/>
+        <fptr FILEID="jp2_00260_0"/>
+        <fptr FILEID="alto_00260_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_519.3" BETYPE="IDREF" FILEID="alto_00260_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="520" ORDERLABEL="486" TYPE="page">
+        <fptr FILEID="tiff_00260_1"/>
+        <fptr FILEID="jp2_00260_1"/>
+        <fptr FILEID="alto_00260_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_520.2" BETYPE="IDREF" FILEID="alto_00260_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="521" ORDERLABEL="487" TYPE="page">
+        <fptr FILEID="tiff_00261_0"/>
+        <fptr FILEID="jp2_00261_0"/>
+        <fptr FILEID="alto_00261_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_521.2" BETYPE="IDREF" FILEID="alto_00261_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="522" ORDERLABEL="488" TYPE="page">
+        <fptr FILEID="tiff_00261_1"/>
+        <fptr FILEID="jp2_00261_1"/>
+        <fptr FILEID="alto_00261_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_522.2" BETYPE="IDREF" FILEID="alto_00261_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b521-8" BETYPE="IDREF" FILEID="casebody_0121"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_521.6" BETYPE="IDREF" FILEID="alto_00261_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b521-9" BETYPE="IDREF" FILEID="casebody_0121"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_521.7" BETYPE="IDREF" FILEID="alto_00261_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b520-10" BETYPE="IDREF" FILEID="casebody_0121"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_520.8" BETYPE="IDREF" FILEID="alto_00260_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b520-12" BETYPE="IDREF" FILEID="casebody_0121"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_520.10" BETYPE="IDREF" FILEID="alto_00260_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b521-5" BETYPE="IDREF" FILEID="casebody_0121"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_521.3" BETYPE="IDREF" FILEID="alto_00261_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b521-6" BETYPE="IDREF" FILEID="casebody_0121"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_521.4" BETYPE="IDREF" FILEID="alto_00261_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b521-7" BETYPE="IDREF" FILEID="casebody_0121"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_521.5" BETYPE="IDREF" FILEID="alto_00261_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b519-11" BETYPE="IDREF" FILEID="casebody_0121"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_519.9" BETYPE="IDREF" FILEID="alto_00260_0"/>
+            <area BEGIN="BL_520.1" BETYPE="IDREF" FILEID="alto_00260_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b519-10" BETYPE="IDREF" FILEID="casebody_0121"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_519.8" BETYPE="IDREF" FILEID="alto_00260_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b518-14" BETYPE="IDREF" FILEID="casebody_0121"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_518.14" BETYPE="IDREF" FILEID="alto_00259_1"/>
+            <area BEGIN="BL_519.1" BETYPE="IDREF" FILEID="alto_00260_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aj5" BETYPE="IDREF" FILEID="casebody_0121"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_517.13" BETYPE="IDREF" FILEID="alto_00259_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b517-12" BETYPE="IDREF" FILEID="casebody_0121"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_517.12" BETYPE="IDREF" FILEID="alto_00259_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b519-9" BETYPE="IDREF" FILEID="casebody_0121"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_519.7" BETYPE="IDREF" FILEID="alto_00260_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b519-8" BETYPE="IDREF" FILEID="casebody_0121"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_519.6" BETYPE="IDREF" FILEID="alto_00260_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b520-7" BETYPE="IDREF" FILEID="casebody_0121"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_520.5" BETYPE="IDREF" FILEID="alto_00260_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b520-6" BETYPE="IDREF" FILEID="casebody_0121"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_520.4" BETYPE="IDREF" FILEID="alto_00260_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b522-7" BETYPE="IDREF" FILEID="casebody_0121"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_522.5" BETYPE="IDREF" FILEID="alto_00261_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b522-6" BETYPE="IDREF" FILEID="casebody_0121"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_522.4" BETYPE="IDREF" FILEID="alto_00261_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b522-9" BETYPE="IDREF" FILEID="casebody_0121"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_522.7" BETYPE="IDREF" FILEID="alto_00261_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b522-8" BETYPE="IDREF" FILEID="casebody_0121"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_522.6" BETYPE="IDREF" FILEID="alto_00261_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b520-9" BETYPE="IDREF" FILEID="casebody_0121"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_520.7" BETYPE="IDREF" FILEID="alto_00260_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b520-8" BETYPE="IDREF" FILEID="casebody_0121"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_520.6" BETYPE="IDREF" FILEID="alto_00260_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b519-7" BETYPE="IDREF" FILEID="casebody_0121"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_519.5" BETYPE="IDREF" FILEID="alto_00260_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b519-6" BETYPE="IDREF" FILEID="casebody_0121"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_519.4" BETYPE="IDREF" FILEID="alto_00260_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AvvZ" BETYPE="IDREF" FILEID="casebody_0121"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_517.11" BETYPE="IDREF" FILEID="alto_00259_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b521-10" BETYPE="IDREF" FILEID="casebody_0121"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_521.8" BETYPE="IDREF" FILEID="alto_00261_0"/>
+            <area BEGIN="BL_522.1" BETYPE="IDREF" FILEID="alto_00261_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AgW" BETYPE="IDREF" FILEID="casebody_0121"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_518.12" BETYPE="IDREF" FILEID="alto_00259_1"/>
+            <area BEGIN="BL_518.13" BETYPE="IDREF" FILEID="alto_00259_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b520-11" BETYPE="IDREF" FILEID="casebody_0121"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_520.9" BETYPE="IDREF" FILEID="alto_00260_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b518-11" BETYPE="IDREF" FILEID="casebody_0121"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_518.9" BETYPE="IDREF" FILEID="alto_00259_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b518-12" BETYPE="IDREF" FILEID="casebody_0121"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_518.10" BETYPE="IDREF" FILEID="alto_00259_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b518-13" BETYPE="IDREF" FILEID="casebody_0121"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_518.11" BETYPE="IDREF" FILEID="alto_00259_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b517-11" BETYPE="IDREF" FILEID="casebody_0121"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_517.10" BETYPE="IDREF" FILEID="alto_00259_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b517-10" BETYPE="IDREF" FILEID="casebody_0121"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_517.9" BETYPE="IDREF" FILEID="alto_00259_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

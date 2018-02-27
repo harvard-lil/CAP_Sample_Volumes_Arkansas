@@ -1,0 +1,337 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0065" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Garthwaite, Griffin &amp; Co. v. Tatum">Garthwaite, Griffin &amp; Co. vs. Tatum</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 336</citation>
+          <decisiondate>1860-07</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00169_1" MIMETYPE="image/tiff" CHECKSUM="553204726c6d3718b5de3d95c3cd68f7" CHECKSUMTYPE="MD5" SIZE="26570">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00169_1.tif"/>
+      </file>
+      <file ID="tiff_00170_0" MIMETYPE="image/tiff" CHECKSUM="b95d4884e5c77737cfc0bab7e78754d6" CHECKSUMTYPE="MD5" SIZE="44090">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00170_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00169_1" MIMETYPE="image/jp2" CHECKSUM="112002cbfcdbb34bb253c035356f70dd" CHECKSUMTYPE="MD5" SIZE="2376681">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00169_1.jp2"/>
+      </file>
+      <file ID="jp2_00170_0" MIMETYPE="image/jp2" CHECKSUM="f37b812a19e5fafba67c30b579571901" CHECKSUMTYPE="MD5" SIZE="2535488">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00170_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00169_1" MIMETYPE="text/xml" CHECKSUM="6831938e457a2f6928def66ef0b80e29" CHECKSUMTYPE="MD5" SIZE="51077">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00169_1.xml"/>
+      </file>
+      <file ID="alto_00170_0" MIMETYPE="text/xml" CHECKSUM="920fd5690128d3f894ba900f727efaf9" CHECKSUMTYPE="MD5" SIZE="88942">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00170_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0065" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="337" firstpage="336">
+              <parties id="b338-6" pgmap="338">Garthwaite, Griffin &amp; Co. vs. Tatum.</parties>
+              <attorneys id="b338-11" pgmap="338">Carleton for the appellants.</attorneys>
+              <summary id="b338-9" pgmap="338">Appeal from. Union Circuit Court.</summary>
+              <summary id="b338-10" pgmap="338">Hon. Shelton Watson Circuit Judge.</summary>
+              <summary id="b338-12" pgmap="338(45) 339(16)">A party has a right to an impartial jury (sec. 101, eh. 126 Dig.$ the jurors having just passed upon a case where the issues and evidence were the same as in this, were incompetent for having formed and expressed an opinion. Wood vs. Stoddard, 2 John. Rep. 194; Black vs. Millpaugh, 1 lb. 316; Rogers vs­Rogéis, 14 Wend. 131.</summary>
+              <headnotes id="AkWL" pgmap="338">Where a jury has rendered a verdict in one case, and are called as jurors in another in which the issues are the same, and the evidence will be the same, as in the case already passed upon, the law presumes thorn to be under a disqualifying bias.</headnotes>
+              <opinion type="majority">
+                <author id="b339-4" pgmap="339">Mr. Justice Fairchild</author>
+                <p id="Ab_" pgmap="339">delivered the opinion of the Court.</p>
+                <p id="b339-5" pgmap="339">This case Was brought here by appeal from a judgment for the defendant below, the appellee here.</p>
+                <p id="b339-6" pgmap="339">It is like the case of Gould &amp; Co. vs. Tatum, just decided, being an action of debt upon a note executed at the same time with the note in that case, in which the issues were the same-­The same testimony of Whitt and Lee was .given in this case, as in the other, and under like circumstances. A similar motion for a new trial similarly met, and with like result, ^as shown in the transcript.</p>
+                <p id="b339-7" pgmap="339">There was no such evidence as that of the endorsement on the note,,and the reading of the declaration in the other case.</p>
+                <p id="b339-8" pgmap="339">The case of Gould &amp; Co. vs. Tatum was first tried; upon the next day this case was called, and the same jurors that tried that case were brought to try this case. It was admitted by the parties that the issues in this were the same as in that case, and that the evidence would be the same, except the note sued on, and the plaintiffs objected to the proposed jurors as disqualified from sitting as a jury in this case. The court overruled the objec­tion.</p>
+                <p id="b339-9" pgmap="339">By their verdict in the other case, the jurors had formed and expressed their opinion upon this case. And the fact that this was done on oath, after hearing all the facts, and after full deliberation thereon, amid the solemnities and under the direc­tion of judicial proceedings, could have no other effect than ip incline them to render such verdict as they had rendered the day before. The law presumes them to have been under a disquali­fying bias, and the objection of the plaintiff should have been sustained.</p>
+                <p id="b339-10" pgmap="339">This case, free from two of the errors attending Gould &lt;$• Co-­vs. Tatum and charged with the other one just indicated, must go with it, and the judgment is reversed with the instructions given in the other case.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="338" ORDERLABEL="336" TYPE="page">
+        <fptr FILEID="tiff_00169_1"/>
+        <fptr FILEID="jp2_00169_1"/>
+        <fptr FILEID="alto_00169_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_338.2" BETYPE="IDREF" FILEID="alto_00169_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_338.3" BETYPE="IDREF" FILEID="alto_00169_1"/>
+              <area BEGIN="BL_338.4" BETYPE="IDREF" FILEID="alto_00169_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_338.6" BETYPE="IDREF" FILEID="alto_00169_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="339" ORDERLABEL="337" TYPE="page">
+        <fptr FILEID="tiff_00170_0"/>
+        <fptr FILEID="jp2_00170_0"/>
+        <fptr FILEID="alto_00170_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_339.3" BETYPE="IDREF" FILEID="alto_00170_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_339.2" BETYPE="IDREF" FILEID="alto_00170_0"/>
+              <area BEGIN="BL_339.4" BETYPE="IDREF" FILEID="alto_00170_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ab_" BETYPE="IDREF" FILEID="casebody_0065"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_339.6" BETYPE="IDREF" FILEID="alto_00170_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b338-12" BETYPE="IDREF" FILEID="casebody_0065"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_338.12" BETYPE="IDREF" FILEID="alto_00169_1"/>
+            <area BEGIN="BL_339.1" BETYPE="IDREF" FILEID="alto_00170_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b338-10" BETYPE="IDREF" FILEID="casebody_0065"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_338.10" BETYPE="IDREF" FILEID="alto_00169_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b338-11" BETYPE="IDREF" FILEID="casebody_0065"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_338.11" BETYPE="IDREF" FILEID="alto_00169_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AkWL" BETYPE="IDREF" FILEID="casebody_0065"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_338.8" BETYPE="IDREF" FILEID="alto_00169_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b339-10" BETYPE="IDREF" FILEID="casebody_0065"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_339.12" BETYPE="IDREF" FILEID="alto_00170_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b339-5" BETYPE="IDREF" FILEID="casebody_0065"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_339.7" BETYPE="IDREF" FILEID="alto_00170_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b338-9" BETYPE="IDREF" FILEID="casebody_0065"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_338.9" BETYPE="IDREF" FILEID="alto_00169_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b339-7" BETYPE="IDREF" FILEID="casebody_0065"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_339.9" BETYPE="IDREF" FILEID="alto_00170_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b339-6" BETYPE="IDREF" FILEID="casebody_0065"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_339.8" BETYPE="IDREF" FILEID="alto_00170_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b339-9" BETYPE="IDREF" FILEID="casebody_0065"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_339.11" BETYPE="IDREF" FILEID="alto_00170_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b339-8" BETYPE="IDREF" FILEID="casebody_0065"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_339.10" BETYPE="IDREF" FILEID="alto_00170_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b338-6" BETYPE="IDREF" FILEID="casebody_0065"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_338.7" BETYPE="IDREF" FILEID="alto_00169_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b339-4" BETYPE="IDREF" FILEID="casebody_0065"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_339.5" BETYPE="IDREF" FILEID="alto_00170_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

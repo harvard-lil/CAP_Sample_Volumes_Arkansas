@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#">
+  <!--Created by Innodata R.E.D. RLI tool: 2016-09-22 20:52:38.646611-->
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>32044078573896_00322_1.tif</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OP_1">
+      <ocrProcessingStep>
+        <processingStepDescription>Alto coordinates refer to the deskewed TIFF file. 
+		To convert point (x, y) to original image (TIFF or JP2) apply transformation matrix T=(m00, m01, m10, m11, b0, b1) using the rule:
+			T * (x,y) = (m00 * x + m01 * y + b0), (m10 * x + m11 * y + b1)</processingStepDescription>
+        <processingStepSettings>RED.transform=(1.0, -0.0, 0.0, 1.0, 0.0, -0.0)</processingStepSettings>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Styles>
+    <TextStyle FONTFAMILY="Times New Roman" FONTSIZE="5.00" FONTTYPE="serif" FONTWIDTH="proportional" ID="Style_1"/>
+    <TextStyle FONTFAMILY="Times New Roman" FONTSIZE="10.50" FONTSTYLE="bold" FONTTYPE="serif" FONTWIDTH="proportional" ID="Style_2"/>
+  </Styles>
+  <Layout>
+    <Page HEIGHT="2712" ID="PG_644" PHYSICAL_IMG_NR="644" WIDTH="1616">
+      <PrintSpace HEIGHT="2712" HPOS="0" ID="PS_644" VPOS="0" WIDTH="1616"/>
+    </Page>
+  </Layout>
+</alto>

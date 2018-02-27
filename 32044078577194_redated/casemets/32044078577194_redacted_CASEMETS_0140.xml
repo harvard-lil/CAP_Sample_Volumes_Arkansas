@@ -1,0 +1,341 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0140" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Gay v. State">Clarence GAY v. STATE of Arkansas</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">288 Ark. 589</citation>
+          <citation category="parallel" type="bluebook">707 S.W.2d 320</citation>
+          <decisiondate>1986-04-21</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:01Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00314_0" MIMETYPE="image/tiff" CHECKSUM="b7b1d9ff9cd8556be7f4cfbba2aa5156" CHECKSUMTYPE="MD5" SIZE="38122">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00314_0.tif"/>
+      </file>
+      <file ID="tiff_00314_1" MIMETYPE="image/tiff" CHECKSUM="fbfaddc96156a2d719743b6817d4bb56" CHECKSUMTYPE="MD5" SIZE="22320">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00314_1.tif"/>
+      </file>
+      <file ID="tiff_00315_0" MIMETYPE="image/tiff" CHECKSUM="619cf1433fcad2d116e1b5e1087bef8d" CHECKSUMTYPE="MD5" SIZE="46332">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00315_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00314_0" MIMETYPE="image/jp2" CHECKSUM="ac8d59bcd489edafe090c37b5cdb6a57" CHECKSUMTYPE="MD5" SIZE="2331952">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00314_0.jp2"/>
+      </file>
+      <file ID="jp2_00314_1" MIMETYPE="image/jp2" CHECKSUM="f7f0fea4beafed6d3b0aa180f0ccc07f" CHECKSUMTYPE="MD5" SIZE="1552267">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00314_1.jp2"/>
+      </file>
+      <file ID="jp2_00315_0" MIMETYPE="image/jp2" CHECKSUM="25fc1d954f02bb14b302155be19dd89b" CHECKSUMTYPE="MD5" SIZE="2473821">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00315_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00314_0" MIMETYPE="text/xml" CHECKSUM="c1242a2246dcddbd5c0d7d2ee6fbc260" CHECKSUMTYPE="MD5" SIZE="59096">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00314_0.xml"/>
+      </file>
+      <file ID="alto_00314_1" MIMETYPE="text/xml" CHECKSUM="82731e9a58ef39aad1947ee1ca33dca3" CHECKSUMTYPE="MD5" SIZE="35366">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00314_1.xml"/>
+      </file>
+      <file ID="alto_00315_0" MIMETYPE="text/xml" CHECKSUM="2877c1e9b686a3e58bbaf7a434931268" CHECKSUMTYPE="MD5" SIZE="78088">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00315_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0140" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="589" lastpage="591">
+              <court pgmap="627" id="b627-12">Supreme Court of Arkansas</court>
+              <citation pgmap="627" id="b627-11">707 S.W.2d 320</citation>
+              <parties pgmap="627" id="b627-10">Clarence GAY v. STATE of Arkansas</parties>
+              <decisiondate pgmap="627" id="AnxX">Opinion delivered April 21, 1986</decisiondate>
+              <judges pgmap="629" id="b629-9">Purtle, J., not participating.</judges>
+              <attorneys pgmap="628" id="b628-14">Appellant, pro se.</attorneys>
+              <attorneys pgmap="628" id="b628-15">Steve Clark, Att’y Gen., by: Jack Gillean, Asst. Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="628" id="b628-16">Per Curiam.</author>
+                <p pgmap="628(123) 629(16)" id="AtO_">In October, 1984, Clarence Gay was convicted of rape and sentenced to life imprisonment. He filed a timely pro se notice of appeal and the record was prepared for filing with this Court, but it was never lodged here. He now seeks a belated appeal, alleging that he was incompetent to proceed with the appeal pro se because of low intelligence and lack of education. Petitioner’s appointed attorney at trial was Joe Villines. In his affidavit in response to the motion, Mr. Villines, who has not been relieved as counsel by either the trial court or this Court, states that he discussed the possibility of an appeal with petitioner after trial and informed him that there was no basis for reversal of the conviction. He avers that he did not know that petitioner had filed a notice of appeal.</p>
+                <p pgmap="629" id="b629-6">
+                   Criminal Procedure Rule 36.26 states that counsel, whether retained or appointed, shall continue to represent a convicted person throughout appeal unless permitted to withdraw by the trial court or this Court. A convicted defendant may waive his appeal right by failure to communicate to counsel his desire to appeal. Conley v. State, 286 Ark. 388, 691 S.W.2d 868 (1985); Henderson v. State, 278 Ark. 107, 643 S.W.2d 107 (1982). The timely notice of appeal filed by petitioner is proof that he desired an appeal. Even if he did not specifically notify counsel that he had filed the notice, counsel had not been relieved as petitioner’s attorney-of-record and was responsible for knowing what had been filed in regard to the case within the time set for filing a notice of appeal. Moreover, if counsel felt that the appeal had no merit, he was obligated to either obtain permission from the trial court to withdraw before the notice of appeal was filed, Finnie v. State, 265 Ark. 941, 582 S.W.2d 19 (1979), or file a motion to withdraw in this Court after the notice of appeal was filed. Rules of the Supreme Court, Rule 11(h), Ark. Stat. Ann. Vol. 3A (Supp. 1985).</p>
+                <p pgmap="629" id="b629-7">
+                   The failure of counsel to perfect an appeal in a criminal case where the defendant desires an appeal constitutes a denial of effective assistance of counsel and is good cause for granting a belated appeal. Blakely v. State, 279 Ark. 141, 649 S.W.2d 187 (1983);Surridge v. State, 276 Ark. 596, 637 S.W.2d 597 (1982). As counsel for petitioner did not withdraw from the case in accordance with the rules of procedure and failed to comply with the obligations set forth by the rules and opinions of this Court, the belated appeal is granted. Counsel Villines is responsible for lodging the record with this Court within thirty days.</p>
+                <p pgmap="629" id="b629-8">Motion granted.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="627" ORDERLABEL="589" TYPE="page">
+        <fptr FILEID="tiff_00314_0"/>
+        <fptr FILEID="jp2_00314_0"/>
+        <fptr FILEID="alto_00314_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_627.3" BETYPE="IDREF" FILEID="alto_00314_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="628" ORDERLABEL="590" TYPE="page">
+        <fptr FILEID="tiff_00314_1"/>
+        <fptr FILEID="jp2_00314_1"/>
+        <fptr FILEID="alto_00314_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_628.2" BETYPE="IDREF" FILEID="alto_00314_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="629" ORDERLABEL="591" TYPE="page">
+        <fptr FILEID="tiff_00315_0"/>
+        <fptr FILEID="jp2_00315_0"/>
+        <fptr FILEID="alto_00315_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_629.3" BETYPE="IDREF" FILEID="alto_00315_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AtO_" BETYPE="IDREF" FILEID="casebody_0140"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_628.13" BETYPE="IDREF" FILEID="alto_00314_1"/>
+            <area BEGIN="BL_628.14" BETYPE="IDREF" FILEID="alto_00314_1"/>
+            <area BEGIN="BL_629.1" BETYPE="IDREF" FILEID="alto_00315_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b629-8" BETYPE="IDREF" FILEID="casebody_0140"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_629.6" BETYPE="IDREF" FILEID="alto_00315_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b627-11" BETYPE="IDREF" FILEID="casebody_0140"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_627.10" BETYPE="IDREF" FILEID="alto_00314_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b627-10" BETYPE="IDREF" FILEID="casebody_0140"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_627.9" BETYPE="IDREF" FILEID="alto_00314_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b627-12" BETYPE="IDREF" FILEID="casebody_0140"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_627.11" BETYPE="IDREF" FILEID="alto_00314_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b629-6" BETYPE="IDREF" FILEID="casebody_0140"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_629.4" BETYPE="IDREF" FILEID="alto_00315_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b629-7" BETYPE="IDREF" FILEID="casebody_0140"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_629.5" BETYPE="IDREF" FILEID="alto_00315_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b628-14" BETYPE="IDREF" FILEID="casebody_0140"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_628.10" BETYPE="IDREF" FILEID="alto_00314_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b628-15" BETYPE="IDREF" FILEID="casebody_0140"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_628.11" BETYPE="IDREF" FILEID="alto_00314_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b628-16" BETYPE="IDREF" FILEID="casebody_0140"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_628.12" BETYPE="IDREF" FILEID="alto_00314_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AnxX" BETYPE="IDREF" FILEID="casebody_0140"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_627.12" BETYPE="IDREF" FILEID="alto_00314_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b629-9" BETYPE="IDREF" FILEID="casebody_0140"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_629.7" BETYPE="IDREF" FILEID="alto_00315_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

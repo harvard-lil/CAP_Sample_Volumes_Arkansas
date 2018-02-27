@@ -1,0 +1,342 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0087" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Smith v. Figure World Plus, Inc.">Kim SMITH v. FIGURE WORLD PLUS, INC.</name>
+          <docketnumber>85-291</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 355</citation>
+          <citation category="parallel" type="bluebook">705 S.W.2d 432</citation>
+          <decisiondate>1986-03-17</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:00Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00195_0" MIMETYPE="image/tiff" CHECKSUM="83ffdd236397cbbc5ca3efe3357c09a2" CHECKSUMTYPE="MD5" SIZE="27214">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00195_0.tif"/>
+      </file>
+      <file ID="tiff_00195_1" MIMETYPE="image/tiff" CHECKSUM="44bb7423883af7523e58934288acb2f2" CHECKSUMTYPE="MD5" SIZE="38950">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00195_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00195_0" MIMETYPE="image/jp2" CHECKSUM="cd05f64c0dc850a94d2d651b846b2ad6" CHECKSUMTYPE="MD5" SIZE="2171274">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00195_0.jp2"/>
+      </file>
+      <file ID="jp2_00195_1" MIMETYPE="image/jp2" CHECKSUM="338f5b6a02a7d83a38e0f25f2077bf1b" CHECKSUMTYPE="MD5" SIZE="2377998">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00195_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00195_0" MIMETYPE="text/xml" CHECKSUM="63164513c3e084b68f889afe61748514" CHECKSUMTYPE="MD5" SIZE="44235">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00195_0.xml"/>
+      </file>
+      <file ID="alto_00195_1" MIMETYPE="text/xml" CHECKSUM="225e33780fb74853cad5f74d92e09a7a" CHECKSUMTYPE="MD5" SIZE="64849">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00195_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0087" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="355" lastpage="356">
+              <court pgmap="389" id="b389-5">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="389" id="b389-4">85-291</docketnumber>
+              <citation pgmap="389" id="A6Tz">705 S.W.2d 432</citation>
+              <parties pgmap="389" id="b389-3">Kim SMITH v. FIGURE WORLD PLUS, INC.</parties>
+              <decisiondate pgmap="389" id="AP0S">Opinion delivered March 17, 1986</decisiondate>
+              <judges pgmap="390" id="b390-7">Purtle, J., not participating.</judges>
+              <attorneys pgmap="389" id="b389-11">The Haskins &amp; Hendricks Law Firm, for appellant.</attorneys>
+              <attorneys pgmap="389" id="b389-12">House, Wallace, Nelson &amp; Jewell, P.A., by: Paul W. Stanfield, for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="389" id="b389-13">Robert H. Dudley, Justice.</author>
+                <p pgmap="389" id="AjS">Appellant, Kim Smith, en­tered into a written contract with the appellee, Figure World Plus, Inc., by which appellee agreed to make its health club facilities available for one year, and appellant agreed to pay $30.00 initially and $10.00 per month for one year. The contract also provided for a late charge in the amount of $10.00 for each month in which payment was late. The appellant defaulted on nine of the monthly payments. The appellee filed suit for $180.00 representing $90.00 due for the facilities being available and $90.00 for nine late charges. The appellant defended by arguing that the $90.00 in late charges amounted to usurious interest. The trial court granted judgment for $180.00. We affirm.</p>
+                <p pgmap="389(12) 390(154)" id="b389-14">
+                   A late charge which is in the nature of a penalty will not render a transaction usurious. Harris v. Guaranty Financial Corp., 244 Ark. 218, 424 S.W.2d 355 (1968). However, a charge which is labeled a penalty, but which is really a subterfuge for interest, may render a transaction usurious. Redbarn Chemicals, Inc. v. Bradshaw, 254 Ark. 557, 494 S.W.2d 720 (1973). Although we examine each case of this type on all of its own particular facts, two of the principal factors in determining if the charge is truly a penalty are whether the charge is fixed in amount and whether it is assessed as a one-time charge. Bunn v. Weyerhaeuser Co., 268 Ark. 445, 598 S.W.2d 54 (1980). We look to those two factors because they are indicators of whether the charge is designed to induce prompt payment and whether the borrower has it in his power to avoid the charges. Hayes v. First National Bank of Memphis, 256 Ark. 328, 507 S.W.2d 701 (1974).</p>
+                <p pgmap="390" id="b390-4">Here, the charges met the test of a penalty because they were fixed in amount and they were charged only one time. They were not compounded.</p>
+                <p pgmap="390" id="b390-5">
+                   Appellant contends that the charges are excessive because they do not bear any relationship to the appellee’s added expenses incurred in attempting to collect the past due install­ments. The argument is without merit because the appellant offered no proof on the subject and the burden was upon her to show usury. Hayes v. First National Bank of Memphis, supra.</p>
+                <p pgmap="390" id="b390-6">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="389" ORDERLABEL="355" TYPE="page">
+        <fptr FILEID="tiff_00195_0"/>
+        <fptr FILEID="jp2_00195_0"/>
+        <fptr FILEID="alto_00195_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_389.2" BETYPE="IDREF" FILEID="alto_00195_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="390" ORDERLABEL="356" TYPE="page">
+        <fptr FILEID="tiff_00195_1"/>
+        <fptr FILEID="jp2_00195_1"/>
+        <fptr FILEID="alto_00195_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_390.2" BETYPE="IDREF" FILEID="alto_00195_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b390-6" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_390.6" BETYPE="IDREF" FILEID="alto_00195_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b390-5" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_390.5" BETYPE="IDREF" FILEID="alto_00195_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AP0S" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_389.7" BETYPE="IDREF" FILEID="alto_00195_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b390-4" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_390.4" BETYPE="IDREF" FILEID="alto_00195_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b389-12" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_389.16" BETYPE="IDREF" FILEID="alto_00195_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b389-13" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_389.17" BETYPE="IDREF" FILEID="alto_00195_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b389-11" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_389.15" BETYPE="IDREF" FILEID="alto_00195_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A6Tz" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_389.5" BETYPE="IDREF" FILEID="alto_00195_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b389-14" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_389.20" BETYPE="IDREF" FILEID="alto_00195_0"/>
+            <area BEGIN="BL_390.1" BETYPE="IDREF" FILEID="alto_00195_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b389-3" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_389.3" BETYPE="IDREF" FILEID="alto_00195_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b389-4" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_389.4" BETYPE="IDREF" FILEID="alto_00195_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b389-5" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_389.6" BETYPE="IDREF" FILEID="alto_00195_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AjS" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_389.18" BETYPE="IDREF" FILEID="alto_00195_0"/>
+            <area BEGIN="BL_389.19" BETYPE="IDREF" FILEID="alto_00195_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b390-7" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_390.7" BETYPE="IDREF" FILEID="alto_00195_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

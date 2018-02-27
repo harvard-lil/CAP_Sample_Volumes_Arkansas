@@ -1,0 +1,546 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0035" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Lewis v. State">Lewis vs. The State</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 209</citation>
+          <decisiondate>1860-01</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00106_0" MIMETYPE="image/tiff" CHECKSUM="d9bd3730c5b6e78b97a49ad22c54d62c" CHECKSUMTYPE="MD5" SIZE="28390">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00106_0.tif"/>
+      </file>
+      <file ID="tiff_00106_1" MIMETYPE="image/tiff" CHECKSUM="449d16c985ef409c3dc5879750c8ae80" CHECKSUMTYPE="MD5" SIZE="41178">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00106_1.tif"/>
+      </file>
+      <file ID="tiff_00107_0" MIMETYPE="image/tiff" CHECKSUM="7b124160d16925f82bba26886bc40f36" CHECKSUMTYPE="MD5" SIZE="47110">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00107_0.tif"/>
+      </file>
+      <file ID="tiff_00107_1" MIMETYPE="image/tiff" CHECKSUM="94d6e644c28c484f82d5388c3f8fef68" CHECKSUMTYPE="MD5" SIZE="31440">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00107_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00106_0" MIMETYPE="image/jp2" CHECKSUM="169d54a069eced3b45b8641b6c9a6000" CHECKSUMTYPE="MD5" SIZE="2496370">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00106_0.jp2"/>
+      </file>
+      <file ID="jp2_00106_1" MIMETYPE="image/jp2" CHECKSUM="a9ca7f5cc47386047dd6424e2e7ac993" CHECKSUMTYPE="MD5" SIZE="2571367">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00106_1.jp2"/>
+      </file>
+      <file ID="jp2_00107_0" MIMETYPE="image/jp2" CHECKSUM="4e26770ee27d716dc94eb50678e8bb34" CHECKSUMTYPE="MD5" SIZE="2661358">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00107_0.jp2"/>
+      </file>
+      <file ID="jp2_00107_1" MIMETYPE="image/jp2" CHECKSUM="1d230758708eb902103f77f876cf9736" CHECKSUMTYPE="MD5" SIZE="2449320">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00107_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00106_0" MIMETYPE="text/xml" CHECKSUM="73fcaa5b1f097a846ea73b3b8bff37ed" CHECKSUMTYPE="MD5" SIZE="58743">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00106_0.xml"/>
+      </file>
+      <file ID="alto_00106_1" MIMETYPE="text/xml" CHECKSUM="79758d751f4a02eae7df509b257c3ca2" CHECKSUMTYPE="MD5" SIZE="82364">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00106_1.xml"/>
+      </file>
+      <file ID="alto_00107_0" MIMETYPE="text/xml" CHECKSUM="8059ec6466d7df9f36542b944b062228" CHECKSUMTYPE="MD5" SIZE="90531">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00107_0.xml"/>
+      </file>
+      <file ID="alto_00107_1" MIMETYPE="text/xml" CHECKSUM="934cf296e31789ec1d8e69502bd71ee1" CHECKSUMTYPE="MD5" SIZE="62374">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00107_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0035" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="212" firstpage="209">
+              <parties id="b211-6" pgmap="211">Lewis vs. The State.</parties>
+              <attorneys id="b211-12" pgmap="211">Garland &amp; Randolph, for the appellant.</attorneys>
+              <attorneys id="b212-13" pgmap="212">Hollowell, Attorney General, for the State.</attorneys>
+              <summary id="b211-10" pgmap="211">Appeal from Pulaski Circuit Coint.</summary>
+              <summary id="b211-11" pgmap="211">Hon. John J. Clendenin, Circuit Judge.</summary>
+              <summary id="b211-13" pgmap="211(21) 212(82)">The Legislature may vest such jurisdiction in corporation courts as is deemed necessary. See. J, art. 6, Ark. Const.- — • to have separate constables, magistracy, etc. lb. sec. 16. Origi­nal charter to city of Little Rock granted by territorial Legisla­ture in 1835, and made the mayor and aldermen a body politic complete. Laws that were valid and in force when this State became a State, continued to be in ' force until they expired, were altered or repealed. Sec. 2 of Schedule to Const.', 13 Met-­calf 68; 2 Ohio State 607; 3 Stew. 360; 1 Bishops C. L. 7.</summary>
+              <summary id="b212-6" pgmap="212">By law subsequently passed, the offence here charged was placed within the city justices’jurisdiction. Rev. Stat., p. 276, sec. 44; title Criminal Law; and this act was afterwards decided to be constitutional as to offences less than felony. 3 Ark. 484; 16.561.</summary>
+              <summary id="b212-7" pgmap="212">When an act is constitutional in part only, if that can be severed from the part not constitutional, it will be done. Mc-­Gehee vs. Mathis, decided at this term 'of this court, and cases there cited.</summary>
+              <summary id="b212-8" pgmap="212">Whenever a particular authority is conferred, whatever is necessary to carry that authority into execution is also conferred. 4 Wheaton 316; 9 lb. 738; Benedict's Admiralty, sec. 13, 17; Bouvier's Universal Law J. 235; 12 Peters 718.</summary>
+              <summary id="b212-9" pgmap="212">There is no such thing as losing jurisdiction by mere non­user. 2 Bay 418; 1 Strobhart 1; 1 Bland 550; 1 Bishop's Cr. Laio 56.</summary>
+              <summary id="b212-10" pgmap="212">If the city justices, or city constable, had jurisdiction, it was exclusive, Sec. 3, art. 6, Ark. Const.; 9 Wheaton 1; 5 Wheaton 76; 1 Bishop's C. L. 666.</summary>
+              <summary id="b212-11" pgmap="212">By license obtained from the city, a party can sell on any day — there is no restriction. Sec 7, Act of 21 st February, 1838.</summary>
+              <summary id="b212-12" pgmap="212">There are no joint actors known to the law in this offence; if another one sold, appellant is not guilty. 11 Metcalf 66; 4 How. (Miss.) 304; 2 Denio 341; 14 Johnson 119; 1 Bishop's Cr. L. 275; 5 Eng. 259; 7 Parker's Cr. Rep. 114.</summary>
+              <headnotes id="b211-7" pgmap="211">The decision in Rector vs. The State, (1 Eng. 187,) and Dunn vs. Howard, (1 Eng. 461), that so much of the act of 21st February, 1840, as confers on the city justices of Little Rockjurisdiction to hear and determine certain crimes, is uncon­stitutional and void, approved.</headnotes>
+              <headnotes id="b211-8" pgmap="211">The 7th section of the act of February, 1838, conferring upon the city authori­ties exclusive power to license the retail of spirituous liquors, does not exempt the inhabitants from the operation of the general law prohibiting the desecration of the Sabbath. (McGuen vs. The State, 19 Ark. 636.)</headnotes>
+              <headnotes id="b211-9" pgmap="211">Where an employer expressly authorizes or co-operates in an illegal act on the part of his clerk, they are both guilty.</headnotes>
+              <opinion type="majority">
+                <author id="b213-4" pgmap="213">Mr. Justice Compton</author>
+                <p id="AGr" pgmap="213">delivered the opinion of the Court.</p>
+                <p id="b213-5" pgmap="213">The appellant was convicted in the Pulaski Circuit Court upon an indictment for selling spirituous liquors on Sunday, contrary to the statute.</p>
+                <p id="b213-6" pgmap="213">The evidence shows that the liquors were sold by a clerk, employed by the appellant in a retail establishment in the city of Little Rock.</p>
+                <p id="b213-7" pgmap="213">The first objection relied on is, that the corporation court of Little Rock has exclusive jurisdiction of the offence. That this objection is not maintainable, has been well settled by the previous adjudications of this court. In Rector vs. The State, 1 Eng. 187, and Durr vs. Howard, Ib. 461, it was held that so much of the act of the 21st February, 1840, as confers on the city justices of Little Rock, as a corporation court, jurisdiction to hear and determine certain crimes, among which offences of the character charged against the appellant are embraced, was unconstitutional and void. The same principle was decided in Eason vs. The State, 6 Eng. 481, and recognized in Rutzell vs. The State, 15 Ark. 67.</p>
+                <p id="b213-8" pgmap="213">There is nothing in the argument now pressed upon the court, which causes us to doubt the soundness of these decisions.</p>
+                <p id="b213-9" pgmap="213">The next objection taken is based upon the refusal of the court to give the jury certain instructions moved by the appel­lant. The instructions were, in substance, 1st. That if the jury believed from the evidence that the sale was made within the corporate limits of the city of Little Rock, and that the appellant, at the time of the sale, had a license from the corpo­rate authorities of the city to retail spirituous liquors, they must find him not guilty. 2d. That unless the jury believed the appellant “ personally sold the liquors,” they should acquit.</p>
+                <p id="b213-10" pgmap="213(66) 214(25)">The argument is, that the first instruction should have been given, because section 7 of the act of February, 1838, gives the city authorities exclusive power to license the retail of liquors wdthin the corporate limits of the city. Now, it was certainly not the design of the Legislature, by the act of 1838, to exempt the inhabitants of the city of Little Rock from the operation of a general law of the State prohibiting the dese­cration of the Sabbath. See McCuen vs. The State (No. 4), 19 Ark. 636.</p>
+                <p id="b214-5" pgmap="214">The second instruction was properly refused. It was calcu­lated to mislead the jury by making the impression that the employer could not.be held responsible, under anjr circumstan­ces, if the sale was made by the clerk. The law is, that even though the employer did not make the sale himself, yet if he expressly authorized or co-operated in the illegal act of the clerk, they were both guilty.</p>
+                <p id="b214-6" pgmap="214">Upon an examination of the testimony, as set out in the bill of exceptions, the court is of opinion there is no total want of evidence to support the verdict.</p>
+                <p id="b214-7" pgmap="214">The judgment must be affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="211" ORDERLABEL="209" TYPE="page">
+        <fptr FILEID="tiff_00106_0"/>
+        <fptr FILEID="jp2_00106_0"/>
+        <fptr FILEID="alto_00106_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_211.3" BETYPE="IDREF" FILEID="alto_00106_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_211.2" BETYPE="IDREF" FILEID="alto_00106_0"/>
+              <area BEGIN="BL_211.4" BETYPE="IDREF" FILEID="alto_00106_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_211.5" BETYPE="IDREF" FILEID="alto_00106_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="212" ORDERLABEL="210" TYPE="page">
+        <fptr FILEID="tiff_00106_1"/>
+        <fptr FILEID="jp2_00106_1"/>
+        <fptr FILEID="alto_00106_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_212.2" BETYPE="IDREF" FILEID="alto_00106_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_212.3" BETYPE="IDREF" FILEID="alto_00106_1"/>
+              <area BEGIN="BL_212.4" BETYPE="IDREF" FILEID="alto_00106_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="213" ORDERLABEL="211" TYPE="page">
+        <fptr FILEID="tiff_00107_0"/>
+        <fptr FILEID="jp2_00107_0"/>
+        <fptr FILEID="alto_00107_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_213.2" BETYPE="IDREF" FILEID="alto_00107_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_213.1" BETYPE="IDREF" FILEID="alto_00107_0"/>
+              <area BEGIN="BL_213.3" BETYPE="IDREF" FILEID="alto_00107_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="214" ORDERLABEL="212" TYPE="page">
+        <fptr FILEID="tiff_00107_1"/>
+        <fptr FILEID="jp2_00107_1"/>
+        <fptr FILEID="alto_00107_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_214.2" BETYPE="IDREF" FILEID="alto_00107_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_214.3" BETYPE="IDREF" FILEID="alto_00107_1"/>
+              <area BEGIN="BL_214.4" BETYPE="IDREF" FILEID="alto_00107_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_214.8" BETYPE="IDREF" FILEID="alto_00107_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AGr" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_213.5" BETYPE="IDREF" FILEID="alto_00107_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b211-8" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_211.8" BETYPE="IDREF" FILEID="alto_00106_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b211-9" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_211.9" BETYPE="IDREF" FILEID="alto_00106_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b213-8" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_213.9" BETYPE="IDREF" FILEID="alto_00107_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b212-7" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_212.6" BETYPE="IDREF" FILEID="alto_00106_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b212-6" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_212.5" BETYPE="IDREF" FILEID="alto_00106_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b213-4" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_213.4" BETYPE="IDREF" FILEID="alto_00107_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b213-5" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_213.6" BETYPE="IDREF" FILEID="alto_00107_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b213-6" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_213.7" BETYPE="IDREF" FILEID="alto_00107_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b213-7" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_213.8" BETYPE="IDREF" FILEID="alto_00107_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b211-6" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_211.6" BETYPE="IDREF" FILEID="alto_00106_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b211-7" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_211.7" BETYPE="IDREF" FILEID="alto_00106_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b212-9" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_212.8" BETYPE="IDREF" FILEID="alto_00106_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b212-8" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_212.7" BETYPE="IDREF" FILEID="alto_00106_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b212-11" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_212.10" BETYPE="IDREF" FILEID="alto_00106_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b212-10" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_212.9" BETYPE="IDREF" FILEID="alto_00106_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b212-13" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_212.12" BETYPE="IDREF" FILEID="alto_00106_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b212-12" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_212.11" BETYPE="IDREF" FILEID="alto_00106_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b214-5" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_214.5" BETYPE="IDREF" FILEID="alto_00107_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b214-7" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_214.7" BETYPE="IDREF" FILEID="alto_00107_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b214-6" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_214.6" BETYPE="IDREF" FILEID="alto_00107_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b213-10" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_213.11" BETYPE="IDREF" FILEID="alto_00107_0"/>
+            <area BEGIN="BL_214.1" BETYPE="IDREF" FILEID="alto_00107_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b213-9" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_213.10" BETYPE="IDREF" FILEID="alto_00107_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b211-10" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_211.10" BETYPE="IDREF" FILEID="alto_00106_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b211-11" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_211.11" BETYPE="IDREF" FILEID="alto_00106_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b211-12" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_211.12" BETYPE="IDREF" FILEID="alto_00106_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b211-13" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_211.13" BETYPE="IDREF" FILEID="alto_00106_0"/>
+            <area BEGIN="BL_212.1" BETYPE="IDREF" FILEID="alto_00106_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

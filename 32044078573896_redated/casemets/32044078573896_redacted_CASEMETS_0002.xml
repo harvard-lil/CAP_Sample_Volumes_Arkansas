@@ -1,0 +1,601 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0002" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Williams v. Perkins">Williams et al. vs. Perkins</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 18</citation>
+          <decisiondate>1860-01</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00010_1" MIMETYPE="image/tiff" CHECKSUM="f1a77f7787cd4fa714b65817c531399f" CHECKSUMTYPE="MD5" SIZE="37054">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00010_1.tif"/>
+      </file>
+      <file ID="tiff_00011_0" MIMETYPE="image/tiff" CHECKSUM="6e4305ca16c2baa652973d837f53a568" CHECKSUMTYPE="MD5" SIZE="44528">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00011_0.tif"/>
+      </file>
+      <file ID="tiff_00011_1" MIMETYPE="image/tiff" CHECKSUM="9de119caa4cd4b48e5f00dc476f1a372" CHECKSUMTYPE="MD5" SIZE="48768">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00011_1.tif"/>
+      </file>
+      <file ID="tiff_00012_0" MIMETYPE="image/tiff" CHECKSUM="b4ca0f21832ecd36862c782020cb9cf6" CHECKSUMTYPE="MD5" SIZE="47936">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00012_0.tif"/>
+      </file>
+      <file ID="tiff_00012_1" MIMETYPE="image/tiff" CHECKSUM="617dd53221a334adaf59a5dbf65b04d2" CHECKSUMTYPE="MD5" SIZE="36458">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00012_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00010_1" MIMETYPE="image/jp2" CHECKSUM="08648c6a2211a07708a03192455ccff4" CHECKSUMTYPE="MD5" SIZE="2413095">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00010_1.jp2"/>
+      </file>
+      <file ID="jp2_00011_0" MIMETYPE="image/jp2" CHECKSUM="c2fc423a7360f07cfa76ee550a593b48" CHECKSUMTYPE="MD5" SIZE="2579646">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00011_0.jp2"/>
+      </file>
+      <file ID="jp2_00011_1" MIMETYPE="image/jp2" CHECKSUM="8147c6973617be5d024029f2a1323cae" CHECKSUMTYPE="MD5" SIZE="2592464">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00011_1.jp2"/>
+      </file>
+      <file ID="jp2_00012_0" MIMETYPE="image/jp2" CHECKSUM="ed6cd4a1b1492771f2f758c82b5e66c2" CHECKSUMTYPE="MD5" SIZE="2630414">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00012_0.jp2"/>
+      </file>
+      <file ID="jp2_00012_1" MIMETYPE="image/jp2" CHECKSUM="56e4f31125bacee94fff3c02be88de06" CHECKSUMTYPE="MD5" SIZE="2856816">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00012_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00010_1" MIMETYPE="text/xml" CHECKSUM="dc5d58dcfc2fc6bedec35fed89383e59" CHECKSUMTYPE="MD5" SIZE="82303">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00010_1.xml"/>
+      </file>
+      <file ID="alto_00011_0" MIMETYPE="text/xml" CHECKSUM="e2ef87c452c24924ef64c881e3557145" CHECKSUMTYPE="MD5" SIZE="82178">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00011_0.xml"/>
+      </file>
+      <file ID="alto_00011_1" MIMETYPE="text/xml" CHECKSUM="d7b56bbad0afc3ef6e93307ad6e43a05" CHECKSUMTYPE="MD5" SIZE="91275">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00011_1.xml"/>
+      </file>
+      <file ID="alto_00012_0" MIMETYPE="text/xml" CHECKSUM="b88eae5448a167de6dab196fcea4bae2" CHECKSUMTYPE="MD5" SIZE="87368">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00012_0.xml"/>
+      </file>
+      <file ID="alto_00012_1" MIMETYPE="text/xml" CHECKSUM="a587306decf0c1014899f7f3dcd9dccf" CHECKSUMTYPE="MD5" SIZE="80402">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00012_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0002" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="22" firstpage="18">
+              <parties id="b20-4" pgmap="20">Williams et al. vs. Perkins.</parties>
+              <judges id="b24-5" pgmap="24">Absent, Mr. Justice Rector.</judges>
+              <attorneys id="b20-10" pgmap="20">Garland &amp; McConaughey, for the plaintiffs.</attorneys>
+              <attorneys id="b20-13" pgmap="20">Yell, for the defendant.</attorneys>
+              <summary id="b20-9" pgmap="20">Error to the Circuit Court of Ashley County.</summary>
+              <summary id="b20-11" pgmap="20">It is error to give judgment against a party while a plea interposed by him is not disposed of. 4 Ark. 527; 5 lb. 193; 4 Eng. R. 469; lb. 597.</summary>
+              <summary id="b20-12" pgmap="20">A consideration which is executed is not sufficient to support a subsequent promise, unless the act or service was done at the request of the party promising. Burge on Suretyship 14; 1 Parsons on Con. 362, 363; Pitman on Pr. Surety 55, 58; 2 Kent 465; 7 J. R. 87.</summary>
+              <headnotes id="b20-5" pgmap="20">It is a general rule that a past or executed consideration is not sufficient to sustain a promise founded upon it, unless the consideration was done or performed at the request of the party promising; but whore the consideration and promise are simultaneous, and the whole agreementis completed, or where the consideration is to do a thing in the future, the promise is binding.</headnotes>
+              <headnotes id="b20-6" pgmap="20">Where the debt of the principal obligor is incurred previous to the undertaking of the surety, there must be a new consideration to sustain his promise; but if the promise of the surety is made when, or before the obligation of the principal is incurred, and enters into the inducement for giving the credit, the undertaking of the surety is founded upon a valid consideration.</headnotes>
+              <headnotes id="b20-7" pgmap="20">An instrument of writing for the payment of money was signed by the principal obligors; at the time, it was understood between them and the obligee that certain other persons, then absent, were to sign it, also, as sureties; the obligee took the instrument and afterwards procured the signatures of the parties: 'Held, That the consideration was sufficient to bind the sureties — the writing obligatory not being accepted as a complete contract until the signatures of the sureties were obtained.</headnotes>
+              <headnotes id="b20-8" pgmap="20">It is error to render judgment against a party without disposing of his pleas upon the record.</headnotes>
+              <opinion type="majority">
+                <author id="b21-4" pgmap="21">Mr. Justice Compton</author>
+                <p id="AN" pgmap="21">delivered the opinion of the Court.</p>
+                <p id="b21-5" pgmap="21">This was an action of debt, at the suit of the defendant in error — who was plaintiff below — on a writing obligatory which was as follows, to-wit:</p>
+                <blockquote id="b21-6" pgmap="21">“ $1,894 47-100. One day after date we, or either of us, promise to pay to Nicholas T. Perkins, or order, eighteen hun­dred and ninety-four 47-100 dollars; it being a balance due for the nett proceeds of seventy-seven bales of cotton which Wil­liams &amp; Parker sold for him in New Orleans, on the 25th day of May last, with interest from that time. Witness our hands and seals, this 2d day of July, 1846.</blockquote>
+                <blockquote id="b21-7" pgmap="21">WILLIAMS &amp; PARKER.</blockquote>
+                <blockquote id="b21-8" pgmap="21">O. B. PARKER, [seal.]</blockquote>
+                <blockquote id="b21-9" pgmap="21">WM. T. WILLIAMS, [seal.]</blockquote>
+                <blockquote id="b21-10" pgmap="21">GIDEON J. WILLIAMS, [seal.]”</blockquote>
+                <p id="b21-11" pgmap="21">Gideon J. Williams pleaded separately to the action; 1st. That the writing obligatory declared on was signed and sealed by him without any consideration. 2d. Payment. Similar pleas were'filed by William T. Williams, who also pleaded separately.</p>
+                <p id="b21-12" pgmap="21">• On the several pleas thus interposed, issues of fact were, regularly made up, except on the first plea of Gideon J. Wil­liams, as to which a demurrer was overruled, and no further step taken in regard to it.</p>
+                <p id="b21-13" pgmap="21">The cause was submitted to a jury, who returned a verdict for the plaintiff, and judgment was rendered accordingly.</p>
+                <p id="b21-14" pgmap="21(103) 22(21)">The evidence shows that the writing obligatory was signed by Williams &amp; Parker and O. B. Parker, as principal obligors, and Gideon J. Williams and William T. Williams, as sureties. When the instrument was signed by the principal obligors, it was understood between them and Perkins, the payee, that the sureties were to sign it also — they being then absent. Perkins took the instrument and afterwards procured the signatures of the sureties. There is no controversy as to the consideration which passed from the payee to the principal obligors. But it is insisted, that, at the time the sureties signed the writing obligatory, the consideration upon which it was founded, was wholly past or executed, and was, therefore, as to them, insuf­ficient.</p>
+                <p id="b22-6" pgmap="22">Under our statute this defence may be made, though the in­strument be under seal. Gould's Dig., chap. 133, sec. 75.</p>
+                <p id="b22-7" pgmap="22">The general rule is, that a past or executed consideration is not sufficient to sustain a promise founded upon it, unless the consideration, though past, was done or performed at the request of the party promising. Without such previous request a subsequent promise has no legal validity; because the con­sideration being entirely completed and exhausted, it cannot be said that it would not have been made or given, but for a promise which is subsequent and independent. But where the consideration and the promise founded upon it, are simultane­ous, and the whole agreement is completed at once; or where the consideration is to do a thing in the future, the promise rests on a sufficient foundation, and is binding on the party who makes it. To illustrate: If one lends money to another) and, at a subsequent time, a third party, who did not request the loan, and is not benefited by it, promises to see that it is paid, such promise is void, because no consideration passes from the promisee to the promisor. But if the promisor requests the loan, or if his promise is made previous to the loan, or at the same time, then it will be supposed that the loan is made be­cause of the promise, which is a sufficient consideration to bind the promisor.</p>
+                <p id="b22-9" pgmap="22(112) 23(48)">The consideration for the promise of a surety may be tha^ upon which the liability of the principal debtor is founded' The rule seems to be this: If the debtor obligation of the prin­cipal debtor is already incurred previous to the undertaking of the surety, then there must be a new and distinct considera­tion to sustain the promise of the surety. But if the obligation of the principal debtor be founded upon a good consideration and, at the time it is incurred, or before that time, the promise of the surety is made, and enters into the inducement for giv­ing the credit, then the consideration for which the principal debt is contracted is regarded as a valid consideration, also, for the undertaking of the surety. Par. on Contracts 391, 392, 496, 497; Burge on Suretyship 13, 14, 36; Jackson’s adm’r vs. Jack­son et al., 7 Ala., New Series, 794; Baily vs. Croft, 4 Taunton R. 611.</p>
+                <p id="b23-5" pgmap="23">It results, from an applicntion of these principles to the evi­dence adduced, that the proposition of the plaintiffs in error is not maintainable. Although the payee took the writing obliga­tory at the time it was executed by the principal obligors, and held it for some length of time — how long does not appear— before the signatures of the sureties were procured, still, it does not follow, that it was first made and signed by the prin­cipal obligors and accepted by the payee as a complete con­tract, and afterwards, at another time,, the contract of the sureties was made as a distinct and independent transaction; because, at the time it was signed by the principal obligors it was expressly understood between them and the payee that the sureties would also sign it.</p>
+                <p id="b23-6" pgmap="23">That the payee did not accept the writing obligatory as a complete contract until the signatures of the sureties were obtained, is an irresistible conclusion from the evidence. Al­though the signatures of the principal obligors were procured at one time, and those of the sureties afterwards, nevertheless, in contemplation of law, their promises were cotemporaneous, and formed a part of one and the same general transaction; and the same consideration which supports the promise of the one, also supports that of the other. Hence, the sureties were clearly liable upon the instrument sued on.</p>
+                <p id="b23-7" pgmap="23">The court erred, however, in rendering final judgment with­out disposing of the first plea of Gideon J. Williams, on which, after the demurrer to it was overruled, it seems there was no issue made up. The court should have required an issue, or have disposed of the pleading as to that plea by ren­dering judgment against the party in default by nil dicit according to the established practice in such cases. Mandel vs. Peet, Simms &amp; Co., 18 Ark. 218.</p>
+                <p id="b24-4" pgmap="24">For this error, the judgment must be reversed, and the canse remanded, to be proceeded in according to law.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="20" ORDERLABEL="18" TYPE="page">
+        <fptr FILEID="tiff_00010_1"/>
+        <fptr FILEID="jp2_00010_1"/>
+        <fptr FILEID="alto_00010_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_20.1" BETYPE="IDREF" FILEID="alto_00010_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_20.2" BETYPE="IDREF" FILEID="alto_00010_1"/>
+              <area BEGIN="BL_20.3" BETYPE="IDREF" FILEID="alto_00010_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="21" ORDERLABEL="19" TYPE="page">
+        <fptr FILEID="tiff_00011_0"/>
+        <fptr FILEID="jp2_00011_0"/>
+        <fptr FILEID="alto_00011_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_21.2" BETYPE="IDREF" FILEID="alto_00011_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_21.1" BETYPE="IDREF" FILEID="alto_00011_0"/>
+              <area BEGIN="BL_21.3" BETYPE="IDREF" FILEID="alto_00011_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="22" ORDERLABEL="20" TYPE="page">
+        <fptr FILEID="tiff_00011_1"/>
+        <fptr FILEID="jp2_00011_1"/>
+        <fptr FILEID="alto_00011_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_22.2" BETYPE="IDREF" FILEID="alto_00011_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_22.3" BETYPE="IDREF" FILEID="alto_00011_1"/>
+              <area BEGIN="BL_22.4" BETYPE="IDREF" FILEID="alto_00011_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="23" ORDERLABEL="21" TYPE="page">
+        <fptr FILEID="tiff_00012_0"/>
+        <fptr FILEID="jp2_00012_0"/>
+        <fptr FILEID="alto_00012_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_23.3" BETYPE="IDREF" FILEID="alto_00012_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_23.2" BETYPE="IDREF" FILEID="alto_00012_0"/>
+              <area BEGIN="BL_23.4" BETYPE="IDREF" FILEID="alto_00012_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="24" ORDERLABEL="22" TYPE="page">
+        <fptr FILEID="tiff_00012_1"/>
+        <fptr FILEID="jp2_00012_1"/>
+        <fptr FILEID="alto_00012_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_24.1" BETYPE="IDREF" FILEID="alto_00012_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_24.2" BETYPE="IDREF" FILEID="alto_00012_1"/>
+              <area BEGIN="BL_24.3" BETYPE="IDREF" FILEID="alto_00012_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_24.6" BETYPE="IDREF" FILEID="alto_00012_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b21-4" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_21.4" BETYPE="IDREF" FILEID="alto_00011_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b21-5" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_21.6" BETYPE="IDREF" FILEID="alto_00011_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b21-6" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_21.7" BETYPE="IDREF" FILEID="alto_00011_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b21-7" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_21.8" BETYPE="IDREF" FILEID="alto_00011_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b23-6" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_23.6" BETYPE="IDREF" FILEID="alto_00012_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b23-7" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_23.7" BETYPE="IDREF" FILEID="alto_00012_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b22-9" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_22.7" BETYPE="IDREF" FILEID="alto_00011_1"/>
+            <area BEGIN="BL_23.1" BETYPE="IDREF" FILEID="alto_00012_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b23-5" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_23.5" BETYPE="IDREF" FILEID="alto_00012_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b22-7" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_22.6" BETYPE="IDREF" FILEID="alto_00011_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b22-6" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_22.5" BETYPE="IDREF" FILEID="alto_00011_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b21-8" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_21.9" BETYPE="IDREF" FILEID="alto_00011_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b21-9" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_21.10" BETYPE="IDREF" FILEID="alto_00011_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b20-11" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_20.11" BETYPE="IDREF" FILEID="alto_00010_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b20-10" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_20.10" BETYPE="IDREF" FILEID="alto_00010_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b20-13" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_20.13" BETYPE="IDREF" FILEID="alto_00010_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b20-12" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_20.12" BETYPE="IDREF" FILEID="alto_00010_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b21-12" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_21.13" BETYPE="IDREF" FILEID="alto_00011_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b21-13" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_21.14" BETYPE="IDREF" FILEID="alto_00011_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b21-10" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_21.11" BETYPE="IDREF" FILEID="alto_00011_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b21-11" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_21.12" BETYPE="IDREF" FILEID="alto_00011_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b20-9" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_20.9" BETYPE="IDREF" FILEID="alto_00010_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b20-8" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_20.8" BETYPE="IDREF" FILEID="alto_00010_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b21-14" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_21.15" BETYPE="IDREF" FILEID="alto_00011_0"/>
+            <area BEGIN="BL_22.1" BETYPE="IDREF" FILEID="alto_00011_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b24-5" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_24.5" BETYPE="IDREF" FILEID="alto_00012_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b24-4" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_24.4" BETYPE="IDREF" FILEID="alto_00012_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b20-5" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_20.5" BETYPE="IDREF" FILEID="alto_00010_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b20-4" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_20.4" BETYPE="IDREF" FILEID="alto_00010_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b20-7" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_20.7" BETYPE="IDREF" FILEID="alto_00010_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b20-6" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_20.6" BETYPE="IDREF" FILEID="alto_00010_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AN" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_21.5" BETYPE="IDREF" FILEID="alto_00011_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

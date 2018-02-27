@@ -1,0 +1,442 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0121" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Edwards v. State">Edwards vs. The State</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 512</citation>
+          <decisiondate>1860-07</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00257_1" MIMETYPE="image/tiff" CHECKSUM="876ae518a60fa176f80ed7e0ebd3a79d" CHECKSUMTYPE="MD5" SIZE="27026">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00257_1.tif"/>
+      </file>
+      <file ID="tiff_00258_0" MIMETYPE="image/tiff" CHECKSUM="8b135d6653cbb61f899fca8bc52af66d" CHECKSUMTYPE="MD5" SIZE="44228">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00258_0.tif"/>
+      </file>
+      <file ID="tiff_00258_1" MIMETYPE="image/tiff" CHECKSUM="bb7808875367d51a69e25c9f1d1ee412" CHECKSUMTYPE="MD5" SIZE="40340">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00258_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00257_1" MIMETYPE="image/jp2" CHECKSUM="93a58c308e192179aa85d0d68bcbbaa7" CHECKSUMTYPE="MD5" SIZE="2318381">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00257_1.jp2"/>
+      </file>
+      <file ID="jp2_00258_0" MIMETYPE="image/jp2" CHECKSUM="08af462f7b99cba4962243f1a4253b28" CHECKSUMTYPE="MD5" SIZE="2427701">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00258_0.jp2"/>
+      </file>
+      <file ID="jp2_00258_1" MIMETYPE="image/jp2" CHECKSUM="0748d6c75c5827a62c82176ed8f1be4b" CHECKSUMTYPE="MD5" SIZE="2424992">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00258_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00257_1" MIMETYPE="text/xml" CHECKSUM="3743af75857171f1615e67d913facbfb" CHECKSUMTYPE="MD5" SIZE="53448">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00257_1.xml"/>
+      </file>
+      <file ID="alto_00258_0" MIMETYPE="text/xml" CHECKSUM="0a1cb02eadc1f1f8840c5f06f3072758" CHECKSUMTYPE="MD5" SIZE="85919">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00258_0.xml"/>
+      </file>
+      <file ID="alto_00258_1" MIMETYPE="text/xml" CHECKSUM="ba58eb442b55d1266052c8db50a42a58" CHECKSUMTYPE="MD5" SIZE="78804">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00258_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0121" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="514" firstpage="512">
+              <parties id="b514-6" pgmap="514">Edwards vs. The State.</parties>
+              <attorneys id="b514-10" pgmap="514">Jordan, for the appellant.</attorneys>
+              <attorneys id="b515-5" pgmap="515">Holeowell, Attorney General, for the State.</attorneys>
+              <summary id="b514-8" pgmap="514">Appeal from Pulaski Circuit Court.</summary>
+              <summary id="b514-9" pgmap="514">Hon. John J. Clendenin, Circuit Judge.</summary>
+              <summary id="b514-11" pgmap="514">An indictment ought to be certain to every intent, and without any intendment to the contrary. 1 Eng. 1G5; 1 Ch. Gr. Law, 172; Pthart. Gr Law, 116, 132; and as the indictment in this case is framed upon the first section of chapter 51, Gould’s Digest, page 382, for a violation of which there is no penalty annexed, except against a white person, the description of the offence, and the punishment annexed, both require that the indictment should aver that the accused is a white person.</summary>
+              <summary id="b515-4" pgmap="515">And as tlie act under which the indictment was found em­braces three distinct classes of persons, affixing a different penalty to each one, the indictment must be framed with such certainty that the court can determine to which class of persons it was intended to apply. See Whart. Gr. Law 138; 1 Walker {Miss) Rep 409; 2 Yerg. 233.</summary>
+              <headnotes id="b514-7" pgmap="514">A person charged in an indictment with the commission of an offence is to be taken as a white person in the absence of any allegation showing him to be other­wise; and so in an indictment, under sec. L, Art. IV, Part IX, Gould’s Dig., for selling ardent spirits to.a slave, it is not necessary to charge that the defendant is a white person.</headnotes>
+              <opinion type="majority">
+                <author id="b515-6" pgmap="515">Mr. Justice Fairchild</author>
+                <p id="AYO" pgmap="515">delivered the opinion of the court.</p>
+                <p id="b515-7" pgmap="515">After a refusal of the Circuit Court to quash the first count of an indictment charging Edwards with selling ardent spirits to a slave, without the permission of his master, he stood mute, and the court entered the plea of not guilty for him. On this issue, he was tried and found guilty by the jury, who did not assess the fine. The court fined him one hundred dollars, and judgment was entered against him accordingly.</p>
+                <p id="b515-8" pgmap="515">Edwards moved to arrest the judgment, which the court would not do, and he appealed.</p>
+                <p id="b515-9" pgmap="515">The ground of his appeal is the same question that was made upon his motion to quash the indictment, and arrest the judg­ment, to-wit: that he is not charged in the indictment to be a white person.</p>
+                <p id="b515-10" pgmap="515">The offences enumerated in the first and second sections of Art. IV, Part IX, chap. 51, of Gould’s Digest, are distinct in this, that by the first section it is made criminal for a white person to sell ardent spirits to a slave without permission of his master. While, by the second section, it is made a crime for a free negro or mulatto to give or sell to a slave spirituous liquors. In this section no exception is made for the act being committed with the consent of the master.</p>
+                <p id="b515-11" pgmap="515">Of course none but a white person can suffer the punishment awarded by the first section, and none but a free negro or mulatto can be convicted for giving or selling spirituous liquor to a slave, though done by permission of the master, or be punished under the second section.</p>
+                <p id="b516-5" pgmap="516">But to make a conviction legal under the first section, we do not think it necessary that the indictment should allege the defendant to be a white person.</p>
+                <p id="b516-6" pgmap="516">If the proof do not show him to be a free negro, or mulatto, and do show him to have been guilty of selling ardent spirits to a slave without permission of the master, and the allegation is made in the indictment to cover the proof, he is legally'con­victed, on a charge legally made, though he is not charged with being a white person, or proven to be such. For we hold that every person named in an allegation, or the subject of proof, is held to be a white person, until he is charged or proven to be a free negro, or mulatto.</p>
+                <p id="b516-7" pgmap="516">We have various statutes that inflict different punishments to the same acts, according to the color and condition of the actors — as may be found under the head of Rape, Art. If, Part 111, chap. 51, in secs. 54 and 55, chap. 160, of Gould's Digest— and as is continually applied in the punishment of felonies, as committed by white persons and by slaves.</p>
+                <p id="b516-8" pgmap="516">We do not think the defendant in this case was required to be charged with being a white person, any more than a man chargedwith manslaughter must be charged as a white man, to avoid the punishment affixed to the commission of that offence by a slave.</p>
+                <p id="b516-9" pgmap="516">To be convicted under the section following that upon which this indictment is framed, the offender might have to be charged as a free negro or mulatto. But we think we are providing for sufficient certainty in criminal pleading, in holding that a per­son charged with the commission of an offence is to be taken as a white person, in the absence of any allegation showing him to be otherwise.</p>
+                <p id="b516-10" pgmap="516">Judgment affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="514" ORDERLABEL="512" TYPE="page">
+        <fptr FILEID="tiff_00257_1"/>
+        <fptr FILEID="jp2_00257_1"/>
+        <fptr FILEID="alto_00257_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_514.2" BETYPE="IDREF" FILEID="alto_00257_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_514.3" BETYPE="IDREF" FILEID="alto_00257_1"/>
+              <area BEGIN="BL_514.4" BETYPE="IDREF" FILEID="alto_00257_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_514.5" BETYPE="IDREF" FILEID="alto_00257_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="515" ORDERLABEL="513" TYPE="page">
+        <fptr FILEID="tiff_00258_0"/>
+        <fptr FILEID="jp2_00258_0"/>
+        <fptr FILEID="alto_00258_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_515.2" BETYPE="IDREF" FILEID="alto_00258_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_515.1" BETYPE="IDREF" FILEID="alto_00258_0"/>
+              <area BEGIN="BL_515.3" BETYPE="IDREF" FILEID="alto_00258_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="516" ORDERLABEL="514" TYPE="page">
+        <fptr FILEID="tiff_00258_1"/>
+        <fptr FILEID="jp2_00258_1"/>
+        <fptr FILEID="alto_00258_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_516.1" BETYPE="IDREF" FILEID="alto_00258_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_516.2" BETYPE="IDREF" FILEID="alto_00258_1"/>
+              <area BEGIN="BL_516.3" BETYPE="IDREF" FILEID="alto_00258_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b516-6" BETYPE="IDREF" FILEID="casebody_0121"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_516.5" BETYPE="IDREF" FILEID="alto_00258_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AYO" BETYPE="IDREF" FILEID="casebody_0121"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_515.7" BETYPE="IDREF" FILEID="alto_00258_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b516-5" BETYPE="IDREF" FILEID="casebody_0121"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_516.4" BETYPE="IDREF" FILEID="alto_00258_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b516-10" BETYPE="IDREF" FILEID="casebody_0121"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_516.9" BETYPE="IDREF" FILEID="alto_00258_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b516-7" BETYPE="IDREF" FILEID="casebody_0121"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_516.6" BETYPE="IDREF" FILEID="alto_00258_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b514-10" BETYPE="IDREF" FILEID="casebody_0121"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_514.10" BETYPE="IDREF" FILEID="alto_00257_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b514-11" BETYPE="IDREF" FILEID="casebody_0121"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_514.11" BETYPE="IDREF" FILEID="alto_00257_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b516-8" BETYPE="IDREF" FILEID="casebody_0121"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_516.7" BETYPE="IDREF" FILEID="alto_00258_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b516-9" BETYPE="IDREF" FILEID="casebody_0121"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_516.8" BETYPE="IDREF" FILEID="alto_00258_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b514-8" BETYPE="IDREF" FILEID="casebody_0121"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_514.8" BETYPE="IDREF" FILEID="alto_00257_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b514-9" BETYPE="IDREF" FILEID="casebody_0121"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_514.9" BETYPE="IDREF" FILEID="alto_00257_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b515-9" BETYPE="IDREF" FILEID="casebody_0121"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_515.10" BETYPE="IDREF" FILEID="alto_00258_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b515-8" BETYPE="IDREF" FILEID="casebody_0121"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_515.9" BETYPE="IDREF" FILEID="alto_00258_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b515-11" BETYPE="IDREF" FILEID="casebody_0121"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_515.12" BETYPE="IDREF" FILEID="alto_00258_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b515-10" BETYPE="IDREF" FILEID="casebody_0121"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_515.11" BETYPE="IDREF" FILEID="alto_00258_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b515-5" BETYPE="IDREF" FILEID="casebody_0121"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_515.5" BETYPE="IDREF" FILEID="alto_00258_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b515-4" BETYPE="IDREF" FILEID="casebody_0121"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_515.4" BETYPE="IDREF" FILEID="alto_00258_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b515-7" BETYPE="IDREF" FILEID="casebody_0121"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_515.8" BETYPE="IDREF" FILEID="alto_00258_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b515-6" BETYPE="IDREF" FILEID="casebody_0121"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_515.6" BETYPE="IDREF" FILEID="alto_00258_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b514-6" BETYPE="IDREF" FILEID="casebody_0121"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_514.6" BETYPE="IDREF" FILEID="alto_00257_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b514-7" BETYPE="IDREF" FILEID="casebody_0121"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_514.7" BETYPE="IDREF" FILEID="alto_00257_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

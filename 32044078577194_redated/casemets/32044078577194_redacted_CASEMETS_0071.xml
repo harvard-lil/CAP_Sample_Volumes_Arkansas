@@ -1,0 +1,408 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0071" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Cox v. State">Steven Mark COX v. STATE of Arkansas</name>
+          <docketnumber>CR 85-200</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 300</citation>
+          <citation category="parallel" type="bluebook">705 S.W.2d 1</citation>
+          <decisiondate>1986-03-03</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:00Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00166_1" MIMETYPE="image/tiff" CHECKSUM="e8a022b4301a402eabdf913f13b9dab2" CHECKSUMTYPE="MD5" SIZE="20014">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00166_1.tif"/>
+      </file>
+      <file ID="tiff_00167_0" MIMETYPE="image/tiff" CHECKSUM="9860b9e4a61666cf2904559403ceba23" CHECKSUMTYPE="MD5" SIZE="50548">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00167_0.tif"/>
+      </file>
+      <file ID="tiff_00167_1" MIMETYPE="image/tiff" CHECKSUM="f6e52c74ff9977fd425de799a5e30408" CHECKSUMTYPE="MD5" SIZE="25362">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00167_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00166_1" MIMETYPE="image/jp2" CHECKSUM="0ee48ca9dc3c31ca3d9b7b39973afe53" CHECKSUMTYPE="MD5" SIZE="1722559">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00166_1.jp2"/>
+      </file>
+      <file ID="jp2_00167_0" MIMETYPE="image/jp2" CHECKSUM="14a0da80095c37b26eba096f0f9c8e32" CHECKSUMTYPE="MD5" SIZE="2504853">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00167_0.jp2"/>
+      </file>
+      <file ID="jp2_00167_1" MIMETYPE="image/jp2" CHECKSUM="072340db82b4f5a0d7d1b9857610da26" CHECKSUMTYPE="MD5" SIZE="2096144">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00167_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00166_1" MIMETYPE="text/xml" CHECKSUM="3460ad2fef176edc5b3250290e3d1a7c" CHECKSUMTYPE="MD5" SIZE="34648">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00166_1.xml"/>
+      </file>
+      <file ID="alto_00167_0" MIMETYPE="text/xml" CHECKSUM="8a3a0ffdfc42dbbdba01f73985df9105" CHECKSUMTYPE="MD5" SIZE="88234">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00167_0.xml"/>
+      </file>
+      <file ID="alto_00167_1" MIMETYPE="text/xml" CHECKSUM="8c145160485ca8a2dca17622e4c5339c" CHECKSUMTYPE="MD5" SIZE="40953">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00167_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0071" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="300" lastpage="302">
+              <court pgmap="332" id="b332-4">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="332" id="A8R">CR 85-200</docketnumber>
+              <citation pgmap="332" id="AfG">705 S.W.2d 1</citation>
+              <parties pgmap="332" id="b332-3">Steven Mark COX v. STATE of Arkansas</parties>
+              <decisiondate pgmap="332" id="AIM">Opinion delivered March 3, 1986</decisiondate>
+              <judges pgmap="334" id="b334-5">Purtle, J., not participating.</judges>
+              <attorneys pgmap="332" id="b332-9">Appellant, pro se.</attorneys>
+              <attorneys pgmap="332" id="b332-10">Steve Clark, Att’y Gen., by: Joel O. Huggins, Asst. Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="332" id="b332-11">Robert H. Dudley, Justice.</author>
+                <p pgmap="332" id="Avol">The sole issue involved in this case is whether appellant should receive credit for jail time spent in Texas from June 28, 1984 until March 31, 1985. The lower court refused to allow such credit. We affirm.</p>
+                <p pgmap="332(55) 333(22)" id="b332-12">On November 28, 1983, appellant, Steven Mark Cox, pleaded guilty to charges of possession of cocaine and marijuana with intent to deliver. He was sentenced to a term of seven (7) years with two (2) years suspended. He was given credit for five (5) days jail time and was ordered to surrender on January 3, 1984 to begin serving his sentence. He failed to appear on that date, and a bench warrant was issued for his arrest.</p>
+                <p pgmap="333" id="b333-4">On June 28, 1984, appellant was arrested in Texas on the Arkansas warrant. The State of Texas also charged appellant with crimes committed while he was there. In addition, Texas authorities refused to extradite appellant to Arkansas, choosing instead to try him on the Texas charges.</p>
+                <p pgmap="333" id="b333-5">Appellant pleaded guilty to the Texas charges and was sentenced to a term of ten (10) years. The State of Arkansas placed a detainer against appellant in the Texas Department of Corrections. On or about February 24, 1985, appellant waived extradition. He was transported back to the State of Arkansas on March 31, 1985.</p>
+                <p pgmap="333" id="b333-6">Appellant contends that he should receive credit for the jail time spent in Texas from his arrest on June 28,1984 until he was returned to Arkansas on March 31, 1985. In support of that contention, he cites Ark. Stat. Ann. § 41-904 (Repl. 1977). It provides:</p>
+                <blockquote pgmap="333" id="b333-7">Credit for time spent in custody. — If a defendant is held in custody for conduct that results in a sentence to imprisonment, the court shall credit the time spent in custody against the sentence.</blockquote>
+                <p pgmap="333" id="b333-8">
+                   In Boone v. State, 270 Ark. 83, 603 S.W.2d 410 (1980), we explained that “ [o] ur statute requires that a defendant held in custody for conduct that results in a sentence to imprisonment be given credit for the time spent in custody against his sentence.” We went on to explain in Boone that credit for jail time is appropriate when the pretrial incarceration is due to inability to make bail, but that it is not appropriate when the incarceration is due wholly to unrelated charges that are based on conduct other than that for which the defendant is sentenced. Further, in Hughes v. State, 260 Ark. 399-A, 540 S.W.2d 592 (1976), we held that no credit should be allowed for time spent in jail as a fugitive from justice.</p>
+                <p pgmap="333(41) 334(31)" id="b333-9">
+                   Appellant was incarcerated in Texas for two reasons: (1) he was a fugitive from justice in Arkansas, and (2) he had committed other crimes in Texas. Thus, the reasons for incarcer­ation are wholly unrelated to the conduct that resulted in appellant’s five-year sentence for possession of cocaine and marijuana with intent to deliver. Consequently, appellant should not receive any credit for the period of time that he was incarcerated in Texas.</p>
+                <p pgmap="334" id="b334-4">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="332" ORDERLABEL="300" TYPE="page">
+        <fptr FILEID="tiff_00166_1"/>
+        <fptr FILEID="jp2_00166_1"/>
+        <fptr FILEID="alto_00166_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_332.1" BETYPE="IDREF" FILEID="alto_00166_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="333" ORDERLABEL="301" TYPE="page">
+        <fptr FILEID="tiff_00167_0"/>
+        <fptr FILEID="jp2_00167_0"/>
+        <fptr FILEID="alto_00167_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_333.3" BETYPE="IDREF" FILEID="alto_00167_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="334" ORDERLABEL="302" TYPE="page">
+        <fptr FILEID="tiff_00167_1"/>
+        <fptr FILEID="jp2_00167_1"/>
+        <fptr FILEID="alto_00167_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_334.2" BETYPE="IDREF" FILEID="alto_00167_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b333-7" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_333.7" BETYPE="IDREF" FILEID="alto_00167_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b332-3" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_332.3" BETYPE="IDREF" FILEID="alto_00166_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b333-5" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_333.5" BETYPE="IDREF" FILEID="alto_00167_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b333-4" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_333.4" BETYPE="IDREF" FILEID="alto_00167_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b332-4" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_332.6" BETYPE="IDREF" FILEID="alto_00166_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AIM" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_332.7" BETYPE="IDREF" FILEID="alto_00166_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b332-9" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_332.13" BETYPE="IDREF" FILEID="alto_00166_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b334-4" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_334.4" BETYPE="IDREF" FILEID="alto_00167_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b334-5" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_334.5" BETYPE="IDREF" FILEID="alto_00167_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b333-9" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_333.9" BETYPE="IDREF" FILEID="alto_00167_0"/>
+            <area BEGIN="BL_334.1" BETYPE="IDREF" FILEID="alto_00167_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b333-8" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_333.8" BETYPE="IDREF" FILEID="alto_00167_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Avol" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_332.16" BETYPE="IDREF" FILEID="alto_00166_1"/>
+            <area BEGIN="BL_332.17" BETYPE="IDREF" FILEID="alto_00166_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b332-10" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_332.14" BETYPE="IDREF" FILEID="alto_00166_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b332-11" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_332.15" BETYPE="IDREF" FILEID="alto_00166_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b332-12" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_332.18" BETYPE="IDREF" FILEID="alto_00166_1"/>
+            <area BEGIN="BL_333.1" BETYPE="IDREF" FILEID="alto_00167_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AfG" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_332.5" BETYPE="IDREF" FILEID="alto_00166_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A8R" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_332.4" BETYPE="IDREF" FILEID="alto_00166_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b333-6" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_333.6" BETYPE="IDREF" FILEID="alto_00167_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,470 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0049" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Watkins v. Bailey">Watkins, surv. vs. Bailey</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 274</citation>
+          <decisiondate>1860-05</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00138_1" MIMETYPE="image/tiff" CHECKSUM="92c38e2559d0f98800427f9cf1698da2" CHECKSUMTYPE="MD5" SIZE="28670">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00138_1.tif"/>
+      </file>
+      <file ID="tiff_00139_0" MIMETYPE="image/tiff" CHECKSUM="a661872c235d654a10cbcc6ae231dc45" CHECKSUMTYPE="MD5" SIZE="43200">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00139_0.tif"/>
+      </file>
+      <file ID="tiff_00139_1" MIMETYPE="image/tiff" CHECKSUM="d6b91da3a2126d50587a2e279913daa7" CHECKSUMTYPE="MD5" SIZE="50456">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00139_1.tif"/>
+      </file>
+      <file ID="tiff_00140_0" MIMETYPE="image/tiff" CHECKSUM="aa27d2f01d1ff8986d7fe8d77ae5452a" CHECKSUMTYPE="MD5" SIZE="28438">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00140_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00138_1" MIMETYPE="image/jp2" CHECKSUM="b9b414dc7883a90fd8c60c3c583ece2a" CHECKSUMTYPE="MD5" SIZE="2435298">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00138_1.jp2"/>
+      </file>
+      <file ID="jp2_00139_0" MIMETYPE="image/jp2" CHECKSUM="14755aa8f9c99e0c794e4e524667516f" CHECKSUMTYPE="MD5" SIZE="2629190">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00139_0.jp2"/>
+      </file>
+      <file ID="jp2_00139_1" MIMETYPE="image/jp2" CHECKSUM="0b479dfbddbad33b40c5560516e5f614" CHECKSUMTYPE="MD5" SIZE="2675589">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00139_1.jp2"/>
+      </file>
+      <file ID="jp2_00140_0" MIMETYPE="image/jp2" CHECKSUM="f206c5a13d06c32302c86b0579676e08" CHECKSUMTYPE="MD5" SIZE="2542130">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00140_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00138_1" MIMETYPE="text/xml" CHECKSUM="40b84e8e279009791be38756c5d24382" CHECKSUMTYPE="MD5" SIZE="60660">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00138_1.xml"/>
+      </file>
+      <file ID="alto_00139_0" MIMETYPE="text/xml" CHECKSUM="e9eeefd05d57885e86c9d1380a415a32" CHECKSUMTYPE="MD5" SIZE="82943">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00139_0.xml"/>
+      </file>
+      <file ID="alto_00139_1" MIMETYPE="text/xml" CHECKSUM="45004e44ca42a6d29742bd5d87f3bf3a" CHECKSUMTYPE="MD5" SIZE="97298">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00139_1.xml"/>
+      </file>
+      <file ID="alto_00140_0" MIMETYPE="text/xml" CHECKSUM="78e7c00c1cf697105afa6e6503b2a1c4" CHECKSUMTYPE="MD5" SIZE="57072">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00140_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0049" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="277" firstpage="274">
+              <parties id="b276-6" pgmap="276">Watkins, surv. vs. Bailey.</parties>
+              <attorneys id="b276-12" pgmap="276">Fowler &amp; Stillwell, for the appellant.</attorneys>
+              <attorneys id="b277-6" pgmap="277">McConaughey, for the appellee".</attorneys>
+              <summary id="b276-9" pgmap="276">Appeal from the Circuit Court of White County.</summary>
+              <summary id="AvW" pgmap="276">Hon. William C. Bevens, Circuit Judge.</summary>
+              <summary id="b276-13" pgmap="276(20) 277(18)">Bailey was not employed by Mrs. Watkins. His services were rendered without any request on her part, and of course, she was under no legal obligation to pay him any thing. Ber­trand vs. Byrd, 5 Ark. 658.</summary>
+              <summary id="b277-5" pgmap="277">The hirer was bound to pay the negro’s medical bills, unless there was an express agreement to the contrary. Wheeler's Law of slavery, 156; Grundy, etc., vs. Jackson etc., 1 Litt. Rep. 11</summary>
+              <headnotes id="b276-7" pgmap="276">Where a person -hires a slave for a year, he is under obligation' to supply the slave’s necessary wants during the period of the hiring; and in the event of his sickness, to call in a physician, if necessary; and, in the absence of an express contract between him and the owner, to pay the physician’s bill.</headnotes>
+              <headnotes id="b276-8" pgmap="276">But if there be an express contract between the owner and the hirer, that the former shall pay the physician’s bill, in case of the sickness of the slave, and in the event of such sickness, the hirer employ a physician, there is no such privity of contract between the physician and the owner, as will entitle the former to maintain an action against the latter for the amount of such bill.</headnotes>
+              <opinion type="majority">
+                <author id="b277-7" pgmap="277">Mr. Chief Justice English,</author>
+                <p id="Ac8" pgmap="277">delivered the opinion of the court.</p>
+                <p id="b277-8" pgmap="277">Bailey, a physician, sued Watkins and wife, before a justice of the peace, upon an account for medical services, etc., rendered to a slave of Mrs. Watkins, whilst she was a feme sole. The justice gave judgment against plaintiff, and he appealed to the Circuit Court, where the cause was tried by the court, sitting as a jury, and judgment rendered in his favor for $31 65, the amount of the account, with interest, etc.</p>
+                <p id="b277-9" pgmap="277">The defendants moved for a new trial, on the ground that the finding and judgment of the court were contrary to law and evidence; the motion was overruled, and they excepted, and appealed to this court.</p>
+                <p id="b277-10" pgmap="277">On the trial it was proven that Mrs. Watkins, when a feme sole, hired a slave to Rogers for the year 1856. That appel­lee, who was a physician, was called in by Rogers, during the time of the hiring, to attend the slave, and rendered the servi­ces specified in the account sued on, and that the charges were reasonable. That the negro, at first, had a chill, but after appellee had attended him for some time, and he got worse, Rogers informed Mrs. Watkins, the owner, of the fact, and she directed Dr. McRae to be employed, and Rogers thereupon dismissed appellee and called in Dr. McRae, who attended the negro and was afterwards paid for his services by Mrs. Wat­kins.</p>
+                <p id="b277-11" pgmap="277(31) 278(20)">Rogers testified that the owners of negroes hired by him, in one instance, paid the physician’s bill for attending the negroes during the term of the hiring, without any express contract. That he did not pay Dr. McRae’s bill, but he knew of no cus­tom that owners should do so.</p>
+                <p id="b278-6" pgmap="278">Two other witnesses testified that there was no custom for owners to pay doctor’s bills for attending servants whilst hired out; but mentioned similar instances of the owners paying such bills, and that without express contract for that purpose.</p>
+                <p id="b278-7" pgmap="278">The above was all the evidence introduced upon the trial.</p>
+                <p id="b278-8" pgmap="278">Rogers having hired the slave for a year, was under obliga­tions to supply his necessary wants during the period of the hiring. He was bound as a bailee to use ordinary diligence in regard to the health of the slave — such as a prudent man commonly takes of his own slave. It was his duty, when the slave was taken sick, to furnish him with proper nursing, medi­cine, and, if necessary, to call in a physician for his relief, at his own cost: for it is a well settled general rule of law in the slave states, that in the absence of an express contract, between the owner and the hirer, to the contrary, the latter is bound to pay the physician’s bill. Latimer vs. Alexander, 14 Geo. 266; Bridges vs. Nicholson, 20 ib. 87; Gibson vs. Andrews, 4 Ala. 66; McGee vs. Currie, 4 Texas, 217; Grundey's heirs vs. Jackson's heirs et al., 1 Littell 11; 1 Bibb, 541; Haywood vs. Long, 5 Iredell 438; Wells vs. Kinnerly, 4 McCord S. C. R. 123.</p>
+                <p id="b278-11" pgmap="278(152) 279(98)">There is no express evidence in this case, that there was an agreement between Mrs. Watkins and Rogers, that the former should pay the physician’s bill, if the slave was sick during the period of the hiring. It does not appear that Rogers was interrogated as to the terms of the contract. If the fact that Mrs. Watkins, on being informed of the illness of the slave, directed Dr. McRae to be called in, and afterwards paid his bill, conduces to prove that there was a stipulation in the contract of hiring, that she should pay the physician’s bill, still, in this case, no privity of contract is shown to have existed between her and Dr. Bailey, the appellee. He was called in by Rogers, without consulting Mrs. Watkins, and there is no showing that any7 emergency existed which made it necessary for Rogers to employ Dr. Bailey without consulting her wishes. Rogers having called in Dr. Bailey, under such circumstan­ces, was responsible to him for his services. As above observed, there was no privity of contract between Dr. Bailey and the owner of the slave. Whether Rogers had the right to pay the bill, and deduct the amount from the wages, if there was a stipulation, in the contract of hiring, that the owner should be at the expense of medical attendance, is a question not before us. See Meeker vs. Childress, 1 Minor Ala. 109; 4 McCord, 123; 5 Iredell, 438; 14 Geo. 266; 10 John. 249.</p>
+                <p id="b279-5" pgmap="279">The judgment must be reversed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="276" ORDERLABEL="274" TYPE="page">
+        <fptr FILEID="tiff_00138_1"/>
+        <fptr FILEID="jp2_00138_1"/>
+        <fptr FILEID="alto_00138_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_276.1" BETYPE="IDREF" FILEID="alto_00138_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_276.2" BETYPE="IDREF" FILEID="alto_00138_1"/>
+              <area BEGIN="BL_276.3" BETYPE="IDREF" FILEID="alto_00138_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_276.6" BETYPE="IDREF" FILEID="alto_00138_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="277" ORDERLABEL="275" TYPE="page">
+        <fptr FILEID="tiff_00139_0"/>
+        <fptr FILEID="jp2_00139_0"/>
+        <fptr FILEID="alto_00139_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_277.3" BETYPE="IDREF" FILEID="alto_00139_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_277.2" BETYPE="IDREF" FILEID="alto_00139_0"/>
+              <area BEGIN="BL_277.4" BETYPE="IDREF" FILEID="alto_00139_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="278" ORDERLABEL="276" TYPE="page">
+        <fptr FILEID="tiff_00139_1"/>
+        <fptr FILEID="jp2_00139_1"/>
+        <fptr FILEID="alto_00139_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_278.2" BETYPE="IDREF" FILEID="alto_00139_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_278.3" BETYPE="IDREF" FILEID="alto_00139_1"/>
+              <area BEGIN="BL_278.4" BETYPE="IDREF" FILEID="alto_00139_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="279" ORDERLABEL="277" TYPE="page">
+        <fptr FILEID="tiff_00140_0"/>
+        <fptr FILEID="jp2_00140_0"/>
+        <fptr FILEID="alto_00140_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_279.3" BETYPE="IDREF" FILEID="alto_00140_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_279.2" BETYPE="IDREF" FILEID="alto_00140_0"/>
+              <area BEGIN="BL_279.4" BETYPE="IDREF" FILEID="alto_00140_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_279.6" BETYPE="IDREF" FILEID="alto_00140_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b278-11" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_278.8" BETYPE="IDREF" FILEID="alto_00139_1"/>
+            <area BEGIN="BL_279.1" BETYPE="IDREF" FILEID="alto_00140_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ac8" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_277.8" BETYPE="IDREF" FILEID="alto_00139_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b276-9" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_276.10" BETYPE="IDREF" FILEID="alto_00138_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b276-8" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_276.9" BETYPE="IDREF" FILEID="alto_00138_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b276-7" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_276.8" BETYPE="IDREF" FILEID="alto_00138_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b276-6" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_276.7" BETYPE="IDREF" FILEID="alto_00138_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b276-13" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_276.13" BETYPE="IDREF" FILEID="alto_00138_1"/>
+            <area BEGIN="BL_277.1" BETYPE="IDREF" FILEID="alto_00139_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b276-12" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_276.12" BETYPE="IDREF" FILEID="alto_00138_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b277-10" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_277.11" BETYPE="IDREF" FILEID="alto_00139_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b278-7" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_278.6" BETYPE="IDREF" FILEID="alto_00139_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b278-6" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_278.5" BETYPE="IDREF" FILEID="alto_00139_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b277-6" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_277.6" BETYPE="IDREF" FILEID="alto_00139_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b277-7" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_277.7" BETYPE="IDREF" FILEID="alto_00139_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b277-5" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_277.5" BETYPE="IDREF" FILEID="alto_00139_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AvW" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_276.11" BETYPE="IDREF" FILEID="alto_00138_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b277-8" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_277.9" BETYPE="IDREF" FILEID="alto_00139_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b277-9" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_277.10" BETYPE="IDREF" FILEID="alto_00139_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b277-11" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_277.12" BETYPE="IDREF" FILEID="alto_00139_0"/>
+            <area BEGIN="BL_278.1" BETYPE="IDREF" FILEID="alto_00139_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b278-8" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_278.7" BETYPE="IDREF" FILEID="alto_00139_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b279-5" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_279.5" BETYPE="IDREF" FILEID="alto_00140_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

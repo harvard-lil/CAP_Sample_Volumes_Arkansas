@@ -1,0 +1,620 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0128" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Arkansas Power &amp; Light Co. v. Potlatch Forest, Inc.">ARKANSAS POWER &amp; LIGHT COMPANY v. POTLATCH FOREST, INC.</name>
+          <docketnumber>85-188</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 525</citation>
+          <citation category="parallel" type="bluebook">707 S.W.2d 317</citation>
+          <decisiondate>1986-04-14</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:01Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00282_0" MIMETYPE="image/tiff" CHECKSUM="5ae93d1e4445074992872209008e0590" CHECKSUMTYPE="MD5" SIZE="9276">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00282_0.tif"/>
+      </file>
+      <file ID="tiff_00282_1" MIMETYPE="image/tiff" CHECKSUM="e87ce1a20277218c50d6731c81c501f5" CHECKSUMTYPE="MD5" SIZE="37152">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00282_1.tif"/>
+      </file>
+      <file ID="tiff_00283_0" MIMETYPE="image/tiff" CHECKSUM="29458ca55ad829b26703f38d4d0d3232" CHECKSUMTYPE="MD5" SIZE="57668">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00283_0.tif"/>
+      </file>
+      <file ID="tiff_00283_1" MIMETYPE="image/tiff" CHECKSUM="45faa6d3ba0fb9e439e88579c6c17b57" CHECKSUMTYPE="MD5" SIZE="53092">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00283_1.tif"/>
+      </file>
+      <file ID="tiff_00284_0" MIMETYPE="image/tiff" CHECKSUM="c1644b9e194347d3df30a0a6538bf135" CHECKSUMTYPE="MD5" SIZE="50810">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00284_0.tif"/>
+      </file>
+      <file ID="tiff_00284_1" MIMETYPE="image/tiff" CHECKSUM="db8e87a1e83717190dfa41921db9e0c5" CHECKSUMTYPE="MD5" SIZE="42300">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00284_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00282_0" MIMETYPE="image/jp2" CHECKSUM="f5f39cdb145b400ecb62ec17251b9431" CHECKSUMTYPE="MD5" SIZE="1314422">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00282_0.jp2"/>
+      </file>
+      <file ID="jp2_00282_1" MIMETYPE="image/jp2" CHECKSUM="58e088757787d1eced62aced062f2f1b" CHECKSUMTYPE="MD5" SIZE="2056386">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00282_1.jp2"/>
+      </file>
+      <file ID="jp2_00283_0" MIMETYPE="image/jp2" CHECKSUM="7b8fade8ee1ae94a9878df1c0668d070" CHECKSUMTYPE="MD5" SIZE="2511175">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00283_0.jp2"/>
+      </file>
+      <file ID="jp2_00283_1" MIMETYPE="image/jp2" CHECKSUM="1427299d7054e2e0a16ca7c6006258e6" CHECKSUMTYPE="MD5" SIZE="2490091">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00283_1.jp2"/>
+      </file>
+      <file ID="jp2_00284_0" MIMETYPE="image/jp2" CHECKSUM="5a632b895fbb3323f26b6a374d2e92cf" CHECKSUMTYPE="MD5" SIZE="2479052">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00284_0.jp2"/>
+      </file>
+      <file ID="jp2_00284_1" MIMETYPE="image/jp2" CHECKSUM="225e92cd143568fadfe6d5671ce9dd9d" CHECKSUMTYPE="MD5" SIZE="2381393">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00284_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00282_0" MIMETYPE="text/xml" CHECKSUM="8284ef44674a3f685fec193cf9dc9ff5" CHECKSUMTYPE="MD5" SIZE="11103">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00282_0.xml"/>
+      </file>
+      <file ID="alto_00282_1" MIMETYPE="text/xml" CHECKSUM="fb78412dbe8fa62443107b4a7bf82faf" CHECKSUMTYPE="MD5" SIZE="58314">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00282_1.xml"/>
+      </file>
+      <file ID="alto_00283_0" MIMETYPE="text/xml" CHECKSUM="a710dee57122cac978a97590e91038e0" CHECKSUMTYPE="MD5" SIZE="91779">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00283_0.xml"/>
+      </file>
+      <file ID="alto_00283_1" MIMETYPE="text/xml" CHECKSUM="c7d79b212e2f1051f743d759e8ee7fbd" CHECKSUMTYPE="MD5" SIZE="78260">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00283_1.xml"/>
+      </file>
+      <file ID="alto_00284_0" MIMETYPE="text/xml" CHECKSUM="be0306ee0225f500f5a0877b05262194" CHECKSUMTYPE="MD5" SIZE="87124">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00284_0.xml"/>
+      </file>
+      <file ID="alto_00284_1" MIMETYPE="text/xml" CHECKSUM="be36f53a38345d43e3f344c3b6233c2d" CHECKSUMTYPE="MD5" SIZE="67054">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00284_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0128" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="525" lastpage="530">
+              <court pgmap="563" id="b563-5">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="563" id="b563-4">85-188</docketnumber>
+              <citation pgmap="563" id="AiMV">707 S.W.2d 317</citation>
+              <parties pgmap="563" id="b563-3">ARKANSAS POWER &amp; LIGHT COMPANY v. POTLATCH FOREST, INC.</parties>
+              <decisiondate pgmap="563" id="AeI">Opinion delivered April 14, 1986</decisiondate>
+              <otherdate pgmap="563" id="A3rz">[Rehearing denied May 27, 1986.<footnotemark>*</footnotemark>]</otherdate>
+              <judges pgmap="568" id="b568-8">Special Justice Eugene Hunt concurs in this opinion.</judges>
+              <judges pgmap="568" id="b568-9">Purtle and Dudley, JJ., not participating.</judges>
+              <attorneys pgmap="564" id="b564-9">House, Wallace, Nelson &amp; Jewell, P.A., by: Jim L. Julian and David A. Couch, for appellant.</attorneys>
+              <attorneys pgmap="564" id="b564-10">Owens, McHaney &amp; Calhoun, by: James M. McHaney, and McKenzie, McRae &amp; Vasser, for appellee.</attorneys>
+              <attorneys pgmap="564" id="b564-11">James E. Baine, Amicus Curiae, for Deltic Farm &amp; Timber Company, Inc.</attorneys>
+              <footnote label="*">
+                <p pgmap="563" id="b563-13">* Purtle and Dudley, JJ., not participating.</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="564" id="b564-12">J. Michael Shaw, Special Justice.</author>
+                <p pgmap="564" id="AEM">Arkansas Power &amp; Light Company (AP&amp;L) initiated this eminent domain proceed­ing against Potlatch Forest, Inc. (Potlatch) in the Nevada Circuit Court seeking condemnation of a 180 foot wide right-of-way across twelve (12) tracts of land in Clark and Nevada Counties for the construction of a 500 Kilovolt electric transmission line as well as reasonable access to and from the right-of-way. AP&amp;L also sought the right to cut, trim or remove trees (referred to as “danger trees” by AP&amp;L) growing outside the 180 foot right-of-­way that could potentially endanger the transmission line. In its Complaint filed March 28, 1984, AP&amp;L defined “danger trees” as:</p>
+                <blockquote pgmap="564" id="b564-13">Trees which have branches or limbs overhanging the right-­of-way and/or trees whose height plus 22 feet exceed the horizontal distance from the butt of the tree to the center line of the transmission line.</blockquote>
+                <p pgmap="564(48) 565(84)" id="b564-14">On March 28, 1984, the Nevada Circuit Court entered an Ex parte Order authorizing AP&amp;L to immediately enter upon Potlatch’s lands in order to commence construction of the transmission facility and directing AP&amp;L to deposit $56,000.00 into the Registry of the Court as a guarantee of any judgment entered after the cause was tried to a jury for the assessment of just compensation. Potlatch moved the Circuit Court to modify its March 28, 1984 Ex parte Order by requiring AP&amp;L to describe and condemn the lands which would fall within the “danger tree” area. In response, AP&amp;L contended that Potlatch had challenged its right to condemn “danger trees,” the extent of its power to condemn, and the validity of its taking. It requested that the entire action be transferred to Chancery Court.</p>
+                <p pgmap="565" id="b565-6">Potlatch filed an amended answer and counterclaim alleging that if AP&amp;L were granted the right to cut “danger trees” outside the 180 foot right-of-way Potlatch would effectively be deprived of its right to engage in the normal course of its business of growing timber, particularly in a large area adjacent to and outside the 180 foot right-of-way and that AP&amp;L should be denied the right to cut “danger trees” outside the 180 foot right-­of-way unless it condemned additional rights-of-way of sufficient width to include all “danger trees.” Potlatch also prayed that AP&amp;L specifically describe and condemn the route of reasonable access. In response to the counterclaim, AP&amp;L prayed that the action be transferred to Chancery Court. Later, Potlatch filed a motion for more definite statement contending that AP&amp;L’s complaint insufficiently described both the “danger tree” areas and reasonable access routes. In response, AP&amp;L again prayed that the action be transferred to Chancery Court.</p>
+                <p pgmap="565" id="b565-7">By Memorandum Opinion dated April 11,1985,theNevada Circuit Court held that it had subject matter jurisdiction over the case and that AP&amp;L did not have the authority to go outside the condemned 180 foot right-of-way to exercise control over prop­erty for which it had not paid just compensation. Further, the court held that the easement for ingress and egress sought by AP&amp;L must be specifically defined and condemned and just compensation paid. Thereupon, AP&amp;L moved the court to clarify or in the alternative, to alter or amend its findings.</p>
+                <p pgmap="565(61) 566(52)" id="b565-8">On April 15, 1985, the Circuit Court entered its Order granting Potlatch’s motion to modify the March 28, 1984 Ex parte Order and requiring AP&amp;L to specifically describe and condemn the lands over which it desired to exercise such control as to cut, trim or remove “danger trees.” In addition, the court granted Potlatch’s motion for more definite statement or to dismiss on the basis that AP&amp;L’s complaint inadequately de­scribed both the “danger tree” areas and the reasonable access routes. The Circuit Court denied AP&amp;L’s motion to transfer the case to Chancery Court as well as its motion for clarification or amendment of the Court’s findings as stated in the Memorandum Opinion.</p>
+                <p pgmap="566" id="b566-6">On appeal, AP&amp;L challenged the Circuit Court’s exercise of jurisdiction and its rulings that AP&amp;L must specifically describe and condemn both the “danger tree” areas and the reasonable access routes. We affirm the Circuit Court’s decision.</p>
+                <p pgmap="566" id="b566-7">AP&amp;L contends that the Circuit Court lacked subject matter jurisdiction and erred in exercising jurisdiction after Potlatch filed pleadings and pre-trial motions praying that the Court require AP&amp;L to specifically describe and condemn the lands affected by the “danger tree” and reasonable access condemnation claims of AP&amp;L. AP&amp;L characterizes Potlatch’s request that the Court require specific descriptions of the “danger tree” and reasonable access areas as questioning the validity of AP&amp;L’s taking and therefore within the sole jurisdiction of the Chancery Court.</p>
+                <p pgmap="566" id="b566-8">
+                   Generally, condemnation proceedings are within exclu­sive jurisdiction of the Circuit Courts. Where a landowner raises equitable defenses in a condemnation proceeding, the landowner may move that the case be transferred to Chancery Court. See, 29 A C.J.S., Eminent Domain, § 232 (1965), citing Hampton v. Arkansas State Game &amp; Fish Commission, 218 Ark. 757, 238 S.W.2d 950 (1951) and W. R. Wrape Stave Co. v. Arkansas State Game &amp; Fish Commission, 215 Ark. 229, 219 S.W.2d 948 (1949).</p>
+                <p pgmap="566" id="b566-9">Potlatch has not challenged AP&amp;L’s right of eminent domain nor raised any equitable defenses not cognizable at law. Instead, Potlatch maintains that AP&amp;L must specifically de­scribe the areas over which it desires to exercise the right of eminent domain. Therefore, the Circuit Court was correct in retaining jurisdiction and denying AP&amp;L’s motions to transfer the case to Chancery Court.</p>
+                <p pgmap="566(18) 567(36)" id="b566-10">
+                   AP&amp;L contends that the Circuit Court erred in striking the portions of its pleadings relating to “danger trees” and requiring AP&amp;L to specifically describe and condemn the lands within the “danger tree” area. A public utility’s right to condemn private property is governed by article 12, § 9 of the Arkansas Constitution which provides:</p>
+                <blockquote pgmap="567" id="b567-6">No property, nor right of way, shall be appropriated to the use of any corporation until full compensation therefor shall be first made to the owner, in money, or first secured by him by a deposit of money, which compensation, irrespective of any benefit from any improvement proposed by such corporation, shall be ascertained by a jury of twelve men, in a court of competent jurisdiction, as shall be prescribed by law.</blockquote>
+                <p pgmap="567" id="b567-7">In Baucum v. Ark. Power &amp; Light Co., 179 Ark. 154, 15 S.W.2d 399 (1929), this Court held that article 12 § 9 of the Arkansas Constitution required payment of the full fair market value of the right-of-way to the owner. In addition, Ark. Stat. Ann. §§ 35-302 and 73-276.15 govern AP&amp;L’s right to condemn private prop­erty. As stated in Loyd v. Southwest Ark. Utilities Corp., 264 Ark. 818, 825, 580 S.W.2d 935 (1979):</p>
+                <blockquote pgmap="567" id="b567-8">Such statutes delegating the power of eminent domain are strictly construed in favor of the landowners because the power is in derogation of a common right. City of Little Rock v. Sawyer, 228 Ark. 516, 309 S.W.2d 30 (1958). The only right of access granted by these statutes is the right to acquire a right-of-way or reasonable access. Ark. Stat. Ann. §§ 35-302 and 73-276.15.</blockquote>
+                <p pgmap="567" id="b567-9">Ark. Stat. Ann. § 73-276.15(a)(2) (Repl. 1979) requires a “description of the land taken sufficient for the identification thereof.”</p>
+                <p pgmap="567(102) 568(91)" id="b567-10">
+                   In State ex rel. Publicity &amp; Parks Commission v. Earl, 233 Ark. 348, 345 S.W.2d 20 (1961), rehearing denied, this Court faced a situation similar to the case at bar. The condemn­ing authority sought to condemn a 350 foot strip of land for a runway and, in addition, a 400 foot strip of land on either side of the runway for the purpose of keeping trees cut and trimmed to eliminate obstructions to aircraft. This Court followed the Baucum case and held that the condemning authority must pay full market value for the 400 foot strips of land. In Earl, the condemning authority’s taking destroyed the landowner’s com­mon and ordinary uses of the 400 foot strips. Similarly, Potlatch would be deprived of its customary use and practice of tree farming of the property on which the “danger trees” would be cut since it would be unable to grow trees in the area outside the right-­of-way. In order to exercise such dominion over Potlatch’s lands, AP&amp;L must specifically describe, condemn and pay just compen­sation for the right to cut, trim, or remove trees that could potentially endanger the transmission line.</p>
+                <p pgmap="568" id="b568-6">
+                   AP&amp;L contends that the Circuit Court erred in requir­ing it to define and condemn a specific route of access to and from the right-of-way. AP&amp;L relies upon cases from other jurisdic­tions which have adopted the “secondary easement” theory. In Loyd, supra, we noted that we had never had an occasion to recognize the secondary easement theory and found no need to do so since the condemning authority in Loyd had not sought and acquired a separate and distinct right of ingress and egress across the landowner’s property in addition to its claim of a secondary easement. As Potlatch states in its Brief, AP&amp;L has ample access to the right-of-way without the necessity of crossing the lands of Potlatch since there are numerous existing public roads on Potlatch’s lands which cross the right-of-way. If AP&amp;L desires some other form of access to the right-of-way, it must specifically describe, condemn and pay just compensation for any alternate routes of reasonable access.</p>
+                <p pgmap="568" id="b568-7">For the foregoing reasons, the decision of the Nevada Circuit Court is affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="563" ORDERLABEL="525" TYPE="page">
+        <fptr FILEID="tiff_00282_0"/>
+        <fptr FILEID="jp2_00282_0"/>
+        <fptr FILEID="alto_00282_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_563.2" BETYPE="IDREF" FILEID="alto_00282_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="564" ORDERLABEL="526" TYPE="page">
+        <fptr FILEID="tiff_00282_1"/>
+        <fptr FILEID="jp2_00282_1"/>
+        <fptr FILEID="alto_00282_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_564.2" BETYPE="IDREF" FILEID="alto_00282_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="565" ORDERLABEL="527" TYPE="page">
+        <fptr FILEID="tiff_00283_0"/>
+        <fptr FILEID="jp2_00283_0"/>
+        <fptr FILEID="alto_00283_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_565.3" BETYPE="IDREF" FILEID="alto_00283_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="566" ORDERLABEL="528" TYPE="page">
+        <fptr FILEID="tiff_00283_1"/>
+        <fptr FILEID="jp2_00283_1"/>
+        <fptr FILEID="alto_00283_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_566.2" BETYPE="IDREF" FILEID="alto_00283_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="567" ORDERLABEL="529" TYPE="page">
+        <fptr FILEID="tiff_00284_0"/>
+        <fptr FILEID="jp2_00284_0"/>
+        <fptr FILEID="alto_00284_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_567.3" BETYPE="IDREF" FILEID="alto_00284_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="568" ORDERLABEL="530" TYPE="page">
+        <fptr FILEID="tiff_00284_1"/>
+        <fptr FILEID="jp2_00284_1"/>
+        <fptr FILEID="alto_00284_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_568.2" BETYPE="IDREF" FILEID="alto_00284_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b564-14" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_564.15" BETYPE="IDREF" FILEID="alto_00282_1"/>
+            <area BEGIN="BL_565.1" BETYPE="IDREF" FILEID="alto_00283_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b564-11" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_564.10" BETYPE="IDREF" FILEID="alto_00282_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b564-10" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_564.9" BETYPE="IDREF" FILEID="alto_00282_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b564-13" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_564.14" BETYPE="IDREF" FILEID="alto_00282_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b564-12" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_564.11" BETYPE="IDREF" FILEID="alto_00282_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b568-9" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_568.7" BETYPE="IDREF" FILEID="alto_00284_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b568-8" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_568.6" BETYPE="IDREF" FILEID="alto_00284_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b568-6" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_568.4" BETYPE="IDREF" FILEID="alto_00284_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AeI" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_563.7" BETYPE="IDREF" FILEID="alto_00282_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b565-8" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_565.6" BETYPE="IDREF" FILEID="alto_00283_0"/>
+            <area BEGIN="BL_566.1" BETYPE="IDREF" FILEID="alto_00283_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b563-3" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_563.3" BETYPE="IDREF" FILEID="alto_00282_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AEM" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_564.12" BETYPE="IDREF" FILEID="alto_00282_1"/>
+            <area BEGIN="BL_564.13" BETYPE="IDREF" FILEID="alto_00282_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b563-4" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_563.4" BETYPE="IDREF" FILEID="alto_00282_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b563-5" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_563.6" BETYPE="IDREF" FILEID="alto_00282_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b566-10" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_566.8" BETYPE="IDREF" FILEID="alto_00283_1"/>
+            <area BEGIN="BL_567.1" BETYPE="IDREF" FILEID="alto_00284_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b565-6" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_565.4" BETYPE="IDREF" FILEID="alto_00283_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b565-7" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_565.5" BETYPE="IDREF" FILEID="alto_00283_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AiMV" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_563.5" BETYPE="IDREF" FILEID="alto_00282_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b567-10" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_567.8" BETYPE="IDREF" FILEID="alto_00284_0"/>
+            <area BEGIN="BL_568.1" BETYPE="IDREF" FILEID="alto_00284_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b568-7" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_568.5" BETYPE="IDREF" FILEID="alto_00284_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b567-9" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_567.7" BETYPE="IDREF" FILEID="alto_00284_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A3rz" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_563.8" BETYPE="IDREF" FILEID="alto_00282_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b563-13" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_563.15" BETYPE="IDREF" FILEID="alto_00282_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b566-7" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_566.5" BETYPE="IDREF" FILEID="alto_00283_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b566-6" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_566.4" BETYPE="IDREF" FILEID="alto_00283_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b567-8" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_567.6" BETYPE="IDREF" FILEID="alto_00284_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b567-6" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_567.4" BETYPE="IDREF" FILEID="alto_00284_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b567-7" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_567.5" BETYPE="IDREF" FILEID="alto_00284_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b566-9" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_566.7" BETYPE="IDREF" FILEID="alto_00283_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b566-8" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_566.6" BETYPE="IDREF" FILEID="alto_00283_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b564-9" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_564.8" BETYPE="IDREF" FILEID="alto_00282_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

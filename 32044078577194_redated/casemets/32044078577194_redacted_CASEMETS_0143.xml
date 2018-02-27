@@ -1,0 +1,374 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0143" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Bryant v. Southern Screw Machine Products Co.">Verlon BRYANT v. SOUTHERN SCREW MACHINE PRODUCTS COMPANY, INC.</name>
+          <docketnumber>85-242</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 602</citation>
+          <citation category="parallel" type="bluebook">707 S.W.2d 321</citation>
+          <decisiondate>1986-04-28</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:01Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00320_1" MIMETYPE="image/tiff" CHECKSUM="b138a6e4da070e3ec85a96db428c0dea" CHECKSUMTYPE="MD5" SIZE="22602">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00320_1.tif"/>
+      </file>
+      <file ID="tiff_00321_0" MIMETYPE="image/tiff" CHECKSUM="e25b61838c8139d1c37d6e894181096b" CHECKSUMTYPE="MD5" SIZE="55408">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00321_0.tif"/>
+      </file>
+      <file ID="tiff_00321_1" MIMETYPE="image/tiff" CHECKSUM="a06894ed68d4c2afd6e5b1eb8998cd59" CHECKSUMTYPE="MD5" SIZE="30186">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00321_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00320_1" MIMETYPE="image/jp2" CHECKSUM="2cf07b2a24111efbb8882dada45ff3f4" CHECKSUMTYPE="MD5" SIZE="1826309">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00320_1.jp2"/>
+      </file>
+      <file ID="jp2_00321_0" MIMETYPE="image/jp2" CHECKSUM="45a6084dfa6ce6c70a2036f93ad64a97" CHECKSUMTYPE="MD5" SIZE="2518963">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00321_0.jp2"/>
+      </file>
+      <file ID="jp2_00321_1" MIMETYPE="image/jp2" CHECKSUM="06605f77c6736d96a0174a114b6848c5" CHECKSUMTYPE="MD5" SIZE="1971309">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00321_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00320_1" MIMETYPE="text/xml" CHECKSUM="da6961908c47a72df390992e77128c12" CHECKSUMTYPE="MD5" SIZE="32900">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00320_1.xml"/>
+      </file>
+      <file ID="alto_00321_0" MIMETYPE="text/xml" CHECKSUM="e566c9201ab0220a6895881418d904fa" CHECKSUMTYPE="MD5" SIZE="93048">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00321_0.xml"/>
+      </file>
+      <file ID="alto_00321_1" MIMETYPE="text/xml" CHECKSUM="c092e09ebda54dd5fae31e4d9495128e" CHECKSUMTYPE="MD5" SIZE="48972">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00321_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0143" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="602" lastpage="604">
+              <court pgmap="640" id="b640-10">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="640" id="b640-9">85-242</docketnumber>
+              <citation pgmap="640" id="AYG">707 S.W.2d 321</citation>
+              <parties pgmap="640" id="b640-8">Verlon BRYANT v. SOUTHERN SCREW MACHINE PRODUCTS COMPANY, INC.</parties>
+              <decisiondate pgmap="640" id="A3o">Opinion delivered April 28, 1986</decisiondate>
+              <judges pgmap="642" id="b642-8">Purtle, J., not participating.</judges>
+              <attorneys pgmap="640" id="b640-14">Lesly W. Mattingly, for appellant.</attorneys>
+              <attorneys pgmap="641" id="b641-5">Allen, Cabe &amp; Lester, A Professional Association, by: H. William Allen, for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="641" id="b641-6">George Rose Smith, Justice.</author>
+                <p pgmap="641" id="Axt">The appellant was employed by the appellee as a toolmaker and foreman for a total of about 21 years. He was discharged in 1984 for having allegedly accepted a $100 check in return for having ordered light bulbs for the appellee from a particular company, which sent him the check. Bryant brought this action against the appellee for damages for wrongful discharge and also for the outrageous but unspecified manner in which he was discharged. The appellee moved for summary judgment on the ground that the plaintiff had been an employee at will and could be discharged without cause. See Griffin v. Erickson, 277 Ark. 433, 642 S.W.2d 308 (1982). The motion was denied.</p>
+                <p pgmap="641" id="b641-7">Upon trial the appellee again asserted its position in a motion for a directed verdict, but the trial court let both causes of action go to the jury. The jury found for the plaintiff on the issue of wrongful discharge and awarded $65,000 in damages, but found for the defendant on the issue of outrageous conduct. The defendant reasserted its position in a motion for judgment notwithstanding the verdict. The trial court granted that motion and entered judgment for the defendant, holding that the court had made an error of law in permitting the jury to find that there was an enforceable contract of employment between the parties. The appeal was taken to this court as presenting a tort question.</p>
+                <p pgmap="641" id="b641-8">The only argument for reversal is that the trial court should not have entered judgment n.o.v. on the basis of the employment-­at-will doctrine.</p>
+                <p pgmap="641(117) 642(16)" id="b641-9">
+                   The trial court’s action was correct. In the Griffin case, supra, we adhered to our settled rule that a contract of employ­ment for an indefinite term is a contract at will, with either party having an absolute right to terminate the relationship at any time. Here Bryant introduced no substantial evidence that his employ­ment was anything other than indefinite as to its duration. He submitted proof that in 1979, after he had been employed for many years, the company distributed an Employee Handbook which stated that after a probationary period of 60 days an employee would be entitled to all fringe benefits. The handbook also stated that certain conduct on the part of employees would not be tolerated, including dishonesty, cheating, willful negli­gence, theft, loafing during working time, and insubordination.</p>
+                <p pgmap="642" id="b642-6">
+                   There was nothing in the handbook assuring any employee that he or she would be employed for a particular length of time or would be discharged only for cause. Hence this is not the type of case we had in mind in Jackson v. Kinark Corp., 282 Ark. 548, 669 S.W.2d 898 (1984), when we mentioned the possibility of modifying the common-law rule. Here the hand­book did not alter that rule. Bryant offered nothing else to show that his employment was other than at will. Under the law the company had the absolute right to terminate Bryant’s employ­ment at any time, just as he had the right to quit his job at any time. There was therefore no question of fact for the jury with regard to the asserted cause of action for wrongful discharge.</p>
+                <p pgmap="642" id="b642-7">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="640" ORDERLABEL="602" TYPE="page">
+        <fptr FILEID="tiff_00320_1"/>
+        <fptr FILEID="jp2_00320_1"/>
+        <fptr FILEID="alto_00320_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_640.2" BETYPE="IDREF" FILEID="alto_00320_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="641" ORDERLABEL="603" TYPE="page">
+        <fptr FILEID="tiff_00321_0"/>
+        <fptr FILEID="jp2_00321_0"/>
+        <fptr FILEID="alto_00321_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_641.2" BETYPE="IDREF" FILEID="alto_00321_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="642" ORDERLABEL="604" TYPE="page">
+        <fptr FILEID="tiff_00321_1"/>
+        <fptr FILEID="jp2_00321_1"/>
+        <fptr FILEID="alto_00321_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_642.2" BETYPE="IDREF" FILEID="alto_00321_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b642-6" BETYPE="IDREF" FILEID="casebody_0143"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_642.4" BETYPE="IDREF" FILEID="alto_00321_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b642-7" BETYPE="IDREF" FILEID="casebody_0143"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_642.5" BETYPE="IDREF" FILEID="alto_00321_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b641-6" BETYPE="IDREF" FILEID="casebody_0143"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_641.4" BETYPE="IDREF" FILEID="alto_00321_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b641-7" BETYPE="IDREF" FILEID="casebody_0143"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_641.7" BETYPE="IDREF" FILEID="alto_00321_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A3o" BETYPE="IDREF" FILEID="casebody_0143"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_640.11" BETYPE="IDREF" FILEID="alto_00320_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b640-8" BETYPE="IDREF" FILEID="casebody_0143"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_640.7" BETYPE="IDREF" FILEID="alto_00320_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b640-9" BETYPE="IDREF" FILEID="casebody_0143"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_640.8" BETYPE="IDREF" FILEID="alto_00320_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Axt" BETYPE="IDREF" FILEID="casebody_0143"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_641.5" BETYPE="IDREF" FILEID="alto_00321_0"/>
+            <area BEGIN="BL_641.6" BETYPE="IDREF" FILEID="alto_00321_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b642-8" BETYPE="IDREF" FILEID="casebody_0143"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_642.6" BETYPE="IDREF" FILEID="alto_00321_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b641-9" BETYPE="IDREF" FILEID="casebody_0143"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_641.9" BETYPE="IDREF" FILEID="alto_00321_0"/>
+            <area BEGIN="BL_642.1" BETYPE="IDREF" FILEID="alto_00321_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b641-8" BETYPE="IDREF" FILEID="casebody_0143"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_641.8" BETYPE="IDREF" FILEID="alto_00321_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b641-5" BETYPE="IDREF" FILEID="casebody_0143"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_641.3" BETYPE="IDREF" FILEID="alto_00321_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b640-10" BETYPE="IDREF" FILEID="casebody_0143"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_640.10" BETYPE="IDREF" FILEID="alto_00320_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AYG" BETYPE="IDREF" FILEID="casebody_0143"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_640.9" BETYPE="IDREF" FILEID="alto_00320_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b640-14" BETYPE="IDREF" FILEID="casebody_0143"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_640.17" BETYPE="IDREF" FILEID="alto_00320_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

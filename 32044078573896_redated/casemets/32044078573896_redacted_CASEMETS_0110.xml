@@ -1,0 +1,513 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0110" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Williams v. Miller">Williams vs. Miller</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 469</citation>
+          <decisiondate>1860-07</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00236_0" MIMETYPE="image/tiff" CHECKSUM="2e59ca07b47916861e5456b57b173b86" CHECKSUMTYPE="MD5" SIZE="30082">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00236_0.tif"/>
+      </file>
+      <file ID="tiff_00236_1" MIMETYPE="image/tiff" CHECKSUM="8f0308bfd71da20b45b65f4d69a1f139" CHECKSUMTYPE="MD5" SIZE="37300">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00236_1.tif"/>
+      </file>
+      <file ID="tiff_00237_0" MIMETYPE="image/tiff" CHECKSUM="db91fa8568a9dcf20e341a10a01450b1" CHECKSUMTYPE="MD5" SIZE="49846">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00237_0.tif"/>
+      </file>
+      <file ID="tiff_00237_1" MIMETYPE="image/tiff" CHECKSUM="55c9e93e7cb1d532af50efa7780dc37d" CHECKSUMTYPE="MD5" SIZE="30908">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00237_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00236_0" MIMETYPE="image/jp2" CHECKSUM="595694e5200721bc64eb9da7b01e3c4c" CHECKSUMTYPE="MD5" SIZE="2440514">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00236_0.jp2"/>
+      </file>
+      <file ID="jp2_00236_1" MIMETYPE="image/jp2" CHECKSUM="ca5932017bb3d65b34c518856158b2e0" CHECKSUMTYPE="MD5" SIZE="2425786">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00236_1.jp2"/>
+      </file>
+      <file ID="jp2_00237_0" MIMETYPE="image/jp2" CHECKSUM="d4148f38e46a04520cc8743bfa43e770" CHECKSUMTYPE="MD5" SIZE="2577210">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00237_0.jp2"/>
+      </file>
+      <file ID="jp2_00237_1" MIMETYPE="image/jp2" CHECKSUM="b547b614d29b915901ad4a31eb74dba3" CHECKSUMTYPE="MD5" SIZE="2395977">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00237_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00236_0" MIMETYPE="text/xml" CHECKSUM="9fc64be7a8911c19b2f1c7bced9c628c" CHECKSUMTYPE="MD5" SIZE="60887">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00236_0.xml"/>
+      </file>
+      <file ID="alto_00236_1" MIMETYPE="text/xml" CHECKSUM="dee2d07c56b03955d6a3899003bf3324" CHECKSUMTYPE="MD5" SIZE="78261">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00236_1.xml"/>
+      </file>
+      <file ID="alto_00237_0" MIMETYPE="text/xml" CHECKSUM="6e75f6fa0f4dee0103f0b619f168ef07" CHECKSUMTYPE="MD5" SIZE="90773">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00237_0.xml"/>
+      </file>
+      <file ID="alto_00237_1" MIMETYPE="text/xml" CHECKSUM="d99d4ba0a692ab66ccef9a148dcaf8e8" CHECKSUMTYPE="MD5" SIZE="57884">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00237_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0110" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="472" firstpage="469">
+              <parties id="b471-11" pgmap="471">Williams vs. Miller.</parties>
+              <attorneys id="b472-8" pgmap="472">Watkins &amp; Gallagher, for the appellant.</attorneys>
+              <attorneys id="b472-11" pgmap="472">Carleton, for the appellee.</attorneys>
+              <summary id="b472-6" pgmap="472">Appeal from Columbia Circuit Court.</summary>
+              <summary id="b472-7" pgmap="472">Hon. A. A. Stith, Circuit Judge.</summary>
+              <summary id="b472-9" pgmap="472">It is clear that, according to the older precedents, the demur­rers in this case ought to have been sustained: and it is sub­mitted whether the defence falls within and is affected by the rule as laid down in the case of Desha ex. vs. Robinson, ad. 17 Ark. 228.</summary>
+              <summary id="b472-10" pgmap="472">The fourth plea was not verified by affidavit, and it was error in the court to refuse to strike it out on motion, and to overrule the demurrer thereto. Alexander vs. Foster, 16 Ark. 669.</summary>
+              <summary id="b472-12" pgmap="472">The 2d and 3d pleas are good without an offer to return the property. Desha's ex’s&lt;vs. Robinson, 17 Ark. 228; Ghitty on Con. 703; 7 Eng. 669; Withers vs. Green, 9 How. U. 8. 8. G. Rep. 213.</summary>
+              <summary id="b472-13" pgmap="472">Whether the 4th plea bhould have been sworn to or not can­not now be insisted upon, for by the demurrer the plaintiff waived his exception. Ingraham vs. Arnold, 1 J. J. Marsh. 409. But if this plea be not a good defence the 2d and 3d are, and one good plea is a complete defence to the action. Gould’s PI. ch. 8, sec. 24.</summary>
+              <headnotes id="b471-12" pgmap="471">In an action upon a note given for the residue of the purchase money of a slave warranted to be scuad, the defendant may well plead that the slave was unsound, and worth less than the part of the purchase money already paid, without averring that he had offered to return the slave and rescind the contract.</headnotes>
+              <headnotes id="b471-13" pgmap="471">A plea impeaching the consideration of the obligation sued upon must be Verified by affidavit, or it may be stricken out on motion.</headnotes>
+              <headnotes id="b471-14" pgmap="471(18) 472(20)">The error of the court in overruling a motion to strike from the files a plea for want of the affidavit required by law, is not waived by the plaintiff afterwards interpos­ing a demurrer to the plea.</headnotes>
+              <headnotes id="b472-5" pgmap="472">Whore the Circuit Court overrules a demurrer to a plea setting up a good defence to the action and the plaintiff rests, this court will affirm the judgment, though the court may have erred in respect to its judgment upon another plea — the judgment being right upon the whole record.</headnotes>
+              <opinion type="majority">
+                <author id="b472-14" pgmap="472">Mr. Chief Justice English</author>
+                <p id="ASF" pgmap="472">delivered the opinion of the court.</p>
+                <p id="AnG" pgmap="472">The action in this case was founded on a writing obligatory for $450, executed by Miller to Williams.</p>
+                <p id="b473-4" pgmap="473">The defendant filed a plea of nil debet, which he afterwards withdrew by leave of the court, and upon which no question arises here.</p>
+                <p id="b473-5" pgmap="473">The second and third pleas interposed by the defendant were special pleas in bar, impeaching the consideration of the bond sued .on, and alleging in substance that the obligation declared on, with another for the same amount, falling due at an earlier period, and which had been paid, were executed for the price of a female slave purchased of the plaintiff by the defendant, which the plaintiff warranted to be sound, but which proved to be unsound at the time of the sale, and that by reason of such unsoundness (a disease of the womb) her actual value was less than the amount of the obligation which had been paid, and so the consideration of the bond sued on had failed.</p>
+                <p id="b473-6" pgmap="473">The plaintifF demurred to these pleas on the ground that there was no averment in the pleas that the defendant had offered to return the slave, and rescind the contract of sale, etc.</p>
+                <p id="b473-7" pgmap="473">The court overruled the demurrer, and the plaintifF rested.</p>
+                <p id="b473-8" pgmap="473">The defendant also interposed a fourth plea impeaching the consideration of the obligation sued on, which was not sworn to. The plaintiff moved to strike out the plea because it was not verified by affidavit, the court overruled the motion, and the plaintiff excepted. The plaintiff then demurred to the plea, the court overruled the demurrer, the plaintiff rested; final judgment was rendered for the defendant, and the plaintiff appealed.</p>
+                <p id="b473-9" pgmap="473(114) 474(40)">1. The objection to the second and third pleas was not well taken. The appellee was under no obligation to return, or offer to return the slave, unless he had elected to rescind the contract of sale on account of the breach of the warranty of soundness. The pleas do not attempt to set up a recision of the contract, but place the appellee in the attitude of affirming the contract, and relying upon the defence of recoupment, or abatement of the price agreed to be given for the slave on account of the breach of the warranty of soundness, to the extent of the amount of the obligation, remaining unpaid, and sued upon. This defence the appellee had the right to interpose, instead of resorting to a cross action for damages upon the warranty of soundness. Withers vs. Green, 9 How. U. S. Rep. 214; Desha’s ex’r. vs. Robinson ad. 17 Ark. 243.</p>
+                <p id="b474-5" pgmap="474">No other cause of demurrer to the pleas being specially assigned, the court below did not err in overruling the demurrer.</p>
+                <p id="b474-6" pgmap="474">2. No doubt but the court erred in overruling the motion to strike out the fourth plea because it was not verified by affida­vit, and the error was not waived by the appellant, afterwards interposing a demurrer to the plea (Alexander vs. Foster, 16 Ark. 660); but upon the second and third pleas, which were in bar of the action, and which the appellant declined to answer after his demurrer thereto was overruled, the appellee was entitled to judgment; and consequently the judgment of the court below being right, upon the whole record, must be affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="471" ORDERLABEL="469" TYPE="page">
+        <fptr FILEID="tiff_00236_0"/>
+        <fptr FILEID="jp2_00236_0"/>
+        <fptr FILEID="alto_00236_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_471.2" BETYPE="IDREF" FILEID="alto_00236_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_471.1" BETYPE="IDREF" FILEID="alto_00236_0"/>
+              <area BEGIN="BL_471.3" BETYPE="IDREF" FILEID="alto_00236_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_471.11" BETYPE="IDREF" FILEID="alto_00236_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="472" ORDERLABEL="470" TYPE="page">
+        <fptr FILEID="tiff_00236_1"/>
+        <fptr FILEID="jp2_00236_1"/>
+        <fptr FILEID="alto_00236_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_472.2" BETYPE="IDREF" FILEID="alto_00236_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_472.3" BETYPE="IDREF" FILEID="alto_00236_1"/>
+              <area BEGIN="BL_472.4" BETYPE="IDREF" FILEID="alto_00236_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="473" ORDERLABEL="471" TYPE="page">
+        <fptr FILEID="tiff_00237_0"/>
+        <fptr FILEID="jp2_00237_0"/>
+        <fptr FILEID="alto_00237_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_473.2" BETYPE="IDREF" FILEID="alto_00237_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_473.1" BETYPE="IDREF" FILEID="alto_00237_0"/>
+              <area BEGIN="BL_473.3" BETYPE="IDREF" FILEID="alto_00237_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="474" ORDERLABEL="472" TYPE="page">
+        <fptr FILEID="tiff_00237_1"/>
+        <fptr FILEID="jp2_00237_1"/>
+        <fptr FILEID="alto_00237_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_474.2" BETYPE="IDREF" FILEID="alto_00237_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_474.3" BETYPE="IDREF" FILEID="alto_00237_1"/>
+              <area BEGIN="BL_474.4" BETYPE="IDREF" FILEID="alto_00237_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_474.7" BETYPE="IDREF" FILEID="alto_00237_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b472-5" BETYPE="IDREF" FILEID="casebody_0110"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_472.5" BETYPE="IDREF" FILEID="alto_00236_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b472-7" BETYPE="IDREF" FILEID="casebody_0110"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_472.7" BETYPE="IDREF" FILEID="alto_00236_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b472-6" BETYPE="IDREF" FILEID="casebody_0110"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_472.6" BETYPE="IDREF" FILEID="alto_00236_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b473-4" BETYPE="IDREF" FILEID="casebody_0110"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_473.4" BETYPE="IDREF" FILEID="alto_00237_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b473-5" BETYPE="IDREF" FILEID="casebody_0110"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_473.5" BETYPE="IDREF" FILEID="alto_00237_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b473-6" BETYPE="IDREF" FILEID="casebody_0110"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_473.6" BETYPE="IDREF" FILEID="alto_00237_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b473-7" BETYPE="IDREF" FILEID="casebody_0110"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_473.7" BETYPE="IDREF" FILEID="alto_00237_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b473-8" BETYPE="IDREF" FILEID="casebody_0110"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_473.8" BETYPE="IDREF" FILEID="alto_00237_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b472-9" BETYPE="IDREF" FILEID="casebody_0110"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_472.9" BETYPE="IDREF" FILEID="alto_00236_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ASF" BETYPE="IDREF" FILEID="casebody_0110"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_472.15" BETYPE="IDREF" FILEID="alto_00236_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AnG" BETYPE="IDREF" FILEID="casebody_0110"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_472.16" BETYPE="IDREF" FILEID="alto_00236_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b472-8" BETYPE="IDREF" FILEID="casebody_0110"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_472.8" BETYPE="IDREF" FILEID="alto_00236_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b472-11" BETYPE="IDREF" FILEID="casebody_0110"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_472.11" BETYPE="IDREF" FILEID="alto_00236_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b472-10" BETYPE="IDREF" FILEID="casebody_0110"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_472.10" BETYPE="IDREF" FILEID="alto_00236_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b472-13" BETYPE="IDREF" FILEID="casebody_0110"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_472.13" BETYPE="IDREF" FILEID="alto_00236_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b472-12" BETYPE="IDREF" FILEID="casebody_0110"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_472.12" BETYPE="IDREF" FILEID="alto_00236_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b472-14" BETYPE="IDREF" FILEID="casebody_0110"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_472.14" BETYPE="IDREF" FILEID="alto_00236_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b474-6" BETYPE="IDREF" FILEID="casebody_0110"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_474.6" BETYPE="IDREF" FILEID="alto_00237_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b474-5" BETYPE="IDREF" FILEID="casebody_0110"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_474.5" BETYPE="IDREF" FILEID="alto_00237_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b471-14" BETYPE="IDREF" FILEID="casebody_0110"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_471.15" BETYPE="IDREF" FILEID="alto_00236_0"/>
+            <area BEGIN="BL_472.1" BETYPE="IDREF" FILEID="alto_00236_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b471-11" BETYPE="IDREF" FILEID="casebody_0110"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_471.12" BETYPE="IDREF" FILEID="alto_00236_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b471-12" BETYPE="IDREF" FILEID="casebody_0110"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_471.13" BETYPE="IDREF" FILEID="alto_00236_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b471-13" BETYPE="IDREF" FILEID="casebody_0110"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_471.14" BETYPE="IDREF" FILEID="alto_00236_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b473-9" BETYPE="IDREF" FILEID="casebody_0110"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_473.9" BETYPE="IDREF" FILEID="alto_00237_0"/>
+            <area BEGIN="BL_474.1" BETYPE="IDREF" FILEID="alto_00237_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

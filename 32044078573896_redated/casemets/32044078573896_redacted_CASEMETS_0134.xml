@@ -1,0 +1,432 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0134" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Budd v. Bettison">Budd vs. Bettison</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 582</citation>
+          <decisiondate>1860-10</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00292_1" MIMETYPE="image/tiff" CHECKSUM="23577fc455bbc3f437f63e8f79fe30fc" CHECKSUMTYPE="MD5" SIZE="27820">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00292_1.tif"/>
+      </file>
+      <file ID="tiff_00293_0" MIMETYPE="image/tiff" CHECKSUM="e39eab1a8cd34554dc98b1dadf8c4260" CHECKSUMTYPE="MD5" SIZE="46304">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00293_0.tif"/>
+      </file>
+      <file ID="tiff_00293_1" MIMETYPE="image/tiff" CHECKSUM="6f628ff60bc7ff2f59425d912731f486" CHECKSUMTYPE="MD5" SIZE="43716">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00293_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00292_1" MIMETYPE="image/jp2" CHECKSUM="6ac45eb25c169735cdda0f2fb2ae8c22" CHECKSUMTYPE="MD5" SIZE="2378880">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00292_1.jp2"/>
+      </file>
+      <file ID="jp2_00293_0" MIMETYPE="image/jp2" CHECKSUM="3d978dfbf9c851ccd9857feb34505a56" CHECKSUMTYPE="MD5" SIZE="2551669">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00293_0.jp2"/>
+      </file>
+      <file ID="jp2_00293_1" MIMETYPE="image/jp2" CHECKSUM="21e7b4b22b308a43e298b787bec8cd4f" CHECKSUMTYPE="MD5" SIZE="2478172">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00293_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00292_1" MIMETYPE="text/xml" CHECKSUM="a52cbd909557ddc4d2d8845199378147" CHECKSUMTYPE="MD5" SIZE="56482">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00292_1.xml"/>
+      </file>
+      <file ID="alto_00293_0" MIMETYPE="text/xml" CHECKSUM="71c68adb4400137467939adc2fa8a254" CHECKSUMTYPE="MD5" SIZE="88236">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00293_0.xml"/>
+      </file>
+      <file ID="alto_00293_1" MIMETYPE="text/xml" CHECKSUM="ef3ba0f549d793794d1e33788f02e852" CHECKSUMTYPE="MD5" SIZE="90143">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00293_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0134" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="584" firstpage="582">
+              <parties id="b584-11" pgmap="584">Budd vs. Bettison.</parties>
+              <judges id="b586-11" pgmap="586">Mr. Chief Justice English did not sit in this case.</judges>
+              <attorneys id="AxX" pgmap="584">Hempstead &amp; Williams, for the plaintiff.</attorneys>
+              <attorneys id="A3G" pgmap="585">Fowler &amp; Stillwell, for defendant.</attorneys>
+              <summary id="b584-14" pgmap="584">Error to Pulaski Circuit Court.</summary>
+              <summary id="AUi" pgmap="584">Hon. John J. Clendenin, Circuit Judge.</summary>
+              <headnotes id="b584-12" pgmap="584">Where a deed for lands sold for non-payment of taxes, is given by the successor of the collector who sold the land, and recites the sale as having been made by him os sheriff, the court will, prima facie, hold that the sheriff was collector, at least, when it .is proved by oral testimony that he was in fact collector.</headnotes>
+              <headnotes id="b584-13" pgmap="584">Where a collector’s deed for land sold for taxes, has sufficient recitals to justify its introduction as evidence, (7 Eng. 822), its defects, in the omission of other recitals —as, that the tax book and warrant came to the collector’s hands: that there was a levy: that the sale was on the day authorized by law — may be supplied by ora proof.</headnotes>
+              <opinion type="majority">
+                <author id="b585-5" pgmap="585">Hon. Harris Flanagin, Special Judge,</author>
+                <p id="AEC" pgmap="585">delivered the opinion of the court.</p>
+                <p id="b585-6" pgmap="585">This is error by the defendant below, in the case of Joseph R. Bettison vs. John J. Budd, which has been decided at this term, upon error brought by Bettison. That case is referred to for the statement of the case, and the principal portion of the facts.</p>
+                <p id="b585-7" pgmap="585">On the trial below, after the introduction of the testimony recited in Bettison vs. Budd, on the part of Budd, he offered to read to the jury a deed from Benjamin F. Danley, collector of Pulaski county, to lots number four and five, in block number twelve, dated June 18th, 1851, with certificate of acknowledg­ment and record.</p>
+                <p id="b585-8" pgmap="585">The deed recites the- assessment; that the taxes were not paid; that the unknown owners had no personal property where­on to levy; that A. J. Hutt, sheriff, gave proper notice, by advertisement to sell, October 16, 1848: lots sold to John J. Budd; received a certificate of purchase; paid the taxes, penalty and cost,' amounting to three dollars; presented the certificate to Danley, and demanded a deed, who gave it; con­veys the lands to Budd. The deed is signed, acknowledged and recorded.</p>
+                <p id="b585-9" pgmap="585">Budd also offered, in aid of this deed, to prove that the assessor filed his affidavit in due form, and in proper time. That he made a proper assessment list, and filed it in proper time. That lot number four was assessed on the resident list, at its true value, to unknown ownérs; that he gave due notice, and that the county court, at the proper term, adjusted and corrected said list; that the clerk made two tax lists in proper time, and disposed of them as required by law; that the sheriff in proper time gave bond as collector; that the tax book received by the collector had the proper warrant attached; that the sheriff demanded the tax of the unknown owners, and after ten days, the taxes being unpaid, he proceeded to levy the taxes on the lot, and advertised .and sold the same in due form.</p>
+                <p id="b586-5" pgmap="586">The court excluded the deed, and refused to hear the testi­mony.</p>
+                <p id="b586-6" pgmap="586">The objections to receiving the deed were: 1st, That the lot was sold by the sheriff and not by the collector. 2d, That the deed did not show that the tax book and warrant came to the hands of the collector. 3d, It does not show a levy by Iiutt on the lots. 4th, The deed shows that the lots were sold on a day not authorized by law.</p>
+                <p id="b586-7" pgmap="586">A deed which recites an assessment for taxes, which remain unpaid — the advertisement of the lot, and offering it for sale— that it was struck down to the highest bidder, who paid the pur­chase money, and received a certificate, is a sufficient deed to be admitted in evidence. Pillow vs. Roberts, 7 Eng. 822. This deed has these several recitals.</p>
+                <p id="b586-8" pgmap="586">A.s to the first point — that the sale appears to be made by the sheriff only — it applies to the person making the sale, and not to the person making the deed, and the court will prima facie hold, that the sheriff is collector, at least it will so hold, when supported by oral proof, as in this case, that he was in fact the collector.</p>
+                <p id="b586-9" pgmap="586">The second, third and fourth objections are severally obviated by the proof offered by Budd. It is settled, that where a deed has sufficient recitals to justify its introduction, its defects may be supplied by oral proof. In Gossett et al. vs. Kent et al., 19 Ark. 602, it was held, that in a sale of a resident’s land for taxes, the demand on the owner might be supplied by oral proof; and in Bonnell vs. Roane, it is said that the omission in the deed, to state that the person in whose name the land was sold, was a non-resident, might be aided by proof.</p>
+                <p id="b586-10" pgmap="586">The deed in this case being clearly admissible, and with the aid of parol proof, will make a good title, and for the reason that the court did not permit said proof and deed to be admit­ted, the case is reversed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="584" ORDERLABEL="582" TYPE="page">
+        <fptr FILEID="tiff_00292_1"/>
+        <fptr FILEID="jp2_00292_1"/>
+        <fptr FILEID="alto_00292_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_584.3" BETYPE="IDREF" FILEID="alto_00292_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_584.4" BETYPE="IDREF" FILEID="alto_00292_1"/>
+              <area BEGIN="BL_584.5" BETYPE="IDREF" FILEID="alto_00292_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_584.9" BETYPE="IDREF" FILEID="alto_00292_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="585" ORDERLABEL="583" TYPE="page">
+        <fptr FILEID="tiff_00293_0"/>
+        <fptr FILEID="jp2_00293_0"/>
+        <fptr FILEID="alto_00293_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_585.2" BETYPE="IDREF" FILEID="alto_00293_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_585.1" BETYPE="IDREF" FILEID="alto_00293_0"/>
+              <area BEGIN="BL_585.3" BETYPE="IDREF" FILEID="alto_00293_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="586" ORDERLABEL="584" TYPE="page">
+        <fptr FILEID="tiff_00293_1"/>
+        <fptr FILEID="jp2_00293_1"/>
+        <fptr FILEID="alto_00293_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_586.1" BETYPE="IDREF" FILEID="alto_00293_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_586.2" BETYPE="IDREF" FILEID="alto_00293_1"/>
+              <area BEGIN="BL_586.3" BETYPE="IDREF" FILEID="alto_00293_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b586-9" BETYPE="IDREF" FILEID="casebody_0134"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_586.8" BETYPE="IDREF" FILEID="alto_00293_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b586-8" BETYPE="IDREF" FILEID="casebody_0134"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_586.7" BETYPE="IDREF" FILEID="alto_00293_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b586-10" BETYPE="IDREF" FILEID="casebody_0134"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_586.9" BETYPE="IDREF" FILEID="alto_00293_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AUi" BETYPE="IDREF" FILEID="casebody_0134"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_584.14" BETYPE="IDREF" FILEID="alto_00292_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b586-5" BETYPE="IDREF" FILEID="casebody_0134"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_586.4" BETYPE="IDREF" FILEID="alto_00293_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A3G" BETYPE="IDREF" FILEID="casebody_0134"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_585.4" BETYPE="IDREF" FILEID="alto_00293_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b584-13" BETYPE="IDREF" FILEID="casebody_0134"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_584.12" BETYPE="IDREF" FILEID="alto_00292_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b584-12" BETYPE="IDREF" FILEID="casebody_0134"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_584.11" BETYPE="IDREF" FILEID="alto_00292_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b584-11" BETYPE="IDREF" FILEID="casebody_0134"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_584.10" BETYPE="IDREF" FILEID="alto_00292_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b586-6" BETYPE="IDREF" FILEID="casebody_0134"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_586.5" BETYPE="IDREF" FILEID="alto_00293_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AxX" BETYPE="IDREF" FILEID="casebody_0134"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_584.15" BETYPE="IDREF" FILEID="alto_00292_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b586-7" BETYPE="IDREF" FILEID="casebody_0134"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_586.6" BETYPE="IDREF" FILEID="alto_00293_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b585-6" BETYPE="IDREF" FILEID="casebody_0134"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_585.8" BETYPE="IDREF" FILEID="alto_00293_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b585-7" BETYPE="IDREF" FILEID="casebody_0134"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_585.9" BETYPE="IDREF" FILEID="alto_00293_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b585-5" BETYPE="IDREF" FILEID="casebody_0134"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_585.5" BETYPE="IDREF" FILEID="alto_00293_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AEC" BETYPE="IDREF" FILEID="casebody_0134"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_585.6" BETYPE="IDREF" FILEID="alto_00293_0"/>
+            <area BEGIN="BL_585.7" BETYPE="IDREF" FILEID="alto_00293_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b584-14" BETYPE="IDREF" FILEID="casebody_0134"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_584.13" BETYPE="IDREF" FILEID="alto_00292_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b585-9" BETYPE="IDREF" FILEID="casebody_0134"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_585.11" BETYPE="IDREF" FILEID="alto_00293_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b586-11" BETYPE="IDREF" FILEID="casebody_0134"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_586.10" BETYPE="IDREF" FILEID="alto_00293_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b585-8" BETYPE="IDREF" FILEID="casebody_0134"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_585.10" BETYPE="IDREF" FILEID="alto_00293_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

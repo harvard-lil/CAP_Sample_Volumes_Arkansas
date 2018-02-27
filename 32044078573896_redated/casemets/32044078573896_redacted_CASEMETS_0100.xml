@@ -1,0 +1,352 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0100" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="McClelland v. Lowry">McClelland et al. vs. Lowry</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 452</citation>
+          <decisiondate>1860-07</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00227_1" MIMETYPE="image/tiff" CHECKSUM="b0f62dba948ed19b744d36e3c13348ce" CHECKSUMTYPE="MD5" SIZE="32306">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00227_1.tif"/>
+      </file>
+      <file ID="tiff_00228_0" MIMETYPE="image/tiff" CHECKSUM="32b02c70e688f18303579079bcc32e13" CHECKSUMTYPE="MD5" SIZE="42684">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00228_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00227_1" MIMETYPE="image/jp2" CHECKSUM="5c09aeb46d1f4ccbd3b5fe815a97975e" CHECKSUMTYPE="MD5" SIZE="2401398">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00227_1.jp2"/>
+      </file>
+      <file ID="jp2_00228_0" MIMETYPE="image/jp2" CHECKSUM="311e4ac2b04954336b184cf0d2270c79" CHECKSUMTYPE="MD5" SIZE="2528536">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00228_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00227_1" MIMETYPE="text/xml" CHECKSUM="8a04f2fead40ae785d691af5c20b3c8c" CHECKSUMTYPE="MD5" SIZE="64485">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00227_1.xml"/>
+      </file>
+      <file ID="alto_00228_0" MIMETYPE="text/xml" CHECKSUM="90f0f9f611ba68388fd5acdff807e329" CHECKSUMTYPE="MD5" SIZE="85339">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00228_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0100" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="453" firstpage="452">
+              <parties id="b454-5" pgmap="454">McClelland et al. vs. Lowry.</parties>
+              <attorneys id="b454-10" pgmap="454">Quillin &amp; Marr, for appellant.</attorneys>
+              <attorneys id="b454-11" pgmap="454">Carleton for appellee.</attorneys>
+              <summary id="b454-8" pgmap="454">Appeal from, Union Circuit Court.</summary>
+              <summary id="b454-9" pgmap="454">Hon. Len B. Green, Circuit Judge.</summary>
+              <headnotes id="b454-6" pgmap="454">Upon the death of the wife leaving an only child, her distributive share in the per­sonal estate of her father, not reduced into possession, descends to her child, and upon his death to his father.</headnotes>
+              <headnotes id="b454-7" pgmap="454">A personal judgment in favor of one distributee of an estate being rendered against the other distiibutecs, at their request, by the Circuit Court and not objected to in this court, affirmed in the belief that substantial though informal justice will be done.</headnotes>
+              <opinion type="majority">
+                <author id="b454-12" pgmap="454">Mr. Justice B’AiRcntLD</author>
+                <p id="Aop" pgmap="454">delivered the opinion of the court.</p>
+                <p id="b454-13" pgmap="454(136) 455(14)">While the appellants, six in number, were proceeding to make distribution of the effects of James McClelland, deceased, among themselves as the only heirs, the appellee appeared among them, setting up by petition to the Probate Court of Union county, then engaged in the distribution, that, in 1852 he married Elizabeth McClelland, a daughter and heir of James McClelland, deceased, by her had a son named James Andrew Pearce, that his wife died in January, 1856, leaving her son her heir, and that the son died in February, 1856, that no part of her father’s estate ever came to the hands of the petitioner’s wife or son. James McClelland, deceased, died, about or before 1854. Claiming then as heir of his son, the petitioner asked that the pending proceedings for the disposition of the estate might be stayed or that he be declared to be entitled to one-seventh part thereof.</p>
+                <p id="b455-5" pgmap="455">To this petition the appellants demurred, and the Probate Court sustained the demurrer, and the petitioner appealed to the Circuit Court.</p>
+                <p id="b455-6" pgmap="455">The Circuit Court reversed the judgment of the Probate Court, and setting the case for trial anew, gave leave to the appellants to answer the petition, but they refused to do so, ■preferring to rest upon their demurrer.</p>
+                <p id="b455-7" pgmap="455">The Circuit Court further proceeded a.s follows:</p>
+                <blockquote id="b455-8" pgmap="455">“ It is considered by the court that petitioner be, and he is entitled to one heir’s part, that is, one-seventh part of the said estate of the said James McClelland, deceased, as heir to James Andrew Pearce Lowry. But this court not being advised as to the portion which would be coming to the said petitioner— whereupon, to save costs, etc., the defendants not admitting that petitioner is legally entitled to recover any part of said estate, but denying the same, but admit that if said petitioner be entitled to recover, that said estate amounts to the sum of four thousand nine hundred dollars, and his portion, if entitled to recover, is seven hundred dollars as his part of such estate, as said heir.”</blockquote>
+                <p id="b455-9" pgmap="455">The court then gave judgment in favor of the appellee against the appellants for seven hundred dollars.</p>
+                <p id="b455-10" pgmap="455">The Circuit Court was right in reversing the judgment of the -Probate Court, and in its declaration of the interest of the appellee in the estate of James McClelland, deceased. And, although it might have been better to have proceeded as it began, to have one-seventh part of the estate passed over to the appellee by some legal and usual course of distribution; after the concession, and we may say request of the appellants, that the judgment should be personal against them, and for the amount of seven hundred dollars, and as no contrary intima­tion on their part has been made in this court, we affirm the judgment, with the belief that substantial, though informal justice will thereby be done.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="454" ORDERLABEL="452" TYPE="page">
+        <fptr FILEID="tiff_00227_1"/>
+        <fptr FILEID="jp2_00227_1"/>
+        <fptr FILEID="alto_00227_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_454.1" BETYPE="IDREF" FILEID="alto_00227_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_454.2" BETYPE="IDREF" FILEID="alto_00227_1"/>
+              <area BEGIN="BL_454.3" BETYPE="IDREF" FILEID="alto_00227_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="455" ORDERLABEL="453" TYPE="page">
+        <fptr FILEID="tiff_00228_0"/>
+        <fptr FILEID="jp2_00228_0"/>
+        <fptr FILEID="alto_00228_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_455.3" BETYPE="IDREF" FILEID="alto_00228_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_455.2" BETYPE="IDREF" FILEID="alto_00228_0"/>
+              <area BEGIN="BL_455.4" BETYPE="IDREF" FILEID="alto_00228_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b454-5" BETYPE="IDREF" FILEID="casebody_0100"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_454.4" BETYPE="IDREF" FILEID="alto_00227_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b454-7" BETYPE="IDREF" FILEID="casebody_0100"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_454.6" BETYPE="IDREF" FILEID="alto_00227_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b454-6" BETYPE="IDREF" FILEID="casebody_0100"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_454.5" BETYPE="IDREF" FILEID="alto_00227_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b455-5" BETYPE="IDREF" FILEID="casebody_0100"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_455.5" BETYPE="IDREF" FILEID="alto_00228_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b455-6" BETYPE="IDREF" FILEID="casebody_0100"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_455.6" BETYPE="IDREF" FILEID="alto_00228_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b455-7" BETYPE="IDREF" FILEID="casebody_0100"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_455.7" BETYPE="IDREF" FILEID="alto_00228_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b455-8" BETYPE="IDREF" FILEID="casebody_0100"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_455.8" BETYPE="IDREF" FILEID="alto_00228_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b455-9" BETYPE="IDREF" FILEID="casebody_0100"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_455.9" BETYPE="IDREF" FILEID="alto_00228_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b454-9" BETYPE="IDREF" FILEID="casebody_0100"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_454.8" BETYPE="IDREF" FILEID="alto_00227_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b454-8" BETYPE="IDREF" FILEID="casebody_0100"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_454.7" BETYPE="IDREF" FILEID="alto_00227_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b454-11" BETYPE="IDREF" FILEID="casebody_0100"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_454.10" BETYPE="IDREF" FILEID="alto_00227_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b454-10" BETYPE="IDREF" FILEID="casebody_0100"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_454.9" BETYPE="IDREF" FILEID="alto_00227_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b454-13" BETYPE="IDREF" FILEID="casebody_0100"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_454.13" BETYPE="IDREF" FILEID="alto_00227_1"/>
+            <area BEGIN="BL_455.1" BETYPE="IDREF" FILEID="alto_00228_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b454-12" BETYPE="IDREF" FILEID="casebody_0100"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_454.11" BETYPE="IDREF" FILEID="alto_00227_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aop" BETYPE="IDREF" FILEID="casebody_0100"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_454.12" BETYPE="IDREF" FILEID="alto_00227_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b455-10" BETYPE="IDREF" FILEID="casebody_0100"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_455.10" BETYPE="IDREF" FILEID="alto_00228_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

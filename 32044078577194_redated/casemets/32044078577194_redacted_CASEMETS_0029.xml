@@ -1,0 +1,307 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0029" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Stewart v. State">Joe Willie STEWART v. STATE of Arkansas</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">288 Ark. 117</citation>
+          <citation category="parallel" type="bluebook">702 S.W.2d 2</citation>
+          <decisiondate>1986-01-27</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:00Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00072_0" MIMETYPE="image/tiff" CHECKSUM="777c1c7d2dc5f4eef081f70a75bc81d4" CHECKSUMTYPE="MD5" SIZE="30344">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00072_0.tif"/>
+      </file>
+      <file ID="tiff_00072_1" MIMETYPE="image/tiff" CHECKSUM="761d334eafabdb4e7436b8293f7eb7f3" CHECKSUMTYPE="MD5" SIZE="17910">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00072_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00072_0" MIMETYPE="image/jp2" CHECKSUM="6fc2990c8fd332d28f69aa93177c9631" CHECKSUMTYPE="MD5" SIZE="2191288">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00072_0.jp2"/>
+      </file>
+      <file ID="jp2_00072_1" MIMETYPE="image/jp2" CHECKSUM="04495b9c7c6e0602b3d1fb29688985c2" CHECKSUMTYPE="MD5" SIZE="1720726">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00072_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00072_0" MIMETYPE="text/xml" CHECKSUM="b0256eee84fabbc2b10250d07b318b14" CHECKSUMTYPE="MD5" SIZE="50589">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00072_0.xml"/>
+      </file>
+      <file ID="alto_00072_1" MIMETYPE="text/xml" CHECKSUM="a0d7ed4e7f19599641c959605e249f04" CHECKSUMTYPE="MD5" SIZE="30653">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00072_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0029" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="117" lastpage="118">
+              <court pgmap="143" id="b143-12">Supreme Court of Arkansas</court>
+              <citation pgmap="143" id="b143-11">702 S.W.2d 2</citation>
+              <parties pgmap="143" id="b143-10">Joe Willie STEWART v. STATE of Arkansas</parties>
+              <decisiondate pgmap="143" id="Aqo3">Opinion delivered January 27, 1986</decisiondate>
+              <judges pgmap="144" id="b144-8">Purtle J., not participating.</judges>
+              <attorneys pgmap="143" id="b143-15">John Norman Warnock, for petitioner.</attorneys>
+              <attorneys pgmap="143" id="b143-16">Steve Clark, Att’y Gen., by: Theodore Holder, Asst. Att’y Gen., for respondent.</attorneys>
+              <opinion type="majority">
+                <author pgmap="143" id="b143-17">Per Curiam.</author>
+                <p pgmap="143(7) 144(42)" id="Af_">Petitioner, Joe Willie Stewart, by his attorney, John Norman Warnock, has filed a motion for rule on the clerk. His attorney admits that the record was tendered late due to his miscalculation of the ninety-day limit for filing the record in this Court. See Ark. R. App. P. 5(a).</p>
+                <p pgmap="144" id="b144-6">
+                   We find that such error, admittedly made by the attorney for a criminal defendant, is good cause to grant the motion. See per curiam dated February 5, 1979, 265 Ark. 964; Terry v. State, 272 Ark. 243 (1981).</p>
+                <p pgmap="144" id="b144-7">A copy of this opinion will be forwarded to the Committee on Professional Conduct.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="143" ORDERLABEL="117" TYPE="page">
+        <fptr FILEID="tiff_00072_0"/>
+        <fptr FILEID="jp2_00072_0"/>
+        <fptr FILEID="alto_00072_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_143.3" BETYPE="IDREF" FILEID="alto_00072_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="144" ORDERLABEL="118" TYPE="page">
+        <fptr FILEID="tiff_00072_1"/>
+        <fptr FILEID="jp2_00072_1"/>
+        <fptr FILEID="alto_00072_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_144.2" BETYPE="IDREF" FILEID="alto_00072_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b144-8" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_144.6" BETYPE="IDREF" FILEID="alto_00072_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b144-7" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_144.5" BETYPE="IDREF" FILEID="alto_00072_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b144-6" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_144.4" BETYPE="IDREF" FILEID="alto_00072_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b143-16" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_143.17" BETYPE="IDREF" FILEID="alto_00072_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b143-17" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_143.18" BETYPE="IDREF" FILEID="alto_00072_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b143-15" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_143.16" BETYPE="IDREF" FILEID="alto_00072_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b143-12" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_143.11" BETYPE="IDREF" FILEID="alto_00072_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b143-10" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_143.9" BETYPE="IDREF" FILEID="alto_00072_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b143-11" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_143.10" BETYPE="IDREF" FILEID="alto_00072_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aqo3" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_143.12" BETYPE="IDREF" FILEID="alto_00072_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Af_" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_143.19" BETYPE="IDREF" FILEID="alto_00072_0"/>
+            <area BEGIN="BL_144.1" BETYPE="IDREF" FILEID="alto_00072_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

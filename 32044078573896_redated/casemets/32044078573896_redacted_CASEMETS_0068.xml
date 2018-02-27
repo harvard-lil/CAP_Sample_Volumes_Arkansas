@@ -1,0 +1,422 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0068" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Jacoway v. McGarrah">Jacoway vs. McGarrah</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 347</citation>
+          <decisiondate>1860-07</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00175_0" MIMETYPE="image/tiff" CHECKSUM="15ba9c4389027f900e0dfe4ebba01cb8" CHECKSUMTYPE="MD5" SIZE="35162">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00175_0.tif"/>
+      </file>
+      <file ID="tiff_00175_1" MIMETYPE="image/tiff" CHECKSUM="5d5ac5dc2293852101554fa39c6a4d4e" CHECKSUMTYPE="MD5" SIZE="47746">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00175_1.tif"/>
+      </file>
+      <file ID="tiff_00176_0" MIMETYPE="image/tiff" CHECKSUM="2cbfde6122a266a82e4a6b4282bcdf92" CHECKSUMTYPE="MD5" SIZE="32378">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00176_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00175_0" MIMETYPE="image/jp2" CHECKSUM="7fe57e92469ed5f601e195a6414ee0f6" CHECKSUMTYPE="MD5" SIZE="2517810">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00175_0.jp2"/>
+      </file>
+      <file ID="jp2_00175_1" MIMETYPE="image/jp2" CHECKSUM="850da5c3fee9eb97404a3ca6f92f7ac5" CHECKSUMTYPE="MD5" SIZE="2578067">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00175_1.jp2"/>
+      </file>
+      <file ID="jp2_00176_0" MIMETYPE="image/jp2" CHECKSUM="d7a8773eda022d919220ed17cce808c2" CHECKSUMTYPE="MD5" SIZE="2459700">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00176_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00175_0" MIMETYPE="text/xml" CHECKSUM="74bd06e383cfde95043dbc4ba7d76ac9" CHECKSUMTYPE="MD5" SIZE="76039">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00175_0.xml"/>
+      </file>
+      <file ID="alto_00175_1" MIMETYPE="text/xml" CHECKSUM="a308a1b34a0cca3e3f4129eee225bb7f" CHECKSUMTYPE="MD5" SIZE="86921">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00175_1.xml"/>
+      </file>
+      <file ID="alto_00176_0" MIMETYPE="text/xml" CHECKSUM="a5f022960acc5d2d601e288b4b7d4672" CHECKSUMTYPE="MD5" SIZE="75697">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00176_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0068" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="349" firstpage="347">
+              <parties id="b349-4" pgmap="349">Jacoway vs. McGarrah.</parties>
+              <attorneys id="b349-9" pgmap="349">Walker &amp; Green, for the appellant.</attorneys>
+              <summary id="b349-7" pgmap="349">Appeal from Washington Circuit Court in Chancery.</summary>
+              <summary id="b349-8" pgmap="349">Hon. Felix I. Batson, Circuit Judge.</summary>
+              <summary id="b349-10" pgmap="349">The original bill and the cross-bill were but one cause (3 Danl. Ch. PI. Pr. 1743; 17 J. R. 252,) and if the defendant was entitled to the relief he asked for, the leave to dismiss the original bill ought not to have been granted. 1 Rich. Ch. Rep. 292; 2 V. S. Ch. Dig. p. 428; sec. 342.</summary>
+              <summary id="b349-11" pgmap="349">It is admitted that, at common law, a widow cannot alien her right of dower before assignment, so as to enable the gran­tee to sue in his own name (4 Kent Com. pages 61, 62): but it is submitted that under our statute {Dig. p. 447, sec. 17,) the widow being entitled to remain in possession until dower is assigned her, the rule is changed. 3 Halstead Rep. 129; 5 Conn. Rep. 462. The remedy in this state to set apart the dower of the widow is in equity, where choses in action are assignable, 2 Iredell Eq. Rep. 54; 3 J. J. Marsh, 13, and therefore the same objection to the alienation of a right to dower does not exist as at common law.</summary>
+              <headnotes id="b349-5" pgmap="349">A right of dower, before assignment, cannot be transferred by the widow, to any other than the heir at law or person holding the legal title to the land under the husband, so as to vest in such other person a right of action therefor.</headnotes>
+              <headnotes id="b349-6" pgmap="349">Where a cross bill contains no equity upon its face, the defendant cannot be preju­diced by leave granted to complainant to dismiss the original bill.</headnotes>
+              <opinion type="majority">
+                <author id="b349-13" pgmap="349">Mr. Chief Justice English</author>
+                <p id="Aat" pgmap="349">delivered the opinion of the court!</p>
+                <p id="b349-14" pgmap="349(12) 350(55)">Mary McGarrah filed a bill for dower in lands owned by her deceased husband during his life time, against a number of per­sons alleged to claim the legal title, and to be in possession of the lands, and also against Benjamin J. Jacoway, who, it was alleged, had, by fraudulent means, obtained a deed from com­plainant transferring to him her dower interest in the lands.</p>
+                <p id="b350-5" pgmap="350">The bill prays that the deed from complainant to Jacoway be cancelled, and that she be assigned dower in the lands, etc.</p>
+                <p id="b350-6" pgmap="350">Some of the defendants alleged to claim the legal title to the lands, etc., answered the bill, and a decree pro confesso was taken against others. ,</p>
+                <p id="b350-7" pgmap="350">Jacoway filed an answer to the bill, denying that he had obtained the deed from complainant, transferring to him her dower interest in the lands, by fraudulent means as alleged, but averring that he had purchased her interest and obtained the transfer fairly, etc. He also made his answer a cross-bill against his co-defeudants, setting up his purchase of complain­ant’s right to dower in the lands, interrogating them as to the value of the rents and profits, and praying the court to decree to him, and not to complainant, her dower interest in the land, and cause it to be laid off to him, with an account of rents and profits, etc.</p>
+                <p id="b350-8" pgmap="350">A subpoena was issued and served upon the co-defendants, who were made parties to the cross-bill; and they appeared and interposed a demurrer thereto, for want of equity, assigning as special cause of demurrer that a dower interest in land could not be aliened before assignment.</p>
+                <p id="b350-9" pgmap="350">Jacoway then moved for leave to amend his cross bill by making the complainant in the original bill a defendant thereto, etc.</p>
+                <p id="b350-10" pgmap="350">Whilst this motion was pending, and before the court took any action thereon, the original complainant asked leave to dismiss her bill, which was granted by the court, and her bill dismissed, against the objection of Jacoway, who excepted and appealed.</p>
+                <p id="b350-11" pgmap="350(26) 351(62)">In Carnall ad. vs. Wilson, (ante 62.) this court held that the right of dower, until it is assigned to the widow, is a mere chose in action; and though the widow may relinquish the right to the heirs at law, or to one holding the legal title to the lands under the husband, etc., and such relinquishment will bar her right to recover dower, yet she cannot alien or transfer her claim to dower so as to vest in any other person the right of action therefor.</p>
+                <p id="b351-6" pgmap="351">There being no equity on the face of the cross-bill, the appel­lant was not prejudiced by the leavé granted to the appellee to dismiss the original bill, and the decree is affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="349" ORDERLABEL="347" TYPE="page">
+        <fptr FILEID="tiff_00175_0"/>
+        <fptr FILEID="jp2_00175_0"/>
+        <fptr FILEID="alto_00175_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_349.2" BETYPE="IDREF" FILEID="alto_00175_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_349.1" BETYPE="IDREF" FILEID="alto_00175_0"/>
+              <area BEGIN="BL_349.3" BETYPE="IDREF" FILEID="alto_00175_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="350" ORDERLABEL="348" TYPE="page">
+        <fptr FILEID="tiff_00175_1"/>
+        <fptr FILEID="jp2_00175_1"/>
+        <fptr FILEID="alto_00175_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_350.2" BETYPE="IDREF" FILEID="alto_00175_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_350.3" BETYPE="IDREF" FILEID="alto_00175_1"/>
+              <area BEGIN="BL_350.4" BETYPE="IDREF" FILEID="alto_00175_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="351" ORDERLABEL="349" TYPE="page">
+        <fptr FILEID="tiff_00176_0"/>
+        <fptr FILEID="jp2_00176_0"/>
+        <fptr FILEID="alto_00176_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_351.3" BETYPE="IDREF" FILEID="alto_00176_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_351.2" BETYPE="IDREF" FILEID="alto_00176_0"/>
+              <area BEGIN="BL_351.4" BETYPE="IDREF" FILEID="alto_00176_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_351.6" BETYPE="IDREF" FILEID="alto_00176_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b350-5" BETYPE="IDREF" FILEID="casebody_0068"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_350.5" BETYPE="IDREF" FILEID="alto_00175_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b350-10" BETYPE="IDREF" FILEID="casebody_0068"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_350.10" BETYPE="IDREF" FILEID="alto_00175_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b349-14" BETYPE="IDREF" FILEID="casebody_0068"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_349.14" BETYPE="IDREF" FILEID="alto_00175_0"/>
+            <area BEGIN="BL_350.1" BETYPE="IDREF" FILEID="alto_00175_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b350-7" BETYPE="IDREF" FILEID="casebody_0068"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_350.7" BETYPE="IDREF" FILEID="alto_00175_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aat" BETYPE="IDREF" FILEID="casebody_0068"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_349.13" BETYPE="IDREF" FILEID="alto_00175_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b350-11" BETYPE="IDREF" FILEID="casebody_0068"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_350.11" BETYPE="IDREF" FILEID="alto_00175_1"/>
+            <area BEGIN="BL_351.1" BETYPE="IDREF" FILEID="alto_00176_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b350-6" BETYPE="IDREF" FILEID="casebody_0068"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_350.6" BETYPE="IDREF" FILEID="alto_00175_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b349-13" BETYPE="IDREF" FILEID="casebody_0068"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_349.12" BETYPE="IDREF" FILEID="alto_00175_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b349-10" BETYPE="IDREF" FILEID="casebody_0068"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_349.10" BETYPE="IDREF" FILEID="alto_00175_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b349-11" BETYPE="IDREF" FILEID="casebody_0068"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_349.11" BETYPE="IDREF" FILEID="alto_00175_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b349-4" BETYPE="IDREF" FILEID="casebody_0068"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_349.4" BETYPE="IDREF" FILEID="alto_00175_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b349-5" BETYPE="IDREF" FILEID="casebody_0068"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_349.5" BETYPE="IDREF" FILEID="alto_00175_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b349-6" BETYPE="IDREF" FILEID="casebody_0068"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_349.6" BETYPE="IDREF" FILEID="alto_00175_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b349-7" BETYPE="IDREF" FILEID="casebody_0068"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_349.7" BETYPE="IDREF" FILEID="alto_00175_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b349-8" BETYPE="IDREF" FILEID="casebody_0068"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_349.8" BETYPE="IDREF" FILEID="alto_00175_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b349-9" BETYPE="IDREF" FILEID="casebody_0068"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_349.9" BETYPE="IDREF" FILEID="alto_00175_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b351-6" BETYPE="IDREF" FILEID="casebody_0068"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_351.5" BETYPE="IDREF" FILEID="alto_00176_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b350-8" BETYPE="IDREF" FILEID="casebody_0068"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_350.8" BETYPE="IDREF" FILEID="alto_00175_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b350-9" BETYPE="IDREF" FILEID="casebody_0068"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_350.9" BETYPE="IDREF" FILEID="alto_00175_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

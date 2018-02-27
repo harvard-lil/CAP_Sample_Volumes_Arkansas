@@ -1,0 +1,384 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0097" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="M., O. &amp; R. R. Railroad v. Turrentine">M., O. &amp; R. R. Railroad Co. vs. Turrentine</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 445</citation>
+          <decisiondate>1860-07</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00224_0" MIMETYPE="image/tiff" CHECKSUM="bb589d81c199c2d692657c16eee95d12" CHECKSUMTYPE="MD5" SIZE="25924">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00224_0.tif"/>
+      </file>
+      <file ID="tiff_00224_1" MIMETYPE="image/tiff" CHECKSUM="347704a364b5cada21d0b48e38506641" CHECKSUMTYPE="MD5" SIZE="44558">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00224_1.tif"/>
+      </file>
+      <file ID="tiff_00225_0" MIMETYPE="image/tiff" CHECKSUM="bd5eabe0e350b36c2f81d9b369eaf420" CHECKSUMTYPE="MD5" SIZE="30914">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00225_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00224_0" MIMETYPE="image/jp2" CHECKSUM="70088245998ec8941521ab5c91f6226c" CHECKSUMTYPE="MD5" SIZE="2405073">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00224_0.jp2"/>
+      </file>
+      <file ID="jp2_00224_1" MIMETYPE="image/jp2" CHECKSUM="c99620a87ba15fe98605f190e4adcdff" CHECKSUMTYPE="MD5" SIZE="2528459">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00224_1.jp2"/>
+      </file>
+      <file ID="jp2_00225_0" MIMETYPE="image/jp2" CHECKSUM="e6367924d374315ec20cfc6f1b1dd266" CHECKSUMTYPE="MD5" SIZE="2449046">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00225_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00224_0" MIMETYPE="text/xml" CHECKSUM="25d6244406afa352772a83477b881e2a" CHECKSUMTYPE="MD5" SIZE="53755">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00224_0.xml"/>
+      </file>
+      <file ID="alto_00224_1" MIMETYPE="text/xml" CHECKSUM="d027ba3d39f1a10e35705a4f7b7f9203" CHECKSUMTYPE="MD5" SIZE="83958">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00224_1.xml"/>
+      </file>
+      <file ID="alto_00225_0" MIMETYPE="text/xml" CHECKSUM="194a51d82d786861837828e9ced1de89" CHECKSUMTYPE="MD5" SIZE="70827">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00225_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0097" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="447" firstpage="445">
+              <parties id="b447-6" pgmap="447">M., O. &amp; R. R. Railroad Co. vs. Turrentine.</parties>
+              <attorneys id="b447-10" pgmap="447">Watkins &amp; Gallagher, for the appellant.</attorneys>
+              <summary id="b447-8" pgmap="447">Appeal from Sevier Circuit Court.</summary>
+              <summary id="b447-9" pgmap="447">lion. Len B. Green, Circuit Judge.</summary>
+              <headnotes id="b447-7" pgmap="447">The decision in M., O. t$* R. R. Railroad Co. as. Caster, 20 Ark. 455, as t* notice oí assessments of stock under the charter of the company, approved.</headnotes>
+              <opinion type="majority">
+                <author id="b448-4" pgmap="448">Mr. Chief Justice English</author>
+                <p id="AMg" pgmap="448">delivered the opinion of the court.</p>
+                <p id="AqB" pgmap="448">The M., O. &amp; R. R. R. R. Co. brought assumpsit against Turrentine for assessments ma.de upon shares taken by him in the capital stock of the company.</p>
+                <p id="b448-6" pgmap="448">There were several counts in the declaration. The defendant interposed a demurrer to the first count, and pleaded the gene­ral issue to the others. The court sustained the demurrer, and the plaintiff rested. The issue to the other counts was sub­mitted to the court, and, the plaintiff declining to introduce any evidence, judgment was rendered for defendant, and the plain­tiff appealed.</p>
+                <p id="b448-7" pgmap="448">The causes of demurrer do not appear in the record, and no counsel has appeared here for the appellee, to point out the supposed defects in the count demurred to. '</p>
+                <p id="b448-8" pgmap="448">The clerk, in entering the judgment sustaining the demurrer, states that the court sustained the demurrer because in the averment of notice, to the appellee, of the assessments made upon his stock, the word due was not inserted before^the word notice.</p>
+                <p id="b448-9" pgmap="448">The declaration alleges the date of each assessment, and avers the last one sued for to have been made 27th November, 1856, to be paid 1st March following. The suit was commenced 10th July, 1858.</p>
+                <p id="b448-10" pgmap="448">After setting out the assessments upon the appellee’s stock, the time when made, the amount of each, when due and pay­able, the interest chargeable thereon, and the aggregate amount in arrear, notice is averred thus: “ Of all which said assesss­ments, installments, or calls, at the county aforesaid, on the said day on which they were respectively made, as aforesaid, the said Charles P. Turrentine had notice, and w'as requested to pay the same.”</p>
+                <p id="b448-11" pgmap="448">The averment of notice was sufficient, according to the decision in M., O. &amp; Red River Railroad Company vs. Gaster, 20 Ark. 455.</p>
+                <p id="b448-12" pgmap="448(21) 449(29)">Perceiving no other objection to the count that could be con­sidered on a general demurrer, the judgment must be reversed’ and the cause remanded, with instructions to the court to over­rule the demurrer to the first count of the declaration, and permit the appellee to answer over thereto.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="447" ORDERLABEL="445" TYPE="page">
+        <fptr FILEID="tiff_00224_0"/>
+        <fptr FILEID="jp2_00224_0"/>
+        <fptr FILEID="alto_00224_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_447.3" BETYPE="IDREF" FILEID="alto_00224_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_447.2" BETYPE="IDREF" FILEID="alto_00224_0"/>
+              <area BEGIN="BL_447.4" BETYPE="IDREF" FILEID="alto_00224_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_447.6" BETYPE="IDREF" FILEID="alto_00224_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="448" ORDERLABEL="446" TYPE="page">
+        <fptr FILEID="tiff_00224_1"/>
+        <fptr FILEID="jp2_00224_1"/>
+        <fptr FILEID="alto_00224_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_448.1" BETYPE="IDREF" FILEID="alto_00224_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_448.2" BETYPE="IDREF" FILEID="alto_00224_1"/>
+              <area BEGIN="BL_448.3" BETYPE="IDREF" FILEID="alto_00224_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="449" ORDERLABEL="447" TYPE="page">
+        <fptr FILEID="tiff_00225_0"/>
+        <fptr FILEID="jp2_00225_0"/>
+        <fptr FILEID="alto_00225_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_449.3" BETYPE="IDREF" FILEID="alto_00225_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_449.2" BETYPE="IDREF" FILEID="alto_00225_0"/>
+              <area BEGIN="BL_449.4" BETYPE="IDREF" FILEID="alto_00225_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_449.5" BETYPE="IDREF" FILEID="alto_00225_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b447-7" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_447.8" BETYPE="IDREF" FILEID="alto_00224_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b447-6" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_447.7" BETYPE="IDREF" FILEID="alto_00224_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b448-6" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_448.7" BETYPE="IDREF" FILEID="alto_00224_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b448-7" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_448.8" BETYPE="IDREF" FILEID="alto_00224_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b448-4" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_448.4" BETYPE="IDREF" FILEID="alto_00224_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b448-8" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_448.9" BETYPE="IDREF" FILEID="alto_00224_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b448-9" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_448.10" BETYPE="IDREF" FILEID="alto_00224_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b447-9" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_447.10" BETYPE="IDREF" FILEID="alto_00224_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b447-8" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_447.9" BETYPE="IDREF" FILEID="alto_00224_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b447-10" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_447.11" BETYPE="IDREF" FILEID="alto_00224_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AqB" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_448.6" BETYPE="IDREF" FILEID="alto_00224_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AMg" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_448.5" BETYPE="IDREF" FILEID="alto_00224_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b448-10" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_448.11" BETYPE="IDREF" FILEID="alto_00224_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b448-11" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_448.12" BETYPE="IDREF" FILEID="alto_00224_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b448-12" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_448.13" BETYPE="IDREF" FILEID="alto_00224_1"/>
+            <area BEGIN="BL_449.1" BETYPE="IDREF" FILEID="alto_00225_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

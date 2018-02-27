@@ -1,0 +1,646 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0118" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Trapnall v. Merrick">Trapnall vs. Merrick</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 503</citation>
+          <decisiondate>1860-07</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00253_0" MIMETYPE="image/tiff" CHECKSUM="b5bdbf008d5849da74184301006e781e" CHECKSUMTYPE="MD5" SIZE="37458">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00253_0.tif"/>
+      </file>
+      <file ID="tiff_00253_1" MIMETYPE="image/tiff" CHECKSUM="9022a2392dc87566d843a6975401107b" CHECKSUMTYPE="MD5" SIZE="44252">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00253_1.tif"/>
+      </file>
+      <file ID="tiff_00254_0" MIMETYPE="image/tiff" CHECKSUM="19082e29ab8196e5d543a795bb4518ed" CHECKSUMTYPE="MD5" SIZE="47028">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00254_0.tif"/>
+      </file>
+      <file ID="tiff_00254_1" MIMETYPE="image/tiff" CHECKSUM="7020806de856092285f0992c0c7bf0cb" CHECKSUMTYPE="MD5" SIZE="47076">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00254_1.tif"/>
+      </file>
+      <file ID="tiff_00255_0" MIMETYPE="image/tiff" CHECKSUM="6f4f7e400f19d3d375d70fa570da4aa7" CHECKSUMTYPE="MD5" SIZE="32112">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00255_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00253_0" MIMETYPE="image/jp2" CHECKSUM="e550b294ded8612c3c511d041e387027" CHECKSUMTYPE="MD5" SIZE="2385127">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00253_0.jp2"/>
+      </file>
+      <file ID="jp2_00253_1" MIMETYPE="image/jp2" CHECKSUM="bc73f36a8a88e4c512c27c56094318b7" CHECKSUMTYPE="MD5" SIZE="2438374">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00253_1.jp2"/>
+      </file>
+      <file ID="jp2_00254_0" MIMETYPE="image/jp2" CHECKSUM="2b0d00696931f0212eb061da2235a013" CHECKSUMTYPE="MD5" SIZE="2451331">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00254_0.jp2"/>
+      </file>
+      <file ID="jp2_00254_1" MIMETYPE="image/jp2" CHECKSUM="3e8a6e7398e9c8a51f4b113b97a5a8e5" CHECKSUMTYPE="MD5" SIZE="2466423">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00254_1.jp2"/>
+      </file>
+      <file ID="jp2_00255_0" MIMETYPE="image/jp2" CHECKSUM="2beba406b246ffd5bf600ebbe9dfbc16" CHECKSUMTYPE="MD5" SIZE="2421996">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00255_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00253_0" MIMETYPE="text/xml" CHECKSUM="f3d8fcf6c3bf1e6d5485f4262eef962f" CHECKSUMTYPE="MD5" SIZE="79267">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00253_0.xml"/>
+      </file>
+      <file ID="alto_00253_1" MIMETYPE="text/xml" CHECKSUM="d32704c40fd74cc61664aea4601830cf" CHECKSUMTYPE="MD5" SIZE="86316">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00253_1.xml"/>
+      </file>
+      <file ID="alto_00254_0" MIMETYPE="text/xml" CHECKSUM="fc911235835313230627b1c853e3056f" CHECKSUMTYPE="MD5" SIZE="85856">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00254_0.xml"/>
+      </file>
+      <file ID="alto_00254_1" MIMETYPE="text/xml" CHECKSUM="42a60a27eb03c983213b80405157a2f4" CHECKSUMTYPE="MD5" SIZE="89633">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00254_1.xml"/>
+      </file>
+      <file ID="alto_00255_0" MIMETYPE="text/xml" CHECKSUM="3accce6aa9abeefb4d3101e167ae4c0b" CHECKSUMTYPE="MD5" SIZE="60375">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00255_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0118" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="507" firstpage="503">
+              <parties id="b505-4" pgmap="505">Trapnall vs. Merrick.</parties>
+              <attorneys id="b505-10" pgmap="505">Hempstead, for tbe appellant.</attorneys>
+              <attorneys id="b507-4" pgmap="507">Garland &lt;fe Randolph, for appellee. •</attorneys>
+              <summary id="b505-8" pgmap="505">Appeal from Pulaski Circuit Court.</summary>
+              <summary id="b505-9" pgmap="505">Hon. John J. Clendenin, Circuit Judge.</summary>
+              <summary id="b505-11" pgmap="505">The lease in writing, supposing it not to have been signed by Merrick, was, nevertheless, a written contract between the par­ties, and bound him to pay the stipulated rent. By entering and enjoying the possession of the premises under it, as is dis­tinctly averred, and admitted by the demurrer, he made him­self a party to the lease, and even if so bald and technical a point could be noticed, as that Merrick had not signed it, still the taking possession and acknowledging himself as the tenant of the plaintiff, would be such part execution as to displace any possible question that could arise upon the statute of frauds.</summary>
+              <summary id="b505-12" pgmap="505">By going into possession of the premises, under the lease, he necessarily admitted the validity of it; the title of the plaintiff and that the relation of landlord and tenant existed between them. It was a full acceptance of the lease.</summary>
+              <summary id="b506-4" pgmap="506">A demise for years is a contract for the possession of lands and tenements for some determinate period, wh n-eby the lessor lots them to the lessee for a certain term of years, agreed upon between the parties, and thereupon the lessee enters. Go. Lit. 58.</summary>
+              <summary id="b506-5" pgmap="506">The form of a lease is not material; and any agreement 'which shows a present intention to create the relation of land­lord and tenant will be a good lease. Cro. Eliz. 190; Burr. 1440; Co. Litt. 301, b; 5 Bac. Abr. Leases (If;) 7 Blackf. 403; 16 Wend. 465.</summary>
+              <summary id="b506-6" pgmap="506">If it is for a longer term than one year, it must be in writing, and when executed by the lessor and delivered to and accepted by the lessee, becomes a valid contract in writing between the parties, enforceable by each against the other, although not signed by the lessee. It is just as much his contract as if it was, and as he went into possession under the lease, and enjoyed the term, he will hardly be allowed to set that up! For “ it is unconscionable that the party that has received the advantage should be admitted to say that such contract was never made.” 1 Fondb. Equity 183. Either assumpsit or debt can be maintained for the use and occupation of premises. Bunk vs. Hunter, 5 Barn. 8f Aid. 322; 1 Chitiy's Precedents 137, nolef.</summary>
+              <summary id="b506-7" pgmap="506">At the common law, debt lies for the rent of lands demised for life; for years or at will. Comyn on Landlord and Tenant, 420; 6 Laio Library.</summary>
+              <summary id="b506-8" pgmap="506">Supposing, therefore, the lease declared on to be void by the statute of frauds, (which it is not,) still rejecting that, and pro­ceeding on the declaration for the use and occupation for one year, the plaintiff would have a right to recover for that, and the rejected instrument could be referred to, to fix the quantum of rent. 5 Bom. Sf Cress. 333; 8 Dowling &lt;$* Ry. 67; 1 Chitiy's Frac, note f. p. 139.</summary>
+              <summary id="b506-9" pgmap="506">Our statute, in effect, enacts the same principle. (Gould's Digest, 683; 5 Eng. 604.)</summary>
+              <summary id="b507-5" pgmap="507">A party cannot be charged on a lease of lands and tenements, unless it appears that he or some one duly authorized by him, signed such lease. Gould’s Dig. 547; sec. 1: 2 Parsons on Con. 285; 10 Ohio 399; 3 John Rap. 399.</summary>
+              <headnotes id="b505-5" pgmap="505">The court ought not to entertain an objection to the pleading for the omission of a a word, where it is evidently a mistake of the pleader, and the meaning is as plain without the word as with it: as where in charging that the defendant entered into the possession of a house, and used and occupied it, the word “ defendant ” is omitted</headnotes>
+              <headnotes id="b505-6" pgmap="505">The action of debt is maintainable for rent, for an agreed certain sum, whether the demise is by deed or not.</headnotes>
+              <headnotes id="b505-7" pgmap="505">Where a party accepts a written lease in which it is stipulated that he is to have the use of the premises for a term of years, at a specified price, and he enters into and holds the premises for the term, he will not be protected from the payment of the rent because he did not sign tbe lease.</headnotes>
+              <opinion type="majority">
+                <author id="b507-6" pgmap="507">Mr. Justice Fairchild</author>
+                <p id="Apn" pgmap="507">delivered the opinion of the court.</p>
+                <p id="b507-7" pgmap="507">Mrs. Trapnall sued Merrick in an action of debt. In the first count in the declaration she alleged that, on the 1st of Jan­uary, 1855, she gave to Merrick an instrument in writing leas­ing to him the Byrd ware-house for a term of years not exceed­ing three, at two hundred dollars a year, payable quarterly, by virtue of which Merrick took possession of the ware-house and used it for the term, and that he has not paid the rent men­tioned in the lease or any part thereof.</p>
+                <p id="b507-8" pgmap="507">The second count is like the first, except that it describes the lease as having been executed under the hand and seal of the plaintiff.</p>
+                <p id="b507-9" pgmap="507">The defendant demurred to the declaration because the lease was not charged to have been signed by him, or by any person for him, and because the lease declared upon, would not sus­tain an action against the defendant. i</p>
+                <p id="b507-10" pgmap="507">There is a special cause of demurrer to the second count, that it does not aver that the defendant entered into possession under the lease. The action was brought-the 9th of January, 1850.</p>
+                <p id="b507-11" pgmap="507">The court sustained the demurrer to the declaration; the plaintiff rested upon the demurrer; judgment was given against her, and she appealed.</p>
+                <p id="b507-12" pgmap="507">The second count is not subject to the objection specially assigned to it in the demurrer. The language of the declara­tion is, “ by virtue of which lease and demise entered into the said ware-house and premises, on said 1st January, 1855, and was possessed thereof and used and occupied the same from thenceforth continually, until the end of said term.”</p>
+                <p id="b507-13" pgmap="507(11) 508(61)">The omission of the word “ defendant ” before “ entered,’’ was not a failure to aver that it was the defendant that entered, into possession. It was evidently a mistake of the pleader not to have inserted that word, and no other, and the meaning was as plain without the word as with it, and the Circuit Court ought not to have entertained and probably did not entertain any such objection.</p>
+                <p id="b508-6" pgmap="508">The objection made in the demurrer, that no action upon the lease under seal, or instrument of writing mentioned in the declaration, can be had against the defendant, is not applicable to this case, as this action is not brought upon the lease or writ­ing, but simply for the rent then reserved by the plaintiff, and by the defendant agreed to be paid, as shown by his acceptance of it, and taking possession of the ware-house and occupying it for the term.</p>
+                <p id="b508-7" pgmap="508">The statement of the lease or written instrument was but inducement to the main averments of Merrick having entered into possession of the ware-house, under an agreement to pay a certain rent, and of his violation of his agreement — and the declaration is strictly according to form, and more formal than necessary in making excuse for want of proferí of the lease and instrument in writing.</p>
+                <p id="b508-8" pgmap="508">^ The action of debt was always maintainable for rent, for an agreed certain sum, and whether the demise was by deed, by an unsealed writing, or by word of mouth.</p>
+                <p id="b508-9" pgmap="508">And debt or assumpsit for use and occupation was not needed only where the occupation was'riot at a fixed rent or for a fixed time. &gt;</p>
+                <p id="b508-10" pgmap="508">The law upon this subject is clearly stated, and is declared to be fully settled in a case decided in the King’s Bench, in 1841. Gibson vs. Kirk, 1 Adolph. &amp; Ellis N. S. 850; and the case is quoted and fully endorsed in a recent American, work of high authority. 3 Rob. Pr. 375; see also 1 Ch. Plg. 110, 11th Am. Ed.</p>
+                <p id="b508-11" pgmap="508(34) 509(73)">And to hold that Merrick, after accepting a written lease from Mrs. Trapnall, in which it was stipulated that he was to have the use of the ware-house for three years, at the yearly rent of six hundred dollars, payable quarterly, and after having it the full term, is protected from payment of the rent, because he did not sign the lease, would be shocking to good sense and morals, and, what is more to the purpose in this suit, illegal. For it cannot be legal for a man, after having had the full benefit of a valid contract, to refuse to pay the promised con­sideration.</p>
+                <p id="b509-6" pgmap="509">The statute of frauds affords no defence to Merrick. He is not sought to be charged on any contract for leasing the.ware­house, or the ground on which it is, but on a contract to pay rent, and he must pay it, or be declared liable by law to pay, ¡unless he can show reason to the contrary upon a contest of the merits of the case.</p>
+                <p id="b509-7" pgmap="509">Let the judgment be reversed with instructions that the court below require the defendant to plead to’the declaration.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="505" ORDERLABEL="503" TYPE="page">
+        <fptr FILEID="tiff_00253_0"/>
+        <fptr FILEID="jp2_00253_0"/>
+        <fptr FILEID="alto_00253_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_505.2" BETYPE="IDREF" FILEID="alto_00253_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_505.1" BETYPE="IDREF" FILEID="alto_00253_0"/>
+              <area BEGIN="BL_505.3" BETYPE="IDREF" FILEID="alto_00253_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="506" ORDERLABEL="504" TYPE="page">
+        <fptr FILEID="tiff_00253_1"/>
+        <fptr FILEID="jp2_00253_1"/>
+        <fptr FILEID="alto_00253_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_506.1" BETYPE="IDREF" FILEID="alto_00253_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_506.2" BETYPE="IDREF" FILEID="alto_00253_1"/>
+              <area BEGIN="BL_506.3" BETYPE="IDREF" FILEID="alto_00253_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="507" ORDERLABEL="505" TYPE="page">
+        <fptr FILEID="tiff_00254_0"/>
+        <fptr FILEID="jp2_00254_0"/>
+        <fptr FILEID="alto_00254_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_507.2" BETYPE="IDREF" FILEID="alto_00254_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_507.1" BETYPE="IDREF" FILEID="alto_00254_0"/>
+              <area BEGIN="BL_507.3" BETYPE="IDREF" FILEID="alto_00254_0"/>
+              <area BEGIN="BL_507.15" BETYPE="IDREF" FILEID="alto_00254_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="508" ORDERLABEL="506" TYPE="page">
+        <fptr FILEID="tiff_00254_1"/>
+        <fptr FILEID="jp2_00254_1"/>
+        <fptr FILEID="alto_00254_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_508.2" BETYPE="IDREF" FILEID="alto_00254_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_508.3" BETYPE="IDREF" FILEID="alto_00254_1"/>
+              <area BEGIN="BL_508.4" BETYPE="IDREF" FILEID="alto_00254_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="509" ORDERLABEL="507" TYPE="page">
+        <fptr FILEID="tiff_00255_0"/>
+        <fptr FILEID="jp2_00255_0"/>
+        <fptr FILEID="alto_00255_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_509.3" BETYPE="IDREF" FILEID="alto_00255_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_509.2" BETYPE="IDREF" FILEID="alto_00255_0"/>
+              <area BEGIN="BL_509.4" BETYPE="IDREF" FILEID="alto_00255_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_509.7" BETYPE="IDREF" FILEID="alto_00255_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b505-8" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_505.8" BETYPE="IDREF" FILEID="alto_00253_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b505-9" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_505.9" BETYPE="IDREF" FILEID="alto_00253_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b508-11" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_508.10" BETYPE="IDREF" FILEID="alto_00254_1"/>
+            <area BEGIN="BL_509.1" BETYPE="IDREF" FILEID="alto_00255_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b508-10" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_508.9" BETYPE="IDREF" FILEID="alto_00254_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b505-6" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_505.6" BETYPE="IDREF" FILEID="alto_00253_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b505-7" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_505.7" BETYPE="IDREF" FILEID="alto_00253_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b505-4" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_505.4" BETYPE="IDREF" FILEID="alto_00253_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b505-5" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_505.5" BETYPE="IDREF" FILEID="alto_00253_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b505-11" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_505.11" BETYPE="IDREF" FILEID="alto_00253_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b507-12" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_507.13" BETYPE="IDREF" FILEID="alto_00254_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b507-13" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_507.14" BETYPE="IDREF" FILEID="alto_00254_0"/>
+            <area BEGIN="BL_508.1" BETYPE="IDREF" FILEID="alto_00254_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b507-10" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_507.11" BETYPE="IDREF" FILEID="alto_00254_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b507-11" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_507.12" BETYPE="IDREF" FILEID="alto_00254_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b507-8" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_507.9" BETYPE="IDREF" FILEID="alto_00254_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b507-9" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_507.10" BETYPE="IDREF" FILEID="alto_00254_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b509-6" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_509.5" BETYPE="IDREF" FILEID="alto_00255_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b509-7" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_509.6" BETYPE="IDREF" FILEID="alto_00255_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b506-5" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_506.5" BETYPE="IDREF" FILEID="alto_00253_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b506-4" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_506.4" BETYPE="IDREF" FILEID="alto_00253_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b506-7" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_506.7" BETYPE="IDREF" FILEID="alto_00253_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b506-6" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_506.6" BETYPE="IDREF" FILEID="alto_00253_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b507-4" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_507.4" BETYPE="IDREF" FILEID="alto_00254_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b506-8" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_506.8" BETYPE="IDREF" FILEID="alto_00253_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b507-6" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_507.6" BETYPE="IDREF" FILEID="alto_00254_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b507-7" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_507.8" BETYPE="IDREF" FILEID="alto_00254_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b505-10" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_505.10" BETYPE="IDREF" FILEID="alto_00253_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b506-9" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_506.9" BETYPE="IDREF" FILEID="alto_00253_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b505-12" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_505.12" BETYPE="IDREF" FILEID="alto_00253_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b508-7" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_508.6" BETYPE="IDREF" FILEID="alto_00254_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b508-6" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_508.5" BETYPE="IDREF" FILEID="alto_00254_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b507-5" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_507.5" BETYPE="IDREF" FILEID="alto_00254_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b508-9" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_508.8" BETYPE="IDREF" FILEID="alto_00254_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b508-8" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_508.7" BETYPE="IDREF" FILEID="alto_00254_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Apn" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_507.7" BETYPE="IDREF" FILEID="alto_00254_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

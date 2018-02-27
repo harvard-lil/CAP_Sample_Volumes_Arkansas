@@ -1,0 +1,421 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0080" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Gardner v. Miller">Gardner vs. Miller et al.</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 398</citation>
+          <decisiondate>1860-07</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00200_1" MIMETYPE="image/tiff" CHECKSUM="4dac4d9d648088ae3a8bb449fea96e38" CHECKSUMTYPE="MD5" SIZE="30250">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00200_1.tif"/>
+      </file>
+      <file ID="tiff_00201_0" MIMETYPE="image/tiff" CHECKSUM="7fc7fe9ff739c33932fbdb96caa3d3c3" CHECKSUMTYPE="MD5" SIZE="41490">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00201_0.tif"/>
+      </file>
+      <file ID="tiff_00201_1" MIMETYPE="image/tiff" CHECKSUM="ffd7ebba687f59c47501342d9ff92223" CHECKSUMTYPE="MD5" SIZE="30140">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00201_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00200_1" MIMETYPE="image/jp2" CHECKSUM="72be159f9933b2bc3016bdce3be935ba" CHECKSUMTYPE="MD5" SIZE="2547686">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00200_1.jp2"/>
+      </file>
+      <file ID="jp2_00201_0" MIMETYPE="image/jp2" CHECKSUM="b8bfe708c81cc1941cd3ee54304b27bd" CHECKSUMTYPE="MD5" SIZE="2655562">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00201_0.jp2"/>
+      </file>
+      <file ID="jp2_00201_1" MIMETYPE="image/jp2" CHECKSUM="2a7c0290cacdffa9c0577e5c0f7ed881" CHECKSUMTYPE="MD5" SIZE="2583101">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00201_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00200_1" MIMETYPE="text/xml" CHECKSUM="fc1db20f07dcab2101b02e1fa576353a" CHECKSUMTYPE="MD5" SIZE="59842">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00200_1.xml"/>
+      </file>
+      <file ID="alto_00201_0" MIMETYPE="text/xml" CHECKSUM="a2da941de5dcf31b137f420daf4a3eeb" CHECKSUMTYPE="MD5" SIZE="81957">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00201_0.xml"/>
+      </file>
+      <file ID="alto_00201_1" MIMETYPE="text/xml" CHECKSUM="a6a2bab1c4c18c058ad0da6cb783747e" CHECKSUMTYPE="MD5" SIZE="56405">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00201_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0080" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="400" firstpage="398">
+              <parties id="b400-7" pgmap="400">Gardner vs. Miller et al.</parties>
+              <attorneys id="b401-4" pgmap="401">S. F. Clark, for appellant.</attorneys>
+              <attorneys id="b401-5" pgmap="401">Garland &amp; Randolph, for appellees.</attorneys>
+              <summary id="b400-10" pgmap="400">Appeal from Sebastian Circuit Court.</summary>
+              <summary id="b401-3" pgmap="401">Hon. Felix I. Batson, Circuit Judge.</summary>
+              <headnotes id="b400-8" pgmap="400">Where no motion for a new trial has been made, nor any question of law reserved at the trial, there is nothing before this Court for adjudication.</headnotes>
+              <headnotes id="b400-9" pgmap="400">The rule established in State Bank vs. Conway, 13 Ark. 344, — which is simple, and easily understood and followed — applies as well to cases submitted to the court, as to a jury, and to cases where there is an agreed statement of facts, as where the facts are proved by witnesses.</headnotes>
+              <opinion type="majority">
+                <author id="b401-6" pgmap="401">Mr. Chief Justice English</author>
+                <p id="A5C" pgmap="401">delivered the opinion of the Court.</p>
+                <p id="b401-7" pgmap="401">The judgment in this case must be affirmed under the rule established in State Bank vs. Conway, 13 Ark. 344, and followed in a number of cases since.</p>
+                <p id="b401-8" pgmap="401">The action was assumpsit by the appellees against the appel­lant for use and occupation, etc.; the case was submitted to the court, sitting as a jury, under the general issue, upon an agreed statement of facts, the court found for appellees, and the appellant, without moving for a new trial, or specially reserving any question of law, took a bill of exceptions setting out the esúdence and appealed.</p>
+                <p id="b401-9" pgmap="401">The case stands here precisely as it would have done if the issue had been submitted to a jury without instructions given or refused by the court in relation to the law of the case, and there had been a verdict against the appellant, upon the evi­dence, and he had taken a bill of exceptions, setting out the facts proven on the trial, or agreed upon by the parties, and appealed without moving for a new trial. The fact that the court performed the office of a jury, by consent of parties, does not change the attitude of the case here.</p>
+                <p id="b401-10" pgmap="401">If the appellant had moved for a new trial, and it had been refused him, this court would have determined, as a question of law, whether there Was a total want of evidence to sustain the verdict on any material matter in issue.</p>
+                <p id="b401-11" pgmap="401(58) 402(20)">Or it the appellant had asked the court to declare one or more propositions to be the law of the case, as if the court were instructing a jury, and the court had refused, and the appellant had set out in his bill of exceptions the legal propo­sitions, so submitted and refused, this Court would have deter­mined whether the court erred in refusing to declare the law of the case to be expressed in such propositions.</p>
+                <p id="b402-5" pgmap="402">Or if the court, of its own motion, had declared the particu­lar principles of law which would govern its finding and judgment,. and the appellant had excepted, and set out the principles so declared to be the law of the case, this court would have reviewed the questions thus reserved upon the record.</p>
+                <p id="b402-6" pgmap="402">But as the case is now presented to us, we are asked to determine whether the evidence sustains the finding of the court, sitting as a jury, when there was no motion for a new trial; and to adjudicate questions of law submitted in the briefs of the counsel, but not reserved by bill of exceptions at the trial; and upon which the court below may, or may not, have been asked to pronounce its judgment.</p>
+                <p id="b402-7" pgmap="402">The fact that the evidence was agreed upon by the admis­sions of the parties, instead of being introduced through the medium of witnesses, does not affect the principles upon which the rule of practice settled in State Bank vs. Conway rests.</p>
+                <p id="b402-8" pgmap="402">Surely, the rule of practice established in that case is simple, easily understood and followed, and, being settled, the court has no disposition to depart from it.</p>
+                <p id="b402-9" pgmap="402">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="400" ORDERLABEL="398" TYPE="page">
+        <fptr FILEID="tiff_00200_1"/>
+        <fptr FILEID="jp2_00200_1"/>
+        <fptr FILEID="alto_00200_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_400.2" BETYPE="IDREF" FILEID="alto_00200_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_400.3" BETYPE="IDREF" FILEID="alto_00200_1"/>
+              <area BEGIN="BL_400.4" BETYPE="IDREF" FILEID="alto_00200_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_400.7" BETYPE="IDREF" FILEID="alto_00200_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="401" ORDERLABEL="399" TYPE="page">
+        <fptr FILEID="tiff_00201_0"/>
+        <fptr FILEID="jp2_00201_0"/>
+        <fptr FILEID="alto_00201_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_401.2" BETYPE="IDREF" FILEID="alto_00201_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_401.1" BETYPE="IDREF" FILEID="alto_00201_0"/>
+              <area BEGIN="BL_401.3" BETYPE="IDREF" FILEID="alto_00201_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="402" ORDERLABEL="400" TYPE="page">
+        <fptr FILEID="tiff_00201_1"/>
+        <fptr FILEID="jp2_00201_1"/>
+        <fptr FILEID="alto_00201_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_402.2" BETYPE="IDREF" FILEID="alto_00201_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_402.3" BETYPE="IDREF" FILEID="alto_00201_1"/>
+              <area BEGIN="BL_402.4" BETYPE="IDREF" FILEID="alto_00201_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b400-7" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_400.8" BETYPE="IDREF" FILEID="alto_00200_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A5C" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_401.8" BETYPE="IDREF" FILEID="alto_00201_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b401-11" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_401.13" BETYPE="IDREF" FILEID="alto_00201_0"/>
+            <area BEGIN="BL_402.1" BETYPE="IDREF" FILEID="alto_00201_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b401-10" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_401.12" BETYPE="IDREF" FILEID="alto_00201_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b402-8" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_402.8" BETYPE="IDREF" FILEID="alto_00201_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b400-8" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_400.9" BETYPE="IDREF" FILEID="alto_00200_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b400-9" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_400.10" BETYPE="IDREF" FILEID="alto_00200_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b401-3" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_401.4" BETYPE="IDREF" FILEID="alto_00201_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b402-9" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_402.9" BETYPE="IDREF" FILEID="alto_00201_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b400-10" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_400.11" BETYPE="IDREF" FILEID="alto_00200_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b401-6" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_401.7" BETYPE="IDREF" FILEID="alto_00201_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b401-5" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_401.6" BETYPE="IDREF" FILEID="alto_00201_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b401-4" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_401.5" BETYPE="IDREF" FILEID="alto_00201_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b401-7" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_401.9" BETYPE="IDREF" FILEID="alto_00201_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b401-9" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_401.11" BETYPE="IDREF" FILEID="alto_00201_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b401-8" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_401.10" BETYPE="IDREF" FILEID="alto_00201_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b402-5" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_402.5" BETYPE="IDREF" FILEID="alto_00201_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b402-6" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_402.6" BETYPE="IDREF" FILEID="alto_00201_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b402-7" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_402.7" BETYPE="IDREF" FILEID="alto_00201_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

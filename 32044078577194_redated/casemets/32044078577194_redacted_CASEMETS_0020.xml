@@ -1,0 +1,835 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0020" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Kirtley v. Dardanelle Public Schools">Gail KIRTLEY v. DARDANELLE PUBLIC SCHOOLS</name>
+          <docketnumber>85-187</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 86</citation>
+          <citation category="parallel" type="bluebook">702 S.W.2d 25</citation>
+          <decisiondate>1986-01-21</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:00Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00056_1" MIMETYPE="image/tiff" CHECKSUM="6b2103146a86dd1ee96454554d060e30" CHECKSUMTYPE="MD5" SIZE="17998">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00056_1.tif"/>
+      </file>
+      <file ID="tiff_00057_0" MIMETYPE="image/tiff" CHECKSUM="29ce1306d5e5bd05a19692dbfec90eb4" CHECKSUMTYPE="MD5" SIZE="54706">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00057_0.tif"/>
+      </file>
+      <file ID="tiff_00057_1" MIMETYPE="image/tiff" CHECKSUM="2e441d31d29740b1a5fab4d7f8a37db9" CHECKSUMTYPE="MD5" SIZE="48042">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00057_1.tif"/>
+      </file>
+      <file ID="tiff_00058_0" MIMETYPE="image/tiff" CHECKSUM="2a4d470d1b60418a14211479d21fb583" CHECKSUMTYPE="MD5" SIZE="27904">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00058_0.tif"/>
+      </file>
+      <file ID="tiff_00058_1" MIMETYPE="image/tiff" CHECKSUM="5f326f121b8a7bcadbe4d85aa6b79b33" CHECKSUMTYPE="MD5" SIZE="44956">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00058_1.tif"/>
+      </file>
+      <file ID="tiff_00059_0" MIMETYPE="image/tiff" CHECKSUM="4b7bd8b983eb59a434da808cb5a168d8" CHECKSUMTYPE="MD5" SIZE="24534">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00059_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00056_1" MIMETYPE="image/jp2" CHECKSUM="5e2f096359d75675f9700a68dfadd164" CHECKSUMTYPE="MD5" SIZE="1720046">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00056_1.jp2"/>
+      </file>
+      <file ID="jp2_00057_0" MIMETYPE="image/jp2" CHECKSUM="8c3d4fc1a1fc6053e4a2b42d94d65dc8" CHECKSUMTYPE="MD5" SIZE="2594776">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00057_0.jp2"/>
+      </file>
+      <file ID="jp2_00057_1" MIMETYPE="image/jp2" CHECKSUM="9857f81a9305171e0cf0b2bce46bcb05" CHECKSUMTYPE="MD5" SIZE="2445725">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00057_1.jp2"/>
+      </file>
+      <file ID="jp2_00058_0" MIMETYPE="image/jp2" CHECKSUM="9e7bda8470fa014a360529ac2588d4f9" CHECKSUMTYPE="MD5" SIZE="2302577">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00058_0.jp2"/>
+      </file>
+      <file ID="jp2_00058_1" MIMETYPE="image/jp2" CHECKSUM="f80f8237ca957e5f46413e42ebeec029" CHECKSUMTYPE="MD5" SIZE="2404072">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00058_1.jp2"/>
+      </file>
+      <file ID="jp2_00059_0" MIMETYPE="image/jp2" CHECKSUM="9cd878f1a3f14120b820910ae6ebfab5" CHECKSUMTYPE="MD5" SIZE="2263345">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00059_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00056_1" MIMETYPE="text/xml" CHECKSUM="1a11f7e710f233c39993866cf775a746" CHECKSUMTYPE="MD5" SIZE="29115">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00056_1.xml"/>
+      </file>
+      <file ID="alto_00057_0" MIMETYPE="text/xml" CHECKSUM="3cc08d341528c06cccfcd1d515f9103e" CHECKSUMTYPE="MD5" SIZE="88575">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00057_0.xml"/>
+      </file>
+      <file ID="alto_00057_1" MIMETYPE="text/xml" CHECKSUM="b8c5f1502514371cdb4af651785aa184" CHECKSUMTYPE="MD5" SIZE="81567">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00057_1.xml"/>
+      </file>
+      <file ID="alto_00058_0" MIMETYPE="text/xml" CHECKSUM="1daecacf2a695dbc60a30e15a54c05e9" CHECKSUMTYPE="MD5" SIZE="53102">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00058_0.xml"/>
+      </file>
+      <file ID="alto_00058_1" MIMETYPE="text/xml" CHECKSUM="57337ad4964e758af90b4f2b8ef039de" CHECKSUMTYPE="MD5" SIZE="75201">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00058_1.xml"/>
+      </file>
+      <file ID="alto_00059_0" MIMETYPE="text/xml" CHECKSUM="1b591012a0dac1b0202de42159bd05b8" CHECKSUMTYPE="MD5" SIZE="39686">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00059_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0020" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="86" lastpage="91">
+              <court pgmap="112" id="b112-8">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="112" id="b112-7">85-187</docketnumber>
+              <citation pgmap="112" id="Aim">702 S.W.2d 25</citation>
+              <parties pgmap="112" id="b112-6">Gail KIRTLEY v. DARDANELLE PUBLIC SCHOOLS</parties>
+              <decisiondate pgmap="112" id="AxL">Opinion delivered January 21, 1986</decisiondate>
+              <judges pgmap="117" id="b117-8">Purtle, J., not participating.</judges>
+              <attorneys pgmap="112" id="b112-15">Cearley, Mitchell &amp; Roachell, by: Paul J. Ward, for appellant.</attorneys>
+              <attorneys pgmap="113" id="b113-3">G. Ross Smith &amp; Associates, P.A., by: G. Ross Smith and Richard L. Hughes, for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="113" id="b113-4">David Newbern, Justice.</author>
+                <p pgmap="113" id="A1q">The question raised by the appellant is whether the court erred in finding that her dismissal as a teacher did not violate the Teacher Fair Dismissal Act, codified as Ark. Stat. Ann. §§ 80-1266 through 80-1266.11 (Supp. 1985). In particular the appellant argues the trial judge erred in failing to find the appellant’s nonrenewal was arbitrary, capricious or discriminatory. She claims the trial judge did not understand that § 80-1266.9(d) permitted him to go beyond the record compiled in the school board hearing and consider evidence presented in court on review of the school board’s decision. We disagree on both points and affirm the judgment of the trial court in which he refused to overturn the school board’s nonrenewal of the appellant’s teaching contract.</p>
+                <p pgmap="113" id="b113-5">The appellant was a non-probationary special education teacher in the Dardanelle schools. She had taught there for some thirteen years with no unsatisfactory ratings from her superiors. In the school year 1982-1983 Larry May became principal of the school in which the appellant taught. In February, 1983, Mr. May expressed his disapproval of Mrs. Kirtley’s performance, and he began a series of meetings with her which lasted through May, 1984. He also corresponded with her through exchanges of memoranda. He notified Mrs. Kirtley as early as March 25,1984, that her contract would not be renewed.</p>
+                <p pgmap="113" id="b113-6">Mrs. Kirtley challenged the recommendation of Mr. May, which was supported by the school superintendent, by appealing to the appellee school board. The record of the proceedings before the board and before the court contained strong overtones of political reasons for the nonrenewal. Mrs. Kirtley’s husband had at one time been a school employee and had engaged in disputes with the superintendent and had twice run, presumably unsuc­cessfully, for a position on the school board. There was evidence that a board member had spoken of wanting to get “a shot” at Mrs. Kirtley.</p>
+                <p pgmap="113(40) 114(67)" id="b113-7">The testimony and exhibits, in the form of the memoranda between Mr. May and Mrs. Kirtley, also could easily have been interpreted as showing harassment of Mrs. Kirtley. However, Mr. May said specifically to the board that his reason for nonrenewal was that Mrs. Kirtley’s lesson plans failed to imple­ment her individual education plans for her students. At the trial he testified that Mrs. Kirtley’s first problem was lack of organiza­tion which included her inability to plan individually for her special education students. Mrs. Kirtley testified that Mr. May did not give her sufficiently specific instruction on how he wanted her to organize her work.</p>
+                <p pgmap="114" id="b114-4">Other evidence in Mrs. Kirtley’s behalf consisted of former students who praised her ability and Mrs. Kirtley’s former teacher who said she was capable of good planning. A former supervisor in another school system testified Mrs. Kirtley did well and was used as a model for new teachers in the late 1960’s to 1970’s but that he had not reviewed any of her lesson plans prepared to conform to the federal Education for Handicapped Act.</p>
+                <p pgmap="114" id="b114-5">The appellant does not contend that there was a failure on the part of the school board to comply with any procedural requirement of the Teacher Fair Dismissal Act. Nor does she say that the factual determinations of the circuit court were clearly erroneous and thus to be overturned in accordance with Ark. R. Civ. P. 52(a). She does contend that the court erred because he failed to consider the trial testimony. For that proposition she cites the judge’s statements in the following colloquy:</p>
+                <blockquote pgmap="114" id="b114-6">BY THE COURT:</blockquote>
+                <blockquote pgmap="114" id="b114-7">Arkansas Statute 80-1266 point 9 provides for appeal to Circuit Court and as I understand the case law, I’m limited to determining if the decision of the board was based upon substantial evidence. In other words, was it arbitrary, capricious or discriminatory. Section D provides additional testimony may be taken in the Circuit Court Appeal to show facts and circumstances showing that determination or non-renewal was lawful or unlawful. So as I understand it, the testimony we are to hear today would go to whether or not the non-renewal was lawful or unlawful. Now, is that what you are intending to show with this?</blockquote>
+                <blockquote pgmap="114" id="b114-8">MR. WARD: [Attorney for the appellant]</blockquote>
+                <blockquote pgmap="114" id="b114-9">Yes, Your Honor.</blockquote>
+                <blockquote pgmap="115" id="b115-3">BY THE COURT:</blockquote>
+                <blockquote pgmap="115" id="b115-4">It is my understanding that you have already stipu­lated that all procedures were correctly followed.</blockquote>
+                <blockquote pgmap="115" id="b115-5">MR. WARD:</blockquote>
+                <blockquote pgmap="115" id="b115-6">The procedures regarding the hearing?</blockquote>
+                <blockquote pgmap="115" id="b115-7">BY THE COURT:</blockquote>
+                <blockquote pgmap="115" id="b115-8">Yes.</blockquote>
+                <blockquote pgmap="115" id="b115-9">MR. WARD:</blockquote>
+                <blockquote pgmap="115" id="b115-10">That is correct.</blockquote>
+                <blockquote pgmap="115" id="b115-11">BY THE COURT:</blockquote>
+                <blockquote pgmap="115" id="b115-12">And it looks to me like you may have already stipulated to what I have to decide on appeal — that it was lawful or unlawful.</blockquote>
+                <blockquote pgmap="115" id="b115-13">MR. WARD:</blockquote>
+                <blockquote pgmap="115" id="b115-14">We did not stipulate to the District’s compliance with 1266 point 6, and then also the specific provisions of arbitrary and capricious, which is the—</blockquote>
+                <blockquote pgmap="115" id="b115-15">BY THE COURT:</blockquote>
+                <blockquote pgmap="115" id="b115-16">Well, I have to base my decision on arbitrary or capriciousness on the basis of the record as already made.</blockquote>
+                <blockquote pgmap="115" id="b115-17">MR. WARD:</blockquote>
+                <blockquote pgmap="115" id="b115-18">Y our Honor, that is part of the record. I think this trial today is also part of the record and-the Court is entitled to look at both when it determines whether substantial evidence exists or whether the non-renewal was arbitrary and capricious.</blockquote>
+                <blockquote pgmap="115" id="b115-19">BY THE COURT:</blockquote>
+                <blockquote pgmap="115" id="b115-20">The statute says — uses the word, “lawful” or “unlaw­ful.” I am going to permit you to make a complete record on it. I just wanted to make that statement to give you some idea as to what I think it means.</blockquote>
+                <blockquote pgmap="115" id="b115-21">MR. WARD:</blockquote>
+                <blockquote pgmap="116" id="b116-3">Yes, Your Honor.</blockquote>
+                <blockquote pgmap="116" id="b116-4">BY THE COURT:</blockquote>
+                <blockquote pgmap="116" id="b116-5">I think they are talking about whether or not the school board followed correct procedures in arriving at their determination. I don’t think they meant for me to substitute my decision for that of the board. Go ahead.</blockquote>
+                <blockquote pgmap="116" id="b116-6">MR WARD:</blockquote>
+                <blockquote pgmap="116" id="b116-7">Yes, Your Honor.</blockquote>
+                <p pgmap="116" id="b116-8">
+                   If we considered these remarks by themselves, we might agree that the court misperceived the law and his responsibility to make a determination beyond whether the procedural require­ments of the Act were satisfied. When we combine the statements with the recitations of the court’s order, however, it becomes clear the court made a determination based upon “the record,” not necessarily excluding the trial record, and that there was suffi­cient evidence of a rational basis for Mrs. Kirtley’s nonrenewal. His order included a factual finding that Mr. May had told Mrs. Kirtley specifically the deficiencies in her performance. It also stated as a legal conclusion that there was substantial evidence to support the decision and that it had a rational basis. The order also contained the following:</p>
+                <blockquote pgmap="116" id="b116-9">A hearing was held by the Court on March 18, 1985 pursuant to § 80-1266.9(d) and additional testimony was taken.</blockquote>
+                <blockquote pgmap="116" id="b116-10">I must determine if the nonrenewal was arbitrary or capricious and if the Board complied with § 80-1266.6.</blockquote>
+                <blockquote pgmap="116" id="b116-11">An action is arbitrary or capricious only if it is not supportable on any rational basis. Lamar School District No. 39 v. Kinder, 278 Ark. 1, 642 S.W.2d 885 (1982).</blockquote>
+                <p pgmap="116" id="b116-12">It is thus apparent the judge went beyond finding the procedure was correct.</p>
+                <p pgmap="116(51) 117(16)" id="b116-13">
+                   While we are troubled that the testimony of Larry May was mostly conclusory with respect to Mrs. Kirtley’s lack of organizational ability, the burden at the trial was on the appellant to show the board’s action was arbitrary, capricious or discrimi­natory. The bases of Mr. May’s conclusions were not sufficiently explored before the court to show that the board improperly relied on the conclusions he stated.</p>
+                <p pgmap="117" id="b117-6">
+                   The appellant has argued that, as a general proposition, the changes in the Teacher Fair Dismissal Act which appear in the 1983 version were favorable to the teachers and that we therefore should depart from our previous interpretations. We have not, however, been cited to any language making a substan­tive change which would alter our decision in Lamar School District No. 39 v. Kinder, cited in the trial court’s order above, to the effect that if there is any rational basis the court need not find the board’s decision to have been arbitrary, capricious, or discriminatory. See also, Lee v. Big Flat Public Schools, 280 Ark. 377, 658 S.W.2d 389 (1983).</p>
+                <p pgmap="117" id="b117-7">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="112" ORDERLABEL="86" TYPE="page">
+        <fptr FILEID="tiff_00056_1"/>
+        <fptr FILEID="jp2_00056_1"/>
+        <fptr FILEID="alto_00056_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_112.2" BETYPE="IDREF" FILEID="alto_00056_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="113" ORDERLABEL="87" TYPE="page">
+        <fptr FILEID="tiff_00057_0"/>
+        <fptr FILEID="jp2_00057_0"/>
+        <fptr FILEID="alto_00057_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_113.2" BETYPE="IDREF" FILEID="alto_00057_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="114" ORDERLABEL="88" TYPE="page">
+        <fptr FILEID="tiff_00057_1"/>
+        <fptr FILEID="jp2_00057_1"/>
+        <fptr FILEID="alto_00057_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_114.2" BETYPE="IDREF" FILEID="alto_00057_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="115" ORDERLABEL="89" TYPE="page">
+        <fptr FILEID="tiff_00058_0"/>
+        <fptr FILEID="jp2_00058_0"/>
+        <fptr FILEID="alto_00058_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_115.2" BETYPE="IDREF" FILEID="alto_00058_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="116" ORDERLABEL="90" TYPE="page">
+        <fptr FILEID="tiff_00058_1"/>
+        <fptr FILEID="jp2_00058_1"/>
+        <fptr FILEID="alto_00058_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_116.1" BETYPE="IDREF" FILEID="alto_00058_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="117" ORDERLABEL="91" TYPE="page">
+        <fptr FILEID="tiff_00059_0"/>
+        <fptr FILEID="jp2_00059_0"/>
+        <fptr FILEID="alto_00059_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_117.3" BETYPE="IDREF" FILEID="alto_00059_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b117-6" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_117.4" BETYPE="IDREF" FILEID="alto_00059_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aim" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_112.9" BETYPE="IDREF" FILEID="alto_00056_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b113-3" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_113.3" BETYPE="IDREF" FILEID="alto_00057_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b113-7" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_113.9" BETYPE="IDREF" FILEID="alto_00057_0"/>
+            <area BEGIN="BL_114.1" BETYPE="IDREF" FILEID="alto_00057_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b113-6" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_113.8" BETYPE="IDREF" FILEID="alto_00057_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b113-5" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_113.7" BETYPE="IDREF" FILEID="alto_00057_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b113-4" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_113.4" BETYPE="IDREF" FILEID="alto_00057_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b112-6" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_112.7" BETYPE="IDREF" FILEID="alto_00056_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b112-7" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_112.8" BETYPE="IDREF" FILEID="alto_00056_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b112-8" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_112.10" BETYPE="IDREF" FILEID="alto_00056_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b115-20" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_115.20" BETYPE="IDREF" FILEID="alto_00058_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b115-21" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_115.21" BETYPE="IDREF" FILEID="alto_00058_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b117-7" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_117.5" BETYPE="IDREF" FILEID="alto_00059_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b112-15" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_112.18" BETYPE="IDREF" FILEID="alto_00056_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b117-8" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_117.6" BETYPE="IDREF" FILEID="alto_00059_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b114-4" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_114.4" BETYPE="IDREF" FILEID="alto_00057_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b114-5" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_114.5" BETYPE="IDREF" FILEID="alto_00057_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b114-6" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_114.6" BETYPE="IDREF" FILEID="alto_00057_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b114-7" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_114.7" BETYPE="IDREF" FILEID="alto_00057_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AxL" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_112.11" BETYPE="IDREF" FILEID="alto_00056_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b116-3" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_116.3" BETYPE="IDREF" FILEID="alto_00058_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b116-10" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_116.10" BETYPE="IDREF" FILEID="alto_00058_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b116-11" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_116.11" BETYPE="IDREF" FILEID="alto_00058_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b116-12" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_116.12" BETYPE="IDREF" FILEID="alto_00058_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b116-13" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_116.13" BETYPE="IDREF" FILEID="alto_00058_1"/>
+            <area BEGIN="BL_117.1" BETYPE="IDREF" FILEID="alto_00059_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b114-8" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_114.8" BETYPE="IDREF" FILEID="alto_00057_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b114-9" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_114.9" BETYPE="IDREF" FILEID="alto_00057_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b115-3" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_115.3" BETYPE="IDREF" FILEID="alto_00058_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b116-9" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_116.9" BETYPE="IDREF" FILEID="alto_00058_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b115-5" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_115.5" BETYPE="IDREF" FILEID="alto_00058_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b115-4" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_115.4" BETYPE="IDREF" FILEID="alto_00058_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b115-7" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_115.7" BETYPE="IDREF" FILEID="alto_00058_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b115-6" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_115.6" BETYPE="IDREF" FILEID="alto_00058_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b115-9" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_115.9" BETYPE="IDREF" FILEID="alto_00058_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b115-8" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_115.8" BETYPE="IDREF" FILEID="alto_00058_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b116-6" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_116.6" BETYPE="IDREF" FILEID="alto_00058_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b116-7" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_116.7" BETYPE="IDREF" FILEID="alto_00058_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b116-4" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_116.4" BETYPE="IDREF" FILEID="alto_00058_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b116-5" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_116.5" BETYPE="IDREF" FILEID="alto_00058_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b115-19" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_115.19" BETYPE="IDREF" FILEID="alto_00058_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b115-18" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_115.18" BETYPE="IDREF" FILEID="alto_00058_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b115-11" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_115.11" BETYPE="IDREF" FILEID="alto_00058_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b115-10" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_115.10" BETYPE="IDREF" FILEID="alto_00058_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b115-13" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_115.13" BETYPE="IDREF" FILEID="alto_00058_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b115-12" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_115.12" BETYPE="IDREF" FILEID="alto_00058_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b115-15" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_115.15" BETYPE="IDREF" FILEID="alto_00058_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b115-14" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_115.14" BETYPE="IDREF" FILEID="alto_00058_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b115-17" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_115.17" BETYPE="IDREF" FILEID="alto_00058_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b115-16" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_115.16" BETYPE="IDREF" FILEID="alto_00058_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A1q" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_113.5" BETYPE="IDREF" FILEID="alto_00057_0"/>
+            <area BEGIN="BL_113.6" BETYPE="IDREF" FILEID="alto_00057_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b116-8" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_116.8" BETYPE="IDREF" FILEID="alto_00058_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

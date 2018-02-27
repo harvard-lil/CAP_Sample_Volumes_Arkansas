@@ -1,0 +1,406 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0064" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Haywood v. State">Leonard HAYWOOD v. STATE of Arkansas</name>
+          <docketnumber>CR 85-130</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 266</citation>
+          <citation category="parallel" type="bluebook">704 S.W.2d 168</citation>
+          <decisiondate>1986-02-24</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:00Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00147_1" MIMETYPE="image/tiff" CHECKSUM="3cf3d9b89b461b574ffef2883d51e526" CHECKSUMTYPE="MD5" SIZE="26320">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00147_1.tif"/>
+      </file>
+      <file ID="tiff_00148_0" MIMETYPE="image/tiff" CHECKSUM="ebdb5ecf3d0aa9ba323a2ec7dda5491f" CHECKSUMTYPE="MD5" SIZE="42640">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00148_0.tif"/>
+      </file>
+      <file ID="tiff_00148_1" MIMETYPE="image/tiff" CHECKSUM="447c6bf7da8c5dc703a8641f98d31b86" CHECKSUMTYPE="MD5" SIZE="55262">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00148_1.tif"/>
+      </file>
+      <file ID="tiff_00149_0" MIMETYPE="image/tiff" CHECKSUM="54333b164407dbe0b2ffb42a5d174100" CHECKSUMTYPE="MD5" SIZE="8328">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00149_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00147_1" MIMETYPE="image/jp2" CHECKSUM="8cd24d00b0a16accf1c51b9b785107c3" CHECKSUMTYPE="MD5" SIZE="1892362">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00147_1.jp2"/>
+      </file>
+      <file ID="jp2_00148_0" MIMETYPE="image/jp2" CHECKSUM="4791c730ac20a6efbdd34af8814cef3e" CHECKSUMTYPE="MD5" SIZE="2294436">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00148_0.jp2"/>
+      </file>
+      <file ID="jp2_00148_1" MIMETYPE="image/jp2" CHECKSUM="35fd439bec6f0aa1dd68e4ccf78db9e9" CHECKSUMTYPE="MD5" SIZE="2568806">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00148_1.jp2"/>
+      </file>
+      <file ID="jp2_00149_0" MIMETYPE="image/jp2" CHECKSUM="5128642dd6dd2bbb7c6b2cea9f8f6d55" CHECKSUMTYPE="MD5" SIZE="1387534">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00149_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00147_1" MIMETYPE="text/xml" CHECKSUM="96e657747e492451ccbf805139c4d66b" CHECKSUMTYPE="MD5" SIZE="42069">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00147_1.xml"/>
+      </file>
+      <file ID="alto_00148_0" MIMETYPE="text/xml" CHECKSUM="2fc3c9d8b0d918b6007fab6df4327098" CHECKSUMTYPE="MD5" SIZE="72324">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00148_0.xml"/>
+      </file>
+      <file ID="alto_00148_1" MIMETYPE="text/xml" CHECKSUM="443764e981948c6809e8ff22c9d9e3e8" CHECKSUMTYPE="MD5" SIZE="89459">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00148_1.xml"/>
+      </file>
+      <file ID="alto_00149_0" MIMETYPE="text/xml" CHECKSUM="2bbe256a92351d3c494d3b70a72ebd10" CHECKSUMTYPE="MD5" SIZE="11348">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00149_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0064" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="266" lastpage="269">
+              <court pgmap="294" id="b294-8">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="294" id="b294-7">CR 85-130</docketnumber>
+              <citation pgmap="294" id="A4q5">704 S.W.2d 168</citation>
+              <parties pgmap="294" id="b294-6">Leonard HAYWOOD v. STATE of Arkansas</parties>
+              <decisiondate pgmap="294" id="Ap1">Opinion delivered February 24, 1986</decisiondate>
+              <judges pgmap="297" id="b297-5">Purtle, J., not participating.</judges>
+              <attorneys pgmap="295" id="b295-8">Leslie R. Ablondi, for appellant.</attorneys>
+              <attorneys pgmap="295" id="b295-9">Steve Clark, Att’y Gen., by: Joel O. Huggins, Asst. Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="295" id="b295-10">Robert H. Dudley, Justice.</author>
+                <p pgmap="295" id="Aif">Appellant was charged in 1980 with first degree murder and with being an habitual offender, having at least four prior felony convictions. He entered into plea negotiations which culminated in his pleading guilty to second degree murder and being sentenced as an habitual offender to twenty years imprisonment, the minimum sentence for an habitual offender with four prior convictions. At the time appellant entered his plea he stated that he had been found guilty on four occasions.</p>
+                <p pgmap="295" id="b295-11">In 1984 appellant filed a petition in circuit court for a writ of mandamus seeking to vacate the plea. The court treated it as a petition under our post-conviction Rule 37. Petitioner contended that his attorney did not advise him that he was to be sentenced as an habitual offender and misinformed him as to his parole eligibility date. After a hearing at which both counsel and appellant testified, the trial court denied the petition. We affirm.</p>
+                <p pgmap="295" id="b295-12">Appellant’s petition is based solely on the contention that counsel did not accurately explain to him when he would be eligible for parole. He does not contend that the trial court failed to comply with the requirements of A.R.Cr.P. Rule 24 which sets out the standards governing the court’s receipt of a guilty plea. Nor does he contend that he was in fact not guilty. The public defender who represented him during the plea negotiations testified that he explained the effect of being sentenced as an habitual offender, but that he did not make it a practice to advise defendants about parole eligibility.</p>
+                <p pgmap="295(19) 296(169)" id="b295-13">
+                   The two-part test for challenging the effectiveness of counsel is set out in Strickland v. Washington, 466 U.S. 668 (1984). The United States Supreme Court has held that the test applies to challenges to guilty pleas. Hill v. Lockhart, - U.S. -, 106 S. Ct. 366 (1985). The first part of the test requires the petitioner to show that the counsel’s representation was not within the range of competence demanded of attorneys in criminal cases. Hill v. Lockhart, supra; McMann v. Richardson, 397 U.S. 759 (1970). A defendant who pleads guilty upon the advice of counsel may not collaterally attack the voluntary and intelligent character of the guilty plea merely by demonstrating that some advice received from counsel was erroneous; rather, the question is whether counsel’s advice was competent, taking into account the inherent uncertainty in advising a client about pleading guilty. The United States Constitution does not require the state to furnish the defendant with information about parole eligibility in order for the defendant’s plea of guilty to be voluntary, and erroneous advice on parole eligibility does not automatically render a plea involuntary. Hill v. Lockhart, supra.</p>
+                <p pgmap="296" id="b296-9">
+                   The second part of the Strickland test which the petitioner must satisfy is to show such prejudice resulting from counsel’s errors that there is a “reasonable probability that, but for counsel’s errors, he would not have pleaded guilty and would have insisted on going to trial.” Hill v. Lockhart, - U.S -, 106 S. Ct. at 370 (1985).</p>
+                <p pgmap="296" id="b296-12">Appellant did not satisfy the Strickland test. First, appel­lant’s counsel testified that he did not make it a practice to advise defendants about parole eligibility. As stated previously, there is no constitutional requirement for him to do so. Therefore, his action, or inaction, in that regard, did not fall outside the range of competence demanded of attorneys in criminal cases. Since the first part of the Strickland test was not met, it is not necessary to reach the second part. We conclude, however, that even if appellant had been able to satisfy the first part of the Strickland test, his allegations are not sufficient to satisfy the “prejudice” requirement of Strickland. See Strickland, supra. Appellant did not allege that he would have insisted on going to trial. Instead, his testimony was that there was “no telling” whether he would have pleaded guilty had he been informed about parole eligibility for habitual offenders.</p>
+                <p pgmap="296" id="b296-13">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="294" ORDERLABEL="266" TYPE="page">
+        <fptr FILEID="tiff_00147_1"/>
+        <fptr FILEID="jp2_00147_1"/>
+        <fptr FILEID="alto_00147_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_294.1" BETYPE="IDREF" FILEID="alto_00147_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="295" ORDERLABEL="267" TYPE="page">
+        <fptr FILEID="tiff_00148_0"/>
+        <fptr FILEID="jp2_00148_0"/>
+        <fptr FILEID="alto_00148_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_295.3" BETYPE="IDREF" FILEID="alto_00148_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="296" ORDERLABEL="268" TYPE="page">
+        <fptr FILEID="tiff_00148_1"/>
+        <fptr FILEID="jp2_00148_1"/>
+        <fptr FILEID="alto_00148_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_296.2" BETYPE="IDREF" FILEID="alto_00148_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="297" ORDERLABEL="269" TYPE="page">
+        <fptr FILEID="tiff_00149_0"/>
+        <fptr FILEID="jp2_00149_0"/>
+        <fptr FILEID="alto_00149_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_297.2" BETYPE="IDREF" FILEID="alto_00149_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b297-5" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_297.3" BETYPE="IDREF" FILEID="alto_00149_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b296-12" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_296.5" BETYPE="IDREF" FILEID="alto_00148_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A4q5" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_294.9" BETYPE="IDREF" FILEID="alto_00147_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b296-13" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_296.6" BETYPE="IDREF" FILEID="alto_00148_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b295-10" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_295.9" BETYPE="IDREF" FILEID="alto_00148_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b295-12" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_295.13" BETYPE="IDREF" FILEID="alto_00148_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b295-13" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_295.14" BETYPE="IDREF" FILEID="alto_00148_0"/>
+            <area BEGIN="BL_296.1" BETYPE="IDREF" FILEID="alto_00148_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aif" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_295.10" BETYPE="IDREF" FILEID="alto_00148_0"/>
+            <area BEGIN="BL_295.11" BETYPE="IDREF" FILEID="alto_00148_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b295-11" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_295.12" BETYPE="IDREF" FILEID="alto_00148_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ap1" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_294.11" BETYPE="IDREF" FILEID="alto_00147_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b296-9" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_296.4" BETYPE="IDREF" FILEID="alto_00148_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b295-8" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_295.7" BETYPE="IDREF" FILEID="alto_00148_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b295-9" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_295.8" BETYPE="IDREF" FILEID="alto_00148_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b294-8" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_294.10" BETYPE="IDREF" FILEID="alto_00147_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b294-7" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_294.8" BETYPE="IDREF" FILEID="alto_00147_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b294-6" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_294.7" BETYPE="IDREF" FILEID="alto_00147_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

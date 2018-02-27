@@ -1,0 +1,647 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0095" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="McGuire v. State">Randy McGUIRE v. STATE of Arkansas</name>
+          <docketnumber>CR 85-207</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 388</citation>
+          <citation category="parallel" type="bluebook">706 S.W.2d 360</citation>
+          <decisiondate>1986-03-24</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:00Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00211_1" MIMETYPE="image/tiff" CHECKSUM="d0bec4b1601f9ee6e204b2a95362d040" CHECKSUMTYPE="MD5" SIZE="8706">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00211_1.tif"/>
+      </file>
+      <file ID="tiff_00212_0" MIMETYPE="image/tiff" CHECKSUM="669d376546d22b9206da1e28ffeae40a" CHECKSUMTYPE="MD5" SIZE="3736">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00212_0.tif"/>
+      </file>
+      <file ID="tiff_00212_1" MIMETYPE="image/tiff" CHECKSUM="4aaeeb265e46bb62704af2bed2fd1447" CHECKSUMTYPE="MD5" SIZE="22696">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00212_1.tif"/>
+      </file>
+      <file ID="tiff_00213_0" MIMETYPE="image/tiff" CHECKSUM="b7e6892bc8b2682e64eaf1cac6d5a53c" CHECKSUMTYPE="MD5" SIZE="52918">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00213_0.tif"/>
+      </file>
+      <file ID="tiff_00213_1" MIMETYPE="image/tiff" CHECKSUM="f255843fa45ff45c71b8f590e6ee82e3" CHECKSUMTYPE="MD5" SIZE="56272">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00213_1.tif"/>
+      </file>
+      <file ID="tiff_00214_0" MIMETYPE="image/tiff" CHECKSUM="b37914415223c01e8f203529db05b484" CHECKSUMTYPE="MD5" SIZE="56974">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00214_0.tif"/>
+      </file>
+      <file ID="tiff_00214_1" MIMETYPE="image/tiff" CHECKSUM="d1fd757b1e7b18436e13df33e2a3daf6" CHECKSUMTYPE="MD5" SIZE="56654">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00214_1.tif"/>
+      </file>
+      <file ID="tiff_00215_0" MIMETYPE="image/tiff" CHECKSUM="cf12fe996615b8625bf79d163d3696d7" CHECKSUMTYPE="MD5" SIZE="18146">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00215_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00211_1" MIMETYPE="image/jp2" CHECKSUM="e8f546c02d0957171af3b819ac634198" CHECKSUMTYPE="MD5" SIZE="1319039">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00211_1.jp2"/>
+      </file>
+      <file ID="jp2_00212_0" MIMETYPE="image/jp2" CHECKSUM="a4309dc35d0bb13bbb0ddf03144daceb" CHECKSUMTYPE="MD5" SIZE="1006234">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00212_0.jp2"/>
+      </file>
+      <file ID="jp2_00212_1" MIMETYPE="image/jp2" CHECKSUM="5ec8b01fe91000525c2d57c54e0ca6a7" CHECKSUMTYPE="MD5" SIZE="1616653">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00212_1.jp2"/>
+      </file>
+      <file ID="jp2_00213_0" MIMETYPE="image/jp2" CHECKSUM="28a66a86bc5b8e9711856394d7e6bef6" CHECKSUMTYPE="MD5" SIZE="2525994">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00213_0.jp2"/>
+      </file>
+      <file ID="jp2_00213_1" MIMETYPE="image/jp2" CHECKSUM="8ccc4267c98fbd20dae80ee430609cfa" CHECKSUMTYPE="MD5" SIZE="2563236">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00213_1.jp2"/>
+      </file>
+      <file ID="jp2_00214_0" MIMETYPE="image/jp2" CHECKSUM="3d48b215081400c0460c5d2b5221e70b" CHECKSUMTYPE="MD5" SIZE="2587811">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00214_0.jp2"/>
+      </file>
+      <file ID="jp2_00214_1" MIMETYPE="image/jp2" CHECKSUM="cc31d6992cdce5c182abf94a7302987b" CHECKSUMTYPE="MD5" SIZE="2552391">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00214_1.jp2"/>
+      </file>
+      <file ID="jp2_00215_0" MIMETYPE="image/jp2" CHECKSUM="924eb9c45a1dcc23eeb96f7fa3d8f6c4" CHECKSUMTYPE="MD5" SIZE="1676317">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00215_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00211_1" MIMETYPE="text/xml" CHECKSUM="d5437d651c6735c71fa8dc48577a83e9" CHECKSUMTYPE="MD5" SIZE="11135">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00211_1.xml"/>
+      </file>
+      <file ID="alto_00212_0" MIMETYPE="text/xml" CHECKSUM="a7fc8ad6d48828e8bbb44e0acbf16d09" CHECKSUMTYPE="MD5" SIZE="1687">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00212_0.xml"/>
+      </file>
+      <file ID="alto_00212_1" MIMETYPE="text/xml" CHECKSUM="e83ad5f51ac88696f840a0806b7c2bb2" CHECKSUMTYPE="MD5" SIZE="38032">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00212_1.xml"/>
+      </file>
+      <file ID="alto_00213_0" MIMETYPE="text/xml" CHECKSUM="539d05d8b7a0bd0d955b958c4d0ec35e" CHECKSUMTYPE="MD5" SIZE="85911">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00213_0.xml"/>
+      </file>
+      <file ID="alto_00213_1" MIMETYPE="text/xml" CHECKSUM="92ee5ce1c472b1b84b5dcfb9bb174dc6" CHECKSUMTYPE="MD5" SIZE="86526">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00213_1.xml"/>
+      </file>
+      <file ID="alto_00214_0" MIMETYPE="text/xml" CHECKSUM="fff93418b7ea0b4156ffad3ae44bfc73" CHECKSUMTYPE="MD5" SIZE="89114">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00214_0.xml"/>
+      </file>
+      <file ID="alto_00214_1" MIMETYPE="text/xml" CHECKSUM="323f894ca9aeb828fc64744e91010890" CHECKSUMTYPE="MD5" SIZE="89346">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00214_1.xml"/>
+      </file>
+      <file ID="alto_00215_0" MIMETYPE="text/xml" CHECKSUM="f07cdb9fe7fee6bc4ace7fd3c980d115" CHECKSUMTYPE="MD5" SIZE="24952">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00215_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0095" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="388" lastpage="395">
+              <court pgmap="422" id="b422-7">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="422" id="AR9">CR 85-207</docketnumber>
+              <citation pgmap="422" id="AnKV">706 S.W.2d 360</citation>
+              <parties pgmap="422" id="b422-6">Randy McGUIRE v. STATE of Arkansas</parties>
+              <decisiondate pgmap="422" id="AsHm">Opinion delivered March 24, 1986</decisiondate>
+              <otherdate pgmap="422" id="A_l">[Rehearing denied April 28, 1986.<footnotemark>*</footnotemark>]</otherdate>
+              <judges pgmap="429" id="b429-8">Purtle, J., not participating.</judges>
+              <attorneys pgmap="424" id="b424-12">John W. Settle, by: J. Fred Hart, Jr., for appellant.</attorneys>
+              <attorneys pgmap="424" id="b424-13">Steve Clark, Att’y Gen., by: Charles R. Lucas, for appellee.</attorneys>
+              <footnote label="*">
+                <p pgmap="422" id="b422-17">* Purtle, J., not participating.</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="424" id="b424-14">Darrell Hickman, Justice.</author>
+                <p pgmap="424" id="AEH">The question on appeal is whether it is unconstitutional for the state to use a videotaped deposition of a child who has been raped and play it for the jury rather than call the child as a witness at trial. Our statute permitting such videotaped depositions is constitutional, and the use of the videotaped deposition in this case was proper.</p>
+                <p pgmap="424(68) 425(27)" id="b424-15">Randy McGuire is the step-father of the victim, an 11 year old girl. While she lived with her mother and McGuire, she was raped. She then moved in with her grandparents. After seeing a film at school on sexual abuse, the child told a classmate about the sexual abuse she had experienced. The classmate told her mother, who called the school’s principal, who in turn called the police. Fran Hall, a police specialist in these matters, interviewed the child. On the basis of that interview, McGuire was arrested, convicted and sentenced to 10 years imprisonment.</p>
+                <p pgmap="425" id="b425-6">Before trial the state filed a motion requesting the use of a videotaped deposition of the child in lieu of her testimony before the jury. In his response, McGuire raised several constitutional issues. At the hearing on the motion, the victim’s grandparents testified that the child is under a psychologist’s care; she is bashful and embarrassed about the incidents; she no longer wants to go anywhere; she is easily upset; and she has changed schools. The grandparents believed it would be best to use the videotaped deposition, because the child would feel ridiculed if she appeared before the jury. The trial judge granted the motion, and the deposition was taken.</p>
+                <p pgmap="425" id="b425-7">
+                   Our statute which authorizes the use of videotaped depositions in cases of sexual offenses against children is Ark. Stat. Ann. § 43-2036 (Supp. 1985). It states:</p>
+                <blockquote pgmap="425" id="b425-8">In any prosecution for a sexual offense or criminal attempt to commit a sexual offense against a minor, upon motion of the prosecuting attorney and after notice to the opposing counsel, the court may, for a good cause shown, order the taking of a videotaped deposition of any alleged victim under the age of seventeen (17) years. The video­taped deposition shall be taken before the judge in cham­bers in the presence of the prosecuting attorney, the defendant and his attorneys. Examination and cross exam­ination of the alleged victim shall proceed at the taking of the videotaped deposition in the same manner permitted at trial under the provisions of the Arkansas Uniform Rules of Evidence. Any videotaped deposition taken under the provisions of this Act [§§ 43-2035 - 43-2037] shall be admissible at trial and received into evidence in lieu of the direct testimony of the victim. However, neither the presentation nor the preparation of such videotaped depo­sition shall preclude the prosecutor’s calling the minor victim to testify at trial if that is necessary to serve the interests of justice.</blockquote>
+                <p pgmap="425" id="b425-9">The six constitutional arguments raised by McGuire on appeal are without merit for the reasons stated.</p>
+                <p pgmap="426" id="b426-5">
+                   1. THE STATUTE VIOLATES SUBSTANTIVE DUE PROCESS BECAUSE THE AGE OF 17 IS ARBI­TRARY AND THE STATUTE DISCRIMINATES AGAINST DEFENDANTS CHARGED WITH SEXUAL OFFENSES. A statute protects a person’s right to substantive due process if it advances a compelling state interest and it is the least restrictive method available to carry out this interest. Thompson v. Arkansas Social Services, 282 Ark. 369, 669 S.W.2d 878 (1984). The state has an interest in the general welfare of children, and one of its most obvious duties is to protect children from sexual crimes against which children are virtually defenseless. Other states have recognized the harm a child suffers as a victim of sexual abuse and protect the child from further trauma by allowing the child to testify out of court. State v. Vigil, 711 P.2d 28 (N.M. App. 1985); State v. Sheppard, 197 N.J.­Super. 411, 484 A.2d 1330 (1984); see also Ordway, Parent-­Child Incest: Proof at Trial without Testimony in Court by the Victim, 15 U. of Mich. Journal of Law Reform ! 31 (1981-1982).</p>
+                <p pgmap="426" id="b426-6">
+                   The legislature has consistently protected children victimized by sexual offenses. See Ark. Stat. Ann. §§ 41-1803, 1804, 1806-1808, 1810. The challenged statute, Ark. Stat. Ann. § 43-2036 (Supp. 1985), applies to victims of sexual offenses under age 17. The victim in this case, 11 years old, easily fits into the category of a minor who should be protected by law. The appellant has not demonstrated that the age limit is arbitrary in this case.</p>
+                <p pgmap="426" id="b426-7">
+                   This statute provides the least restrictive means of carrying out the state’s interest in protecting children who are victims of sexual abuse. The statute protects the children from testifying in court about a personal, traumatic, and often devas­tating experience. The statute protects the defendant’s basic constitutional rights by requiring, after good cause is shown, that the videotaped deposition be taken before the judge, the prosecut­ing attorney, the defendant and his attorney, and that examina­tion and cross-examination be permitted in accordance with the Uniform Rules of Evidence.</p>
+                <p pgmap="426(27) 427(20)" id="b426-8">
+                   The statute does not discriminate against defendants charged with sexual offenses; it only applies to sexual offenses against children. The statute affords due process, because it only applies to situations where the state has a compelling interest and uses the least restrictive means of protecting that interest.</p>
+                <p pgmap="427" id="b427-6">
+                   2. THE STATUTE DENIED McGUIRE A RIGHT TO A TRIAL BY JURY. McGuire argues that the use of the deposition deprives the jury of the right to judge the victim’s credibility. Although generally it may be the better practice for a witness to testify at trial, in many cases a videotape is the best substitute. King v. Westlake, 264 Ark. 555, 572 S.W.2d 841 (1978). The use of depositions in criminal cases is more carefully scrutinized than in civil cases, but such use is not per se unconstitutional. Videotaped depositions are permissible only when authorized by statute. Russell v. State, 269 Ark. 44, 598 S.W.2d 96 (1980). Ark. Stat. Ann. § 43-2036 authorizes the use of videotaped depositions in cases of sexual offenses against children, undoubtedly in recognition of the further stress testi­mony at trial might cause the child. In this situation, videotaped testimony is useful and does not deprive the jury of the opportu­nity of determining the victim’s credibility.</p>
+                <p pgmap="427" id="b427-7">
+                   3. THE STATUTE DENIED McGUIRE THE RIGHT TO CONFRONT HIS ACCUSER OR WITNESSES AGAINST HIM. Our statute does not violate the confrontation clause which is generally interpreted as the right to cross-examine a witness. Ohio v. Roberts, 448 U.S. 56 (1980); Douglas v. Alabama, 380 U.S. 415 (1965). Some states have had problems with statutes or situations where the defendant was not present at the deposition for a face-to-face confrontation. Long v. State, 694 S.W.2d 185 (Tex. App. 5 Dist. 1985); Powell v. State, 694 S.W.2d 416 (Tex. App. 5 Dist. 1985); United States v. Benfield, 593 F.2d 815 (8th Cir. 1979). Our statute requires face-to-face confrontation between the victim, the defendant and his attorney at the time the deposition is taken, and provides the opportunity for cross-examination of the victim by the defendant. The trial court followed the requirements exactly. The deposition was taken before the judge in chambers in the presence of the defendant, his attorney and the prosecuting attorney. McGuire had the opportunity to cross-examine the victim at that time.</p>
+                <p pgmap="427(22) 428(189)" id="b427-8">
+                   4. THE STATUTE IS VAGUE BECAUSE A COURT CAN ORDER A VIDEOTAPED DEPOSITION “FOR A GOOD CAUSE SHOWN.” To avoid being vague under due process standards, a statute “must give a person of ordinary intelligence fair notice that his contemplated conduct is forbidden and it must not be so vague and standardless that it leaves judges free to decide, without any legally fixed standards, what is prohibited and what is not on a case by case basis.” Thompson v. Arkansas Social Services, supra; Davis v. Smith, 266 Ark. 112, 583 S.W.2d 37 (1979). This is not a penal but a procedural statute. See Papachristou v. City of Jacksonville, 405 U.S. 156 (1972); State v. Bryant, 219 Ark. 313, 241 S.W.2d 473 (1951). Flexibility and reasonable breadth in a statute are permissible, rather than meticulous specificity or great exacti­tude, so long as its reach is clearly defined in words of common understanding. Davis v. Smith, supra. The statute provides a reasonable rule of thumb to guide judges in determining whether a videotaped deposition is justified. Many factors can and should be considered in determining what is good cause. The circum­stances surrounding the offense, the child’s age, and the potential harm to the child would be a few of these factors.</p>
+                <p pgmap="428" id="b428-6">
+                   McGuire contends that the statute is defective be­cause it does not provide criteria for determining the “good cause” required to order a videotaped deposition. The words “good cause” form a common legal phrase, familiar to most people. Similar language has been upheld by other courts. See Walden v. Tulsair Beechcraft, Inc., 96 F.R.D. 34 (1982); Gerson v. Gerson, 148 N.J. Super. 194, 372 A.2d 374 (1977). Since specificity is not an absolute requirement, we find the statute is not unconstitutionally vague.</p>
+                <p pgmap="428" id="b428-7">
+                   5. GOOD CAUSE WAS NOT SHOWN SO THE VIDEOTAPED DEPOSITION WAS NOT JUSTIFIED. The evidence substantiated the trial judge’s decision that it was in the best interest of the child to allow the videotaped deposition. The testimony of the grandparents indicated that the child could be seriously harmed if forced to appear before a jury. We cannot say the trial court was clearly wrong in its decision.</p>
+                <p pgmap="428(44) 429(16)" id="b428-8">
+                   6. THE STATUTE VIOLATES McGUIRE’S RIGHT TO COMPEL ATTENDANCE OF WITNESSES. McGuire cites no authority for his argument, but essentially this same argument was made in his second and third points. The witness was present at the trial, but by deposition rather than live testimony. The rights to cross-examination and confrontation were satisfied at the time the deposition was taken.</p>
+                <p pgmap="429" id="b429-6">Other states have generally approved the use of videotaped depositions of young victims of sexual abuse. Those states answered similar constitutional arguments as we have answered them. State v. Sheppard, supra; State v. Vigil, supra.</p>
+                <p pgmap="429" id="b429-7">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="422" ORDERLABEL="388" TYPE="page">
+        <fptr FILEID="tiff_00211_1"/>
+        <fptr FILEID="jp2_00211_1"/>
+        <fptr FILEID="alto_00211_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_422.1" BETYPE="IDREF" FILEID="alto_00211_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="423" ORDERLABEL="389" TYPE="page">
+        <fptr FILEID="tiff_00212_0"/>
+        <fptr FILEID="jp2_00212_0"/>
+        <fptr FILEID="alto_00212_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_423.3" BETYPE="IDREF" FILEID="alto_00212_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="424" ORDERLABEL="390" TYPE="page">
+        <fptr FILEID="tiff_00212_1"/>
+        <fptr FILEID="jp2_00212_1"/>
+        <fptr FILEID="alto_00212_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_424.2" BETYPE="IDREF" FILEID="alto_00212_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="425" ORDERLABEL="391" TYPE="page">
+        <fptr FILEID="tiff_00213_0"/>
+        <fptr FILEID="jp2_00213_0"/>
+        <fptr FILEID="alto_00213_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_425.3" BETYPE="IDREF" FILEID="alto_00213_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="426" ORDERLABEL="392" TYPE="page">
+        <fptr FILEID="tiff_00213_1"/>
+        <fptr FILEID="jp2_00213_1"/>
+        <fptr FILEID="alto_00213_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_426.1" BETYPE="IDREF" FILEID="alto_00213_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="427" ORDERLABEL="393" TYPE="page">
+        <fptr FILEID="tiff_00214_0"/>
+        <fptr FILEID="jp2_00214_0"/>
+        <fptr FILEID="alto_00214_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_427.3" BETYPE="IDREF" FILEID="alto_00214_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="428" ORDERLABEL="394" TYPE="page">
+        <fptr FILEID="tiff_00214_1"/>
+        <fptr FILEID="jp2_00214_1"/>
+        <fptr FILEID="alto_00214_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_428.2" BETYPE="IDREF" FILEID="alto_00214_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="429" ORDERLABEL="395" TYPE="page">
+        <fptr FILEID="tiff_00215_0"/>
+        <fptr FILEID="jp2_00215_0"/>
+        <fptr FILEID="alto_00215_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_429.3" BETYPE="IDREF" FILEID="alto_00215_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AnKV" BETYPE="IDREF" FILEID="casebody_0095"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_422.7" BETYPE="IDREF" FILEID="alto_00211_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b425-9" BETYPE="IDREF" FILEID="casebody_0095"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_425.7" BETYPE="IDREF" FILEID="alto_00213_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AsHm" BETYPE="IDREF" FILEID="casebody_0095"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_422.9" BETYPE="IDREF" FILEID="alto_00211_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b425-7" BETYPE="IDREF" FILEID="casebody_0095"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_425.5" BETYPE="IDREF" FILEID="alto_00213_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b425-6" BETYPE="IDREF" FILEID="casebody_0095"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_425.4" BETYPE="IDREF" FILEID="alto_00213_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b427-7" BETYPE="IDREF" FILEID="casebody_0095"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_427.5" BETYPE="IDREF" FILEID="alto_00214_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b427-6" BETYPE="IDREF" FILEID="casebody_0095"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_427.4" BETYPE="IDREF" FILEID="alto_00214_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b426-6" BETYPE="IDREF" FILEID="casebody_0095"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_426.4" BETYPE="IDREF" FILEID="alto_00213_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b426-7" BETYPE="IDREF" FILEID="casebody_0095"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_426.5" BETYPE="IDREF" FILEID="alto_00213_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b427-8" BETYPE="IDREF" FILEID="casebody_0095"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_427.6" BETYPE="IDREF" FILEID="alto_00214_0"/>
+            <area BEGIN="BL_428.1" BETYPE="IDREF" FILEID="alto_00214_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b428-8" BETYPE="IDREF" FILEID="casebody_0095"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_428.6" BETYPE="IDREF" FILEID="alto_00214_1"/>
+            <area BEGIN="BL_429.1" BETYPE="IDREF" FILEID="alto_00215_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b428-6" BETYPE="IDREF" FILEID="casebody_0095"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_428.4" BETYPE="IDREF" FILEID="alto_00214_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b426-8" BETYPE="IDREF" FILEID="casebody_0095"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_426.6" BETYPE="IDREF" FILEID="alto_00213_1"/>
+            <area BEGIN="BL_427.1" BETYPE="IDREF" FILEID="alto_00214_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b425-8" BETYPE="IDREF" FILEID="casebody_0095"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_425.6" BETYPE="IDREF" FILEID="alto_00213_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A_l" BETYPE="IDREF" FILEID="casebody_0095"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_422.10" BETYPE="IDREF" FILEID="alto_00211_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b429-8" BETYPE="IDREF" FILEID="casebody_0095"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_429.6" BETYPE="IDREF" FILEID="alto_00215_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b428-7" BETYPE="IDREF" FILEID="casebody_0095"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_428.5" BETYPE="IDREF" FILEID="alto_00214_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b429-7" BETYPE="IDREF" FILEID="casebody_0095"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_429.5" BETYPE="IDREF" FILEID="alto_00215_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b429-6" BETYPE="IDREF" FILEID="casebody_0095"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_429.4" BETYPE="IDREF" FILEID="alto_00215_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AR9" BETYPE="IDREF" FILEID="casebody_0095"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_422.6" BETYPE="IDREF" FILEID="alto_00211_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b422-17" BETYPE="IDREF" FILEID="casebody_0095"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_422.17" BETYPE="IDREF" FILEID="alto_00211_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b422-6" BETYPE="IDREF" FILEID="casebody_0095"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_422.5" BETYPE="IDREF" FILEID="alto_00211_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b422-7" BETYPE="IDREF" FILEID="casebody_0095"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_422.8" BETYPE="IDREF" FILEID="alto_00211_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AEH" BETYPE="IDREF" FILEID="casebody_0095"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_424.13" BETYPE="IDREF" FILEID="alto_00212_1"/>
+            <area BEGIN="BL_424.14" BETYPE="IDREF" FILEID="alto_00212_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b424-12" BETYPE="IDREF" FILEID="casebody_0095"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_424.10" BETYPE="IDREF" FILEID="alto_00212_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b424-13" BETYPE="IDREF" FILEID="casebody_0095"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_424.11" BETYPE="IDREF" FILEID="alto_00212_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b424-14" BETYPE="IDREF" FILEID="casebody_0095"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_424.12" BETYPE="IDREF" FILEID="alto_00212_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b424-15" BETYPE="IDREF" FILEID="casebody_0095"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_424.15" BETYPE="IDREF" FILEID="alto_00212_1"/>
+            <area BEGIN="BL_425.1" BETYPE="IDREF" FILEID="alto_00213_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b426-5" BETYPE="IDREF" FILEID="casebody_0095"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_426.3" BETYPE="IDREF" FILEID="alto_00213_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

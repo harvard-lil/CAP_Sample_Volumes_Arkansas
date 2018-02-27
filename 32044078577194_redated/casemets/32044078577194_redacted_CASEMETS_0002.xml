@@ -1,0 +1,517 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0002" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Cooper Communities, Inc. v. Sarver">COOPER COMMUNITIES, INC. v. Jerry SARVER, Individually and as Representative of a Class</name>
+          <docketnumber>85-203</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 6</citation>
+          <citation category="parallel" type="bluebook">701 S.W.2d 364</citation>
+          <decisiondate>1986-01-13</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:00Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00016_1" MIMETYPE="image/tiff" CHECKSUM="5097695a3227030b2c7b2c8dcf6aa198" CHECKSUMTYPE="MD5" SIZE="26244">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00016_1.tif"/>
+      </file>
+      <file ID="tiff_00017_0" MIMETYPE="image/tiff" CHECKSUM="edb822cbf0992fae62f448febf2ffd76" CHECKSUMTYPE="MD5" SIZE="40720">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00017_0.tif"/>
+      </file>
+      <file ID="tiff_00017_1" MIMETYPE="image/tiff" CHECKSUM="9de50a727d0c560ac43276510619f825" CHECKSUMTYPE="MD5" SIZE="53782">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00017_1.tif"/>
+      </file>
+      <file ID="tiff_00018_0" MIMETYPE="image/tiff" CHECKSUM="1519bd424b0c8098dba40b1dd30f655d" CHECKSUMTYPE="MD5" SIZE="56760">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00018_0.tif"/>
+      </file>
+      <file ID="tiff_00018_1" MIMETYPE="image/tiff" CHECKSUM="5e2f08fb4e6e00cf21106962c8ca4f34" CHECKSUMTYPE="MD5" SIZE="15736">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00018_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00016_1" MIMETYPE="image/jp2" CHECKSUM="9a8a17785380119a712ccdbcd9cdbf27" CHECKSUMTYPE="MD5" SIZE="1928608">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00016_1.jp2"/>
+      </file>
+      <file ID="jp2_00017_0" MIMETYPE="image/jp2" CHECKSUM="1eaf04c152080a1b717cf4f7e9a4b3a9" CHECKSUMTYPE="MD5" SIZE="2561639">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00017_0.jp2"/>
+      </file>
+      <file ID="jp2_00017_1" MIMETYPE="image/jp2" CHECKSUM="8fef32ac0caee0290344c8acddf052ed" CHECKSUMTYPE="MD5" SIZE="2520388">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00017_1.jp2"/>
+      </file>
+      <file ID="jp2_00018_0" MIMETYPE="image/jp2" CHECKSUM="c82d688c4b08d25c5ed2b254458adbe7" CHECKSUMTYPE="MD5" SIZE="2562562">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00018_0.jp2"/>
+      </file>
+      <file ID="jp2_00018_1" MIMETYPE="image/jp2" CHECKSUM="00b6848c062612a398a33d5204d60f12" CHECKSUMTYPE="MD5" SIZE="1600516">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00018_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00016_1" MIMETYPE="text/xml" CHECKSUM="ffe3844df035694074b3c86047bc50da" CHECKSUMTYPE="MD5" SIZE="39194">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00016_1.xml"/>
+      </file>
+      <file ID="alto_00017_0" MIMETYPE="text/xml" CHECKSUM="096043f3186e69e64f1433a4cea66ba3" CHECKSUMTYPE="MD5" SIZE="62755">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00017_0.xml"/>
+      </file>
+      <file ID="alto_00017_1" MIMETYPE="text/xml" CHECKSUM="f5a83b63a1bc49792a12a359dbe204a1" CHECKSUMTYPE="MD5" SIZE="90172">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00017_1.xml"/>
+      </file>
+      <file ID="alto_00018_0" MIMETYPE="text/xml" CHECKSUM="8bbb69540033ecc800f8ebaad821a56d" CHECKSUMTYPE="MD5" SIZE="98445">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00018_0.xml"/>
+      </file>
+      <file ID="alto_00018_1" MIMETYPE="text/xml" CHECKSUM="66ae71224b9c349c7a176c2382819555" CHECKSUMTYPE="MD5" SIZE="24738">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00018_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0002" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="6" lastpage="10">
+              <court pgmap="32" id="b32-10">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="32" id="b32-9">85-203</docketnumber>
+              <citation pgmap="32" id="AL">701 S.W.2d 364</citation>
+              <parties pgmap="32" id="b32-8">COOPER COMMUNITIES, INC. v. Jerry SARVER, Individually and as Representative of a Class</parties>
+              <decisiondate pgmap="32" id="ALg">Opinion delivered January 13, 1986</decisiondate>
+              <judges pgmap="36" id="b36-6">Purtle, J., not participating.</judges>
+              <attorneys pgmap="33" id="b33-5">Richard H. Smith, and Friday, Eldredge &amp; Clark, by: Michael G. Thompson, for appellant.</attorneys>
+              <attorneys pgmap="33" id="b33-6">Tapp Law Offices, by: J. Sky Tapp, for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="33" id="b33-7">George Rose Smith, Justice.</author>
+                <p pgmap="33" id="AN">This case has not yet been tried. The chancellor, after a hearing, granted the plaintiffs motion to allow the case to proceed as a class action under ARCP Rule 23, with Jerry Sarver representing the class. This appeal by Cooper Communities from that interlocutory order comes to us under Rule 29(l)(c) and (k). We affirm.</p>
+                <p pgmap="33" id="b33-8">The appellant Communities, a corporation, was the devel­oper of Hot Springs Village, which has grown to be a substantial community on Highway 7. The principal entrance to the Village originally consisted of a gatehouse at the highway. Before 1982, Communities built a shopping center near the gatehouse. The corporation also built a second gatehouse about 100 yards farther away from the highway than the first one. The original gatehouse had been owned by the Hot Springs Village Property Owners Association. In exchange for the corporation’s construction of the new gatehouse the Association leased the old gatehouse to the corporation for 99 years.</p>
+                <p pgmap="33" id="b33-9">Communities began using the old gatehouse as an office for its real estate salesmen. A number of realtors who owned lots in the Village complained to the Arkansas Real Estate Commission that Communities was in fact maintaining a branch real estate office at the gatehouse without proper identification. The Com­mission sustained the complaint and required the company to comply with the governing regulations.</p>
+                <p pgmap="33(9) 34(40)" id="b33-10">In January, 1985, the present suit against Communities and the Association was filed by “A Class of Owners of Real Property in Hot Springs Village.” The suit is actually being financed by several realtors who own lots in the Village, but the complaint does not identify any particular plaintiff.</p>
+                <p pgmap="34" id="b34-6">The complaint alleges that the 99-year lease of the old gatehouse is invalid, because it was not authorized by 51% of the members of the Association. It is also alleged that Communities is using the gatehouse to steer visitors to properties that Communi­ties has for sale. That course of action is asserted to be an unfair trade practice. There is also an allegation that the branch office has resulted in undue traffic congestion at the entrance to the Village. The prayer is that the lease be declared void and that Communities be enjoined from using the gatehouse as a sales facility.</p>
+                <p pgmap="34" id="b34-7">The only issue before us is whether the suit should be maintained as a class action. At the hearing the plaintiffs presented three witnesses. All three were realtors having lots for sale in the Village. Two of them also have homes there. Their testimony tended to support the allegations of the complaint, that the operation of the gatehouse by Communities unfairly com­petes with other realtors. One witness testified that Communities’ method of operation also hurts a number of non-realtors in the Village who have their homes “for sale by owner.”</p>
+                <p pgmap="34" id="b34-8">The plaintiffs also introduced about 120 identical short affidavits signed by a total, including spouses, of 184 owners of real property in the Village. Each affiant identifies his property, states that he is a member of the class of plaintiffs, requests the relief prayed, and states that his name may be used as a party plaintiff. At the hearing Communities presented two other property owners as witnesses, who played down the traffic congestion and said they did not want to be represented by the plaintiffs.</p>
+                <p pgmap="34" id="b34-9">The chancellor, in ruling that the case may proceed as a class action, stressed the importance of the validity of the lease, an issue that concerns all the property owners. The plaintiffs were required to name an individual to represent the class. They selected Sarver, a real estate broker who had testified. The court ruled that the persons who had signed the affidavits would constitute the class.</p>
+                <p pgmap="35" id="b35-3">
+                   In a case of this kind the trial judge has broad discretion in determining whether a class action is proper. Drew v. First Fed. S. &amp; L. Assn. of Ft. Smith, 271 Ark. 667, 610 S.W.2d 876 (1981). Here we find no abuse of that discretion.</p>
+                <p pgmap="35" id="b35-4">
+                   Civil Procedure Rule 23, governing class actions, re­quires that the question be of interest to many persons and that it be impractical to bring them all before the court within a reasonable time. A group comprising 184 individuals satisfies this part of the Rule. We do not agree with counsel’s argument that the mere signing of the affidavit made each affiant a party to the case. No doubt if each of them were required to join as a named plaintiff, many would prefer to be represented by their own attorney, unnecessarily complicating the handling of the case.</p>
+                <p pgmap="35" id="b35-5">The Rule also requires that the questions of law or fact common to the members of the class predominate over questions affecting only individual members. Certainly that is true here, for the chancellor observed that the validity of the 99-year lease is the main issue.</p>
+                <p pgmap="35" id="b35-6">
+                   Finally, the Rule requires that a class action be superior to other available methods for the fair and efficient adjudication of the controversy. The appellant argues that there is no substan­tial reason why the case cannot proceed in the name of a single complaining property owner or in the names of the realtors who are the primary movers in the case. The validity of the lease of Association property is a paramount issue in the case. A properly conducted class action will bind all the owners, which would not be true if the plaintiffs were limited to one person or a few persons. The chancellor also considered the argument that the realtors are the moving force in the case, but he concluded that regardless of motives the determinative questions are the validity of the lease and the matter of traffic congestion. Both those questions go to the merits of the case rather than to the propriety of the class action.</p>
+                <p pgmap="35(76) 36(25)" id="b35-7">It is also argued that Sarver, a broker, is not truly representa­tive of the entire class. The trial judge expressed some concern about that point, because Sarver testified that if Communities offered to settle the case by closing its branch office, he as an individual would be in favor of accepting the offer and dismissing the case. The chancellor, however, observed that the court would be supervising the litigation and would have to approve any settlement that might be made. That, again, is an advantage inherent in a class action that would not be applicable to a suit by individuals.</p>
+                <p pgmap="36" id="b36-4">It is our opinion that the trial court was right in deciding that the case is a proper one to be carried forward as a class action. It certainly cannot be said that the chancellor abused his broad discretion in reaching that conclusion.</p>
+                <p pgmap="36" id="b36-5">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="32" ORDERLABEL="6" TYPE="page">
+        <fptr FILEID="tiff_00016_1"/>
+        <fptr FILEID="jp2_00016_1"/>
+        <fptr FILEID="alto_00016_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_32.2" BETYPE="IDREF" FILEID="alto_00016_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="33" ORDERLABEL="7" TYPE="page">
+        <fptr FILEID="tiff_00017_0"/>
+        <fptr FILEID="jp2_00017_0"/>
+        <fptr FILEID="alto_00017_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_33.3" BETYPE="IDREF" FILEID="alto_00017_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="34" ORDERLABEL="8" TYPE="page">
+        <fptr FILEID="tiff_00017_1"/>
+        <fptr FILEID="jp2_00017_1"/>
+        <fptr FILEID="alto_00017_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_34.2" BETYPE="IDREF" FILEID="alto_00017_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="35" ORDERLABEL="9" TYPE="page">
+        <fptr FILEID="tiff_00018_0"/>
+        <fptr FILEID="jp2_00018_0"/>
+        <fptr FILEID="alto_00018_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_35.2" BETYPE="IDREF" FILEID="alto_00018_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="36" ORDERLABEL="10" TYPE="page">
+        <fptr FILEID="tiff_00018_1"/>
+        <fptr FILEID="jp2_00018_1"/>
+        <fptr FILEID="alto_00018_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_36.2" BETYPE="IDREF" FILEID="alto_00018_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b32-10" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_32.11" BETYPE="IDREF" FILEID="alto_00016_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b36-5" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_36.5" BETYPE="IDREF" FILEID="alto_00018_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ALg" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_32.12" BETYPE="IDREF" FILEID="alto_00016_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b33-7" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_33.9" BETYPE="IDREF" FILEID="alto_00017_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b33-10" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_33.14" BETYPE="IDREF" FILEID="alto_00017_0"/>
+            <area BEGIN="BL_34.1" BETYPE="IDREF" FILEID="alto_00017_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AL" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_32.10" BETYPE="IDREF" FILEID="alto_00016_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b36-4" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_36.4" BETYPE="IDREF" FILEID="alto_00018_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AN" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_33.10" BETYPE="IDREF" FILEID="alto_00017_0"/>
+            <area BEGIN="BL_33.11" BETYPE="IDREF" FILEID="alto_00017_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b33-9" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_33.13" BETYPE="IDREF" FILEID="alto_00017_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b33-8" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_33.12" BETYPE="IDREF" FILEID="alto_00017_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b32-8" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_32.8" BETYPE="IDREF" FILEID="alto_00016_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b32-9" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_32.9" BETYPE="IDREF" FILEID="alto_00016_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b34-8" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_34.6" BETYPE="IDREF" FILEID="alto_00017_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b34-9" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_34.7" BETYPE="IDREF" FILEID="alto_00017_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b34-6" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_34.4" BETYPE="IDREF" FILEID="alto_00017_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b34-7" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_34.5" BETYPE="IDREF" FILEID="alto_00017_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b33-5" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_33.7" BETYPE="IDREF" FILEID="alto_00017_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b36-6" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_36.6" BETYPE="IDREF" FILEID="alto_00018_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b33-6" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_33.8" BETYPE="IDREF" FILEID="alto_00017_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b35-3" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_35.3" BETYPE="IDREF" FILEID="alto_00018_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b35-7" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_35.7" BETYPE="IDREF" FILEID="alto_00018_0"/>
+            <area BEGIN="BL_36.1" BETYPE="IDREF" FILEID="alto_00018_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b35-6" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_35.6" BETYPE="IDREF" FILEID="alto_00018_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b35-5" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_35.5" BETYPE="IDREF" FILEID="alto_00018_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b35-4" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_35.4" BETYPE="IDREF" FILEID="alto_00018_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,364 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0015" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Bonham v. St. Paul Fire &amp; Marine Insurance">Ona Lea BONHAM (Bishop) v. ST. PAUL FIRE AND MARINE INSURANCE COMPANY and COMMUNITY CARE OF EUREKA SPRINGS, INC.</name>
+          <docketnumber>85-216</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 69</citation>
+          <citation category="parallel" type="bluebook">702 S.W.2d 16</citation>
+          <decisiondate>1986-01-21</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:00Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00048_0" MIMETYPE="image/tiff" CHECKSUM="262f056e3e2188dbb155b36bce9f93ff" CHECKSUMTYPE="MD5" SIZE="31450">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00048_0.tif"/>
+      </file>
+      <file ID="tiff_00048_1" MIMETYPE="image/tiff" CHECKSUM="aedfeb334ad2ddf259dcd1e03c5aa67e" CHECKSUMTYPE="MD5" SIZE="31594">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00048_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00048_0" MIMETYPE="image/jp2" CHECKSUM="7bdf502a8409a59bbf8f78cc956fef8f" CHECKSUMTYPE="MD5" SIZE="2073843">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00048_0.jp2"/>
+      </file>
+      <file ID="jp2_00048_1" MIMETYPE="image/jp2" CHECKSUM="1baa155a64c49ebf99440116015d4aca" CHECKSUMTYPE="MD5" SIZE="2129299">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00048_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00048_0" MIMETYPE="text/xml" CHECKSUM="43a8fd192dc08254b2a66b000f8d67ea" CHECKSUMTYPE="MD5" SIZE="46943">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00048_0.xml"/>
+      </file>
+      <file ID="alto_00048_1" MIMETYPE="text/xml" CHECKSUM="1bcb8358f285005772f2de5903de81ef" CHECKSUMTYPE="MD5" SIZE="51877">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00048_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0015" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="69" lastpage="70">
+              <court pgmap="95" id="b95-5">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="95" id="b95-4">85-216</docketnumber>
+              <citation pgmap="95" id="AUC">702 S.W.2d 16</citation>
+              <parties pgmap="95" id="b95-3">Ona Lea BONHAM (Bishop) v. ST. PAUL FIRE AND MARINE INSURANCE COMPANY and COMMUNITY CARE OF EUREKA SPRINGS, INC.</parties>
+              <decisiondate pgmap="95" id="Aqq">Opinion delivered January 21, 1986</decisiondate>
+              <judges pgmap="96" id="b96-10">Purtle, J., not participating.</judges>
+              <attorneys pgmap="95" id="b95-11">Hamilton, Mackey &amp; Hicks, by: Charles R. Hicks, for appellant.</attorneys>
+              <attorneys pgmap="95" id="b95-12">Epley, Epley &amp; Castleberry, Ltd., by: Lewis E. Epley, for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="95" id="b95-13">Darrell Hickman, Justice.</author>
+                <p pgmap="95" id="ACh">The question is whether a hospital currently operated for profit is liable for tort claims arising against its non-profit predecessor. The trial court found no liability and we agree.</p>
+                <p pgmap="95" id="b95-14">The appellant, Ona Lea Bonham, claims she was injured while a patient at the Eureka Springs Municipal Hospital in July, 1982. She sued the hospital’s insurance carrier, St. Paul Fire and Marine Insurance Company, in July, 1984. St. Paul moved for summary judgment because the policy was cancelled in Febru­ary, 1984. The trial judge granted the motion.</p>
+                <p pgmap="95(43) 96(47)" id="b95-15">Bonham amended the complaint to include the Eureka Springs Municipal Hospital as a co-defendant. When Bonham learned that the hospital had been purchased by a for-profit corporation, Community Care of Eureka Springs, Inc., another amendment was made naming that corporation as a co-defendant in place of the municipal hospital. The corporation moved to dismiss the complaint. Based on undisputed facts, the trial judge ruled in the corporation’s favor reasoning that since the former hospital was immune from liability at law because it was a charitable institution, so was its successor.</p>
+                <p pgmap="96" id="b96-6">
+                   On appeal Bonham contends that since the corporation purchased the assets of the hospital, it assumed its liabilities. There is nothing in the record to show that the corporation assumed any of the tort liability of the hospital. Furthermore, the municipal hospital was immune from this type of claim, so, there was no liability for the corporation to assume. As the trial court observed: “Liability cannot be created out of thin air. Since there was no liability on the part of the predecessor, there can be none in the successor.”</p>
+                <p pgmap="96" id="b96-7">While St. Paul is listed as an appellee, there is no argument on appeal that this part of the judgment should be reviewed.</p>
+                <p pgmap="96" id="b96-8">
+                   It is the responsibility of the appellant to demonstrate error, and none is demonstrated. Baldwin Company v. CECO Corporation, 280 Ark. 519, 659 S.W.2d 941 (1983).</p>
+                <p pgmap="96" id="b96-9">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="95" ORDERLABEL="69" TYPE="page">
+        <fptr FILEID="tiff_00048_0"/>
+        <fptr FILEID="jp2_00048_0"/>
+        <fptr FILEID="alto_00048_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_95.2" BETYPE="IDREF" FILEID="alto_00048_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="96" ORDERLABEL="70" TYPE="page">
+        <fptr FILEID="tiff_00048_1"/>
+        <fptr FILEID="jp2_00048_1"/>
+        <fptr FILEID="alto_00048_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_96.2" BETYPE="IDREF" FILEID="alto_00048_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b96-10" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_96.8" BETYPE="IDREF" FILEID="alto_00048_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b95-11" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_95.13" BETYPE="IDREF" FILEID="alto_00048_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b95-3" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_95.3" BETYPE="IDREF" FILEID="alto_00048_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b95-12" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_95.14" BETYPE="IDREF" FILEID="alto_00048_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b95-5" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_95.6" BETYPE="IDREF" FILEID="alto_00048_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b95-4" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_95.4" BETYPE="IDREF" FILEID="alto_00048_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b96-9" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_96.7" BETYPE="IDREF" FILEID="alto_00048_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AUC" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_95.5" BETYPE="IDREF" FILEID="alto_00048_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b95-13" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_95.15" BETYPE="IDREF" FILEID="alto_00048_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ACh" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_95.16" BETYPE="IDREF" FILEID="alto_00048_0"/>
+            <area BEGIN="BL_95.17" BETYPE="IDREF" FILEID="alto_00048_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b96-8" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_96.6" BETYPE="IDREF" FILEID="alto_00048_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aqq" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_95.7" BETYPE="IDREF" FILEID="alto_00048_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b95-15" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_95.19" BETYPE="IDREF" FILEID="alto_00048_0"/>
+            <area BEGIN="BL_96.1" BETYPE="IDREF" FILEID="alto_00048_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b96-6" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_96.4" BETYPE="IDREF" FILEID="alto_00048_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b96-7" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_96.5" BETYPE="IDREF" FILEID="alto_00048_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b95-14" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_95.18" BETYPE="IDREF" FILEID="alto_00048_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

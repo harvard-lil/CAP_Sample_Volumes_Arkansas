@@ -1,0 +1,585 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0063" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Brown v. Hardin">Brown &amp; wife vs. Wm. &amp; Benjamin Hardin</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 324</citation>
+          <decisiondate>1860-07</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00163_1" MIMETYPE="image/tiff" CHECKSUM="e4233be6c12a5b5e4720e21b69e34aa4" CHECKSUMTYPE="MD5" SIZE="37190">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00163_1.tif"/>
+      </file>
+      <file ID="tiff_00164_0" MIMETYPE="image/tiff" CHECKSUM="73bd88d82e64658797137957b461b13e" CHECKSUMTYPE="MD5" SIZE="45412">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00164_0.tif"/>
+      </file>
+      <file ID="tiff_00164_1" MIMETYPE="image/tiff" CHECKSUM="51d3dd6af52758a4e9830169441cb506" CHECKSUMTYPE="MD5" SIZE="47574">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00164_1.tif"/>
+      </file>
+      <file ID="tiff_00165_0" MIMETYPE="image/tiff" CHECKSUM="41f91d23f1f187db3be705ea4463e75a" CHECKSUMTYPE="MD5" SIZE="46490">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00165_0.tif"/>
+      </file>
+      <file ID="tiff_00165_1" MIMETYPE="image/tiff" CHECKSUM="b1833eac6f950fa30f73c4ace5131e9a" CHECKSUMTYPE="MD5" SIZE="36252">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00165_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00163_1" MIMETYPE="image/jp2" CHECKSUM="0f2a7b40b9e037efcff2d55f4147fcc8" CHECKSUMTYPE="MD5" SIZE="2467636">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00163_1.jp2"/>
+      </file>
+      <file ID="jp2_00164_0" MIMETYPE="image/jp2" CHECKSUM="a6717de0d4b714ae882a0b919fe61d5a" CHECKSUMTYPE="MD5" SIZE="2582511">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00164_0.jp2"/>
+      </file>
+      <file ID="jp2_00164_1" MIMETYPE="image/jp2" CHECKSUM="b07bd56749e4a9fb2988cb2d33afe471" CHECKSUMTYPE="MD5" SIZE="2521678">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00164_1.jp2"/>
+      </file>
+      <file ID="jp2_00165_0" MIMETYPE="image/jp2" CHECKSUM="98ee3c6594f12b73e8f79dfc96a97793" CHECKSUMTYPE="MD5" SIZE="2559060">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00165_0.jp2"/>
+      </file>
+      <file ID="jp2_00165_1" MIMETYPE="image/jp2" CHECKSUM="909b3e70dc3b83eca4c15bf66850cbec" CHECKSUMTYPE="MD5" SIZE="2470970">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00165_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00163_1" MIMETYPE="text/xml" CHECKSUM="6a83f0357186fa89cf76f224a4dd76d1" CHECKSUMTYPE="MD5" SIZE="76699">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00163_1.xml"/>
+      </file>
+      <file ID="alto_00164_0" MIMETYPE="text/xml" CHECKSUM="8486858dfed67a79d56fabfbddd0f884" CHECKSUMTYPE="MD5" SIZE="87087">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00164_0.xml"/>
+      </file>
+      <file ID="alto_00164_1" MIMETYPE="text/xml" CHECKSUM="0858a18e04f82f9c1cf6cc3e01c0b89b" CHECKSUMTYPE="MD5" SIZE="90563">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00164_1.xml"/>
+      </file>
+      <file ID="alto_00165_0" MIMETYPE="text/xml" CHECKSUM="be05819759ad8ebdc5345e2a47c19e6e" CHECKSUMTYPE="MD5" SIZE="90848">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00165_0.xml"/>
+      </file>
+      <file ID="alto_00165_1" MIMETYPE="text/xml" CHECKSUM="bf7b5d373bd7a2c79b5f261bc219d5c8" CHECKSUMTYPE="MD5" SIZE="65968">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00165_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0063" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="328" firstpage="324">
+              <parties id="b326-4" pgmap="326">Brown &amp; wife vs. Wm. &amp; Benjamin Hardin.</parties>
+              <attorneys id="b326-9" pgmap="326">Watkins &amp; Gallagher, for the appellants.</attorneys>
+              <attorneys id="b326-11" pgmap="326">Hanly &amp; Alexander, for appellees.</attorneys>
+              <summary id="b326-7" pgmap="326">Appeal from Phillips Circuit Couit in Chancery.</summary>
+              <summary id="b326-8" pgmap="326">Hon. George W. Beazley, Circuit Judge.</summary>
+              <summary id="b326-10" pgmap="326">“ Section ” is a tract of land described by one number; and under the devise to the defendants of one section of land, they were required to select by sectional lines, and could not cross them to make up the quantity. See Gavin’s case, Ins. ¿p Opns. 180; Noah Wall’s case, ib.pt. 2,207; 1 Opns 'Atty. Geni. ü. S. 862; Opns Sp Inst.'pt. 2, 434.</summary>
+              <summary id="b326-12" pgmap="326(82) 327(14)">The term section of land as applied to the congressional divis­ions of townships, means a mile square of land, or the equiva­lent of a mile square of land, that is: six hundred and forty acres. ■ Vide 1 Story’s Laws of U. S., 422; Public Lands, Laws, Instructions and opinions, 11, 12, 13; An act entitled “ An ordi­nance for ascertaining the mode of disposing of lands in the western territory.” IZ&gt;. 34, 54. Fractional sections are not embraced in the term section, but a section is more than a fractional section, lb.</summary>
+              <headnotes id="b326-5" pgmap="326">Upon a devise of one section of land to be selected by the devisees, they are not restricted to one entire section, but may select adjacent lands, indilfcrent sections, by the usual subdivisions of half and quarter sections; but if. the half or quarter sections selected, do not contain sis hundred and forty acres, they will not be allowed to select parts of other quarters to supply the deficiency in quantity.</headnotes>
+              <headnotes id="b326-6" pgmap="326">Upon a bill to set aside the selection of lands, made by devisees, with power of selec­tion, the court of chancery will take cognizance of injuries to, or trespasses upon such of the lands as were improperly selected, but not of trespasses committed upon other lands of the testator.</headnotes>
+              <opinion type="majority">
+                <author id="b327-4" pgmap="327">Mr. Justice Fairchild,</author>
+                <p id="A3y" pgmap="327">delivered the opinion of the court.</p>
+                <p id="b327-5" pgmap="327">William McNeill of Davidson county, Tennessee, by his last will, divided between his two children, all his property except one section of land, on the Mississippi river, which he gave to the defendants, William Hardin and Benjamin Hardin, to be selected by them out of any of his lands in this state.</p>
+                <p id="b327-6" pgmap="327">The will was made and took effect by the death of the testator, in April, 1844, and in 1849 the Hardins proceeded to make their selection of the section of land devised to them, by appropria­ting to themselves of the testator’s lands in Phillips county, the N. W. frl. quarter, the S. W. frl. quarter and the S. E. frl. quarter of frl. section 21, and the East frl. half of section 20, in Township one North of Range six East. These tracts of lands contained respectively — 142 45-100 acres, 158 57-100' acres,-34 91-100 acres, and 301 99-100 acres, as estimated by the United States surveys, making an aggregate of 639 86-100 acres.</p>
+                <p id="b327-7" pgmap="327">The east half of section 20, and the west half of section 2 1 would have composed a section of land of adjacent half or quarter sections, according to the system of the United States surveys, but the Hardins, in passing beyond the subdivisional lines to take in the S. E. frl. quarter of section 21, that parcel which contained 34 91-100 acres, acted upon a construction of the devise to them, which would make the section of land men­tioned in the will denote six hundred and forty acres, no more and no less.</p>
+                <p id="b327-8" pgmap="327(65) 328(15)">With this meaning of the term fixed in their minds, as there was not, by actual survey made when their selection was going on, as much area in the aforenamed pieces of land, as the government estimate would make out, owing, probably, to the washings of the river, the Hardins proceeded to make up the deficiency from lands adjacent, west and south of that already selected, and in the north-west quarter of section 28, and north­east of section 29.</p>
+                <p id="b328-5" pgmap="328">From their selection in 1849, the defendants have been in possession of the lands, claiming them solely under the will, and occupying them as a plantation and wood-yard. And the only legal question between the parties is, as to what consti­tutes a section of land, as the term was used in the will.</p>
+                <p id="b328-6" pgmap="328">The construction of the Hardins, as acted upon by them, has been seen, while the plaintiffs in the bill, who are the appel­lants here, and who represent the general devisees of the will claimed in their bill, and now insist that the selection should have been of land contained within the surveyed lines of a single section, whether that were a fractional or an entire section.</p>
+                <p id="b328-7" pgmap="328">There is another matter controverted between the parties, the objection of the Hardins to account to the appellants for cord wood cut from lands within the limits of the Hardin selec­tion, and from the McNeill lands, outside of it; yet in the view we take of this, it is but a matter of fact, and incidental to the main question.</p>
+                <p id="b328-8" pgmap="328">The case is brought here by the plaintiffs below, upon a dis­missal of their bill.</p>
+                <p id="b328-9" pgmap="328(152) 329(72)">We do not think that the appellees were obliged to make their selection within the lines of a single section, but think they could well select adjacent lands in different sections by the usual subdivisions of half and quarter sections. This was the construction put by the land department upon the grant of seminary lands to this state, which were to be located in tracts not less than an entire section. The State vs. Paup, 13 Ark. 129. And although there was a further clause in-the grant, that the locations might correspond with any of the legal divis­ions into which the public lands are authorized to be surveyed, we think that to be rather declaratory of an existing custom, than creative of a new right, taking into consideration the usual construction, and practice, both before and since the act of 1827, observed in the location of New Madrid grants, of pre-emption rights, of land warrant and land scrip locations. If, however, the construction of the general land department might not be as has been intimated, we think the usage of the country, if we may take notice of if, would not restrict the definition of a section of land to be a single tract within surveyed lines, but would permit it to be made of the legal divisions of half and quarter sections.</p>
+                <p id="b329-5" pgmap="329">And we are clearly of the opinion that the selection of the Hardins was not properly made. It was not the quantity of six hundred and forty acres that was devised to them, but such quantity as might be embraced within an entire section, within two half or four quarter sections, according to the United States surveys.</p>
+                <p id="b329-6" pgmap="329">The principle of the New Madrid grants was to give to sufferers, the same quantity of land that they had lost by the earthquakes, yet to preserve untouched the system of surveys. The loser of any quantity of land less than one hundred and sixty acres, though but a town lot, was to have 160 acres; and he who had lost any quantity, however much it might exceed 640 acres, was only to be indemnified in a grant for that amount. 1 Opinions of Attorney Generals, 362.</p>
+                <p id="b329-7" pgmap="329">The terms of the devise may refer to two qualities of des­cription, quantity and boundary lines. And whether the lines are to be traced by course and distance, or by marks and natu­ral objects, it still results that the quantity being the least certain element, must yield to the lines as the more certain mode of description. Phillips vs. Porter, 3 Ark. 57.</p>
+                <p id="b329-8" pgmap="329">The general and proper acceptation of the terms “ section,” “ half” and “ quarter section,” as well as their construction by the general land department, denotes the land in the sectional and subdivisional lines, and not the exact quantity which a perfect admeasurement of an unobstructed surface would declare. &gt;</p>
+                <p id="b329-9" pgmap="329(34) 330(9)">The selection of the Hardins of the west half of section twenty-­one, and the east half of section twenty is approved, while that of the south-east fractional quarter of section twenty-one and of the parts of sections twenty-eight and twenty-nine is disallowed.</p>
+                <p id="b330-5" pgmap="330">Each of the four quarter sections are fractional, and contain each less than 160 acres, but 'must stand for entire quarters. 3 Opinions Atty. Geni. 148.</p>
+                <p id="b330-6" pgmap="330">It is equitable for an account to be taken between the parties, of the cord wood that has been taken from the rejected parts of the locations of the appellees, but any infringement made by them upon the McNeill lands, outside of the location, are mere trespasses, and are not the subject of equitable cognizance.</p>
+                <p id="b330-7" pgmap="330">Boughless, a witness for the appellees, shows that upon sections twenty-eight, and twenty-nine, within the location fifteen hundred cords of wood have been cut by the Hardins and the evidence is uniform that wood in the timber was worth twenty-five cents a cord.</p>
+                <p id="b330-8" pgmap="330">Let the decree of the Phillips Circuit Courtin Chancery be re­versed, a decree be entered in this court that the locations of the west half of section twenty-one, and-the east half of section twen­ty, of township one north of range six east, made by the appel­lees, be confirmed to them as properly made under the will of William McNeill, and that the south-east fractional quarter of section 21, and the selected parts of sections 28 and 29, in the same township, are of right the property of the appellants; that the appellees pay to the appellants the sum of three hun­dred and seventy-five dollars, and that each party pay one half of the costs in this court and in the court below.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="326" ORDERLABEL="324" TYPE="page">
+        <fptr FILEID="tiff_00163_1"/>
+        <fptr FILEID="jp2_00163_1"/>
+        <fptr FILEID="alto_00163_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_326.1" BETYPE="IDREF" FILEID="alto_00163_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_326.2" BETYPE="IDREF" FILEID="alto_00163_1"/>
+              <area BEGIN="BL_326.3" BETYPE="IDREF" FILEID="alto_00163_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="327" ORDERLABEL="325" TYPE="page">
+        <fptr FILEID="tiff_00164_0"/>
+        <fptr FILEID="jp2_00164_0"/>
+        <fptr FILEID="alto_00164_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_327.3" BETYPE="IDREF" FILEID="alto_00164_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_327.2" BETYPE="IDREF" FILEID="alto_00164_0"/>
+              <area BEGIN="BL_327.4" BETYPE="IDREF" FILEID="alto_00164_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="328" ORDERLABEL="326" TYPE="page">
+        <fptr FILEID="tiff_00164_1"/>
+        <fptr FILEID="jp2_00164_1"/>
+        <fptr FILEID="alto_00164_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_328.2" BETYPE="IDREF" FILEID="alto_00164_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_328.3" BETYPE="IDREF" FILEID="alto_00164_1"/>
+              <area BEGIN="BL_328.4" BETYPE="IDREF" FILEID="alto_00164_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="329" ORDERLABEL="327" TYPE="page">
+        <fptr FILEID="tiff_00165_0"/>
+        <fptr FILEID="jp2_00165_0"/>
+        <fptr FILEID="alto_00165_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_329.3" BETYPE="IDREF" FILEID="alto_00165_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_329.2" BETYPE="IDREF" FILEID="alto_00165_0"/>
+              <area BEGIN="BL_329.4" BETYPE="IDREF" FILEID="alto_00165_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="330" ORDERLABEL="328" TYPE="page">
+        <fptr FILEID="tiff_00165_1"/>
+        <fptr FILEID="jp2_00165_1"/>
+        <fptr FILEID="alto_00165_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_330.2" BETYPE="IDREF" FILEID="alto_00165_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_330.3" BETYPE="IDREF" FILEID="alto_00165_1"/>
+              <area BEGIN="BL_330.4" BETYPE="IDREF" FILEID="alto_00165_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b328-7" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_328.7" BETYPE="IDREF" FILEID="alto_00164_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b328-6" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_328.6" BETYPE="IDREF" FILEID="alto_00164_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b328-5" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_328.5" BETYPE="IDREF" FILEID="alto_00164_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b328-9" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_328.9" BETYPE="IDREF" FILEID="alto_00164_1"/>
+            <area BEGIN="BL_329.1" BETYPE="IDREF" FILEID="alto_00165_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b328-8" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_328.8" BETYPE="IDREF" FILEID="alto_00164_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b329-9" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_329.9" BETYPE="IDREF" FILEID="alto_00165_0"/>
+            <area BEGIN="BL_330.1" BETYPE="IDREF" FILEID="alto_00165_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b327-4" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_327.5" BETYPE="IDREF" FILEID="alto_00164_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b330-6" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_330.6" BETYPE="IDREF" FILEID="alto_00165_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b330-7" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_330.7" BETYPE="IDREF" FILEID="alto_00165_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b326-11" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_326.11" BETYPE="IDREF" FILEID="alto_00163_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b326-10" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_326.10" BETYPE="IDREF" FILEID="alto_00163_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b326-12" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_326.12" BETYPE="IDREF" FILEID="alto_00163_1"/>
+            <area BEGIN="BL_327.1" BETYPE="IDREF" FILEID="alto_00164_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b327-5" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_327.7" BETYPE="IDREF" FILEID="alto_00164_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b330-8" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_330.8" BETYPE="IDREF" FILEID="alto_00165_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b326-8" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_326.8" BETYPE="IDREF" FILEID="alto_00163_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b330-5" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_330.5" BETYPE="IDREF" FILEID="alto_00165_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b329-6" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_329.6" BETYPE="IDREF" FILEID="alto_00165_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b329-7" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_329.7" BETYPE="IDREF" FILEID="alto_00165_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b329-5" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_329.5" BETYPE="IDREF" FILEID="alto_00165_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b327-8" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_327.10" BETYPE="IDREF" FILEID="alto_00164_0"/>
+            <area BEGIN="BL_328.1" BETYPE="IDREF" FILEID="alto_00164_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b326-4" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_326.4" BETYPE="IDREF" FILEID="alto_00163_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b326-7" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_326.7" BETYPE="IDREF" FILEID="alto_00163_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b326-6" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_326.6" BETYPE="IDREF" FILEID="alto_00163_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b326-9" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_326.9" BETYPE="IDREF" FILEID="alto_00163_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b326-5" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_326.5" BETYPE="IDREF" FILEID="alto_00163_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b327-6" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_327.8" BETYPE="IDREF" FILEID="alto_00164_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b327-7" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_327.9" BETYPE="IDREF" FILEID="alto_00164_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b329-8" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_329.8" BETYPE="IDREF" FILEID="alto_00165_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A3y" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_327.6" BETYPE="IDREF" FILEID="alto_00164_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

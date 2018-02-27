@@ -1,0 +1,497 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0024" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Deal v. Huddleston">John R. DEAL and William T. DEAL v. Martha Deal HUDDLESTON, Executrix, et al.</name>
+          <docketnumber>85-213</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 96</citation>
+          <citation category="parallel" type="bluebook">702 S.W.2d 404</citation>
+          <decisiondate>1986-01-27</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:00Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00061_1" MIMETYPE="image/tiff" CHECKSUM="e9d62731ccb4071da758ae2346acf7f1" CHECKSUMTYPE="MD5" SIZE="7502">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00061_1.tif"/>
+      </file>
+      <file ID="tiff_00062_0" MIMETYPE="image/tiff" CHECKSUM="aac41fe8833270c7c5a55e492b07dc80" CHECKSUMTYPE="MD5" SIZE="36424">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00062_0.tif"/>
+      </file>
+      <file ID="tiff_00062_1" MIMETYPE="image/tiff" CHECKSUM="7c213e74c57c8af51b97b8ade547a359" CHECKSUMTYPE="MD5" SIZE="51864">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00062_1.tif"/>
+      </file>
+      <file ID="tiff_00063_0" MIMETYPE="image/tiff" CHECKSUM="34bc268dabaf5657be608a63ef360a33" CHECKSUMTYPE="MD5" SIZE="53942">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00063_0.tif"/>
+      </file>
+      <file ID="tiff_00063_1" MIMETYPE="image/tiff" CHECKSUM="7247955044e841ec9ba129fe2e23d89a" CHECKSUMTYPE="MD5" SIZE="42754">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00063_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00061_1" MIMETYPE="image/jp2" CHECKSUM="ca831354a768a903f29de85624f7a4bc" CHECKSUMTYPE="MD5" SIZE="1187064">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00061_1.jp2"/>
+      </file>
+      <file ID="jp2_00062_0" MIMETYPE="image/jp2" CHECKSUM="e21e8db8a071c31a2db740352b7da21d" CHECKSUMTYPE="MD5" SIZE="2037336">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00062_0.jp2"/>
+      </file>
+      <file ID="jp2_00062_1" MIMETYPE="image/jp2" CHECKSUM="b243542c4d3f42dd243038d7046339a6" CHECKSUMTYPE="MD5" SIZE="2494054">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00062_1.jp2"/>
+      </file>
+      <file ID="jp2_00063_0" MIMETYPE="image/jp2" CHECKSUM="46d6fca1641bf44d5613541757574d95" CHECKSUMTYPE="MD5" SIZE="2914717">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00063_0.jp2"/>
+      </file>
+      <file ID="jp2_00063_1" MIMETYPE="image/jp2" CHECKSUM="cfc214c4b674fbb30628482aa14f01fc" CHECKSUMTYPE="MD5" SIZE="2413184">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00063_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00061_1" MIMETYPE="text/xml" CHECKSUM="e9a30717154edb55a44e4683838604b4" CHECKSUMTYPE="MD5" SIZE="8797">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00061_1.xml"/>
+      </file>
+      <file ID="alto_00062_0" MIMETYPE="text/xml" CHECKSUM="75369f6c5650377a3ea207e3d2467cfe" CHECKSUMTYPE="MD5" SIZE="59690">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00062_0.xml"/>
+      </file>
+      <file ID="alto_00062_1" MIMETYPE="text/xml" CHECKSUM="e88241724156974a082c967a4a6802c3" CHECKSUMTYPE="MD5" SIZE="85284">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00062_1.xml"/>
+      </file>
+      <file ID="alto_00063_0" MIMETYPE="text/xml" CHECKSUM="1a75177135e5b69c697ef5b1935253d9" CHECKSUMTYPE="MD5" SIZE="94663">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00063_0.xml"/>
+      </file>
+      <file ID="alto_00063_1" MIMETYPE="text/xml" CHECKSUM="06641b014ee92aa344fcd626f5d77140" CHECKSUMTYPE="MD5" SIZE="71046">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00063_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0024" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="96" lastpage="100">
+              <court pgmap="122" id="b122-5">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="122" id="b122-4">85-213</docketnumber>
+              <citation pgmap="122" id="AuX">702 S.W.2d 404</citation>
+              <parties pgmap="122" id="b122-3">John R. DEAL and William T. DEAL v. Martha Deal HUDDLESTON, Executrix, et al.</parties>
+              <decisiondate pgmap="122" id="Amy">Opinion delivered January 27, 1986</decisiondate>
+              <judges pgmap="126" id="b126-8">Purtle, J., not participating.</judges>
+              <attorneys pgmap="123" id="b123-8">Gibson, Gibson &amp; Hashem, by: C. C. Gibson, III, for appellants.</attorneys>
+              <attorneys pgmap="123" id="b123-9">Williamson, Ball &amp; Bird, for appellees.</attorneys>
+              <opinion type="majority">
+                <author pgmap="123" id="b123-10">George Rose Smith, Justice.</author>
+                <p pgmap="123" id="AKj">Mellie Nichols Deal, 88, a resident of Monticello, died testate in April, 1984, survived by two sons, the appellants, and two daughters, the appellees. The bulk of the estate, consisting of certificates of deposit and other liquid assets valued at about $125,000, was left equally to the testatrix’s four children and presents no problem. Two disputes, however, have arisen with respect to the testatrix’s furniture, household goods, and other personal effects.</p>
+                <p pgmap="123" id="b123-11">First, in a paragraph to be quoted in a moment, the will left all such articles of tangible personal property to the two daugh­ters as trustees, to be appropriately distributed by them among the four children. The sons questioned the validity of that trust, as being too indefinite to be enforceable. The probate judge held that the trust is valid, but that the discretion vested in the trustees “is not subject to control by any person or court.” The sons appeal from that decision, bringing the case to this court under Rule 29(l)(p).</p>
+                <p pgmap="123(57) 124(16)" id="b123-12">Second, Martha Deal Huddleston, executrix of the will, filed a petition alleging that her two brothers had wrongfully taken various articles belonging to the estate, claiming ownership. She asked that the brothers be directed to return the property. The trial judge held that the probate court had no subject-matter jurisdiction of that petition, which was dismissed without prejudice. The executrix cross appeals from that decision. No proof has been submitted on either issue.</p>
+                <p pgmap="124" id="b124-6">We first consider the validity of the trust. The paragraph creating the trust reads as follows:</p>
+                <blockquote pgmap="124" id="b124-7">Specific Bequest of All Household Goods and Per­sonal Effects. I bequeath to my two daughters, Martha Deal Huddleston and Melanie Elizabeth Deal Dwyer, or to the survivor of them, as trustees and in trust, for the uses and purposes, with the authority and subject to the responsibilities and duties hereunder stated, all of the household furniture, appliances, fixtures, equipment, and all bedding, linens, tableware, silverware, china, cut-glass, vases, and other articles of household utility or adornment, and all wearing apparel, pictures, jewelry and other personal effects, owned by me at the time of my death. My two daughters, as trustees, shall be vested with the author­ity, and charged with the duty and responsibility, to distribute my household goods and personal effects among my surviving children (including my two daughters, also including the heirs of the body of any child of mine who shall have predeceased me) in such manner as my daugh­ters, in the exercise of their own best judgment and discretion, consider to be most appropriate, fair, just and equitable, having due regard for any memoranda which I may leave indicating my wishes as to who shall have particular items of my household goods and personal effects.</blockquote>
+                <p pgmap="124" id="b124-8">The appellants, citing a number of cases and other authorities, argue that the proposed trust is too indefinite to be enforced by a court and involves an impermissible conflict of interest in that the two sisters have asserted they have the authority to distribute all the property to themselves if they wish. The trial court sustained the sisters’ position.</p>
+                <p pgmap="124(66) 125(7)" id="b124-9">
+                   It is fundamental that when discretion is conferred upon a trustee with respect to the exercise of a power, a court may act to prevent an abuse of that discretion. Restatement of Trusts 2d, § 187 (1959). We have often recognized the authority of the chancery court to supervise a trustee’s conduct. Bieatt v. Echols, 181 Ark. 235, 35 S.W.2d 431 (1930), citing earlier cases. We have not considered the situation now presented.</p>
+                <p pgmap="125" id="b125-6">Elsewhere, a few cases have arisen in which, as here, one or more trustees have been given the discretionary power to dis­tribute trust property among the members of a group that includes the trustees. The courts have almost invariably upheld such trusts, but have taken steps appropriate to the particular case to avoid adverse results from the conflict of interest. In some instances the superintending court has substituted its own discre­tion for that of the trustee. In Re Peabody’s Will, 277 App. Div. 905, 98 N.Y.S.2d 614 (1950); Armington v. Meyer, 103 R.I.211, 236 A.2d 450 (1967). In other circumstances the appointment of a cotrustee or a new trustee has been found to be proper. Rogers v. Rogers, 111 N.Y. 228, 18 N.E. 636 (1888); Estate of Kagan, 118 Misc.2d 1084, 462 N.Y.S.2d 128 (1983).</p>
+                <p pgmap="125" id="b125-7">
+                   As is always the rule in the interpretation of a will, we must if possible give effect to the intention of the testatrix. It will not do for us to adopt either of the courses chosen in the above cases, displacing the trustees, for here Mrs. Deal unquestionably meant to have the benefit of her daughters’ best judgment in the matter. For the same reason we reject a suggestion made by the appellants, that the articles be sold and the proceeds divided. That sort of disposition is exactly what the testatrix wanted to avoid.</p>
+                <p pgmap="125" id="b125-8">
+                   On the other hand, Mrs. Deal did not mean for her daughters to take all the articles themselves or to make an arbitrary distribution, for she expected the division to be “appro­priate, fair, just and equitable.” We think the most sensible solution is for the appellees to put down in writing, within a reasonable time to be fixed by the trial judge if necessary, just what articles they propose to award to each of the four heirs. The appellants must then be given an opportunity to present their specific objections, with the points of disagreement to be submit­ted to the probate court if the brothers and sisters are not able to reach an agreement. We realize that all four are nonresidents, living in four other states, but that is a difficulty they must overcome.</p>
+                <p pgmap="125(29) 126(83)" id="b125-9">
+                   The will directs the trustees to have “due regard” for any memoranda the testatrix may leave indicating her wishes. That language is not mandatory, but her wishes should have much weight. The appellants argue that no such memorandum made after the execution of the will can be effective. That was formerly our rule, but in 1979 the legislature approved the use of signed memoranda, with certain restrictions. Ark. Stat. Ann. § 60-419 (Supp. 1985). Whether any such memoranda were left by Mrs. Deal is for the trial court to decide if the issue is disputed. A memorandum was attached to the inventory, but the signature in the margin has not been verified.</p>
+                <p pgmap="126" id="b126-6">The cross appeal concerns the trial court’s disclaimer of jurisdiction to determine the ownership of articles assertedly taken by the appellants, at least some of which they claim to have owned before their mother’s death. For a long time there was uncertainty in our statutory and case law about the jurisdiction of the probate court to determine questions, arising in administra­tion proceedings, with respect to the ownership of personal property. In Snow v. Martensen, 255 Ark. 1049, 1056, 505 S.W.2d 20 (1974), we discussed several of our pertinent decisions and concluded that “the better rule would be that the probate courts do have jurisdiction to determine the ownership of prop­erty ... as between personal representatives claiming for the estates and heirs or beneficiaries claiming adversely to the estates.” More recently, in Keenan v. Peevy, 267 Ark. 218, 233, 590 S.W.2d 259 (1979), we echoed the statement in Snow that “the better rule” is for the probate courts to have that jurisdiction. As a practical matter it is plain that the dispute should be determined in one court, not in two. We accordingly adopt without equivocation this better rule and recognize that the probate court’s jurisdiction should and does exist.</p>
+                <p pgmap="126" id="b126-7">Reversed on direct and cross appeal and remanded.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="122" ORDERLABEL="96" TYPE="page">
+        <fptr FILEID="tiff_00061_1"/>
+        <fptr FILEID="jp2_00061_1"/>
+        <fptr FILEID="alto_00061_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_122.1" BETYPE="IDREF" FILEID="alto_00061_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="123" ORDERLABEL="97" TYPE="page">
+        <fptr FILEID="tiff_00062_0"/>
+        <fptr FILEID="jp2_00062_0"/>
+        <fptr FILEID="alto_00062_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_123.3" BETYPE="IDREF" FILEID="alto_00062_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="124" ORDERLABEL="98" TYPE="page">
+        <fptr FILEID="tiff_00062_1"/>
+        <fptr FILEID="jp2_00062_1"/>
+        <fptr FILEID="alto_00062_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_124.2" BETYPE="IDREF" FILEID="alto_00062_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="125" ORDERLABEL="99" TYPE="page">
+        <fptr FILEID="tiff_00063_0"/>
+        <fptr FILEID="jp2_00063_0"/>
+        <fptr FILEID="alto_00063_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_125.3" BETYPE="IDREF" FILEID="alto_00063_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="126" ORDERLABEL="100" TYPE="page">
+        <fptr FILEID="tiff_00063_1"/>
+        <fptr FILEID="jp2_00063_1"/>
+        <fptr FILEID="alto_00063_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_126.2" BETYPE="IDREF" FILEID="alto_00063_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b126-7" BETYPE="IDREF" FILEID="casebody_0024"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_126.5" BETYPE="IDREF" FILEID="alto_00063_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b123-8" BETYPE="IDREF" FILEID="casebody_0024"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_123.8" BETYPE="IDREF" FILEID="alto_00062_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b126-8" BETYPE="IDREF" FILEID="casebody_0024"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_126.6" BETYPE="IDREF" FILEID="alto_00063_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b124-9" BETYPE="IDREF" FILEID="casebody_0024"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_124.7" BETYPE="IDREF" FILEID="alto_00062_1"/>
+            <area BEGIN="BL_125.1" BETYPE="IDREF" FILEID="alto_00063_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b124-8" BETYPE="IDREF" FILEID="casebody_0024"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_124.6" BETYPE="IDREF" FILEID="alto_00062_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b122-5" BETYPE="IDREF" FILEID="casebody_0024"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_122.6" BETYPE="IDREF" FILEID="alto_00061_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b122-4" BETYPE="IDREF" FILEID="casebody_0024"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_122.4" BETYPE="IDREF" FILEID="alto_00061_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b122-3" BETYPE="IDREF" FILEID="casebody_0024"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_122.3" BETYPE="IDREF" FILEID="alto_00061_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b126-6" BETYPE="IDREF" FILEID="casebody_0024"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_126.4" BETYPE="IDREF" FILEID="alto_00063_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b123-9" BETYPE="IDREF" FILEID="casebody_0024"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_123.9" BETYPE="IDREF" FILEID="alto_00062_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AuX" BETYPE="IDREF" FILEID="casebody_0024"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_122.5" BETYPE="IDREF" FILEID="alto_00061_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b125-7" BETYPE="IDREF" FILEID="casebody_0024"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_125.5" BETYPE="IDREF" FILEID="alto_00063_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b125-8" BETYPE="IDREF" FILEID="casebody_0024"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_125.6" BETYPE="IDREF" FILEID="alto_00063_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b125-9" BETYPE="IDREF" FILEID="casebody_0024"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_125.7" BETYPE="IDREF" FILEID="alto_00063_0"/>
+            <area BEGIN="BL_126.1" BETYPE="IDREF" FILEID="alto_00063_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AKj" BETYPE="IDREF" FILEID="casebody_0024"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_123.11" BETYPE="IDREF" FILEID="alto_00062_0"/>
+            <area BEGIN="BL_123.12" BETYPE="IDREF" FILEID="alto_00062_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b124-6" BETYPE="IDREF" FILEID="casebody_0024"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_124.4" BETYPE="IDREF" FILEID="alto_00062_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Amy" BETYPE="IDREF" FILEID="casebody_0024"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_122.7" BETYPE="IDREF" FILEID="alto_00061_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b125-6" BETYPE="IDREF" FILEID="casebody_0024"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_125.4" BETYPE="IDREF" FILEID="alto_00063_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b123-10" BETYPE="IDREF" FILEID="casebody_0024"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_123.10" BETYPE="IDREF" FILEID="alto_00062_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b123-11" BETYPE="IDREF" FILEID="casebody_0024"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_123.13" BETYPE="IDREF" FILEID="alto_00062_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b123-12" BETYPE="IDREF" FILEID="casebody_0024"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_123.14" BETYPE="IDREF" FILEID="alto_00062_0"/>
+            <area BEGIN="BL_124.1" BETYPE="IDREF" FILEID="alto_00062_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b124-7" BETYPE="IDREF" FILEID="casebody_0024"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_124.5" BETYPE="IDREF" FILEID="alto_00062_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

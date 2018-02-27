@@ -1,0 +1,644 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0042" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Bell v. Greenwood">Bell as ad. vs. Greenwood et al.</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 249</citation>
+          <decisiondate>1860-05</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00126_0" MIMETYPE="image/tiff" CHECKSUM="74529b83ba8a8057d894e8b6b8d3b096" CHECKSUMTYPE="MD5" SIZE="31420">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00126_0.tif"/>
+      </file>
+      <file ID="tiff_00126_1" MIMETYPE="image/tiff" CHECKSUM="45334f62d30956c8b0d4e3bdb7ee9c89" CHECKSUMTYPE="MD5" SIZE="46520">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00126_1.tif"/>
+      </file>
+      <file ID="tiff_00127_0" MIMETYPE="image/tiff" CHECKSUM="0ec5f0ee270d0eb95ab86aade638a50c" CHECKSUMTYPE="MD5" SIZE="46462">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00127_0.tif"/>
+      </file>
+      <file ID="tiff_00127_1" MIMETYPE="image/tiff" CHECKSUM="ebc0448087529de872641ad5188dd9ab" CHECKSUMTYPE="MD5" SIZE="44452">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00127_1.tif"/>
+      </file>
+      <file ID="tiff_00128_0" MIMETYPE="image/tiff" CHECKSUM="cf218fa5224a02244129ce3f115cd3fb" CHECKSUMTYPE="MD5" SIZE="49218">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00128_0.tif"/>
+      </file>
+      <file ID="tiff_00128_1" MIMETYPE="image/tiff" CHECKSUM="60507bc770c75715d2538fe6ae8d153e" CHECKSUMTYPE="MD5" SIZE="35286">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00128_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00126_0" MIMETYPE="image/jp2" CHECKSUM="3ea05f401a40f460796e6708dc440575" CHECKSUMTYPE="MD5" SIZE="3049369">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00126_0.jp2"/>
+      </file>
+      <file ID="jp2_00126_1" MIMETYPE="image/jp2" CHECKSUM="daf0d5c55f1dcd62b91916313c49869e" CHECKSUMTYPE="MD5" SIZE="2577219">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00126_1.jp2"/>
+      </file>
+      <file ID="jp2_00127_0" MIMETYPE="image/jp2" CHECKSUM="d1a20a7bbdf4ad9f0e57e40ba95fef4c" CHECKSUMTYPE="MD5" SIZE="2622945">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00127_0.jp2"/>
+      </file>
+      <file ID="jp2_00127_1" MIMETYPE="image/jp2" CHECKSUM="ced08c95d19072b68e70b4fce44c76cb" CHECKSUMTYPE="MD5" SIZE="2663572">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00127_1.jp2"/>
+      </file>
+      <file ID="jp2_00128_0" MIMETYPE="image/jp2" CHECKSUM="973a1f97eafd1f2e6b1d017bb53bf051" CHECKSUMTYPE="MD5" SIZE="2756174">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00128_0.jp2"/>
+      </file>
+      <file ID="jp2_00128_1" MIMETYPE="image/jp2" CHECKSUM="fd7f35bdbcd954e3f49ede60ae7e8f46" CHECKSUMTYPE="MD5" SIZE="2567180">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00128_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00126_0" MIMETYPE="text/xml" CHECKSUM="4f33c861b5d84d12483b545a6abdf5d3" CHECKSUMTYPE="MD5" SIZE="65830">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00126_0.xml"/>
+      </file>
+      <file ID="alto_00126_1" MIMETYPE="text/xml" CHECKSUM="ee95c4a23d4882e9e4ad66a41a02d99f" CHECKSUMTYPE="MD5" SIZE="90812">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00126_1.xml"/>
+      </file>
+      <file ID="alto_00127_0" MIMETYPE="text/xml" CHECKSUM="69240d5786aa612964570cffe5a1f7bd" CHECKSUMTYPE="MD5" SIZE="86603">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00127_0.xml"/>
+      </file>
+      <file ID="alto_00127_1" MIMETYPE="text/xml" CHECKSUM="32a6d53eb7445a3344966bf372b510b4" CHECKSUMTYPE="MD5" SIZE="83485">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00127_1.xml"/>
+      </file>
+      <file ID="alto_00128_0" MIMETYPE="text/xml" CHECKSUM="4243052e6611f8770fe8848b0c1fb43f" CHECKSUMTYPE="MD5" SIZE="92248">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00128_0.xml"/>
+      </file>
+      <file ID="alto_00128_1" MIMETYPE="text/xml" CHECKSUM="679825421211929465a4b72dd12ec625" CHECKSUMTYPE="MD5" SIZE="65165">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00128_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0042" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="254" firstpage="249">
+              <parties id="b251-6" pgmap="251">Bell as ad. vs. Greenwood et al.</parties>
+              <attorneys id="b252-6" pgmap="252">Bell &amp; Carleton, for the appellant.</attorneys>
+              <attorneys id="b253-6" pgmap="253">Watkins &amp; Gallagher, for appellees.</attorneys>
+              <summary id="b252-4" pgmap="252">Appeal from Jefferson Circuit Court in Chancery.</summary>
+              <summary id="b252-5" pgmap="252">Hon. Tiieodoric F. Sorrells, Circuit Judge.</summary>
+              <summary id="b252-7" pgmap="252">Byrd being involved, his property covered with mortgages and about to be sold at sheriff’s sale, he procures Hamilton as his friend, by placing notes and accounts (not money) in bis hands, to buy the property for him, and hold the title, until he could reimburse himself, for the liabilities he had incurred for Byrd — Byrd in the meantime retaining possession of the pro­perty. This, instead of being a fraud, was a great benefit and advantage to the creditors of Byrd.</summary>
+              <summary id="b252-8" pgmap="252">The fact that Hamilton bought the negroes at sheriff’s sale and took an absolute deed, and suffered the possession to remain with Byrd, is not of itself a fraud. Kilby vs. Hoggin, 3 J. J. M. 213; lb., Hundley vs. Webb, G63-4; lb., Brackenridge vs. Anderson, 713.</summary>
+              <summary id="b252-9" pgmap="252(165) 253(23)">It no where appears on the face of the bill, that the creditors of Hamilton ever suffered by acquiring liens or otherwise, dur­ing the time he held the title to the slaves. .And it matters not, therefore, if there was a fraud in Hamilton’s taking the title to the slaves in his own name; for when he afterwards reconveyed them to Byrd by the bill of sale, as appears in the bill, he destroyed his own, as well as the rights of his creditors, to the property. If he held the title fraudulently, and without con­sideration, when he reconveyed to Byrd, he did nothing more than what, in equity and good conscience, he ought to have done. He did nothing more than justice required at his hands. He was under a moral obligation to make the transfer of the slaves back to Byrd, and Hamilton’s creditors have no right to object or complain of him for so doing. This view of the case is fulhj sustained, and this question of fraud entirely settled, in the case of Clark’s adm’r vs. Rucker, 7 B. Monroe, p. 583.</summary>
+              <summary id="b253-5" pgmap="253">We submit, in the first place, that the question of fraud cuts no figure in this cause. The question to be determined is, was Byrd the owner of the negroes, as against Hamilton, at the time of .his death, and were the negroes properly in the posses­sion of Bell, as administrator of Byrd, at the time they were levied on? This question, we think, is clearly established in the affirmative.</summary>
+              <summary id="b253-7" pgmap="253">The essential controversy is one between Byrd’s personal representative, or what is the same thing, between Byrd him­self, and certain judgment creditors of Hamilton. And we submit that upon the facts in this case, Byrd could no more dispute that the negroes were subject to be taken in execution for his debts, than Hamilton himself could, in the present case, deny that they were liable to be levied on, as they were, for his own debts, or liabilities.</summary>
+              <summary id="b253-8" pgmap="253">Hamilton, as is alleged, was a convenient friend of Byrd, doing business for him, and bought this property under execu­tion, for a nominal sum, and with Byrd’s money, furnished before-hand for that purpose, and procured and placed on record in the face of the world, a regular legal title to the property, which, by a secret and preconcerted arrangement with Byrd, he was to hold in trust for the use and benefit of Byrd, as his friend, having ample means to reimburse himself, placed in his hands by Byrd; and while Byrd, the execution debtor, retained possession of the property, and kept his own creditors at ai-m’s length, by means of the recorded title in Hamilton, he held a private bill of sale from Hamilton to himself, for the same negroes, a.nd which, as the exhibit to the bill shows, was never placed on record.</summary>
+              <summary id="b253-9" pgmap="253(24) 254(31)">Such was the case made by .the bill, and it might be sufficient for the execution creditors of Hamilton, in this case, to rely upon the authority of the decisions of this court in Jordan adm. vs. Fenno, 13 Ark. 594; Meux vs. Anthony, 6 Eng. 411, and Eubanks vs. Dodd’s adm. 4 Ark. 173.</summary>
+              <summary id="b254-5" pgmap="254">It is admitted by us, that the creditors of Byrd could main­tain a bill against Hamilton, to set aside the sheriff’s deed to him, but we find no authority for the maintainance of a bill by them against the bona fide creditors of Hamilton, who had acquired rights by judgment and execution against him. On the contrary, the property became subject at once to the debts of Hamilton. Den vs. Monjoy, 2 Halstead 173; Chapin vs. Pease, 10 Con. 69.</summary>
+              <summary id="b254-6" pgmap="254">We submit that the decree should be affirmed, because:</summary>
+              <summary id="b254-7" pgmap="254">1st. That as the bill is founded on fraud, implied or shown against the testator, the complainant, proceeding here as his representative, cannot be allowed to take any advantage from such implication or showing, even if proved, as against the execution creditors of Hamilton.</summary>
+              <summary id="b254-8" pgmap="254">2d. The purchase of the property being made at a public sale, by Hamilton, cannot be shown, in any way, or by any party, to be fraudulent in him, per se.</summary>
+              <headnotes id="b251-7" pgmap="251">Tire principle decided in Sanders vs. Sanders et al., 20 Ark. 610, that a court of equity will interfere to prevent a sale of slaves under an execution against a third person, approved.</headnotes>
+              <headnotes id="b251-8" pgmap="251">The consideration of a bill of sale being that the vendee shall pay certain debts due by the vendor to a third person, the discharge of the debts by the vendee was a valuable consideration for the sale.</headnotes>
+              <headnotes id="b251-9" pgmap="251">A fraudulent combination between the owner and purchaser of property, is a mat­ter of which the creditors of the owner, and not those of the purchaser, could complain. ,</headnotes>
+              <headnotes id="b252-3" pgmap="252">Though a party, nor his personal representative, can set up his own fraud in a court of equity, as a ground of relief, yet if, after a fraudulent sale, the property be re-conveyed by a valid conveyance, the party will be protected in his possession in virtue of the title thus acquired.</headnotes>
+              <opinion type="majority">
+                <author id="b254-9" pgmap="254">Mr. Justice Compton</author>
+                <p id="AQJ" pgmap="254">delivered the opinion of the Court.</p>
+                <p id="b254-10" pgmap="254">The bill was brought by Marcus L. Bell, as administrator of Richard C. Byrd, deceased, to enjoin the sale of certain slaves, which, the bill alleges, belong to the estate of his intestate, and which were levied on and taken out of his possession at the suit of the creditors of Henry Hamilton, to satisfy sundry exe­cutions issued upon judgments recovered against Hamilton.</p>
+                <p id="b254-11" pgmap="254">The court below denied the relief sought, and the complain­ant appealed.</p>
+                <p id="b254-12" pgmap="254(52) 255(19)">It appeal’s from the pleadings and proof in the cause, that on the 8th October, 1849, the slaves were sold by the sheriff at public sale, to satisfy an execution against Byrd, and Hamilton became the purchaser. Afterwards, Hamilton, by bill of sale, bearing date 19th September, 1850, conveyed the slaves back to Bj’rd, who was then in possession of them, and continued in possession until the time of his death.</p>
+                <p id="b255-5" pgmap="255">The question to be determined is, whether the bill of sale from Hamilton to Byrd was fraudulent and void, as against the creditors of Hamilton. If it was, the slaves are subject to the executions] if not, the title to the slaves vested in Byrd, and a court of equity will interfere, to prevent a sale of them under the executions against Hamilton, upon the principle decided by this court in Sanders vs. Sanders et al. 20 Ark. 610.</p>
+                <p id="b255-6" pgmap="255">The consideration for which the bill of sale was executed, is recited in that instrument thus: “ I, Henry Hamilton, of, etc., for and in consideration of the sum of thirty-two hundred dol­lars, to be paid by Richard C. Byrd, as follows, to-wit: to George O. Watkins, the sum of twenty-five hundred dollars, (my obligation to said George C. Watkins due January 1st, 1850,) and my draft on Messrs. Gray &amp; Campbell, in favor of Watkins &amp; Curran, for seven hundred dollars, etc., have bar­gained, sold, etc., unto the said Richard C. Byrd, the following negroes,” etc. Shortly afterwards, Byrd, in order to secure the payment of these debts, mortgaged the slaves to Watkins &amp; Curran. In February, 1852, he paid the debts, and the mort­gage was satisfied.</p>
+                <p id="b255-7" pgmap="255(146) 256(70)">At the time these transactions took place, Byrd was laboring under great pecuniary embarrassment, and the proof conduces to show that the debts mentioned in the bill of sale were incur­red by Hamilton for accommodation of Byrd, with the under­standing that Hamilton was to protect himself against such liability out of certain notes and other effects of Byrd then in Hamilton’s hands, and under his control. How much, or whe­ther anything was ever realized by Hamilton from these effects,, does not appear. But however this may be, the undertaking of Hamilton to Watkins &amp; Curran, was a legal liability, and its discharge by Byrd was a valuable consideration.' It is not shown that Hamilton, at the time he conveyed to Byrd, was in embarrassed or failing circumstances, nor that the debts of Hamilton, to the payment of which the slaves are now sought to be subjected, existed at that time, nor does it appear how-­much, or whether any indebtedness other than that to Watkins &amp; Curran, was then outstanding and unpaid against Hamilton. Such are the circumstances under which the bill of sale was executed, and they show nothing to justify the conclusion that it was without consideration, or was a fraudulent contrivance designed to hinder and delay the creditors of Hamilton.</p>
+                <p id="b256-5" pgmap="256">Whether there was a combination between Byrd and Ham­ilton, by which the latter purchased the slaves at sheriff’s sale, and held them in fraud of Byrd’s creditors, it is not necessary to enquire, as in that event, Byrd’s creditors alone, and not Hamilton’s, could complain.</p>
+                <p id="b256-6" pgmap="256">But it'is contended that the administrator of Byrd is not entitled to relief, because the sale of the slaves to Hamilton was fraudulent. Conceding the rule to be, as it undoubtedly is, that as a party cannot set up ljis own fraud in a court of equity as a greund of relief, so neither can his personal repre­sentative be heard to do so; yet it does not apply to the case under consideration, because, admitting the sale to Hamilton to have been fraudulent, we have seen that he reconveyed by a valid conveyance, and in virtue of the title thus acquired, the administrator of Byrd asks the court to protect him in the pos­session of the slaves; and is, we think, entitled to the relief he seeks.</p>
+                <p id="b256-7" pgmap="256">Let the decree be reversed, and the cause remanded for fur­ther proceedings.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="251" ORDERLABEL="249" TYPE="page">
+        <fptr FILEID="tiff_00126_0"/>
+        <fptr FILEID="jp2_00126_0"/>
+        <fptr FILEID="alto_00126_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_251.2" BETYPE="IDREF" FILEID="alto_00126_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_251.1" BETYPE="IDREF" FILEID="alto_00126_0"/>
+              <area BEGIN="BL_251.3" BETYPE="IDREF" FILEID="alto_00126_0"/>
+              <area BEGIN="BL_251.11" BETYPE="IDREF" FILEID="alto_00126_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_251.6" BETYPE="IDREF" FILEID="alto_00126_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="252" ORDERLABEL="250" TYPE="page">
+        <fptr FILEID="tiff_00126_1"/>
+        <fptr FILEID="jp2_00126_1"/>
+        <fptr FILEID="alto_00126_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_252.1" BETYPE="IDREF" FILEID="alto_00126_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_252.2" BETYPE="IDREF" FILEID="alto_00126_1"/>
+              <area BEGIN="BL_252.3" BETYPE="IDREF" FILEID="alto_00126_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="253" ORDERLABEL="251" TYPE="page">
+        <fptr FILEID="tiff_00127_0"/>
+        <fptr FILEID="jp2_00127_0"/>
+        <fptr FILEID="alto_00127_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_253.3" BETYPE="IDREF" FILEID="alto_00127_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_253.2" BETYPE="IDREF" FILEID="alto_00127_0"/>
+              <area BEGIN="BL_253.4" BETYPE="IDREF" FILEID="alto_00127_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="254" ORDERLABEL="252" TYPE="page">
+        <fptr FILEID="tiff_00127_1"/>
+        <fptr FILEID="jp2_00127_1"/>
+        <fptr FILEID="alto_00127_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_254.2" BETYPE="IDREF" FILEID="alto_00127_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_254.3" BETYPE="IDREF" FILEID="alto_00127_1"/>
+              <area BEGIN="BL_254.4" BETYPE="IDREF" FILEID="alto_00127_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="255" ORDERLABEL="253" TYPE="page">
+        <fptr FILEID="tiff_00128_0"/>
+        <fptr FILEID="jp2_00128_0"/>
+        <fptr FILEID="alto_00128_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_255.3" BETYPE="IDREF" FILEID="alto_00128_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_255.2" BETYPE="IDREF" FILEID="alto_00128_0"/>
+              <area BEGIN="BL_255.4" BETYPE="IDREF" FILEID="alto_00128_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="256" ORDERLABEL="254" TYPE="page">
+        <fptr FILEID="tiff_00128_1"/>
+        <fptr FILEID="jp2_00128_1"/>
+        <fptr FILEID="alto_00128_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_256.2" BETYPE="IDREF" FILEID="alto_00128_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_256.3" BETYPE="IDREF" FILEID="alto_00128_1"/>
+              <area BEGIN="BL_256.4" BETYPE="IDREF" FILEID="alto_00128_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b256-5" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_256.5" BETYPE="IDREF" FILEID="alto_00128_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b254-12" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_254.13" BETYPE="IDREF" FILEID="alto_00127_1"/>
+            <area BEGIN="BL_255.1" BETYPE="IDREF" FILEID="alto_00128_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b251-8" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_251.9" BETYPE="IDREF" FILEID="alto_00126_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b251-9" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_251.10" BETYPE="IDREF" FILEID="alto_00126_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b254-10" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_254.11" BETYPE="IDREF" FILEID="alto_00127_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b256-6" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_256.6" BETYPE="IDREF" FILEID="alto_00128_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b255-6" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_255.6" BETYPE="IDREF" FILEID="alto_00128_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b255-7" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_255.7" BETYPE="IDREF" FILEID="alto_00128_0"/>
+            <area BEGIN="BL_256.1" BETYPE="IDREF" FILEID="alto_00128_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b255-5" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_255.5" BETYPE="IDREF" FILEID="alto_00128_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b251-6" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_251.7" BETYPE="IDREF" FILEID="alto_00126_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b251-7" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_251.8" BETYPE="IDREF" FILEID="alto_00126_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b254-9" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_254.9" BETYPE="IDREF" FILEID="alto_00127_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b254-8" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_254.8" BETYPE="IDREF" FILEID="alto_00127_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b252-5" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_252.6" BETYPE="IDREF" FILEID="alto_00126_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b254-7" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_254.7" BETYPE="IDREF" FILEID="alto_00127_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b254-6" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_254.6" BETYPE="IDREF" FILEID="alto_00127_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b254-5" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_254.5" BETYPE="IDREF" FILEID="alto_00127_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b253-9" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_253.9" BETYPE="IDREF" FILEID="alto_00127_0"/>
+            <area BEGIN="BL_254.1" BETYPE="IDREF" FILEID="alto_00127_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b252-3" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_252.4" BETYPE="IDREF" FILEID="alto_00126_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b253-8" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_253.8" BETYPE="IDREF" FILEID="alto_00127_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b252-4" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_252.5" BETYPE="IDREF" FILEID="alto_00126_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b252-7" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_252.8" BETYPE="IDREF" FILEID="alto_00126_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b252-6" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_252.7" BETYPE="IDREF" FILEID="alto_00126_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b252-9" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_252.10" BETYPE="IDREF" FILEID="alto_00126_1"/>
+            <area BEGIN="BL_253.1" BETYPE="IDREF" FILEID="alto_00127_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b253-5" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_253.5" BETYPE="IDREF" FILEID="alto_00127_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b253-6" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_253.6" BETYPE="IDREF" FILEID="alto_00127_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b253-7" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_253.7" BETYPE="IDREF" FILEID="alto_00127_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b254-11" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_254.12" BETYPE="IDREF" FILEID="alto_00127_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b256-7" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_256.7" BETYPE="IDREF" FILEID="alto_00128_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b252-8" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_252.9" BETYPE="IDREF" FILEID="alto_00126_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AQJ" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_254.10" BETYPE="IDREF" FILEID="alto_00127_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

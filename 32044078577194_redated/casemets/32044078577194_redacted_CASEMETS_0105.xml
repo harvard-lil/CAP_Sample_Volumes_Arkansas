@@ -1,0 +1,431 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0105" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Newton County v. West">NEWTON COUNTY, Arkansas v. Don WEST, Administrator of the Estate of Sue S. MORAK, Deceased</name>
+          <docketnumber>85-300</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 432</citation>
+          <citation category="parallel" type="bluebook">705 S.W.2d 887</citation>
+          <decisiondate>1986-03-31</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:00Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00233_1" MIMETYPE="image/tiff" CHECKSUM="9c7bbac0bd23e0c20a7c082e0262cc1d" CHECKSUMTYPE="MD5" SIZE="22554">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00233_1.tif"/>
+      </file>
+      <file ID="tiff_00234_0" MIMETYPE="image/tiff" CHECKSUM="5a72f4f21d8afb3ac1dfc8cdb22bb6a4" CHECKSUMTYPE="MD5" SIZE="56162">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00234_0.tif"/>
+      </file>
+      <file ID="tiff_00234_1" MIMETYPE="image/tiff" CHECKSUM="683c79baaae5d80e07edfc78d64bdd5d" CHECKSUMTYPE="MD5" SIZE="44210">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00234_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00233_1" MIMETYPE="image/jp2" CHECKSUM="52485c9cd9727621123ca5952eb8d7a4" CHECKSUMTYPE="MD5" SIZE="1808201">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00233_1.jp2"/>
+      </file>
+      <file ID="jp2_00234_0" MIMETYPE="image/jp2" CHECKSUM="f39ea0f5b5458dedbbbf5016230cfae8" CHECKSUMTYPE="MD5" SIZE="2572380">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00234_0.jp2"/>
+      </file>
+      <file ID="jp2_00234_1" MIMETYPE="image/jp2" CHECKSUM="1158e38b06dec6977bd59a35fabb070e" CHECKSUMTYPE="MD5" SIZE="2432153">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00234_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00233_1" MIMETYPE="text/xml" CHECKSUM="fd200ff4a4a6828833901b9618a108aa" CHECKSUMTYPE="MD5" SIZE="33606">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00233_1.xml"/>
+      </file>
+      <file ID="alto_00234_0" MIMETYPE="text/xml" CHECKSUM="f75c5a6d686b0b4f5762f3f6cafe49b1" CHECKSUMTYPE="MD5" SIZE="88807">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00234_0.xml"/>
+      </file>
+      <file ID="alto_00234_1" MIMETYPE="text/xml" CHECKSUM="fe0d892a79158fa340634942ef5663a8" CHECKSUMTYPE="MD5" SIZE="74810">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00234_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0105" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="432" lastpage="434">
+              <court pgmap="466" id="b466-8">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="466" id="b466-7">85-300</docketnumber>
+              <citation pgmap="466" id="AzG">705 S.W.2d 887</citation>
+              <parties pgmap="466" id="b466-6">NEWTON COUNTY, Arkansas v. Don WEST, Administrator of the Estate of Sue S. MORAK, Deceased</parties>
+              <decisiondate pgmap="466" id="A5l">Opinion delivered March 31, 1986</decisiondate>
+              <otherdate pgmap="466" id="Aun">[Rehearing denied May 5, 1986.<footnotemark>*</footnotemark>]</otherdate>
+              <judges pgmap="468" id="b468-10">Turtle, J., not participating.</judges>
+              <attorneys pgmap="466" id="b466-15">Karen B. Walker, for appellant.</attorneys>
+              <attorneys pgmap="466" id="b466-16">Gresham &amp; Kirkpatrick, by: James E. Gresham, for appellee.</attorneys>
+              <footnote label="*">
+                <p pgmap="466" id="b466-18">* Purtle, J., not participating.</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="466" id="b466-17">Jack Holt, Jr., Chief Justice.</author>
+                <p pgmap="466(64) 467(24)" id="AJD">Newton County filed a motion to have appellee, Don West, removed as administrator of the estate of Sue S. Morak because of a conflict of interest and misadministration, and have him replaced by a special adminis­trator. The Newton County Probate Court responded by ap­pointing a special administrator to appeal a chancery court decision adverse to the estate, but retaining West as administra­tor for all other purposes. Newton County appeals the decision and we affirm. Jurisdiction in this court is pursuant to Sup. Ct. R, 29(1)(c).</p>
+                <p pgmap="467" id="b467-6">Dwight Davison was originally appointed as administrator of the estate of decedent, who died leaving no will and no known heirs. Davison resigned as administrator because of conflicts of interest resulting from his claims against the estate, including $324,087.35 in U.S. Savings Bonds and $4,020 in cash contained in a lock box and $11,110 owed on a car decedent had agreed to buy for him in return for services he and his wife had rendered. West was named as successor administrator. The chancery court subsequently found the lock box contents were held jointly with the right of survivorship in Davison and were therefore not the property of the estate.</p>
+                <p pgmap="467" id="b467-7">After the final accounting was approved, which had been prepared by Davison before his resignation, and Davison’s claims against the estate were allowed, Newton County moved to have West removed as administrator. Newton County’s motion al­leged that: 1) no notice was given to the county of the proceedings involving the estate although the county claimed to be an interested party as a potential beneficiary under the escheat statutes; 2) West was sharing office space with Davison’s attor­ney, which presented a conflict of interest since Davison was an adverse party to the estate; 3) West failed to challenge the administrator’s and attorney’s fees listed in the final accounting; 4) West failed to challenge the car payment provided in the final accounting which Davison claimed as a gift from the decedent; and 5) West refused to pursue an appeal of the chancery court judgment awarding Davison the contents of the lock box. West denied all allegations of conflicts of interest and misadministra­tion in his answer.</p>
+                <p pgmap="467" id="b467-8">Arkansas Stat. Ann. § 62-2203 (Repl. 1971) provides;</p>
+                <blockquote pgmap="467(68) 468(58)" id="b467-9">When the personal representative becomes mentally incompetent, disqualified, unsuitable or incapable of dis­charging his trust, has mismanaged the estate, failed tp perform any duty imposed by law or by any lawful order of the court, or has ceased to be a resident of the state without filing the authorization of an agent to accept service as provided by Section 70 b (6) [§ 62-2201], then the court may remove him. The court on its own motion may, or on the petition of an interested person shall, order the personal representative to appear and show cause why he should not be removed. The removal of a personal representative after letters have been duly issued to him does not invalidate his official acts performed prior to removal.</blockquote>
+                <p pgmap="468" id="b468-6">A hearing was held on the motion, but no evidence or testimony was produced to provide any basis for removing West. The entire hearing consisted of argument by counsel concerning whether Newton County was an interested party based on the possibility that the estate would escheat to the county. The court stated at the close of the hearing that it was aware that it could remove an administrator on its own motion even if Newton County was not an interested party, but that it could consider that as a factor in its decision.</p>
+                <p pgmap="468" id="b468-7">The hearing is not abstracted and no argument is made now as to whether Newton County is an interested party, so we do not consider that issue on appeal. Hazen v. City of Booneville, 260 Ark. 871, 545 S.W.2d 614 (1977); Collier v. Hot Springs Savings &amp; Loan Ass’n., 272 Ark. 162, 612 S.W.2d 730 (1981).</p>
+                <p pgmap="468" id="b468-8">
+                   It is the burden of appellant to present a record on appeal demonstrating that the probate court’s decision was clearly erroneous, and in the absence of that showing we do not reverse. Bostic v. Bostic Estate, 281 Ark. 167, 662 S.W.2d 815 (1984). We cannot say from the record before us, consisting solely of the pleadings, that the probate court committed error as a matter of law in holding that any alleged conflicts or misman­agement would be cured by appointing a special administrator to pursue the appeal of the Davison judgment against the estate, and in retaining West for all other purposes.</p>
+                <p pgmap="468" id="b468-9">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="466" ORDERLABEL="432" TYPE="page">
+        <fptr FILEID="tiff_00233_1"/>
+        <fptr FILEID="jp2_00233_1"/>
+        <fptr FILEID="alto_00233_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_466.1" BETYPE="IDREF" FILEID="alto_00233_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="467" ORDERLABEL="433" TYPE="page">
+        <fptr FILEID="tiff_00234_0"/>
+        <fptr FILEID="jp2_00234_0"/>
+        <fptr FILEID="alto_00234_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_467.3" BETYPE="IDREF" FILEID="alto_00234_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="468" ORDERLABEL="434" TYPE="page">
+        <fptr FILEID="tiff_00234_1"/>
+        <fptr FILEID="jp2_00234_1"/>
+        <fptr FILEID="alto_00234_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_468.2" BETYPE="IDREF" FILEID="alto_00234_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AJD" BETYPE="IDREF" FILEID="casebody_0105"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_466.19" BETYPE="IDREF" FILEID="alto_00233_1"/>
+            <area BEGIN="BL_466.20" BETYPE="IDREF" FILEID="alto_00233_1"/>
+            <area BEGIN="BL_467.1" BETYPE="IDREF" FILEID="alto_00234_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b467-7" BETYPE="IDREF" FILEID="casebody_0105"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_467.5" BETYPE="IDREF" FILEID="alto_00234_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b467-6" BETYPE="IDREF" FILEID="casebody_0105"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_467.4" BETYPE="IDREF" FILEID="alto_00234_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b466-6" BETYPE="IDREF" FILEID="casebody_0105"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_466.5" BETYPE="IDREF" FILEID="alto_00233_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b466-7" BETYPE="IDREF" FILEID="casebody_0105"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_466.6" BETYPE="IDREF" FILEID="alto_00233_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b468-6" BETYPE="IDREF" FILEID="casebody_0105"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_468.4" BETYPE="IDREF" FILEID="alto_00234_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b468-7" BETYPE="IDREF" FILEID="casebody_0105"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_468.5" BETYPE="IDREF" FILEID="alto_00234_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b468-8" BETYPE="IDREF" FILEID="casebody_0105"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_468.6" BETYPE="IDREF" FILEID="alto_00234_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b468-9" BETYPE="IDREF" FILEID="casebody_0105"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_468.7" BETYPE="IDREF" FILEID="alto_00234_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b466-8" BETYPE="IDREF" FILEID="casebody_0105"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_466.8" BETYPE="IDREF" FILEID="alto_00233_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b467-9" BETYPE="IDREF" FILEID="casebody_0105"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_467.7" BETYPE="IDREF" FILEID="alto_00234_0"/>
+            <area BEGIN="BL_468.1" BETYPE="IDREF" FILEID="alto_00234_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b467-8" BETYPE="IDREF" FILEID="casebody_0105"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_467.6" BETYPE="IDREF" FILEID="alto_00234_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aun" BETYPE="IDREF" FILEID="casebody_0105"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_466.10" BETYPE="IDREF" FILEID="alto_00233_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A5l" BETYPE="IDREF" FILEID="casebody_0105"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_466.9" BETYPE="IDREF" FILEID="alto_00233_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b466-18" BETYPE="IDREF" FILEID="casebody_0105"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_466.21" BETYPE="IDREF" FILEID="alto_00233_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b468-10" BETYPE="IDREF" FILEID="casebody_0105"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_468.8" BETYPE="IDREF" FILEID="alto_00234_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b466-15" BETYPE="IDREF" FILEID="casebody_0105"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_466.16" BETYPE="IDREF" FILEID="alto_00233_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b466-16" BETYPE="IDREF" FILEID="casebody_0105"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_466.17" BETYPE="IDREF" FILEID="alto_00233_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b466-17" BETYPE="IDREF" FILEID="casebody_0105"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_466.18" BETYPE="IDREF" FILEID="alto_00233_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AzG" BETYPE="IDREF" FILEID="casebody_0105"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_466.7" BETYPE="IDREF" FILEID="alto_00233_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

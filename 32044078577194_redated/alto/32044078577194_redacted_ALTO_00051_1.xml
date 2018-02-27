@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#">
+  <!--Created by Innodata R.E.D. RLI tool: 2017-04-25 06:27:15.808030-->
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>32044078577194_00051_1.tif</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OP_1">
+      <ocrProcessingStep>
+        <processingStepDescription>Alto coordinates refer to the deskewed TIFF file. 
+		To convert point (x, y) to original image (TIFF or JP2) apply transformation matrix T=(m00, m01, m10, m11, b0, b1) using the rule:
+			T * (x,y) = (m00 * x + m01 * y + b0), (m10 * x + m11 * y + b1)</processingStepDescription>
+        <processingStepSettings>RED.transform=(0.9999920000106667, -0.003999989333341867, 0.003999989333341867, 0.9999920000106667, -0.6240000000000236, -6.747999999999953)</processingStepSettings>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Styles>
+    <TextStyle FONTFAMILY="Times New Roman" FONTSIZE="11.00" FONTTYPE="serif" FONTWIDTH="proportional" ID="Style_6"/>
+    <TextStyle FONTFAMILY="Times New Roman" FONTSIZE="11.00" FONTSTYLE="italics" FONTTYPE="serif" FONTWIDTH="proportional" ID="Style_7"/>
+    <TextStyle FONTFAMILY="Times New Roman" FONTSIZE="11.00" FONTSTYLE="bold" FONTTYPE="serif" FONTWIDTH="proportional" ID="Style_8"/>
+  </Styles>
+  <Tags>
+    <StructureTag ID="b102-1" LABEL="pagelabel"/>
+    <StructureTag ID="b102-17" LABEL="attorneys"/>
+  </Tags>
+  <Layout>
+    <Page HEIGHT="2695" ID="PG_102" PHYSICAL_IMG_NR="102" WIDTH="1636">
+      <PrintSpace HEIGHT="2695" HPOS="0" ID="PS_102" VPOS="0" WIDTH="1636">
+        <TextBlock HEIGHT="35.0" HPOS="308.0" ID="BL_102.2" TAGREFS="b102-1" VPOS="287.0" WIDTH="44.0">
+          <TextLine HEIGHT="35" HPOS="308" ID="TL_102.2.1" VPOS="287" WIDTH="44">
+            <String CONTENT="76" HEIGHT="35" HPOS="308" ID="ST_102.2.1.1" STYLEREFS="Style_8" VPOS="287" WIDTH="44" WC="0.86" CC="00" TAGREFS=""/>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HEIGHT="45.0" HPOS="390.0" ID="BL_102.12" TAGREFS="b102-17" VPOS="2423.0" WIDTH="922.0">
+          <TextLine HEIGHT="45" HPOS="390" ID="TL_102.12.1" VPOS="2423" WIDTH="922">
+            <String CONTENT="John" HEIGHT="34" HPOS="390" ID="ST_102.12.1.1" STYLEREFS="Style_7" VPOS="2423" WIDTH="94" WC="0.98" CC="0000" TAGREFS=""/>
+            <SP HPOS="484" ID="SP_102.12.1.2" VPOS="2425" WIDTH="24"/>
+            <String CONTENT="W." HEIGHT="33" HPOS="508" ID="ST_102.12.1.3" STYLEREFS="Style_7" VPOS="2425" WIDTH="46" WC="1.00" CC="00" TAGREFS=""/>
+            <SP HPOS="554" ID="SP_102.12.1.4" VPOS="2423" WIDTH="21"/>
+            <String CONTENT="Settle," HEIGHT="41" HPOS="575" ID="ST_102.12.1.5" STYLEREFS="Style_7" VPOS="2423" WIDTH="124" WC="0.87" CC="0000000" TAGREFS=""/>
+            <SP HPOS="699" ID="SP_102.12.1.6" VPOS="2423" WIDTH="22"/>
+            <String CONTENT="for" HEIGHT="35" HPOS="721" ID="ST_102.12.1.7" STYLEREFS="Style_6" VPOS="2423" WIDTH="53" WC="1.00" CC="000" TAGREFS=""/>
+            <SP HPOS="774" ID="SP_102.12.1.8" VPOS="2424" WIDTH="20"/>
+            <String CONTENT="appellant" HEIGHT="44" HPOS="794" ID="ST_102.12.1.9" STYLEREFS="Style_6" VPOS="2424" WIDTH="177" WC="1.00" CC="000000000" TAGREFS=""/>
+            <SP HPOS="971" ID="SP_102.12.1.10" VPOS="2424" WIDTH="20"/>
+            <String CONTENT="Michael" HEIGHT="35" HPOS="991" ID="ST_102.12.1.11" STYLEREFS="Style_6" VPOS="2424" WIDTH="156" WC="0.97" CC="0000000" TAGREFS=""/>
+            <SP HPOS="1147" ID="SP_102.12.1.12" VPOS="2425" WIDTH="20"/>
+            <String CONTENT="Ashing." HEIGHT="42" HPOS="1167" ID="ST_102.12.1.13" STYLEREFS="Style_6" VPOS="2425" WIDTH="145" WC="0.88" CC="0000000" TAGREFS=""/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

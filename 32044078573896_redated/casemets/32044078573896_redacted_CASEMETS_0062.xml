@@ -1,0 +1,562 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0062" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Craig v. Flanagin">Craig vs. Flanagin et al.</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 319</citation>
+          <decisiondate>1860-07</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00161_0" MIMETYPE="image/tiff" CHECKSUM="b29f64614bda64c5ca87d74f2629759c" CHECKSUMTYPE="MD5" SIZE="32534">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00161_0.tif"/>
+      </file>
+      <file ID="tiff_00161_1" MIMETYPE="image/tiff" CHECKSUM="a18ceeb4b767ef37251f6abf74c80b9d" CHECKSUMTYPE="MD5" SIZE="47170">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00161_1.tif"/>
+      </file>
+      <file ID="tiff_00162_0" MIMETYPE="image/tiff" CHECKSUM="b05763e96975d2ec40005a0730fc63fd" CHECKSUMTYPE="MD5" SIZE="47624">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00162_0.tif"/>
+      </file>
+      <file ID="tiff_00162_1" MIMETYPE="image/tiff" CHECKSUM="744bee5d6f762def29bc1f10b4df4ff2" CHECKSUMTYPE="MD5" SIZE="47672">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00162_1.tif"/>
+      </file>
+      <file ID="tiff_00163_0" MIMETYPE="image/tiff" CHECKSUM="4985a42f3555594f34df55f45fc8b682" CHECKSUMTYPE="MD5" SIZE="36824">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00163_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00161_0" MIMETYPE="image/jp2" CHECKSUM="9ef3a676b74286b569517d6ea0eeba83" CHECKSUMTYPE="MD5" SIZE="2510679">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00161_0.jp2"/>
+      </file>
+      <file ID="jp2_00161_1" MIMETYPE="image/jp2" CHECKSUM="27e4b8b8cf056a679ee33841ec32a9a2" CHECKSUMTYPE="MD5" SIZE="2601239">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00161_1.jp2"/>
+      </file>
+      <file ID="jp2_00162_0" MIMETYPE="image/jp2" CHECKSUM="99d68434436133a7ce2d9eff7f6a09a2" CHECKSUMTYPE="MD5" SIZE="2932987">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00162_0.jp2"/>
+      </file>
+      <file ID="jp2_00162_1" MIMETYPE="image/jp2" CHECKSUM="2193b03c91085a77333f9f003babbd46" CHECKSUMTYPE="MD5" SIZE="2574705">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00162_1.jp2"/>
+      </file>
+      <file ID="jp2_00163_0" MIMETYPE="image/jp2" CHECKSUM="2c52bc4f7b86817e59c57291e6b8f68c" CHECKSUMTYPE="MD5" SIZE="2528422">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00163_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00161_0" MIMETYPE="text/xml" CHECKSUM="60e6cad27da02675909b087fa0060157" CHECKSUMTYPE="MD5" SIZE="67780">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00161_0.xml"/>
+      </file>
+      <file ID="alto_00161_1" MIMETYPE="text/xml" CHECKSUM="8f8b391183f0a772bc96a0a0e4ef5edf" CHECKSUMTYPE="MD5" SIZE="91166">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00161_1.xml"/>
+      </file>
+      <file ID="alto_00162_0" MIMETYPE="text/xml" CHECKSUM="4668d5b6ef3250c9b63795f99b52041b" CHECKSUMTYPE="MD5" SIZE="90037">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00162_0.xml"/>
+      </file>
+      <file ID="alto_00162_1" MIMETYPE="text/xml" CHECKSUM="5dc5fe013ddb685a92a013018da3eb58" CHECKSUMTYPE="MD5" SIZE="93578">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00162_1.xml"/>
+      </file>
+      <file ID="alto_00163_0" MIMETYPE="text/xml" CHECKSUM="e1052ebeb8ab70c3e9641863e8d5cc4d" CHECKSUMTYPE="MD5" SIZE="71999">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00163_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0062" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="323" firstpage="319">
+              <parties id="b321-4" pgmap="321">Craig vs. Flanagin et al.</parties>
+              <attorneys id="b321-7" pgmap="321">Fowler &amp; Stillwell, for appellant.</attorneys>
+              <attorneys id="b321-10" pgmap="321">Watkins &amp; Gallagher, for appellees.</attorneys>
+              <summary id="b321-6" pgmap="321">Appeal from the Circuit Court of Dallas County in Chancenj.</summary>
+              <summary id="AHY" pgmap="321">Hon. Ti-ieodoric F. Sorrells, Circuit Judge.</summary>
+              <summary id="b321-8" pgmap="321">The act of 10th January, 1857, attempting to cut off eo instanii existing causes of action, is unconstitutional and void. Smith’s Com. secs. 371, 372; 2 Gall. Rep. 105; 2 Greenlf. Rep. 293; 4 Wheat. Rep. 122.</summary>
+              <summary id="b321-9" pgmap="321">The 2d and 3d sections, attempting to deprive a man of his property without a trial, violate Art. 7, Const. U. S.and secs. 2 and 10 of Art. 2, Const, of Ark., 4 Dill’s Rep. 146; 1 Dev. Rep. 4; 10 Yerg. Rep. 59; 2 Kent’s Com. 24 part 14; 2 Story on Const. U. S. 661; 18 Wend. 657; 13 Ark. 206; 9 Ark. 446.</summary>
+              <summary id="b321-11" pgmap="321">The appellant failed to comply with the requisitions of the act of 10th January, 1857, and his bill was properly dismissed.</summary>
+              <headnotes id="b321-5" pgmap="321">The act of 10th January, 1857 (Gould’s Dig. ch. 106 secs. 6 to 9) is not uncon­stitutional; and a bill for the redemption of lands sold for non-payment of taxes, may well be dismissed, if the affidavit be not first filed as required by the second section of the act.</headnotes>
+              <opinion type="majority">
+                <author id="b321-12" pgmap="321">Mr. Justice Fairchild</author>
+                <p id="Akg" pgmap="321">delivered the opinion of the court.</p>
+                <p id="b321-13" pgmap="321">The lands concerning which the complaint of the bill is preferred, were taxed in Clark county in 1842, against McKay W. Campbell as a non-resident, who was the same person from whom the plaintiff, in 1841, obtained a deed to the same lands.</p>
+                <p id="b322-4" pgmap="322">For default of the payment of the taxes they were offered for sale by the collector of Clark county, in November, 1842, and the defendants Flanagin and Duncan with Benjamin L. Brittin purchased them. On the 4th of March, 1843, Brittin endorsed upon the certificate of purchase taken by the pur­chasers, that he had transferred his interest in the lands to his two co-purchasers, Flanagin and Duncan, who on the 19th of January, 1847, obtained a collector’s deed for the lands from the sheriff of Dallas county, the lands being in the area which, in 1845, was made Dallas county.</p>
+                <p id="b322-5" pgmap="322">At the September term 1847, of the circuit court of Dallas county, the court sitting in chancery, upon the petition of Flana­gin and Duncan, and upon evidence and consideration that the proceeding was well brought and sustained under the first five sections of chapter 160 of English’s Digest, made a decree of con­firmation as provided for in the sixth section of the same chapter.</p>
+                <p id="b322-6" pgmap="322">To avoid the effect of this decree the appellant, upon the 29th of January, 1857, filed his bill on the chancery side of the Dallas circuit court, alleging six specific errors to be apparent upon the face of the decree, for which it should be reversed, and he be relieved against such errors, as upon a bill of review, which the bill so far was, according to his denomination thereof.</p>
+                <p id="b322-7" pgmap="322">In further allegations, the bill by way of an original bill, and of an original bill in the nature of a bill of review, made numerous specifications of alleged fraudulent conduct of Flana­gin and Duncan in obtaining their deed to the lands, and in procuring the decree of confirmation, as injurious to the plain­tiff, and practicing imposition upon the court that pronounced the decree.</p>
+                <p id="b322-8" pgmap="322(70) 323(81)">But with these allegations of the bill, in either or in any of its aspects, this court has no concern; inasmuch as it now is only to be decided whether the court below rightly dismissed the bill, upon the motion of the defendants, for not being verified by affidavit, for being filed without previous leave of the court, and because the plaintiff did not, before the issuance of the writ in this case, file in the office of the clerk of the circuit court of Dallas county an affidavit that he had tendered to the defend­ants the taxes and costs first paid on account of the lands, with one hundred per cent, interest thereon, and interest at twenty-­five per cent, per annum upon costs and taxes afterwards paid upon the lands, and the full value of all improvements made upon the lands, and that the same had been refused.</p>
+                <p id="b323-5" pgmap="323">Waiving the comparatively unimportant points of practice raised in the motion, as to there being no leave to file the bill, and no affidavit to verify it, the other and main objection to this suit, and that upon which the appellant’s counsel suppose the court below to have dismissed the bill, must be con­sidered.</p>
+                <p id="b323-6" pgmap="323">The need for an affidavit by the plaintiff, concerning the tender for taxes, costs, interest, and improvements, arises from the 2nd section of an act, approved 10th January, 1857, entitled “An act to quiet land titles in this state,” and the action of the court in dismissing the bill is sustained and required by the 3rd section of the act.</p>
+                <p id="b323-7" pgmap="323">This seems to be conceded by the counsel, of Craig, and hence his argument for the overthrow of the statute, as an unjust and unconstitutional enactment, loading the right for a recovery of the appellant’s lands, with conditions that are burdensome and might be impossible to perform, and depriving him of his pro­perty in another way than by the judgment of his peers, or the law of the land.</p>
+                <p id="b323-8" pgmap="323">Relief from an impolitic or unfair law is not within the scope of remedial justice as administered by courts, yet the views of this court upon the policy of our laws, subjecting property to taxation and enforcing its sale upon default of payment of taxes with which it is charged, are sufficiently indicated in numerous cases, of which Merrick vs. Hutt, 15 Ark. 331, may be mentioned as fully in point, and well sustained by argument, by previous authority, and by the subsequent adjudications of this court.</p>
+                <p id="b323-9" pgmap="323(13) 324(68)">The state had the right to tax the lands in controversy, did tax them in 1842, rightly enforced the payment of the tax after the neglect of Craig to make the payment, by selling them to the defendants and to Brittin. Biscoe vs. Coulter, 18 Ark. 439, 440. The lands were sold, not the interest of McKay W. Campbell, the former owner, and the person against whom they were taxed. Gould's Dig. 952 sec. 133; Merrick vs. Hutt, 15 Ark. 343.</p>
+                <p id="b324-5" pgmap="324">By the sale of the lands the title to them was taken away from Craig, was vested in the purchasers, and could have been so vested without the possibility of redemption, without any ground for an action for their recovery; but if the law allows a defaulting owner of taxable property to redeem it, or to sue for it, but attaches conditions to the right of redemption, or of suit, the right is not the less a privilege to the defaulter. That privilege may be more or less valuable, according to the burden of the conditions; and if a non-resident defaulting owner of lands be unable or unwilling to perform the acts requisite to redeem, or to sue, he is only in the unfortunate state of a resi­dent tax payer whose lands have been sold for taxes because he could not, or did not pay them; and because they could not be made out of personal property.</p>
+                <p id="b324-6" pgmap="324">The law against which the appellant’s counsel so earnestly argues, instead of being a deprivation of the rights of Craig, is an acknowledgement of them, recognizing in him a right which the state has not extended to the resident tax payers of a county, whose lands, when once sold for taxes, may not be recovered by redemption, or by suit, though with an affidavit of tender of payment for taxes, costs, interest and improvements.</p>
+                <p id="b324-7" pgmap="324">If there were any unconstitutionality in the proceedings by which the appellant’s lands became and are the lands of the tax sale buyers, it must be in such as are condemnatory, that authorize them to be sold, not in the act that concedes a right to sue for them, though restricted by conditions which the ' appellant may think to be burdensome.</p>
+                <p id="b324-8" pgmap="324(23) 325(158)">If the act in- question, which is also found in Gould's Digest, title Limitations, sections 6 to 9, was, as the New Hampshire statute of improvements was claimed, though not decided to be, in Society, &amp; vs. Wheeler in 2 Gallison 142, introductory of a new rule which entirely destroyed an owner’s right to sue for his own lands except upon paying for improvements made with­out his consent, and without default upon his part: or if it was in violation of a compact entered into by the state, as the Ken­tucky occupant law was held to be, in Biddle vs. Green, 8 Wheat. 1: or if it subjected one man’s land to the private use and convenience of another, as was the case in Taylor vs. Por­ter, 4 Hill: or if it transferred Craig’s property to Flanagin and Duncan without the judgment of Craig’s peers, or without warrant of the law of the land, as contended for by the coun­sel of the appellant, this court might not differ from the counsel in its estimation of the law.</p>
+                <p id="b325-5" pgmap="325">But the compulsory transfer of the appellant’s lands to the appellees, has not been made without or against the law of the land, but under law well settled to be both constitutional and founded in wise and necessary policy; it is not in violation of any compact of the state, for she has never engaged that the lands should be free from taxation, or exempt from the usual and legal consequences of non-payment of the taxes charged upon the lands, nor is the statute in question different from the former law, and contained in GouWs Digest 953 sec. 143, upon the matter of paying for improvements; and we hold that the law in question is not unconstitutional, and being well applied to this case in the court below, its decree must be affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="321" ORDERLABEL="319" TYPE="page">
+        <fptr FILEID="tiff_00161_0"/>
+        <fptr FILEID="jp2_00161_0"/>
+        <fptr FILEID="alto_00161_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_321.2" BETYPE="IDREF" FILEID="alto_00161_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_321.1" BETYPE="IDREF" FILEID="alto_00161_0"/>
+              <area BEGIN="BL_321.3" BETYPE="IDREF" FILEID="alto_00161_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="322" ORDERLABEL="320" TYPE="page">
+        <fptr FILEID="tiff_00161_1"/>
+        <fptr FILEID="jp2_00161_1"/>
+        <fptr FILEID="alto_00161_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_322.1" BETYPE="IDREF" FILEID="alto_00161_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_322.2" BETYPE="IDREF" FILEID="alto_00161_1"/>
+              <area BEGIN="BL_322.3" BETYPE="IDREF" FILEID="alto_00161_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="323" ORDERLABEL="321" TYPE="page">
+        <fptr FILEID="tiff_00162_0"/>
+        <fptr FILEID="jp2_00162_0"/>
+        <fptr FILEID="alto_00162_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_323.3" BETYPE="IDREF" FILEID="alto_00162_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_323.2" BETYPE="IDREF" FILEID="alto_00162_0"/>
+              <area BEGIN="BL_323.4" BETYPE="IDREF" FILEID="alto_00162_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="324" ORDERLABEL="322" TYPE="page">
+        <fptr FILEID="tiff_00162_1"/>
+        <fptr FILEID="jp2_00162_1"/>
+        <fptr FILEID="alto_00162_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_324.2" BETYPE="IDREF" FILEID="alto_00162_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_324.3" BETYPE="IDREF" FILEID="alto_00162_1"/>
+              <area BEGIN="BL_324.4" BETYPE="IDREF" FILEID="alto_00162_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="325" ORDERLABEL="323" TYPE="page">
+        <fptr FILEID="tiff_00163_0"/>
+        <fptr FILEID="jp2_00163_0"/>
+        <fptr FILEID="alto_00163_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_325.3" BETYPE="IDREF" FILEID="alto_00163_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_325.2" BETYPE="IDREF" FILEID="alto_00163_0"/>
+              <area BEGIN="BL_325.4" BETYPE="IDREF" FILEID="alto_00163_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AHY" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_321.7" BETYPE="IDREF" FILEID="alto_00161_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b321-8" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_321.9" BETYPE="IDREF" FILEID="alto_00161_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b321-6" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_321.6" BETYPE="IDREF" FILEID="alto_00161_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b321-9" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_321.10" BETYPE="IDREF" FILEID="alto_00161_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b322-5" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_322.5" BETYPE="IDREF" FILEID="alto_00161_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b322-4" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_322.4" BETYPE="IDREF" FILEID="alto_00161_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b322-7" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_322.7" BETYPE="IDREF" FILEID="alto_00161_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b322-6" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_322.6" BETYPE="IDREF" FILEID="alto_00161_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b323-5" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_323.5" BETYPE="IDREF" FILEID="alto_00162_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b323-6" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_323.6" BETYPE="IDREF" FILEID="alto_00162_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b323-7" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_323.7" BETYPE="IDREF" FILEID="alto_00162_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b323-8" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_323.8" BETYPE="IDREF" FILEID="alto_00162_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b321-7" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_321.8" BETYPE="IDREF" FILEID="alto_00161_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b321-4" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_321.4" BETYPE="IDREF" FILEID="alto_00161_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b321-5" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_321.5" BETYPE="IDREF" FILEID="alto_00161_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b322-8" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_322.8" BETYPE="IDREF" FILEID="alto_00161_1"/>
+            <area BEGIN="BL_323.1" BETYPE="IDREF" FILEID="alto_00162_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b323-9" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_323.9" BETYPE="IDREF" FILEID="alto_00162_0"/>
+            <area BEGIN="BL_324.1" BETYPE="IDREF" FILEID="alto_00162_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b325-5" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_325.5" BETYPE="IDREF" FILEID="alto_00163_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b324-7" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_324.7" BETYPE="IDREF" FILEID="alto_00162_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b324-6" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_324.6" BETYPE="IDREF" FILEID="alto_00162_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b324-5" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_324.5" BETYPE="IDREF" FILEID="alto_00162_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Akg" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_321.14" BETYPE="IDREF" FILEID="alto_00161_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b324-8" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_324.8" BETYPE="IDREF" FILEID="alto_00162_1"/>
+            <area BEGIN="BL_325.1" BETYPE="IDREF" FILEID="alto_00163_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b321-10" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_321.11" BETYPE="IDREF" FILEID="alto_00161_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b321-11" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_321.12" BETYPE="IDREF" FILEID="alto_00161_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b321-12" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_321.13" BETYPE="IDREF" FILEID="alto_00161_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b321-13" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_321.15" BETYPE="IDREF" FILEID="alto_00161_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

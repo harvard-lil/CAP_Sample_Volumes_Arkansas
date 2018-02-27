@@ -1,0 +1,406 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0022" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Kellums v. Richardson">Kellums vs. Richardson et al.</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 137</citation>
+          <decisiondate>1860-01</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00070_0" MIMETYPE="image/tiff" CHECKSUM="40e921da49a5df7d04a870479bf2742b" CHECKSUMTYPE="MD5" SIZE="34864">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00070_0.tif"/>
+      </file>
+      <file ID="tiff_00070_1" MIMETYPE="image/tiff" CHECKSUM="aacd8b81f9c832c07f10d5d3ddd873cd" CHECKSUMTYPE="MD5" SIZE="48472">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00070_1.tif"/>
+      </file>
+      <file ID="tiff_00071_0" MIMETYPE="image/tiff" CHECKSUM="aeb5bc2b919fbaecdaf87986510c1a0e" CHECKSUMTYPE="MD5" SIZE="46308">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00071_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00070_0" MIMETYPE="image/jp2" CHECKSUM="69a279250f0d2c3b1aefe0c20dd35307" CHECKSUMTYPE="MD5" SIZE="2530447">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00070_0.jp2"/>
+      </file>
+      <file ID="jp2_00070_1" MIMETYPE="image/jp2" CHECKSUM="c12ca9abccb81ccb87d880765ae97b90" CHECKSUMTYPE="MD5" SIZE="2582043">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00070_1.jp2"/>
+      </file>
+      <file ID="jp2_00071_0" MIMETYPE="image/jp2" CHECKSUM="05085578c2f738102e602f8b5cea2f9f" CHECKSUMTYPE="MD5" SIZE="2576581">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00071_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00070_0" MIMETYPE="text/xml" CHECKSUM="9e60f8abb2a0460b40fd00328c65dd3b" CHECKSUMTYPE="MD5" SIZE="66967">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00070_0.xml"/>
+      </file>
+      <file ID="alto_00070_1" MIMETYPE="text/xml" CHECKSUM="12112038b5d8e379797ce1494ef14a96" CHECKSUMTYPE="MD5" SIZE="89933">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00070_1.xml"/>
+      </file>
+      <file ID="alto_00071_0" MIMETYPE="text/xml" CHECKSUM="d5d458ec2d967d81d17e1d8b1699af31" CHECKSUMTYPE="MD5" SIZE="84625">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00071_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0022" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="139" firstpage="137">
+              <parties id="b139-5" pgmap="139">Kellums vs. Richardson et al.</parties>
+              <attorneys id="b139-9" pgmap="139">S. H. Hempstead, for the appellant.</attorneys>
+              <attorneys id="b139-12" pgmap="139">Watkins &amp; Gallagher, for the appellees.</attorneys>
+              <summary id="b139-8" pgmap="139">Appeal from Mississippi Circuit Court in Chancery.</summary>
+              <summary id="b139-10" pgmap="139">Courts of equity have no power or right to decree specific performance of a verbal contract respecting lands, although admitted, where the statute of frauds is insisted on in the answer. 1 Ark. 417; 8 N. ffamp. 9; 9 lb. 385; 1 A. K. Marsh. 437; 1 Bibb 203.</summary>
+              <summary id="b139-11" pgmap="139">Neither payment nor possession obtained not in reference to the contract, will be sufficient to take-a case out of the statute. 1 Ark. 418; 1 Sch. &lt;$• Lef. 40; 2 Story's Eq. 760, 763.</summary>
+              <summary id="b139-13" pgmap="139">In this State, as in almost every other, the rule is well settled that, in equity, part performance takes a parol agreement out of the statute of frauds. Keattsvs. Rector, 1 Ark. 418; Blake­ncy vs. Ferguson et al., 3 Eng. 272. „</summary>
+              <summary id="b139-14" pgmap="139(76) 140(21)">Delivery of possession, or the vendee’s entry, with the ven­dor’s consent, and the making of valuable improvements, will be such part performance as will entitle the vendee to a specific execution. Parkhurst vs. Van Courtland, 14 Johnson 15; Whit-­more vs. Whites, 2 Caines' Cases, 87,109; Moreland vs. Lemasters, 4 Blackf. 383, 385; Byrd vs. Oden, 9 Ala. 756, 764; Finucane vs. Kearney et al., 1 Freem. 65, 69; Simmons vs. Hill et al., 4 Harris dy McHennj 252; Newton vs. Swazy et al., 8 New Hamp­shire 9, 14; Keatts vs. Rector, 1 Ark. 418.</summary>
+              <summary id="b140-6" pgmap="140">In like manner payment of the purchase money and being let into possession are sufficient. Dugan et al. vs. Gettings et al., 3 Gill 140, 157; Thornton vs. Heirs of Henry, 2 Scam. 219, 220; Shirley vs. Spencer, 4 Gill 583, 600; Finucane vs. Kearney et al., Freem. 65,68; Lessee of Billington vs. Welsh, 5 Binney 129.</summary>
+              <headnotes id="b139-7" pgmap="139">A court of equity will decree a specific performance of a verbal contract for the sale of land, where the purchaser has entered into -possession and paid the consideration agreed upon.</headnotes>
+              <opinion type="majority">
+                <author id="b140-7" pgmap="140">Mr. Chief Justice English</author>
+                <p id="AOZ" pgmap="140">delivered the opinion of the Court.</p>
+                <p id="b140-8" pgmap="140">This was a bill for the specific performance of a contract for the conveyance of land, determined in the Circuit Court of Mississippi county.</p>
+                <p id="b140-9" pgmap="140">The complainants were Thomas and John Richardson, minor heirs of Aaron Richardson, deceased, suing by their next friend, Thomas J. Blackmore. The defendant was Thomas Kellums, who appealed from the decree of the court below.</p>
+                <p id="b140-10" pgmap="140(215) 141(118)">The material facts of the case, as they appear from the pleadings and evidence, are that about the year 1840, Aaron Richardson, the father of complainants, entered upon the north­west quarter of section 25, township 13 north, range 10 east, situate in Mississippi county, which was public land, and upon which there was an improvement, which he purchased. That he resided upon, improved and cultivated a portion of the land until about the year 1845, when he left the county, and re­mained absent for two years. That during his absence, the appellant, who was his step-father, having married his mother, proved up a pre-emption right to the land, and entered it at the government land office, declaring, at the time, that his intention in entering it was to secure it for the use and benefit of said Aaron, and to prevent its being entered by some other person. That upon the return of Aaron (with his wife, the mother of complainants, whom he had married while absent,) the appel­lant informed him that he had entered the. land, and promised to make him a title to it, upon his paying to appellant the entrance money, and the expenses necessarily incurred by him in making the entry. That Aaron again entered upon the land with the consent of appellant (taking possession of his former improvement) and continued to reside thereon improving and cultivating a portion of it, until his death in 1853. That some­time prior to his death he paid to the appellant the entrance money, expenses, etc., by assuming and arranging, to the satis­faction of the parties, a debt which the appellant owed to another person. That after the payment of the money, as aforesaid, the appellant, both before and after the death of Aaron, acknowledged himself fully satisfied, and delared his readiness to make the title to him, and to his heirs, according to his agreement, etc., but that he had subsequently' neglected and refused to do so.</p>
+                <p id="b141-5" pgmap="141">Although Aaron Richardson settled upon and improved the land in controversy, the pleadings and proof fail to show that he brought himself within the provisions of the pre-emption laws, so as to acquire an equitable title to the lands, as against the appellant, who purchased the legal title of the government. For any thing that appears in this case, therefore, the appel­lant, if he had thought proper to do so, under the circumstances, might have claimed, and retained to his own use, the title which he so purchased.</p>
+                <p id="b141-6" pgmap="141">But the depositions read upon the hearing, conduce to prove, with reasonable certainty, that after he entered the land, and after the return of Aaron, the appellant promised to make him a title to it, upon his refunding the entrance money, etc., and that, in consequence of this agreement, Aaron went upon the land, and continued in possession of it, improving and culti­vating, until his death, paying to the appellant, in the mean­time, and in a mode satisfactory to him, the entrance money, etc., which w’as a sufficient part performance of. the contract to take it out of the statute of frauds, and to entitle the'appel­lees to a specific performance of it, as decreed by the Court below. See Cain vs. Leslie, 15 Ark. 315; Morris vs. Peay, ante.</p>
+                <p id="b141-7" pgmap="141">The decree is affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="139" ORDERLABEL="137" TYPE="page">
+        <fptr FILEID="tiff_00070_0"/>
+        <fptr FILEID="jp2_00070_0"/>
+        <fptr FILEID="alto_00070_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_139.2" BETYPE="IDREF" FILEID="alto_00070_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_139.1" BETYPE="IDREF" FILEID="alto_00070_0"/>
+              <area BEGIN="BL_139.3" BETYPE="IDREF" FILEID="alto_00070_0"/>
+              <area BEGIN="BL_139.13" BETYPE="IDREF" FILEID="alto_00070_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="140" ORDERLABEL="138" TYPE="page">
+        <fptr FILEID="tiff_00070_1"/>
+        <fptr FILEID="jp2_00070_1"/>
+        <fptr FILEID="alto_00070_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_140.2" BETYPE="IDREF" FILEID="alto_00070_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_140.3" BETYPE="IDREF" FILEID="alto_00070_1"/>
+              <area BEGIN="BL_140.4" BETYPE="IDREF" FILEID="alto_00070_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="141" ORDERLABEL="139" TYPE="page">
+        <fptr FILEID="tiff_00071_0"/>
+        <fptr FILEID="jp2_00071_0"/>
+        <fptr FILEID="alto_00071_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_141.4" BETYPE="IDREF" FILEID="alto_00071_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_141.3" BETYPE="IDREF" FILEID="alto_00071_0"/>
+              <area BEGIN="BL_141.5" BETYPE="IDREF" FILEID="alto_00071_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b139-9" BETYPE="IDREF" FILEID="casebody_0022"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_139.7" BETYPE="IDREF" FILEID="alto_00070_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b139-8" BETYPE="IDREF" FILEID="casebody_0022"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_139.6" BETYPE="IDREF" FILEID="alto_00070_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b141-5" BETYPE="IDREF" FILEID="casebody_0022"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_141.6" BETYPE="IDREF" FILEID="alto_00071_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b139-7" BETYPE="IDREF" FILEID="casebody_0022"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_139.5" BETYPE="IDREF" FILEID="alto_00070_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b140-8" BETYPE="IDREF" FILEID="casebody_0022"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_140.8" BETYPE="IDREF" FILEID="alto_00070_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b140-7" BETYPE="IDREF" FILEID="casebody_0022"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_140.6" BETYPE="IDREF" FILEID="alto_00070_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b140-6" BETYPE="IDREF" FILEID="casebody_0022"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_140.5" BETYPE="IDREF" FILEID="alto_00070_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b139-5" BETYPE="IDREF" FILEID="casebody_0022"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_139.4" BETYPE="IDREF" FILEID="alto_00070_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b139-13" BETYPE="IDREF" FILEID="casebody_0022"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_139.11" BETYPE="IDREF" FILEID="alto_00070_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b139-12" BETYPE="IDREF" FILEID="casebody_0022"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_139.10" BETYPE="IDREF" FILEID="alto_00070_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b139-11" BETYPE="IDREF" FILEID="casebody_0022"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_139.9" BETYPE="IDREF" FILEID="alto_00070_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b139-10" BETYPE="IDREF" FILEID="casebody_0022"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_139.8" BETYPE="IDREF" FILEID="alto_00070_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b141-6" BETYPE="IDREF" FILEID="casebody_0022"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_141.7" BETYPE="IDREF" FILEID="alto_00071_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b139-14" BETYPE="IDREF" FILEID="casebody_0022"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_139.12" BETYPE="IDREF" FILEID="alto_00070_0"/>
+            <area BEGIN="BL_140.1" BETYPE="IDREF" FILEID="alto_00070_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AOZ" BETYPE="IDREF" FILEID="casebody_0022"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_140.7" BETYPE="IDREF" FILEID="alto_00070_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b141-7" BETYPE="IDREF" FILEID="casebody_0022"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_141.8" BETYPE="IDREF" FILEID="alto_00071_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b140-10" BETYPE="IDREF" FILEID="casebody_0022"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_140.10" BETYPE="IDREF" FILEID="alto_00070_1"/>
+            <area BEGIN="BL_141.1" BETYPE="IDREF" FILEID="alto_00071_0"/>
+            <area BEGIN="BL_141.2" BETYPE="IDREF" FILEID="alto_00071_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b140-9" BETYPE="IDREF" FILEID="casebody_0022"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_140.9" BETYPE="IDREF" FILEID="alto_00070_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

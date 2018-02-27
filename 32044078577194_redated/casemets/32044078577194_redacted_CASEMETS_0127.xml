@@ -1,0 +1,373 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0127" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Duggar v. Arrow Coach Lines, Inc.">Marvia DUGGAR v. ARROW COACH LINES, INC.</name>
+          <docketnumber>85-271</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 522</citation>
+          <citation category="parallel" type="bluebook">707 S.W.2d 316</citation>
+          <decisiondate>1986-04-14</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:01Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00280_1" MIMETYPE="image/tiff" CHECKSUM="6e80c42396b1a32330ccc289c5985a08" CHECKSUMTYPE="MD5" SIZE="28702">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00280_1.tif"/>
+      </file>
+      <file ID="tiff_00281_0" MIMETYPE="image/tiff" CHECKSUM="68e94786d8f3c479d196055b972bdb3e" CHECKSUMTYPE="MD5" SIZE="40294">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00281_0.tif"/>
+      </file>
+      <file ID="tiff_00281_1" MIMETYPE="image/tiff" CHECKSUM="751ecc53e19324640815794ca3609d4e" CHECKSUMTYPE="MD5" SIZE="47310">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00281_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00280_1" MIMETYPE="image/jp2" CHECKSUM="28538c2b4e56c95376b4a914d5b70395" CHECKSUMTYPE="MD5" SIZE="2111330">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00280_1.jp2"/>
+      </file>
+      <file ID="jp2_00281_0" MIMETYPE="image/jp2" CHECKSUM="4470cace18f8015bdd4b0e32b495f01a" CHECKSUMTYPE="MD5" SIZE="2131083">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00281_0.jp2"/>
+      </file>
+      <file ID="jp2_00281_1" MIMETYPE="image/jp2" CHECKSUM="92ad8928632a84b2482bb8aa11b01b3e" CHECKSUMTYPE="MD5" SIZE="2440057">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00281_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00280_1" MIMETYPE="text/xml" CHECKSUM="c49646a88bd006d9efb923212d44f798" CHECKSUMTYPE="MD5" SIZE="46586">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00280_1.xml"/>
+      </file>
+      <file ID="alto_00281_0" MIMETYPE="text/xml" CHECKSUM="99e6d8ac9b4b165dad646e674005f780" CHECKSUMTYPE="MD5" SIZE="68988">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00281_0.xml"/>
+      </file>
+      <file ID="alto_00281_1" MIMETYPE="text/xml" CHECKSUM="fb79aae8c0a6f6abd467b810d7afe00c" CHECKSUMTYPE="MD5" SIZE="80472">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00281_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0127" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="522" lastpage="524">
+              <court pgmap="560" id="b560-12">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="560" id="b560-11">85-271</docketnumber>
+              <citation pgmap="560" id="AqQy">707 S.W.2d 316</citation>
+              <parties pgmap="560" id="b560-10">Marvia DUGGAR v. ARROW COACH LINES, INC.</parties>
+              <decisiondate pgmap="560" id="Auk">Opinion delivered April 14, 1986</decisiondate>
+              <judges pgmap="562" id="b562-7">Purtle, J., not participating.</judges>
+              <attorneys pgmap="561" id="b561-6">Darrell F. Brown &amp; Associates, P.A., for appellant.</attorneys>
+              <attorneys pgmap="561" id="b561-7">Laser, Sharp &amp; Mayes, P.A., for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="561" id="b561-8">David Newbern, Justice.</author>
+                <p pgmap="561" id="A_6">The appellant was the plaintiff below. She was injured in an accident while she was a passenger in a bus operated by Mr. Godley, an employee of the appellee. The jury returned a verdict for the appellee. The appellant’s only point on appeal is: “The evidence was sufficient to support a verdict for the plaintiff (appellant).” However, the argument portion of the appellant’s brief shows her point to be that the verdict was the result of passion or prejudice. We must affirm.</p>
+                <p pgmap="561" id="b561-9">The evidence before the jury on the issue of liability consisted of testimony from the state policeman who investigated the accident and other persons who were passengers at the time of the wreck as well as the deposition of Mr. Godley, who was deceased at the time of the trial. The evidence showed that the bus left the road after another vehicle had passed and cut in front of the bus in heavy traffic at a place where the highway changed from four to two lanes. The bus landed upright, after going over a traffic island and an embankment, and all but four of the twenty-­six passengers were injured. All of the other passengers who testified said or implied the bus was traveling too fast for conditions. Mr. Godley’s deposition, however, conflicted with that testimony, and he concluded the sole cause of the accident was his attempt to avoid colliding with other vehicles after the driver of the passing car had cut in front of him and slowed down sharply, forcing him off the road. He testified he was driving within the speed limit.</p>
+                <p pgmap="562" id="b562-3">There was evidence that it was a standard procedure for the appellee to have a bus driver involved in an accident hand “courtesy cards” to the passengers on which the passengers could indicate who was at fault in the accident. Without objection, such cards, allegedly executed by two of the three passenger witnesses who testified for the appellant, were admitted into evidence. They showed the fault causing the accident to have been that of the “other driver.”</p>
+                <p pgmap="562" id="b562-4">
+                   The appellant recognizes we will not overturn a jury verdict unless it is clearly the result of passion or prejudice. AAA T.V. &amp; Stereo Rentals, Inc. v. Crawley, 284 Ark. 83, 679 S.W.2d 190 (1984). As bases of prejudice, the appellant mentions (1) the sympathy of the jury for the reputation of the deceased bus driver, (2) the fact that the jury knew the other passengers who testified also had claims against the appellee, and (3) the fact that the appellant’s doctor’s testimony was presented by deposition and perhaps was not understood by the jury.</p>
+                <p pgmap="562" id="b562-5">
+                   It is enough to say that the appellant presented no evidence or credible argument that any of these factors in any way influenced the jury unfairly. No issue was raised in any way in the trial court about any of the items mentioned being prejudicial, and we do not see how any legitimate complaint about them could have been made, as they all go merely to the weight to be given the witnesses’ testimony or the manner of its presenta­tion and have nothing to do with the kind of unfair prejudice we might find sufficient to overturn a jury verdict. We review the evidence in the light most favorable to the verdict, and where there is substantial evidence to support a verdict either for the appellant or for the appellee we will not disturb the verdict. Petrus Chrysler-Plymouth v. Davis, 283 Ark. 172, 671 S.W.2d 749 (1984); MFA Mutual Insurance Co. v. Keller, 274 Ark. 281, 623 S.W.2d 841 (1981).</p>
+                <p pgmap="562" id="b562-6">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="560" ORDERLABEL="522" TYPE="page">
+        <fptr FILEID="tiff_00280_1"/>
+        <fptr FILEID="jp2_00280_1"/>
+        <fptr FILEID="alto_00280_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_560.2" BETYPE="IDREF" FILEID="alto_00280_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="561" ORDERLABEL="523" TYPE="page">
+        <fptr FILEID="tiff_00281_0"/>
+        <fptr FILEID="jp2_00281_0"/>
+        <fptr FILEID="alto_00281_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_561.3" BETYPE="IDREF" FILEID="alto_00281_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="562" ORDERLABEL="524" TYPE="page">
+        <fptr FILEID="tiff_00281_1"/>
+        <fptr FILEID="jp2_00281_1"/>
+        <fptr FILEID="alto_00281_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_562.1" BETYPE="IDREF" FILEID="alto_00281_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b562-7" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_562.7" BETYPE="IDREF" FILEID="alto_00281_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b561-9" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_561.13" BETYPE="IDREF" FILEID="alto_00281_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Auk" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_560.14" BETYPE="IDREF" FILEID="alto_00280_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b562-6" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_562.6" BETYPE="IDREF" FILEID="alto_00281_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AqQy" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_560.12" BETYPE="IDREF" FILEID="alto_00280_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b562-3" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_562.3" BETYPE="IDREF" FILEID="alto_00281_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b562-5" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_562.5" BETYPE="IDREF" FILEID="alto_00281_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b562-4" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_562.4" BETYPE="IDREF" FILEID="alto_00281_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b560-11" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_560.11" BETYPE="IDREF" FILEID="alto_00280_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b560-10" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_560.10" BETYPE="IDREF" FILEID="alto_00280_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b560-12" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_560.13" BETYPE="IDREF" FILEID="alto_00280_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b561-8" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_561.10" BETYPE="IDREF" FILEID="alto_00281_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b561-6" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_561.8" BETYPE="IDREF" FILEID="alto_00281_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b561-7" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_561.9" BETYPE="IDREF" FILEID="alto_00281_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A_6" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_561.11" BETYPE="IDREF" FILEID="alto_00281_0"/>
+            <area BEGIN="BL_561.12" BETYPE="IDREF" FILEID="alto_00281_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

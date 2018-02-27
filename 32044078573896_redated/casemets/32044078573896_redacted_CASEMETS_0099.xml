@@ -1,0 +1,208 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0099" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Sebastian v. Bryan">Sebastian vs. Mary Bryan</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 451</citation>
+          <decisiondate>1860-07</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00227_0" MIMETYPE="image/tiff" CHECKSUM="7122eee3dd9c287ac5f8163ae589835a" CHECKSUMTYPE="MD5" SIZE="22720">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00227_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00227_0" MIMETYPE="image/jp2" CHECKSUM="a134d123224d0d833bcde7128d590235" CHECKSUMTYPE="MD5" SIZE="2350708">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00227_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00227_0" MIMETYPE="text/xml" CHECKSUM="dc0e24cfae35b76db9e4463fc6c49f86" CHECKSUMTYPE="MD5" SIZE="41869">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00227_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0099" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="451" firstpage="451">
+              <parties id="b453-7" pgmap="453">Sebastian vs. Mary Bryan.</parties>
+              <summary id="b453-8" pgmap="453">Appeal from. Phillips Circuit Court.</summary>
+              <opinion type="majority">
+                <author id="b453-9" pgmap="453">Mr. Justice Fairchild</author>
+                <p id="AW9" pgmap="453">delivered the opinion of the Court.</p>
+                <p id="A8G" pgmap="453">This case is in all respects like Sebastian vs. John Bryan, and the judgment of the Circuit Court of Phillips county must be reversed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="453" ORDERLABEL="451" TYPE="page">
+        <fptr FILEID="tiff_00227_0"/>
+        <fptr FILEID="jp2_00227_0"/>
+        <fptr FILEID="alto_00227_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_453.2" BETYPE="IDREF" FILEID="alto_00227_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_453.1" BETYPE="IDREF" FILEID="alto_00227_0"/>
+              <area BEGIN="BL_453.3" BETYPE="IDREF" FILEID="alto_00227_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_453.6" BETYPE="IDREF" FILEID="alto_00227_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AW9" BETYPE="IDREF" FILEID="casebody_0099"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_453.10" BETYPE="IDREF" FILEID="alto_00227_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b453-8" BETYPE="IDREF" FILEID="casebody_0099"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_453.8" BETYPE="IDREF" FILEID="alto_00227_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b453-9" BETYPE="IDREF" FILEID="casebody_0099"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_453.9" BETYPE="IDREF" FILEID="alto_00227_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b453-7" BETYPE="IDREF" FILEID="casebody_0099"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_453.7" BETYPE="IDREF" FILEID="alto_00227_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A8G" BETYPE="IDREF" FILEID="casebody_0099"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_453.11" BETYPE="IDREF" FILEID="alto_00227_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

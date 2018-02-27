@@ -1,0 +1,672 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0043" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Thurmond v. Sanders">Thurmond vs. Sanders ad.</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 255</citation>
+          <decisiondate>1860-05</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00129_0" MIMETYPE="image/tiff" CHECKSUM="aedafa35e46a56fb3803f2568754e742" CHECKSUMTYPE="MD5" SIZE="36742">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00129_0.tif"/>
+      </file>
+      <file ID="tiff_00129_1" MIMETYPE="image/tiff" CHECKSUM="2d7167b37b607e551cc31394d249feb3" CHECKSUMTYPE="MD5" SIZE="40348">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00129_1.tif"/>
+      </file>
+      <file ID="tiff_00130_0" MIMETYPE="image/tiff" CHECKSUM="271b0d931da56c6300112e48dbd5d6f4" CHECKSUMTYPE="MD5" SIZE="47438">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00130_0.tif"/>
+      </file>
+      <file ID="tiff_00130_1" MIMETYPE="image/tiff" CHECKSUM="36bbf733ac4da6a76f575e4922fffc20" CHECKSUMTYPE="MD5" SIZE="49168">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00130_1.tif"/>
+      </file>
+      <file ID="tiff_00131_0" MIMETYPE="image/tiff" CHECKSUM="7ad41f354b165c258ab1f8c74be55c96" CHECKSUMTYPE="MD5" SIZE="41704">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00131_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00129_0" MIMETYPE="image/jp2" CHECKSUM="b06f628e51b851d92cf3bb73844df330" CHECKSUMTYPE="MD5" SIZE="2619765">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00129_0.jp2"/>
+      </file>
+      <file ID="jp2_00129_1" MIMETYPE="image/jp2" CHECKSUM="8e315c86e423d667efcfa56e9cd0457d" CHECKSUMTYPE="MD5" SIZE="2628847">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00129_1.jp2"/>
+      </file>
+      <file ID="jp2_00130_0" MIMETYPE="image/jp2" CHECKSUM="b49ca431f5056530e93da7757dc0a019" CHECKSUMTYPE="MD5" SIZE="2733264">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00130_0.jp2"/>
+      </file>
+      <file ID="jp2_00130_1" MIMETYPE="image/jp2" CHECKSUM="dc4fc6a27224070701345e68f30497b7" CHECKSUMTYPE="MD5" SIZE="2613161">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00130_1.jp2"/>
+      </file>
+      <file ID="jp2_00131_0" MIMETYPE="image/jp2" CHECKSUM="05e33e49ad7f3d5963028847db21424f" CHECKSUMTYPE="MD5" SIZE="2599693">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00131_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00129_0" MIMETYPE="text/xml" CHECKSUM="f4b11aa0e010875fc3009470d946ff0a" CHECKSUMTYPE="MD5" SIZE="76222">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00129_0.xml"/>
+      </file>
+      <file ID="alto_00129_1" MIMETYPE="text/xml" CHECKSUM="b8c15b028fde39dc8989c3195356adce" CHECKSUMTYPE="MD5" SIZE="76593">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00129_1.xml"/>
+      </file>
+      <file ID="alto_00130_0" MIMETYPE="text/xml" CHECKSUM="4891ed90c71afa06b4409b282674b427" CHECKSUMTYPE="MD5" SIZE="92600">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00130_0.xml"/>
+      </file>
+      <file ID="alto_00130_1" MIMETYPE="text/xml" CHECKSUM="91f614c3f08e4e494bd29082a8504933" CHECKSUMTYPE="MD5" SIZE="92577">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00130_1.xml"/>
+      </file>
+      <file ID="alto_00131_0" MIMETYPE="text/xml" CHECKSUM="35c3e8560f2aa68f09cdea49a490cd56" CHECKSUMTYPE="MD5" SIZE="80087">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00131_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0043" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="259" firstpage="255">
+              <parties id="b257-4" pgmap="257">Thurmond vs. Sanders ad.</parties>
+              <attorneys id="b257-9" pgmap="257">Fowler &amp; Stillwell, for the appellant.</attorneys>
+              <attorneys id="b258-5" pgmap="258">Garland, Carleton, and Watkins &amp; Gallagher, contra.</attorneys>
+              <summary id="b257-7" pgmap="257">Appeal from Chicot Circuit Court.</summary>
+              <summary id="b257-8" pgmap="257">I-Ion. Tiieodoric F. Sorrells, Circuit Judge.</summary>
+              <summary id="b257-10" pgmap="257">The claim is an account stated verbally, and frequently admitted by Pettit, in his lifetime: and the amount so admitted, we may reasonably infer from the evidence, had been pre­viously agreed upon and stated between the parties. It is not necessary in order to constitute an account stated, that it should be signed b}' the parties, or either of them. 1 Barb. S. C. Rep. 539; 3 How. Miss. Rep. 356. The plaintiff was under no obligation whatever, to prove the items in the account: to prove the balance due, the account stated, was sufficient. 1 T. R. 42, note a; 2 Stark. Ev. 75; 1 Saund. PI. éf Ev. 32.</summary>
+              <summary id="b257-11" pgmap="257">A count upon an account stated, is always sufficiently sup­ported by evidence of an acknowledgment by the defendant, (as in this case,) of money due to the plaintiff on an account stated between them. Poland vs. Sprague, 12 Pet. Rep. 333; 2 Stark. Ev. (5 Am. Ed.) 75, 41; 1 Saund. PI. Sf Ev. (4 Am. Ed) 507 a.</summary>
+              <summary id="b258-6" pgmap="258">The ¡account presented was not according to the statute. Dig., sec. 88, p. 126.</summary>
+              <summary id="b258-7" pgmap="258">No testimony was introduced to support the account as an account stated. 28 Eng. Com. L. Rep. 237; 20 lb. 54, 641; 83 lb. 252; 21 lb. 741; 2 Md. Ch. Decís. 333; 10 Humph. 238.</summary>
+              <headnotes id="b257-5" pgmap="257">An account exhibited for allowance against the estate of a deceased person “ for services and labor, and money had and received,” is not in the form prescribed by the statute: and it is not a sufficient excuse for not setting forth the items, that the particulars and specific items cannot be set forth owing to the complicated trans­actions between the parties.</headnotes>
+              <headnotes id="b257-6" pgmap="257">Loose declarations by a party, at different times, to third persons, not to an agent of the plaintiff, that he owed the plaintiff, or was in honor bound to pay him a certain sum, are not sufficient to sustain a claim as founded upon an account stated.</headnotes>
+              <opinion type="majority">
+                <author id="b258-8" pgmap="258">Mr. Chief Justice English</author>
+                <p id="AEq" pgmap="258">delivered the opinion of the court.</p>
+                <p id="b258-9" pgmap="258">Thurmond presented to the Probate Court of Chicot county a claim for allowance against the estate of Pettit, which had been rejected by his administrator. The allowance of the claim was resisted by Sanders, the administrator, the case was sub­mitted to a jury, without formal pleading, and a verdict ren­dered in favor of the defendant. Thurmond moved for a new trial, which was refused by the court; and he appealed to the Circuit Court, where, on inspection of the transcript, the judg­ment of the Probate Court was affirmed, and he appealed to this court.</p>
+                <p id="b258-10" pgmap="258">The claim was presented in form as follows;</p>
+                <blockquote id="b258-11" pgmap="258">“ THE ESTATE OF WM. McD. PETTIT,</blockquote>
+                <blockquote id="b258-12" pgmap="258">To Thomas J. Thurmond, Dr.</blockquote>
+                <blockquote id="AJV" pgmap="258">April 1st, 1853. To the amount due me this day, being a balance of account for services and labor, and money had and received, the par­ticulars and specific items of which cannot be set forth..............................$ 10,000 00</blockquote>
+                <blockquote id="b258-14" pgmap="258">Feb’y 1st, 1855. Interest on same to date---- 1,100 00</blockquote>
+                <blockquote id="b258-15" pgmap="258">$11,100 00.”</blockquote>
+                <p id="b258-16" pgmap="258">To which was appended the affidavit of Thurmond, as fol­lows:</p>
+                <blockquote id="b258-17" pgmap="258(54) 259(29)">“ I, Thomas J. Thurmond, do solemnly swear that the above sum, as a balance of account acknowledged to be justly due me by Wm. Me D. Pettit, before his death, the distinct and separate items of which cannot now be stated, owing to the complicated nature of the transactions that took place between us; that there has been nothing paid or delivered towards the satisfaction of the above account, and that the sum demanded, to-wit: &lt;¡&gt;11,100 00, is justly due me,” etc.</blockquote>
+                <p id="b259-5" pgmap="259">At the time when the claim was presented to the Probate Court for allowance, the administrator moved to dismiss the suit, because the items of the claim were not sufficiently set forth to maintain the action; but the court overruled the motion.</p>
+                <p id="b259-6" pgmap="259">The administrator then moved the court to compel the plain­tiff to file a further and more specific bill of particulars; which motion was also overruled; and the court, on motion of the plaintiff, ordered a jury to be summoned to try the issue upon the claim as presented, etc.</p>
+                <p id="b259-7" pgmap="259">It appears that the claim was exhibited to the administrator for allowance, in the form in which it was presented to the court, and a copy thereof delivered to him.</p>
+                <p id="b259-8" pgmap="259">The mode prescribed by the statute for exhibiting a claim founded on an open account, for allowance against an estate, is for the claimant to make out the account, setting forth each item distinctly, and the credits thereon, if any; append thereto the proper affidavit, and exhibit the account to the executor or administrator, delivering to him a copy thereof. It is the duty of the executor or administrator to indorse upon the account, so exhibited, his allowance or rejection thereof; after which the claimant must file the claim in the office of the clerk of the Probate Court, and at the next term of the court it is pre­sented to the Probate Judge for allowance and classification. If the claim is rejected by the executor or administrator, he must be notified to appear and contest the allowance of the claim before the court. Gould's Dig., chap. 4, secs. 102, 103, 111, 113, 114, etc.</p>
+                <p id="b259-9" pgmap="259(71) 260(15)">The object of the statute in requiring the items of the account to be set out, was to afford the executor or administrator the means of examining the claim, and if he rejects it, to prepare for his defence. The claim, as made out and presented to him, is the foundation of the suit in the Probate Court. The claim-­antis not required to file any declaration; and the account, if made out and exhibited as required by the statute, is a sufficient bill of particulars.</p>
+                <p id="b260-6" pgmap="260">The account in this case, was not made out and exhibited for allowance in the form prescribed by the statute, and the excuse stated on its face, and in the affidavits, for not setting forth the items, conduces rather to make the impression that the claim was fraudulent, than to furnish a sufficient reason for the omission; and the evidence introduced upon the trial does not tend to remove such impression. Surely, if part of the demand was for services rendered or labor performed for Pettit, by Thurmond, he could have stated the time when the services were rendered, or the labor done, its character, amount, value, etc. So, if part of the claim was for money, it is but reason­able to suppose that he could have stated when the money was received by Pettit, the sums, and on what account, etc. Whether the money was lo'aned to him, advanced for him, or collected by him for the use of Thurmond. The manner in which the account was made out was unusual, unbusiness­like, and afforded the administrator no certain information upon which he could make preparation for defence, etc.</p>
+                <p id="b260-7" pgmap="260">But passing over the objection that the items of the demand were not set forth in the account as required by the statute, there was n'o satisfactory proof upon the trial, that Thurmond rendered services' or performed labor for Pettit, at any time, or that the latter received any money for the use of the former.</p>
+                <p id="b260-8" pgmap="260">It is insisted by the counsel for Thurmond, however, that the demand was presented as upon an account stated, and proven by the admission of Pettit.</p>
+                <p id="b260-9" pgmap="260">“ The general understanding of an account stated is,” as remarked by Lord Campbell, in Lane vs. Hill, 18 Adol. £f Ellis N. S. 252, “ that the parties meet, agree that so much is owing, and so end the question between them.”</p>
+                <p id="b260-10" pgmap="260(48) 261(27)">It is not to be inferred from the form in which the claim was presented, that it was founded upon an account stated, for the reason stated for not setting out the items is not that the parties had accounted and agreed upon the amount demanded as the sum due from Pettit, but that the transactions between the parties were of such a complicated nature as not to admit of a specification of particular items.</p>
+                <p id="b261-5" pgmap="261">But treating the claim as founded upon an account stated, it was not proven upon the trial. The only evidence introduced upon the trial, conducing to establish the demand, were loose declarations made by Pettit, at different times, to third persons, that he owed Thurmond, or was in honor bound to pay him $10,000. No reference was made to an account stated between them, or to the consideration for the indebtedness. One wit­ness, who testified in relation to the declarations of Pettit, stated that he declined telling him how or why it was that he owed Thurmond, “ saying that was a matter in his own bosom.” It was not proven that Pettit ever acknowledged to Thurmond that he was indebted to him in any sum, or on any account; nor was there any evidence that either of the persons to whom Pettit admitted that he was indebted to Thurmond, was the agent of Thurmond.</p>
+                <p id="b261-6" pgmap="261">An admission by the defendant, in a conversation with a thi7'd perso7i, that he was indebted to the plaintiff in a named sum, is not evidence of an account stated, unless the third per­son was the agent of the plaintiff. 1 Chitty’s Pl. 359; Breckon vs. Smith, 1 Adol. &amp; El. 489; 1 Arch. Nisi. P. 273; 2 Greenleaf Ev., sec. 128.</p>
+                <p id="b261-7" pgmap="261">The evidence failing to establish the claim, Thurmond was not entitled to a verdict, and the Probate Court did not err in refusing him a new trial, nor did the Circuit Court err, upon the whole record, in affirming the judgment of the Probate Court.</p>
+                <p id="b261-8" pgmap="261">In this view of the case, it is not necessary to notice the questions made upon the instructions given to the jury by the Probate Judge..</p>
+                <p id="b261-9" pgmap="261">The judgment must be affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="257" ORDERLABEL="255" TYPE="page">
+        <fptr FILEID="tiff_00129_0"/>
+        <fptr FILEID="jp2_00129_0"/>
+        <fptr FILEID="alto_00129_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_257.2" BETYPE="IDREF" FILEID="alto_00129_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_257.1" BETYPE="IDREF" FILEID="alto_00129_0"/>
+              <area BEGIN="BL_257.3" BETYPE="IDREF" FILEID="alto_00129_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="258" ORDERLABEL="256" TYPE="page">
+        <fptr FILEID="tiff_00129_1"/>
+        <fptr FILEID="jp2_00129_1"/>
+        <fptr FILEID="alto_00129_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_258.1" BETYPE="IDREF" FILEID="alto_00129_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_258.2" BETYPE="IDREF" FILEID="alto_00129_1"/>
+              <area BEGIN="BL_258.3" BETYPE="IDREF" FILEID="alto_00129_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="259" ORDERLABEL="257" TYPE="page">
+        <fptr FILEID="tiff_00130_0"/>
+        <fptr FILEID="jp2_00130_0"/>
+        <fptr FILEID="alto_00130_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_259.3" BETYPE="IDREF" FILEID="alto_00130_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_259.2" BETYPE="IDREF" FILEID="alto_00130_0"/>
+              <area BEGIN="BL_259.4" BETYPE="IDREF" FILEID="alto_00130_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="260" ORDERLABEL="258" TYPE="page">
+        <fptr FILEID="tiff_00130_1"/>
+        <fptr FILEID="jp2_00130_1"/>
+        <fptr FILEID="alto_00130_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_260.2" BETYPE="IDREF" FILEID="alto_00130_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_260.3" BETYPE="IDREF" FILEID="alto_00130_1"/>
+              <area BEGIN="BL_260.4" BETYPE="IDREF" FILEID="alto_00130_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="261" ORDERLABEL="259" TYPE="page">
+        <fptr FILEID="tiff_00131_0"/>
+        <fptr FILEID="jp2_00131_0"/>
+        <fptr FILEID="alto_00131_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_261.3" BETYPE="IDREF" FILEID="alto_00131_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_261.2" BETYPE="IDREF" FILEID="alto_00131_0"/>
+              <area BEGIN="BL_261.4" BETYPE="IDREF" FILEID="alto_00131_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b260-10" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_260.9" BETYPE="IDREF" FILEID="alto_00130_1"/>
+            <area BEGIN="BL_261.1" BETYPE="IDREF" FILEID="alto_00131_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AJV" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_258.13" BETYPE="IDREF" FILEID="alto_00129_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b259-9" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_259.9" BETYPE="IDREF" FILEID="alto_00130_0"/>
+            <area BEGIN="BL_260.1" BETYPE="IDREF" FILEID="alto_00130_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b257-4" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_257.4" BETYPE="IDREF" FILEID="alto_00129_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b257-5" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_257.5" BETYPE="IDREF" FILEID="alto_00129_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b257-6" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_257.6" BETYPE="IDREF" FILEID="alto_00129_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b257-7" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_257.7" BETYPE="IDREF" FILEID="alto_00129_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b257-8" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_257.8" BETYPE="IDREF" FILEID="alto_00129_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b257-9" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_257.9" BETYPE="IDREF" FILEID="alto_00129_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b259-8" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_259.8" BETYPE="IDREF" FILEID="alto_00130_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AEq" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_258.8" BETYPE="IDREF" FILEID="alto_00129_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b261-6" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_261.6" BETYPE="IDREF" FILEID="alto_00131_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b258-17" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_258.17" BETYPE="IDREF" FILEID="alto_00129_1"/>
+            <area BEGIN="BL_259.1" BETYPE="IDREF" FILEID="alto_00130_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b258-16" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_258.16" BETYPE="IDREF" FILEID="alto_00129_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b258-15" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_258.15" BETYPE="IDREF" FILEID="alto_00129_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b258-14" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_258.14" BETYPE="IDREF" FILEID="alto_00129_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b259-7" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_259.7" BETYPE="IDREF" FILEID="alto_00130_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b258-12" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_258.12" BETYPE="IDREF" FILEID="alto_00129_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b258-11" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_258.11" BETYPE="IDREF" FILEID="alto_00129_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b258-10" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_258.10" BETYPE="IDREF" FILEID="alto_00129_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b257-10" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_257.10" BETYPE="IDREF" FILEID="alto_00129_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b257-11" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_257.11" BETYPE="IDREF" FILEID="alto_00129_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b261-5" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_261.5" BETYPE="IDREF" FILEID="alto_00131_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b261-8" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_261.8" BETYPE="IDREF" FILEID="alto_00131_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b259-5" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_259.5" BETYPE="IDREF" FILEID="alto_00130_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b261-7" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_261.7" BETYPE="IDREF" FILEID="alto_00131_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b260-6" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_260.5" BETYPE="IDREF" FILEID="alto_00130_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b260-7" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_260.6" BETYPE="IDREF" FILEID="alto_00130_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b260-8" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_260.7" BETYPE="IDREF" FILEID="alto_00130_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b258-9" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_258.9" BETYPE="IDREF" FILEID="alto_00129_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b258-8" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_258.7" BETYPE="IDREF" FILEID="alto_00129_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b258-7" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_258.6" BETYPE="IDREF" FILEID="alto_00129_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b258-6" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_258.5" BETYPE="IDREF" FILEID="alto_00129_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b258-5" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_258.4" BETYPE="IDREF" FILEID="alto_00129_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b261-9" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_261.9" BETYPE="IDREF" FILEID="alto_00131_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b259-6" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_259.6" BETYPE="IDREF" FILEID="alto_00130_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b260-9" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_260.8" BETYPE="IDREF" FILEID="alto_00130_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,399 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0063" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Hesser v. Johns">Norman N. HESSER, et al. v. R.J. JOHNS, et ux.</name>
+          <docketnumber>85-146</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 264</citation>
+          <citation category="parallel" type="bluebook">704 S.W.2d 165</citation>
+          <decisiondate>1986-02-24</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:00Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00146_1" MIMETYPE="image/tiff" CHECKSUM="614e1a8a591a546cd7a0d5e366ec06c2" CHECKSUMTYPE="MD5" SIZE="25008">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00146_1.tif"/>
+      </file>
+      <file ID="tiff_00147_0" MIMETYPE="image/tiff" CHECKSUM="c225a498241a8f39672f2641ae6606ae" CHECKSUMTYPE="MD5" SIZE="49960">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00147_0.tif"/>
+      </file>
+      <file ID="tiff_00147_1" MIMETYPE="image/tiff" CHECKSUM="3cf3d9b89b461b574ffef2883d51e526" CHECKSUMTYPE="MD5" SIZE="26320">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00147_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00146_1" MIMETYPE="image/jp2" CHECKSUM="cb4a13be78f035ca4dc582a019ffcb01" CHECKSUMTYPE="MD5" SIZE="1977912">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00146_1.jp2"/>
+      </file>
+      <file ID="jp2_00147_0" MIMETYPE="image/jp2" CHECKSUM="56047b3e609aacc0b3efaf51dcb467d7" CHECKSUMTYPE="MD5" SIZE="2487482">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00147_0.jp2"/>
+      </file>
+      <file ID="jp2_00147_1" MIMETYPE="image/jp2" CHECKSUM="8cd24d00b0a16accf1c51b9b785107c3" CHECKSUMTYPE="MD5" SIZE="1892362">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00147_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00146_1" MIMETYPE="text/xml" CHECKSUM="6e1901bedd434de9bf1b473d69e4b46d" CHECKSUMTYPE="MD5" SIZE="41098">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00146_1.xml"/>
+      </file>
+      <file ID="alto_00147_0" MIMETYPE="text/xml" CHECKSUM="94008b973b43b0ab979cfc68b9253947" CHECKSUMTYPE="MD5" SIZE="85748">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00147_0.xml"/>
+      </file>
+      <file ID="alto_00147_1" MIMETYPE="text/xml" CHECKSUM="96e657747e492451ccbf805139c4d66b" CHECKSUMTYPE="MD5" SIZE="42069">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00147_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0063" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="264" lastpage="266">
+              <court pgmap="292" id="b292-9">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="292" id="APv">85-146</docketnumber>
+              <citation pgmap="292" id="ABZ">704 S.W.2d 165</citation>
+              <parties pgmap="292" id="b292-8">Norman N. HESSER, et al. v. R.J. JOHNS, et ux.</parties>
+              <decisiondate pgmap="292" id="An5">Opinion delivered February 24, 1986</decisiondate>
+              <judges pgmap="293" id="b293-10">Purtle, J., not participating.</judges>
+              <judges pgmap="293" id="b293-11">Dudley, J., concurs.</judges>
+              <attorneys pgmap="292" id="b292-13">Carl W. Behner, for appellant.</attorneys>
+              <attorneys pgmap="292" id="b292-14">Raymond C. Smith, for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="292" id="b292-15">Darrell Hickman, Justice.</author>
+                <p pgmap="292(45) 293(87)" id="A_c1">The parties are adjoining landowners of realty located in Washington County. This cause was filed in chancery court seeking an injunction, damages for trespass, quiet title in the appellees, and a determination of a boundary line. An answer was filed claiming this was a trespass action which should be tried in a law court. A motion to transfer was made in the alternative to dismissal. Essentially one argu­ment is made on appeal: the chancery court lacked jurisdiction. The record presented to us on appeal consists of the pleadings, the order of the court, and some of the chancellor’s remarks at the close of the case. Based on the record and arguments before us, the chancery court did not have jurisdiction, and the cause should have been transferred to the circuit court.</p>
+                <p pgmap="293" id="b293-6">
+                   Toa large extent we cannot say what posture the parties took during the trial regarding the relief requested, prayers amended, or the facts proved, because we do not have the transcript of the testimony. We cannot presume facts. We do know that the complaint sounded in trespass. The trial court found trespass, entered an injunction, and transferred the case to the circuit court to hear the damages issue. The question of whether a court has jurisdiction over the subject matter of an action is determined from the allegations in the complaint. Scroggins v. Bowen, 249 Ark. 1155, 464 S.W.2d 79 (1971).</p>
+                <p pgmap="293" id="b293-7">
+                   In this case the only basis for chancery jurisdiction was a request for quiet title. But there was no allegation of possession, a prerequisite for such a cause of action. Ralston v. Powers, 269 Ark. 63, 598 S.W.2d 410 (1980). The chancellor in his order found he had jurisdiction, but the record is devoid of an order reflecting any change in the allegations to the complaint amend­ing the fatal defect.</p>
+                <p pgmap="293" id="b293-8">It is significant in this case that the appellees made an attempt to supplement the record after the appellants’ brief was filed claiming that the record filed with the court does not contain all the necessary pleadings. No statement was made regarding what specific pleadings or orders were absent and what they would show. The appellants argued specifically the complaint failed to allege possession. We denied the motion because it was untimely. It was the appellees that chose the forum for their action, and they failed to allege facts establishing the court’s jurisdiction.</p>
+                <p pgmap="293" id="b293-9">Reversed.</p>
+              </opinion>
+              <opinion type="concurrence">
+                <author pgmap="294" id="b294-5">Robert H. Dudley, Justice,</author>
+                <p pgmap="294" id="AaM">concurring: The issue is whether the chancery court had jurisdiction. Jurisdiction of the court of equity in a quiet title action can only be invoked by a plaintiff in possession. Ralston v. Powers, 269 Ark. 63, 598 S.W.2d 410 (1980). Possession must be pleaded because equity’s jurisdiction is tested by the allegations of the complaint. Scrog­gins v. Bowen, 249 Ark. 1155, 464 S.W.2d 79 (1971). The determining issue in this case is whether appellants pleaded possession. They did not plead possession. They pleaded, “Peti­tioners are residents of and land owners in Washington County, Arkansas.” The allegation of residency in the county is not an allegation of possession of the land in dispute. The allegation of land ownership in the county is not an allegation of possession of the land at issue. Possession simply is not pleaded. Therefore, equity does not have jurisdiction.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="292" ORDERLABEL="264" TYPE="page">
+        <fptr FILEID="tiff_00146_1"/>
+        <fptr FILEID="jp2_00146_1"/>
+        <fptr FILEID="alto_00146_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_292.2" BETYPE="IDREF" FILEID="alto_00146_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="293" ORDERLABEL="265" TYPE="page">
+        <fptr FILEID="tiff_00147_0"/>
+        <fptr FILEID="jp2_00147_0"/>
+        <fptr FILEID="alto_00147_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_293.3" BETYPE="IDREF" FILEID="alto_00147_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="294" ORDERLABEL="266" TYPE="page">
+        <fptr FILEID="tiff_00147_1"/>
+        <fptr FILEID="jp2_00147_1"/>
+        <fptr FILEID="alto_00147_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_294.1" BETYPE="IDREF" FILEID="alto_00147_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b294-5" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_294.3" BETYPE="IDREF" FILEID="alto_00147_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b293-6" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_293.4" BETYPE="IDREF" FILEID="alto_00147_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b293-7" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_293.5" BETYPE="IDREF" FILEID="alto_00147_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b293-8" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_293.6" BETYPE="IDREF" FILEID="alto_00147_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b293-9" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_293.7" BETYPE="IDREF" FILEID="alto_00147_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AaM" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_294.4" BETYPE="IDREF" FILEID="alto_00147_1"/>
+            <area BEGIN="BL_294.5" BETYPE="IDREF" FILEID="alto_00147_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ABZ" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_292.9" BETYPE="IDREF" FILEID="alto_00146_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="An5" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_292.11" BETYPE="IDREF" FILEID="alto_00146_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A_c1" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_292.20" BETYPE="IDREF" FILEID="alto_00146_1"/>
+            <area BEGIN="BL_292.21" BETYPE="IDREF" FILEID="alto_00146_1"/>
+            <area BEGIN="BL_293.1" BETYPE="IDREF" FILEID="alto_00147_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b292-9" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_292.10" BETYPE="IDREF" FILEID="alto_00146_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b292-8" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_292.7" BETYPE="IDREF" FILEID="alto_00146_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="APv" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_292.8" BETYPE="IDREF" FILEID="alto_00146_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b292-15" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_292.19" BETYPE="IDREF" FILEID="alto_00146_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b292-14" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_292.18" BETYPE="IDREF" FILEID="alto_00146_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b293-10" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_293.8" BETYPE="IDREF" FILEID="alto_00147_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b293-11" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_293.9" BETYPE="IDREF" FILEID="alto_00147_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b292-13" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_292.17" BETYPE="IDREF" FILEID="alto_00146_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

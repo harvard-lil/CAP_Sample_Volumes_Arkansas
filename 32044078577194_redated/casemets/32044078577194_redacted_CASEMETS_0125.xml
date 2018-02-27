@@ -1,0 +1,485 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0125" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Sanchez v. State">Santiago SANCHEZ, a/k/a/ Robert George PACICCO, and Gary Dale PIERCEFIELD v. STATE of Arkansas</name>
+          <docketnumber>CR 85-211</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 513</citation>
+          <citation category="parallel" type="bluebook">707 S.W.2d 310</citation>
+          <decisiondate>1986-04-14</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:01Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00276_0" MIMETYPE="image/tiff" CHECKSUM="4244c9686e1006c980e8c8aa79b1226a" CHECKSUMTYPE="MD5" SIZE="13928">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00276_0.tif"/>
+      </file>
+      <file ID="tiff_00276_1" MIMETYPE="image/tiff" CHECKSUM="da98487537aeeac09a9924b23e10fdbb" CHECKSUMTYPE="MD5" SIZE="23466">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00276_1.tif"/>
+      </file>
+      <file ID="tiff_00277_0" MIMETYPE="image/tiff" CHECKSUM="7945774260ad5725ef6ff5aaa74e3d8c" CHECKSUMTYPE="MD5" SIZE="54440">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00277_0.tif"/>
+      </file>
+      <file ID="tiff_00277_1" MIMETYPE="image/tiff" CHECKSUM="163ee4ff6891a0ed991241adc3ef6026" CHECKSUMTYPE="MD5" SIZE="57440">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00277_1.tif"/>
+      </file>
+      <file ID="tiff_00278_0" MIMETYPE="image/tiff" CHECKSUM="5be5d2e69a5409f29ca4176738bb3f3b" CHECKSUMTYPE="MD5" SIZE="23660">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00278_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00276_0" MIMETYPE="image/jp2" CHECKSUM="82e9fed413764c6fa811cbfb07a70fda" CHECKSUMTYPE="MD5" SIZE="1643021">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00276_0.jp2"/>
+      </file>
+      <file ID="jp2_00276_1" MIMETYPE="image/jp2" CHECKSUM="6ecc27c3f1a0428f7808dad2b6aeadfc" CHECKSUMTYPE="MD5" SIZE="1638810">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00276_1.jp2"/>
+      </file>
+      <file ID="jp2_00277_0" MIMETYPE="image/jp2" CHECKSUM="c2630a352178b899fd9f2f7a5ae37d8c" CHECKSUMTYPE="MD5" SIZE="2548671">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00277_0.jp2"/>
+      </file>
+      <file ID="jp2_00277_1" MIMETYPE="image/jp2" CHECKSUM="0c0393c60196feed669c50555842f04a" CHECKSUMTYPE="MD5" SIZE="2561706">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00277_1.jp2"/>
+      </file>
+      <file ID="jp2_00278_0" MIMETYPE="image/jp2" CHECKSUM="557f27c677fdf1b8acbc12d065e2252a" CHECKSUMTYPE="MD5" SIZE="1912158">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00278_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00276_0" MIMETYPE="text/xml" CHECKSUM="8e77fc200656c7b5fab68be13a7d177b" CHECKSUMTYPE="MD5" SIZE="19638">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00276_0.xml"/>
+      </file>
+      <file ID="alto_00276_1" MIMETYPE="text/xml" CHECKSUM="20de809131328fe305b0d314249bd66f" CHECKSUMTYPE="MD5" SIZE="36656">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00276_1.xml"/>
+      </file>
+      <file ID="alto_00277_0" MIMETYPE="text/xml" CHECKSUM="0b14dee0cdfe8679fe8b44b4355784c5" CHECKSUMTYPE="MD5" SIZE="88698">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00277_0.xml"/>
+      </file>
+      <file ID="alto_00277_1" MIMETYPE="text/xml" CHECKSUM="b85885bab78294f38e8f39a0863ff831" CHECKSUMTYPE="MD5" SIZE="94572">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00277_1.xml"/>
+      </file>
+      <file ID="alto_00278_0" MIMETYPE="text/xml" CHECKSUM="a90543db62de123c162c5e7c0f8f650f" CHECKSUMTYPE="MD5" SIZE="35387">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00278_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0125" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="513" lastpage="517">
+              <court pgmap="551" id="b551-10">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="551" id="b551-9">CR 85-211</docketnumber>
+              <citation pgmap="551" id="A6a">707 S.W.2d 310</citation>
+              <parties pgmap="551" id="b551-8">Santiago SANCHEZ, a/k/a/ Robert George PACICCO, and Gary Dale PIERCEFIELD v. STATE of Arkansas</parties>
+              <decisiondate pgmap="551" id="AmAH">Opinion delivered April 14, 1986</decisiondate>
+              <judges pgmap="555" id="b555-6">Purtle, J., not participating.</judges>
+              <attorneys pgmap="552" id="b552-9">John W. Settle, for appellant Santiago Sanchez.</attorneys>
+              <attorneys pgmap="552" id="b552-10">David L. Gibbons, for appellant Gary Dale Piercefield.</attorneys>
+              <attorneys pgmap="552" id="b552-11">Steve Clark, Att’y Gen., by: Clint Miller, Asst. Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="552" id="b552-12">Darrell Hickman, Justice.</author>
+                <p pgmap="552(115) 553(105)" id="ADO">When the police broke into the apartment of Toni Needham in Fort Smith, Arkansas, an empty box of freezer bags came flying down the stairs and someone was heard running above. The officers went upstairs and found appellant Santiago Sanchez and Bernie Netz in a bedroom with a quantity of illegal drugs and drug paraphernalia. This is what they found: a set of scales and a bowl with a substance in it identified as methamphetamine, a controlled substance, were found on a table. Another dish with methamphetamine was found on a mattress on the floor. In a coat, lying on the bed, was a .32 caliber semi-automatic pistol with seven live rounds along with a syringe in a plastic bag. The plastic bag had a residue of ephedrine, a chemical commonly used to dilute controlled sub­stances. A box of freezer bags was on the floor. There was a mirror used as a tabletop on which were three razor blades. The state elicited testimony that razor blades were used to line out drugs for snorting or putting into syringes. Searching further, the officers found two syringes in an adjoining bathroom. In another bedroom they discovered appellant Gary Piercefield hiding in a closet. Toni Needham was also in the room. There were no drugs or parapher­nalia found in this room.</p>
+                <p pgmap="553" id="b553-6">Both Sanchez and Piercefield were convicted of possession of a controlled substance with intent to sell and sentenced as habitual criminals: Sanchez to 35 years, Piercefield to 22 years. On appeal Sanchez raises three arguments: the trial court wrongly refused to disclose the name of the confidential inform­ant who supplied the information for the search warrant; the trial court should have admitted evidence that Toni Needham and Bernie Netz pleaded guilty; and there was not substantial evidence to support his conviction. All are meritless. Piercefield only argues lack of substantial evidence. His argument is convinc­ing and requires a reversal and dismissal of his conviction.</p>
+                <p pgmap="553" id="b553-7">
+                   The state proceeded under the theory that both Piercefield and Sanchez were in constructive possession of the drugs. Possession may be constructive when one controls a substance or has the right to control it. Osborne v. State, 278 Ark. 45, 643 S.W.2d 251 (1982). Actual physical possession at the time of the arrest is not required. Cary v. State, 259 Ark. 510, 534 S.W.2d 230 (1976). In Jones v. State, 269 Ark. 119, 598 S.W.2d 748 (1980), we quoted with approval the following definition of substantial evidence:</p>
+                <blockquote pgmap="553" id="b553-8">Substantial evidence has been defined as ‘evidence that is of sufficient force and character that it will, with reasonable and material certainty and precision, compel a conclusion one way or the other. It must force or induce the mind to pass beyond a suspicion or conjecture. . .’</blockquote>
+                <p pgmap="553" id="b553-9">In determining whether the evidence is substantial, we consider it in a light most favorable to the state. Westbrook v. State, 286 Ark. 192, 691 S.W.2d 123 (1985); Cary v. State, supra.</p>
+                <p pgmap="554" id="b554-5">First, Piercefield’s case: the apartment was not Piercefield’s, and there is no evidence that he had any connection with it. One officer testified that he interviewed Piercefield and asked him why his car smelled like ether. Piercefield said he had gone to Oklahoma with a third party to get a can of ether. An empty can was found on the premises but was not seized. It was established that ether was used to clean methamphetamine. Piercefield was found on the premises but was not where any drugs or parapher­nalia were. Nothing was found on or about him that might indicate possession. See Ravalette v. State, 264 Ark. 344, 571 S.W.2d 433 (1978). The jury could only have speculated that Piercefield possessed these drugs because the state did not prove it. His conviction is reversed and dismissed.</p>
+                <p pgmap="554" id="b554-6">
+                   The facts are entirely different concerning Sanchez. All evidence indicates he was in control of these drugs and paraphernalia; he was surrounded by them. Sanchez had a gun on him; another was found in a coat nearby. Shells were found in Sanchez’s car which matched the shells in the pistol in the coat. As the police entered the room, Sanchez was rising from the table where the scales and a bowl of methamphetamine were found. Nearby were methamphetamine in a dish on a mattress, ephe­drine in a plastic bag along with a syringe, and freezer bags. The tabletop mirror and razor blades were next to where Sanchez was sitting. The jury could have easily concluded that Sanchez was sitting at the table measuring out the drug. The evidence is too strong to support his story that he was a casual visitor. The jury had substantial evidence from which to convict Sanchez.</p>
+                <p pgmap="554" id="b554-7">
+                   Sanchez also argues that there was not enough evidence to convict him of intent to deliver. Ark. Stat. Ann. § 82-2617(d) (Supp. 1985) provides that possession of 200 milligrams of a stimulant creates a rebuttable presumption that possession is with intent to deliver. Sanchez possessed 1.26 grams of meth­amphetamine.</p>
+                <p pgmap="554(62) 555(51)" id="b554-8">
+                   Sanchez’s other arguments are easily answered. There was no evidence that Sanchez needed to know the name of the confidential informant to prepare his defense. The informant was not present when the search was made nor was Sanchez charged with a sale that the informant witnessed. Under the facts of this case, disclosure was not required. Jackson v. State, 283 Ark. 301, 675 S.W.2d 820 (1984). See also Toland v. State, 285 Ark. 415, 688 S.W.2d 718 (1985); and Bennett v. State, 252 Ark. 128, 477 S.W.2d 497 (1972). Sufficient reliability of the informant was shown. Thompson v. State, 280 Ark. 265, 658 S.W.2d 350 (1983); Illinois v. Gates, 103 S.Ct. 2317 (1983).</p>
+                <p pgmap="555" id="b555-4">Sanchez’s argument that the trial court should have allowed the defense to prove that Netz and Needham pleaded guilty is not supported by any authority. Furthermore he was allowed to show that they were both serving sentences for their involvement; therefore, there was no abuse of discretion in excluding this evidence.</p>
+                <p pgmap="555" id="b555-5">Affirmed as to Sanchez. Reversed and dismissed as to Piercefield,</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="551" ORDERLABEL="513" TYPE="page">
+        <fptr FILEID="tiff_00276_0"/>
+        <fptr FILEID="jp2_00276_0"/>
+        <fptr FILEID="alto_00276_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_551.3" BETYPE="IDREF" FILEID="alto_00276_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="552" ORDERLABEL="514" TYPE="page">
+        <fptr FILEID="tiff_00276_1"/>
+        <fptr FILEID="jp2_00276_1"/>
+        <fptr FILEID="alto_00276_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_552.1" BETYPE="IDREF" FILEID="alto_00276_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="553" ORDERLABEL="515" TYPE="page">
+        <fptr FILEID="tiff_00277_0"/>
+        <fptr FILEID="jp2_00277_0"/>
+        <fptr FILEID="alto_00277_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_553.3" BETYPE="IDREF" FILEID="alto_00277_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="554" ORDERLABEL="516" TYPE="page">
+        <fptr FILEID="tiff_00277_1"/>
+        <fptr FILEID="jp2_00277_1"/>
+        <fptr FILEID="alto_00277_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_554.1" BETYPE="IDREF" FILEID="alto_00277_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="555" ORDERLABEL="517" TYPE="page">
+        <fptr FILEID="tiff_00278_0"/>
+        <fptr FILEID="jp2_00278_0"/>
+        <fptr FILEID="alto_00278_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_555.3" BETYPE="IDREF" FILEID="alto_00278_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b551-10" BETYPE="IDREF" FILEID="casebody_0125"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_551.10" BETYPE="IDREF" FILEID="alto_00276_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AmAH" BETYPE="IDREF" FILEID="casebody_0125"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_551.11" BETYPE="IDREF" FILEID="alto_00276_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b555-4" BETYPE="IDREF" FILEID="casebody_0125"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_555.4" BETYPE="IDREF" FILEID="alto_00278_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ADO" BETYPE="IDREF" FILEID="casebody_0125"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_552.14" BETYPE="IDREF" FILEID="alto_00276_1"/>
+            <area BEGIN="BL_552.15" BETYPE="IDREF" FILEID="alto_00276_1"/>
+            <area BEGIN="BL_553.1" BETYPE="IDREF" FILEID="alto_00277_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b554-8" BETYPE="IDREF" FILEID="casebody_0125"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_554.6" BETYPE="IDREF" FILEID="alto_00277_1"/>
+            <area BEGIN="BL_555.1" BETYPE="IDREF" FILEID="alto_00278_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b554-5" BETYPE="IDREF" FILEID="casebody_0125"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_554.3" BETYPE="IDREF" FILEID="alto_00277_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b554-6" BETYPE="IDREF" FILEID="casebody_0125"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_554.4" BETYPE="IDREF" FILEID="alto_00277_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b554-7" BETYPE="IDREF" FILEID="casebody_0125"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_554.5" BETYPE="IDREF" FILEID="alto_00277_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b553-8" BETYPE="IDREF" FILEID="casebody_0125"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_553.6" BETYPE="IDREF" FILEID="alto_00277_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b552-10" BETYPE="IDREF" FILEID="casebody_0125"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_552.11" BETYPE="IDREF" FILEID="alto_00276_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b552-11" BETYPE="IDREF" FILEID="casebody_0125"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_552.12" BETYPE="IDREF" FILEID="alto_00276_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b552-12" BETYPE="IDREF" FILEID="casebody_0125"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_552.13" BETYPE="IDREF" FILEID="alto_00276_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b555-5" BETYPE="IDREF" FILEID="casebody_0125"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_555.5" BETYPE="IDREF" FILEID="alto_00278_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A6a" BETYPE="IDREF" FILEID="casebody_0125"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_551.9" BETYPE="IDREF" FILEID="alto_00276_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b555-6" BETYPE="IDREF" FILEID="casebody_0125"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_555.6" BETYPE="IDREF" FILEID="alto_00278_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b553-7" BETYPE="IDREF" FILEID="casebody_0125"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_553.5" BETYPE="IDREF" FILEID="alto_00277_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b553-6" BETYPE="IDREF" FILEID="casebody_0125"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_553.4" BETYPE="IDREF" FILEID="alto_00277_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b552-9" BETYPE="IDREF" FILEID="casebody_0125"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_552.10" BETYPE="IDREF" FILEID="alto_00276_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b553-9" BETYPE="IDREF" FILEID="casebody_0125"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_553.7" BETYPE="IDREF" FILEID="alto_00277_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b551-9" BETYPE="IDREF" FILEID="casebody_0125"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_551.8" BETYPE="IDREF" FILEID="alto_00276_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b551-8" BETYPE="IDREF" FILEID="casebody_0125"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_551.7" BETYPE="IDREF" FILEID="alto_00276_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

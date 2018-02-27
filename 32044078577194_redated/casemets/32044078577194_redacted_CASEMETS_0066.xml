@@ -1,0 +1,438 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0066" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Vance v. State">Phillip VANCE v. STATE of Arkansas</name>
+          <docketnumber>CR 85-181</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 274</citation>
+          <citation category="parallel" type="bluebook">704 S.W.2d 170</citation>
+          <decisiondate>1986-02-24</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:00Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00151_1" MIMETYPE="image/tiff" CHECKSUM="cc4706c70ccf1fa5fa6fcd9653786f49" CHECKSUMTYPE="MD5" SIZE="27566">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00151_1.tif"/>
+      </file>
+      <file ID="tiff_00152_0" MIMETYPE="image/tiff" CHECKSUM="e0068140b8bd66fd16ca6763799b60fd" CHECKSUMTYPE="MD5" SIZE="37816">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00152_0.tif"/>
+      </file>
+      <file ID="tiff_00152_1" MIMETYPE="image/tiff" CHECKSUM="ba15b8c784c6b6309ec599f497a3edd4" CHECKSUMTYPE="MD5" SIZE="52096">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00152_1.tif"/>
+      </file>
+      <file ID="tiff_00153_0" MIMETYPE="image/tiff" CHECKSUM="987886720357b53b23055352e57fdca4" CHECKSUMTYPE="MD5" SIZE="11150">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00153_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00151_1" MIMETYPE="image/jp2" CHECKSUM="658664ca2fc3f756e42b76c40bc3104c" CHECKSUMTYPE="MD5" SIZE="2037567">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00151_1.jp2"/>
+      </file>
+      <file ID="jp2_00152_0" MIMETYPE="image/jp2" CHECKSUM="71a3cc6cffeb1cdbb74ea775710c36d4" CHECKSUMTYPE="MD5" SIZE="2137490">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00152_0.jp2"/>
+      </file>
+      <file ID="jp2_00152_1" MIMETYPE="image/jp2" CHECKSUM="8e698c4b4a3f8d773babb04116d6f996" CHECKSUMTYPE="MD5" SIZE="2539332">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00152_1.jp2"/>
+      </file>
+      <file ID="jp2_00153_0" MIMETYPE="image/jp2" CHECKSUM="ea329d160fc403f2c6405e618c3d262b" CHECKSUMTYPE="MD5" SIZE="1428040">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00153_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00151_1" MIMETYPE="text/xml" CHECKSUM="be3c1de3ba71728b6cc91fc976a2d77b" CHECKSUMTYPE="MD5" SIZE="44431">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00151_1.xml"/>
+      </file>
+      <file ID="alto_00152_0" MIMETYPE="text/xml" CHECKSUM="f8b703f36bce1cb0bdf72d29d6edd536" CHECKSUMTYPE="MD5" SIZE="58675">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00152_0.xml"/>
+      </file>
+      <file ID="alto_00152_1" MIMETYPE="text/xml" CHECKSUM="a02113fd175999cf271837bc2988f8b9" CHECKSUMTYPE="MD5" SIZE="85808">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00152_1.xml"/>
+      </file>
+      <file ID="alto_00153_0" MIMETYPE="text/xml" CHECKSUM="7b210e6ef909b2ad77102bb6e3fb5ef2" CHECKSUMTYPE="MD5" SIZE="13570">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00153_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0066" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="274" lastpage="277">
+              <court pgmap="302" id="b302-9">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="302" id="AMo2">CR 85-181</docketnumber>
+              <citation pgmap="302" id="ApBm">704 S.W.2d 170</citation>
+              <parties pgmap="302" id="b302-8">Phillip VANCE v. STATE of Arkansas</parties>
+              <decisiondate pgmap="302" id="A_a">Opinion delivered February 24, 1986</decisiondate>
+              <judges pgmap="305" id="b305-5">Purtle, J., not participating.</judges>
+              <attorneys pgmap="303" id="b303-7">William R. Simpson, Jr., Public Defender, Jerry Sailings, Deputy Public Defender, by: Deborah R. Sailings, Deputy Public Defender, for appellant.</attorneys>
+              <attorneys pgmap="303" id="b303-8">Steve Clark, Att’y Gen., by: Connie Griffin, Asst. Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="303" id="b303-9">Steele Hays, Justice.</author>
+                <p pgmap="303" id="A_e">Phillip Vance was convicted of aggravated robbery and theft of property in connection with the January 18,1985 robbery of a Little Rock branch bank. On April 1,1985 the circuit court noted that the defense of mental disease or defect might be raised and ordered that Vance be examined at the Pulaski County jail by a psychiatrist then under contract to provide psychiatric services at the jail. The order directed the examining psychiatrist to notify the court of the defendant’s fitness to proceed and the requirements of further psychiatric examination if necessary.</p>
+                <p pgmap="303" id="b303-10">On April 6 the psychiatrist responded on a form stating that he had conducted a psychological competency screening of Phillip Vance to determine competency, with the following result:</p>
+                <blockquote pgmap="303" id="b303-11">“ X not with psychosis and competent to stand trial.”</blockquote>
+                <p pgmap="303" id="b303-12">At a later hearing the public defender asked the court to order an additional evaluation in view of information that Vance had been discharged from the Navy with mental disability, had been hospitalized in San Francisco, for mental problems, had had an injury of some kind to his head requiring surgery, and had been discharged from the Arkansas State Hospital on January 17, 1985, the day before the robbery from which these charges arose.</p>
+                <p pgmap="304" id="b304-5">The court declined to order any further screening and the jury found Phillip Vance guilty, rejecting testimony by a psychia­trist who examined Vance at the Arkansas State Hospital in January, 1985, and had diagnosed him as having a psychotic illness — chronic schizophrenia, paranoid type, with acute exacer­bation. Concurrent sentences of thirty years for aggravated robbery and twenty years for theft of property were imposed.</p>
+                <p pgmap="304" id="b304-6">Vance has appealed on the premise that his due process rights were violated by the trial court’s failure to order a forensic psychological evaluation. We think the argument must be sustained.</p>
+                <p pgmap="304" id="b304-7">
+                   Ark. Stat. Ann. § 41-605 provides that when the court has reason to believe mental disease or defect of the defendant will become an issue, or there is reason to doubt the defendant’s fitness to proceed, the court shall order that the defendant undergo examination by one or more qualified psychiatrists at a local regional mental health center or clinic, or shall appoint at least one qualified psychiatrist to make an examination and report on the defendant’s mental condition, or shall commit the defendant to the Arkansas State Hospital, or other suitable facility, for an examination for thirty days, or such longer period as the court deems necessary. The statute provides for such further examination and observation as may be warranted.</p>
+                <p pgmap="304" id="b304-8">
+                   The report required by the statute “shall include the following: (a) a description of the nature of the examination; (b) a diagnosis of the mental condition of the defendant; (c) an opinion as to his capacity to understand the proceedings against him and to assist effectively in his own defense; (d) an opinion as to the extent, if any, to which the capacity of the defendant to appreci­ate the criminality of his conduct or to conform his conduct to the requirements of the law was impaired at the time of the conduct alleged [.]”</p>
+                <p pgmap="304" id="b304-9">The report in this case told the court virtually nothing and was palpably in noncompliance with the statute. In light of the insufficient report, coupled with Vance’s history of mental illness, further observation and examination as contemplated by the statute should have been ordered.</p>
+                <p pgmap="304" id="b304-10">Reversed and remanded.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="302" ORDERLABEL="274" TYPE="page">
+        <fptr FILEID="tiff_00151_1"/>
+        <fptr FILEID="jp2_00151_1"/>
+        <fptr FILEID="alto_00151_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_302.1" BETYPE="IDREF" FILEID="alto_00151_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="303" ORDERLABEL="275" TYPE="page">
+        <fptr FILEID="tiff_00152_0"/>
+        <fptr FILEID="jp2_00152_0"/>
+        <fptr FILEID="alto_00152_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_303.2" BETYPE="IDREF" FILEID="alto_00152_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="304" ORDERLABEL="276" TYPE="page">
+        <fptr FILEID="tiff_00152_1"/>
+        <fptr FILEID="jp2_00152_1"/>
+        <fptr FILEID="alto_00152_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_304.1" BETYPE="IDREF" FILEID="alto_00152_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="305" ORDERLABEL="277" TYPE="page">
+        <fptr FILEID="tiff_00153_0"/>
+        <fptr FILEID="jp2_00153_0"/>
+        <fptr FILEID="alto_00153_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_305.2" BETYPE="IDREF" FILEID="alto_00153_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b303-7" BETYPE="IDREF" FILEID="casebody_0066"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_303.7" BETYPE="IDREF" FILEID="alto_00152_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b304-10" BETYPE="IDREF" FILEID="casebody_0066"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_304.8" BETYPE="IDREF" FILEID="alto_00152_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ApBm" BETYPE="IDREF" FILEID="casebody_0066"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_302.11" BETYPE="IDREF" FILEID="alto_00151_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b303-8" BETYPE="IDREF" FILEID="casebody_0066"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_303.8" BETYPE="IDREF" FILEID="alto_00152_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b303-9" BETYPE="IDREF" FILEID="casebody_0066"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_303.9" BETYPE="IDREF" FILEID="alto_00152_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b303-10" BETYPE="IDREF" FILEID="casebody_0066"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_303.12" BETYPE="IDREF" FILEID="alto_00152_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b303-11" BETYPE="IDREF" FILEID="casebody_0066"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_303.13" BETYPE="IDREF" FILEID="alto_00152_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b303-12" BETYPE="IDREF" FILEID="casebody_0066"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_303.14" BETYPE="IDREF" FILEID="alto_00152_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b305-5" BETYPE="IDREF" FILEID="casebody_0066"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_305.3" BETYPE="IDREF" FILEID="alto_00153_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A_e" BETYPE="IDREF" FILEID="casebody_0066"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_303.10" BETYPE="IDREF" FILEID="alto_00152_0"/>
+            <area BEGIN="BL_303.11" BETYPE="IDREF" FILEID="alto_00152_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A_a" BETYPE="IDREF" FILEID="casebody_0066"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_302.13" BETYPE="IDREF" FILEID="alto_00151_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b302-9" BETYPE="IDREF" FILEID="casebody_0066"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_302.12" BETYPE="IDREF" FILEID="alto_00151_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b302-8" BETYPE="IDREF" FILEID="casebody_0066"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_302.9" BETYPE="IDREF" FILEID="alto_00151_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b304-5" BETYPE="IDREF" FILEID="casebody_0066"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_304.3" BETYPE="IDREF" FILEID="alto_00152_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b304-7" BETYPE="IDREF" FILEID="casebody_0066"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_304.5" BETYPE="IDREF" FILEID="alto_00152_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b304-6" BETYPE="IDREF" FILEID="casebody_0066"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_304.4" BETYPE="IDREF" FILEID="alto_00152_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b304-9" BETYPE="IDREF" FILEID="casebody_0066"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_304.7" BETYPE="IDREF" FILEID="alto_00152_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b304-8" BETYPE="IDREF" FILEID="casebody_0066"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_304.6" BETYPE="IDREF" FILEID="alto_00152_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AMo2" BETYPE="IDREF" FILEID="casebody_0066"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_302.10" BETYPE="IDREF" FILEID="alto_00151_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

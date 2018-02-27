@@ -1,0 +1,527 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0009" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Strawn v. Norris">Strawn vs. Norris et al.</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 80</citation>
+          <decisiondate>1860-01</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00041_1" MIMETYPE="image/tiff" CHECKSUM="151b527f93fe3c575cdf3220490820b1" CHECKSUMTYPE="MD5" SIZE="21704">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00041_1.tif"/>
+      </file>
+      <file ID="tiff_00042_0" MIMETYPE="image/tiff" CHECKSUM="42d1a941010c2a7d2ced2a2c1d8922f6" CHECKSUMTYPE="MD5" SIZE="45542">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00042_0.tif"/>
+      </file>
+      <file ID="tiff_00042_1" MIMETYPE="image/tiff" CHECKSUM="d21750644312f7ff08aa9a5e6aea87e6" CHECKSUMTYPE="MD5" SIZE="48764">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00042_1.tif"/>
+      </file>
+      <file ID="tiff_00043_0" MIMETYPE="image/tiff" CHECKSUM="c24b2220fc142c9802764e2ccfad41bc" CHECKSUMTYPE="MD5" SIZE="44860">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00043_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00041_1" MIMETYPE="image/jp2" CHECKSUM="e11e77680cfbce98dd1a34f17cc65b05" CHECKSUMTYPE="MD5" SIZE="2375642">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00041_1.jp2"/>
+      </file>
+      <file ID="jp2_00042_0" MIMETYPE="image/jp2" CHECKSUM="35ba78430c12e9147561841e07ab6c98" CHECKSUMTYPE="MD5" SIZE="2628220">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00042_0.jp2"/>
+      </file>
+      <file ID="jp2_00042_1" MIMETYPE="image/jp2" CHECKSUM="770f3e8d2cb0a285144a5b77caff298f" CHECKSUMTYPE="MD5" SIZE="2573334">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00042_1.jp2"/>
+      </file>
+      <file ID="jp2_00043_0" MIMETYPE="image/jp2" CHECKSUM="afb2df25fd25bd85780a48f80fb54ab4" CHECKSUMTYPE="MD5" SIZE="2575967">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00043_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00041_1" MIMETYPE="text/xml" CHECKSUM="34dea458fc9000b7f026c7a09adb5207" CHECKSUMTYPE="MD5" SIZE="43930">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00041_1.xml"/>
+      </file>
+      <file ID="alto_00042_0" MIMETYPE="text/xml" CHECKSUM="9a72b917d2297c0a20a643043767e171" CHECKSUMTYPE="MD5" SIZE="85751">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00042_0.xml"/>
+      </file>
+      <file ID="alto_00042_1" MIMETYPE="text/xml" CHECKSUM="9ec63e7610612c56e5470db9b17b32e3" CHECKSUMTYPE="MD5" SIZE="90307">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00042_1.xml"/>
+      </file>
+      <file ID="alto_00043_0" MIMETYPE="text/xml" CHECKSUM="1fb8d9bae4d3868860452e03e9a5388e" CHECKSUMTYPE="MD5" SIZE="80277">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00043_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0009" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="83" firstpage="80">
+              <parties id="b82-8" pgmap="82">Strawn vs. Norris et al.</parties>
+              <judges id="b85-9" pgmap="85">Absent, Mr. Justice Rector.</judges>
+              <attorneys id="b82-13" pgmap="82">S. H. Hempstead, for the appellant.</attorneys>
+              <attorneys id="b82-14" pgmap="82">Watkins &amp; Gallagher, for appellees.</attorneys>
+              <summary id="b82-11" pgmap="82">Appeal jrom Montgomery Circuit Court in Chancery.</summary>
+              <summary id="b82-12" pgmap="82">Hon. Abner A. Stith,* Circuit Judge.</summary>
+              <headnotes id="b82-9" pgmap="82">The decided-weight of authority is, that the surrender or .destruction of a deed, though not registered, will not operate to revest the grantor with the title.</headnotes>
+              <headnotes id="b82-10" pgmap="82">A grantor having executed a second deed for the same land, through the misrep­resentation of the grantee, whereby he has become liable, on the covenant of warranty in the first deed, to a third person, equity will relieve him by canceling the second deed.</headnotes>
+              <opinion type="majority">
+                <author id="b83-4" pgmap="83">Mr. Justice Compton</author>
+                <p id="Ak3" pgmap="83">delivered the opinion of the Court.</p>
+                <p id="b83-5" pgmap="83">The facts on which the bill in this case was brought, are the following;</p>
+                <p id="b83-6" pgmap="83">Strawn, the appellant, entered at the United States Land Office, for Thomas Norris, a forty acre tract of land. The land being purchased with a land warrant, the entry was necessarily made in Strawn’s name, who thus became vested with the naked legal title.</p>
+                <p id="b83-7" pgmap="83">Norris directed Strawn to convey to his brothers, Andrew T. and Samuel Norris, which Strawn accordingly did, on the 7th July, 185%, by deed of that date, with covenant of warranty. The deed was filed for registration on 7th August, 1852, and was registered without acknowledgment or proof of its execution.</p>
+                <p id="b83-8" pgmap="83">Andrew T. and Samuel Norris applied to Strawn afterward, and requested him to convey the land to Samuel Norris in severalty, stating that the deed, previously executed by him, had not been registered, and should be delivered up and can­celed, on the execution of another deed to the same land. The reason for this request, as given by them, was, that Samuel had bought out the interest of Andrew T., and that by the cancel­lation of the first deed and the execution of another directly to Samuel, the expense of registering two deeds instead of one would be saved.</p>
+                <p id="b83-9" pgmap="83">Strawn, relying on the assurance that the first deed had not been registered, conveyed the land, on the 31st August, 1853, by deed of that date, with like covenants of warranty, to the said Samuel. The first deed was delivered up to Strawn, who afterward ascertained that it had been registered in the manner above stated.</p>
+                <p id="b83-10" pgmap="83">Subsequent to the first, and prior to the second conveyance by Strawn, Andrew T. and Samuel Norris caused a part of said forty acre tract of land to be laid off in town lots, and conveyed two of them to William G. Saunders.</p>
+                <p id="b83-11" pgmap="83">To have the second deed canceled, and the first declared valid, was the prayer of the bill. The Court dismissed the bill, and the cause is here on appeal.</p>
+                <p id="b84-4" pgmap="84">The appellant urges, as grounds for the relief sought, that the surrender and cancellation of the deed of the 7th July, 1852, not having the effect to divest the title of the grantees, and having executed the deed of the 31st August, 1853, to Samuel Norris, he became bound upon two distinct and incon­sistent covenants of warranty — all which he did under a mis­apprehension as to the legal effect of such transactions, and which he was induced to do by the false representations of the appellees.</p>
+                <p id="b84-5" pgmap="84">The decided weight of authority is, that the surrender or destruction of a deed, though not registered, will not operate to revest the grantor with the title. Botsford vs. Morehouse, 4 Conn. 550; Gilbert vs. Buckley, 5 Ib. 262; Rayner vs. Wilson, 6 Hill 469; Jackson vs. Gould, 7 Wend. 364; Graysons vs. Richards, 10 Leigh 57; Morgan vs. Elam, 4 Yerg. 375; Whitton &amp; Halbert vs. Smith, 1 Free. Ch. Rep. 231, Lewis vs. Payne, 8 Cowen 71, 75; 6 East 86; 2 H. Black. 259; 4 Barn. &amp; Ald. 671; 14 East 422.</p>
+                <p id="AHU" pgmap="84">Cases are to be found, however, in which it has been decided that the destruction of a deed may,under certain circumstances, operate to revest the estate. Thus, where the grantee, whose title deed has not been registered, delivers it back to the grantor to be canceled, and abandons the possession. This, it is held, revests the estate in the grantor; not, however, by way of transfer, nor, strictly speaking, by way of release working upon the estate; but rather as an estoppel arising from the voluntary surrender of the legal evidence by which alone the title originally passed. Trull vs. Skinner, 19 Pick. 213, 215; Holbrook vs. Tirrell, 9 Ib. 105; Commonwealth vs. Dudley, 10 Mass. 403; Tomson vs. Ward, 1 New Hamp. 9; Farrar vs. Farrar, 4 Ib. 91; Barrett vs. Thorndike, 1 Greenl. 73.</p>
+                <p id="b84-7" pgmap="84(53) 85(15)">This mode of conveyance is confined to the States of Maine, New Hampshire and Massachusetts — has been sanctioned there by repeated adjudications — and though it may seem to stand on the ground of local usage, yet it is professedly maintained by the learned judges on the principles of the common law only. Vide Greenleaf’s Cruise on Real Prop., vol. 2, title 32, sec. 15, and note.</p>
+                <p id="b85-4" pgmap="85">But according to the decisions in those States, this method of conveyance is limited to transactions conducted in perfect fair­ness and good faith, both as between the parties and as to,the creditors of the grantee, and is not permitted to affect the inter­vening rights of third persons. Trull vs. Skinner, Farrar vs. Farrar, supra.</p>
+                <p id="b85-5" pgmap="85">It would not be easy to maintain the soundness of these decisions upon principle. But, even according to the doctrine which they announce, the appellant would be liable to Saunders on the covenant of warranty contained in the first deed, so far as regards the town lots purchased by Saunders from the grantees before the deed was canceled; because the covenant of warranty having passed with the land to Saunders, the sub­sequent cancellation of the deed did not affect his rights.</p>
+                <p id="b85-6" pgmap="85">The appellant being held, then, upon the covenants of war­ranty in both deeds, it remains to be seen whether the circum­stances under which he became so bound, are such as to entitle him to relief in a court of equity.</p>
+                <p id="b85-7" pgmap="85">The first deed, though filed in the office of the recorder, and actually copied on the record, was, nevertheless, in legal con­templation, an unregistered deed; because its execution had not been previously acknowledged or proven. The statement, by Andrew T. and Samuel Norris, at the time the second deed was executed, that the first had not been registered, though true in legal effect, was false in fact, or in the sense in which the parties understood each other; and the proof abundantly shows that but for this misrepresentation, the appellant would not have executed the second deed. Under such circumstances, we are of opinion he is entitled to the relief which he seeks.</p>
+                <p id="b85-8" pgmap="85">Let the decree of the Court below be reversed, and the cause remanded.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="82" ORDERLABEL="80" TYPE="page">
+        <fptr FILEID="tiff_00041_1"/>
+        <fptr FILEID="jp2_00041_1"/>
+        <fptr FILEID="alto_00041_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_82.1" BETYPE="IDREF" FILEID="alto_00041_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_82.2" BETYPE="IDREF" FILEID="alto_00041_1"/>
+              <area BEGIN="BL_82.3" BETYPE="IDREF" FILEID="alto_00041_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_82.7" BETYPE="IDREF" FILEID="alto_00041_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="83" ORDERLABEL="81" TYPE="page">
+        <fptr FILEID="tiff_00042_0"/>
+        <fptr FILEID="jp2_00042_0"/>
+        <fptr FILEID="alto_00042_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_83.2" BETYPE="IDREF" FILEID="alto_00042_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_83.1" BETYPE="IDREF" FILEID="alto_00042_0"/>
+              <area BEGIN="BL_83.3" BETYPE="IDREF" FILEID="alto_00042_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="84" ORDERLABEL="82" TYPE="page">
+        <fptr FILEID="tiff_00042_1"/>
+        <fptr FILEID="jp2_00042_1"/>
+        <fptr FILEID="alto_00042_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_84.1" BETYPE="IDREF" FILEID="alto_00042_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_84.2" BETYPE="IDREF" FILEID="alto_00042_1"/>
+              <area BEGIN="BL_84.3" BETYPE="IDREF" FILEID="alto_00042_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="85" ORDERLABEL="83" TYPE="page">
+        <fptr FILEID="tiff_00043_0"/>
+        <fptr FILEID="jp2_00043_0"/>
+        <fptr FILEID="alto_00043_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_85.3" BETYPE="IDREF" FILEID="alto_00043_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_85.2" BETYPE="IDREF" FILEID="alto_00043_0"/>
+              <area BEGIN="BL_85.4" BETYPE="IDREF" FILEID="alto_00043_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b82-9" BETYPE="IDREF" FILEID="casebody_0009"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_82.9" BETYPE="IDREF" FILEID="alto_00041_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b82-8" BETYPE="IDREF" FILEID="casebody_0009"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_82.8" BETYPE="IDREF" FILEID="alto_00041_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b85-4" BETYPE="IDREF" FILEID="casebody_0009"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_85.5" BETYPE="IDREF" FILEID="alto_00043_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b85-5" BETYPE="IDREF" FILEID="casebody_0009"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_85.6" BETYPE="IDREF" FILEID="alto_00043_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b84-7" BETYPE="IDREF" FILEID="casebody_0009"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_84.7" BETYPE="IDREF" FILEID="alto_00042_1"/>
+            <area BEGIN="BL_85.1" BETYPE="IDREF" FILEID="alto_00043_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b84-5" BETYPE="IDREF" FILEID="casebody_0009"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_84.5" BETYPE="IDREF" FILEID="alto_00042_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ak3" BETYPE="IDREF" FILEID="casebody_0009"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_83.5" BETYPE="IDREF" FILEID="alto_00042_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AHU" BETYPE="IDREF" FILEID="casebody_0009"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_84.6" BETYPE="IDREF" FILEID="alto_00042_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b85-8" BETYPE="IDREF" FILEID="casebody_0009"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_85.9" BETYPE="IDREF" FILEID="alto_00043_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b85-9" BETYPE="IDREF" FILEID="casebody_0009"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_85.10" BETYPE="IDREF" FILEID="alto_00043_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b85-7" BETYPE="IDREF" FILEID="casebody_0009"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_85.8" BETYPE="IDREF" FILEID="alto_00043_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b83-4" BETYPE="IDREF" FILEID="casebody_0009"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_83.4" BETYPE="IDREF" FILEID="alto_00042_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b83-5" BETYPE="IDREF" FILEID="casebody_0009"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_83.6" BETYPE="IDREF" FILEID="alto_00042_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b83-6" BETYPE="IDREF" FILEID="casebody_0009"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_83.7" BETYPE="IDREF" FILEID="alto_00042_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b83-7" BETYPE="IDREF" FILEID="casebody_0009"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_83.8" BETYPE="IDREF" FILEID="alto_00042_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b85-6" BETYPE="IDREF" FILEID="casebody_0009"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_85.7" BETYPE="IDREF" FILEID="alto_00043_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b84-4" BETYPE="IDREF" FILEID="casebody_0009"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_84.4" BETYPE="IDREF" FILEID="alto_00042_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b83-8" BETYPE="IDREF" FILEID="casebody_0009"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_83.9" BETYPE="IDREF" FILEID="alto_00042_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b83-9" BETYPE="IDREF" FILEID="casebody_0009"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_83.10" BETYPE="IDREF" FILEID="alto_00042_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b82-11" BETYPE="IDREF" FILEID="casebody_0009"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_82.11" BETYPE="IDREF" FILEID="alto_00041_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b82-10" BETYPE="IDREF" FILEID="casebody_0009"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_82.10" BETYPE="IDREF" FILEID="alto_00041_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b82-13" BETYPE="IDREF" FILEID="casebody_0009"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_82.13" BETYPE="IDREF" FILEID="alto_00041_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b82-12" BETYPE="IDREF" FILEID="casebody_0009"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_82.12" BETYPE="IDREF" FILEID="alto_00041_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b82-14" BETYPE="IDREF" FILEID="casebody_0009"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_82.14" BETYPE="IDREF" FILEID="alto_00041_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b83-10" BETYPE="IDREF" FILEID="casebody_0009"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_83.11" BETYPE="IDREF" FILEID="alto_00042_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b83-11" BETYPE="IDREF" FILEID="casebody_0009"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_83.12" BETYPE="IDREF" FILEID="alto_00042_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

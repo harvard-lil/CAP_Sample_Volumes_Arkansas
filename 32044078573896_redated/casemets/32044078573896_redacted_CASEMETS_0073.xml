@@ -1,0 +1,695 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0073" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Pleasants v. Scott">Pleasants et al. vs. Scott et al.</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 370</citation>
+          <decisiondate>1860-07</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00186_1" MIMETYPE="image/tiff" CHECKSUM="1cad7d819ea511928329799f4aac94b4" CHECKSUMTYPE="MD5" SIZE="35202">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00186_1.tif"/>
+      </file>
+      <file ID="tiff_00187_0" MIMETYPE="image/tiff" CHECKSUM="13274d1c0ee5395be130b2ac8de11dcc" CHECKSUMTYPE="MD5" SIZE="36550">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00187_0.tif"/>
+      </file>
+      <file ID="tiff_00187_1" MIMETYPE="image/tiff" CHECKSUM="5b33a976cbc3b0dad33db5a294c271ea" CHECKSUMTYPE="MD5" SIZE="45664">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00187_1.tif"/>
+      </file>
+      <file ID="tiff_00188_0" MIMETYPE="image/tiff" CHECKSUM="3ef6bdf9a0e54ded883a6691d04d6a08" CHECKSUMTYPE="MD5" SIZE="47828">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00188_0.tif"/>
+      </file>
+      <file ID="tiff_00188_1" MIMETYPE="image/tiff" CHECKSUM="3ca3abb7fb2117f0cef0d2071d05d8dd" CHECKSUMTYPE="MD5" SIZE="45502">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00188_1.tif"/>
+      </file>
+      <file ID="tiff_00189_0" MIMETYPE="image/tiff" CHECKSUM="65a46bedce9e24a8c9a294edd560003b" CHECKSUMTYPE="MD5" SIZE="31548">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00189_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00186_1" MIMETYPE="image/jp2" CHECKSUM="390c952fcc47674572bfdb70db37caf7" CHECKSUMTYPE="MD5" SIZE="2425707">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00186_1.jp2"/>
+      </file>
+      <file ID="jp2_00187_0" MIMETYPE="image/jp2" CHECKSUM="d53aeb6dd27747cd7d0e9255a242047a" CHECKSUMTYPE="MD5" SIZE="2483677">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00187_0.jp2"/>
+      </file>
+      <file ID="jp2_00187_1" MIMETYPE="image/jp2" CHECKSUM="f3384e03f392b1fcab148d6169bc8110" CHECKSUMTYPE="MD5" SIZE="2575395">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00187_1.jp2"/>
+      </file>
+      <file ID="jp2_00188_0" MIMETYPE="image/jp2" CHECKSUM="ccf9a01614c32cf50c7681a72896e3a8" CHECKSUMTYPE="MD5" SIZE="2619038">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00188_0.jp2"/>
+      </file>
+      <file ID="jp2_00188_1" MIMETYPE="image/jp2" CHECKSUM="ebe7d313202019dbd5ab3d0072cdb8b6" CHECKSUMTYPE="MD5" SIZE="2524506">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00188_1.jp2"/>
+      </file>
+      <file ID="jp2_00189_0" MIMETYPE="image/jp2" CHECKSUM="c68b87a7849fa93dc511d38fee5202e2" CHECKSUMTYPE="MD5" SIZE="2594660">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00189_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00186_1" MIMETYPE="text/xml" CHECKSUM="ab8c25a252080a2c3afe6e08ef1a06b9" CHECKSUMTYPE="MD5" SIZE="81411">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00186_1.xml"/>
+      </file>
+      <file ID="alto_00187_0" MIMETYPE="text/xml" CHECKSUM="4b24fa9dcd6a1026484b35d287985608" CHECKSUMTYPE="MD5" SIZE="78879">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00187_0.xml"/>
+      </file>
+      <file ID="alto_00187_1" MIMETYPE="text/xml" CHECKSUM="b9d8f99e3fd16c5f0b7e32b87afa40a6" CHECKSUMTYPE="MD5" SIZE="94307">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00187_1.xml"/>
+      </file>
+      <file ID="alto_00188_0" MIMETYPE="text/xml" CHECKSUM="9126884070f947267b68c6cdeafb3d10" CHECKSUMTYPE="MD5" SIZE="91885">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00188_0.xml"/>
+      </file>
+      <file ID="alto_00188_1" MIMETYPE="text/xml" CHECKSUM="ec019ceef2571418dfc8dabaf3f3e459" CHECKSUMTYPE="MD5" SIZE="91930">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00188_1.xml"/>
+      </file>
+      <file ID="alto_00189_0" MIMETYPE="text/xml" CHECKSUM="f14f8bf1540ef95c4b5190716a63a92f" CHECKSUMTYPE="MD5" SIZE="64533">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00189_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0073" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="375" firstpage="370">
+              <parties id="b372-8" pgmap="372">Pleasants et al. vs. Scott et al.</parties>
+              <attorneys id="b373-7" pgmap="373">Watkins &amp; Gallagher, for the plaintiffs.</attorneys>
+              <attorneys id="b373-9" pgmap="373">Fowler &amp; Stillwell, for defendants.</attorneys>
+              <attorneys id="b373-12" pgmap="373">Hempstead, for the plaintiffs.</attorneys>
+              <summary id="b373-5" pgmap="373">Writ of Error to Pulaski Circuit Court.</summary>
+              <summary id="b373-6" pgmap="373">Hon. John J. Clendennin, Circuit Judge.</summary>
+              <summary id="b373-8" pgmap="373">The action of the court in excluding the deeds offered by the defendants as evidence of title, and in connection with proof of possession as color of title, and to show the nature and extent of defendants possession of the land, was erroneous, as it was the right of the defendants to have them go to the jury for each and all of the purposes for which they were offered. Wright vs. Mattison, 18 How. U. S. Rep. 50; Black, on Tax Tilles, 663, 664, 666; Pillow vs. Roberts, 7 Eng. 822; 7 Hill 448; 18 J. R. 335; 6 Sp 7 Ohio Rep. 307; 4 Port. {Ind.) Rep. 164.</summary>
+              <summary id="b373-10" pgmap="373">The deed from Lawson to Ringo was void upon its face, because it did not show that the several requisites of the statute had been complied with (4 N. Iiamp. Rep. 375; 18 How. 138; 1 Munf. 430; 4 Yerg. 307; 15 Ohio 144;) nor that the sale was made on the first Monday in November. 13 Ark. 257; 4 Yerg. 603</summary>
+              <summary id="b373-11" pgmap="373">Ringo could acquire no other title by the sale than he had before. 12 111. 444; 11 lb. 332; Wright's Ohio Rep. 273; Baldío. C. C. R. 162.</summary>
+              <summary id="b373-13" pgmap="373">It is immaterial in whose name land may be assessed and taxed.</summary>
+              <summary id="b373-14" pgmap="373(24) 374(42)">It is on the principle that the person named as owner is bound to pay the taxes, that he can acquire no additional title at a tax sale. One in possession of a tract of land at the date of the assessment may purchase at the sale, unless it appears that he was bound to pay the taxes. Blackwell 470; Blakely vs. Bestor, 13 III. 708.</summary>
+              <summary id="b374-5" pgmap="374">The court, in order to get rid of the collector’s deed, had to assume, 1st, that Ringo was the real owner of the lands; 2d, that he was bound to pay the taxes; 3d, that Barber purchased as his agent, or for his benefit, and therefore that it was equiva­lent to actual purchase at the tax sale by himself. Now, these were unwarranted by any facts or proof in the cause.</summary>
+              <summary id="b374-6" pgmap="374">But supposing the deeds to have been so irregular as to be no evidence of title, still they were admissible, in connection wdth possession, as color of title, and if they were invalid and informal it would be no reason to exclude them. Pillow vs. Roberts, 13 Ilow. S. C. Rep. 477. They were admissible, too, for the purpose of showing the bona ftdes of the possession; and to show the extent of the possession under the statute of limitations. ’</summary>
+              <summary id="b374-7" pgmap="374">The court erred in refusing to give the defendants’ instruc­tions in reference to the statute of limitations. See Gould's Dig. 748; 17 Ark. 050; 1 A. E. Marsh. 40; 2 Brock. 437. The statute commences running from the date of the sale, not from possession taken. Eng. Dig. 690; 3 Serg. R. 298; 9 Barr 71.</summary>
+              <headnotes id="b372-9" pgmap="372">To declaro a tax deed void because it docs not show that every thing has been, done that the law requires to be done by the assessor, county court, clerk and collector, would be a violation of the statutory regulations concerning the effect of tax deeds, and the principles of interpretation to be applied to them.</headnotes>
+              <headnotes id="b372-10" pgmap="372">Ji. tax deed showing that the sale was made on the first day and not upon the first Monday of November, does not show an actual violation of law.</headnotes>
+              <headnotes id="b372-11" pgmap="372">The owner can acquire no title to lands, on his default of payment of the taxes, by his purchase of them at a tax sale. But the fact that lands are assessed to, and sold in the name of a particular person, does not preclude'his purchase of them at tax sale, and acquiring title thereto, if he was under no legal obligation to pay the taxes, and they were not assessed to him with his consent.</headnotes>
+              <headnotes id="b372-12" pgmap="372">A tax deed, regular but for the objection that the person to whom the land was assessed became the purchaser, ought to be received in evidence; when the opposite party may show that the purchaser occupied such a position as required him to pay the taxes.</headnotes>
+              <headnotes id="b373-3" pgmap="373">A tax deed, irrespective of its irregularity or goodness, may be read in evidence by tlie defendant, coupled with proof of possession that would be sufficient under any statute of limitations to bar an action for the lands.</headnotes>
+              <headnotes id="b373-4" pgmap="373">Instructions based on rejected testimony are properly refused.</headnotes>
+              <opinion type="majority">
+                <author id="b374-8" pgmap="374">Mr. Justice Fairchild,</author>
+                <p id="Az3" pgmap="374">delivered the opinion of the court.</p>
+                <p id="b374-9" pgmap="374(122) 375(31)">The writ of error in this case is directed against the same judgment as that in which the decision has been made at the present term in Scott vs. Pleasants, but the writ is sued out by Ihe defendants below to reverse the judgment obtained by the plaintiffs below: the plaintiffs in error in this case, complaining that the east half of fractional section 12, and north-west frac­tional quarter ,of section 13, towu 1 south, range 11 west, were recovered by the defendants in error on account of the errone­ous exclusion of their evidence by the Circuit Court, which evidence, they allege, wmuld have shown them to be entitled to the lands, or was permissible to explain their possession, its character and extent, or to enable their possession, as held under a conveyance in writing, to ripen into an absolute right, though the conveyance in itself might be worthless and void.</p>
+                <p id="AfS" pgmap="375">The defendants below, to resist the plaintiffs’recovery of the lands in the east half of section 12 and in section 13, offered to read in evidence a collector’s deed, executed by James Lawson, jr., sheriff and collector of Pulaski county, made the 9th Decem­ber, 1843, reciting a tax sale of the lands in question, made upon the 1st November, 1841.</p>
+                <p id="b375-6" pgmap="375">The introduction of this deed was objected to by the plain­tiffs below, and the objection was sustained, on the ground that the deed was fraudulent and void.</p>
+                <p id="b375-7" pgmap="375">Wherein the deed was fraudulent, is not apparent upon its face, and has not been shown in this court by the defendants in error. Some objection there may be to the deed, as not con­taining sufficient recitals to show an exact compliance with the requirements of the revenue law in the condemnation and sale of the lands, but we are not prepared to hold, upon the showing made before us, that there are such defects in the deed as to require it to be treated as a fraudulent instrument, or as wit­nessing a fraudulent transaction.</p>
+                <p id="b375-8" pgmap="375">And if a tax deed be declared void because it does not show that every thing has been done that the law directs to be done by the assessor, by the County Court, or its clerk, and by the collector, in the assessment, levy and collection of taxes, our statutory regulations, concerning the effect of tax deeds, and the principles of interpretation to be applied to them, would not only be disregarded, but positively violated.</p>
+                <p id="b375-9" pgmap="375(79) 376(18)">The deed offered seems to fall within the description of a collector’s deed admissible in evidence, as given in Pillow vs. Roberts, 7 Eng. 827. It was executed by a collector of the revenue, acknowledged and recorded, for land assessed and sold for taxes, and if it fail to show a compliance with legal requi­sites, as, for instance, showing that the sale was made upon the first day, and not upon the first Monday of November, it does not, as the deed in Hogan vs. Brashears, 13 Ark. 251, did, show an actual violation of law.</p>
+                <p id="b376-5" pgmap="376">The main objection to the deed seems to be, that the lands mentioned in it were assessed and sold as the property of Daniel Ringo, a person of the same name as the grantee of the tax deed, becoming so by an assignment of the certificate of the purchase from Luke E. Barber, purchaser at the sale.</p>
+                <p id="b376-6" pgmap="376">Assuming the defaulting tax-payer and the grantee in the deed to be the same, as may be held upon the authority of Mc­Namee vs. The United States, 6 Eng. 150, and that the sale to Barber, and assignment of the certificate of purchase to Ringo, and his acceptance of the deed from the collector, must be held to be as if the sale was made directly to Ringo, Voris vs. Thomas, 12 Ill. Rep. 445, yet it would not follow that the deed was fraudulent; for, although Ringo could not acquire a title by his own default of payment of taxes, whether the sale was made to himself directly, or indirectly, as in this case, yet the lands may have been illegally, and without any agency of his own, taxed to him.</p>
+                <p id="b376-7" pgmap="376">If he had been a former owner of the lands, a tenant of them with agreement that the landlord should pay the taxes, or if taxed to him without legal cause, cir consent of Ringo, he was not precluded from buying the lands. And, generally, where the deed is regular, but for the objection under consideration, it should not be excluded.</p>
+                <p id="b376-8" pgmap="376">The deed of Lawson to Ringo should have been allowed to go to the jury, and, when read, the plaintiffs below could show that Ringo occupied such a position as required him to pay the taxes, and not have the benefit of a title resting upon his own default. Blackwell on Tax Tilles, 471; Blakely vs. Bestor, 13 Ill. R. 714.</p>
+                <p id="b376-9" pgmap="376(44) 377(18)">It is also very clear that, irrespective of the regularity or goodness of the deed, the defendants below might read it in evidence, coupled with proof of possession that would be suffi­cient under any statute of limitations to bar an action for the lands. Pillow vs. Roberts, 7 Eng. 829; Elliott vs. Pearce, 20 Ark. 516; Gofer vs. Brooks, Ib. 546.</p>
+                <p id="b377-5" pgmap="377">The second, twelfth and thirteenth instructions of the defen­dants below, respecting the limitations of three and five years, were properly refused, as affecting the lands now in contro­versy, as the deed to Ringo being excluded, there was no evidence that the lands had been sold for taxes. The instruc­tions tvere based on rejected, not on admitted, testimony.</p>
+                <p id="b377-6" pgmap="377">The judgment is reversed, with instructions that the case in the Pulaski Circuit Court stand anew for trial as to the east half of fractional section 12, and north-west fractional quarter of section 13, township 1 south, 11 west.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="372" ORDERLABEL="370" TYPE="page">
+        <fptr FILEID="tiff_00186_1"/>
+        <fptr FILEID="jp2_00186_1"/>
+        <fptr FILEID="alto_00186_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_372.2" BETYPE="IDREF" FILEID="alto_00186_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_372.3" BETYPE="IDREF" FILEID="alto_00186_1"/>
+              <area BEGIN="BL_372.4" BETYPE="IDREF" FILEID="alto_00186_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_372.7" BETYPE="IDREF" FILEID="alto_00186_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="373" ORDERLABEL="371" TYPE="page">
+        <fptr FILEID="tiff_00187_0"/>
+        <fptr FILEID="jp2_00187_0"/>
+        <fptr FILEID="alto_00187_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_373.2" BETYPE="IDREF" FILEID="alto_00187_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_373.1" BETYPE="IDREF" FILEID="alto_00187_0"/>
+              <area BEGIN="BL_373.3" BETYPE="IDREF" FILEID="alto_00187_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="374" ORDERLABEL="372" TYPE="page">
+        <fptr FILEID="tiff_00187_1"/>
+        <fptr FILEID="jp2_00187_1"/>
+        <fptr FILEID="alto_00187_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_374.2" BETYPE="IDREF" FILEID="alto_00187_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_374.3" BETYPE="IDREF" FILEID="alto_00187_1"/>
+              <area BEGIN="BL_374.4" BETYPE="IDREF" FILEID="alto_00187_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="375" ORDERLABEL="373" TYPE="page">
+        <fptr FILEID="tiff_00188_0"/>
+        <fptr FILEID="jp2_00188_0"/>
+        <fptr FILEID="alto_00188_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_375.3" BETYPE="IDREF" FILEID="alto_00188_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_375.2" BETYPE="IDREF" FILEID="alto_00188_0"/>
+              <area BEGIN="BL_375.4" BETYPE="IDREF" FILEID="alto_00188_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="376" ORDERLABEL="374" TYPE="page">
+        <fptr FILEID="tiff_00188_1"/>
+        <fptr FILEID="jp2_00188_1"/>
+        <fptr FILEID="alto_00188_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_376.2" BETYPE="IDREF" FILEID="alto_00188_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_376.3" BETYPE="IDREF" FILEID="alto_00188_1"/>
+              <area BEGIN="BL_376.4" BETYPE="IDREF" FILEID="alto_00188_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="377" ORDERLABEL="375" TYPE="page">
+        <fptr FILEID="tiff_00189_0"/>
+        <fptr FILEID="jp2_00189_0"/>
+        <fptr FILEID="alto_00189_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_377.3" BETYPE="IDREF" FILEID="alto_00189_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_377.2" BETYPE="IDREF" FILEID="alto_00189_0"/>
+              <area BEGIN="BL_377.4" BETYPE="IDREF" FILEID="alto_00189_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_377.7" BETYPE="IDREF" FILEID="alto_00189_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b373-13" BETYPE="IDREF" FILEID="casebody_0073"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_373.14" BETYPE="IDREF" FILEID="alto_00187_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b373-12" BETYPE="IDREF" FILEID="casebody_0073"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_373.13" BETYPE="IDREF" FILEID="alto_00187_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b373-11" BETYPE="IDREF" FILEID="casebody_0073"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_373.12" BETYPE="IDREF" FILEID="alto_00187_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b373-10" BETYPE="IDREF" FILEID="casebody_0073"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_373.11" BETYPE="IDREF" FILEID="alto_00187_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b372-8" BETYPE="IDREF" FILEID="casebody_0073"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_372.8" BETYPE="IDREF" FILEID="alto_00186_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b373-14" BETYPE="IDREF" FILEID="casebody_0073"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_373.15" BETYPE="IDREF" FILEID="alto_00187_0"/>
+            <area BEGIN="BL_374.1" BETYPE="IDREF" FILEID="alto_00187_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b376-8" BETYPE="IDREF" FILEID="casebody_0073"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_376.8" BETYPE="IDREF" FILEID="alto_00188_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b376-6" BETYPE="IDREF" FILEID="casebody_0073"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_376.6" BETYPE="IDREF" FILEID="alto_00188_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AfS" BETYPE="IDREF" FILEID="casebody_0073"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_375.5" BETYPE="IDREF" FILEID="alto_00188_0"/>
+            <area BEGIN="BL_375.6" BETYPE="IDREF" FILEID="alto_00188_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b376-5" BETYPE="IDREF" FILEID="casebody_0073"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_376.5" BETYPE="IDREF" FILEID="alto_00188_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b373-9" BETYPE="IDREF" FILEID="casebody_0073"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_373.10" BETYPE="IDREF" FILEID="alto_00187_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b373-8" BETYPE="IDREF" FILEID="casebody_0073"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_373.9" BETYPE="IDREF" FILEID="alto_00187_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b373-3" BETYPE="IDREF" FILEID="casebody_0073"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_373.4" BETYPE="IDREF" FILEID="alto_00187_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b376-9" BETYPE="IDREF" FILEID="casebody_0073"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_376.9" BETYPE="IDREF" FILEID="alto_00188_1"/>
+            <area BEGIN="BL_377.1" BETYPE="IDREF" FILEID="alto_00189_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b373-7" BETYPE="IDREF" FILEID="casebody_0073"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_373.8" BETYPE="IDREF" FILEID="alto_00187_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b373-6" BETYPE="IDREF" FILEID="casebody_0073"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_373.7" BETYPE="IDREF" FILEID="alto_00187_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b373-5" BETYPE="IDREF" FILEID="casebody_0073"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_373.6" BETYPE="IDREF" FILEID="alto_00187_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b373-4" BETYPE="IDREF" FILEID="casebody_0073"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_373.5" BETYPE="IDREF" FILEID="alto_00187_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b377-6" BETYPE="IDREF" FILEID="casebody_0073"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_377.6" BETYPE="IDREF" FILEID="alto_00189_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b377-5" BETYPE="IDREF" FILEID="casebody_0073"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_377.5" BETYPE="IDREF" FILEID="alto_00189_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b374-8" BETYPE="IDREF" FILEID="casebody_0073"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_374.8" BETYPE="IDREF" FILEID="alto_00187_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b374-9" BETYPE="IDREF" FILEID="casebody_0073"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_374.10" BETYPE="IDREF" FILEID="alto_00187_1"/>
+            <area BEGIN="BL_375.1" BETYPE="IDREF" FILEID="alto_00188_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b375-7" BETYPE="IDREF" FILEID="casebody_0073"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_375.8" BETYPE="IDREF" FILEID="alto_00188_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b375-6" BETYPE="IDREF" FILEID="casebody_0073"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_375.7" BETYPE="IDREF" FILEID="alto_00188_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b375-9" BETYPE="IDREF" FILEID="casebody_0073"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_375.10" BETYPE="IDREF" FILEID="alto_00188_0"/>
+            <area BEGIN="BL_376.1" BETYPE="IDREF" FILEID="alto_00188_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b374-5" BETYPE="IDREF" FILEID="casebody_0073"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_374.5" BETYPE="IDREF" FILEID="alto_00187_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b374-6" BETYPE="IDREF" FILEID="casebody_0073"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_374.6" BETYPE="IDREF" FILEID="alto_00187_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b374-7" BETYPE="IDREF" FILEID="casebody_0073"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_374.7" BETYPE="IDREF" FILEID="alto_00187_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b372-10" BETYPE="IDREF" FILEID="casebody_0073"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_372.10" BETYPE="IDREF" FILEID="alto_00186_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b372-11" BETYPE="IDREF" FILEID="casebody_0073"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_372.11" BETYPE="IDREF" FILEID="alto_00186_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b372-12" BETYPE="IDREF" FILEID="casebody_0073"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_372.12" BETYPE="IDREF" FILEID="alto_00186_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b372-9" BETYPE="IDREF" FILEID="casebody_0073"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_372.9" BETYPE="IDREF" FILEID="alto_00186_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Az3" BETYPE="IDREF" FILEID="casebody_0073"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_374.9" BETYPE="IDREF" FILEID="alto_00187_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b375-8" BETYPE="IDREF" FILEID="casebody_0073"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_375.9" BETYPE="IDREF" FILEID="alto_00188_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b376-7" BETYPE="IDREF" FILEID="casebody_0073"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_376.7" BETYPE="IDREF" FILEID="alto_00188_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

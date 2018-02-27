@@ -1,0 +1,659 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0050" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="McNeill v. Jones">McNeill vs. Jones</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 277</citation>
+          <decisiondate>1860-05</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00140_0" MIMETYPE="image/tiff" CHECKSUM="aa27d2f01d1ff8986d7fe8d77ae5452a" CHECKSUMTYPE="MD5" SIZE="28438">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00140_0.tif"/>
+      </file>
+      <file ID="tiff_00140_1" MIMETYPE="image/tiff" CHECKSUM="7d8ad66161a5d47f00d5389bd2d51b7a" CHECKSUMTYPE="MD5" SIZE="44774">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00140_1.tif"/>
+      </file>
+      <file ID="tiff_00141_0" MIMETYPE="image/tiff" CHECKSUM="5a35e4c897c7537c40f5594c478cff98" CHECKSUMTYPE="MD5" SIZE="50524">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00141_0.tif"/>
+      </file>
+      <file ID="tiff_00141_1" MIMETYPE="image/tiff" CHECKSUM="70f5beba21d8abda537b3991ae90738f" CHECKSUMTYPE="MD5" SIZE="50492">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00141_1.tif"/>
+      </file>
+      <file ID="tiff_00142_0" MIMETYPE="image/tiff" CHECKSUM="4a04608023f248140c9053b7e5577885" CHECKSUMTYPE="MD5" SIZE="51046">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00142_0.tif"/>
+      </file>
+      <file ID="tiff_00142_1" MIMETYPE="image/tiff" CHECKSUM="19ba2fe28c161f241d79451756c33354" CHECKSUMTYPE="MD5" SIZE="49588">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00142_1.tif"/>
+      </file>
+      <file ID="tiff_00143_0" MIMETYPE="image/tiff" CHECKSUM="2b0f00f979a3c3ee21e94dfa7412c1a0" CHECKSUMTYPE="MD5" SIZE="29648">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00143_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00140_0" MIMETYPE="image/jp2" CHECKSUM="f206c5a13d06c32302c86b0579676e08" CHECKSUMTYPE="MD5" SIZE="2542130">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00140_0.jp2"/>
+      </file>
+      <file ID="jp2_00140_1" MIMETYPE="image/jp2" CHECKSUM="074084d6396703cb3fb3330108b7090e" CHECKSUMTYPE="MD5" SIZE="2564083">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00140_1.jp2"/>
+      </file>
+      <file ID="jp2_00141_0" MIMETYPE="image/jp2" CHECKSUM="fe77e69a8cf2c08857cd268148e3cb16" CHECKSUMTYPE="MD5" SIZE="2647161">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00141_0.jp2"/>
+      </file>
+      <file ID="jp2_00141_1" MIMETYPE="image/jp2" CHECKSUM="ec90aa7b6301d9365c5836145a15b824" CHECKSUMTYPE="MD5" SIZE="2662123">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00141_1.jp2"/>
+      </file>
+      <file ID="jp2_00142_0" MIMETYPE="image/jp2" CHECKSUM="03195fba0476c6c893334863883cf5d8" CHECKSUMTYPE="MD5" SIZE="2726694">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00142_0.jp2"/>
+      </file>
+      <file ID="jp2_00142_1" MIMETYPE="image/jp2" CHECKSUM="cd343f652e4622c4357b76fffa997bea" CHECKSUMTYPE="MD5" SIZE="2586023">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00142_1.jp2"/>
+      </file>
+      <file ID="jp2_00143_0" MIMETYPE="image/jp2" CHECKSUM="7d86a6c97258cc5c94b01aeb11d0a89e" CHECKSUMTYPE="MD5" SIZE="2461708">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00143_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00140_0" MIMETYPE="text/xml" CHECKSUM="78e7c00c1cf697105afa6e6503b2a1c4" CHECKSUMTYPE="MD5" SIZE="57072">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00140_0.xml"/>
+      </file>
+      <file ID="alto_00140_1" MIMETYPE="text/xml" CHECKSUM="5d5e53c70a80720f877aa45e076b1fee" CHECKSUMTYPE="MD5" SIZE="88634">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00140_1.xml"/>
+      </file>
+      <file ID="alto_00141_0" MIMETYPE="text/xml" CHECKSUM="0a5acfae7471b0e7e7e4ec377c30df7b" CHECKSUMTYPE="MD5" SIZE="91974">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00141_0.xml"/>
+      </file>
+      <file ID="alto_00141_1" MIMETYPE="text/xml" CHECKSUM="de615584ad1c2ae12c60603deac2aaeb" CHECKSUMTYPE="MD5" SIZE="91940">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00141_1.xml"/>
+      </file>
+      <file ID="alto_00142_0" MIMETYPE="text/xml" CHECKSUM="02e4b2ce63d161c6894b727df7e9b8bb" CHECKSUMTYPE="MD5" SIZE="101673">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00142_0.xml"/>
+      </file>
+      <file ID="alto_00142_1" MIMETYPE="text/xml" CHECKSUM="2cf5d34dd35ee0369ac4008cfc89b27f" CHECKSUMTYPE="MD5" SIZE="92296">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00142_1.xml"/>
+      </file>
+      <file ID="alto_00143_0" MIMETYPE="text/xml" CHECKSUM="ecaf6340cfc7e9350cce3dd4d6288a6f" CHECKSUMTYPE="MD5" SIZE="57687">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00143_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0050" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="283" firstpage="277">
+              <parties id="b279-10" pgmap="279">McNeill vs. Jones.</parties>
+              <attorneys id="b279-14" pgmap="279">Watkins &amp; Gallagher, for the appellant.</attorneys>
+              <attorneys id="b280-6" pgmap="280">Flanagin, for the appellee,</attorneys>
+              <summary id="b279-12" pgmap="279">Appeal from Clark Circuit Court in Chancery.</summary>
+              <summary id="b279-13" pgmap="279">Hon. Abner A. Stith, Circuit Judge.</summary>
+              <summary id="b279-15" pgmap="279(26) 280(47)">The contract set forth in the bill was not sufficient to support the decree. It is stated that it was not in writing. No part per­formance is averred to take it out of the statute of frauds. It is not averred that possession was taken of the land under the contract, nor that such possession was taken with the consent of the owner. 2 Stoj'y's Eq. sec. 763; 18 Ves. Jr. 328.</summary>
+              <summary id="b280-5" pgmap="280">There is no proof of any contract, either in writing or parol. No decree for specific performance ean be made where doubts exist as to the terms of the contract, 1 McLean, 120; nor where its terms are not clear, definite and certain. 2 Su,m. 278; 14 Pet. 77; 3 Hawk. 628; 4 Porter, 297.</summary>
+              <summary id="b280-7" pgmap="280">Submitted that the contract as alleged, was substantially proven; and that the complainant offered to perform the stipu­lations on his part, and was in possession, cultivating and im­proving the land.</summary>
+              <headnotes id="b279-11" pgmap="279">The possession, under a parol contract for the sale of land, to amount to such part performance as will warrant a court of equity in enforcing a specific perfor­mance, must be connected with the contract of sale, must be in consequence and. in pursuance of it, and intended to be in execution of it, and by the permission of the vendor, or with his knowledge and acquiescence.</headnotes>
+              <opinion type="majority">
+                <author id="b280-8" pgmap="280">Mr. Chief Justice English</author>
+                <p id="AqP" pgmap="280">delivered the opinion of the court.</p>
+                <p id="b280-9" pgmap="280">On a bill for the specific performance of a verbal contract for the sale of real estate, Jones obtained a decree against McNeill, in the Clark Circuit Court, and the latter appealed to this court.</p>
+                <p id="b280-10" pgmap="280(175) 281(142)">It must be borne in mind that, by the statute of frauds, verbal contracts for the sale of real estate are void; and that courts of equity, have established the rule of enforcing the specific performance of such contracts in cases, only, wdiere it would be a fraud upon the purchaser to permit the vendor to avail him­self of the benefit of the statute. In other words, that the courts of chancery interpose in certain cases in order to keep a statute, which was designed to prevent frauds and perjuries in the sale of lands, etc., from being made the instrument of fraud —As where the purchaser has been let into possession of the land in pursuance of a parol contract of sale, and made improve­ments, it would be a fraud in the vendor to take advantage of the statute, treat the purchaser as a trespasser, and avail him­self of the benefits of his labor, or money expended in the im­provement of the property; and a court of equity will interpose to prevent such fraud, etc. Delivery of possession, or the vendee’s entry with the vendor’s consent, and the making of valuable improvements, are such part performance of the con­tract of sale as will entitle the vendee to a specific execution of the contract. In like manner, payment of the purchase money, and being let into possession are sufficient. And though in some of the adjudications on the subject, the making of im­provements, and in others, the payment of the purchase money, is connected with the entry into possession, yet neither of these circumstances is necessary, and possession, though it is strength­ened by payment or improvements, is, alone, sufficient to con­stitute part performance. The reason is, as above indicated, that if the contract were avoided, the purchaser would become liable as a trespasser for taking possession of the land.</p>
+                <p id="b281-6" pgmap="281">The possession, to amount to part performance, must be con­nected with the contract of sale, and must be in consequence, and in pursuance of it, and intended to be in execution of it.</p>
+                <p id="b281-7" pgmap="281">If the purchaser’s possession has no relation to the agreement, but is on a distinct title, it will not be part performance; indeed, if it can be fairly and reasonably accounted for, without sup­posing that there was an agreement to sell, such mere posses­sion will not be a sufficient performance.</p>
+                <p id="b281-8" pgmap="281">The possession must clearly appear to have been taken by the known permission of the vendor; and if it be against or without his permission, it will not be availing; but an entry and continuance in possession with the knowledge and acquiescence of the vendor, would reasonably be evidence of his consent. 2 Story Eq. sec. 761-2-3; 1 Vol. Lead. Ca. Eg., Hare &amp; Wallace 568, and cases cited; Gregory vs. Mighell, 18 Ves. 328.</p>
+                <p id="b281-9" pgmap="281">In the case before us, the parties differ, in the bill and answer, as to the terms of the contract.</p>
+                <p id="b281-10" pgmap="281(52) 282(220)">The appellee alleges in the bill, that in the spring of 1851, appellant was in possession of an improvement situated on two fractional quarter sections of land containing about thirty-nine acres, which he had entered at the land office, etc. That at the time referred to, appellant and appellee had a conversation about the sale of the land, but differed as to the terms. That appellant offered to take a second-hand spinning machine of good quality, and four cows and calves to be delivered in the following autumn, for the land. That the conversation had reference to a particular machine which appellant had not seen, but which appellee represented to be a good one, some­what soiled by use, but promised to have it-varnised, etc. That they separated without a trade, but in a few days appellee deter­mined to accept the proposition, and prepared two obligations, one for a spinning machine in accordance with the terms of the agreement, and the other for the cows and calves, and sent them to appellant, with instructions to the agent to deliver them to him, provided he was still willing to sell the property on the terms above stated; and that he received the instruments of the agent, said all was right and retained them. That immediately thereafter, appellee took a good second-hand spinning machine, such as was stipulated for, had it varnished, and tendered it to appellant, at the house of one Tennison, but that he refused to receive it, for the alleged reason that it had not a cast band-­wheel, etc.; and it remained at Tennison’s where it was ten­dered.</p>
+                <p id="b282-5" pgmap="282">That before the time stipulated for the delivering of the cows and calves, at the request of appellant, it was agreed that hogs should be given, at the customary price, in lieu thereof; but before the first of January, 1851, it was further agreed that appellant should be paid $40, in pork, which was the customary price of four cows and calves, and that appellee had pork, and sent him word several times to come and get it, which he neg­lected to do. That appellee afterwards sent appellant word that he could be paid in cows and calves or hogs, just as he pleased, to which appellee received no response. That he afterwards tendered appellant $40, in cash, in lieu of the cows and calves or pork, and he refused to receive the same, stating that he would take the $40, as offered, provided there was some arrangement to pay the balance otherwise than in the spinning machine.</p>
+                <p id="b283-4" pgmap="283">The appellant, in his answer, admits that he and appellee had a conversation, at the time stated, about the sale of the land, but denies that his proposition to sell was on the terms alleged in the bill; on the contrary he avers that he proposed that if the appellee would pay him four cows and calves worth $40, and one cow brute worth $5, he would take a good spinning machine in payment of the balance for the land, on condition that he could sell the machine for $80 cash, but not otherwise. No particular machine was mentioned. That they separated without trading, and they never did conclude any trade about the land. He denies that appellee ever sent him any obligation in relation to the land, except one for three cows and calves and one cow brute, which was notin accordance with his agree­ment, and which he refused to receive as such, and told the agent who delivered it, that he would return it, etc. That he had not received an j thing inpayment of the land. He admits that appellee tendered him a ^spinning machine, but he avers that he refused to receive it because it was not such a machine as he had proposed to accept; that he told appellee that he would have nothing to do with it, because on enquiry he found that it could not be sold for $80; and that it was not worth more than $15. He admits that he told appellee that he would take pork in lieu of the cows and calves if appellee would pay him $80 in cash instead of the machine; but he failed to comply; and did not pay, deliver or tender in payment for the land the cows and calves, such machine as was stipulated for, or cash, and consequently the trade was never completed, and appellant gave him no title, or bond for title to the land, &amp;c.</p>
+                <p id="b283-5" pgmap="283(94) 284(20)">There was no witness to the conversation which occurred between the parties in relation to the sale of the land in the spring of 1851. Much of the depositions read upon the hear­ing relate to the character and value of the spinning machine which appellee offered to deliver to appellant — whether it was such a machine as he proposed to take or not, it was very clear from the evidence that he was not pleased with it, and refused to accept it; and it is by no means clearly proven what the terms of the parol contract between the parties were, or that they ever came to any agreement about the sale.</p>
+                <p id="b284-5" pgmap="284">Appellee alleges in the bill that he took possession of the property, and has had possession ever since, and made improve-. ments thereon worth at least $400. That though appellant had knowledge of his possession and of the improvements that he had made, he had not offered to rescind the contract or given him notice that he claimed the land.</p>
+                <p id="b284-6" pgmap="284">The bill does not allege the time when appellee took posses­sion of the land, nor that the possession was taken under and in pursuance of the contract of sale, or with the consent or per­mission of the appellant, or lhat he acquiesced in the possession of appellee.</p>
+                <p id="b284-7" pgmap="284">The bill was filed 28th July, 1854.</p>
+                <p id="b284-8" pgmap="284">The answer admits that appellee cultivated part of the land in the year 1852, but appellant avers that he knew nothing of the improvements. That the truth was, that appellant cut the timber and cane from some ten or fifteen acres of the land him­self, and that he was informed and believed that appellee had made but little other improvement, excepting the fencing of said land.</p>
+                <p id="b284-9" pgmap="284">The answer was filed the 5th September, 1854, and appellant alleges that he told appellee some two years before then, that as he had failed to comply with any part of the contract it was forfeited, and that he could not have the land, etc.</p>
+                <p id="b284-10" pgmap="284">It does not appear that either of the parties ever resided on the land. It was proven that appellee cultivated a part of the land from the spring of the year 1853, to the filing of the bill; but there is no evidence that he went into possession, or culti­vated the land, with the consent of appellant. On the contrary, it is in proof that they conversed about the trade as late as the summer of 1852, and still disagreed about'the spinning machinej and that appellant continued to pay taxes on the land, and cut timber from it while appellee was cultivating 'a portion of it.</p>
+                <p id="b284-11" pgmap="284(24) 285(51)">It is by no means clearly made out that there was such part performance of the verbal contract of sale (if the parties ever agreed in any) as to take it out of the statute of frauds, and entitle the appellee to specific performance. On the c'ontray, the case affords an apt illustration of the disputes and mischief growing out of parol contracts for the sale of lands, which the statute was designed to prevent.</p>
+                <p id="b285-5" pgmap="285">The decree must be reversed and the cause remanded, with instructions to the court below to dismiss the bill for want of equity.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="279" ORDERLABEL="277" TYPE="page">
+        <fptr FILEID="tiff_00140_0"/>
+        <fptr FILEID="jp2_00140_0"/>
+        <fptr FILEID="alto_00140_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_279.3" BETYPE="IDREF" FILEID="alto_00140_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_279.2" BETYPE="IDREF" FILEID="alto_00140_0"/>
+              <area BEGIN="BL_279.4" BETYPE="IDREF" FILEID="alto_00140_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_279.6" BETYPE="IDREF" FILEID="alto_00140_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="280" ORDERLABEL="278" TYPE="page">
+        <fptr FILEID="tiff_00140_1"/>
+        <fptr FILEID="jp2_00140_1"/>
+        <fptr FILEID="alto_00140_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_280.2" BETYPE="IDREF" FILEID="alto_00140_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_280.3" BETYPE="IDREF" FILEID="alto_00140_1"/>
+              <area BEGIN="BL_280.4" BETYPE="IDREF" FILEID="alto_00140_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="281" ORDERLABEL="279" TYPE="page">
+        <fptr FILEID="tiff_00141_0"/>
+        <fptr FILEID="jp2_00141_0"/>
+        <fptr FILEID="alto_00141_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_281.3" BETYPE="IDREF" FILEID="alto_00141_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_281.2" BETYPE="IDREF" FILEID="alto_00141_0"/>
+              <area BEGIN="BL_281.4" BETYPE="IDREF" FILEID="alto_00141_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="282" ORDERLABEL="280" TYPE="page">
+        <fptr FILEID="tiff_00141_1"/>
+        <fptr FILEID="jp2_00141_1"/>
+        <fptr FILEID="alto_00141_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_282.2" BETYPE="IDREF" FILEID="alto_00141_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_282.3" BETYPE="IDREF" FILEID="alto_00141_1"/>
+              <area BEGIN="BL_282.4" BETYPE="IDREF" FILEID="alto_00141_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="283" ORDERLABEL="281" TYPE="page">
+        <fptr FILEID="tiff_00142_0"/>
+        <fptr FILEID="jp2_00142_0"/>
+        <fptr FILEID="alto_00142_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_283.2" BETYPE="IDREF" FILEID="alto_00142_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_283.1" BETYPE="IDREF" FILEID="alto_00142_0"/>
+              <area BEGIN="BL_283.3" BETYPE="IDREF" FILEID="alto_00142_0"/>
+              <area BEGIN="BL_283.6" BETYPE="IDREF" FILEID="alto_00142_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="284" ORDERLABEL="282" TYPE="page">
+        <fptr FILEID="tiff_00142_1"/>
+        <fptr FILEID="jp2_00142_1"/>
+        <fptr FILEID="alto_00142_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_284.2" BETYPE="IDREF" FILEID="alto_00142_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_284.3" BETYPE="IDREF" FILEID="alto_00142_1"/>
+              <area BEGIN="BL_284.4" BETYPE="IDREF" FILEID="alto_00142_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="285" ORDERLABEL="283" TYPE="page">
+        <fptr FILEID="tiff_00143_0"/>
+        <fptr FILEID="jp2_00143_0"/>
+        <fptr FILEID="alto_00143_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_285.3" BETYPE="IDREF" FILEID="alto_00143_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_285.2" BETYPE="IDREF" FILEID="alto_00143_0"/>
+              <area BEGIN="BL_285.4" BETYPE="IDREF" FILEID="alto_00143_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_285.6" BETYPE="IDREF" FILEID="alto_00143_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b284-6" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_284.6" BETYPE="IDREF" FILEID="alto_00142_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b280-10" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_280.11" BETYPE="IDREF" FILEID="alto_00140_1"/>
+            <area BEGIN="BL_281.1" BETYPE="IDREF" FILEID="alto_00141_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b284-7" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_284.7" BETYPE="IDREF" FILEID="alto_00142_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b283-5" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_283.5" BETYPE="IDREF" FILEID="alto_00142_0"/>
+            <area BEGIN="BL_284.1" BETYPE="IDREF" FILEID="alto_00142_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b283-4" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_283.4" BETYPE="IDREF" FILEID="alto_00142_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b280-8" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_280.8" BETYPE="IDREF" FILEID="alto_00140_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b280-9" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_280.10" BETYPE="IDREF" FILEID="alto_00140_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b281-7" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_281.6" BETYPE="IDREF" FILEID="alto_00141_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b281-6" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_281.5" BETYPE="IDREF" FILEID="alto_00141_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b281-9" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_281.8" BETYPE="IDREF" FILEID="alto_00141_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b281-8" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_281.7" BETYPE="IDREF" FILEID="alto_00141_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b280-6" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_280.6" BETYPE="IDREF" FILEID="alto_00140_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b280-7" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_280.7" BETYPE="IDREF" FILEID="alto_00140_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b280-5" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_280.5" BETYPE="IDREF" FILEID="alto_00140_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b285-5" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_285.5" BETYPE="IDREF" FILEID="alto_00143_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AqP" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_280.9" BETYPE="IDREF" FILEID="alto_00140_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b284-5" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_284.5" BETYPE="IDREF" FILEID="alto_00142_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b284-11" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_284.11" BETYPE="IDREF" FILEID="alto_00142_1"/>
+            <area BEGIN="BL_285.1" BETYPE="IDREF" FILEID="alto_00143_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b284-10" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_284.10" BETYPE="IDREF" FILEID="alto_00142_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b279-12" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_279.9" BETYPE="IDREF" FILEID="alto_00140_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b279-13" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_279.10" BETYPE="IDREF" FILEID="alto_00140_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b279-10" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_279.7" BETYPE="IDREF" FILEID="alto_00140_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b279-11" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_279.8" BETYPE="IDREF" FILEID="alto_00140_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b281-10" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_281.9" BETYPE="IDREF" FILEID="alto_00141_0"/>
+            <area BEGIN="BL_282.1" BETYPE="IDREF" FILEID="alto_00141_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b279-14" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_279.11" BETYPE="IDREF" FILEID="alto_00140_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b279-15" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_279.12" BETYPE="IDREF" FILEID="alto_00140_0"/>
+            <area BEGIN="BL_280.1" BETYPE="IDREF" FILEID="alto_00140_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b284-8" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_284.8" BETYPE="IDREF" FILEID="alto_00142_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b284-9" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_284.9" BETYPE="IDREF" FILEID="alto_00142_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b282-5" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_282.5" BETYPE="IDREF" FILEID="alto_00141_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

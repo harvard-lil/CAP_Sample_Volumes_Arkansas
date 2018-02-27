@@ -1,0 +1,310 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0047" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Trapnall v. Wassell">Trapnall vs. Wassell</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 272</citation>
+          <decisiondate>1860-05</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00137_1" MIMETYPE="image/tiff" CHECKSUM="c72d3c88e2a4f40985f1a3820e862538" CHECKSUMTYPE="MD5" SIZE="29368">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00137_1.tif"/>
+      </file>
+      <file ID="tiff_00138_0" MIMETYPE="image/tiff" CHECKSUM="48c54084a762c102006a7eeb76981db6" CHECKSUMTYPE="MD5" SIZE="27240">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00138_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00137_1" MIMETYPE="image/jp2" CHECKSUM="503cf8c17672cc3413e3068a81e85962" CHECKSUMTYPE="MD5" SIZE="2917940">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00137_1.jp2"/>
+      </file>
+      <file ID="jp2_00138_0" MIMETYPE="image/jp2" CHECKSUM="83150a0282c4484d2f3bbdce0bc34020" CHECKSUMTYPE="MD5" SIZE="2508784">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00138_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00137_1" MIMETYPE="text/xml" CHECKSUM="5f759ab8dafa28a17df8e040b8c830db" CHECKSUMTYPE="MD5" SIZE="55511">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00137_1.xml"/>
+      </file>
+      <file ID="alto_00138_0" MIMETYPE="text/xml" CHECKSUM="62fb5cdc697e6612a3cd0b3a0d2a09c8" CHECKSUMTYPE="MD5" SIZE="52723">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00138_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0047" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="273" firstpage="272">
+              <parties id="b274-8" pgmap="274">Trapnall vs. Wassell.</parties>
+              <attorneys id="b275-5" pgmap="275">Hempstead, for the plaintiff.</attorneys>
+              <attorneys id="b275-6" pgmap="275">Garland &amp; Randolph, for the defendant.</attorneys>
+              <summary id="b274-10" pgmap="274">Error to Pulaski Circuit Court.</summary>
+              <summary id="b275-4" pgmap="275">Hon. John J. Clendenin, Circuit Judge.</summary>
+              <headnotes id="b274-9" pgmap="274">Tlie opinion delivered in Watkins et al. vs. Wassell, 20 Ark. 410, adhered to.</headnotes>
+              <opinion type="majority">
+                <author id="b275-7" pgmap="275">Mr. Justice Compton</author>
+                <p id="AjL" pgmap="275">delivered the opinion of the Court.</p>
+                <p id="b275-8" pgmap="275">This was an action of assumpsit brought by Wassell against Mrs. Trapnall, for money had and received — being money received by her, arising from the rent of certain premises, situate in the city of Little Rock. The judgment in the court below was for Wassell, to reverse which Mrs. Trapnall prose­cutes this writ of error.</p>
+                <p id="b275-9" pgmap="275">It was decided by this court, in Watkins et al. vs. Wassell, 20 Ark. 410, that Wassell was not entitled to the rents for the receipt of which by Mrs. Trapnall, she is sought to be held liable in this action. See the opinion in that case at page 417, et seq., for the law and facts in this.</p>
+                <p id="b275-10" pgmap="275">The judgment must be reversed and the cause remanded.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="274" ORDERLABEL="272" TYPE="page">
+        <fptr FILEID="tiff_00137_1"/>
+        <fptr FILEID="jp2_00137_1"/>
+        <fptr FILEID="alto_00137_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_274.2" BETYPE="IDREF" FILEID="alto_00137_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_274.3" BETYPE="IDREF" FILEID="alto_00137_1"/>
+              <area BEGIN="BL_274.4" BETYPE="IDREF" FILEID="alto_00137_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_274.7" BETYPE="IDREF" FILEID="alto_00137_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="275" ORDERLABEL="273" TYPE="page">
+        <fptr FILEID="tiff_00138_0"/>
+        <fptr FILEID="jp2_00138_0"/>
+        <fptr FILEID="alto_00138_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_275.2" BETYPE="IDREF" FILEID="alto_00138_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_275.1" BETYPE="IDREF" FILEID="alto_00138_0"/>
+              <area BEGIN="BL_275.3" BETYPE="IDREF" FILEID="alto_00138_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_275.12" BETYPE="IDREF" FILEID="alto_00138_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b275-4" BETYPE="IDREF" FILEID="casebody_0047"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_275.4" BETYPE="IDREF" FILEID="alto_00138_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b274-8" BETYPE="IDREF" FILEID="casebody_0047"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_274.8" BETYPE="IDREF" FILEID="alto_00137_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b275-6" BETYPE="IDREF" FILEID="casebody_0047"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_275.6" BETYPE="IDREF" FILEID="alto_00138_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b275-7" BETYPE="IDREF" FILEID="casebody_0047"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_275.7" BETYPE="IDREF" FILEID="alto_00138_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b275-5" BETYPE="IDREF" FILEID="casebody_0047"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_275.5" BETYPE="IDREF" FILEID="alto_00138_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b274-9" BETYPE="IDREF" FILEID="casebody_0047"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_274.9" BETYPE="IDREF" FILEID="alto_00137_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AjL" BETYPE="IDREF" FILEID="casebody_0047"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_275.8" BETYPE="IDREF" FILEID="alto_00138_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b275-8" BETYPE="IDREF" FILEID="casebody_0047"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_275.9" BETYPE="IDREF" FILEID="alto_00138_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b274-10" BETYPE="IDREF" FILEID="casebody_0047"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_274.10" BETYPE="IDREF" FILEID="alto_00137_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b275-10" BETYPE="IDREF" FILEID="casebody_0047"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_275.11" BETYPE="IDREF" FILEID="alto_00138_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b275-9" BETYPE="IDREF" FILEID="casebody_0047"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_275.10" BETYPE="IDREF" FILEID="alto_00138_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

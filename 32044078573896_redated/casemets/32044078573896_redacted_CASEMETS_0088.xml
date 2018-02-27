@@ -1,0 +1,522 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0088" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="State ex rel. Birnie v. Holleman">State use Birnie et al. vs. Holleman et al.</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 413</citation>
+          <decisiondate>1860-07</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00208_0" MIMETYPE="image/tiff" CHECKSUM="42147730b87e3fea1c578ec84d387c1a" CHECKSUMTYPE="MD5" SIZE="33534">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00208_0.tif"/>
+      </file>
+      <file ID="tiff_00208_1" MIMETYPE="image/tiff" CHECKSUM="d8025d21ff4d176f348c88c7a3064649" CHECKSUMTYPE="MD5" SIZE="52926">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00208_1.tif"/>
+      </file>
+      <file ID="tiff_00209_0" MIMETYPE="image/tiff" CHECKSUM="52a2e5c8026fc59915de8e6b1d5a180d" CHECKSUMTYPE="MD5" SIZE="48804">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00209_0.tif"/>
+      </file>
+      <file ID="tiff_00209_1" MIMETYPE="image/tiff" CHECKSUM="15c47d2f2c910a86927b39495218d11e" CHECKSUMTYPE="MD5" SIZE="45738">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00209_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00208_0" MIMETYPE="image/jp2" CHECKSUM="42a31203687b3b0ca546151e6cdd0dbf" CHECKSUMTYPE="MD5" SIZE="2612167">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00208_0.jp2"/>
+      </file>
+      <file ID="jp2_00208_1" MIMETYPE="image/jp2" CHECKSUM="e98605436a9ec3e431e3905bace5bfdd" CHECKSUMTYPE="MD5" SIZE="2757200">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00208_1.jp2"/>
+      </file>
+      <file ID="jp2_00209_0" MIMETYPE="image/jp2" CHECKSUM="d772e8e1c0f92995ecb7e4c272a83a16" CHECKSUMTYPE="MD5" SIZE="2687782">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00209_0.jp2"/>
+      </file>
+      <file ID="jp2_00209_1" MIMETYPE="image/jp2" CHECKSUM="5420f6fec0af9c21c92c1a00c3331cc0" CHECKSUMTYPE="MD5" SIZE="2695663">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00209_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00208_0" MIMETYPE="text/xml" CHECKSUM="e46567b2db083b371f0f10864084a604" CHECKSUMTYPE="MD5" SIZE="72795">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00208_0.xml"/>
+      </file>
+      <file ID="alto_00208_1" MIMETYPE="text/xml" CHECKSUM="727f48de4d7c6e1bd465a4d7179b8f48" CHECKSUMTYPE="MD5" SIZE="98911">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00208_1.xml"/>
+      </file>
+      <file ID="alto_00209_0" MIMETYPE="text/xml" CHECKSUM="558366e168e28f816bd5317c14605053" CHECKSUMTYPE="MD5" SIZE="90435">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00209_0.xml"/>
+      </file>
+      <file ID="alto_00209_1" MIMETYPE="text/xml" CHECKSUM="5027b8c8839ed4a28c8ed72e06a16255" CHECKSUMTYPE="MD5" SIZE="92598">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00209_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0088" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="416" firstpage="413">
+              <parties id="b415-4" pgmap="415">State use Birnie et al. vs. Holleman et al.</parties>
+              <attorneys id="b415-9" pgmap="415">Hempstead, for the plaintiff.</attorneys>
+              <summary id="b415-7" pgmap="415">Writ of Error to Sebastian Circuit Court.</summary>
+              <summary id="b415-8" pgmap="415">Hon. Felix I. Batson, Circuit Judge.</summary>
+              <headnotes id="b415-5" pgmap="415">In an action on the official bond of a constable for hia failure to levy on and sell property taken in attachment and remaining in his possession when an execution upon the j udgment in the attachment came to his hands, it is necessary to aver in the declaration, in stating the breach of the condition of the bond, the failure of the constable to .have the money on the return day of the execution to. pay it over according to the command of the writ.</headnotes>
+              <headnotes id="b415-6" pgmap="415">'Where one of several breaches of the condition of a bond,- as set out in the declaration, is insufficient, and does not contain the requisite averments to eonsti - tute, of itself, a sufficient breach, -it cannot be aided by the facts alleged in the preceding breach.</headnotes>
+              <opinion type="majority">
+                <author id="b415-10" pgmap="415">Mr. Chief Justice English</author>
+                <p id="Aib" pgmap="415">delivered the opinion of the Court.</p>
+                <p id="b415-11" pgmap="415">This was an action on the official bond of a constable. A demurrer was sustained to the declaration, and the plaintiff brought error.</p>
+                <p id="b415-12" pgmap="415">The suit was brought in the name of the State, for the use of Birnie &amp; Meyer against Holleman, the principal in the bond, and Main one of his securities.</p>
+                <p id="b415-13" pgmap="415">The declaration, after setting out the bond, assigned breaches substantially as follows:</p>
+                <p id="b415-14" pgmap="415(46) 416(404) 417(100)">That Birnie &amp; Meyer, on the 11th of October, 1852, sued out, from the office of Samuel Edmondson, esq., a justice of the peace within and for the township of Upper, in the county of Sebastian, a writ of attachment against the goods, etc., of one George Holen, directed to the constable of said township, com­manding him to attach the said Holen by all and singular his goods and chatties, etc., etc., etc., or so much thereof as would be sufficient to secure the sum of $75, the debt sworn to, with interest, and costs of suit; which writ of attachment was, on the 11th day of October, 1852, delivered to said Holleman, while in full force, to be executed; and was by him, on the day and year aforesaid, levied on divers goods and chatties of said Helen, of the value of $75, which said goods and chatties were then and there taken into the possession of him the said Hollé-. man, then and there being constable of said township. That afterwards, and while Holleman was constable as aforesaid, on the 17th of Nov., 1852, by the consideration and judgment of said justice, the said plaintiffs recovered against said Holen, the defendant in attachment, $75 debt, $10 damages, and $4 81 costs of suit; — and that, on the 20th day of September, 1853, they sued out of the office of said justice a writ of execution on said judgment, which was directed to the constable of said township, and, on the same day, came to the hands of said Holleman, constable of said township, as aforesaid, to be by him executed; by which said execution he was commanded that of the goods and effects of said Holen, attached under said writ of attachment, to-wit: one looking glass, etc., etc., [Here the goods attached are described!], to levy the said sum of $75 debt, $10 damages, $4 31 costs, etc., of the said property and effects of the said Holen, according to law, so that he pay the same over to the said plaintiffs, and have their receipt therefor, or the said moneys, before the said justice on the return day of said writ; and he was further commanded that he^make due return of said writ within thirty days from the date thereof to the said justice — ■“ And the plaintiff avers that the said Holleman did not execute all process to him directed and delivered, and in every respect discharge all the duties of his office of constable of Upper township according to law, but so to do wholly failed. That he wilfully and negligently refused and neglected to levy the said execution on the goods so levied on as aforesaid by said attachment, and wilfully neglected to advertise the same for sale, and wasted and destroyed said goods, so attached, as aforesaid, to satisfy the moneys which by the said execution he was commanded to make, or any other sufficient property to satisfy said debt, although he had the said property, in said execution mentioned, in his possession, and might and could have levied on sufficient property to satisfy the moneys which by said execution he was commanded to make, he wholly failed to do so, whereby the plaintiffs’ debt was wholly lost to them.</p>
+                <p id="b417-5" pgmap="417">“ And, for a further breach of said writing obligatory, the said plaintiff says that the said Holleman, constable as afore­said, did not, within thirty days of the issuance of the said execution, return said execution to said justice, as he was thereby commanded, but, to return said execution, hath hitherto wholly neglected and refused.</p>
+                <p id="b417-6" pgmap="417">“ And the said plaintiff avers that the said defendants, or either of them, hath not paid the one thousand dollars in said writing obligatory specified, or any part thereof; and by means of the premises an action hath accrued to the said plaintiff to have and demand of the said defendants the sum of $178 82 that being double the amount of said plaintiff’s debt, damages and costs in said execution specified; yet the plaintiff in fact says the defendants, or either of them, hath not paid the said sum of money or any part thereof, but to pay the same hath hitherto wholly failed and refused, and still fail and refuse so to do,” etc.</p>
+                <p id="b417-7" pgmap="417">The causes of demurrer assigned are as follows:</p>
+                <blockquote id="b417-8" pgmap="417">1. “Thereis no sufficient breach, or breaches, of the condi­tion of the bond alleged in the declaration.</blockquote>
+                <blockquote id="b417-9" pgmap="417">2. “ It is not alleged in the declaration that the defendant Holleman did not, as such constable, by virtue of said execu­tion, have the amount of the judgment recited therein, nor the receipt of the plaintiffs in said judgment, before the said justice, at the return day of the said writ.</blockquote>
+                <blockquote id="b417-10" pgmap="417(11) 418(30)">3. “There is no allegation that, by reason of any breaches of the condition of the bond sued on, an action hath accrued to the plaintiff to have and recover the penalty of the bond, or that said bond.is thereby forfeited.</blockquote>
+                <blockquote id="b418-5" pgmap="418">4. “ It is not alleged that the penalty of the bond has not been paid by defendants, nor the other parties to the bond not sued; and the declaration is otherwise, informal, uncertain and wholly insufficient in law,” etc.</blockquote>
+                <p id="b418-6" pgmap="418">It would seem that the plaintiff meant to assign two special breaches of the bond:</p>
+                <p id="b418-7" pgmap="418">1. That the officer did not levy on and sell the property taken in attachment and remaining in his possession when the exe­cution came to his hands.</p>
+                <p id="b418-8" pgmap="418">2. That he failed to return the execution.</p>
+                <p id="b418-9" pgmap="418">For the first breach of official duty he, and his sureties, were liable for the amount of m.one}r specified in the writ. Gould's Dig., sec. 74. But the right of action did not accrue until the officer was guilty of the further failure to have the money, for which he had thus made himself liable, on the return day of the execution, and to pay it over according to the command of the writ. lb. sec. 75. And his failure so to do should have been alleged in the breach. State use, etc., vs. Engles, 5 Ark. 26. For want of this averment, the breach was bad.</p>
+                <p id="b418-10" pgmap="418">For the second breach of official duty, the failure to return the execution, the officer, and his sureties, were liable to an action on the bond for the amount of the execution, with inte­rest thereon at the rate of one hundred per cent, per annum, etc. Could’s Dig., ch. 99, secs. 171, 174, 177.</p>
+                <p id="b418-11" pgmap="418">But the breach alleging the failure of the officer to return the execution is insufficient, because it does not contain the requi­site averments to constitute, of itself, a sufficient breach, and it cannot be aided by the facts alleged in the preceding breach. State use, etc. vs. Hammett et al., 2 Eng. 492; Lyon vs. Evans et al., 1 Ark. 349; Phillips vs. Governor, 2 Ib. 382.</p>
+                <p id="b418-12" pgmap="418">Both of the breaches specially assigned being defective, as above stated, the demurrer was properly sustained, and the judgment must be affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="415" ORDERLABEL="413" TYPE="page">
+        <fptr FILEID="tiff_00208_0"/>
+        <fptr FILEID="jp2_00208_0"/>
+        <fptr FILEID="alto_00208_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_415.2" BETYPE="IDREF" FILEID="alto_00208_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_415.1" BETYPE="IDREF" FILEID="alto_00208_0"/>
+              <area BEGIN="BL_415.3" BETYPE="IDREF" FILEID="alto_00208_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="416" ORDERLABEL="414" TYPE="page">
+        <fptr FILEID="tiff_00208_1"/>
+        <fptr FILEID="jp2_00208_1"/>
+        <fptr FILEID="alto_00208_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_416.2" BETYPE="IDREF" FILEID="alto_00208_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_416.3" BETYPE="IDREF" FILEID="alto_00208_1"/>
+              <area BEGIN="BL_416.4" BETYPE="IDREF" FILEID="alto_00208_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="417" ORDERLABEL="415" TYPE="page">
+        <fptr FILEID="tiff_00209_0"/>
+        <fptr FILEID="jp2_00209_0"/>
+        <fptr FILEID="alto_00209_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_417.3" BETYPE="IDREF" FILEID="alto_00209_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_417.2" BETYPE="IDREF" FILEID="alto_00209_0"/>
+              <area BEGIN="BL_417.4" BETYPE="IDREF" FILEID="alto_00209_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="418" ORDERLABEL="416" TYPE="page">
+        <fptr FILEID="tiff_00209_1"/>
+        <fptr FILEID="jp2_00209_1"/>
+        <fptr FILEID="alto_00209_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_418.2" BETYPE="IDREF" FILEID="alto_00209_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_418.3" BETYPE="IDREF" FILEID="alto_00209_1"/>
+              <area BEGIN="BL_418.4" BETYPE="IDREF" FILEID="alto_00209_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b415-4" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_415.4" BETYPE="IDREF" FILEID="alto_00208_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b415-5" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_415.5" BETYPE="IDREF" FILEID="alto_00208_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b415-6" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_415.6" BETYPE="IDREF" FILEID="alto_00208_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b415-7" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_415.7" BETYPE="IDREF" FILEID="alto_00208_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b417-6" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_417.6" BETYPE="IDREF" FILEID="alto_00209_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b417-7" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_417.7" BETYPE="IDREF" FILEID="alto_00209_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b417-5" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_417.5" BETYPE="IDREF" FILEID="alto_00209_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b418-9" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_418.9" BETYPE="IDREF" FILEID="alto_00209_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b417-8" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_417.8" BETYPE="IDREF" FILEID="alto_00209_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b417-9" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_417.9" BETYPE="IDREF" FILEID="alto_00209_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b415-8" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_415.8" BETYPE="IDREF" FILEID="alto_00208_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b415-9" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_415.9" BETYPE="IDREF" FILEID="alto_00208_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b418-8" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_418.8" BETYPE="IDREF" FILEID="alto_00209_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b418-11" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_418.11" BETYPE="IDREF" FILEID="alto_00209_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b418-10" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_418.10" BETYPE="IDREF" FILEID="alto_00209_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b418-6" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_418.6" BETYPE="IDREF" FILEID="alto_00209_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b417-10" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_417.10" BETYPE="IDREF" FILEID="alto_00209_0"/>
+            <area BEGIN="BL_418.1" BETYPE="IDREF" FILEID="alto_00209_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b415-14" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_415.15" BETYPE="IDREF" FILEID="alto_00208_0"/>
+            <area BEGIN="BL_416.1" BETYPE="IDREF" FILEID="alto_00208_1"/>
+            <area BEGIN="BL_417.1" BETYPE="IDREF" FILEID="alto_00209_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aib" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_415.11" BETYPE="IDREF" FILEID="alto_00208_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b415-13" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_415.14" BETYPE="IDREF" FILEID="alto_00208_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b415-10" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_415.10" BETYPE="IDREF" FILEID="alto_00208_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b415-11" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_415.12" BETYPE="IDREF" FILEID="alto_00208_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b415-12" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_415.13" BETYPE="IDREF" FILEID="alto_00208_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b418-7" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_418.7" BETYPE="IDREF" FILEID="alto_00209_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b418-12" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_418.12" BETYPE="IDREF" FILEID="alto_00209_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b418-5" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_418.5" BETYPE="IDREF" FILEID="alto_00209_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

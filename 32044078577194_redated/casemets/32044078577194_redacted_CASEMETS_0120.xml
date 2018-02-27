@@ -1,0 +1,407 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0120" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Etheridge v. Shaddock">Eva Jean (Shaddock) ETHERIDGE v. Donald Ray SHADDOCK</name>
+          <docketnumber>85-306</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 481</citation>
+          <citation category="parallel" type="bluebook">706 S.W.2d 395</citation>
+          <decisiondate>1986-04-07</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:01Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00258_0" MIMETYPE="image/tiff" CHECKSUM="ff58336e4457f5d9a7f56094d7742a0f" CHECKSUMTYPE="MD5" SIZE="26312">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00258_0.tif"/>
+      </file>
+      <file ID="tiff_00258_1" MIMETYPE="image/tiff" CHECKSUM="c9b6f748f5541b824bb1a8af09954caf" CHECKSUMTYPE="MD5" SIZE="55334">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00258_1.tif"/>
+      </file>
+      <file ID="tiff_00259_0" MIMETYPE="image/tiff" CHECKSUM="aece1e4b0fc126a6dc280edb18efddc3" CHECKSUMTYPE="MD5" SIZE="20966">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00259_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00258_0" MIMETYPE="image/jp2" CHECKSUM="d1b66f5e55175835dc4b9e19a51a1ca9" CHECKSUMTYPE="MD5" SIZE="2127769">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00258_0.jp2"/>
+      </file>
+      <file ID="jp2_00258_1" MIMETYPE="image/jp2" CHECKSUM="8c0b80065cf0c24ee1fe416fdf9f6cb3" CHECKSUMTYPE="MD5" SIZE="2544809">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00258_1.jp2"/>
+      </file>
+      <file ID="jp2_00259_0" MIMETYPE="image/jp2" CHECKSUM="cd3452290c7e712c1e5182089bdf7e92" CHECKSUMTYPE="MD5" SIZE="1854744">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00259_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00258_0" MIMETYPE="text/xml" CHECKSUM="20bc779ddfd46b09af12b3cae746653a" CHECKSUMTYPE="MD5" SIZE="43135">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00258_0.xml"/>
+      </file>
+      <file ID="alto_00258_1" MIMETYPE="text/xml" CHECKSUM="8176dea1c02a4e31e03c4d3e0e801cd8" CHECKSUMTYPE="MD5" SIZE="96240">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00258_1.xml"/>
+      </file>
+      <file ID="alto_00259_0" MIMETYPE="text/xml" CHECKSUM="0a96b4eb44458b80f31f0421a6b41473" CHECKSUMTYPE="MD5" SIZE="32330">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00259_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0120" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="481" lastpage="483">
+              <court pgmap="515" id="b515-9">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="515" id="b515-8">85-306</docketnumber>
+              <citation pgmap="515" id="Ajx">706 S.W.2d 395</citation>
+              <parties pgmap="515" id="b515-7">Eva Jean (Shaddock) ETHERIDGE v. Donald Ray SHADDOCK</parties>
+              <decisiondate pgmap="515" id="ABk">Opinion delivered April 7, 1986</decisiondate>
+              <judges pgmap="517" id="b517-9">Purtle, J., not participating.</judges>
+              <attorneys pgmap="515" id="b515-12">Kinney &amp; Kinney, for appellant.</attorneys>
+              <attorneys pgmap="515" id="b515-13">Dan Dane, for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="515" id="b515-14">George Rose Smith, Justice.</author>
+                <p pgmap="515" id="ATz">This is a petition by the appellant, now Eva Jean Etheridge, for a change of custody of the parties’ two children. The chancellor denied the petition, finding that there had been no change of conditions calling for the requested modification of the divorce decree. Mrs. Etheridge’s appeal comes to this court under Rule 29(l)(c).</p>
+                <p pgmap="515(10) 516(66)" id="b515-15">The parties were married in 1971 and divorced in April, 1984. The court granted custody of the children to the father, subject to specified visitation privileges. In the latter part of 1984 Shaddock began living with his first cousin, Anna Frank Delozier, who was getting a divorce. After that divorce was granted the two cousins married in Arkansas, not knowing that such a marriage is prohibited by Arkansas law. Ark. Stat. Ann. § 55-103 (Repl. 1971).</p>
+                <p pgmap="516" id="b516-6">In July, 1985, the present petition was filed, alleging the incestuous marriage as a ground for a change of custody. Shaddock and his cousin promptly had their marriage annulled in Arkansas and made a trip to Texas for the sole purpose of remarrying there, such marriages not being prohibited by Texas law. The appellant’s arguments are presented as three points for reversal, but essentially the single contention is that the appellee’s remarriage was a sufficient basis for a change of custody.</p>
+                <p pgmap="516" id="b516-7">
+                   We have no doubt that the Arkansas policy against incest is so strong that we would not recognize the validity of a marriage, even if performed in another state, between very close blood relatives, such as a father and daughter or a brother and sister. The majority view, however, in states forbidding a mar­riage between first cousins, is that such a marriage does not create “much social alarm,” so that the marriage will be recognized if it was valid by the law of the state in which it took place. Leflar, American Conflicts Law, § 221 (3d ed. 1977).</p>
+                <p pgmap="516" id="b516-8">In the case at bar the chancellor was right in relying on our decision in State v. Graves, 228 Ark. 378, 307 S.W.2d 545 (1957). That case involved a marriage between a 17-year-old boy and a 13-year-old girl, which was then declared by statute to be “absolutely void.” Act 32 of 1941. The young couple, accompa­nied by the boy’s father and the girl’s parents, had gone to Mississippi for the marriage, where it was valid. After their return to Arkansas a charge of contributing to the delinquency of the minor girl was filed against the boy and against the girl’s parents. The trial court, without a jury, found the defendants not guilty. The State appealed.</p>
+                <p pgmap="516(46) 517(19)" id="b516-9">In affirming the judgment we emphasized the fact that we had no statute declaring such an underage marriage to be void when performed elsewhere. To the contrary, our policy is ordina­rily to give effect to a marriage that was valid in the state where it was performed. The heart of our decision is to be found in the closing paragraph of the majority opinion:</p>
+                <blockquote pgmap="517" id="b517-6">The celebration of a marriage gives rise to many ramifications, including questions of legitimacy, inheri­tance, property rights, dower and homestead, and causes of action growing out of the marital status. We have no statute which provides that marriages such as the one involved here, celebrated in another state, are void in the State of Arkansas.</blockquote>
+                <p pgmap="517" id="b517-7">We see no reason to elaborate upon a line of reasoning that is still good. The chancellor was right.</p>
+                <p pgmap="517" id="b517-8">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="515" ORDERLABEL="481" TYPE="page">
+        <fptr FILEID="tiff_00258_0"/>
+        <fptr FILEID="jp2_00258_0"/>
+        <fptr FILEID="alto_00258_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_515.3" BETYPE="IDREF" FILEID="alto_00258_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="516" ORDERLABEL="482" TYPE="page">
+        <fptr FILEID="tiff_00258_1"/>
+        <fptr FILEID="jp2_00258_1"/>
+        <fptr FILEID="alto_00258_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_516.2" BETYPE="IDREF" FILEID="alto_00258_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="517" ORDERLABEL="483" TYPE="page">
+        <fptr FILEID="tiff_00259_0"/>
+        <fptr FILEID="jp2_00259_0"/>
+        <fptr FILEID="alto_00259_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_517.3" BETYPE="IDREF" FILEID="alto_00259_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b517-9" BETYPE="IDREF" FILEID="casebody_0120"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_517.7" BETYPE="IDREF" FILEID="alto_00259_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b517-6" BETYPE="IDREF" FILEID="casebody_0120"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_517.4" BETYPE="IDREF" FILEID="alto_00259_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b515-9" BETYPE="IDREF" FILEID="casebody_0120"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_515.11" BETYPE="IDREF" FILEID="alto_00258_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b515-8" BETYPE="IDREF" FILEID="casebody_0120"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_515.9" BETYPE="IDREF" FILEID="alto_00258_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b515-15" BETYPE="IDREF" FILEID="casebody_0120"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_515.22" BETYPE="IDREF" FILEID="alto_00258_0"/>
+            <area BEGIN="BL_516.1" BETYPE="IDREF" FILEID="alto_00258_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b515-14" BETYPE="IDREF" FILEID="casebody_0120"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_515.19" BETYPE="IDREF" FILEID="alto_00258_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b515-7" BETYPE="IDREF" FILEID="casebody_0120"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_515.8" BETYPE="IDREF" FILEID="alto_00258_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ATz" BETYPE="IDREF" FILEID="casebody_0120"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_515.20" BETYPE="IDREF" FILEID="alto_00258_0"/>
+            <area BEGIN="BL_515.21" BETYPE="IDREF" FILEID="alto_00258_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b515-13" BETYPE="IDREF" FILEID="casebody_0120"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_515.18" BETYPE="IDREF" FILEID="alto_00258_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b516-6" BETYPE="IDREF" FILEID="casebody_0120"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_516.4" BETYPE="IDREF" FILEID="alto_00258_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b516-7" BETYPE="IDREF" FILEID="casebody_0120"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_516.5" BETYPE="IDREF" FILEID="alto_00258_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b517-8" BETYPE="IDREF" FILEID="casebody_0120"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_517.6" BETYPE="IDREF" FILEID="alto_00259_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ajx" BETYPE="IDREF" FILEID="casebody_0120"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_515.10" BETYPE="IDREF" FILEID="alto_00258_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b517-7" BETYPE="IDREF" FILEID="casebody_0120"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_517.5" BETYPE="IDREF" FILEID="alto_00259_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b515-12" BETYPE="IDREF" FILEID="casebody_0120"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_515.17" BETYPE="IDREF" FILEID="alto_00258_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ABk" BETYPE="IDREF" FILEID="casebody_0120"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_515.12" BETYPE="IDREF" FILEID="alto_00258_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b516-8" BETYPE="IDREF" FILEID="casebody_0120"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_516.6" BETYPE="IDREF" FILEID="alto_00258_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b516-9" BETYPE="IDREF" FILEID="casebody_0120"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_516.7" BETYPE="IDREF" FILEID="alto_00258_1"/>
+            <area BEGIN="BL_517.1" BETYPE="IDREF" FILEID="alto_00259_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

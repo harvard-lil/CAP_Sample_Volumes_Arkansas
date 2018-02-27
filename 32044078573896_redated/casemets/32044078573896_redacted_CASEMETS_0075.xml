@@ -1,0 +1,544 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0075" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Guthrie v. Field">Guthrie vs. Field</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 379</citation>
+          <decisiondate>1860-07</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00191_0" MIMETYPE="image/tiff" CHECKSUM="523c5567598b1eb168de5940d3db044a" CHECKSUMTYPE="MD5" SIZE="32284">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00191_0.tif"/>
+      </file>
+      <file ID="tiff_00191_1" MIMETYPE="image/tiff" CHECKSUM="3dfe851d9681f7be53ce4e27dc808d88" CHECKSUMTYPE="MD5" SIZE="52354">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00191_1.tif"/>
+      </file>
+      <file ID="tiff_00192_0" MIMETYPE="image/tiff" CHECKSUM="3fab6441c128d0850b831e7eade1f8ee" CHECKSUMTYPE="MD5" SIZE="50986">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00192_0.tif"/>
+      </file>
+      <file ID="tiff_00192_1" MIMETYPE="image/tiff" CHECKSUM="f206c3644c52688b2275cec55fd837ec" CHECKSUMTYPE="MD5" SIZE="51582">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00192_1.tif"/>
+      </file>
+      <file ID="tiff_00193_0" MIMETYPE="image/tiff" CHECKSUM="3e7fd9588112007885bcbe973c518a24" CHECKSUMTYPE="MD5" SIZE="51980">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00193_0.tif"/>
+      </file>
+      <file ID="tiff_00193_1" MIMETYPE="image/tiff" CHECKSUM="faa3336aa3e5a305da215570325f81fa" CHECKSUMTYPE="MD5" SIZE="50158">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00193_1.tif"/>
+      </file>
+      <file ID="tiff_00194_0" MIMETYPE="image/tiff" CHECKSUM="44e7d4369362dc97eb3797e6b45698cc" CHECKSUMTYPE="MD5" SIZE="50778">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00194_0.tif"/>
+      </file>
+      <file ID="tiff_00194_1" MIMETYPE="image/tiff" CHECKSUM="ff61ee4f54e5b0c153378c6e6ecb1e0e" CHECKSUMTYPE="MD5" SIZE="42130">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00194_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00191_0" MIMETYPE="image/jp2" CHECKSUM="74624385a1ff3a62d27f0d86ef6251c3" CHECKSUMTYPE="MD5" SIZE="2555437">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00191_0.jp2"/>
+      </file>
+      <file ID="jp2_00191_1" MIMETYPE="image/jp2" CHECKSUM="fb9d351c0502da8abb127ae2f85a53df" CHECKSUMTYPE="MD5" SIZE="2735598">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00191_1.jp2"/>
+      </file>
+      <file ID="jp2_00192_0" MIMETYPE="image/jp2" CHECKSUM="a6119c943bdd2e0471b9b6f31c94fe2f" CHECKSUMTYPE="MD5" SIZE="2726910">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00192_0.jp2"/>
+      </file>
+      <file ID="jp2_00192_1" MIMETYPE="image/jp2" CHECKSUM="84395674886df713feaeb1fd9b30f591" CHECKSUMTYPE="MD5" SIZE="2682820">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00192_1.jp2"/>
+      </file>
+      <file ID="jp2_00193_0" MIMETYPE="image/jp2" CHECKSUM="adfb13fcd38026cd804a751cf3f82bc2" CHECKSUMTYPE="MD5" SIZE="2708443">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00193_0.jp2"/>
+      </file>
+      <file ID="jp2_00193_1" MIMETYPE="image/jp2" CHECKSUM="7960378cc7ba373dffaf378ea43b9d4d" CHECKSUMTYPE="MD5" SIZE="2748913">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00193_1.jp2"/>
+      </file>
+      <file ID="jp2_00194_0" MIMETYPE="image/jp2" CHECKSUM="4820697efa6dd5b97bd24c3c14a9e3b1" CHECKSUMTYPE="MD5" SIZE="2710647">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00194_0.jp2"/>
+      </file>
+      <file ID="jp2_00194_1" MIMETYPE="image/jp2" CHECKSUM="155861cfc2ab117dba85b078f64de2a4" CHECKSUMTYPE="MD5" SIZE="2612228">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00194_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00191_0" MIMETYPE="text/xml" CHECKSUM="3d75fb35ca7171f2210486fa6b64591c" CHECKSUMTYPE="MD5" SIZE="59090">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00191_0.xml"/>
+      </file>
+      <file ID="alto_00191_1" MIMETYPE="text/xml" CHECKSUM="7c459e4389828b84c8f61c38940d6f0c" CHECKSUMTYPE="MD5" SIZE="95026">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00191_1.xml"/>
+      </file>
+      <file ID="alto_00192_0" MIMETYPE="text/xml" CHECKSUM="cf9f03e8af4eddecdc460be8bf9b347b" CHECKSUMTYPE="MD5" SIZE="94925">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00192_0.xml"/>
+      </file>
+      <file ID="alto_00192_1" MIMETYPE="text/xml" CHECKSUM="a9b24615fdb2b3738956b4e6bad0cd6c" CHECKSUMTYPE="MD5" SIZE="95709">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00192_1.xml"/>
+      </file>
+      <file ID="alto_00193_0" MIMETYPE="text/xml" CHECKSUM="dd311f9cb90950ecc2b73fe372f18b79" CHECKSUMTYPE="MD5" SIZE="98421">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00193_0.xml"/>
+      </file>
+      <file ID="alto_00193_1" MIMETYPE="text/xml" CHECKSUM="06bcb010e061c86d07de7615eb1cad81" CHECKSUMTYPE="MD5" SIZE="95711">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00193_1.xml"/>
+      </file>
+      <file ID="alto_00194_0" MIMETYPE="text/xml" CHECKSUM="2e2e17c4266c214667c6f16b54796f9a" CHECKSUMTYPE="MD5" SIZE="96669">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00194_0.xml"/>
+      </file>
+      <file ID="alto_00194_1" MIMETYPE="text/xml" CHECKSUM="b794e3328400bcdcc6250af196b5eec6" CHECKSUMTYPE="MD5" SIZE="78336">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00194_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0075" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="386" firstpage="379">
+              <parties id="b381-5" pgmap="381">Guthrie vs Field.</parties>
+              <judges id="AqS" pgmap="388">Mr. Justice Fairchild did not sit in this case.</judges>
+              <attorneys id="b381-9" pgmap="381">Garland &amp; Randolph, for the appellant.</attorneys>
+              <attorneys id="b381-11" pgmap="381">Hempstead, for the appellee.</attorneys>
+              <summary id="b381-7" pgmap="381">Appeal from Pulaski Chancery Court..</summary>
+              <summary id="b381-8" pgmap="381">Hon. Hulbert F. Fairchild, Chancellor.</summary>
+              <summary id="b381-10" pgmap="381">The mortgagee is always entitled to the possession of the mortgaged property, unless there is a contrary agreement in the mortgage itself; (11 Mete. 458; 1 Cush. 482; 4 Ala. 735; 1 Hill on Mart. 149;) therefore, where no adverse possession is shown, the law presumes the possession to be with the title; and the defendant in this ease having failed to show that he has continued in possession of the mortgaged property, can derive no benefit from limitation or lapse of time.</summary>
+              <summary id="b381-12" pgmap="381">The great lapse of time, unexplained, appearing upon the face of the bill, would, of itself, be amply sufficient to sustain the decree of the chancellor. 3 Gill, 491; 7 Paige 195; 16 Peters 486; 14 Ark. 62; 16 lb. 146.</summary>
+              <headnotes id="b381-6" pgmap="381">A mortgagee of real estate, being in possession, may rely upon lapse of time as a defence to a bill to foreclose, brought more than ten years after the date of the mortgage.</headnotes>
+              <opinion type="majority">
+                <author id="b381-13" pgmap="381">Hon. Thomas Johnson, Special Judge,</author>
+                <p id="AGV" pgmap="381">delivered the opinion of the court.</p>
+                <p id="b381-14" pgmap="381(32) 382(393) 383(391) 384(396) 385(246)">This was a suit instituted on the chancery side of the Pulaski Circuit Court, on the 28th day of February, 1850, by James Guthrie against William Field, Charles Rapley, Henry M. Rec­tor, Matilda Johnson, Robert W. Johnson, and Benjamin John­son, as executors of Benjamin Johnson, deceased, William P. Thomason, John Joyes, Eliza Gist, as administrator of Robert P. Gist, deceased, and the unknown heirs of John P. Dulaney, deceased, defendants, and alleging in his bill, that on the 31st of December, 1833, said Field being indebted severally to him­self and to the said Thomason, Joyes, Dulaney and Gist, exe­cuted on that day, to them all jointly, a deed of conveyance and mortgage for the security of such indebtedness, and which deed recites that the said Field, in consideration of the premises therein after set forth, and the sum of five dollars, to him paid by them, hath granted, bargained and sold, and thereby did bargain and sell, alien and convey unto them, three lots of land, situate in the city of little Rock, and known on the map of said city as lots ten, eleven and twelve, fronting on Cumberland street, and on the corner of Cumberland and Cherry streets, and therein further covenanted that said lots should thereafter be free from all rights of dower, and other incumbrance what­soever; and made a general warranty of the title thereof, sub­ject, however, to the condition thereunder written; that whereas, the said Field was indebted to the said Thomason in the sum of one hundred and eighty-one 50-100 dollars, and to the said Dulaney in the sum of one hundred and ninety-nine 20-100 dollars, and to the said Joyes in the sum of one hundred and seventy-eight 12-100 dollars, and to the said Gist in the sum of one hundred and sixty-one dollars and sixty-eight cents, and each sum to bear six per cent, interest until paid, and that if the said Field should pay to the said parties, respectively, the sums due to them as aforesaid, with the interest thereon, one-­third in six months, one-third in twelve, and the residue in eighteen months, from the date of said deed, then it was to be void; that said deed so executed was acknowledged, and recorded in the county court clerk’s office of Pulaski county, in which said lots were situated, and that a certified copy of the same was made a part of the bill, and exhibited marked No. 1. That the lots so conveyed are situated in block thirty. two in the city of Little Rock, and west of the Quapaw line; that on the 4th day of October, 1843, said Field and wife, by deed of mortgage, conveyed said lots, with other property, real and personal, to the said Rapley and Johnson, to indemnify them, as his securities, on a note to the Bank of the State of Arkansas, for five hundred dollars, which deed was duly exe­cuted, acknowledged and recorded, and is made a part of the bill, and marked exhibit No. 2. That on the 25th of May, 1844, the said Field made another conveyance of said lots, with other property, real, personal and mixed, to the said Rapley and Rector, to indemnify them, as his securities, on certain debts due by him, and therein set forth, which said mortgage was duly acknowledged and recorded, a certificate of which, with all the certificates, -was prayed to be taken as apart of the bill, and marked No. 3. That the debt to Thomason had long since been discharged; that Dulaney was dead, and insolvent, and that no administration had been taken on his estate: that Gist was also dead, intestate, and that the s'aid Eliza had been duly appointed administratrix; that Benjamin Johnson had also died, having made his last will and testament, and that Matilda, Robert W., and Benjamin Johnson were thereby appointed his executors; that on the 11th of January, 1841, he recovered a judgment in Pulaski Circuit Court against said Field on said demand, for the sum of two hundred and ninety-four 80-100 dollars, and costs of suit, upon which execution was issued and nothing made; a copy of the record was then exhibited and made a part of the bill. He then concludes with a prayer for a foreclosure and sale of the mortgaged property. Eliza Gist, one of the defendants, appeared and filed her answer, in which she admitted the execution of the mortgage, and joined in the prayer for a foreclosure. The appellant, Guthrie, on the 9th of February, 1854, moved for a decree pro confesso against such of the defendants as had failed to answer his bill, which' was refused by the chancellor, but on the contrary, he decreed a discontinuance of the suit. From this decree Guthrie appealed to this court, where the decree of the chancellor was reversed, and the cause remanded. After the cause was sent back to the court below, it was continued from time to time to time, for the defendants to answer, until November 7th, 1856, at which time the defendant Field filed his answer. He admitted the execu­tion of the mortgage, as alleged in the bill, and that it was executed in Pulaski county, in the then territory of Arkansas;­that he supposed at the time, that he was indebted to the appellant in the sum therein specified, but in truth and in fact he did not owe him anything, and executed said mortgage in ignorance of his rights; that he did not learn the true state of facts until after the execution of the mortgage, and alter the judgment at law in favor of complainant against him, men­tioned in the bill; that he ascertained the fact by obtaining vouchers and evidences from the State of Kentucky. He then states the facts referred to, and they are, substantially, as fol­lows: That on the 14th of May, 1828, Charles M. Thruston, of Louisville, Kentucky, assigned to him (Field) all his right, title and claim, which he had upon Hayden Edwards for professional services, and which were then claimed, set forth and demanded in a judicial proceeding, in the Jefferson Circuit Court, in the name" of said Thruston, against said Edwards and Thomas J. Johnson, and that he also authorized him to prosecute said suit in his name. That on the 5th of November, 1829, at the November term of the Jefferson Circuit Court, the said suit was determined and the decree obtained by Thruston, for two hun­dred dollars, as his fee in the case referred to in his bill, as to, and against Edwafds, and that Johnston should pay the said sum to the complainant in that bill, that execution issue for the same, and that said decree was satisfied on the 16th of Novem­ber, 1829, by payment to the complainant in this case, as the counsel of record of the said Thraston, and placed his name on the docket as such, in his own proper hand writing, and that as such solicitor, he had the right to control said decree for his benefit, that he received the money due on said decree, and thereby became responsible to him for the amount of the same; that he has frequently demanded it, but that he had refused, and still refuses to pay it, or to allow it as a set-off, or extin­guishment of the amount stated in the mortgage. He then charges that the complainant had notice of the assignment of the decree to him by Thruston, at the time of its rendition, and when the same was paid and so received by him, and that by virtue of such assignment, he had become the equitable owner thereof, and that in truth and in fact, he was his counsel in that behalf. He therefore denies that he was indebted to the com­plainant when the mortgage was executed, and that the same was executed by him through mistake, and procured by the complainant either by intentional concealment of the facts, or from want of recollection on his part as to the collection and responsibility for said money. He denies that he has ever received the amount of the decree referred to, and prays that an account may be taken between himself and this complain­ant. He admits the making of the other deeds and mortgages mentioned in the bill, and also the recovery of the judgment at law in favor of the complainant against him, for the debt spe­cified in the mortgage. He then claims the benefit of the statute of limitations, and sets up lapse of time as a bar, and denies generally the equity of the bill, etc.</p>
+                <p id="b385-5" pgmap="385">John R. Redding testified, that there was such a case as that 0/ Charles- M. Thruston vs. Thomas J. Johnston and Hayden Edwards, on the chancery docket of the Jefferson Circuit Court, in the State of Kentucky, in the year 1829; that the name of C. M. Thruston was marked as the attorney in the original bill, and Guthrie in the amended bill; that he did not know in whose handwriting it was; that there was an entry of satisfaction on the record in said case, and that it was not signed by any one.</p>
+                <p id="b385-6" pgmap="385(67) 386(65)">Hamilton Pope testified, that he examined the office of the clerk of the Jefferson Circuit Court, in the State of Kentucky, and found that, on the 15th of May, 1828, a bill in chancery was filed in the name of Charles M. Thruston, against Playden Edwards and Thomas J. Johnston, that the bill was in the handwriting of said Thruston, and that no name was signed or marked to it as counsel; that it was signed by O. M. Thruston, and in the handwriting of said Thruston; that in the same case he found an amended bill, which was drawn, as he supposed, by James Guthrie; that the body of said bill was in his hand­writing, that it was signed Guthrie, P. Q,., was in the hand­writing of said Guthrie.</p>
+                <p id="b386-5" pgmap="386">Henry Pirtle, also, testified, that he had been counsellor at law and judge in Kentucky ever since the month of April, 1820, and that an attorney at law or solicitor in 1829, and at the time he was deposing, whose name appeared on the record, was authorized, where nothing appeared to the contrary, to enter satisfaction of a decree or judgment, or receive pay­ment of either, for one year next after the rendition of such decree or judgment.</p>
+                <p id="b386-6" pgmap="386(251) 387(359)">The cause came on for final hearing on the 21st day of Jan­uary, 1858, when the bill was dismissed, and from which decree the complainant has appealed to this court. The first ground of defence relied upon by the defendant, Field, is easily dis posed of, and requires neither argument nor authority to settle it. It is perfectly manifest that in no possible state of the case could the complainant be held responsible to the defendant for the decree referred to in his answer, there being an utter fail­ure, in the proof, to fix upon the former a knowledge of the fact of the assignment to the latter, or that he had any interest in it whatever. The next and principal ground relied upon by the defendant, Field, relates to the lapse of time as consti­tuting a bar in analogy to the statute of limitations at law. This defence, we consider, well sustained by the record. But it is urged very earnestly, and at considerable length, that the defendant cannot claim the benefit of this, as it does not appear that he has been in possession of the mortgaged property a sufficient period of time to bar an ejectment, or for any time whatsoever, and that in the absence of such a showing, the law presumes the possession to have been with the complain­ant, in whom the deed of mortgage vested the legal title. If it be conceded that such is the legal presumption, in the absence of any reservation in the deed, and where there is no record to overturn it, the question to be decided is, whether there is any­thing in the pleadings in this case to rebut and overturn such presumption. The bill is totally silent as to the possession, and the answer is equally so, and in case there is nothing in the record to remove such presumption, the onus rests upon the defendant. The defendant in his answer claims the benefit of ■the statute of limitations, and also of lapse of time. The statute is not pleadable in chancery in a strict and technical sense, but lapse of .time is available in analogy to the statute. It appears from the complainant’s own showing, that after the execution of the mortgage to him, which occurred on the 1st of Decem­ber, 1833, the defendant executed two others of the same lands, one on the 4th of October, 1843, and the other on the 25th of May, 1844, and that in each of the latter he expressly reserved the right to retain possession until the same should be disposed of in due course of law. Here, then, is evidence to prove that the complainant did not, in reality, go into possession of the premises upon the execution of the mortgage which he now seeks to foreclose, or at least that he did retain it a sufficient length of time to mature a title as against the defendant. If the defendant was in possession on the 4th of October, 1843, ten years not having elapsed since the execution of the mort­gage to the complainant, it is clear that the latter cannot hold it upon the ground of possession alone, and it is equally certain that the period which intervened between that date and the institution of this suit, was wholly insufficient for that purpose. The bill, upon its face, shows that the suit to foreclose was not instituted until after a lapse of fourteen years and more, from the maturity of the last installment secured by the mortgage&gt; and also that the complainant could not have acquired title by means of possession.</p>
+                <p id="b387-5" pgmap="387(41) 388(311)">In view of this state of fact, the legal presumption of pos­session in the complainant is left without any foundation to rest upon, and is effectually overturned. This proposition is greatly supported and strengthened by the fact that the com­plainant brought his suit to foreclose after so great a lapse of time, since the absolute title would have vested in him long prior to that period had he been in the actual possession. The complainant having thus deprived himself, by his own showing, of the legal presumption which might otherwise have obtained in his favor, we will now proceed to determine how the matter stands upon the subsequent proceedings. The defendant, in effect, interposed the plea of the statute of limi­tations, to which the complainant tendered an issue bj his replication. This issue threw the burden of proof upon the complainant. The rule is the same in equity and at law In the case of Taylor vs. Spears, 1st Eng. Rep. 385, this court said that “ an-issue taken on the plea of the statute of limitations, that the cause of action accrued within six years, the burthen of proof lies on the plaintiff, and he must prove a cause of action within the limit. There is no statute expressly fixing the lapse of time which shall bar a suit to foreclose a mortgage, but the courts of equity have adopted as the period of limita­tion, the length of time which is allowed the mortgagee to bring ejectment in order to obtain possession of the land, and satisfy his debt out of the rents and profits, and this period is ten years. See 16 Ark. Rep. 145, Sullivan vs. Hadley. The onus probandi having been thus cast upon the complainant, and he having failed to adduce such testimony as to take the case out of the operation of lapse of time, as set up in analogy to the statute, the plea stands confessed, and, consequently, the decree of the chancellor is correct, and ought to be affirmed. Let the decree of the chancellor be, in all things, affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="381" ORDERLABEL="379" TYPE="page">
+        <fptr FILEID="tiff_00191_0"/>
+        <fptr FILEID="jp2_00191_0"/>
+        <fptr FILEID="alto_00191_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_381.2" BETYPE="IDREF" FILEID="alto_00191_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_381.1" BETYPE="IDREF" FILEID="alto_00191_0"/>
+              <area BEGIN="BL_381.3" BETYPE="IDREF" FILEID="alto_00191_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="382" ORDERLABEL="380" TYPE="page">
+        <fptr FILEID="tiff_00191_1"/>
+        <fptr FILEID="jp2_00191_1"/>
+        <fptr FILEID="alto_00191_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_382.2" BETYPE="IDREF" FILEID="alto_00191_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_382.3" BETYPE="IDREF" FILEID="alto_00191_1"/>
+              <area BEGIN="BL_382.4" BETYPE="IDREF" FILEID="alto_00191_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="383" ORDERLABEL="381" TYPE="page">
+        <fptr FILEID="tiff_00192_0"/>
+        <fptr FILEID="jp2_00192_0"/>
+        <fptr FILEID="alto_00192_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_383.3" BETYPE="IDREF" FILEID="alto_00192_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_383.2" BETYPE="IDREF" FILEID="alto_00192_0"/>
+              <area BEGIN="BL_383.4" BETYPE="IDREF" FILEID="alto_00192_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="384" ORDERLABEL="382" TYPE="page">
+        <fptr FILEID="tiff_00192_1"/>
+        <fptr FILEID="jp2_00192_1"/>
+        <fptr FILEID="alto_00192_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_384.2" BETYPE="IDREF" FILEID="alto_00192_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_384.3" BETYPE="IDREF" FILEID="alto_00192_1"/>
+              <area BEGIN="BL_384.4" BETYPE="IDREF" FILEID="alto_00192_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="385" ORDERLABEL="383" TYPE="page">
+        <fptr FILEID="tiff_00193_0"/>
+        <fptr FILEID="jp2_00193_0"/>
+        <fptr FILEID="alto_00193_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_385.3" BETYPE="IDREF" FILEID="alto_00193_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_385.2" BETYPE="IDREF" FILEID="alto_00193_0"/>
+              <area BEGIN="BL_385.4" BETYPE="IDREF" FILEID="alto_00193_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="386" ORDERLABEL="384" TYPE="page">
+        <fptr FILEID="tiff_00193_1"/>
+        <fptr FILEID="jp2_00193_1"/>
+        <fptr FILEID="alto_00193_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_386.2" BETYPE="IDREF" FILEID="alto_00193_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_386.3" BETYPE="IDREF" FILEID="alto_00193_1"/>
+              <area BEGIN="BL_386.4" BETYPE="IDREF" FILEID="alto_00193_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="387" ORDERLABEL="385" TYPE="page">
+        <fptr FILEID="tiff_00194_0"/>
+        <fptr FILEID="jp2_00194_0"/>
+        <fptr FILEID="alto_00194_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_387.3" BETYPE="IDREF" FILEID="alto_00194_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_387.2" BETYPE="IDREF" FILEID="alto_00194_0"/>
+              <area BEGIN="BL_387.4" BETYPE="IDREF" FILEID="alto_00194_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="388" ORDERLABEL="386" TYPE="page">
+        <fptr FILEID="tiff_00194_1"/>
+        <fptr FILEID="jp2_00194_1"/>
+        <fptr FILEID="alto_00194_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_388.2" BETYPE="IDREF" FILEID="alto_00194_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_388.3" BETYPE="IDREF" FILEID="alto_00194_1"/>
+              <area BEGIN="BL_388.4" BETYPE="IDREF" FILEID="alto_00194_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b381-5" BETYPE="IDREF" FILEID="casebody_0075"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_381.4" BETYPE="IDREF" FILEID="alto_00191_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b381-6" BETYPE="IDREF" FILEID="casebody_0075"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_381.5" BETYPE="IDREF" FILEID="alto_00191_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b381-7" BETYPE="IDREF" FILEID="casebody_0075"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_381.6" BETYPE="IDREF" FILEID="alto_00191_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AqS" BETYPE="IDREF" FILEID="casebody_0075"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_388.5" BETYPE="IDREF" FILEID="alto_00194_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AGV" BETYPE="IDREF" FILEID="casebody_0075"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_381.13" BETYPE="IDREF" FILEID="alto_00191_0"/>
+            <area BEGIN="BL_381.14" BETYPE="IDREF" FILEID="alto_00191_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b381-8" BETYPE="IDREF" FILEID="casebody_0075"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_381.7" BETYPE="IDREF" FILEID="alto_00191_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b381-9" BETYPE="IDREF" FILEID="casebody_0075"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_381.8" BETYPE="IDREF" FILEID="alto_00191_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b385-5" BETYPE="IDREF" FILEID="casebody_0075"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_385.5" BETYPE="IDREF" FILEID="alto_00193_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b387-5" BETYPE="IDREF" FILEID="casebody_0075"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_387.5" BETYPE="IDREF" FILEID="alto_00194_0"/>
+            <area BEGIN="BL_388.1" BETYPE="IDREF" FILEID="alto_00194_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b385-6" BETYPE="IDREF" FILEID="casebody_0075"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_385.6" BETYPE="IDREF" FILEID="alto_00193_0"/>
+            <area BEGIN="BL_386.1" BETYPE="IDREF" FILEID="alto_00193_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b386-5" BETYPE="IDREF" FILEID="casebody_0075"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_386.5" BETYPE="IDREF" FILEID="alto_00193_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b381-14" BETYPE="IDREF" FILEID="casebody_0075"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_381.15" BETYPE="IDREF" FILEID="alto_00191_0"/>
+            <area BEGIN="BL_382.1" BETYPE="IDREF" FILEID="alto_00191_1"/>
+            <area BEGIN="BL_383.1" BETYPE="IDREF" FILEID="alto_00192_0"/>
+            <area BEGIN="BL_384.1" BETYPE="IDREF" FILEID="alto_00192_1"/>
+            <area BEGIN="BL_385.1" BETYPE="IDREF" FILEID="alto_00193_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b386-6" BETYPE="IDREF" FILEID="casebody_0075"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_386.6" BETYPE="IDREF" FILEID="alto_00193_1"/>
+            <area BEGIN="BL_387.1" BETYPE="IDREF" FILEID="alto_00194_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b381-12" BETYPE="IDREF" FILEID="casebody_0075"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_381.11" BETYPE="IDREF" FILEID="alto_00191_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b381-13" BETYPE="IDREF" FILEID="casebody_0075"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_381.12" BETYPE="IDREF" FILEID="alto_00191_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b381-10" BETYPE="IDREF" FILEID="casebody_0075"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_381.9" BETYPE="IDREF" FILEID="alto_00191_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b381-11" BETYPE="IDREF" FILEID="casebody_0075"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_381.10" BETYPE="IDREF" FILEID="alto_00191_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

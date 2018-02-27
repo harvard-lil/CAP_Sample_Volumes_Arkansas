@@ -1,0 +1,430 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0123" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Western Grove School District v. Strain">WESTERN GROVE SCHOOL DISTRICT v. Imogene STRAIN</name>
+          <docketnumber>85-232</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 507</citation>
+          <citation category="parallel" type="bluebook">707 S.W.2d 306</citation>
+          <decisiondate>1986-04-14</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:01Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00273_0" MIMETYPE="image/tiff" CHECKSUM="6edd9d9c85a9859b8d8e01a53687b3df" CHECKSUMTYPE="MD5" SIZE="7426">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00273_0.tif"/>
+      </file>
+      <file ID="tiff_00273_1" MIMETYPE="image/tiff" CHECKSUM="c5b31a39cf9e7429756b045f684764db" CHECKSUMTYPE="MD5" SIZE="49568">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00273_1.tif"/>
+      </file>
+      <file ID="tiff_00274_0" MIMETYPE="image/tiff" CHECKSUM="c7d428d4a4d6d86e2f03378df1ca7d31" CHECKSUMTYPE="MD5" SIZE="54664">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00274_0.tif"/>
+      </file>
+      <file ID="tiff_00274_1" MIMETYPE="image/tiff" CHECKSUM="a3a1d1015263384be9785f1d8ed44b1e" CHECKSUMTYPE="MD5" SIZE="36332">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00274_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00273_0" MIMETYPE="image/jp2" CHECKSUM="69f056024f4361439f3b85d292c7346d" CHECKSUMTYPE="MD5" SIZE="1290659">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00273_0.jp2"/>
+      </file>
+      <file ID="jp2_00273_1" MIMETYPE="image/jp2" CHECKSUM="3c64bc18d2776376a6fd10e78bcec496" CHECKSUMTYPE="MD5" SIZE="2495090">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00273_1.jp2"/>
+      </file>
+      <file ID="jp2_00274_0" MIMETYPE="image/jp2" CHECKSUM="e0420a2423f18c1b4479f81262c7ddcd" CHECKSUMTYPE="MD5" SIZE="2534039">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00274_0.jp2"/>
+      </file>
+      <file ID="jp2_00274_1" MIMETYPE="image/jp2" CHECKSUM="a1ce8f022abf9a5fe4aaa9ed89051f01" CHECKSUMTYPE="MD5" SIZE="2329017">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00274_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00273_0" MIMETYPE="text/xml" CHECKSUM="f3699f77fc37dfd07dc0534647382c6a" CHECKSUMTYPE="MD5" SIZE="7338">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00273_0.xml"/>
+      </file>
+      <file ID="alto_00273_1" MIMETYPE="text/xml" CHECKSUM="623a13608bd0a76981b3b1efcd211983" CHECKSUMTYPE="MD5" SIZE="82197">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00273_1.xml"/>
+      </file>
+      <file ID="alto_00274_0" MIMETYPE="text/xml" CHECKSUM="5896dca0b7ee1287158b0daf01ac6c48" CHECKSUMTYPE="MD5" SIZE="90325">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00274_0.xml"/>
+      </file>
+      <file ID="alto_00274_1" MIMETYPE="text/xml" CHECKSUM="900e954ed7817d9900067cdac04cccc5" CHECKSUMTYPE="MD5" SIZE="57678">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00274_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0123" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="507" lastpage="510">
+              <court pgmap="545" id="b545-7">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="545" id="b545-5">85-232</docketnumber>
+              <citation pgmap="545" id="b545-6">707 S.W.2d 306</citation>
+              <parties pgmap="545" id="b545-3">WESTERN GROVE SCHOOL DISTRICT v. Imogene STRAIN</parties>
+              <decisiondate pgmap="545" id="An4">Opinion delivered April 14, 1986</decisiondate>
+              <judges pgmap="548" id="b548-9">Purtle, J., not participating.</judges>
+              <attorneys pgmap="546" id="b546-6">G. Ross Smith &amp; Asso., P.A., for appellant.</attorneys>
+              <attorneys pgmap="546" id="b546-7">Cearley, Mitchell &amp; Roachell, by: Richard W. Roachell and Paul J. Ward, for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="546" id="b546-8">Jack Holt, Jr., Chief Justice.</author>
+                <p pgmap="546" id="AsUi">The teaching contract of appellee, Imogene Strain, was not renewed for the 1982-1983 school year by the Western Grove School District Board of Directors. Mrs. Strain appealed her nonrenewal to the Newton County Circuit Court where the board’s decision was affirmed. Subsequently, Mrs. Strain, appealed to the Arkansas Court of Appeals which reversed the circuit court in an unpublished opinion and remanded the case for consideration of damages and mitigation. After a hearing on remand, the circuit court awarded Mrs. Strain back pay for the two years she was out of work, less her earnings in mitigation. It is from that decision on remand that the school district brings this appeal. Our jurisdiction is pursuant to Sup. Ct. R. 29(l)(c).</p>
+                <p pgmap="546" id="b546-9">The district first contends that Mrs. Strain was only entitled to an award of back pay for one year and that the court, therefore, erred in basing the award on the two-year period between Mrs. Strain’s nonrenewal and her reinstatement. Second, the appellant argues that Mrs. Strain did not make reasonable attempts to mitigate her damages. We find no merit to either contention and affirm the circuit court.</p>
+                <p pgmap="546(128) 547(48)" id="b546-10">Appellant relies on this court’s decision in Marion County Rural School Dist. No. 1 v. Rastle, 265 Ark. 33, 576 S.W.2d 502 (1979). In that case the teacher had a one-year teaching contract for the 1974-1975 school year. Notice of nonrenewal was not properly given to the teacher as provided by the statute in effect at that time, Ark. Stat. Ann. § 80-1304(b) (Supp. 1977). We affirmed the trial court’s holding that the teaching contract was extended by operation of law for the succeeding year, 1975-1976, and the district was liable to Rastle for that year’s salary. Rastle argued, however, that he should also be awarded a salary for the 1976-1977 school year since he never received statutory notice of nonrenewal and the district’s contractual liability would there­fore continue until he received such notice. In rejecting that argument, we held that § 80-1304(b), which allowed for nonre-­newal without cause by simply giving the teacher notice, did not create an expectation of continued employment and the required notice only goes to the succeeding school year.</p>
+                <p pgmap="547" id="b547-5">
+                   Reliance upon Rastle is misplaced, since the statutory law governing teaching contracts had been changed by the legislature prior to the dispute between Mrs. Strain and the school district. The Teacher Fair Dismissal Act of 1979, Ark. Stat. Ann. §§ 80-1264—80-1264.10 (Repl. 1980), was in effect and it provided that before a school district could nonrenew a nonprobationary teacher, such as Mrs. Strain, the district must give notice, state grounds for the action, hold a hearing if requested, and nonrenew for a cause which is not arbitrary, capricious, or discriminatory.</p>
+                <p pgmap="547" id="b547-6">
+                   By statute, Mrs. Strain’s contract with the school district continues unless nonrenewed for cause. Once she was removed from her job by the school district without cause, her contract was in abeyance during the pendency of the lawsuit. Since the lawsuit resulted in her reinstatement, Mrs. Strain is entitled to be compensated for the period she was unemployed due to the actions of the school district. This holding is in accord with the general rule of law that the measure of damages in a breach of employment contract case is the wages which were to be paid less any sum earned in mitigation. 68 Am. Jur. 2d Schools § 211 p. 534 (1973). This court has recognized that a teacher is entitled to damages equivalent to the amount of actual loss sustained as measured by the wages that would have been paid if not for the wrongful discharge, less any mitigation. Russellville Special School Dist. v. Tinsley, 156 Ark. 283, 245 S.W. 831 (1922); Annot., 22 A.L.R.3d 1047, 1054 § 3[b]. Accordingly, Mrs. Strain is entitled to compensation for the two years of salary she lost between her nonrenewal and her reinstatement.</p>
+                <p pgmap="547(50) 548(54)" id="b547-7">As to the second point raised by appellant, Mrs. Strain offered ample proof of her efforts to mitigate damages at a hearing held on that specific question. Appellant contends, however, that despite the fact that Mrs. Strain’s nonrenewal was the result of an alleged dispute with the superintendent over her philosophy of teaching, she included with her applications to other school districts her “statement of philosophy of education.” Second, appellant points out that Mrs. Strain sent a letter with her job applications which contained two misspellings and one word incorrectly used. Her efforts to find other employment were not reasonably diligent, according to appellant.</p>
+                <p pgmap="548" id="b548-6">
+                   The school district has the burden of proving that Mrs. Strain could have obtained other employment in mitigation. Newton v. Calhoun County School Dist., 232 Ark. 943, 341 S.W.2d 30 (1960); Arkansas State Hwy. Comm’n v. Frierson, 269 Ark. 81, 598 S.W.2d 420 (1980). A party must use reasonable care, effort or expenditure in mitigating damages, but the determination of whether one has acted reasonably is a question of fact. Id. Such fact findings, when made by a judge, are not reversed unless clearly erroneous. Ark. R. Civ. P. 52(a). The district also had the burden of proving the amount of damage that might have been avoided by proper mitigation. Harris Const. Co. et al. v. Powers, 262 Ark. 96, 554 S.W.2d 332 (1977).</p>
+                <p pgmap="548" id="b548-7">Here, the district offered no evidence that a school district refused to hire Mrs. Strain because of the letter or the statement of philosophy. Nor did the district offer evidence of the extent to which Mrs. Strain’s actions contributed to her inability to mitigate her damages. The district failed to meet its burden of proof.</p>
+                <p pgmap="548" id="b548-8">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="545" ORDERLABEL="507" TYPE="page">
+        <fptr FILEID="tiff_00273_0"/>
+        <fptr FILEID="jp2_00273_0"/>
+        <fptr FILEID="alto_00273_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_545.2" BETYPE="IDREF" FILEID="alto_00273_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="546" ORDERLABEL="508" TYPE="page">
+        <fptr FILEID="tiff_00273_1"/>
+        <fptr FILEID="jp2_00273_1"/>
+        <fptr FILEID="alto_00273_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_546.2" BETYPE="IDREF" FILEID="alto_00273_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="547" ORDERLABEL="509" TYPE="page">
+        <fptr FILEID="tiff_00274_0"/>
+        <fptr FILEID="jp2_00274_0"/>
+        <fptr FILEID="alto_00274_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_547.2" BETYPE="IDREF" FILEID="alto_00274_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="548" ORDERLABEL="510" TYPE="page">
+        <fptr FILEID="tiff_00274_1"/>
+        <fptr FILEID="jp2_00274_1"/>
+        <fptr FILEID="alto_00274_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_548.2" BETYPE="IDREF" FILEID="alto_00274_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b548-9" BETYPE="IDREF" FILEID="casebody_0123"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_548.7" BETYPE="IDREF" FILEID="alto_00274_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b548-8" BETYPE="IDREF" FILEID="casebody_0123"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_548.6" BETYPE="IDREF" FILEID="alto_00274_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b545-5" BETYPE="IDREF" FILEID="casebody_0123"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_545.4" BETYPE="IDREF" FILEID="alto_00273_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b548-7" BETYPE="IDREF" FILEID="casebody_0123"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_548.5" BETYPE="IDREF" FILEID="alto_00274_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b548-6" BETYPE="IDREF" FILEID="casebody_0123"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_548.4" BETYPE="IDREF" FILEID="alto_00274_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b545-3" BETYPE="IDREF" FILEID="casebody_0123"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_545.3" BETYPE="IDREF" FILEID="alto_00273_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b545-6" BETYPE="IDREF" FILEID="casebody_0123"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_545.5" BETYPE="IDREF" FILEID="alto_00273_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b545-7" BETYPE="IDREF" FILEID="casebody_0123"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_545.6" BETYPE="IDREF" FILEID="alto_00273_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b547-5" BETYPE="IDREF" FILEID="casebody_0123"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_547.4" BETYPE="IDREF" FILEID="alto_00274_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b547-6" BETYPE="IDREF" FILEID="casebody_0123"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_547.5" BETYPE="IDREF" FILEID="alto_00274_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b546-9" BETYPE="IDREF" FILEID="casebody_0123"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_546.10" BETYPE="IDREF" FILEID="alto_00273_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b546-8" BETYPE="IDREF" FILEID="casebody_0123"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_546.7" BETYPE="IDREF" FILEID="alto_00273_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AsUi" BETYPE="IDREF" FILEID="casebody_0123"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_546.8" BETYPE="IDREF" FILEID="alto_00273_1"/>
+            <area BEGIN="BL_546.9" BETYPE="IDREF" FILEID="alto_00273_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b546-10" BETYPE="IDREF" FILEID="casebody_0123"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_546.11" BETYPE="IDREF" FILEID="alto_00273_1"/>
+            <area BEGIN="BL_547.1" BETYPE="IDREF" FILEID="alto_00274_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b546-7" BETYPE="IDREF" FILEID="casebody_0123"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_546.6" BETYPE="IDREF" FILEID="alto_00273_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b546-6" BETYPE="IDREF" FILEID="casebody_0123"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_546.5" BETYPE="IDREF" FILEID="alto_00273_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b547-7" BETYPE="IDREF" FILEID="casebody_0123"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_547.6" BETYPE="IDREF" FILEID="alto_00274_0"/>
+            <area BEGIN="BL_548.1" BETYPE="IDREF" FILEID="alto_00274_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="An4" BETYPE="IDREF" FILEID="casebody_0123"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_545.7" BETYPE="IDREF" FILEID="alto_00273_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

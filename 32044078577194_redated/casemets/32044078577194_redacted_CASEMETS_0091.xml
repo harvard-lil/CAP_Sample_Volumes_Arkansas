@@ -1,0 +1,540 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0091" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Lubin v. Crittenden Memorial Hospital">Milton LUBIN, M.D. v. CRITTENDEN MEMORIAL HOSPITAL, et al.</name>
+          <docketnumber>85-274</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 370</citation>
+          <citation category="parallel" type="bluebook">705 S.W.2d 872</citation>
+          <decisiondate>1986-03-17</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:00Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00202_1" MIMETYPE="image/tiff" CHECKSUM="c9445ed45a3879835d40a681dd314b63" CHECKSUMTYPE="MD5" SIZE="19742">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00202_1.tif"/>
+      </file>
+      <file ID="tiff_00203_0" MIMETYPE="image/tiff" CHECKSUM="d5a96bb4888bda888f619ce2ddc19752" CHECKSUMTYPE="MD5" SIZE="43764">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00203_0.tif"/>
+      </file>
+      <file ID="tiff_00203_1" MIMETYPE="image/tiff" CHECKSUM="9d4ce43d047b7b81eaac153d5a478cb9" CHECKSUMTYPE="MD5" SIZE="51732">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00203_1.tif"/>
+      </file>
+      <file ID="tiff_00204_0" MIMETYPE="image/tiff" CHECKSUM="243610c4bcfd2ae774c3e9c4603cf6a3" CHECKSUMTYPE="MD5" SIZE="54958">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00204_0.tif"/>
+      </file>
+      <file ID="tiff_00204_1" MIMETYPE="image/tiff" CHECKSUM="4bd2d46bb496724fe8ef8b2801d7cc2e" CHECKSUMTYPE="MD5" SIZE="57716">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00204_1.tif"/>
+      </file>
+      <file ID="tiff_00205_0" MIMETYPE="image/tiff" CHECKSUM="e91ec63f4aec0073f8d62fad5c813055" CHECKSUMTYPE="MD5" SIZE="19044">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00205_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00202_1" MIMETYPE="image/jp2" CHECKSUM="9f47d06687bdec324384d22a884b68ae" CHECKSUMTYPE="MD5" SIZE="1730232">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00202_1.jp2"/>
+      </file>
+      <file ID="jp2_00203_0" MIMETYPE="image/jp2" CHECKSUM="433ce0f0d8c3efc4338cce418a4f0324" CHECKSUMTYPE="MD5" SIZE="2649185">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00203_0.jp2"/>
+      </file>
+      <file ID="jp2_00203_1" MIMETYPE="image/jp2" CHECKSUM="a35b74f5d3e0c74ea4b247099df71f1e" CHECKSUMTYPE="MD5" SIZE="2540284">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00203_1.jp2"/>
+      </file>
+      <file ID="jp2_00204_0" MIMETYPE="image/jp2" CHECKSUM="7f72174ca50c7fa87b0b848058f520c0" CHECKSUMTYPE="MD5" SIZE="2540816">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00204_0.jp2"/>
+      </file>
+      <file ID="jp2_00204_1" MIMETYPE="image/jp2" CHECKSUM="35e844f942bb4266b266761caf65282b" CHECKSUMTYPE="MD5" SIZE="2604970">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00204_1.jp2"/>
+      </file>
+      <file ID="jp2_00205_0" MIMETYPE="image/jp2" CHECKSUM="6ffef3d26704ddaa3695a931bd4eda30" CHECKSUMTYPE="MD5" SIZE="1751962">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00205_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00202_1" MIMETYPE="text/xml" CHECKSUM="84414d7b9993275e892749dd4857e57b" CHECKSUMTYPE="MD5" SIZE="30180">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00202_1.xml"/>
+      </file>
+      <file ID="alto_00203_0" MIMETYPE="text/xml" CHECKSUM="172383c058f3ba6b3137461b941964fa" CHECKSUMTYPE="MD5" SIZE="73353">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00203_0.xml"/>
+      </file>
+      <file ID="alto_00203_1" MIMETYPE="text/xml" CHECKSUM="1e189c634172fedb95972a843e58b878" CHECKSUMTYPE="MD5" SIZE="92499">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00203_1.xml"/>
+      </file>
+      <file ID="alto_00204_0" MIMETYPE="text/xml" CHECKSUM="36c45bd6919e37588d02b43f4d7faf45" CHECKSUMTYPE="MD5" SIZE="95623">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00204_0.xml"/>
+      </file>
+      <file ID="alto_00204_1" MIMETYPE="text/xml" CHECKSUM="fbadc1916dee8d4291247c0d44adc156" CHECKSUMTYPE="MD5" SIZE="104059">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00204_1.xml"/>
+      </file>
+      <file ID="alto_00205_0" MIMETYPE="text/xml" CHECKSUM="c93bf3de54b0823f0e8300581e32bd7f" CHECKSUMTYPE="MD5" SIZE="29779">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00205_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0091" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="370" lastpage="375">
+              <court pgmap="404" id="b404-8">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="404" id="b404-7">85-274</docketnumber>
+              <citation pgmap="404" id="Axv">705 S.W.2d 872</citation>
+              <parties pgmap="404" id="b404-6">Milton LUBIN, M.D. v. CRITTENDEN MEMORIAL HOSPITAL, et al.</parties>
+              <decisiondate pgmap="404" id="AhlY">Opinion delivered March 17, 1986</decisiondate>
+              <judges pgmap="409" id="b409-8">Purtle, J., not participating.</judges>
+              <attorneys pgmap="405" id="b405-5">N. Alan Lubin, for appellant.</attorneys>
+              <attorneys pgmap="405" id="b405-6">Spears, Sloan, Johnson &amp; Coleman, and Barrett, Wheatley, Smith &amp; Deacon, for appellees.</attorneys>
+              <opinion type="majority">
+                <author pgmap="405" id="b405-7">David Newbern, Justice.</author>
+                <p pgmap="405" id="ADF">The question in this case is whether Ark. Stat. Ann. § 37-222 (Supp. 1985) permits filing a claim in an Arkansas court more than one year after a “nonsuit suffered” in federal court was affirmed, and rehearing denied, by the United States Circuit Court of Appeals but less than one year after certiorari was denied in the case by the U. S. Supreme Court. We hold the action may be maintained and thus we reverse the trial court’s decision that the Arkansas filing came too late.</p>
+                <p pgmap="405" id="b405-8">The appellant, a long-time member of the appellee hospital’s staff, was placed on a one-year probation as a staff member resulting from a hospital decision reached in a disciplinary hearing. In 1981 the appellant filed an action in the U. S. District Court alleging he was injured by the imposition of the probation and was thus entitled to recover for violation of his civil rights pursuant to 42 U.S.C. § 1983 as well as pursuant to various pendant state claims arising under Arkansas law. Finding a lack of state action to support the § 1983 claim, and thus necessary failure of federal jurisdiction of the pendant state claims, the district court dismissed the action. The Eighth U. S. Circuit Court of Appeals affirmed on August 9, 1983, and denied rehearing September 16, 1983. The appellant sought a writ of certiorari from the U. S. Supreme Court, and it was denied February 21, 1984.</p>
+                <p pgmap="405(43) 406(38)" id="b405-9">
+                   The appellant filed his state court action, based on the same claims he pursued in the federal court, on December 19, 1984. The statutes of limitations applicable to the appellant’s claims had not run when he began his federal court actions. By the time the federal proceedings came to an end, however, the statutes of limitations had run, and thus the appellant’s only possible basis for arguing a timely filing in the Crittenden County Circuit court is § 37-222 which provides:</p>
+                <blockquote pgmap="406" id="b406-4">If any action shall be commenced within the time respectively prescribed in this Act, or in Act 511 of 1979 [§§ 34-2801 — 34-2807], or in Act 709 of 1979 [ §§ 34-­2613 — 2620], or in any other Act, and the plaintiff therein suffer [suffers] a nonsuit, or after a verdict for him the judgment be arrested, or after judgment for him the same be reversed on appeal or writ of error, such plaintiff may commence a new action within one (1) year after such nonsuit suffered or judgment arrested or reversed. Pro­vided, if after judgment for plaintiff the same be reversed on appeal or writ of error, and said cause is remanded for another trial, the mandate shall be taken out and filed in the court from which the appeal is taken within one (1) year from rendition of the judgment of reversal otherwise, said cause shall be forever barred; and if the cause of such action survive to his heirs or survive to his executors or administrators; they may in like manner commence a new action or take out a mandate within the time allowed such plaintiff.</blockquote>
+                <p pgmap="406" id="b406-5">The appellees argue the case in federal court ended when the court of appeals affirmed the district court, and certainly no later than the denial of rehearing. The appellant contends he still had a chance for federal relief until certiorari was denied, and thus his state court filing was within one year of his having suffered nonsuit in the federal courts.</p>
+                <p pgmap="406" id="b406-6">
+                   Our statute and its predecessors have a long history of liberal interpretation. In State Bank v. Magness, 11 Ark. 343 (1850), this court described the purpose of the statute as follows:</p>
+                <blockquote pgmap="406(70) 407(157)" id="b406-7">The next alleged variance is that the judgment in the replication is described as a judgment of non-suit, whilst that offered in evidence is a judgment of dismissal. This involves a construction of the act under which the plaintiff claims to except his case of the general provisions of the limitation law. The legislature has said that when suit shall be commenced and the plaintiff shall suffer a non-suit he may renew his action within twelve months from the time of such non-suit. Was it the object of the legislature by this act to favor suitors who elected to take a non-suit to the exclusion of suitors, who for other cause should have their suits dismissed from court without having had their rights litigated and who might as well renew their actions as if non-suit had been taken? If so it is difficult to perceive from what motive or consideration. On the other hand it is quite apparent that the intention of the framers of the act was to secure that class of suitors from loss who, from causes incident to the administration of the law, are compelled to abandon their present action, whether by their own act or the act of the court, when either would leave them a cause of action, yet undetermined, by giving them a reasonable time in which to renew such action.</blockquote>
+                <p pgmap="407" id="b407-4">Other expansive interpretations of the statute, not directly relevant here, include: Eades v. Joslin, 219 Ark. 688, 244 S.W.2d 623 (1951); Fox v. Penson, 182 Ark. 936, 34 S.W.2d 459 (1930); Walker v. Peay, 22 Ark. 103 (1860); and State Bank v. Fowler and Pike, 14 Ark. 159 (1853).</p>
+                <p pgmap="407" id="b407-5">In Young v. Garrett, 212 Ark. 693, 208 S.W.2d 189 (1948), the question was whether the nonsuit was suffered when a U. S. court of appeals affirmed and denied rehearing adversely to the plaintiff, and we held that it was. There, however, the plaintiff did not seek a writ of certiorari, but succeeded in getting the circuit court to remand the case to the district court to permit him to amend his pleading. The district court held it lacked the authority to permit amendment, and the circuit court affirmed that holding as well. We said the plaintiff could not bring his action in an Arkansas court because more than a year had elapsed since the first affirmance. We pointed out that everything done in the federal courts after the first affirmance was a nullity and said:</p>
+                <blockquote pgmap="407" id="b407-6">But wording of the Act does not justify belief that it was the legislative purpose to so liberalize this gratuity that irrespective of adverse judicial decisions in a given case that the controversy in that jurisdiction had been termi­nated, a period of one year would yet remain while courts were reaffirming what had already been explicity held.</blockquote>
+                <p pgmap="407(11) 408(48)" id="b407-7">That language does not apply here. The claimant before us now has not sought or obtained a redetermination in the U. S. district court or court of appeals other than by orderly procedural steps. We can hardly say his petition to the U. S. Supreme Court was a nullity of the sort we encountered in Young v. Garrett, supra.</p>
+                <p pgmap="408" id="b408-4">A similar situation arose in Wheeler v. Wallingsford, 229 Ark. 576, 317 S.W.2d 153 (1958), where the plaintiff filed a transitory action in Pulaski County but served the defendant in Union County. This court held the service was improper and issued a writ of prohibition to the Pulaski County Circuit Court. Some six months after prohibition was ordered, the plaintiff “took a nonsuit” in his Pulaski County action. He contended that although the statute of limitations had run, he had one year from the time he was granted “nonsuit” to bring his action in accordance with § 37-222. We held the year began to run when the writ of prohibition issued. We said the writ terminated the Pulaski County action “just as effectively as it could be done.” Thus, there was no action remaining in which a nonsuit could legitimately be taken. At that time it was held that an action was not commenced until the complaint was filed and the summons placed in the hands of the proper sheriff. Goodyear Tire &amp; Rubber Co. v. Meyer, 209 Ark. 383, 191 S.W.2d 826 (1945). Cf. Ark. R. Civ. P. 3. Therefore, no action could have been com­menced in Pulaski County within the statute of limitations or within the one-year period prescribed in § 37-222. The plaintiffs “nonsuit” was, as the attempted amendment in Youngv. Garrett, supra, a nullity. It was taken in a nonexistent lawsuit.</p>
+                <p pgmap="408(161) 409(62)" id="b408-5">
+                   We are aware of holdings that a U. S. circuit court of appeals affirmance is the final result when there is no right of appeal to the U. S. Supreme Court. See, e.g., Glick v. Ballentine Products, 397 F.2d 590 (8th Cir. 1968). However, if certiorari had been granted by the U. S. Supreme Court in this case, all must concede the federal court action would not have been over. Given the remedial nature of § 37-222 and our liberal previous interpretations of it, we will not require that a litigant who is seeking certiorari from the U. S. Supreme Court file an action in one of our courts while his petition is pending just to preserve his right under § 37-222. The petition for certiorari to the U. S. Supreme Court must be filed within ninety days after entry of judgment or decree. 28 U.S.C. § 2101(c). Therefore, rather than giving a claimant an open-ended method of preserving the one year to which he may be entitled under § 37-222, this decision permits him to take advantage of his ultimate recourse in the federal system before concluding he has indeed “suffered non-­suit” and initiating the one-year period within which he must file his claim in an Arkansas court or forever lose the right to have the merits of it adjudicated here.</p>
+                <p pgmap="409" id="b409-6">The trial court’s decision dismissing the appellant’s claim pursuant to Ark. R. Civ. P. 12(b)(6) is reversed, and the case is remanded for further proceedings.</p>
+                <p pgmap="409" id="b409-7">Reversed and remanded.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="404" ORDERLABEL="370" TYPE="page">
+        <fptr FILEID="tiff_00202_1"/>
+        <fptr FILEID="jp2_00202_1"/>
+        <fptr FILEID="alto_00202_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_404.2" BETYPE="IDREF" FILEID="alto_00202_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="405" ORDERLABEL="371" TYPE="page">
+        <fptr FILEID="tiff_00203_0"/>
+        <fptr FILEID="jp2_00203_0"/>
+        <fptr FILEID="alto_00203_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_405.3" BETYPE="IDREF" FILEID="alto_00203_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="406" ORDERLABEL="372" TYPE="page">
+        <fptr FILEID="tiff_00203_1"/>
+        <fptr FILEID="jp2_00203_1"/>
+        <fptr FILEID="alto_00203_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_406.2" BETYPE="IDREF" FILEID="alto_00203_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="407" ORDERLABEL="373" TYPE="page">
+        <fptr FILEID="tiff_00204_0"/>
+        <fptr FILEID="jp2_00204_0"/>
+        <fptr FILEID="alto_00204_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_407.3" BETYPE="IDREF" FILEID="alto_00204_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="408" ORDERLABEL="374" TYPE="page">
+        <fptr FILEID="tiff_00204_1"/>
+        <fptr FILEID="jp2_00204_1"/>
+        <fptr FILEID="alto_00204_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_408.2" BETYPE="IDREF" FILEID="alto_00204_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="409" ORDERLABEL="375" TYPE="page">
+        <fptr FILEID="tiff_00205_0"/>
+        <fptr FILEID="jp2_00205_0"/>
+        <fptr FILEID="alto_00205_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_409.3" BETYPE="IDREF" FILEID="alto_00205_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b406-4" BETYPE="IDREF" FILEID="casebody_0091"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_406.4" BETYPE="IDREF" FILEID="alto_00203_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b406-5" BETYPE="IDREF" FILEID="casebody_0091"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_406.5" BETYPE="IDREF" FILEID="alto_00203_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b406-6" BETYPE="IDREF" FILEID="casebody_0091"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_406.6" BETYPE="IDREF" FILEID="alto_00203_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Axv" BETYPE="IDREF" FILEID="casebody_0091"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_404.9" BETYPE="IDREF" FILEID="alto_00202_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ADF" BETYPE="IDREF" FILEID="casebody_0091"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_405.10" BETYPE="IDREF" FILEID="alto_00203_0"/>
+            <area BEGIN="BL_405.11" BETYPE="IDREF" FILEID="alto_00203_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b405-6" BETYPE="IDREF" FILEID="casebody_0091"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_405.8" BETYPE="IDREF" FILEID="alto_00203_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b407-5" BETYPE="IDREF" FILEID="casebody_0091"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_407.5" BETYPE="IDREF" FILEID="alto_00204_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b407-4" BETYPE="IDREF" FILEID="casebody_0091"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_407.4" BETYPE="IDREF" FILEID="alto_00204_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b407-7" BETYPE="IDREF" FILEID="casebody_0091"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_407.7" BETYPE="IDREF" FILEID="alto_00204_0"/>
+            <area BEGIN="BL_408.1" BETYPE="IDREF" FILEID="alto_00204_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b407-6" BETYPE="IDREF" FILEID="casebody_0091"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_407.6" BETYPE="IDREF" FILEID="alto_00204_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b405-7" BETYPE="IDREF" FILEID="casebody_0091"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_405.9" BETYPE="IDREF" FILEID="alto_00203_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b404-8" BETYPE="IDREF" FILEID="casebody_0091"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_404.10" BETYPE="IDREF" FILEID="alto_00202_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b405-5" BETYPE="IDREF" FILEID="casebody_0091"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_405.7" BETYPE="IDREF" FILEID="alto_00203_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b404-6" BETYPE="IDREF" FILEID="casebody_0091"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_404.7" BETYPE="IDREF" FILEID="alto_00202_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b404-7" BETYPE="IDREF" FILEID="casebody_0091"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_404.8" BETYPE="IDREF" FILEID="alto_00202_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b405-9" BETYPE="IDREF" FILEID="casebody_0091"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_405.13" BETYPE="IDREF" FILEID="alto_00203_0"/>
+            <area BEGIN="BL_406.1" BETYPE="IDREF" FILEID="alto_00203_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b405-8" BETYPE="IDREF" FILEID="casebody_0091"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_405.12" BETYPE="IDREF" FILEID="alto_00203_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AhlY" BETYPE="IDREF" FILEID="casebody_0091"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_404.11" BETYPE="IDREF" FILEID="alto_00202_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b409-8" BETYPE="IDREF" FILEID="casebody_0091"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_409.6" BETYPE="IDREF" FILEID="alto_00205_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b409-7" BETYPE="IDREF" FILEID="casebody_0091"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_409.5" BETYPE="IDREF" FILEID="alto_00205_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b409-6" BETYPE="IDREF" FILEID="casebody_0091"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_409.4" BETYPE="IDREF" FILEID="alto_00205_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b406-7" BETYPE="IDREF" FILEID="casebody_0091"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_406.7" BETYPE="IDREF" FILEID="alto_00203_1"/>
+            <area BEGIN="BL_407.1" BETYPE="IDREF" FILEID="alto_00204_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b408-4" BETYPE="IDREF" FILEID="casebody_0091"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_408.4" BETYPE="IDREF" FILEID="alto_00204_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b408-5" BETYPE="IDREF" FILEID="casebody_0091"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_408.5" BETYPE="IDREF" FILEID="alto_00204_1"/>
+            <area BEGIN="BL_409.1" BETYPE="IDREF" FILEID="alto_00205_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

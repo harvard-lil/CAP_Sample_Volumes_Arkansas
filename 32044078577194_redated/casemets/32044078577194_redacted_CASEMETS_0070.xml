@@ -1,0 +1,375 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0070" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Peterson Industries, Inc. v. Farmer">PETERSON INDUSTRIES, INC. v. Barbara Kay FARMER</name>
+          <docketnumber>85-246</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 298</citation>
+          <citation category="parallel" type="bluebook">705 S.W.2d 8</citation>
+          <decisiondate>1986-03-03</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:00Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00165_1" MIMETYPE="image/tiff" CHECKSUM="07fd662aa28b1808e9a60913841a1308" CHECKSUMTYPE="MD5" SIZE="26736">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00165_1.tif"/>
+      </file>
+      <file ID="tiff_00166_0" MIMETYPE="image/tiff" CHECKSUM="0e8b307850d11dc53c2e591ea024742c" CHECKSUMTYPE="MD5" SIZE="45860">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00166_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00165_1" MIMETYPE="image/jp2" CHECKSUM="0ec8e90ca3e52dc49fa7039d12423cdc" CHECKSUMTYPE="MD5" SIZE="2027039">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00165_1.jp2"/>
+      </file>
+      <file ID="jp2_00166_0" MIMETYPE="image/jp2" CHECKSUM="b3a518f932d3247acd62ab9b3383507c" CHECKSUMTYPE="MD5" SIZE="2456200">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00166_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00165_1" MIMETYPE="text/xml" CHECKSUM="c9e5c5fe4bde62a156a782472b5fcf19" CHECKSUMTYPE="MD5" SIZE="44356">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00165_1.xml"/>
+      </file>
+      <file ID="alto_00166_0" MIMETYPE="text/xml" CHECKSUM="9096ca28f1c62cd00b92182a04179bad" CHECKSUMTYPE="MD5" SIZE="73726">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00166_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0070" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="298" lastpage="299">
+              <court pgmap="330" id="b330-7">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="330" id="b330-6">85-246</docketnumber>
+              <citation pgmap="330" id="Akg">705 S.W.2d 8</citation>
+              <parties pgmap="330" id="b330-5">PETERSON INDUSTRIES, INC. v. Barbara Kay FARMER</parties>
+              <decisiondate pgmap="330" id="ANL">Opinion delivered March 3, 1986</decisiondate>
+              <otherdate pgmap="330" id="AAc">[Rehearing denied April 14, 1986.<footnotemark>*</footnotemark>]</otherdate>
+              <judges pgmap="331" id="b331-8">Purtle, J., not participating.</judges>
+              <attorneys pgmap="330" id="b330-11">Ernest G. Lawrence, by: Blaine A. Jackson, for appellant.</attorneys>
+              <attorneys pgmap="330" id="AOS">Boyce R. Davis, for appellee.</attorneys>
+              <footnote label="*">
+                <p pgmap="330" id="b330-13">* Purtle, J., not participating.</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="330" id="b330-12">Darrell Hickman, Justice.</author>
+                <p pgmap="330" id="AUq">This appeal asks us to reaffirm our rule that when a contract of employment does not bind the employee to serve for a specified time, the contract may be terminated at will by either party. See Gaulden v. Emerson Electric Co., 284 Ark. 149, 680 S.W.2d 92 (1984). We are unable to reach the merits of the appeal because the appellant has failed to abstract all pertinent parts of the record; therefore, we affirm. Ark. R. Sup. Ct. Rule 9 (d).</p>
+                <p pgmap="331" id="b331-3">Barbara Kaye Farmer, the appellee, was terminated by the appellant, Peterson Industries. The reason given by the company was that Farmer had been absent for over two days without notification in violation of the policy set forth in the company handbook. At the time of her absence, she was hospitalized because of recurring pain from a previously sustained back injury for which she had received workers’ compensation benefits. Farmer sued the appellant alleging wrongful discharge. At trial the following instruction was given:</p>
+                <blockquote pgmap="331" id="b331-4">If you find that Barbara Kaye Farmer was fired by Peterson’s, Inc., in direct violation of the company’s own policies or for the reason that she had filed or was pursuing a Workers’ Compensation claim, then you should find for the plaintiff, Barbara Kaye Farmer.</blockquote>
+                <p pgmap="331" id="b331-5">The trial court gave the instruction because of our previous indications that we would consider modifying our position on the employment-at-will doctrine. See Gaulden v. Emerson Electric Co., supra; Jackson v. Kinark Corp., 282 Ark. 548, 669 S.W.2d 898 (1984). The jury returned a verdict for Farmer for $10,000. The appellant argues (1) that the instruction was error; (2) that there was insufficient evidence to find that Farmer was fired in retaliation for pursuing a workers’ compensation claim; and (3) that the damages were computed erroneously.</p>
+                <p pgmap="331" id="b331-6">
+                   It is the duty of the appellant to furnish us with an abridgement of the record sufficient to understand the matters presented. Dyke Industries, Inc. v. Johnson Const. Co., 261 Ark. 790, 551 S.W.2d 217 (1977); Collins v. Duncan, 257 Ark. 722, 520 S.W.2d 192 (1975). Our rule 9 (d) requires affirmance because the appellant failed to abstract the employee handbook or its objection to the instruction complained of, and also failed to abstract much of the testimony required to review the second and third points of its argument.</p>
+                <p pgmap="331" id="b331-7">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="330" ORDERLABEL="298" TYPE="page">
+        <fptr FILEID="tiff_00165_1"/>
+        <fptr FILEID="jp2_00165_1"/>
+        <fptr FILEID="alto_00165_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_330.2" BETYPE="IDREF" FILEID="alto_00165_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="331" ORDERLABEL="299" TYPE="page">
+        <fptr FILEID="tiff_00166_0"/>
+        <fptr FILEID="jp2_00166_0"/>
+        <fptr FILEID="alto_00166_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_331.2" BETYPE="IDREF" FILEID="alto_00166_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b330-7" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_330.9" BETYPE="IDREF" FILEID="alto_00165_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b331-8" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_331.8" BETYPE="IDREF" FILEID="alto_00166_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b330-5" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_330.6" BETYPE="IDREF" FILEID="alto_00165_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b330-6" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_330.7" BETYPE="IDREF" FILEID="alto_00165_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ANL" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_330.10" BETYPE="IDREF" FILEID="alto_00165_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b330-12" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_330.18" BETYPE="IDREF" FILEID="alto_00165_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b330-13" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_330.21" BETYPE="IDREF" FILEID="alto_00165_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AOS" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_330.17" BETYPE="IDREF" FILEID="alto_00165_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b331-6" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_331.6" BETYPE="IDREF" FILEID="alto_00166_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AAc" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_330.11" BETYPE="IDREF" FILEID="alto_00165_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Akg" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_330.8" BETYPE="IDREF" FILEID="alto_00165_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b331-3" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_331.3" BETYPE="IDREF" FILEID="alto_00166_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b330-11" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_330.16" BETYPE="IDREF" FILEID="alto_00165_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b331-5" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_331.5" BETYPE="IDREF" FILEID="alto_00166_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b331-4" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_331.4" BETYPE="IDREF" FILEID="alto_00166_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b331-7" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_331.7" BETYPE="IDREF" FILEID="alto_00166_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AUq" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_330.19" BETYPE="IDREF" FILEID="alto_00165_1"/>
+            <area BEGIN="BL_330.20" BETYPE="IDREF" FILEID="alto_00165_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

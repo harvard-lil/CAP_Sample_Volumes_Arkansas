@@ -1,0 +1,409 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0042" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Waggoner v. Game Sales Co.">Bill WAGGONER, Jr., and Pamela A. WAGGONER v. GAME SALES COMPANY, INC.</name>
+          <docketnumber>85-195</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 179</citation>
+          <citation category="parallel" type="bluebook">702 S.W.2d 808</citation>
+          <decisiondate>1986-02-10</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:00Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00103_0" MIMETYPE="image/tiff" CHECKSUM="65f3dba3f6374f034b2c1396ef9c5d2b" CHECKSUMTYPE="MD5" SIZE="26680">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00103_0.tif"/>
+      </file>
+      <file ID="tiff_00103_1" MIMETYPE="image/tiff" CHECKSUM="be8042db7511672e88bf34969bd8ca2f" CHECKSUMTYPE="MD5" SIZE="54550">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00103_1.tif"/>
+      </file>
+      <file ID="tiff_00104_0" MIMETYPE="image/tiff" CHECKSUM="feb9e4825ff0218022330fc5810ca95f" CHECKSUMTYPE="MD5" SIZE="33426">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00104_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00103_0" MIMETYPE="image/jp2" CHECKSUM="84cc1783b94ffd804ccd478c2fdb16d3" CHECKSUMTYPE="MD5" SIZE="2036041">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00103_0.jp2"/>
+      </file>
+      <file ID="jp2_00103_1" MIMETYPE="image/jp2" CHECKSUM="2170d3f081eeb761c302d98f73948139" CHECKSUMTYPE="MD5" SIZE="2506193">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00103_1.jp2"/>
+      </file>
+      <file ID="jp2_00104_0" MIMETYPE="image/jp2" CHECKSUM="19093c77f4b7440aefc7ca1b66479f4c" CHECKSUMTYPE="MD5" SIZE="2287840">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00104_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00103_0" MIMETYPE="text/xml" CHECKSUM="825d7e7fcb959409f07e3e52344c79ec" CHECKSUMTYPE="MD5" SIZE="47024">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00103_0.xml"/>
+      </file>
+      <file ID="alto_00103_1" MIMETYPE="text/xml" CHECKSUM="e5f07f1f8f6ace8e7c5e825f5213cfff" CHECKSUMTYPE="MD5" SIZE="89865">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00103_1.xml"/>
+      </file>
+      <file ID="alto_00104_0" MIMETYPE="text/xml" CHECKSUM="cd44adc166d3108c0d61e0846ed31216" CHECKSUMTYPE="MD5" SIZE="56044">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00104_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0042" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="179" lastpage="181">
+              <court pgmap="205" id="b205-11">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="205" id="b205-10">85-195</docketnumber>
+              <citation pgmap="205" id="AxZ">702 S.W.2d 808</citation>
+              <parties pgmap="205" id="b205-9">Bill WAGGONER, Jr., and Pamela A. WAGGONER v. GAME SALES COMPANY, INC.</parties>
+              <decisiondate pgmap="205" id="Ayx">Opinion delivered February 10, 1986</decisiondate>
+              <otherdate pgmap="205" id="AEy">[Rehearing denied March 17, 1986.<footnotemark>*</footnotemark>]</otherdate>
+              <judges pgmap="207" id="b207-9">Purtle, J., not participating.</judges>
+              <attorneys pgmap="205" id="b205-16">Faber D. Jenkins, for appellant.</attorneys>
+              <attorneys pgmap="205" id="b205-17">George H. Bailey, for appellee.</attorneys>
+              <footnote label="*">
+                <p pgmap="205" id="b205-18">* Purtle, J., not participating.</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="206" id="b206-5">Robert H. Dudley, Justice.</author>
+                <p pgmap="206" id="AFy">The appellee, Game Sales Company, Inc., holds a judgment of $39,079.20 against appel­lants, Bill and Pamela Waggoner. The appellee sued for a writ of garnishment of appellant’s funds held by the Union National Bank of Little Rock. The garnishee bank answered that it held $1,490.48 in the joint names of appellants. The appellants filed a claim for exemption, pleading that the funds came from disability payments by the Civil Service Retirement System. The appellant subsequently proved that the funds did, in fact, come from Civil Service disability payments. The trial court denied the exemp­tion. We reverse.</p>
+                <p pgmap="206" id="b206-6">Appellants contend that 5 U.S.C. § 8346(a) provides an exemption for funds paid from the Civil Service Retirement Disability Fund. The argument is well taken. The statute, in the pertinent part, provides: 11 The money mentioned in this sub-­chapter . . .is not. . .subject to. . . garnishment or other legal process, except as otherwise provided by Federal laws.” (Empha­sis added.)</p>
+                <p pgmap="206" id="b206-7">By this clearly expressed provision Congress makes the exemption applicable to “the money mentioned in this sub-­chapter.” The statute, unlike some others, does not base the exemption upon whether the government holds the money. Under this broad grant of immunity, the exemption attached to the money itself and, when the money was paid to the recipient, it was free from garnishment by a judgment creditor. Accord, In re Dickerson’s Estate, 5 N.Y.S.2d 86, 168 Misc. 54 (Surr. Ct. 1938). (Interpreting earlier statute using the same language.)</p>
+                <p pgmap="206(125) 207(63)" id="b206-8">
+                   Two courts have reached the opposite result and have held that the exemption does not apply .after the money reaches the recipient. In re Estate of McGreevy, 445 Pa. 318, 286 A.2d 355 (1971) and In re Prestien, 427 F.Supp. 1003 (S.D. Fla. 1977). The Supreme Court of Pennsylvania based its decision upon Congressional intent and “the general rule is that language relating to exemptions is to be strictly construed.” In reading the statute and examining the legislative history of the act, we are unable to find anything to demonstrate a Congressional intent to limit the exemption to funds held by the Federal government. In fact, the Senate Report on a 1978 amendment to § 8346(a) provides: “Under existing law 5 U.S.C. § 8346(a), payments under the civil service retirement system are not assignable or subject to . . . garnishment. . . .” (Emphasis added.) S. Rep. No. 95-1084, 95th Cong., 2d Sess. [1978] U.S. Code Cong. &amp; Ad. News 1379, 1380. In addition, our general rule, unlike Pennsylvania’s, is that exemptions are to be liberally construed. Williams v. Swann, 220 Ark. 906, 251 S.W.2d 111 (1952).</p>
+                <p pgmap="207" id="b207-6">Similarly, we are not persuaded by the reasoning expressed by the Federal District Court in Florida. That court based its opinion on the Pennsylvania case, and on the case of McIntosh v. Aubrey, 185 U.S. 122 (1902). There is no need for further discussion of the Pennsylvania case, and the case from the Supreme Court of the United States is clearly distinguishable. In that case, based upon an entirely different statute, the exemption applied to “money due, or to become due, to any pensioner.” The language operated to exempt only payments due and future payments, in other words, funds still in the hands of the govern­ment, and not to funds already paid.</p>
+                <p pgmap="207" id="b207-7">
+                   We are of the opinion that the better rationale is to follow the clear language of the statute and to hold that the money which came from disability payments by the Civil Service Retirement System is exempt from garnishment by a judgment creditor under the provisions of 5 U.S.C. § 8346(a).</p>
+                <p pgmap="207" id="b207-8">Reversed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="205" ORDERLABEL="179" TYPE="page">
+        <fptr FILEID="tiff_00103_0"/>
+        <fptr FILEID="jp2_00103_0"/>
+        <fptr FILEID="alto_00103_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_205.3" BETYPE="IDREF" FILEID="alto_00103_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="206" ORDERLABEL="180" TYPE="page">
+        <fptr FILEID="tiff_00103_1"/>
+        <fptr FILEID="jp2_00103_1"/>
+        <fptr FILEID="alto_00103_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_206.1" BETYPE="IDREF" FILEID="alto_00103_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="207" ORDERLABEL="181" TYPE="page">
+        <fptr FILEID="tiff_00104_0"/>
+        <fptr FILEID="jp2_00104_0"/>
+        <fptr FILEID="alto_00104_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_207.3" BETYPE="IDREF" FILEID="alto_00104_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ayx" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_205.12" BETYPE="IDREF" FILEID="alto_00103_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b205-16" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_205.19" BETYPE="IDREF" FILEID="alto_00103_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b207-7" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_207.5" BETYPE="IDREF" FILEID="alto_00104_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b205-10" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_205.9" BETYPE="IDREF" FILEID="alto_00103_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b206-6" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_206.6" BETYPE="IDREF" FILEID="alto_00103_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b205-17" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_205.20" BETYPE="IDREF" FILEID="alto_00103_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b206-5" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_206.3" BETYPE="IDREF" FILEID="alto_00103_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b205-18" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_205.21" BETYPE="IDREF" FILEID="alto_00103_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b206-8" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_206.8" BETYPE="IDREF" FILEID="alto_00103_1"/>
+            <area BEGIN="BL_207.1" BETYPE="IDREF" FILEID="alto_00104_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b207-9" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_207.7" BETYPE="IDREF" FILEID="alto_00104_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b207-8" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_207.6" BETYPE="IDREF" FILEID="alto_00104_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b205-9" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_205.8" BETYPE="IDREF" FILEID="alto_00103_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b205-11" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_205.11" BETYPE="IDREF" FILEID="alto_00103_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AxZ" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_205.10" BETYPE="IDREF" FILEID="alto_00103_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AEy" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_205.13" BETYPE="IDREF" FILEID="alto_00103_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AFy" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_206.4" BETYPE="IDREF" FILEID="alto_00103_1"/>
+            <area BEGIN="BL_206.5" BETYPE="IDREF" FILEID="alto_00103_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b207-6" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_207.4" BETYPE="IDREF" FILEID="alto_00104_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b206-7" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_206.7" BETYPE="IDREF" FILEID="alto_00103_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

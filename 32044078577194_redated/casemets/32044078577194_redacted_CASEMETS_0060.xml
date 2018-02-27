@@ -1,0 +1,386 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0060" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Russell v. State">Noah Wayne RUSSELL v. STATE of Arkansas</name>
+          <docketnumber>CR 86-13</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 255</citation>
+          <citation category="parallel" type="bluebook">704 S.W.2d 161</citation>
+          <decisiondate>1986-02-24</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:00Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00142_0" MIMETYPE="image/tiff" CHECKSUM="e312e608cebe01131a41a0250dc2998d" CHECKSUMTYPE="MD5" SIZE="28624">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00142_0.tif"/>
+      </file>
+      <file ID="tiff_00142_1" MIMETYPE="image/tiff" CHECKSUM="361420ad331464af117ed72cf6df7bca" CHECKSUMTYPE="MD5" SIZE="53954">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00142_1.tif"/>
+      </file>
+      <file ID="tiff_00143_0" MIMETYPE="image/tiff" CHECKSUM="d73b0232bb66b4ff7e6cc26b8b3a6d9f" CHECKSUMTYPE="MD5" SIZE="21802">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00143_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00142_0" MIMETYPE="image/jp2" CHECKSUM="b054d6e18fe95c5032d4730e2a782c71" CHECKSUMTYPE="MD5" SIZE="2330913">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00142_0.jp2"/>
+      </file>
+      <file ID="jp2_00142_1" MIMETYPE="image/jp2" CHECKSUM="fa8109f3d1f41a05086ef5d6776b7f37" CHECKSUMTYPE="MD5" SIZE="2536477">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00142_1.jp2"/>
+      </file>
+      <file ID="jp2_00143_0" MIMETYPE="image/jp2" CHECKSUM="c1ad1cdaf92ed5fb31fbb27655f6c2d7" CHECKSUMTYPE="MD5" SIZE="1842832">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00143_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00142_0" MIMETYPE="text/xml" CHECKSUM="6bbf7d83cc8c4d2781002a6d6d333463" CHECKSUMTYPE="MD5" SIZE="48017">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00142_0.xml"/>
+      </file>
+      <file ID="alto_00142_1" MIMETYPE="text/xml" CHECKSUM="68d1d39b9ffbe3f2851fa5902b2f77e0" CHECKSUMTYPE="MD5" SIZE="98010">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00142_1.xml"/>
+      </file>
+      <file ID="alto_00143_0" MIMETYPE="text/xml" CHECKSUM="e037cf8e2c97a949b37e9dda0d87b3a2" CHECKSUMTYPE="MD5" SIZE="35799">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00143_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0060" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="255" lastpage="257">
+              <court pgmap="283" id="b283-4">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="283" id="AtH3">CR 86-13</docketnumber>
+              <citation pgmap="283" id="AD-">704 S.W.2d 161</citation>
+              <parties pgmap="283" id="b283-3">Noah Wayne RUSSELL v. STATE of Arkansas</parties>
+              <decisiondate pgmap="283" id="AhR">Opinion delivered February 24, 1986</decisiondate>
+              <judges pgmap="285" id="b285-7">Purtle, J., not participating.</judges>
+              <attorneys pgmap="283" id="b283-9">Grant &amp; Berry, by: Sandra T. Berry, for appellant.</attorneys>
+              <attorneys pgmap="283" id="b283-10">Steve Clark, Att’y Gen., by: Joel O. Huggins, Asst. Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="283" id="b283-11">George Rose Smith, Justice.</author>
+                <p pgmap="283" id="AXjO">The appellant was charged with theft by receiving, was found guilty, by Special Judge Laster sitting without a jury, and was sentenced to three years’ imprison­ment. The one argument for reversal is that the trial judge was in error in taking into account Russell’s failure to testify in reaching the conclusion that Russell was guilty. The Court of Appeals transferred the case to us.</p>
+                <p pgmap="283(79) 284(124)" id="b283-12">The State key witness was Mark Goodrum, but Judge Laster said when both sides had rested that he was highly suspicious of Goodrum’s testimony. He went on to say: “There is a great deal here that is unexplained to me. In fact, the case should have been more thoroughly developed. . . . My opinion of Mr. Goodrum’s testimony does not negate culpability of Mr. Russell absent an explanation. We used to call it possession of stolen property. And if you are in possession of stolen property without a reasonable explanation, which I have heard none, this does not give the Court but one alternative, and that is to find him guilty. Now, I am going to order a pre-sentence report.” The judge then announced his finding of guilt and concluded by saying to Russell: “And you will report to the probation officer to complete a pre-sentence report. One thing that troubles me about you is that you didn’t take the witness stand. Now, that is great tactics before a jury, but it is almost useless before a trial lawyer. And this is the reason I am not going to sentence you today. Be back on May 20th at 8:30 in the morning.”</p>
+                <p pgmap="284" id="b284-6">
+                   We are unable to say that the judge’s comments about the accused’s failure to testify were directed only to the need for a pre-sentence report. The remarks also indicated that the judge felt that the accused’s silence left the court with no alternative to a finding of guilt. In Griffin v. California, 380 U.S. 609 (1965), the trial judge had instructed the jury that if there was evidence of facts against the defendant which he could reasonably be ex­pected to deny or explain because of facts within his knowledge, the jury might take his failure to testify into consideration as tending to indicate the truthfulness of such evidence. In reversing the conviction the Supreme Court said:</p>
+                <blockquote pgmap="284" id="b284-7">For comment on the refusal to testify is a remnant of the “inquisitorial system of criminal justice,” . . . which the Fifth Amendment outlaws. It is a penalty imposed by courts for exercising a constitutional privilege. It cuts down on the privilege by making its assertion costly. . . . What the jury may infer, given no help from the court, is one thing. What it may infer when the court solemnizes the silence of the accused into evidence against him is quite another.</blockquote>
+                <p pgmap="284(93) 285(65)" id="b284-8">
+                   Although the Griffin case was an appeal from a jury trial, what the court condemned was a penalty “imposed by courts”; so the Court’s reasoning applies to the present situation. When we view together the trial judge’s references to there being a great deal that was unexplained, to the need for a more thorough development of the proof, to the court’s having only the alterna­tive of a finding of guilt, and to a failure to take the witness stand as being great tactics before a jury but not before a trial lawyer, we cannot fairly say that Russell’s election not to testify was not a factor in the judge’s determination of guilt. We realize, of course, that jurors and trial judges and appellate judges do consider the silence of an accused — that is something no one could expel from his mind — but when that consideration is made a matter of record, it cannot be disregarded.</p>
+                <p pgmap="285" id="b285-5">The State argues that no objection was made to the court’s remarks, but obviously an objection would have been futile. A bell cannot be unrung, nor ink erased from the snow. For that reason it goes almost without saying that a retrial must be before a different judge.</p>
+                <p pgmap="285" id="b285-6">Reversed and remanded.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="283" ORDERLABEL="255" TYPE="page">
+        <fptr FILEID="tiff_00142_0"/>
+        <fptr FILEID="jp2_00142_0"/>
+        <fptr FILEID="alto_00142_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_283.2" BETYPE="IDREF" FILEID="alto_00142_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="284" ORDERLABEL="256" TYPE="page">
+        <fptr FILEID="tiff_00142_1"/>
+        <fptr FILEID="jp2_00142_1"/>
+        <fptr FILEID="alto_00142_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_284.2" BETYPE="IDREF" FILEID="alto_00142_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="285" ORDERLABEL="257" TYPE="page">
+        <fptr FILEID="tiff_00143_0"/>
+        <fptr FILEID="jp2_00143_0"/>
+        <fptr FILEID="alto_00143_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_285.2" BETYPE="IDREF" FILEID="alto_00143_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b284-6" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_284.4" BETYPE="IDREF" FILEID="alto_00142_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b284-7" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_284.5" BETYPE="IDREF" FILEID="alto_00142_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b285-7" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_285.6" BETYPE="IDREF" FILEID="alto_00143_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b283-12" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_283.18" BETYPE="IDREF" FILEID="alto_00142_0"/>
+            <area BEGIN="BL_284.1" BETYPE="IDREF" FILEID="alto_00142_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b284-8" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_284.6" BETYPE="IDREF" FILEID="alto_00142_1"/>
+            <area BEGIN="BL_285.1" BETYPE="IDREF" FILEID="alto_00143_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AXjO" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_283.16" BETYPE="IDREF" FILEID="alto_00142_0"/>
+            <area BEGIN="BL_283.17" BETYPE="IDREF" FILEID="alto_00142_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b283-11" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_283.15" BETYPE="IDREF" FILEID="alto_00142_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b283-10" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_283.14" BETYPE="IDREF" FILEID="alto_00142_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AD-" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_283.5" BETYPE="IDREF" FILEID="alto_00142_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b283-9" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_283.13" BETYPE="IDREF" FILEID="alto_00142_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b285-5" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_285.4" BETYPE="IDREF" FILEID="alto_00143_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b285-6" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_285.5" BETYPE="IDREF" FILEID="alto_00143_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b283-3" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_283.3" BETYPE="IDREF" FILEID="alto_00142_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AtH3" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_283.4" BETYPE="IDREF" FILEID="alto_00142_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AhR" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_283.7" BETYPE="IDREF" FILEID="alto_00142_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b283-4" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_283.6" BETYPE="IDREF" FILEID="alto_00142_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

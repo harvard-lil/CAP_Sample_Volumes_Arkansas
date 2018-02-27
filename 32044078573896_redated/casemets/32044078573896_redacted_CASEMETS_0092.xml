@@ -1,0 +1,315 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0092" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Miller v. McCullough">Miller vs. McCullough</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 426</citation>
+          <decisiondate>1860-07</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00214_1" MIMETYPE="image/tiff" CHECKSUM="db38aba3418831e95b08dd765416ca10" CHECKSUMTYPE="MD5" SIZE="29530">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00214_1.tif"/>
+      </file>
+      <file ID="tiff_00215_0" MIMETYPE="image/tiff" CHECKSUM="bd7811b825f6e06ce9a9c967ad1f79fd" CHECKSUMTYPE="MD5" SIZE="25152">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00215_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00214_1" MIMETYPE="image/jp2" CHECKSUM="3132702dcf71fa20b467a553a4d3732a" CHECKSUMTYPE="MD5" SIZE="2395704">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00214_1.jp2"/>
+      </file>
+      <file ID="jp2_00215_0" MIMETYPE="image/jp2" CHECKSUM="742f15a590e11a5661678be075043645" CHECKSUMTYPE="MD5" SIZE="2375722">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00215_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00214_1" MIMETYPE="text/xml" CHECKSUM="2f49a23dd38aed375bd2f1136fe900d8" CHECKSUMTYPE="MD5" SIZE="54353">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00214_1.xml"/>
+      </file>
+      <file ID="alto_00215_0" MIMETYPE="text/xml" CHECKSUM="78f55e58c116fcf66cc3132a2427690e" CHECKSUMTYPE="MD5" SIZE="46526">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00215_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0092" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="427" firstpage="426">
+              <parties id="b428-5" pgmap="428">Miller vs. McCullough.</parties>
+              <attorneys id="b428-9" pgmap="428">Watkins &amp; Gallagher, for appellant.</attorneys>
+              <attorneys id="b428-10" pgmap="428">Garland, contra.</attorneys>
+              <summary id="b428-7" pgmap="428">Appeal from Columbia Circuit Court.</summary>
+              <summary id="b428-8" pgmap="428">Hon. Shelton Watson, Circuit Judge.</summary>
+              <headnotes id="b428-6" pgmap="428">On certiorari to the judgment of a justice of the peace, the judgment should be quashed or affirmed upon what appears upon the face of the papers, not upon the admissions of parties, as to facts not appearing therein.</headnotes>
+              <opinion type="majority">
+                <author id="b428-11" pgmap="428">Mr. Justice Fairchild</author>
+                <p id="Ahg" pgmap="428">delivered the opinion of the court.</p>
+                <p id="b428-12" pgmap="428">This appeal has been argued here as involving the question, whether a judgment of a justice of the peace, rendered upon default of the appearance of the defendant, was void because served in another township than that in which the summons was issued.</p>
+                <p id="b428-13" pgmap="428">Judgment having been given against the defendant, and brought to the Circuit Court on certiorari, the transcript of the proceedings of the justice of the peace does not show that the summons was served out of the township whence it issued; although in the Circuit Court, the plaintiff in the justice’s suit admitted such to be the case; whereupon the Circuit Court quashed the judgment of the justice of the peace. Miller, the original plaintiff, appealed.</p>
+                <p id="b428-14" pgmap="428(18) 429(13)">Upon certiorari, the judgment and proceedings of the justice should have been quashed or affirmed, from what appeared upon the papers, not upon the admissions of parties in the Circuit Court.</p>
+                <p id="b429-5" pgmap="429">The judgment of the Circuit Court of Columbia county is reversed, with instructions to affirm the judgment of the justice of the peace. ,</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="428" ORDERLABEL="426" TYPE="page">
+        <fptr FILEID="tiff_00214_1"/>
+        <fptr FILEID="jp2_00214_1"/>
+        <fptr FILEID="alto_00214_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_428.1" BETYPE="IDREF" FILEID="alto_00214_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_428.2" BETYPE="IDREF" FILEID="alto_00214_1"/>
+              <area BEGIN="BL_428.3" BETYPE="IDREF" FILEID="alto_00214_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="429" ORDERLABEL="427" TYPE="page">
+        <fptr FILEID="tiff_00215_0"/>
+        <fptr FILEID="jp2_00215_0"/>
+        <fptr FILEID="alto_00215_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_429.3" BETYPE="IDREF" FILEID="alto_00215_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_429.2" BETYPE="IDREF" FILEID="alto_00215_0"/>
+              <area BEGIN="BL_429.4" BETYPE="IDREF" FILEID="alto_00215_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_429.6" BETYPE="IDREF" FILEID="alto_00215_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b428-8" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_428.7" BETYPE="IDREF" FILEID="alto_00214_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b428-9" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_428.8" BETYPE="IDREF" FILEID="alto_00214_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b429-5" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_429.5" BETYPE="IDREF" FILEID="alto_00215_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b428-5" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_428.4" BETYPE="IDREF" FILEID="alto_00214_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b428-6" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_428.5" BETYPE="IDREF" FILEID="alto_00214_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b428-7" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_428.6" BETYPE="IDREF" FILEID="alto_00214_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b428-14" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_428.14" BETYPE="IDREF" FILEID="alto_00214_1"/>
+            <area BEGIN="BL_429.1" BETYPE="IDREF" FILEID="alto_00215_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b428-12" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_428.12" BETYPE="IDREF" FILEID="alto_00214_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b428-13" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_428.13" BETYPE="IDREF" FILEID="alto_00214_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b428-10" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_428.9" BETYPE="IDREF" FILEID="alto_00214_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b428-11" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_428.10" BETYPE="IDREF" FILEID="alto_00214_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ahg" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_428.11" BETYPE="IDREF" FILEID="alto_00214_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

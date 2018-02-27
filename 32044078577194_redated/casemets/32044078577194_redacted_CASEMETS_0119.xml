@@ -1,0 +1,454 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0119" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Attaway v. Davis">Albert N. ATTAWAY and His Wife Sarah ATTAWAY v. Hester DAVIS et al.</name>
+          <docketnumber>85-294</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 478</citation>
+          <citation category="parallel" type="bluebook">707 S.W.2d 302</citation>
+          <decisiondate>1986-04-07</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:01Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00256_1" MIMETYPE="image/tiff" CHECKSUM="3c079b430e8e1abe775e4ada681cef45" CHECKSUMTYPE="MD5" SIZE="8490">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00256_1.tif"/>
+      </file>
+      <file ID="tiff_00257_0" MIMETYPE="image/tiff" CHECKSUM="e27abcc80bdfe49725b6d997ba906562" CHECKSUMTYPE="MD5" SIZE="47848">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00257_0.tif"/>
+      </file>
+      <file ID="tiff_00257_1" MIMETYPE="image/tiff" CHECKSUM="523bab73d4ce26f842eef6efb63f6be1" CHECKSUMTYPE="MD5" SIZE="55504">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00257_1.tif"/>
+      </file>
+      <file ID="tiff_00258_0" MIMETYPE="image/tiff" CHECKSUM="ff58336e4457f5d9a7f56094d7742a0f" CHECKSUMTYPE="MD5" SIZE="26312">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00258_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00256_1" MIMETYPE="image/jp2" CHECKSUM="8c323c385a0efbe6991d08e553ecca83" CHECKSUMTYPE="MD5" SIZE="1369517">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00256_1.jp2"/>
+      </file>
+      <file ID="jp2_00257_0" MIMETYPE="image/jp2" CHECKSUM="45a31418d58ea5ab34d3ddf643a2e46f" CHECKSUMTYPE="MD5" SIZE="2472696">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00257_0.jp2"/>
+      </file>
+      <file ID="jp2_00257_1" MIMETYPE="image/jp2" CHECKSUM="e11052cf6b3177136917467669c3bd0d" CHECKSUMTYPE="MD5" SIZE="2566365">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00257_1.jp2"/>
+      </file>
+      <file ID="jp2_00258_0" MIMETYPE="image/jp2" CHECKSUM="d1b66f5e55175835dc4b9e19a51a1ca9" CHECKSUMTYPE="MD5" SIZE="2127769">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00258_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00256_1" MIMETYPE="text/xml" CHECKSUM="e72b30c51c5f9afb84edadc02d7b31a4" CHECKSUMTYPE="MD5" SIZE="10257">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00256_1.xml"/>
+      </file>
+      <file ID="alto_00257_0" MIMETYPE="text/xml" CHECKSUM="5a94f0a39317355de6c3b8df3c965b6c" CHECKSUMTYPE="MD5" SIZE="82147">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00257_0.xml"/>
+      </file>
+      <file ID="alto_00257_1" MIMETYPE="text/xml" CHECKSUM="d65a0ed84e227cf5c1e86dd7ee3b13f6" CHECKSUMTYPE="MD5" SIZE="98360">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00257_1.xml"/>
+      </file>
+      <file ID="alto_00258_0" MIMETYPE="text/xml" CHECKSUM="20bc779ddfd46b09af12b3cae746653a" CHECKSUMTYPE="MD5" SIZE="43135">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00258_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0119" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="478" lastpage="481">
+              <court pgmap="512" id="b512-6">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="512" id="b512-5">85-294</docketnumber>
+              <citation pgmap="512" id="AIh">707 S.W.2d 302</citation>
+              <parties pgmap="512" id="b512-4">Albert N. ATTAWAY and His Wife Sarah ATTAWAY v. Hester DAVIS et al.</parties>
+              <decisiondate pgmap="512" id="AK4">Opinion delivered April 7, 1986</decisiondate>
+              <judges pgmap="515" id="b515-6">Purtle, J., not participating.</judges>
+              <attorneys pgmap="513" id="b513-7">Williams, Kendall, Schrantz &amp; Wood, P.A., by: Stephen Lee Wood, for appellant.</attorneys>
+              <attorneys pgmap="513" id="b513-8">James R. Jackson, for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="513" id="b513-9">George Rose Smith, Justice.</author>
+                <p pgmap="513" id="AIi">This is a petition filed in the county court by the appellee, Hester Davis, to condemn a right-­of-way giving her access from a public road to a landlocked 12-­acre tract she bought in 1967. The county court appointed viewers, as required by the statute. Ark. Stat. Ann. § 76-110 (Repl. 1981). The viewers laid out a right-of-way running along the east side of the appellants’ property, from the appellees’ tract to Walnut Road. The circuit court upheld the county court’s order. The Attaways appeal to this court under Rule 29(1 )(c).</p>
+                <p pgmap="513" id="b513-10">No question is raised about the regularity of the proceeding in the county court nor about the constitutionality of the statute. See Dowling v. Erickson, 278 Ark. 142, 644 S.W.2d 264 (1983). For reversal the appellants argue four points.</p>
+                <p pgmap="513" id="b513-11">It is first contended that the circuit court should have sustained the appellants’ plea of limitations. The appellee at first used an old trail across the Attaways’ land and across another neighbor’s land to drive to her property. In 1975 the Attaways put in a gate to obstruct that trail. After that the appellee walked to her land when she wanted to visit it. It is now argued that the five-­year statute of limitations is a bar to this proceeding.</p>
+                <p pgmap="513" id="b513-12">
+                   The circuit judge correctly concluded that no statute of limitations is applicable, because the appellee’s right to obtain access arises from her status as a landlocked owner and is of a continuing nature. That was in substance the West Virginia court’s reasoning in a similar case, its holding being summed up in this way: “A way of necessity having been created by implication for the benefit of the grantee of the dominant estate or his successors thereafter, it cannot be extinguished so long as the necessity continues to exist.” Berkeley Development Corp. v. Hutzler, 229 S.E.2d 732 (W. Va. 1976).</p>
+                <p pgmap="513(8) 514(101)" id="b513-13">
+                   Another argument is that the appellee already has access to her property, because it has some frontage on Beaver Lake, a navigable watercourse. The statute, Section 76-110, does refer to access to a public road or navigable watercourse, but this law was adopted more than a century ago, in 1871. What the petitioner must show is a reasonable necessity for a road, not an absolute necessity. Houston v. Hanby, 149 Ark. 486, 232 S.W. 930 (1921). Now that travel even for short distances is almost always by motor vehicle, it is not reasonable to require the appellee and those wishing to visit her to make the trip by boat.</p>
+                <p pgmap="514" id="b514-6">
+                   The appellants insist that they have been willing since 1975 to permit the appellee to reach her property by using a second trail that crosses their land and then another landowner’s property. Any such use of neighboring property would be permis­sive and revocable. The appellee is entitled to obtain a permanent right-of-way by proceeding under the statute and paying what the viewers have fixed as reasonable compensation.</p>
+                <p pgmap="514" id="b514-7">
+                   A last argument is that the trial court should have admitted into evidence a sworn statement made by A.O. Clark, now deceased, who once owned all the land involved. The statement was apparently offered to show that Clark constructed a road which he intended as a means of access to various parts of the land. There is no showing that his subjective intent was carried into effect by the reservation of easements across the lands he sold. Consequently, his intent as disclosed by an ex parte statement is not material in the present dispute. Furthermore, Clark’s attitude would not be helpful to the Attaways, for in the statement Clark was asked about a controversy he had with another landowner named Miller, about a gate, and he replied:</p>
+                <blockquote pgmap="514" id="b514-8">I always told him if anybody wanted a road, I’d tell them go ahead and make it. If you want a road over there, I’ll give them the land. I would now, if somebody come out there and wanted a road. Fact of the matter you can go out there and ask them fellows building a house. They asked me what I’d take for a road across the corner here so they can get in and out there, and I said I won’t take nothing. You just build your road and it’ll be our road and that’s the way I was with that.</blockquote>
+                <p pgmap="514(20) 515(9)" id="b514-9">The statement was not admissible, not being subject to cross-­examination, nor does it appear that the introduction of the statement would have affected the result in the case.</p>
+                <p pgmap="515" id="b515-4">
+                   The appellee’s motion to recover the cost of a supple­mentary abstract of the record is denied. Much of the added material was unnecessary. In that situation we do not sift the record to decide just what additional costs might be allowed. Ark. Foundry Co. v. Farrell, 238 Ark. 757, 385 S.W.2d 26 (1965).</p>
+                <p pgmap="515" id="b515-5">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="512" ORDERLABEL="478" TYPE="page">
+        <fptr FILEID="tiff_00256_1"/>
+        <fptr FILEID="jp2_00256_1"/>
+        <fptr FILEID="alto_00256_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_512.1" BETYPE="IDREF" FILEID="alto_00256_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="513" ORDERLABEL="479" TYPE="page">
+        <fptr FILEID="tiff_00257_0"/>
+        <fptr FILEID="jp2_00257_0"/>
+        <fptr FILEID="alto_00257_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_513.3" BETYPE="IDREF" FILEID="alto_00257_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="514" ORDERLABEL="480" TYPE="page">
+        <fptr FILEID="tiff_00257_1"/>
+        <fptr FILEID="jp2_00257_1"/>
+        <fptr FILEID="alto_00257_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_514.2" BETYPE="IDREF" FILEID="alto_00257_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="515" ORDERLABEL="481" TYPE="page">
+        <fptr FILEID="tiff_00258_0"/>
+        <fptr FILEID="jp2_00258_0"/>
+        <fptr FILEID="alto_00258_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_515.3" BETYPE="IDREF" FILEID="alto_00258_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AK4" BETYPE="IDREF" FILEID="casebody_0119"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_512.9" BETYPE="IDREF" FILEID="alto_00256_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b513-9" BETYPE="IDREF" FILEID="casebody_0119"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_513.9" BETYPE="IDREF" FILEID="alto_00257_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b513-8" BETYPE="IDREF" FILEID="casebody_0119"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_513.8" BETYPE="IDREF" FILEID="alto_00257_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b513-7" BETYPE="IDREF" FILEID="casebody_0119"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_513.7" BETYPE="IDREF" FILEID="alto_00257_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b515-6" BETYPE="IDREF" FILEID="casebody_0119"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_515.6" BETYPE="IDREF" FILEID="alto_00258_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b512-6" BETYPE="IDREF" FILEID="casebody_0119"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_512.8" BETYPE="IDREF" FILEID="alto_00256_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b512-4" BETYPE="IDREF" FILEID="casebody_0119"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_512.5" BETYPE="IDREF" FILEID="alto_00256_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b512-5" BETYPE="IDREF" FILEID="casebody_0119"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_512.6" BETYPE="IDREF" FILEID="alto_00256_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b514-6" BETYPE="IDREF" FILEID="casebody_0119"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_514.4" BETYPE="IDREF" FILEID="alto_00257_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b514-7" BETYPE="IDREF" FILEID="casebody_0119"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_514.5" BETYPE="IDREF" FILEID="alto_00257_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b514-8" BETYPE="IDREF" FILEID="casebody_0119"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_514.6" BETYPE="IDREF" FILEID="alto_00257_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b514-9" BETYPE="IDREF" FILEID="casebody_0119"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_514.7" BETYPE="IDREF" FILEID="alto_00257_1"/>
+            <area BEGIN="BL_515.1" BETYPE="IDREF" FILEID="alto_00258_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AIh" BETYPE="IDREF" FILEID="casebody_0119"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_512.7" BETYPE="IDREF" FILEID="alto_00256_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AIi" BETYPE="IDREF" FILEID="casebody_0119"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_513.10" BETYPE="IDREF" FILEID="alto_00257_0"/>
+            <area BEGIN="BL_513.11" BETYPE="IDREF" FILEID="alto_00257_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b513-13" BETYPE="IDREF" FILEID="casebody_0119"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_513.15" BETYPE="IDREF" FILEID="alto_00257_0"/>
+            <area BEGIN="BL_514.1" BETYPE="IDREF" FILEID="alto_00257_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b513-12" BETYPE="IDREF" FILEID="casebody_0119"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_513.14" BETYPE="IDREF" FILEID="alto_00257_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b513-11" BETYPE="IDREF" FILEID="casebody_0119"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_513.13" BETYPE="IDREF" FILEID="alto_00257_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b513-10" BETYPE="IDREF" FILEID="casebody_0119"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_513.12" BETYPE="IDREF" FILEID="alto_00257_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b515-5" BETYPE="IDREF" FILEID="casebody_0119"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_515.5" BETYPE="IDREF" FILEID="alto_00258_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b515-4" BETYPE="IDREF" FILEID="casebody_0119"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_515.4" BETYPE="IDREF" FILEID="alto_00258_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

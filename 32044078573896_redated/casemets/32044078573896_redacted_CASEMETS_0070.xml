@@ -1,0 +1,686 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0070" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Burton v. Merrick">Burton vs. Merrick</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 357</citation>
+          <decisiondate>1860-07</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00180_0" MIMETYPE="image/tiff" CHECKSUM="86b95ccf34d18decfa28afb142c04b3f" CHECKSUMTYPE="MD5" SIZE="27908">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00180_0.tif"/>
+      </file>
+      <file ID="tiff_00180_1" MIMETYPE="image/tiff" CHECKSUM="0a810385d96d0c3b79106c06a2928c19" CHECKSUMTYPE="MD5" SIZE="37432">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00180_1.tif"/>
+      </file>
+      <file ID="tiff_00181_0" MIMETYPE="image/tiff" CHECKSUM="7c5bb6f4805c1da6030a4660a6dc0f55" CHECKSUMTYPE="MD5" SIZE="45332">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00181_0.tif"/>
+      </file>
+      <file ID="tiff_00181_1" MIMETYPE="image/tiff" CHECKSUM="95d3d6d41a1a37fcf8724d09e0b2e632" CHECKSUMTYPE="MD5" SIZE="46702">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00181_1.tif"/>
+      </file>
+      <file ID="tiff_00182_0" MIMETYPE="image/tiff" CHECKSUM="1a37391ef3ffa66d41da2da3da385de2" CHECKSUMTYPE="MD5" SIZE="32064">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00182_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00180_0" MIMETYPE="image/jp2" CHECKSUM="34ac6c397cb10fa4e1079f547ab67c0c" CHECKSUMTYPE="MD5" SIZE="2434739">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00180_0.jp2"/>
+      </file>
+      <file ID="jp2_00180_1" MIMETYPE="image/jp2" CHECKSUM="6f3220364d42a4f0e206000483b40a93" CHECKSUMTYPE="MD5" SIZE="2502750">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00180_1.jp2"/>
+      </file>
+      <file ID="jp2_00181_0" MIMETYPE="image/jp2" CHECKSUM="db9595e091e79b5033885d05339c671e" CHECKSUMTYPE="MD5" SIZE="2612150">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00181_0.jp2"/>
+      </file>
+      <file ID="jp2_00181_1" MIMETYPE="image/jp2" CHECKSUM="d33d1653435dfa8b499132879b991cd1" CHECKSUMTYPE="MD5" SIZE="2507256">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00181_1.jp2"/>
+      </file>
+      <file ID="jp2_00182_0" MIMETYPE="image/jp2" CHECKSUM="71a345505b3bc390875e4b67713c9a20" CHECKSUMTYPE="MD5" SIZE="2486634">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00182_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00180_0" MIMETYPE="text/xml" CHECKSUM="fb72590eae640ab16ee3ecfd3dfc0713" CHECKSUMTYPE="MD5" SIZE="59653">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00180_0.xml"/>
+      </file>
+      <file ID="alto_00180_1" MIMETYPE="text/xml" CHECKSUM="88a384b5ce44e3e73c87e08556b85eeb" CHECKSUMTYPE="MD5" SIZE="71830">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00180_1.xml"/>
+      </file>
+      <file ID="alto_00181_0" MIMETYPE="text/xml" CHECKSUM="e9b55cee7a37122ced878670460d6b47" CHECKSUMTYPE="MD5" SIZE="89659">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00181_0.xml"/>
+      </file>
+      <file ID="alto_00181_1" MIMETYPE="text/xml" CHECKSUM="ba3be0fef78236a79eeacf43c591c0d3" CHECKSUMTYPE="MD5" SIZE="94779">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00181_1.xml"/>
+      </file>
+      <file ID="alto_00182_0" MIMETYPE="text/xml" CHECKSUM="43720011dc742c2f8e44d6040355b171" CHECKSUMTYPE="MD5" SIZE="64554">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00182_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0070" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="361" firstpage="357">
+              <parties id="b359-7" pgmap="359">Burton vs. Merrick.</parties>
+              <attorneys id="b360-7" pgmap="360">Fowler &amp; Stillwell, for the plaintiff.</attorneys>
+              <attorneys id="b360-10" pgmap="360">Bertrand, for the appellee.</attorneys>
+              <summary id="b360-5" pgmap="360">Error to Pulaski Circuit Court.</summary>
+              <summary id="b360-6" pgmap="360">Hon. John J. Clendenin, Circuit Judge.</summary>
+              <summary id="b360-8" pgmap="360">The receipt was not admissible — it was not conclusive but merely prima facie evidence: 2 Stark Ev. 571, and note. It could not operate as an estoppel, but was capable of being rebutted by other circumstances. 2 Stark Ev. 703-4.</summary>
+              <summary id="b360-9" pgmap="360">The second instruction was not applicable to the facts, and was calculated to mislead the jury.</summary>
+              <summary id="b360-11" pgmap="360">The receipt, though not conclusive, was prima facie evidence and so stands until that prima facie case is overturned by evi­dence introduced by the party whose interest it is to assail and destroy it. See 2 Bouv. L. Die. (6 ed.) 425, 426, where all the authorities on this point are collected.</summary>
+              <headnotes id="b359-11" pgmap="359">Where the declaration upon a note purporting upon its face to be executed by T 3). Merrick &amp; Co., alleged that the note was made by the defendant, by that style and description, a receipt, given by the plaintiff to the defendant, subsequent to the date of the note, in full of all demands on final settlement, is admissible in evidence for what it is worth.</headnotes>
+              <headnotes id="b359-12" pgmap="359">In such case, though a receipt operates as conclusive evidence in the particular case between the parties in the absence of proof that it was obtained by fraud or mis­take, the ju-y had also to enquire whether the receipt was intended to embrace or did embrace the note sued on.</headnotes>
+              <headnotes id="b359-13" pgmap="359">Where one of several instructions might have tended to mislead the jury, but taking all the instructions together, the matter was fairly submitted to them, their verdict will not for that reason be set aside.</headnotes>
+              <opinion type="majority">
+                <author id="AKU" pgmap="360">Mr. Chief Justice English</author>
+                <p id="Aey" pgmap="360">delivered the opinion of the court.</p>
+                <p id="b360-13" pgmap="360">Burton brought an action of debt against Thomas D. Mer­rick on the following note:</p>
+                <blockquote id="b360-14" pgmap="360">“ One day after date we promise to pay to the order of P. P. Burton, two hundred and fifty dollars value received (cash bor­rowed.) Little Rock, Sept. 2d, 1853.</blockquote>
+                <blockquote id="b360-15" pgmap="360">T. D. MERRICK &amp; CO.”</blockquote>
+                <p id="b360-16" pgmap="360">The suit was commenced 9th May, 1857. The declaration alleged that the note was made by the defendant by his style and description of “ T. D. Merrick Co.”</p>
+                <p id="b360-17" pgmap="360">The case was submitted to a jury on issues to the pleas of nit debet, payment and set off.</p>
+                <p id="b360-18" pgmap="360">After the plaintiff had read in evidence the note sued on, the court permitted the defendant, against the objection of plaintiff, to introduce the following receipt:</p>
+                <blockquote id="b360-19" pgmap="360(12) 361(15)">“ Received of T. D. Merrick his note for eighty dollars, in full of all demands to this date, in final settlement. Little Rock, Oct. 8th, 1854.</blockquote>
+                <blockquote id="b361-5" pgmap="361">P. P. BURTON.”</blockquote>
+                <p id="b361-6" pgmap="361">It was proved by the defendant that in February, 1852, the previously existing partnership between himself and Fenno, which had been carried on under the firm name of T. D. Mer­rick &amp; Co., was dissolved; and that for eighteen months there­after he continued to do business at the same place without a partner, under the same style of T. D. Merrick &amp; Co., and advertised in a newspaper published at Little Rock, that he would do so; and that he continued so to- do business until he formed a partnership with Wassell, under the firm name of Merrick &amp; Wassell. That shortly after he dissolved partner­ship with Fenno, in February 1852, the plaintiff remarked to a witness that it was well or better for Merrick that he had done so, as his partner had been in his way, and he thought Mer­rick would get along better without him.</p>
+                <p id="b361-7" pgmap="361">The plaintiff read in evidence an extract from a letter ad­dressed to him by the defendant, dated 2d March, 1857, and the defendant read an additional extract from the same letter in which settlements between the parties are referred to.</p>
+                <p id="b361-8" pgmap="361">At the instance of the plaintiff the court instructed the jury as follows:</p>
+                <blockquote id="b361-9" pgmap="361">1. “If the jury believe from the evidence that Merrick was carrying on business at the time he executed the note in con­troversy under the firm name of T. D. Merrick &amp; Co., and gave the note by that name and signature, and that the receipt given in evidence is signed T. D. Merrick, and on its face speaks of a settlement of individual matters, the jury may infer that the receipt was not intended to embrace a note in the firm name of T. D. Merrick &amp; Co.</blockquote>
+                <blockquote id="b361-10" pgmap="361">2. “ And the jury may infer, if there is any other evidence before them to sustain such inference, that the said note in con­troversy is not embraced in the receipt, but the whole matter turns upon the evidence before them, of the weight of which they are the proper judges.”</blockquote>
+                <p id="b362-5" pgmap="362">On motion of the defendant and against the objection of the plaintiff, the court instructed the jury as follows:</p>
+                <p id="b362-6" pgmap="362">1. A receipt is prima facie evidence of what it imports, and in the absence of proof of fraud or mistake is conclusive be­tween the parties to it.</p>
+                <p id="b362-7" pgmap="362">2. If the jury believe from the evidence that Burton and Merrick, on the 8th of October, 1854, had a final settlement, in full of all demands up to that date, they must find for the defend­ant.</p>
+                <p id="b362-8" pgmap="362">The jury returned a verdict in favor of defendant, and the plaintiff brought error on the points reserved at the trial.</p>
+                <p id="b362-9" pgmap="362">1. The court did not err in permitting the receipt to be read in evidence. It bears date subsequent to the note sued on, and purports to be in full of all demands to date, on final settle­ment between the parties. It is true that the receipt was given to the defendant, Merrick, by his proper name, and the note was signed T. D. Merrick &amp; Co., but the plaintiff alleged in the declaration that it was executed by Merrick by his style and description of T. D. Merrick &amp; Co., and this allegation opened the way for the receipt to be read to the jury for what it was worth, under the issues in the cause.</p>
+                <p id="AiP" pgmap="362">2. A receipt' expressed to be in full of all demands, is only prima facie evidence of what it purports to be, and upon satis­factory proof being made that it was obtained by fraud or given under a mistake, it may be enquired into and corrected in a court of law as well as in equity.</p>
+                <p id="b362-11" pgmap="362">But where the receipt is introduced by the party relying on it, and there is no attempt from the other side to prove that it was obtained by fraud, or given by mistake,' it must necessarily operate in the particular case as conclusive evidence of what it purports to be upon its face.</p>
+                <p id="b362-12" pgmap="362">Such we suppose to be the principle intended to be asserted by the first instruction given at the instance of the defendant, and in this view it is not contradictory in its terms, as argued by the counsel for the plaintiff.</p>
+                <p id="b362-13" pgmap="362(12) 363(123)">If this had been the only instruction given to the jury, how­ever, it might have tended to mislead them by making the im­pression upon their minds that in the absence of proof that the receipt was obtained by fraud or given by mistake, they were to regard it as conclusive evidence of the matter which it was introduced to prove — the payment of the note sued on. But there being no proof of fraud or mistake, there was another question for them to enquire into and settle upon the evidence before them, and that was whether, in point of fact, the receipt was intended to embrace, or did embrace the note sued on; and this question was distinctly submitted to them in the instruc­tions given at the instance of the plaintiff.</p>
+                <p id="b363-5" pgmap="363">Taking the instructions together, we think the matter to be determined by the jury was fairly submitted to them, and they having found in favor of the defendant, and there being no motion for a new trial their decision is final.</p>
+                <p id="b363-6" pgmap="363">The judgment must be affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="359" ORDERLABEL="357" TYPE="page">
+        <fptr FILEID="tiff_00180_0"/>
+        <fptr FILEID="jp2_00180_0"/>
+        <fptr FILEID="alto_00180_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_359.3" BETYPE="IDREF" FILEID="alto_00180_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_359.2" BETYPE="IDREF" FILEID="alto_00180_0"/>
+              <area BEGIN="BL_359.4" BETYPE="IDREF" FILEID="alto_00180_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_359.7" BETYPE="IDREF" FILEID="alto_00180_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="360" ORDERLABEL="358" TYPE="page">
+        <fptr FILEID="tiff_00180_1"/>
+        <fptr FILEID="jp2_00180_1"/>
+        <fptr FILEID="alto_00180_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_360.1" BETYPE="IDREF" FILEID="alto_00180_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_360.2" BETYPE="IDREF" FILEID="alto_00180_1"/>
+              <area BEGIN="BL_360.3" BETYPE="IDREF" FILEID="alto_00180_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="361" ORDERLABEL="359" TYPE="page">
+        <fptr FILEID="tiff_00181_0"/>
+        <fptr FILEID="jp2_00181_0"/>
+        <fptr FILEID="alto_00181_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_361.3" BETYPE="IDREF" FILEID="alto_00181_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_361.2" BETYPE="IDREF" FILEID="alto_00181_0"/>
+              <area BEGIN="BL_361.4" BETYPE="IDREF" FILEID="alto_00181_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="362" ORDERLABEL="360" TYPE="page">
+        <fptr FILEID="tiff_00181_1"/>
+        <fptr FILEID="jp2_00181_1"/>
+        <fptr FILEID="alto_00181_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_362.1" BETYPE="IDREF" FILEID="alto_00181_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_362.2" BETYPE="IDREF" FILEID="alto_00181_1"/>
+              <area BEGIN="BL_362.3" BETYPE="IDREF" FILEID="alto_00181_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="363" ORDERLABEL="361" TYPE="page">
+        <fptr FILEID="tiff_00182_0"/>
+        <fptr FILEID="jp2_00182_0"/>
+        <fptr FILEID="alto_00182_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_363.3" BETYPE="IDREF" FILEID="alto_00182_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_363.2" BETYPE="IDREF" FILEID="alto_00182_0"/>
+              <area BEGIN="BL_363.4" BETYPE="IDREF" FILEID="alto_00182_0"/>
+              <area BEGIN="BL_363.10" BETYPE="IDREF" FILEID="alto_00182_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_363.7" BETYPE="IDREF" FILEID="alto_00182_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AKU" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_360.11" BETYPE="IDREF" FILEID="alto_00180_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b361-8" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_361.8" BETYPE="IDREF" FILEID="alto_00181_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b361-9" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_361.9" BETYPE="IDREF" FILEID="alto_00181_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b362-11" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_362.10" BETYPE="IDREF" FILEID="alto_00181_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b362-13" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_362.12" BETYPE="IDREF" FILEID="alto_00181_1"/>
+            <area BEGIN="BL_363.1" BETYPE="IDREF" FILEID="alto_00182_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b362-12" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_362.11" BETYPE="IDREF" FILEID="alto_00181_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b361-6" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_361.6" BETYPE="IDREF" FILEID="alto_00181_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b361-7" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_361.7" BETYPE="IDREF" FILEID="alto_00181_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b361-5" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_361.5" BETYPE="IDREF" FILEID="alto_00181_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b359-13" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_359.11" BETYPE="IDREF" FILEID="alto_00180_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b359-12" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_359.10" BETYPE="IDREF" FILEID="alto_00180_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b359-11" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_359.9" BETYPE="IDREF" FILEID="alto_00180_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b363-5" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_363.5" BETYPE="IDREF" FILEID="alto_00182_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AiP" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_362.9" BETYPE="IDREF" FILEID="alto_00181_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b361-10" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_361.10" BETYPE="IDREF" FILEID="alto_00181_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b360-7" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_360.6" BETYPE="IDREF" FILEID="alto_00180_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b360-6" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_360.5" BETYPE="IDREF" FILEID="alto_00180_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b360-5" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_360.4" BETYPE="IDREF" FILEID="alto_00180_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aey" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_360.12" BETYPE="IDREF" FILEID="alto_00180_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b362-5" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_362.4" BETYPE="IDREF" FILEID="alto_00181_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b362-7" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_362.6" BETYPE="IDREF" FILEID="alto_00181_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b362-6" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_362.5" BETYPE="IDREF" FILEID="alto_00181_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b362-9" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_362.8" BETYPE="IDREF" FILEID="alto_00181_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b362-8" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_362.7" BETYPE="IDREF" FILEID="alto_00181_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b363-6" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_363.6" BETYPE="IDREF" FILEID="alto_00182_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b359-7" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_359.8" BETYPE="IDREF" FILEID="alto_00180_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b360-9" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_360.8" BETYPE="IDREF" FILEID="alto_00180_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b360-8" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_360.7" BETYPE="IDREF" FILEID="alto_00180_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b360-17" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_360.17" BETYPE="IDREF" FILEID="alto_00180_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b360-16" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_360.16" BETYPE="IDREF" FILEID="alto_00180_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b360-15" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_360.15" BETYPE="IDREF" FILEID="alto_00180_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b360-14" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_360.14" BETYPE="IDREF" FILEID="alto_00180_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b360-13" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_360.13" BETYPE="IDREF" FILEID="alto_00180_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b360-11" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_360.10" BETYPE="IDREF" FILEID="alto_00180_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b360-10" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_360.9" BETYPE="IDREF" FILEID="alto_00180_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b360-19" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_360.19" BETYPE="IDREF" FILEID="alto_00180_1"/>
+            <area BEGIN="BL_361.1" BETYPE="IDREF" FILEID="alto_00181_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b360-18" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_360.18" BETYPE="IDREF" FILEID="alto_00180_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

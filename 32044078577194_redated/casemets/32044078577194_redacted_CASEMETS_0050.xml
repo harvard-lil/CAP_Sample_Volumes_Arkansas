@@ -1,0 +1,474 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0050" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Addis v. Addis">Tim D.L. ADDIS v. Elizabeth ADDIS</name>
+          <docketnumber>85-243</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 205</citation>
+          <citation category="parallel" type="bluebook">703 S.W.2d 852</citation>
+          <decisiondate>1986-02-18</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:00Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00117_0" MIMETYPE="image/tiff" CHECKSUM="60ab769649aa94c7a3ffe5a392144192" CHECKSUMTYPE="MD5" SIZE="6974">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00117_0.tif"/>
+      </file>
+      <file ID="tiff_00117_1" MIMETYPE="image/tiff" CHECKSUM="ad0db65d0b8db0afdbc30d4bc1c7f8db" CHECKSUMTYPE="MD5" SIZE="41094">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00117_1.tif"/>
+      </file>
+      <file ID="tiff_00118_0" MIMETYPE="image/tiff" CHECKSUM="b7467930aa19249ac8e4adc6fc7e97b5" CHECKSUMTYPE="MD5" SIZE="57254">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00118_0.tif"/>
+      </file>
+      <file ID="tiff_00118_1" MIMETYPE="image/tiff" CHECKSUM="baf6d26e18c9ef06eba10ee05b1be21b" CHECKSUMTYPE="MD5" SIZE="51412">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00118_1.tif"/>
+      </file>
+      <file ID="tiff_00119_0" MIMETYPE="image/tiff" CHECKSUM="eafdf283e8de419139107d69986d1ae8" CHECKSUMTYPE="MD5" SIZE="6636">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00119_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00117_0" MIMETYPE="image/jp2" CHECKSUM="976136d060a6efd278d37685e3645f13" CHECKSUMTYPE="MD5" SIZE="1309554">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00117_0.jp2"/>
+      </file>
+      <file ID="jp2_00117_1" MIMETYPE="image/jp2" CHECKSUM="0b7d22e41f74e5e6033744a526358471" CHECKSUMTYPE="MD5" SIZE="2583542">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00117_1.jp2"/>
+      </file>
+      <file ID="jp2_00118_0" MIMETYPE="image/jp2" CHECKSUM="c798374c8bcb44b7c75a107376209551" CHECKSUMTYPE="MD5" SIZE="2549790">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00118_0.jp2"/>
+      </file>
+      <file ID="jp2_00118_1" MIMETYPE="image/jp2" CHECKSUM="4104a89f22120d6afb33832c254a702a" CHECKSUMTYPE="MD5" SIZE="2428488">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00118_1.jp2"/>
+      </file>
+      <file ID="jp2_00119_0" MIMETYPE="image/jp2" CHECKSUM="b91360c4954b62ebd4e57bcbaf51117b" CHECKSUMTYPE="MD5" SIZE="1310595">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00119_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00117_0" MIMETYPE="text/xml" CHECKSUM="cbcb162c19506ccebde12ee1cb653f1e" CHECKSUMTYPE="MD5" SIZE="8361">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00117_0.xml"/>
+      </file>
+      <file ID="alto_00117_1" MIMETYPE="text/xml" CHECKSUM="d8fc7e1623005d7c760bce4db67e4a36" CHECKSUMTYPE="MD5" SIZE="67589">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00117_1.xml"/>
+      </file>
+      <file ID="alto_00118_0" MIMETYPE="text/xml" CHECKSUM="785c569308db3dccac477f8289eca3d6" CHECKSUMTYPE="MD5" SIZE="90061">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00118_0.xml"/>
+      </file>
+      <file ID="alto_00118_1" MIMETYPE="text/xml" CHECKSUM="cc888bb352e53dd1dd7c3d08b7a14140" CHECKSUMTYPE="MD5" SIZE="90703">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00118_1.xml"/>
+      </file>
+      <file ID="alto_00119_0" MIMETYPE="text/xml" CHECKSUM="5186ee83300f5255db4d8b5daf0dc1d8" CHECKSUMTYPE="MD5" SIZE="8686">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00119_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0050" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="205" lastpage="209">
+              <court pgmap="233" id="b233-7">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="233" id="Aam">85-243</docketnumber>
+              <citation pgmap="233" id="ApF">703 S.W.2d 852</citation>
+              <parties pgmap="233" id="b233-6">Tim D.L. ADDIS v. Elizabeth ADDIS</parties>
+              <decisiondate pgmap="233" id="AWJ">Opinion delivered February 18, 1986</decisiondate>
+              <judges pgmap="237" id="b237-5">Purtle, J., not participating.</judges>
+              <attorneys pgmap="234" id="b234-7">Skinner &amp; Heuer, by: Sam T. Heuer, for appellant.</attorneys>
+              <attorneys pgmap="234" id="b234-8">Highsmith, Gregg, Hart, Farris &amp; Rutledge, by: Josephine L. Hart, for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="234" id="b234-9">Robert H. Dudley, Justice.</author>
+                <p pgmap="234" id="AqP">The basic issue in this divorce case is whether the chancellor correctly divided marital property. We modify and affirm the division of property.</p>
+                <p pgmap="234" id="b234-10">Tim Addis, appellant, and Elizabeth Addis, appellee, were married in 1966. They have a 22 year old son, Dean, and two minor daughters, Timberly and Katherine. Appellant is a veteri­narian employed by the United States Department of Agricul­ture as an inspector with a base pay of $32,858.00 per year. In June 1982, appellant and Dean formed a partnership for the purpose of operating a dairy. The chancellor awarded the appellee $8,500.00 as the sum equal to one-half of appellant’s net interest in the partnership. The appellant’s first argument is that this award is in the wrong amount.</p>
+                <p pgmap="234" id="b234-11">
+                   Under the Uniform Partnership Act, a partner’s rights in specific partnership assets are those of a tenant in partnership. Ark. Stat. Ann. § 65-125 (Repl. 1980). At divorce, in determining the rights of a husband or wife to a spouse’s partnership interest, a court cannot make specific awards of partnership asserts. The court must determine the value of the interest in the partnership and then award the spouse an amount equal to one-half of the value of the interest, which may be enforced by a charging order on the partnership interest. Riegler v. Riegler, 243 Ark. 113, 419 S.W.2d 311 (1967).</p>
+                <p pgmap="234(29) 235(187)" id="b234-12">The appellant testified that the liabilities of the partnership were $86,000.00 at the date of the trial. He testified that the assets were worth $79,000.00. An independent witness testified that the assets were worth $79,980.00. However, the independent witness did not include machinery which had an initial cost of $14,527.20, and, according to the partnership tax return, had a depreciated value of $9,210.24 at the time of the trial. In addition, his appraisal did not include permanent leasehold improvements to the land which initially cost $17,828.08, and, after straight-line depreciation over the life of the lease, had a depreciated value of $11,121.04. In order to determine the value of all the partnership assets, we accept the $79,980.00 value assigned to the assets which were appraised by the independent appraiser, and add to this figure the depreciated value of the items not appraised. Thus, we take the appraised figure of $79,980.00, and we add $9,210.24 and $11,121.04 for total assets of $100,311.28. The difference between partnership assets of $100,311.28 and liabilities of $86,000.00 is $14,311.28. Therefore, based upon our calcula­tions, one-half of the net interest in the partnership amounts to $7,155.64. The Chancellor awarded appellee $8,500.00 as an amount equal to one-half the value of the partnership interest. Accordingly, we modify the $8,500.00 award to $7,155.64.</p>
+                <p pgmap="235" id="b235-6">Appellant next argues that the trial court erred in fixing $4,000.00 as the amount of money which appellant must pay to appellee for her interest in his retirement account. He does not contend that the retirement account is not marital property.</p>
+                <p pgmap="235" id="b235-7">During the last four years of the marriage, appellant worked for the Department of Agriculture and paid seven percent (7%) of his salary into a retirement account. At the time of trial, this account would entitle appellant to withdraw $8,000.00 if his employment were terminated for any reason. Appellant’s right to the $8,000.00 is not subject to divestment or forfeiture even though the complete contributory plan will not mature until appellant reaches the retirement age and elects to retire. Thus, appellant has a vested but non-mature right to the retirement funds.</p>
+                <p pgmap="235(62) 236(79)" id="b235-8">
+                   Three basic methods are available for disposing of vested but non-matured retirement interests upon divorce: (1) assign the whole of the interest in the plan to the employee, and assign assets of equivalent value to the other spouse; (2) divide the interest in the plan itself on a percentage formula, and (3) reserve jurisdiction until retirement to divide the actual monetary benefit when received. See B. Goldberg, Valuation of Divorce Assets, § 9.5, at 254. The chancellor chose the first method, an appropriate method. The appellant does not question the method, but instead questions the valuation. However, at trial no actuarial valuations were offered. The trial court could value the rights only upon the evidence presented, which was the amount of cash that appellant had contributed to the fund at the time of the hearing. We affirm the trial court’s action.</p>
+                <p pgmap="236" id="b236-4">
+                   In dividing the property, the trial court awarded all of the household furniture and a Honda automobile to appellee, and, to offset that, awarded a Chevrolet pickup truck to appellant. The appellant contends that the trial court erred by awarding the appellee all of the furniture. The record does not disclose error. There was no testimony about the value of the furniture, the car, or the truck. The only testimony about the value of these items is appellee’s testimony that the car is worth less than the truck. We assume the chancellor attempted to balance the awards by giving the furniture and the lesser valued car to the appellee and the more expensive truck to the appellant.</p>
+                <p pgmap="236" id="b236-5">Appellant next contends that the amount of alimony is excessive. There is no merit in the argument. Appellee is 43 years old, and has no job and no job skills. She has the care and custody of the two minor children, the younger one being only 13 months old. Appellant has a job and his take-home pay from the Department of Agriculture is in excess of $1,700.00 per month. Out of that amount, the Chancellor found that $500.00 per month is necessary for support of the children and $400.00 per month for a period of five years is necessary for alimony. Apparently, the chancellor awarded alimony for the period of time he thought would be necessary for the appellee to receive training and enter into the job market.</p>
+                <p pgmap="236" id="b236-6">
+                   The combined needs of the parties are greater than the income. Their testimony indicates that both need at least $1,000.00 per month, but there simply is not that much income. The standard of living of both parties will suffer. Under the circumstances, the alimony award of $400.00 per month for five years is not excessive.</p>
+                <p pgmap="236" id="b236-7">Affirmed as modified.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="233" ORDERLABEL="205" TYPE="page">
+        <fptr FILEID="tiff_00117_0"/>
+        <fptr FILEID="jp2_00117_0"/>
+        <fptr FILEID="alto_00117_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_233.2" BETYPE="IDREF" FILEID="alto_00117_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="234" ORDERLABEL="206" TYPE="page">
+        <fptr FILEID="tiff_00117_1"/>
+        <fptr FILEID="jp2_00117_1"/>
+        <fptr FILEID="alto_00117_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_234.2" BETYPE="IDREF" FILEID="alto_00117_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="235" ORDERLABEL="207" TYPE="page">
+        <fptr FILEID="tiff_00118_0"/>
+        <fptr FILEID="jp2_00118_0"/>
+        <fptr FILEID="alto_00118_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_235.3" BETYPE="IDREF" FILEID="alto_00118_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="236" ORDERLABEL="208" TYPE="page">
+        <fptr FILEID="tiff_00118_1"/>
+        <fptr FILEID="jp2_00118_1"/>
+        <fptr FILEID="alto_00118_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_236.2" BETYPE="IDREF" FILEID="alto_00118_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="237" ORDERLABEL="209" TYPE="page">
+        <fptr FILEID="tiff_00119_0"/>
+        <fptr FILEID="jp2_00119_0"/>
+        <fptr FILEID="alto_00119_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_237.2" BETYPE="IDREF" FILEID="alto_00119_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b234-11" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_234.13" BETYPE="IDREF" FILEID="alto_00117_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b234-10" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_234.12" BETYPE="IDREF" FILEID="alto_00117_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ApF" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_233.7" BETYPE="IDREF" FILEID="alto_00117_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b235-8" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_235.6" BETYPE="IDREF" FILEID="alto_00118_0"/>
+            <area BEGIN="BL_236.1" BETYPE="IDREF" FILEID="alto_00118_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AqP" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_234.10" BETYPE="IDREF" FILEID="alto_00117_1"/>
+            <area BEGIN="BL_234.11" BETYPE="IDREF" FILEID="alto_00117_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b233-6" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_233.5" BETYPE="IDREF" FILEID="alto_00117_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b233-7" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_233.8" BETYPE="IDREF" FILEID="alto_00117_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b235-7" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_235.5" BETYPE="IDREF" FILEID="alto_00118_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b235-6" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_235.4" BETYPE="IDREF" FILEID="alto_00118_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aam" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_233.6" BETYPE="IDREF" FILEID="alto_00117_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b234-12" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_234.14" BETYPE="IDREF" FILEID="alto_00117_1"/>
+            <area BEGIN="BL_235.1" BETYPE="IDREF" FILEID="alto_00118_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b234-7" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_234.7" BETYPE="IDREF" FILEID="alto_00117_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b236-7" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_236.7" BETYPE="IDREF" FILEID="alto_00118_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AWJ" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_233.9" BETYPE="IDREF" FILEID="alto_00117_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b236-5" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_236.5" BETYPE="IDREF" FILEID="alto_00118_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b236-4" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_236.4" BETYPE="IDREF" FILEID="alto_00118_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b237-5" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_237.3" BETYPE="IDREF" FILEID="alto_00119_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b234-9" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_234.9" BETYPE="IDREF" FILEID="alto_00117_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b234-8" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_234.8" BETYPE="IDREF" FILEID="alto_00117_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b236-6" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_236.6" BETYPE="IDREF" FILEID="alto_00118_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

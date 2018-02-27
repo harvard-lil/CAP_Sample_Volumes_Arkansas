@@ -1,0 +1,902 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0128" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Johnson v. Craig">Johnson vs. Craig</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 533</citation>
+          <decisiondate>1860-10</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00268_0" MIMETYPE="image/tiff" CHECKSUM="eed57d249bfa2b25bfae014c9ee7005d" CHECKSUMTYPE="MD5" SIZE="38868">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00268_0.tif"/>
+      </file>
+      <file ID="tiff_00268_1" MIMETYPE="image/tiff" CHECKSUM="3a06ea4c849451fa69c38344fc216238" CHECKSUMTYPE="MD5" SIZE="39308">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00268_1.tif"/>
+      </file>
+      <file ID="tiff_00269_0" MIMETYPE="image/tiff" CHECKSUM="77e799b0045b6dc7ddaf2a2089bc1df6" CHECKSUMTYPE="MD5" SIZE="46614">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00269_0.tif"/>
+      </file>
+      <file ID="tiff_00269_1" MIMETYPE="image/tiff" CHECKSUM="423487d97139afd4b79eee3c235cccc2" CHECKSUMTYPE="MD5" SIZE="49292">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00269_1.tif"/>
+      </file>
+      <file ID="tiff_00270_0" MIMETYPE="image/tiff" CHECKSUM="e78457de0daad875f941c36964ca3df6" CHECKSUMTYPE="MD5" SIZE="47618">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00270_0.tif"/>
+      </file>
+      <file ID="tiff_00270_1" MIMETYPE="image/tiff" CHECKSUM="63b2c8b4a1fe131acf670903c19aee12" CHECKSUMTYPE="MD5" SIZE="46802">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00270_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00268_0" MIMETYPE="image/jp2" CHECKSUM="ba0c07562e48d655c7bc6ebf7a8e15a4" CHECKSUMTYPE="MD5" SIZE="2507091">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00268_0.jp2"/>
+      </file>
+      <file ID="jp2_00268_1" MIMETYPE="image/jp2" CHECKSUM="01c9105e6c4ede865cd1166f73dad3d7" CHECKSUMTYPE="MD5" SIZE="2452357">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00268_1.jp2"/>
+      </file>
+      <file ID="jp2_00269_0" MIMETYPE="image/jp2" CHECKSUM="d7b7c2c7d76f916e5fd6292624d682ad" CHECKSUMTYPE="MD5" SIZE="2544203">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00269_0.jp2"/>
+      </file>
+      <file ID="jp2_00269_1" MIMETYPE="image/jp2" CHECKSUM="60fa1c5ec905df3c115fc2dd118e4bbd" CHECKSUMTYPE="MD5" SIZE="2547050">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00269_1.jp2"/>
+      </file>
+      <file ID="jp2_00270_0" MIMETYPE="image/jp2" CHECKSUM="5883640c496722384909789a8ef38248" CHECKSUMTYPE="MD5" SIZE="2591512">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00270_0.jp2"/>
+      </file>
+      <file ID="jp2_00270_1" MIMETYPE="image/jp2" CHECKSUM="94c4d0ac9e8fd1ea3267d6b904b5efa0" CHECKSUMTYPE="MD5" SIZE="2511418">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00270_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00268_0" MIMETYPE="text/xml" CHECKSUM="f6dfa0f46d1f84a63a0d467006d05eb6" CHECKSUMTYPE="MD5" SIZE="88135">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00268_0.xml"/>
+      </file>
+      <file ID="alto_00268_1" MIMETYPE="text/xml" CHECKSUM="0f18545d3c2867020f247af6cb41691f" CHECKSUMTYPE="MD5" SIZE="78539">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00268_1.xml"/>
+      </file>
+      <file ID="alto_00269_0" MIMETYPE="text/xml" CHECKSUM="a960f0d16844d2608cfe39d23c9f62dc" CHECKSUMTYPE="MD5" SIZE="88742">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00269_0.xml"/>
+      </file>
+      <file ID="alto_00269_1" MIMETYPE="text/xml" CHECKSUM="71adc43a1a6d4100a4d88bdb32cf5098" CHECKSUMTYPE="MD5" SIZE="94074">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00269_1.xml"/>
+      </file>
+      <file ID="alto_00270_0" MIMETYPE="text/xml" CHECKSUM="77918fe43151e9034c7be19ef12ec5a5" CHECKSUMTYPE="MD5" SIZE="97000">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00270_0.xml"/>
+      </file>
+      <file ID="alto_00270_1" MIMETYPE="text/xml" CHECKSUM="37c3bd9a54c66ab356bf71a7467733dd" CHECKSUMTYPE="MD5" SIZE="88117">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00270_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0128" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="538" firstpage="533">
+              <parties id="b535-7" pgmap="535">Johnson vs. Craig.</parties>
+              <attorneys id="b535-15" pgmap="535">Watkins &amp; Gallagher, for the appellant.</attorneys>
+              <attorneys id="b536-7" pgmap="536">Garland &amp; Randolph, for the appellee,</attorneys>
+              <summary id="b535-13" pgmap="535">Appeal from Phillips Circuit Court in Chancery.</summary>
+              <summary id="b535-14" pgmap="535">Hon. George W. Beazley, Circuit Judge.</summary>
+              <summary id="b535-16" pgmap="535(92) 536(13)">The memorandum in pencil is sufficient evidence of the con­tract of sale: and by it the sale is taken out of the statute of frauds: it is no objection that it was in pencil, any note or memorandum of the contract being sufficient. Glason vs. Bailey, 14 John. 49. The endorsement upon the authority to sell makes it a complete contract, showing the vendor, the vendee, the par­ticular lands sold, the price, and the terms of payment, and is sufficient under the statute. Owen vs. Thomas, 3 My. &amp;r K. 353; Blagden vs. Bradbear, 12 Ves. 471; 2 Par. on Cont. 297, 298.</summary>
+              <summary id="b536-5" pgmap="536">It was not necessary that both parties should have signed the contract. The signing of the agreement by one party only is sufficient, provided he be the party sought to be charged. 2 Par. on Cont. 290, n. [AT.], and authorities cited.</summary>
+              <summary id="b536-6" pgmap="536">But if there was any defect in the memorandum of the con­tract, it is remedied and made complete by the letter written by the defendant, recognizing the sale, and alluding to the contract as valid and binding. 2 Par. on Con. 285, n. (G.), and authori­ties there cited.</summary>
+              <summary id="A5P" pgmap="536">contended that the memorandum in writing was not executed until after the expi­ration of the authority of Suggett, that it and the memoran­dum in pencil do not, together, constitute such “ a memoran­dum in writing ” as is required by the statute of frauds, and that the bill and other pleadings do not make such a case as entitles Johnson to the interposition of this court to compel a specific performance of the contract.</summary>
+              <headnotes id="b535-8" pgmap="535">Where the power of an agent to sell the land of his principal is limited in time, and he makes an agreement to soil the land, it will not be binding upon his principal, unless he deliver to the purchaser some memorandum in writing of the sale, before the time to which his agency is limited.</headnotes>
+              <headnotes id="b535-9" pgmap="535">Part payment of the purchase money, on an agreement for the sale of land, is not, of itself, sufficient ground to maintain a bill for specific performance.</headnotes>
+              <headnotes id="b535-10" pgmap="535">Where the authority of the agent is merely to sell land, and his agency is limited to a particular period, and according to the terms on which ho is authorized to sell, the payments are not to be made until after his agency expires, he had no power to receive payment so as to bind his principal.</headnotes>
+              <headnotes id="b535-11" pgmap="535">Where an agent has made a contract, not binding upon his principal, for the sale of land, and the principal writes a letter to the purchaser, informing him that he does not wish to sell the land, and asking the purchaser to give up or decline the pur­chase, it is not a ratification of the contract.</headnotes>
+              <headnotes id="b535-12" pgmap="535">To enforce a contract for the sale of land, it is necessary that the contract should so describe the land that it can be found' — a description by section only, without giv­ing the township or range, is not sufficient to identify it.</headnotes>
+              <opinion type="majority">
+                <author id="b536-8" pgmap="536">Mr. Justice Fairchild</author>
+                <p id="A8M" pgmap="536">delivered the opinion of the court.</p>
+                <p id="b536-9" pgmap="536">On the 6th of May, 1856, John A. Craig executed the follow­ing writing:</p>
+                <blockquote id="b536-10" pgmap="536">“ David Suggett is my authorized agent to sell the following described lands, to-wit:</blockquote>
+                <blockquote id="b536-12" pgmap="536">The south-east quarter of section 4, 160 acres.</blockquote>
+                <blockquote id="b536-13" pgmap="536">“ west, half of east half 9...... 160 “</blockquote>
+                <blockquote id="b536-14" pgmap="536">“ north half of section 15...... 320 “</blockquote>
+                <blockquote id="b536-15" pgmap="536">“ north half of section 16...... 320 “</blockquote>
+                <blockquote id="b536-16" pgmap="536">“ south-west qr. of said section 16, 160 “</blockquote>
+                <blockquote id="b536-17" pgmap="536">and east half of section 17........ 320 “</blockquote>
+                <blockquote id="b536-18" pgmap="536">Making in the aggregate........ 1440 acres</blockquote>
+                <blockquote id="b536-19" pgmap="536(26) 537(18)">at twelve (12) dollars per acre in four equal annual payments, first payment to be due and paid on the first day of May, A. D. 1857 — balance in one, two and three years thereafter — Authority limited to 15th of December next.</blockquote>
+                <blockquote id="b537-6" pgmap="537">Helena, Arkansas, May 6, 1856. JOHN A. CRAIG.”</blockquote>
+                <p id="b537-7" pgmap="537">A copy of the writing was exhibited with the bill, which, on the 25th of April, 1857, was filed on the chancery side of the Phillips Circuit Court, by Lycurgus L. Johnson, who claimed against Craig a specific performance of a purchase of the lands mentioned in the memorandum, as shown by the two following endorsements upon the memorandum.</p>
+                <p id="b537-8" pgmap="537">The first was in pencil marks and reads thus:</p>
+                <blockquote id="b537-9" pgmap="537">“ Sold to L. L. Johnson, the within land, December the 9th, 1856. D. Suggett, agent for J. A. Craig.”</blockquote>
+                <p id="b537-10" pgmap="537">The next endorsement was written with ink, and is as fol­lows:</p>
+                <blockquote id="b537-11" pgmap="537">“ L. L. Johnson’s draft on New Orleans, for $3,888, due 1st May, 1857, and his three notes for a like amount, each payable on the 1st day of May, 1858 and 1859 and 1860, executed to John A. Craig, and delivered to David Suggett, as his agent, in payment for the within described lands, also the said Suggett’s commissions of $1728.</blockquote>
+                <blockquote id="b537-12" pgmap="537">David Suggett, agent for J. A. Craig.”</blockquote>
+                <p id="AMLF" pgmap="537(162) 538(22)">There is no averment in the original or amended bills, that the memorandum with the endorsement in pencil, or that anj' duplicate thereof was delivered by Suggett to Johnson, on the day of the date of the endorsement, or at any time pre­vious to the 15th of December, 1856, when the authority of Suggett to act as the agent of Craig had expired. But from the want of date to the second endorsement, and from the averments made concerning the time of the delivery of the memorandum with the two endorsements upon it, the probability is great that the second endorsement was not made, nor the delivery of the memorandum and endorsement by Sug­gett to Johnson made till after the 15th of December, 1856. If this had not been the case, it would have been as easy to have dated the second as the first endorsement, and as pertinent to have alleged in the bill, though the second endorsement was without date, that it was made before the 15th of December, 1856, as to have inserted the date of the first endorsement.</p>
+                <p id="b538-6" pgmap="538">But the allegation simply is, that after the 9th of December, 1856, Suggett made the endorsement in ink, and delivered it, with the memorandum, to Johnson.</p>
+                <p id="b538-7" pgmap="538">The answer, in response to these allegations, after admitting the execution of the memorandum conferring the authority upon Suggett to sell the lands therein described, affirms that if the endorsement in' pencil was made by Suggett at the time of its date, that it was but a memorandum made for his own use, and kept by himself; that it was not executed or delivered by Suggett to Johnson, as an evidence in writing of the sale of the lands, and that the endorsement in ink was not made by Sug­gett until after the 15th of December, 1856.</p>
+                <p id="b538-8" pgmap="538">On the 14th of December, 1856, Craig was informed by Sug­gett, that he had sold the lands to Johnson; and Suggett, at Craig’s house, by saying that he had not the memorandum of authority to sell with him, admitted it still to be in his posses­sion, or gave Craig reason so to think, who then informed Sug­gett that he would not confirm the sale, and upon the next day wrote the letter dated the 15th December, 1856, which is filed in the case as exhibit D of the bill.</p>
+                <p id="b538-9" pgmap="538">Although this is alleged affirmatively in the answer, it is in response to the charge of the bill, concerning the execution of the endorsement in pencil, and is accordant with the allegation concerning it in the bill, which is careful not to allege its deliv­ery by Suggett to Johnson, at any'time before the 15th of December, 1856.</p>
+                <p id="b538-10" pgmap="538(92) 539(30)">Without averment and evidence of such fact, the sale men­tioned in the endorsement in pencil, and claimed to be con­firmed by the bill, amounts to nothing, being void by the statute of frauds. As to the second endorsement, the averment in the bill, that it was afterwards made, that is, after the 9th of De­cember, 1856, hardly needed the emphatic denial in the answer, that it was made while Suggett had the right to act as the agent of Craig; and it may only be remarked, in further illus­tration, that the original bill filed the 23d of April, 1857, makes no mention of it, while the amended bill, filed the 26th of April, 1857, avers and exhibits it.</p>
+                <p id="b539-6" pgmap="539">That endorsement can have no effect to take the alleged sale out of the effect of the statute of frauds so far as it refers to the sale.</p>
+                <p id="b539-7" pgmap="539">And if the part payment which it recites could be considered as part performance of the contract, which it cannot be, there is nothing to show that Suggett was authorized to receive pay­ment for the lands. His authority to sell ceased by the 15th of December, 1856; the first payment was not to be made till the 1st of May, 1857; and Suggett had no more right than any stran­ger had, then to receive the money or drafts, or notes, or anything else from Johnson for Craig, with the effect to bind the latter.</p>
+                <p id="b539-8" pgmap="539">Nor, during the existence of Suggett’s authority to sell the lands, had he any right, from any thing shown in the case, to have received the purchase money. He might have been a very proper person to show and make sale of the lands, and a very improper person, in Craig’s estimation, to receive his money.</p>
+                <p id="b539-9" pgmap="539">It is contended that exhibit D of the bill is a ratification by Craig of Suggett’s sale to Johnson, which will deprive Craig of the benefit of the statute of frauds. It is as follows:</p>
+                <blockquote id="b539-10" pgmap="539">“ Helena, Dec. 15th, 1856.</blockquote>
+                <blockquote id="b539-11" pgmap="539">Mr. Lycurgus Johnson, — Dr. sir: Judge Suggett tells me that he has, as my agent, contracted to sell you a tract of land in this county of about 1400 acres, and which lays four miles back of my plantation. The object of this letter is to ask the favor of you to give up or decline the purchase. I desire not to sell the land as it is near me, and find I shall need it as an outlet for my stock — moreover, the travel to and from it, and the river, is through my plantation.</blockquote>
+                <blockquote id="b539-12" pgmap="539">I should have notified Judge S. that I desired not to sell it, but from recollection thought the time limited had expired be­fore I heard of his return to Arkansas — his recollection is differ­ent. Suggett was here yesterday and says the matter, as far</blockquote>
+                <blockquote id="b540-4" pgmap="540">as he was concerned, was with you. If this request is agreea­ble, please let me hear from you.</blockquote>
+                <blockquote id="b540-5" pgmap="540">JNO. A. CRAIG.”</blockquote>
+                <p id="b540-6" pgmap="540">This letter was written the day after Suggett had communi­cated to Craig the information of his sale of the lands to John­son — when Craig plainly informed Suggett that he had declined selling the lands, and that he would not ratify Suggett’s act in making the sale.</p>
+                <p id="b540-7" pgmap="540">We think that Craig’s explanation of the letter is a proper and natural one; that being on friendly terms with Johnson, he wrote to him that the alleged purchase might not be insisted on so as to produce a misunderstanding, or law-suit between them, and that the letter cannot be construed to be an affirmance of Suggett’s alleged sale.</p>
+                <p id="b540-8" pgmap="540">We affirm the case upon its merits without reference to a difficulty that would arise in rendering a decree for Johnson.</p>
+                <p id="b540-9" pgmap="540">To decree the lands to Johnson they would have to be des­cribed with such certainty as to be found, and nothing in the case except what is stated in the bill, that is unsupported by proof, shows in what township the lands lié, about which the parties have been at disagreement. For the memorandum from Craig to Suggett only describes them by parts of sections, leav­ing unmentioned where the sections are.</p>
+                <p id="b540-10" pgmap="540">The answer only admits that the lands are properly described in the memorandum, which we know not to be the case. It does not admit them to be properly described in the bill. Then if a decree had been for Johnson for the lands in the township mentioned in the bill, it would have been rendered without any evidence that these were the lands mentioned in the memoran­dum of Craig to Suggett.</p>
+                <p id="b540-11" pgmap="540">Whether the defect in the description of the lands given in the memorandum could be supplied by parol testimony, we need not say, as this is not an element in our decision: but if the decree of the Circuit Court had not been elsewise affirmed, the question would deserve the serious consideration of the parties interested.</p>
+                <p id="b540-12" pgmap="540">Decree affirmed with costs.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="535" ORDERLABEL="533" TYPE="page">
+        <fptr FILEID="tiff_00268_0"/>
+        <fptr FILEID="jp2_00268_0"/>
+        <fptr FILEID="alto_00268_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_535.2" BETYPE="IDREF" FILEID="alto_00268_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_535.1" BETYPE="IDREF" FILEID="alto_00268_0"/>
+              <area BEGIN="BL_535.3" BETYPE="IDREF" FILEID="alto_00268_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="536" ORDERLABEL="534" TYPE="page">
+        <fptr FILEID="tiff_00268_1"/>
+        <fptr FILEID="jp2_00268_1"/>
+        <fptr FILEID="alto_00268_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_536.2" BETYPE="IDREF" FILEID="alto_00268_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_536.3" BETYPE="IDREF" FILEID="alto_00268_1"/>
+              <area BEGIN="BL_536.4" BETYPE="IDREF" FILEID="alto_00268_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="537" ORDERLABEL="535" TYPE="page">
+        <fptr FILEID="tiff_00269_0"/>
+        <fptr FILEID="jp2_00269_0"/>
+        <fptr FILEID="alto_00269_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_537.3" BETYPE="IDREF" FILEID="alto_00269_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_537.2" BETYPE="IDREF" FILEID="alto_00269_0"/>
+              <area BEGIN="BL_537.4" BETYPE="IDREF" FILEID="alto_00269_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="538" ORDERLABEL="536" TYPE="page">
+        <fptr FILEID="tiff_00269_1"/>
+        <fptr FILEID="jp2_00269_1"/>
+        <fptr FILEID="alto_00269_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_538.2" BETYPE="IDREF" FILEID="alto_00269_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_538.3" BETYPE="IDREF" FILEID="alto_00269_1"/>
+              <area BEGIN="BL_538.4" BETYPE="IDREF" FILEID="alto_00269_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="539" ORDERLABEL="537" TYPE="page">
+        <fptr FILEID="tiff_00270_0"/>
+        <fptr FILEID="jp2_00270_0"/>
+        <fptr FILEID="alto_00270_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_539.3" BETYPE="IDREF" FILEID="alto_00270_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_539.2" BETYPE="IDREF" FILEID="alto_00270_0"/>
+              <area BEGIN="BL_539.4" BETYPE="IDREF" FILEID="alto_00270_0"/>
+              <area BEGIN="BL_539.12" BETYPE="IDREF" FILEID="alto_00270_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="540" ORDERLABEL="538" TYPE="page">
+        <fptr FILEID="tiff_00270_1"/>
+        <fptr FILEID="jp2_00270_1"/>
+        <fptr FILEID="alto_00270_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_540.1" BETYPE="IDREF" FILEID="alto_00270_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_540.2" BETYPE="IDREF" FILEID="alto_00270_1"/>
+              <area BEGIN="BL_540.3" BETYPE="IDREF" FILEID="alto_00270_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b537-7" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_537.6" BETYPE="IDREF" FILEID="alto_00269_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b537-6" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_537.5" BETYPE="IDREF" FILEID="alto_00269_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b536-5" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_536.5" BETYPE="IDREF" FILEID="alto_00268_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b536-6" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_536.6" BETYPE="IDREF" FILEID="alto_00268_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b536-7" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_536.7" BETYPE="IDREF" FILEID="alto_00268_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b536-8" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_536.10" BETYPE="IDREF" FILEID="alto_00268_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b536-9" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_536.12" BETYPE="IDREF" FILEID="alto_00268_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b537-9" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_537.8" BETYPE="IDREF" FILEID="alto_00269_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b537-8" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_537.7" BETYPE="IDREF" FILEID="alto_00269_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b537-11" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_537.10" BETYPE="IDREF" FILEID="alto_00269_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b537-10" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_537.9" BETYPE="IDREF" FILEID="alto_00269_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b537-12" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_537.11" BETYPE="IDREF" FILEID="alto_00269_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b538-10" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_538.9" BETYPE="IDREF" FILEID="alto_00269_1"/>
+            <area BEGIN="BL_539.1" BETYPE="IDREF" FILEID="alto_00270_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b538-6" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_538.5" BETYPE="IDREF" FILEID="alto_00269_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b539-12" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_539.11" BETYPE="IDREF" FILEID="alto_00270_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b539-11" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_539.10" BETYPE="IDREF" FILEID="alto_00270_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b538-7" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_538.6" BETYPE="IDREF" FILEID="alto_00269_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b536-12" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_536.14" BETYPE="IDREF" FILEID="alto_00268_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b536-13" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_536.15" BETYPE="IDREF" FILEID="alto_00268_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b536-10" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_536.13" BETYPE="IDREF" FILEID="alto_00268_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b536-16" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_536.18" BETYPE="IDREF" FILEID="alto_00268_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b536-17" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_536.19" BETYPE="IDREF" FILEID="alto_00268_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b536-14" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_536.16" BETYPE="IDREF" FILEID="alto_00268_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b536-15" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_536.17" BETYPE="IDREF" FILEID="alto_00268_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b536-18" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_536.20" BETYPE="IDREF" FILEID="alto_00268_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b536-19" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_536.21" BETYPE="IDREF" FILEID="alto_00268_1"/>
+            <area BEGIN="BL_537.1" BETYPE="IDREF" FILEID="alto_00269_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AMLF" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_537.12" BETYPE="IDREF" FILEID="alto_00269_0"/>
+            <area BEGIN="BL_538.1" BETYPE="IDREF" FILEID="alto_00269_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b539-10" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_539.9" BETYPE="IDREF" FILEID="alto_00270_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b535-13" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_535.10" BETYPE="IDREF" FILEID="alto_00268_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b535-12" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_535.9" BETYPE="IDREF" FILEID="alto_00268_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b535-11" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_535.8" BETYPE="IDREF" FILEID="alto_00268_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b535-10" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_535.7" BETYPE="IDREF" FILEID="alto_00268_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A8M" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_536.11" BETYPE="IDREF" FILEID="alto_00268_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b535-16" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_535.13" BETYPE="IDREF" FILEID="alto_00268_0"/>
+            <area BEGIN="BL_536.1" BETYPE="IDREF" FILEID="alto_00268_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b535-15" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_535.12" BETYPE="IDREF" FILEID="alto_00268_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b535-14" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_535.11" BETYPE="IDREF" FILEID="alto_00268_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b538-8" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_538.7" BETYPE="IDREF" FILEID="alto_00269_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b538-9" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_538.8" BETYPE="IDREF" FILEID="alto_00269_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b540-7" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_540.7" BETYPE="IDREF" FILEID="alto_00270_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b540-6" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_540.6" BETYPE="IDREF" FILEID="alto_00270_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b535-9" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_535.6" BETYPE="IDREF" FILEID="alto_00268_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b535-8" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_535.5" BETYPE="IDREF" FILEID="alto_00268_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b535-7" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_535.4" BETYPE="IDREF" FILEID="alto_00268_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b540-9" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_540.9" BETYPE="IDREF" FILEID="alto_00270_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b540-8" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_540.8" BETYPE="IDREF" FILEID="alto_00270_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b540-12" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_540.12" BETYPE="IDREF" FILEID="alto_00270_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b540-11" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_540.11" BETYPE="IDREF" FILEID="alto_00270_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b540-10" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_540.10" BETYPE="IDREF" FILEID="alto_00270_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b540-5" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_540.5" BETYPE="IDREF" FILEID="alto_00270_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b540-4" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_540.4" BETYPE="IDREF" FILEID="alto_00270_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b539-9" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_539.8" BETYPE="IDREF" FILEID="alto_00270_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b539-8" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_539.7" BETYPE="IDREF" FILEID="alto_00270_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b539-7" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_539.6" BETYPE="IDREF" FILEID="alto_00270_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b539-6" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_539.5" BETYPE="IDREF" FILEID="alto_00270_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A5P" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_536.8" BETYPE="IDREF" FILEID="alto_00268_1"/>
+            <area BEGIN="BL_536.9" BETYPE="IDREF" FILEID="alto_00268_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

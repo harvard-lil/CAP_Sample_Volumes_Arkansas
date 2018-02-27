@@ -1,0 +1,331 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0101" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Hayes v. Lockhart">Roosevelt HAYES v. A.L. LOCKHART, Director, Arkansas Department of Correction</name>
+          <docketnumber>86-10</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 419</citation>
+          <citation category="parallel" type="bluebook">706 S.W.2d 179</citation>
+          <decisiondate>1986-03-24</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:00Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00227_0" MIMETYPE="image/tiff" CHECKSUM="fe8faa09ccb89a6d5f10684c4851d20b" CHECKSUMTYPE="MD5" SIZE="24808">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00227_0.tif"/>
+      </file>
+      <file ID="tiff_00227_1" MIMETYPE="image/tiff" CHECKSUM="950bf561f773a36390a74c60b1b0a364" CHECKSUMTYPE="MD5" SIZE="19824">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00227_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00227_0" MIMETYPE="image/jp2" CHECKSUM="5d7b1847c1fb90960ae424dea399e0c2" CHECKSUMTYPE="MD5" SIZE="2084268">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00227_0.jp2"/>
+      </file>
+      <file ID="jp2_00227_1" MIMETYPE="image/jp2" CHECKSUM="c443e3e9b03c3703448d28a87ee5dcd2" CHECKSUMTYPE="MD5" SIZE="1824862">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00227_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00227_0" MIMETYPE="text/xml" CHECKSUM="7862581b0d2cc75a8de41a5242baf7d0" CHECKSUMTYPE="MD5" SIZE="42680">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00227_0.xml"/>
+      </file>
+      <file ID="alto_00227_1" MIMETYPE="text/xml" CHECKSUM="2199c5f8a9f5174445eea9fa7ab02f50" CHECKSUMTYPE="MD5" SIZE="30924">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00227_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0101" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="419" lastpage="420">
+              <court pgmap="453" id="b453-11">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="453" id="b453-10">86-10</docketnumber>
+              <citation pgmap="453" id="AhI">706 S.W.2d 179</citation>
+              <parties pgmap="453" id="b453-9">Roosevelt HAYES v. A.L. LOCKHART, Director, Arkansas Department of Correction</parties>
+              <decisiondate pgmap="453" id="AU0">Opinion delivered March 24, 1986</decisiondate>
+              <judges pgmap="454" id="b454-8">Purtle, J., not participating.</judges>
+              <attorneys pgmap="453" id="b453-15">Appellant, pro se.</attorneys>
+              <attorneys pgmap="453" id="b453-16">No response.</attorneys>
+              <opinion type="majority">
+                <author pgmap="453" id="b453-17">Per Curiam.</author>
+                <p pgmap="453" id="ARNe">In this motion appellant, an inmate of the Arkansas Department of Correction, requests appointment of counsel to represent him in the appeal of the denial of a civil motion for declaratory judgment against the Director of the Department of Correction. He bases his motion for counsel on the unavailability of typewriters at the prison, which precludes his submitting a typed brief as required by our rules.</p>
+                <p pgmap="453(24) 454(8)" id="b453-18">
+                   The motion is denied. The appeal is civil in nature, and there is no absolute right to counsel in a civil action. Virgin v. Lockhart, 288 Ark. 92, 702 S.W.2d 9 (1986).</p>
+                <p pgmap="454" id="b454-6">
+                   If the lack of a typewriter is hindering appellant’s access to this Court, he may seek permission to proceed pro se with a handwritten brief. As we said in Glick v. Lockhart, 288 Ark. 417, 706 S.W.2d 178 (1986), which was also decided today, permission to file a handwritten brief will be granted upon proper motion if appellant makes a substantial showing that his suit has merit and that he is unable to submit a typed brief.</p>
+                <p pgmap="454" id="b454-7">Motion denied.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="453" ORDERLABEL="419" TYPE="page">
+        <fptr FILEID="tiff_00227_0"/>
+        <fptr FILEID="jp2_00227_0"/>
+        <fptr FILEID="alto_00227_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_453.3" BETYPE="IDREF" FILEID="alto_00227_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="454" ORDERLABEL="420" TYPE="page">
+        <fptr FILEID="tiff_00227_1"/>
+        <fptr FILEID="jp2_00227_1"/>
+        <fptr FILEID="alto_00227_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_454.2" BETYPE="IDREF" FILEID="alto_00227_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AhI" BETYPE="IDREF" FILEID="casebody_0101"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_453.10" BETYPE="IDREF" FILEID="alto_00227_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ARNe" BETYPE="IDREF" FILEID="casebody_0101"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_453.20" BETYPE="IDREF" FILEID="alto_00227_0"/>
+            <area BEGIN="BL_453.21" BETYPE="IDREF" FILEID="alto_00227_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b454-6" BETYPE="IDREF" FILEID="casebody_0101"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_454.4" BETYPE="IDREF" FILEID="alto_00227_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b454-7" BETYPE="IDREF" FILEID="casebody_0101"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_454.5" BETYPE="IDREF" FILEID="alto_00227_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b453-10" BETYPE="IDREF" FILEID="casebody_0101"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_453.9" BETYPE="IDREF" FILEID="alto_00227_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b453-11" BETYPE="IDREF" FILEID="casebody_0101"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_453.11" BETYPE="IDREF" FILEID="alto_00227_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b453-15" BETYPE="IDREF" FILEID="casebody_0101"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_453.17" BETYPE="IDREF" FILEID="alto_00227_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b453-16" BETYPE="IDREF" FILEID="casebody_0101"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_453.18" BETYPE="IDREF" FILEID="alto_00227_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b453-17" BETYPE="IDREF" FILEID="casebody_0101"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_453.19" BETYPE="IDREF" FILEID="alto_00227_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b453-18" BETYPE="IDREF" FILEID="casebody_0101"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_453.22" BETYPE="IDREF" FILEID="alto_00227_0"/>
+            <area BEGIN="BL_454.1" BETYPE="IDREF" FILEID="alto_00227_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b453-9" BETYPE="IDREF" FILEID="casebody_0101"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_453.8" BETYPE="IDREF" FILEID="alto_00227_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b454-8" BETYPE="IDREF" FILEID="casebody_0101"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_454.6" BETYPE="IDREF" FILEID="alto_00227_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AU0" BETYPE="IDREF" FILEID="casebody_0101"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_453.12" BETYPE="IDREF" FILEID="alto_00227_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

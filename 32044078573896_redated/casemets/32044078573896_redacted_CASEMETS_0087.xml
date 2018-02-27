@@ -1,0 +1,364 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0087" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Kent v. Wells">Kent vs. Wells et al.</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 411</citation>
+          <decisiondate>1860-07</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00207_0" MIMETYPE="image/tiff" CHECKSUM="0af71b9b4b593535084d7d8d665886de" CHECKSUMTYPE="MD5" SIZE="34734">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00207_0.tif"/>
+      </file>
+      <file ID="tiff_00207_1" MIMETYPE="image/tiff" CHECKSUM="7a8a1f8b094e1c5100b29d3b9b0fdf17" CHECKSUMTYPE="MD5" SIZE="41176">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00207_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00207_0" MIMETYPE="image/jp2" CHECKSUM="d6770f85d9682878890fa6f0889e1c15" CHECKSUMTYPE="MD5" SIZE="2638018">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00207_0.jp2"/>
+      </file>
+      <file ID="jp2_00207_1" MIMETYPE="image/jp2" CHECKSUM="3c9b4b2adbe4d12a1d3b982d6d0c93ac" CHECKSUMTYPE="MD5" SIZE="2669658">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00207_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00207_0" MIMETYPE="text/xml" CHECKSUM="d851402047205928b88d51d3a51f8edb" CHECKSUMTYPE="MD5" SIZE="73081">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00207_0.xml"/>
+      </file>
+      <file ID="alto_00207_1" MIMETYPE="text/xml" CHECKSUM="d7a8e8891ee363ebe4b975ff6a1a0030" CHECKSUMTYPE="MD5" SIZE="77868">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00207_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0087" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="412" firstpage="411">
+              <parties id="b413-4" pgmap="413">Kent vs. Wells et al.</parties>
+              <attorneys id="b413-9" pgmap="413">Harrison, for the plaintiff.</attorneys>
+              <attorneys id="b413-11" pgmap="413">Winter, for the defendant,</attorneys>
+              <summary id="b413-7" pgmap="413">Writ of Error to Drew Circuit Court.</summary>
+              <summary id="b413-8" pgmap="413">Hon. John C. Murray, Circuit Judge.</summary>
+              <summary id="b413-10" pgmap="413">By our statute joint obligations and contracts are to be con­strued to have the same effect as joint and several obligations’, and may be sued on and recoveries had thereon in like manner. Goulds Dig., ch. 94, sec. 3; ch. 133, sec. 6o; 19 Ark. 701; 6 Eng. 320. The demurrer to the plea should, therefore, have been overruled.</summary>
+              <summary id="ADH" pgmap="413">contended that the court did not erv in overruling the demurrer to the plea, and referred to Rice vs. Shute, 5 Bur. 2611; 1 Peter 311; 3 Har. 4&gt; J. 73; 2 Ear. Sr Gill 274; that the plaintiff, in setting out the contract in his declaration, was bound to set out the names of all the obligors —those not sued as well as those made party defendants. 2 Ch. PL 116; 1 Eng. 196; 19 Ark. 702.</summary>
+              <headnotes id="b413-5" pgmap="413">Upon a joint and several contract executed by a partnership firm, the payee may sue all or any of the partners; and it is no defence to the action that one of the mem­bers of the firm is not sued.</headnotes>
+              <headnotes id="b413-6" pgmap="413">In a suit against one or more of several partners, the allegation in the declaration, that they were late partners, is not a material matter: nor is it material to state that there was another member of the firm not sued.</headnotes>
+              <opinion type="majority">
+                <author id="Ad" pgmap="413">Mr. Chief Justice English</author>
+                <p id="AQ1" pgmap="413">delivered the opinion of the Court.</p>
+                <p id="b413-13" pgmap="413">The declaration in this case commenced thus:</p>
+                <blockquote id="b413-14" pgmap="413(20) 414(51)">“ Henry Kent, plaintiff, by attorney, complains of William H. Wells, Stephen Gaster and Charles W. Millerd, late partners in trade, under the firm name and style of W. II. Wells &amp; Co., defendants,” &amp;c., and contained two counts, one upon a note alleged to have been made by the defendants, without stating the manner of its execution: whether by the firm name, or otherwise; the other upon an account stated.</blockquote>
+                <p id="b414-6" pgmap="414">The defendants interposed a plea in abatement: that no such partnership as William II. Wells, Stephen Gaster and Charles W. Millerd, under the name and style of W. H. Wells &amp; Co., ever existed, and as such partners they never executed the note sued on, but that the defendants and one Alexander B. Hale constituted the partnership firm of W. H. Wells &amp; Co., and, as such last mentioned partnership, they executed the note sued on.</p>
+                <p id="b414-7" pgmap="414">The plaintiff demurred to the plea, the court overruled the demurrer, and he rested, permitted final judgment to be given, and brought error.</p>
+                <p id="b414-8" pgmap="414">The contract declared on being joint and several, the plain­tiff, under the statute, had the right to sue part, or all of the partners, at his election. The substance of the plea in abate­ment is, that one of the partners and makers of the note was not sued. This was no defence to the action. The declaration alleges that the defendants made the note, and this was the material matcer to be answered. The allegation in the com­mencement of the declaration, that they were late partners, was not a material matter, (Swinney et al. vs. Burnside &amp; Co. 17 Ark. 38); nor was it material to state in the declaration that there was another member of the firm, and maker of the note, who was not sued. Hicks et al. vs. Branton et al., M. S. S.</p>
+                <p id="b414-9" pgmap="414">The judgment must be reversed, and the cause remanded, with instructions to the court below to sustain the demurrer to the plea in abatement, etc.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="413" ORDERLABEL="411" TYPE="page">
+        <fptr FILEID="tiff_00207_0"/>
+        <fptr FILEID="jp2_00207_0"/>
+        <fptr FILEID="alto_00207_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_413.2" BETYPE="IDREF" FILEID="alto_00207_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_413.1" BETYPE="IDREF" FILEID="alto_00207_0"/>
+              <area BEGIN="BL_413.3" BETYPE="IDREF" FILEID="alto_00207_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="414" ORDERLABEL="412" TYPE="page">
+        <fptr FILEID="tiff_00207_1"/>
+        <fptr FILEID="jp2_00207_1"/>
+        <fptr FILEID="alto_00207_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_414.2" BETYPE="IDREF" FILEID="alto_00207_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_414.3" BETYPE="IDREF" FILEID="alto_00207_1"/>
+              <area BEGIN="BL_414.4" BETYPE="IDREF" FILEID="alto_00207_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b413-6" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_413.6" BETYPE="IDREF" FILEID="alto_00207_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b413-7" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_413.7" BETYPE="IDREF" FILEID="alto_00207_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b413-4" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_413.4" BETYPE="IDREF" FILEID="alto_00207_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b413-5" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_413.5" BETYPE="IDREF" FILEID="alto_00207_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AQ1" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_413.15" BETYPE="IDREF" FILEID="alto_00207_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b413-8" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_413.8" BETYPE="IDREF" FILEID="alto_00207_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b413-9" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_413.9" BETYPE="IDREF" FILEID="alto_00207_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ad" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_413.14" BETYPE="IDREF" FILEID="alto_00207_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b414-8" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_414.7" BETYPE="IDREF" FILEID="alto_00207_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b413-14" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_413.17" BETYPE="IDREF" FILEID="alto_00207_0"/>
+            <area BEGIN="BL_414.1" BETYPE="IDREF" FILEID="alto_00207_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b413-10" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_413.10" BETYPE="IDREF" FILEID="alto_00207_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b413-11" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_413.11" BETYPE="IDREF" FILEID="alto_00207_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b413-13" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_413.16" BETYPE="IDREF" FILEID="alto_00207_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b414-9" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_414.8" BETYPE="IDREF" FILEID="alto_00207_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ADH" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_413.12" BETYPE="IDREF" FILEID="alto_00207_0"/>
+            <area BEGIN="BL_413.13" BETYPE="IDREF" FILEID="alto_00207_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b414-7" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_414.6" BETYPE="IDREF" FILEID="alto_00207_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b414-6" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_414.5" BETYPE="IDREF" FILEID="alto_00207_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

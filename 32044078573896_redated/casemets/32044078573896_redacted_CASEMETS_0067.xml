@@ -1,0 +1,586 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0067" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Hirsch v. Hirsch">Hirsch vs. Hirsch</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 342</citation>
+          <decisiondate>1860-07</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00172_1" MIMETYPE="image/tiff" CHECKSUM="865f7bc0a182d307660d1ac6299ab530" CHECKSUMTYPE="MD5" SIZE="36974">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00172_1.tif"/>
+      </file>
+      <file ID="tiff_00173_0" MIMETYPE="image/tiff" CHECKSUM="32ef47da314aba8bcf41d8291ac63845" CHECKSUMTYPE="MD5" SIZE="47372">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00173_0.tif"/>
+      </file>
+      <file ID="tiff_00173_1" MIMETYPE="image/tiff" CHECKSUM="b34eaf44e1e627f2018a325cec38c417" CHECKSUMTYPE="MD5" SIZE="49394">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00173_1.tif"/>
+      </file>
+      <file ID="tiff_00174_0" MIMETYPE="image/tiff" CHECKSUM="1885fd9a4a977de5286583458e65d658" CHECKSUMTYPE="MD5" SIZE="48546">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00174_0.tif"/>
+      </file>
+      <file ID="tiff_00174_1" MIMETYPE="image/tiff" CHECKSUM="3fdebfa51737b69eb13e190e03876895" CHECKSUMTYPE="MD5" SIZE="36020">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00174_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00172_1" MIMETYPE="image/jp2" CHECKSUM="a10f0e2c3d72ce596be04dce8e639f03" CHECKSUMTYPE="MD5" SIZE="2464294">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00172_1.jp2"/>
+      </file>
+      <file ID="jp2_00173_0" MIMETYPE="image/jp2" CHECKSUM="b6604aa76aed452425e65d350136f6b3" CHECKSUMTYPE="MD5" SIZE="2938316">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00173_0.jp2"/>
+      </file>
+      <file ID="jp2_00173_1" MIMETYPE="image/jp2" CHECKSUM="08268a1091f706a2e0b32a50781f4de9" CHECKSUMTYPE="MD5" SIZE="2487617">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00173_1.jp2"/>
+      </file>
+      <file ID="jp2_00174_0" MIMETYPE="image/jp2" CHECKSUM="c1a2dc4df96766977552f6f424f19598" CHECKSUMTYPE="MD5" SIZE="2604816">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00174_0.jp2"/>
+      </file>
+      <file ID="jp2_00174_1" MIMETYPE="image/jp2" CHECKSUM="324ef9491420e84a8e39fa162291838d" CHECKSUMTYPE="MD5" SIZE="2503867">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00174_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00172_1" MIMETYPE="text/xml" CHECKSUM="0d4f8aa16089e47583b16457351ea1fa" CHECKSUMTYPE="MD5" SIZE="73034">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00172_1.xml"/>
+      </file>
+      <file ID="alto_00173_0" MIMETYPE="text/xml" CHECKSUM="9c9d5de6240a7d63da4b3de9503bbb5b" CHECKSUMTYPE="MD5" SIZE="85950">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00173_0.xml"/>
+      </file>
+      <file ID="alto_00173_1" MIMETYPE="text/xml" CHECKSUM="0531e2092475dccb09a061b43221d248" CHECKSUMTYPE="MD5" SIZE="87443">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00173_1.xml"/>
+      </file>
+      <file ID="alto_00174_0" MIMETYPE="text/xml" CHECKSUM="fbd2dfbabc58e0fd80f0071f6d155ea5" CHECKSUMTYPE="MD5" SIZE="91334">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00174_0.xml"/>
+      </file>
+      <file ID="alto_00174_1" MIMETYPE="text/xml" CHECKSUM="7a538b3b42da67e9b0dc1810117d1f7d" CHECKSUMTYPE="MD5" SIZE="70033">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00174_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0067" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="346" firstpage="342">
+              <parties id="b344-5" pgmap="344">Hirsch vs. Hirsch.</parties>
+              <judges id="b348-8" pgmap="348">Mr. Justice Fairchild did not sit in this case.</judges>
+              <attorneys id="b344-10" pgmap="344">Stillwell &amp; Woodruff, for the appellant,</attorneys>
+              <attorneys id="b344-12" pgmap="344">Fairchild, for the appellee.</attorneys>
+              <summary id="b344-8" pgmap="344">Appeal from Independence Circuit Couit in Chancery.</summary>
+              <summary id="b344-9" pgmap="344">Hon. William C. Bevens, Circuit Judge.</summary>
+              <summary id="b344-11" pgmap="344">Contended that the court erred in striking the amended bill from the files: that if the amendment contained no new matter strengthening the complainant, it could only be met by demur­rer. But that it was not demurrable, because it charged a fraud upon the defendant, in obtaining his interest in the part­nership for a merely nominal consideration, and his failure to comply with the agreement which constituted the inducement to make the sale: that the court ought to have had an account of the partnership profits taken, and that out of which the complainant had been defrauded, restored to him.</summary>
+              <summary id="b344-13" pgmap="344">Making no question now, upon the legal effect of the agree­ment made in writing, exhibited with the bill, it is submitted that a breach of that promise cannot uphold the bill.</summary>
+              <summary id="b345-5" pgmap="345">If the complainant has sustained any damage on account of the breach of the contract, he must make his complaint in a court of law, that has the means of ascertaining, of assessing his damages, of subjecting Aaron Hirsch’s property to the pay­ment of such damages; that has, in short, exclusive general jurisdiction of the breaches of contracts, and of the consequent damages. A court of chancery will not annul a contract because one of its parties has failed to comply with one of its provisions, when no reason is shown why adequate compensa­tion therefor cannot be made in damages, and when it does appear that the influence of chancery would affect the rights and interests of a person who was not a party to the contract.</summary>
+              <summary id="b345-6" pgmap="345">The facts of the bill negative any fraud of Aaron Hirsch, in making the purchase. It will not do for Sam. Hirsch to com­plain that he is defrauded because Aaron has not performed his agreement, as a subsequent violation of a promise can be no more than a breach of promise — and not a fraud for which a court of chancery can decree the rescisión of the contract. Dugan vs. Cureton, 1 Ark. 42.</summary>
+              <headnotes id="b344-6" pgmap="344">W here one of several partners sells his partnership interest to a co-partner, who enters into an agreement with him not to do business with a third partner, a non­compliance with such agreement does not so affect the sale with fraud as to authorize a court of equity to rescind: nor would a misrepresentation as to the validity of such agreement constitute a fraud for which a court of equity would rescind the contract of sale.</headnotes>
+              <headnotes id="b344-7" pgmap="344">Where a complainant files an amended bill, which would not authorize a decree, and to which the court might well sustain a demurrer, although it is not precisely regu­lar to take it from the files, this court will not reverse the decree for such cause, where the complainant is not prejudiced.</headnotes>
+              <opinion type="majority">
+                <author id="b345-7" pgmap="345">Hon. Harris Flanagin, Special Judge,</author>
+                <p id="A0d" pgmap="345">delivered the opinion of the court.</p>
+                <p id="b345-8" pgmap="345">This is a bill in chancery, filed in January, 1857, by appel­lant, against appellee and Israel H. Adler. For a synopsis of bill, see Hirsch vs. Adler, just decided.</p>
+                <p id="b345-9" pgmap="345">In March, 1857, the appellee filed his answer to the follow­ing effect:</p>
+                <p id="b345-10" pgmap="345(87) 346(194)">Says, the partnership of Hirsch, Adler &amp; Co. commenced in 1852, and continued until August, 1856. Denies .that appel­lant put eighteen hundred dollars in the partnership, or more than three hundred dollars; denies that complainant was much urged and solicited to become a partner. The partnership was dissolved by mutual consent, in August, 1856; bought appellant’s interest, for which he gave twenty-five hundred dollars; com­plainant sold his entire interest, and defendant was to assume all the debts of the firm and release complainant’s account of about one thousand dollars to the firm: denies that he bought on any other consideration than is in the bill of sale: admits that he executed the paper marked A., but denies that it was any part of the consideration, or that he made any representations, such as arc charged: did not believe the paper would bind him not to become Adler’s partner. The paper was not drawn' under the direction of appellee, but under the directions of appellant. After the sale, and after the bill of sale had been executed, appellant procured an attorney to prepare an assurance, which was done, and complainant being dissatisfied with it, another was prepared under complainant’s special directions. Denies that it was a part of the consideration for the sale. Exhibit A was given without consideration. Defendant has paid five hundred dollars on the thousand dollar note, and gave a new note for the balance, which has been sold by complainant. Denies ail fraud. He gave as much as he would have given any person for the property purchased, without reference to Exhibit A. Admits that he has formed partnership.as charged with Israel II. Adler, his co-defendant.</p>
+                <p id="b346-6" pgmap="346">Attached to the answer is a demurrer, which reaches all parts of the bill not answered.</p>
+                <p id="b346-7" pgmap="346">To the answer is annexed the bill of sale from appellant to appellee, marked Exhibit B., which is for the expressed consid­eration of twenty-five hundred dollars, and conveys all of appellant’s interest to Aaron Hirsch, and in which it is stipulated that appellee and Israel II. Acller shall pay all the debts.</p>
+                <p id="b346-8" pgmap="346">The demurrer was sustained, and complainant excepted: complainant took leave to amend his bill, and defendant excepted.</p>
+                <p id="b346-9" pgmap="346">Afterwards, the appellant filed his amended bill, at the Sep­tember term, A. D. 1859, and moved the court to take said bill as confessed for want of an answer, and the defendant moved the court to take said amended bill from the files.</p>
+                <p id="b346-10" pgmap="346(32) 347(18)">The gravamen of the original bill is, that the defendant made a contract not to do business as a partner with Adler, and had not complied with it, and complainant therefore seeks to have the contract for the sale of appellant’s interest rescinded for fraud in the making of it.</p>
+                <p id="b347-5" pgmap="347">The complainant does not allege that Aaron Hirsch made any representations about the value of Samuel Hirsch’s inter­est, nor that Aaron Hirsch ever desired to buy his interest, nor that he wished him to retire from the partnership, nor that he suggested or desired that his abandoning any connection with Aaron Hirsch in business, should be made a contract and part consideration of the sale from Samuel Hirsch to Aaron Hirsch. On the contrary, Samuel Hirsch seems to have been acquainted with the business, and Aaron declined when Samuel proposed a dissolution, and it was only on a second application that he consented to buy, and that Samuel Hirsch well knew that Aaron Hirsch was satisfied with his connection with Adler, and desired that it should continue as before. He does not directly charge that there was fraud in the inception of the contract, but that if the exhibit did not bind Aaron Hirsch, then he had procured the contract by fraud.</p>
+                <p id="b347-6" pgmap="347">This is making the fraud to depend on a process of reason­ing, which the court do not understand. In the amended bill the appellant does not improve his case. He says that Aaron Hirsch was book keeper, and well knew the amount of assets^ and that he had confidence in Aaron, and therefore did not keep accounts himself of the sales and transactions; but he does not say that he had not access to the books, nor that his brother Aaron misrepresented the condition of the business, or that there was any thing unfair or unusual in his conduct in this respect.</p>
+                <p id="b347-7" pgmap="347">He alleges that Aaron Hirsch fraudulently did not keep his contract, but this is not alone a sufficient reason to go into a court of chancery to set it aside, no more than that he fraudu­lently neglected to pay the note, or perform any other stipula­tion to be performed in the future.</p>
+                <p id="b347-8" pgmap="347(35) 348(118)">The bill charges that he made a contract and reduced it to writing without any facts to show any unusual confidence on the part of Samuel Hirsch, and with facts to show that he, Samuel, acted for himself, upon his own judgment, against the expressed wishes, of Aaron, which contract may, or may not be binding upon him, and that he represented it as binding him. It does not appear that one party had better opportunity of judging than the other of the validity of the contract. A misrepresen­tation under these circumstances, is not such a fraud as will avoid a contract, since every person is supposed to know the legal effect of an instrument of writing, and therefore has no right to rely upon the statements of the other party. Lewis vs. Jones, 4 Barn. &amp; Cress. 506; Russell vs. Bonham 8 Blackf. 277; and Starr vs. Bennet, 5 Hill, 303.</p>
+                <p id="b348-5" pgmap="348">The judgment of the court is not asked whether the instru­ment is a valid and binding one. If it be a valid instrument then the complainant would have his remedy at law on it. If it be not valid because it is against public policy, then the complainant may go into chancery in this particular case, if necessary, in order to recover back the consideration paid, but we are clear that the bill does not allege such fraud as will justify a rescisión of the contract, and that the amended bill does not strengthen the complainant’s case.</p>
+                <p id="b348-6" pgmap="348">The court below had the power to compel the complainant to file such an amended bill as would justify relief, and might well sustain .a demurrer to a bill which would not authorize a decree. Although, to take the bill from the files is not precisely regular, the appellant is not prejudiced.</p>
+                <p id="b348-7" pgmap="348">Let the decree be affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="344" ORDERLABEL="342" TYPE="page">
+        <fptr FILEID="tiff_00172_1"/>
+        <fptr FILEID="jp2_00172_1"/>
+        <fptr FILEID="alto_00172_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_344.1" BETYPE="IDREF" FILEID="alto_00172_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_344.2" BETYPE="IDREF" FILEID="alto_00172_1"/>
+              <area BEGIN="BL_344.3" BETYPE="IDREF" FILEID="alto_00172_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="345" ORDERLABEL="343" TYPE="page">
+        <fptr FILEID="tiff_00173_0"/>
+        <fptr FILEID="jp2_00173_0"/>
+        <fptr FILEID="alto_00173_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_345.2" BETYPE="IDREF" FILEID="alto_00173_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_345.1" BETYPE="IDREF" FILEID="alto_00173_0"/>
+              <area BEGIN="BL_345.3" BETYPE="IDREF" FILEID="alto_00173_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="346" ORDERLABEL="344" TYPE="page">
+        <fptr FILEID="tiff_00173_1"/>
+        <fptr FILEID="jp2_00173_1"/>
+        <fptr FILEID="alto_00173_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_346.2" BETYPE="IDREF" FILEID="alto_00173_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_346.3" BETYPE="IDREF" FILEID="alto_00173_1"/>
+              <area BEGIN="BL_346.4" BETYPE="IDREF" FILEID="alto_00173_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="347" ORDERLABEL="345" TYPE="page">
+        <fptr FILEID="tiff_00174_0"/>
+        <fptr FILEID="jp2_00174_0"/>
+        <fptr FILEID="alto_00174_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_347.3" BETYPE="IDREF" FILEID="alto_00174_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_347.2" BETYPE="IDREF" FILEID="alto_00174_0"/>
+              <area BEGIN="BL_347.4" BETYPE="IDREF" FILEID="alto_00174_0"/>
+              <area BEGIN="BL_347.9" BETYPE="IDREF" FILEID="alto_00174_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="348" ORDERLABEL="346" TYPE="page">
+        <fptr FILEID="tiff_00174_1"/>
+        <fptr FILEID="jp2_00174_1"/>
+        <fptr FILEID="alto_00174_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_348.2" BETYPE="IDREF" FILEID="alto_00174_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_348.3" BETYPE="IDREF" FILEID="alto_00174_1"/>
+              <area BEGIN="BL_348.4" BETYPE="IDREF" FILEID="alto_00174_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b344-9" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_344.8" BETYPE="IDREF" FILEID="alto_00172_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b344-8" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_344.7" BETYPE="IDREF" FILEID="alto_00172_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b346-9" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_346.8" BETYPE="IDREF" FILEID="alto_00173_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b346-8" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_346.7" BETYPE="IDREF" FILEID="alto_00173_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b346-7" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_346.6" BETYPE="IDREF" FILEID="alto_00173_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b346-6" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_346.5" BETYPE="IDREF" FILEID="alto_00173_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b344-5" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_344.4" BETYPE="IDREF" FILEID="alto_00172_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b344-7" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_344.6" BETYPE="IDREF" FILEID="alto_00172_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b344-6" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_344.5" BETYPE="IDREF" FILEID="alto_00172_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b348-5" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_348.5" BETYPE="IDREF" FILEID="alto_00174_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b345-5" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_345.4" BETYPE="IDREF" FILEID="alto_00173_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b345-6" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_345.5" BETYPE="IDREF" FILEID="alto_00173_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b345-7" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_345.6" BETYPE="IDREF" FILEID="alto_00173_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b347-6" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_347.6" BETYPE="IDREF" FILEID="alto_00174_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b347-7" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_347.7" BETYPE="IDREF" FILEID="alto_00174_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b347-5" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_347.5" BETYPE="IDREF" FILEID="alto_00174_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b347-8" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_347.8" BETYPE="IDREF" FILEID="alto_00174_0"/>
+            <area BEGIN="BL_348.1" BETYPE="IDREF" FILEID="alto_00174_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b346-10" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_346.9" BETYPE="IDREF" FILEID="alto_00173_1"/>
+            <area BEGIN="BL_347.1" BETYPE="IDREF" FILEID="alto_00174_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b345-8" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_345.9" BETYPE="IDREF" FILEID="alto_00173_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b345-9" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_345.10" BETYPE="IDREF" FILEID="alto_00173_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b348-7" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_348.7" BETYPE="IDREF" FILEID="alto_00174_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b345-10" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_345.11" BETYPE="IDREF" FILEID="alto_00173_0"/>
+            <area BEGIN="BL_346.1" BETYPE="IDREF" FILEID="alto_00173_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b348-8" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_348.8" BETYPE="IDREF" FILEID="alto_00174_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b348-6" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_348.6" BETYPE="IDREF" FILEID="alto_00174_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A0d" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_345.7" BETYPE="IDREF" FILEID="alto_00173_0"/>
+            <area BEGIN="BL_345.8" BETYPE="IDREF" FILEID="alto_00173_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b344-11" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_344.10" BETYPE="IDREF" FILEID="alto_00172_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b344-10" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_344.9" BETYPE="IDREF" FILEID="alto_00172_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b344-13" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_344.12" BETYPE="IDREF" FILEID="alto_00172_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b344-12" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_344.11" BETYPE="IDREF" FILEID="alto_00172_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

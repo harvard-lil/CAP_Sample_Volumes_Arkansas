@@ -1,0 +1,325 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0031" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="State v. Herrington">The State vs. Herrington</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 195</citation>
+          <decisiondate>1860-01</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00099_0" MIMETYPE="image/tiff" CHECKSUM="15d9dafeab9b70c0c192b8a4e40e2588" CHECKSUMTYPE="MD5" SIZE="23056">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00099_0.tif"/>
+      </file>
+      <file ID="tiff_00099_1" MIMETYPE="image/tiff" CHECKSUM="9300e371ef89dcc493a62a7d19e8e1f5" CHECKSUMTYPE="MD5" SIZE="26978">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00099_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00099_0" MIMETYPE="image/jp2" CHECKSUM="2b7728d9f402cfe120b03537512632c2" CHECKSUMTYPE="MD5" SIZE="2459206">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00099_0.jp2"/>
+      </file>
+      <file ID="jp2_00099_1" MIMETYPE="image/jp2" CHECKSUM="d307a24690f7ca3e49538faec8e140d0" CHECKSUMTYPE="MD5" SIZE="2470831">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00099_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00099_0" MIMETYPE="text/xml" CHECKSUM="2d357f44327ddccb03b178a3fdacf394" CHECKSUMTYPE="MD5" SIZE="38212">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00099_0.xml"/>
+      </file>
+      <file ID="alto_00099_1" MIMETYPE="text/xml" CHECKSUM="1e67515861c7df0d840ed25936d466fc" CHECKSUMTYPE="MD5" SIZE="47172">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00099_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0031" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="196" firstpage="195">
+              <parties id="b197-8" pgmap="197">The State vs. Herrington.</parties>
+              <attorneys id="b197-12" pgmap="197">Mr. Attorney General Hóllowell, for the State.</attorneys>
+              <summary id="b197-10" pgmap="197">Appeal from Cranford Circuit Court.</summary>
+              <summary id="b197-11" pgmap="197">Hon. John M. Wilson, .Circuit Judge.</summary>
+              <headnotes id="b197-9" pgmap="197">Vulgar language, however offensive, does not justify an assault and battery, though it may be considered by the jury in mitigation of the fine.</headnotes>
+              <opinion type="majority">
+                <author id="b197-13" pgmap="197">Mr. Justice Compton</author>
+                <p id="A6C" pgmap="197">delivered the opinion of the Court.</p>
+                <p id="b197-14" pgmap="197">The defendant, Herrington, was indicted in the Crawford Circuit Court for an assault and battery upon one West.</p>
+                <p id="b198-4" pgmap="198">At the trial the defendant was acquitted, and the case comes before us on exceptions taken to the decision of the court over­ruling the State’s motion for a new trial.</p>
+                <p id="b198-5" pgmap="198">The only question presented for our determination is, whether the verdict of the jury was warranted by the testimony.</p>
+                <p id="b198-6" pgmap="198">It appears that West, the party injured, in a spirit of jest, indulged in pranks and vulgar language, which were offensive and annoying to the defendant, who, in consequence thereof, became exasperated, and inflicted a severe blow upon West with an iron wedge.</p>
+                <p id="b198-7" pgmap="198">Although the language and deportment of West, as stated in the bill of exceptions, were in the highest degree reprehensible, and well calculated to provoke violence on the part of the defendant, who was quite an old man. yet they did not justify an assault, and could only be considered by the jury in mitiga­tion of the fine.</p>
+                <p id="b198-8" pgmap="198">There being no evidence whatever, as appears by the record, to support the finding of the jury, the judgment must be reversed, and the cause remanded for further proceedings.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="197" ORDERLABEL="195" TYPE="page">
+        <fptr FILEID="tiff_00099_0"/>
+        <fptr FILEID="jp2_00099_0"/>
+        <fptr FILEID="alto_00099_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_197.3" BETYPE="IDREF" FILEID="alto_00099_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_197.2" BETYPE="IDREF" FILEID="alto_00099_0"/>
+              <area BEGIN="BL_197.4" BETYPE="IDREF" FILEID="alto_00099_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_197.7" BETYPE="IDREF" FILEID="alto_00099_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="198" ORDERLABEL="196" TYPE="page">
+        <fptr FILEID="tiff_00099_1"/>
+        <fptr FILEID="jp2_00099_1"/>
+        <fptr FILEID="alto_00099_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_198.1" BETYPE="IDREF" FILEID="alto_00099_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_198.2" BETYPE="IDREF" FILEID="alto_00099_1"/>
+              <area BEGIN="BL_198.3" BETYPE="IDREF" FILEID="alto_00099_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A6C" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_197.14" BETYPE="IDREF" FILEID="alto_00099_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b197-9" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_197.9" BETYPE="IDREF" FILEID="alto_00099_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b197-8" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_197.8" BETYPE="IDREF" FILEID="alto_00099_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b197-14" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_197.15" BETYPE="IDREF" FILEID="alto_00099_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b197-13" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_197.13" BETYPE="IDREF" FILEID="alto_00099_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b197-12" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_197.12" BETYPE="IDREF" FILEID="alto_00099_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b197-11" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_197.11" BETYPE="IDREF" FILEID="alto_00099_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b197-10" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_197.10" BETYPE="IDREF" FILEID="alto_00099_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b198-4" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_198.4" BETYPE="IDREF" FILEID="alto_00099_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b198-5" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_198.5" BETYPE="IDREF" FILEID="alto_00099_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b198-6" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_198.6" BETYPE="IDREF" FILEID="alto_00099_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b198-7" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_198.7" BETYPE="IDREF" FILEID="alto_00099_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b198-8" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_198.8" BETYPE="IDREF" FILEID="alto_00099_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

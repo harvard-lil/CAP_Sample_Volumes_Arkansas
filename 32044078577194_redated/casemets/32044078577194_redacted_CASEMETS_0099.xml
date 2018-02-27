@@ -1,0 +1,900 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0099" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Richardson v. State">Avery Nathan RICHARDSON v. STATE of Arkansas</name>
+          <docketnumber>CR 85-197</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 407</citation>
+          <citation category="parallel" type="bluebook">706 S.W.2d 363</citation>
+          <decisiondate>1986-03-24</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:00Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00221_0" MIMETYPE="image/tiff" CHECKSUM="5e6bd59028a1112edc3843d96340f123" CHECKSUMTYPE="MD5" SIZE="9314">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00221_0.tif"/>
+      </file>
+      <file ID="tiff_00221_1" MIMETYPE="image/tiff" CHECKSUM="63ea01200a0b046a125967a1364b684e" CHECKSUMTYPE="MD5" SIZE="16426">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00221_1.tif"/>
+      </file>
+      <file ID="tiff_00222_0" MIMETYPE="image/tiff" CHECKSUM="ce13652021f862d72f81bbbc92e3a582" CHECKSUMTYPE="MD5" SIZE="56782">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00222_0.tif"/>
+      </file>
+      <file ID="tiff_00222_1" MIMETYPE="image/tiff" CHECKSUM="8bcc8cb55cdec25a4cfbf39a564ecbab" CHECKSUMTYPE="MD5" SIZE="49802">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00222_1.tif"/>
+      </file>
+      <file ID="tiff_00223_0" MIMETYPE="image/tiff" CHECKSUM="a4ff0f721368426b291797fc43ec551a" CHECKSUMTYPE="MD5" SIZE="57154">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00223_0.tif"/>
+      </file>
+      <file ID="tiff_00223_1" MIMETYPE="image/tiff" CHECKSUM="0a645ecff2a58ff2f9823e597a3beb55" CHECKSUMTYPE="MD5" SIZE="54650">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00223_1.tif"/>
+      </file>
+      <file ID="tiff_00224_0" MIMETYPE="image/tiff" CHECKSUM="6a5ef11966addcb3cc904189540e1469" CHECKSUMTYPE="MD5" SIZE="55552">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00224_0.tif"/>
+      </file>
+      <file ID="tiff_00224_1" MIMETYPE="image/tiff" CHECKSUM="7927bb8623a317e54e91ec927305bd62" CHECKSUMTYPE="MD5" SIZE="52020">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00224_1.tif"/>
+      </file>
+      <file ID="tiff_00225_0" MIMETYPE="image/tiff" CHECKSUM="8a83a46304c4ce32abdda30d563eba48" CHECKSUMTYPE="MD5" SIZE="51474">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00225_0.tif"/>
+      </file>
+      <file ID="tiff_00225_1" MIMETYPE="image/tiff" CHECKSUM="54f40818442f5462df1427c4f217a9e4" CHECKSUMTYPE="MD5" SIZE="57110">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00225_1.tif"/>
+      </file>
+      <file ID="tiff_00226_0" MIMETYPE="image/tiff" CHECKSUM="c735f0dbf1095ee91745bc553a8a0e2b" CHECKSUMTYPE="MD5" SIZE="35672">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00226_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00221_0" MIMETYPE="image/jp2" CHECKSUM="6ce6ced4e400e7a2f3f7d286ee13d7fb" CHECKSUMTYPE="MD5" SIZE="1367971">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00221_0.jp2"/>
+      </file>
+      <file ID="jp2_00221_1" MIMETYPE="image/jp2" CHECKSUM="cdcdcdf5502f94620d6898c9bf6650a0" CHECKSUMTYPE="MD5" SIZE="1470253">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00221_1.jp2"/>
+      </file>
+      <file ID="jp2_00222_0" MIMETYPE="image/jp2" CHECKSUM="bfcea7fc06edabc4e94686ada4d2848f" CHECKSUMTYPE="MD5" SIZE="2590664">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00222_0.jp2"/>
+      </file>
+      <file ID="jp2_00222_1" MIMETYPE="image/jp2" CHECKSUM="bcf4936efff022a97ef30f00b932652b" CHECKSUMTYPE="MD5" SIZE="2478918">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00222_1.jp2"/>
+      </file>
+      <file ID="jp2_00223_0" MIMETYPE="image/jp2" CHECKSUM="f2d99eca15e882b831ce5767bdd6fc9a" CHECKSUMTYPE="MD5" SIZE="2562611">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00223_0.jp2"/>
+      </file>
+      <file ID="jp2_00223_1" MIMETYPE="image/jp2" CHECKSUM="f40503fa8256d5c29081d6b76c5a2c04" CHECKSUMTYPE="MD5" SIZE="2559499">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00223_1.jp2"/>
+      </file>
+      <file ID="jp2_00224_0" MIMETYPE="image/jp2" CHECKSUM="1238274380b69bf49dccab6a0a931840" CHECKSUMTYPE="MD5" SIZE="2568850">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00224_0.jp2"/>
+      </file>
+      <file ID="jp2_00224_1" MIMETYPE="image/jp2" CHECKSUM="086d9fc759da6f94edea1007a55a440c" CHECKSUMTYPE="MD5" SIZE="2542499">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00224_1.jp2"/>
+      </file>
+      <file ID="jp2_00225_0" MIMETYPE="image/jp2" CHECKSUM="110b5fd6d57598f5176d93803fb56052" CHECKSUMTYPE="MD5" SIZE="2522515">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00225_0.jp2"/>
+      </file>
+      <file ID="jp2_00225_1" MIMETYPE="image/jp2" CHECKSUM="84661aede8c372468864e49fbb8c3e11" CHECKSUMTYPE="MD5" SIZE="2573596">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00225_1.jp2"/>
+      </file>
+      <file ID="jp2_00226_0" MIMETYPE="image/jp2" CHECKSUM="9b4e2e5fe200d7977245dd7f41cbcee4" CHECKSUMTYPE="MD5" SIZE="2223402">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00226_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00221_0" MIMETYPE="text/xml" CHECKSUM="a0cec30f98f49a53985e38d1dc4fb97e" CHECKSUMTYPE="MD5" SIZE="11786">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00221_0.xml"/>
+      </file>
+      <file ID="alto_00221_1" MIMETYPE="text/xml" CHECKSUM="7a4b79d167371f33148b2dd959cea121" CHECKSUMTYPE="MD5" SIZE="23608">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00221_1.xml"/>
+      </file>
+      <file ID="alto_00222_0" MIMETYPE="text/xml" CHECKSUM="a67780451d41aa923e1033e5db381fdb" CHECKSUMTYPE="MD5" SIZE="90924">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00222_0.xml"/>
+      </file>
+      <file ID="alto_00222_1" MIMETYPE="text/xml" CHECKSUM="44c859b998807f1a7d5fb339dd03165c" CHECKSUMTYPE="MD5" SIZE="84242">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00222_1.xml"/>
+      </file>
+      <file ID="alto_00223_0" MIMETYPE="text/xml" CHECKSUM="64db5972807c3bcc34412345f910bada" CHECKSUMTYPE="MD5" SIZE="96822">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00223_0.xml"/>
+      </file>
+      <file ID="alto_00223_1" MIMETYPE="text/xml" CHECKSUM="a3b18cb31e17e11f3975a6338af02648" CHECKSUMTYPE="MD5" SIZE="93045">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00223_1.xml"/>
+      </file>
+      <file ID="alto_00224_0" MIMETYPE="text/xml" CHECKSUM="fd3cf9ae7e1184da7bf7f456742b1946" CHECKSUMTYPE="MD5" SIZE="94313">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00224_0.xml"/>
+      </file>
+      <file ID="alto_00224_1" MIMETYPE="text/xml" CHECKSUM="217e4efd32218ae043fda78df7017e6e" CHECKSUMTYPE="MD5" SIZE="90061">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00224_1.xml"/>
+      </file>
+      <file ID="alto_00225_0" MIMETYPE="text/xml" CHECKSUM="4526a3cd12e9012a835da296bfc589b9" CHECKSUMTYPE="MD5" SIZE="91515">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00225_0.xml"/>
+      </file>
+      <file ID="alto_00225_1" MIMETYPE="text/xml" CHECKSUM="908fbb8a4a03902ee6590903902f366f" CHECKSUMTYPE="MD5" SIZE="95310">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00225_1.xml"/>
+      </file>
+      <file ID="alto_00226_0" MIMETYPE="text/xml" CHECKSUM="d53829109ae70a45e44743f9087aec68" CHECKSUMTYPE="MD5" SIZE="60035">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00226_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0099" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="407" lastpage="417">
+              <court pgmap="441" id="b441-7">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="441" id="Ava">CR 85-197</docketnumber>
+              <citation pgmap="441" id="ACob">706 S.W.2d 363</citation>
+              <parties pgmap="441" id="b441-6">Avery Nathan RICHARDSON v. STATE of Arkansas</parties>
+              <decisiondate pgmap="441" id="Age">Opinion delivered March 24, 1986</decisiondate>
+              <otherdate pgmap="441" id="AoW">[Rehearing denied April 28, 1986.<footnotemark>*</footnotemark>]</otherdate>
+              <judges pgmap="449" id="b449-6">Purtle, J., not participating.</judges>
+              <judges pgmap="449" id="b449-7">Hickman and Hays, JJ., dissent.</judges>
+              <judges pgmap="451" id="b451-7">Hickman, J., joins this dissent.</judges>
+              <attorneys pgmap="442" id="b442-14">Carl J. Madsen, P.A., for appellant.</attorneys>
+              <attorneys pgmap="442" id="b442-15">Steve Clark, Att’y Gen., by: Theodore Holder, Asst. Att’y Gen., for appellee.</attorneys>
+              <footnote label="*">
+                <p pgmap="441" id="b441-16">* Purtle, J., not participating.</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="442" id="b442-16">David Newbern, Justice.</author>
+                <p pgmap="442" id="AKJ">The appellant was convicted of murder and arson, and he received sentences of forty and twenty years, respectively, for those offenses. We reversed the conviction in an opinion rendered upon rehearing. Richardson v. State, 283 Ark. 82, 671 S.W.2d 164 (1984); reh. granted, 283 Ark. 91, 678 S.W.2d 772 (1984). The appellant was retried and was again convicted, receiving sentences identical to those received in the first trial.</p>
+                <p pgmap="443" id="b443-5">The issues the appellant raises are whether evidence seized from him, after an arrest he contends was unlawful, should have been excluded and whether violation by the police of some of our rules of criminal procedure should result in exclusion of evidence seized. We hold the evidence was improperly admitted, and thus we reverse. The facts are discussed generally in our original opinion and in the opinion issued upon granting rehearing. We will summarize them here with emphasis on only those bearing on the issues presented.</p>
+                <p pgmap="443" id="b443-6">The appellant was observed at the fire the night his uncle’s dwelling burned, and there was testimony the appellant was at that time drunk. The following morning Deputy Sheriff Rowe was dispatched to pick up the appellant, the appellant’s father who was decedent’s brother, and the woman living with the appellant’s father. Rowe testified that the appellant was not intoxicated when he was taken to the sheriffs office. The appellant’s father testified the appellant smelled of alcohol when they were picked up, and the appellant testified he had been drinking since early that morning.</p>
+                <p pgmap="443" id="b443-7">The appellant and the others were taken to the sheriffs office where they waited in the lobby. Deputy Ellenburg, a relative of the appellant, observed the appellant making frequent trips to the bathroom. He said the appellant had a strong odor of alcohol on his breath and he became talkative and “jittery.” Ellenburg did not wish to participate in the case because of the family relationship, so he told Deputy Simpson he thought the appellant was drinking and “he needed to check him down and see.”</p>
+                <p pgmap="443" id="b443-8">Simpson, who was working with state police investigator Davidson, who was in charge of the murder and arson investiga­tion, searched the appellant and found an empty whiskey bottle in his boot. Deputy Simpson arrested the appellant for public intoxication. An inventory search pursuant to the arrest yielded some .22 caliber shells and a Winchester and Western shotgun shell with number 6 shot in addition to the empty bottle. Medical evidence showed the decedent to have been killed by a shotgun blast with number 6 Winchester and Western shot, and a shotgun containing a spent Winchester and Western number 6 shell was found in the ruins of the decedent’s home.</p>
+                <p pgmap="443(9) 444(77)" id="b443-9">Simpson testified that while the appellant was under arrest for public intoxication, Davidson advised Simpson “that we needed to get his clothes and take (them) to the crime lab.” Simpson had the appellant change clothes and then gave the appellant’s clothes to Davidson who had them examined. The laboratory examination revealed there was blood on the appel­lant’s boots and shirt. The blood on the boots was of the same type as that of the decedent according to a serologist’s report which was introduced in evidence.</p>
+                <p pgmap="444" id="b444-6">The appellant moved to have all the items obtained in this search suppressed on the basis that there was no probable cause to arrest him for public intoxication and the search was thus incidental to an illegal arrest. The court denied the motion stating:</p>
+                <blockquote pgmap="444" id="b444-7">The court will make a specific finding that the defendant was not intoxicated at the time that he was brought into the sheriffs office, that he became intoxicated at the sheriffs office. . . or at least there is probable cause for that arrest. That would constitute an intervening offense and we have testimony to support that. . . strong evidence to support that from the state police investigator and from Deputy Rowe.</blockquote>
+                <blockquote pgmap="444" id="b444-8">I find that the arrest was made with probable cause and the search was therefore pursuant to the arrest.</blockquote>
+                <p pgmap="444" id="b444-9">
+                   The problem here is whether the arrest for public intoxication was a pretext for conducting the search of a person who was a suspect in a murder and arson investigation. No distinct rules for defining a pretextual arrest have been articu­lated. Pretext must be a matter of the arresting officer’s intent, and that must be determined by the circumstances of the arrest. As the District of Columbia Circuit Court of Appeals said in McKnight v. United States, 183 F.2d 977 (D.C. Cir. 1950):</p>
+                <blockquote pgmap="444(58) 445(109)" id="b444-10">The Supreme Court has specifically held that “an arrest may not be used as a pretext to search for evidence.” United States v. Lefkowitz, 285 U.S. 452, (1932). In upholding the search in the Harris case the Court pointed out that it was not “a case in which law-enforcement officers have entered premises ostensibly for the purpose of making an arrest but in reality for the purpose of con­ducting a general exploratory search for merely eviden-­tiary materials tending to connect the accused with some crime.” Harris v. U.S., 331 U.S. 145, 67 S. Ct. 1098 (1947). It is settled law that “when it appears, as it does here, that the search and not the arrest was the real object of the officers in entering upon the premises, and that the arrest was a pretext for or at the most an incident of the search,” the search was not reasonable within the meaning of the Constitution. Henderson v. United States, 12 F.2d 528 (4th Cir. 1926).</blockquote>
+                <p pgmap="445(302) 446(14)" id="b445-4">
+                   Some courts have stated that they would disallow facially valid searches conducted incident to arrests which have been made solely as a pretext to conduct a search. In these cases, the search is the real purpose of the police and the arrest, usually on a minor offense or traffic infraction, is merely a subterfuge to obtain the search authority ancillary to the arrest. As stated in Brown v. State, 442 N.E.2d 1109 (Ind. 1982), “the issue of pretext arrest only arises when the surrounding circumstances show that the arrest is only a sham being used as an excuse for making a search for evidence of a different and more serious offense for which no probable cause exists.” After discussing the question, that court affirmed the convictions for rape and robbery because the arrest for minor drinking was made based upon the observation of the offense by a plainclothes officer and the admission by the defendant that he had been drinking. After his arrest and with the advice of counsel who was aware that he was a suspect in the rapes Brown consented to the search where the challenged evidence was found. The court found those factors sufficient to overcome the pretext allegation. In State v. Haven, 269 N.W.2d 849 (Minn. 1978), a drug conviction was overturned on the pretextual arrest of Haven on two outstanding traffic warrants and the search of his automobile incident to that arrest. Overturning the conviction, the Minnesota court stated, “the state concedes the warrants upon which Haven’s initial arrest was predicated were fatally deficient .... Even if the arrest war­rants had been technically perfect, however, the pretextual nature of the arrest made the subsequent search of the defend­ant’s vehicle constitutionally imperfect.” The court went further to say “a pretext arrest to permit an otherwise unauthorized search is not one of [the exceptions to the requirement of a valid warrant].”</p>
+                <p pgmap="446" id="b446-6">The pretext argument overturned drug convictions in United States v. Carriger, 541 F.2d 545 (6th Cir. 1976). After conceding they did not have probable cause for the arrest of a suspected drug supplier, a drug enforcement agent entered a locked building through a door left open by workmen following a known drug dealer and arrested the known dealer and the suspected supplier after observing a suspicious transaction. The court said, assuming arguendo probable cause to arrest the dealer, his arrest cannot be used as a pretext to arrest Carriger who was a suspected supplier for whom they had no probable cause for arrest. The court said “several other circuits have also condemned the tactic of circum­venting the Fourth Amendment requirements by manipulating the time of a suspect’s arrest to coincide with his presence in a place where government agents wish to search.”</p>
+                <p pgmap="446" id="b446-7">Amador-Gonzales v. United States, 391 F.2d 308 (5th Cir. 1968), involved an automobile arrest for minor traffic violations. The officer acknowledged he was looking for narcotics. Critical for our purposes here, scrutiny of the record revealed no disposi­tion of the charges. In suppressing the evidence obtained pursu­ant to the traffic arrest the court cited cases and language which clearly mandated this result.</p>
+                <p pgmap="446" id="b446-8">
+                   “General or exploratory searches are condemned even when they are incident to a lawful arrest.” U.S. v. Rabino­witz, 339 U.S. 56 (1950). “The arrest must not be a mere pretext for an otherwise illegitimate search.” McKnight v. U.S., 183 F.2d 977 (D.C. Cir. 1950). “The search must have some relation to the nature and purpose of the arrest.” Taglavore v. U.S., 291 F.2d 262 (9th Cir. 1961); Charles v. U.S., 278 F.2d 386 (9th Cir. 1960). See, J. Hall, Jr., Search and Seizure, § 8:10, p. 240 (1982) (Supp. 1985).</p>
+                <p pgmap="446(83) 447(14)" id="b446-9">
+                   Pretext in this case can be found from the fact that the search had no relation to the nature and purpose of the arrest. Deputy Simpson testified that after placing the appellant in the cell he was advised by investigator Davidson to get the appellant’s clothes so they could go to the crime laboratory. No one had at that point looked to discover the absence or presence of blood on the boots. The state had the good judgment not to argue that an arrest for public intoxication is a reasonable predicate for a laboratory examination of clothing.</p>
+                <p pgmap="447" id="b447-6">
+                   Pretext can also be found from the fact that each of the law enforcement officials testified that the appellant could not have left the station because he was a suspect in the murder and arson investigation even at the time he was brought to the police station. We note at this point the appellant’s contention that Ark. R. Crim. P. 2.3 was violated. That rule requires police to take such steps as are reasonably necessary to make it clear “to a person requested to appear at a police station that he has no legal obligation to comply.” The officers who were asked on the witness stand whether they had complied with this rule stated that they had not. In Lascano v. State, 275 Ark. 346, 631 S.W.2d 258 (1982), failure to comply with Rule 2.3 was raised as an issue but was not determinative of the case because no objection was made at the trial. In obiter dicta in the decision upholding the conviction the court said “the argument of failure to warn pursuant to Rule 2.3 and failure to give Miranda warnings before asking routine investigatory questions is not persuasive. No evidence at the scene implicated the appellant and there is no indication Sergeant Fogley regarded her as a specific suspect.” In this case it is clear that the appellant was at the sheriff’s office because he was a suspect in the arson and murder investigation, not for routine investigatory purposes, and the failure to comply with the rule along with the officer’s testimony he could not leave is revealing of that fact.</p>
+                <p pgmap="447" id="b447-7">
+                   The authority to search incident to an arrest depends wholly upon the lawfulness of the arrest. If the arrest is lawful, i.e., based upon probable cause, the search is lawful. U.S. v. Robinson, 414 U.S. 218 (1973). Our opinion on rehearing reversing the first conviction closed with the following penulti­mate paragraph expressing concern about this arrest:</p>
+                <blockquote pgmap="447(65) 448(69)" id="b447-8">Since the case is being remanded, the trial court should rehear the issue of appellant’s arrest to determine whether there was probable cause to support the arrest for public intoxication, independent of murder and arson charges. In that regard, appellant’s condition at the time he was picked up is of significant importance in evaluating the totality of the circumstances surrounding the arrest. Also, the cir­cumstances under which appellant was brought to the police station are important, especially whether A. R. Crim. P. 2.2, 2.3, and 3.1 were followed. The degree of inebriation at the time of arrest is a relevant consideration. All of these circumstances should be weighed in determin­ing whether appellant’s September 1 statement and other evidence seized should be admitted. Richardson v. State, 283 Ark. at 91-C &amp; D (1984).</blockquote>
+                <p pgmap="448" id="b448-4">While the trial court did part of what we asked and found probable cause to have arrested Richardson on the public intoxication charge, it did not satisfy our concern with respect to the violation of Ark. R. Crim. P. 2.3 and 3.1. Rule 2.3 provides:</p>
+                <blockquote pgmap="448" id="b448-5">If a law enforcement officer acting pursuant to this rule requests any person to come to or remain at a police station, prosecuting attorney’s office or other similar place, he shall take such steps as are reasonable to make clear that there is no legal obligation to comply with such a request.</blockquote>
+                <p pgmap="448" id="b448-6">No officer complied with the positive duty prescribed by this rule. The reason there was no compliance was that the officers, according to their testimony, would not have released the appel­lant had he asked to be released. Thus there was also a violation of the detention limit posed by Rule 3.1. Regardless of whether we can technically justify the arrest on the charge of public intoxica­tion, we can find no justification whatever for these rules violations. The appellant was clearly being held because he was suspected in the murder and arson case. The officers had a duty to charge him with that offense or let him go. Their failure to do so put them in violation of the rules mentioned and the realization of those violations makes it even clearer that the arrest which occurred was carried out as a pretext to permit the search.</p>
+                <p pgmap="448" id="b448-7">
+                   This Court has held squarely that evidence obtained in an inventory search conducted at a jail pursuant to an unlawful arrest is inadmissible. Webb v. State, 269 Ark. 415, 601 S.W.2d 848 (1980); Rowland v. State, 262 Ark. 783, 561 S.W.2d 304 (1978). The evidence obtained pursuant to the arrest for public intoxication must be suppressed.</p>
+                <p pgmap="448(11) 449(175)" id="b448-8">We regret that this case must again be reversed. The state argues that even if we find reversible error in admitting the evidence in question we should affirm because there is no prejudice in view of the other strong evidence against appellant. The state’s brief refers to these facts: (1) the appellant and the victim had been on “bad terms;” (2) the appellant was the first to report the fire; (3) the appellant, while witnessing the fire, said the victim was inside the burning house; (4) bottles of beer like ones he said he had delivered earlier that day to the victim were found in the appellant’s house; (5) appellant had been seen carrying a shotgun like the one found in the home of the victim; (6) an empty W &amp; W number 6 shotgun shell box was found in the appellant’s home; (7) the appellant had told neighbors he was just going to have to kill the victim; and (8) the appellant made some incredible statements to neighbors about having been wounded in a gun battle inside the victim’s home the night of the fire.</p>
+                <p pgmap="449" id="b449-4">
+                   While we agree this is strong evidence against the appellant, we cannot say it is of the overwhelming sort that would justify us in ignoring the illegally admitted evidence. The sad fact is that most if not all of this evidence would have come into the hands of the police authorities without the appellant’s arrest for public intoxication and could eventually have been the basis of a lawful arrest which would have produced the same evidence obtained here by pretext.</p>
+                <p pgmap="449" id="b449-5">Reversed.</p>
+              </opinion>
+              <opinion type="dissent">
+                <author pgmap="449" id="b449-8">Steele Hays, Justice,</author>
+                <p pgmap="449" id="AWd">dissenting. My disagreement with the majority opinion is limited to the issue of whether appellant’s arrest for public intoxication was merely a pretext to gain evidence to support the murder charge. Because I believe there was probable cause to arrest Nathan Richardson for public intoxication, I have a different view of the issue of pretext. If probable cause existed, then, on the circumstances of this case, we should leave to the trial court whether the underlying motive was bona fide.</p>
+                <p pgmap="449(36) 450(87)" id="b449-9">There was testimony that Mr. Richardson had been drinking when he was picked up at about 9:00 a.m. There was also proof from which the trial court could have found, as it did, that he was not then intoxicated. At the courthouse, waiting to be interro­gated, Mr. Richardson made a half dozen trips to the restroom, showing increasing evidencé of intoxication. In the early after­noon, at the behest of his own nephew, a deputy, Richardson was searched and an empty one-half pint bottle of whiskey was found in his boot. The testimony of the nephew and two other officers provided a substantial basis for the finding of the trial court that there was probable cause to arrest Richardson for public intoxication.</p>
+                <p pgmap="450" id="b450-6">I concede there are cases prohibiting a pretextual arrest, some of which the majority has cited. But none of those cases withstand close comparison with the case before us. In Amador-­Gonzales v. United States, 391 F.2d 308 (5th Cir. 1968), the appellant, under surveillance for selling drugs, was arrested for an improper left turn, held to be a pretext. But there one of the officers admitted he arrested appellant in order to search his car for drugs. In McKnight v. United States, 183 F.2d 977 (App.­D.C. 1950), the only case cited in Richardson’s brief, the government conceded that the police could have executed the warrant for McKnight’s arrest on the street, but deliberately waited until he entered a private residence so they could effect a search for evidence of a numbers operation. In State v. Haven, 269 N.W.2d 849 (Minn. 1978), the arrest was illegal because of defects in the warrant (for traffic offenses) and while the court noted that even if the warrant had been proper the result would be the same, that was because the police had passed up opportunities to arrest Haven, waiting for him to get in his car, a search of the car being the real objective of the arrest. In United States v. Carriger, 541 F.2d 545 (6th Cir. 1976), without probable cause to arrest, officers entered a private apartment by slipping past a locked entrance under circumstances described by the Court of Appeals as amounting to criminal trespass.</p>
+                <p pgmap="450" id="b450-7">Those cases, I submit, are distinguishable. Two cases more comparable to this case are Brown v. State, 442 N.E.2d 1109 (Ind. 1982) and Porter v. State, 391 N.E.2d 801 (Ind. 1979). In both cases the defendants were suspected of more serious offenses and, while under surveillance, were charged with intoxication. Though the evidence was marginal in both cases, there was probable cause to arrest on the lesser charges. The Brown Court said:</p>
+                <blockquote pgmap="451" id="b451-5">The issue of a pretext arrest only arises when the surround­ing circumstances show that the arrest is only a sham being used as an excuse for making a search for evidence of a different and more serious offense for which no probable cause to arrest exists. (Cites omitted). Here, the circum­stances show that the police had seen defendant drinking alcoholic beverages and made a valid arrest on that charge. The fact that defendant was also a suspect in the rape cases does not make that arrest improper. (My emphasis).</blockquote>
+                <p pgmap="451" id="b451-6">When we remanded this case to the trial court after the first appeal we asked it to make findings of fact on whether the arrest for public intoxication was proper. The trial court did that as instructed and since there is substantial evidence to support those findings I would not reverse. I do not suggest by this dissent that this case was handled properly at the outset. Quite the contrary. The long delay in bringing Richardson before the court for arraignment and the violation of A.R.Cr.P. 2.3 are clear infrac­tions of the rules in criminal cases, but we have not held that those violations mandate dismissal of criminal charges. If we intend to adopt that as the law, we should say so and be done with it.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="441" ORDERLABEL="407" TYPE="page">
+        <fptr FILEID="tiff_00221_0"/>
+        <fptr FILEID="jp2_00221_0"/>
+        <fptr FILEID="alto_00221_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_441.2" BETYPE="IDREF" FILEID="alto_00221_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="442" ORDERLABEL="408" TYPE="page">
+        <fptr FILEID="tiff_00221_1"/>
+        <fptr FILEID="jp2_00221_1"/>
+        <fptr FILEID="alto_00221_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_442.2" BETYPE="IDREF" FILEID="alto_00221_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="443" ORDERLABEL="409" TYPE="page">
+        <fptr FILEID="tiff_00222_0"/>
+        <fptr FILEID="jp2_00222_0"/>
+        <fptr FILEID="alto_00222_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_443.2" BETYPE="IDREF" FILEID="alto_00222_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="444" ORDERLABEL="410" TYPE="page">
+        <fptr FILEID="tiff_00222_1"/>
+        <fptr FILEID="jp2_00222_1"/>
+        <fptr FILEID="alto_00222_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_444.2" BETYPE="IDREF" FILEID="alto_00222_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="445" ORDERLABEL="411" TYPE="page">
+        <fptr FILEID="tiff_00223_0"/>
+        <fptr FILEID="jp2_00223_0"/>
+        <fptr FILEID="alto_00223_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_445.3" BETYPE="IDREF" FILEID="alto_00223_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="446" ORDERLABEL="412" TYPE="page">
+        <fptr FILEID="tiff_00223_1"/>
+        <fptr FILEID="jp2_00223_1"/>
+        <fptr FILEID="alto_00223_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_446.2" BETYPE="IDREF" FILEID="alto_00223_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="447" ORDERLABEL="413" TYPE="page">
+        <fptr FILEID="tiff_00224_0"/>
+        <fptr FILEID="jp2_00224_0"/>
+        <fptr FILEID="alto_00224_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_447.3" BETYPE="IDREF" FILEID="alto_00224_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="448" ORDERLABEL="414" TYPE="page">
+        <fptr FILEID="tiff_00224_1"/>
+        <fptr FILEID="jp2_00224_1"/>
+        <fptr FILEID="alto_00224_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_448.2" BETYPE="IDREF" FILEID="alto_00224_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="449" ORDERLABEL="415" TYPE="page">
+        <fptr FILEID="tiff_00225_0"/>
+        <fptr FILEID="jp2_00225_0"/>
+        <fptr FILEID="alto_00225_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_449.3" BETYPE="IDREF" FILEID="alto_00225_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="450" ORDERLABEL="416" TYPE="page">
+        <fptr FILEID="tiff_00225_1"/>
+        <fptr FILEID="jp2_00225_1"/>
+        <fptr FILEID="alto_00225_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_450.2" BETYPE="IDREF" FILEID="alto_00225_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="451" ORDERLABEL="417" TYPE="page">
+        <fptr FILEID="tiff_00226_0"/>
+        <fptr FILEID="jp2_00226_0"/>
+        <fptr FILEID="alto_00226_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_451.2" BETYPE="IDREF" FILEID="alto_00226_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Age" BETYPE="IDREF" FILEID="casebody_0099"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_441.9" BETYPE="IDREF" FILEID="alto_00221_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b443-9" BETYPE="IDREF" FILEID="casebody_0099"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_443.7" BETYPE="IDREF" FILEID="alto_00222_0"/>
+            <area BEGIN="BL_444.1" BETYPE="IDREF" FILEID="alto_00222_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b443-8" BETYPE="IDREF" FILEID="casebody_0099"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_443.6" BETYPE="IDREF" FILEID="alto_00222_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ACob" BETYPE="IDREF" FILEID="casebody_0099"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_441.7" BETYPE="IDREF" FILEID="alto_00221_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b443-5" BETYPE="IDREF" FILEID="casebody_0099"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_443.3" BETYPE="IDREF" FILEID="alto_00222_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b443-7" BETYPE="IDREF" FILEID="casebody_0099"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_443.5" BETYPE="IDREF" FILEID="alto_00222_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AoW" BETYPE="IDREF" FILEID="casebody_0099"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_441.10" BETYPE="IDREF" FILEID="alto_00221_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b441-7" BETYPE="IDREF" FILEID="casebody_0099"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_441.8" BETYPE="IDREF" FILEID="alto_00221_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b441-6" BETYPE="IDREF" FILEID="casebody_0099"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_441.5" BETYPE="IDREF" FILEID="alto_00221_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b449-9" BETYPE="IDREF" FILEID="casebody_0099"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_449.11" BETYPE="IDREF" FILEID="alto_00225_0"/>
+            <area BEGIN="BL_450.1" BETYPE="IDREF" FILEID="alto_00225_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ava" BETYPE="IDREF" FILEID="casebody_0099"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_441.6" BETYPE="IDREF" FILEID="alto_00221_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b450-7" BETYPE="IDREF" FILEID="casebody_0099"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_450.5" BETYPE="IDREF" FILEID="alto_00225_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b449-5" BETYPE="IDREF" FILEID="casebody_0099"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_449.5" BETYPE="IDREF" FILEID="alto_00225_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b450-6" BETYPE="IDREF" FILEID="casebody_0099"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_450.4" BETYPE="IDREF" FILEID="alto_00225_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b443-6" BETYPE="IDREF" FILEID="casebody_0099"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_443.4" BETYPE="IDREF" FILEID="alto_00222_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b451-5" BETYPE="IDREF" FILEID="casebody_0099"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_451.3" BETYPE="IDREF" FILEID="alto_00226_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b449-4" BETYPE="IDREF" FILEID="casebody_0099"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_449.4" BETYPE="IDREF" FILEID="alto_00225_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b449-8" BETYPE="IDREF" FILEID="casebody_0099"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_449.8" BETYPE="IDREF" FILEID="alto_00225_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AWd" BETYPE="IDREF" FILEID="casebody_0099"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_449.9" BETYPE="IDREF" FILEID="alto_00225_0"/>
+            <area BEGIN="BL_449.10" BETYPE="IDREF" FILEID="alto_00225_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b446-6" BETYPE="IDREF" FILEID="casebody_0099"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_446.4" BETYPE="IDREF" FILEID="alto_00223_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b446-7" BETYPE="IDREF" FILEID="casebody_0099"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_446.5" BETYPE="IDREF" FILEID="alto_00223_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b449-7" BETYPE="IDREF" FILEID="casebody_0099"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_449.7" BETYPE="IDREF" FILEID="alto_00225_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b449-6" BETYPE="IDREF" FILEID="casebody_0099"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_449.6" BETYPE="IDREF" FILEID="alto_00225_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b448-8" BETYPE="IDREF" FILEID="casebody_0099"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_448.8" BETYPE="IDREF" FILEID="alto_00224_1"/>
+            <area BEGIN="BL_449.1" BETYPE="IDREF" FILEID="alto_00225_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b448-4" BETYPE="IDREF" FILEID="casebody_0099"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_448.4" BETYPE="IDREF" FILEID="alto_00224_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b444-10" BETYPE="IDREF" FILEID="casebody_0099"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_444.8" BETYPE="IDREF" FILEID="alto_00222_1"/>
+            <area BEGIN="BL_445.1" BETYPE="IDREF" FILEID="alto_00223_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b441-16" BETYPE="IDREF" FILEID="casebody_0099"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_441.19" BETYPE="IDREF" FILEID="alto_00221_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AKJ" BETYPE="IDREF" FILEID="casebody_0099"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_442.14" BETYPE="IDREF" FILEID="alto_00221_1"/>
+            <area BEGIN="BL_442.15" BETYPE="IDREF" FILEID="alto_00221_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b446-8" BETYPE="IDREF" FILEID="casebody_0099"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_446.6" BETYPE="IDREF" FILEID="alto_00223_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b446-9" BETYPE="IDREF" FILEID="casebody_0099"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_446.7" BETYPE="IDREF" FILEID="alto_00223_1"/>
+            <area BEGIN="BL_447.1" BETYPE="IDREF" FILEID="alto_00224_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b444-8" BETYPE="IDREF" FILEID="casebody_0099"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_444.6" BETYPE="IDREF" FILEID="alto_00222_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b444-9" BETYPE="IDREF" FILEID="casebody_0099"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_444.7" BETYPE="IDREF" FILEID="alto_00222_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b447-7" BETYPE="IDREF" FILEID="casebody_0099"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_447.5" BETYPE="IDREF" FILEID="alto_00224_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b447-6" BETYPE="IDREF" FILEID="casebody_0099"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_447.4" BETYPE="IDREF" FILEID="alto_00224_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b447-8" BETYPE="IDREF" FILEID="casebody_0099"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_447.6" BETYPE="IDREF" FILEID="alto_00224_0"/>
+            <area BEGIN="BL_448.1" BETYPE="IDREF" FILEID="alto_00224_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b445-4" BETYPE="IDREF" FILEID="casebody_0099"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_445.4" BETYPE="IDREF" FILEID="alto_00223_0"/>
+            <area BEGIN="BL_446.1" BETYPE="IDREF" FILEID="alto_00223_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b444-6" BETYPE="IDREF" FILEID="casebody_0099"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_444.4" BETYPE="IDREF" FILEID="alto_00222_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b444-7" BETYPE="IDREF" FILEID="casebody_0099"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_444.5" BETYPE="IDREF" FILEID="alto_00222_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b448-6" BETYPE="IDREF" FILEID="casebody_0099"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_448.6" BETYPE="IDREF" FILEID="alto_00224_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b448-7" BETYPE="IDREF" FILEID="casebody_0099"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_448.7" BETYPE="IDREF" FILEID="alto_00224_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b451-6" BETYPE="IDREF" FILEID="casebody_0099"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_451.4" BETYPE="IDREF" FILEID="alto_00226_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b451-7" BETYPE="IDREF" FILEID="casebody_0099"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_451.5" BETYPE="IDREF" FILEID="alto_00226_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b448-5" BETYPE="IDREF" FILEID="casebody_0099"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_448.5" BETYPE="IDREF" FILEID="alto_00224_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b442-16" BETYPE="IDREF" FILEID="casebody_0099"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_442.13" BETYPE="IDREF" FILEID="alto_00221_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b442-14" BETYPE="IDREF" FILEID="casebody_0099"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_442.11" BETYPE="IDREF" FILEID="alto_00221_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b442-15" BETYPE="IDREF" FILEID="casebody_0099"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_442.12" BETYPE="IDREF" FILEID="alto_00221_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

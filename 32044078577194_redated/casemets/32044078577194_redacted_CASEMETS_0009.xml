@@ -1,0 +1,374 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0009" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Taylor v. Finch">Ken TAYLOR, Collector, and B. A. McINTOSH, Assessor v. Roy and Mary FINCH</name>
+          <docketnumber>85-199</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 50</citation>
+          <citation category="parallel" type="bluebook">701 S.W.2d 377</citation>
+          <decisiondate>1986-01-13</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:00Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00038_1" MIMETYPE="image/tiff" CHECKSUM="d024dd1c3403d83ebf2ef8346d013a58" CHECKSUMTYPE="MD5" SIZE="16510">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00038_1.tif"/>
+      </file>
+      <file ID="tiff_00039_0" MIMETYPE="image/tiff" CHECKSUM="4e7c62f7997380963b28275ded4573ac" CHECKSUMTYPE="MD5" SIZE="49388">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00039_0.tif"/>
+      </file>
+      <file ID="tiff_00039_1" MIMETYPE="image/tiff" CHECKSUM="c765322a459a8b1c87d38b6a596693ae" CHECKSUMTYPE="MD5" SIZE="7074">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00039_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00038_1" MIMETYPE="image/jp2" CHECKSUM="970b53e520d1aebd42525b97057fcd0e" CHECKSUMTYPE="MD5" SIZE="1664631">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00038_1.jp2"/>
+      </file>
+      <file ID="jp2_00039_0" MIMETYPE="image/jp2" CHECKSUM="b9f05682e4c696ef26bf260fcbb5189f" CHECKSUMTYPE="MD5" SIZE="2660355">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00039_0.jp2"/>
+      </file>
+      <file ID="jp2_00039_1" MIMETYPE="image/jp2" CHECKSUM="b70fb65a5f9af558316f24bd8780ca22" CHECKSUMTYPE="MD5" SIZE="1293020">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00039_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00038_1" MIMETYPE="text/xml" CHECKSUM="a0009cdf1d7c46cd0fab2b8a11a6a60d" CHECKSUMTYPE="MD5" SIZE="25553">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00038_1.xml"/>
+      </file>
+      <file ID="alto_00039_0" MIMETYPE="text/xml" CHECKSUM="7eda0e24788a8d04605a67eadf48b7b2" CHECKSUMTYPE="MD5" SIZE="82713">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00039_0.xml"/>
+      </file>
+      <file ID="alto_00039_1" MIMETYPE="text/xml" CHECKSUM="8c8191f0ce8f61d3d9680d71c685bff1" CHECKSUMTYPE="MD5" SIZE="8612">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00039_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0009" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="50" lastpage="52">
+              <court pgmap="76" id="b76-10">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="76" id="b76-8">85-199</docketnumber>
+              <citation pgmap="76" id="b76-9">701 S.W.2d 377</citation>
+              <parties pgmap="76" id="b76-7">Ken TAYLOR, Collector, and B. A. McINTOSH, Assessor v. Roy and Mary FINCH</parties>
+              <decisiondate pgmap="76" id="AdX">Opinion delivered January 13, 1986</decisiondate>
+              <judges pgmap="78" id="b78-5">Purtle, J., not participating.</judges>
+              <attorneys pgmap="76" id="b76-18">Henry &amp; Duckett, by: Richard L. Lawrence, for appellants.</attorneys>
+              <attorneys pgmap="77" id="b77-5">Roy Finch, for appellees.</attorneys>
+              <opinion type="majority">
+                <author pgmap="77" id="b77-6">David Newbern, Justice.</author>
+                <p pgmap="77" id="At5">
+                   This is a property tax case. The appellees purchased real property from a school district. Because it belonged to the school district, the property was exempt from ad valorem taxation at the time of the purchase. Ark. Const, art. 16, § 5(b). The appellants sought to assess and tax the property to the appellees from the date they purchased it. The appellees objected to assessment being made prior to the year following their purchase of the property because Ark. Stat. Ann. § 84-436 (Repl. 1980), in part, states:</p>
+                <blockquote pgmap="77" id="b77-7">All lands that shall have been purchased from owners the property of whom or which was by law exempt;. . . subsequent to January 1st of any year shall be subject to assessment and taxation for the year immediately follow­ing such purchase ....</blockquote>
+                <p pgmap="77" id="b77-8">
+                   The appellants claim the statute violates Ark. Const, art. 16, § 6, which says: “All laws exempting property from taxation other than as provided in this Constitution shall be void.” We agree with the chancellor that the statute requiring assess­ment and taxation at the beginning of the year following the purchase is an administrative directive which need not be construed as an exemption of property from taxation in violation of the constitution.</p>
+                <p pgmap="77" id="b77-9">While we understand the appellants’ argument that the statute creates an exemption, we find it equally reasonable to construe the statute as one providing, as an administrative directive, a time for assessment and taxation of property rather than a declaration of immunity or exemption from taxation.</p>
+                <p pgmap="77" id="b77-10">
+                   Every act of the Arkansas General Assembly carries a strong presumption of constitutionality. Pogue v. Cooper, 284 Ark. 105, 679 S.W.2d 207 (1984); Gay v. Rabon, 280 Ark. 5, 652 S.W.2d 836 (1983). If it is possible for us to construe a statute so as to meet the test of constitutionality, we will do so. Phillips v. Giddings, 278 Ark. 368, 646 S.W.2d 1 (1983); Heber Springs School District v. West Side School District, 269 Ark. 148, 599 S.W.2d 371 (1980); Davis v. Cox, 268 Ark. 78, 593 S.W.2d 180 (1980).</p>
+                <p pgmap="77" id="b77-11">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="76" ORDERLABEL="50" TYPE="page">
+        <fptr FILEID="tiff_00038_1"/>
+        <fptr FILEID="jp2_00038_1"/>
+        <fptr FILEID="alto_00038_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_76.2" BETYPE="IDREF" FILEID="alto_00038_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="77" ORDERLABEL="51" TYPE="page">
+        <fptr FILEID="tiff_00039_0"/>
+        <fptr FILEID="jp2_00039_0"/>
+        <fptr FILEID="alto_00039_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_77.2" BETYPE="IDREF" FILEID="alto_00039_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="78" ORDERLABEL="52" TYPE="page">
+        <fptr FILEID="tiff_00039_1"/>
+        <fptr FILEID="jp2_00039_1"/>
+        <fptr FILEID="alto_00039_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_78.1" BETYPE="IDREF" FILEID="alto_00039_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b76-7" BETYPE="IDREF" FILEID="casebody_0009"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_76.6" BETYPE="IDREF" FILEID="alto_00038_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b77-7" BETYPE="IDREF" FILEID="casebody_0009"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_77.7" BETYPE="IDREF" FILEID="alto_00039_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b78-5" BETYPE="IDREF" FILEID="casebody_0009"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_78.3" BETYPE="IDREF" FILEID="alto_00039_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AdX" BETYPE="IDREF" FILEID="casebody_0009"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_76.10" BETYPE="IDREF" FILEID="alto_00038_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b77-8" BETYPE="IDREF" FILEID="casebody_0009"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_77.8" BETYPE="IDREF" FILEID="alto_00039_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b77-11" BETYPE="IDREF" FILEID="casebody_0009"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_77.11" BETYPE="IDREF" FILEID="alto_00039_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b77-5" BETYPE="IDREF" FILEID="casebody_0009"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_77.3" BETYPE="IDREF" FILEID="alto_00039_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b77-9" BETYPE="IDREF" FILEID="casebody_0009"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_77.9" BETYPE="IDREF" FILEID="alto_00039_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b76-18" BETYPE="IDREF" FILEID="casebody_0009"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_76.17" BETYPE="IDREF" FILEID="alto_00038_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b76-8" BETYPE="IDREF" FILEID="casebody_0009"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_76.7" BETYPE="IDREF" FILEID="alto_00038_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b76-9" BETYPE="IDREF" FILEID="casebody_0009"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_76.8" BETYPE="IDREF" FILEID="alto_00038_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b77-6" BETYPE="IDREF" FILEID="casebody_0009"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_77.4" BETYPE="IDREF" FILEID="alto_00039_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b77-10" BETYPE="IDREF" FILEID="casebody_0009"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_77.10" BETYPE="IDREF" FILEID="alto_00039_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="At5" BETYPE="IDREF" FILEID="casebody_0009"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_77.5" BETYPE="IDREF" FILEID="alto_00039_0"/>
+            <area BEGIN="BL_77.6" BETYPE="IDREF" FILEID="alto_00039_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b76-10" BETYPE="IDREF" FILEID="casebody_0009"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_76.9" BETYPE="IDREF" FILEID="alto_00038_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

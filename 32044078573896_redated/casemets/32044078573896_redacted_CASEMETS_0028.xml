@@ -1,0 +1,427 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0028" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Roberts v. State">Roberts vs. The State</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 183</citation>
+          <decisiondate>1860-01</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00093_0" MIMETYPE="image/tiff" CHECKSUM="735854492f4c11c2fb5f77f2a675fa64" CHECKSUMTYPE="MD5" SIZE="32908">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00093_0.tif"/>
+      </file>
+      <file ID="tiff_00093_1" MIMETYPE="image/tiff" CHECKSUM="683275d18bf751484c162d4d19aa267f" CHECKSUMTYPE="MD5" SIZE="47420">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00093_1.tif"/>
+      </file>
+      <file ID="tiff_00094_0" MIMETYPE="image/tiff" CHECKSUM="7d3a176e0a29a0270c023dbca34d4245" CHECKSUMTYPE="MD5" SIZE="31206">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00094_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00093_0" MIMETYPE="image/jp2" CHECKSUM="25ba138bca9bb77267d7416ebda662f1" CHECKSUMTYPE="MD5" SIZE="2481595">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00093_0.jp2"/>
+      </file>
+      <file ID="jp2_00093_1" MIMETYPE="image/jp2" CHECKSUM="7fe84f3e255ef288e09a413d785c1215" CHECKSUMTYPE="MD5" SIZE="2626580">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00093_1.jp2"/>
+      </file>
+      <file ID="jp2_00094_0" MIMETYPE="image/jp2" CHECKSUM="6017799545c46849ed3f14e34ca0a008" CHECKSUMTYPE="MD5" SIZE="2558393">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00094_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00093_0" MIMETYPE="text/xml" CHECKSUM="9f8005ddc9d61f9ee2ee978e4abc053a" CHECKSUMTYPE="MD5" SIZE="58829">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00093_0.xml"/>
+      </file>
+      <file ID="alto_00093_1" MIMETYPE="text/xml" CHECKSUM="84ff65d7fdf53558ca69da34790ccc1d" CHECKSUMTYPE="MD5" SIZE="87517">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00093_1.xml"/>
+      </file>
+      <file ID="alto_00094_0" MIMETYPE="text/xml" CHECKSUM="6738be6b2e0dd2e8869db00a944950ad" CHECKSUMTYPE="MD5" SIZE="59526">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00094_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0028" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="185" firstpage="183">
+              <parties id="b185-3" pgmap="185">Roberts vs. The State.</parties>
+              <attorneys id="b185-9" pgmap="185">Batson, for the appellant.</attorneys>
+              <attorneys id="b185-10" pgmap="185">Kollowell, Attorney General, contra.</attorneys>
+              <summary id="b185-7" pgmap="185">Appeal from Yell Circuit Comt.</summary>
+              <summary id="b185-8" pgmap="185">Hon. John J. Clendenin, Circuit Judge.</summary>
+              <headnotes id="b185-5" pgmap="185">Where an offence, as defined and prohibited by the statute, is essentially the same as that defined and prohibited by the common lav — as in the statute concern­ing riots, etc. — an indictment that would be good at common law, is also good upon the statute.</headnotes>
+              <opinion type="majority">
+                <author id="b185-11" pgmap="185">Mr. Justice Compton</author>
+                <p id="Api" pgmap="185">delivered the opinion of the Court.</p>
+                <p id="b185-12" pgmap="185">The defendant, Henry Roberts — together with two others— was indicted in the Yell Circuit Court for a riot. After plead­ing to the indictment, he was tried separately, and convicted. A motion in arrest of judgment was overruled by the court, and the case was brought here on appeal.</p>
+                <p id="b185-13" pgmap="185(94) 186(13)">Our statute provides that “if three or more persons.assemble together, with the intent, or being assembled, shall agree mutually to assist each other to do an unlawful act, with force or violence, against the. person or property of another, or against the peace, or to the terror of the people, and shall accomplish the purpose intended, or do any unlawful act in furtherance of such purpose, in a violent or turbulent manner: every person, so offending, or who shall aid or assist in doing any unlawful act, shall be adjudged guilty of a misdemeanor, and shall be punished,” etc. Gould's Dig. chap. 51, Art. 3, see. 1.</p>
+                <p id="b186-6" pgmap="186">The indictment charges that Henry Roberts, William Roberts and Thomas Roberts, with force and arms, unlaw­fully, riotously and routously did assemble and gather together to disturb the peace of the State, and being so assembled and gathered together, in and upon one Robert Bend, unlawfully, riotously and routously did make an assault, and him, the said Robert Bend, unlawfully, riotously and routously, did beat, etc., to the great disturbance' and terror of the citizens of the State, and contrary to the form of the statute, etc.</p>
+                <p id="b186-7" pgmap="186">The grounds of the motion in arrest, are the following:</p>
+                <p id="b186-8" pgmap="186">1st. The indictment does not charge that the defendants assembled together with the intent to assist each other to do an unlawful act, with force or violence, against the person or property of another, or against the peace, or to the terror of the people; or that, being assembled, they had mutually agreed to assist each other to do so.</p>
+                <p id="b186-9" pgmap="186">2d: It does not charge that the assault and battery on Robert Bend, was the unlawful act for -which they had assembled, or was committed in furtherance of the unlawful act for which they had originally assembled.</p>
+                <p id="b186-10" pgmap="186">3d. It does not charge that the purpose intended was accom­plished in a turbulent or violent manner.</p>
+                <p id="b186-11" pgmap="186">The indictment is in strict conformity with the precedent for riot at common law, as given by Mr. Archbold in his work on Crim. Frac. &amp; Plead., vol. 3, p. 588, in which the act charged to have been done by the rioters was an assault and battery. And the learned author adds, at the conclusion of the precedent, that if the act, so riotously effected, be prohibited by statute, it may be prudent to conclude contra formara statuti. See Whar­ton’s Prec. 854, and authorities cited.</p>
+                <p id="b186-12" pgmap="186(41) 187(47)">The indictment, in the case before the court, being framed under our statute, it becomes necessary, in deciding upon the objections taken, to ascertain the common law definition of riot, in order that it may appear whether the statute has intro­duced any ingredient which enters into the essential description of the offence charged, and which was unknown to the com­mon law; for, if it has not, and the indictment would be good at common law, then it is also good upon the statute. 18 Ohio 489.</p>
+                <p id="b187-5" pgmap="187">Riot is defined to be a tumultuous disturbance of the peace by three or more persons assembling together of their own authority, with an intent mutually to assist one another against any one who shall oppose them in the execution of some enter­prise of a private nature, and afterward actually executing the same in a violent and turbulent manner, to the terror of the people, whether the act itself was lawful or unlawful. Whar. Crim. Law 722; 1 Hawk. P. C. chap. 65, sec. 1; State vs. Conolly, 3 Rich. 337.</p>
+                <p id="b187-6" pgmap="187">Thus it is seen that the statute, as far as it goes, is in affirm­ance of the common law merely. It makes no new rule, and embraces within its purview, the case we are considering. So that the offence charged in the indictment as. defined and pro­hibited by the statute, is essentially the same as that defined and prohibited by the common law; and if the indictment would be good at common law, it must necessarily be so upon the statute.</p>
+                <p id="b187-7" pgmap="187">Finding no error in the record the judgment must be affirmed with costs.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="185" ORDERLABEL="183" TYPE="page">
+        <fptr FILEID="tiff_00093_0"/>
+        <fptr FILEID="jp2_00093_0"/>
+        <fptr FILEID="alto_00093_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_185.2" BETYPE="IDREF" FILEID="alto_00093_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_185.1" BETYPE="IDREF" FILEID="alto_00093_0"/>
+              <area BEGIN="BL_185.3" BETYPE="IDREF" FILEID="alto_00093_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="186" ORDERLABEL="184" TYPE="page">
+        <fptr FILEID="tiff_00093_1"/>
+        <fptr FILEID="jp2_00093_1"/>
+        <fptr FILEID="alto_00093_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_186.2" BETYPE="IDREF" FILEID="alto_00093_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_186.3" BETYPE="IDREF" FILEID="alto_00093_1"/>
+              <area BEGIN="BL_186.4" BETYPE="IDREF" FILEID="alto_00093_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="187" ORDERLABEL="185" TYPE="page">
+        <fptr FILEID="tiff_00094_0"/>
+        <fptr FILEID="jp2_00094_0"/>
+        <fptr FILEID="alto_00094_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_187.3" BETYPE="IDREF" FILEID="alto_00094_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_187.2" BETYPE="IDREF" FILEID="alto_00094_0"/>
+              <area BEGIN="BL_187.4" BETYPE="IDREF" FILEID="alto_00094_0"/>
+              <area BEGIN="BL_187.8" BETYPE="IDREF" FILEID="alto_00094_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b186-12" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_186.11" BETYPE="IDREF" FILEID="alto_00093_1"/>
+            <area BEGIN="BL_187.1" BETYPE="IDREF" FILEID="alto_00094_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b185-10" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_185.9" BETYPE="IDREF" FILEID="alto_00093_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b185-11" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_185.10" BETYPE="IDREF" FILEID="alto_00093_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b185-12" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_185.12" BETYPE="IDREF" FILEID="alto_00093_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b185-13" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_185.13" BETYPE="IDREF" FILEID="alto_00093_0"/>
+            <area BEGIN="BL_186.1" BETYPE="IDREF" FILEID="alto_00093_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b186-11" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_186.10" BETYPE="IDREF" FILEID="alto_00093_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b186-10" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_186.9" BETYPE="IDREF" FILEID="alto_00093_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b186-7" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_186.6" BETYPE="IDREF" FILEID="alto_00093_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b186-6" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_186.5" BETYPE="IDREF" FILEID="alto_00093_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b187-5" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_187.5" BETYPE="IDREF" FILEID="alto_00094_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b187-6" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_187.6" BETYPE="IDREF" FILEID="alto_00094_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b186-8" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_186.7" BETYPE="IDREF" FILEID="alto_00093_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b185-7" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_185.6" BETYPE="IDREF" FILEID="alto_00093_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b185-5" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_185.5" BETYPE="IDREF" FILEID="alto_00093_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b185-3" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_185.4" BETYPE="IDREF" FILEID="alto_00093_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Api" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_185.11" BETYPE="IDREF" FILEID="alto_00093_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b186-9" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_186.8" BETYPE="IDREF" FILEID="alto_00093_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b187-7" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_187.7" BETYPE="IDREF" FILEID="alto_00094_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b185-8" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_185.7" BETYPE="IDREF" FILEID="alto_00093_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b185-9" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_185.8" BETYPE="IDREF" FILEID="alto_00093_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

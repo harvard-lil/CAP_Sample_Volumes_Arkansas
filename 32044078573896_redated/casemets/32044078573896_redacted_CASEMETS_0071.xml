@@ -1,0 +1,378 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0071" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Clegg v. Roane">Clegg vs. Roane</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 361</citation>
+          <decisiondate>1860-07</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00182_0" MIMETYPE="image/tiff" CHECKSUM="1a37391ef3ffa66d41da2da3da385de2" CHECKSUMTYPE="MD5" SIZE="32064">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00182_0.tif"/>
+      </file>
+      <file ID="tiff_00182_1" MIMETYPE="image/tiff" CHECKSUM="6569ed99f5763feff87b52a3f1772962" CHECKSUMTYPE="MD5" SIZE="42668">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00182_1.tif"/>
+      </file>
+      <file ID="tiff_00183_0" MIMETYPE="image/tiff" CHECKSUM="d710e7d89d4ff93a609f2ef7ab4c4fe8" CHECKSUMTYPE="MD5" SIZE="33922">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00183_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00182_0" MIMETYPE="image/jp2" CHECKSUM="71a345505b3bc390875e4b67713c9a20" CHECKSUMTYPE="MD5" SIZE="2486634">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00182_0.jp2"/>
+      </file>
+      <file ID="jp2_00182_1" MIMETYPE="image/jp2" CHECKSUM="0fea7a984af6e80289f724a64b3730ff" CHECKSUMTYPE="MD5" SIZE="2519557">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00182_1.jp2"/>
+      </file>
+      <file ID="jp2_00183_0" MIMETYPE="image/jp2" CHECKSUM="4db869a6d9a499e58d9b4f2f31ad09a0" CHECKSUMTYPE="MD5" SIZE="2920669">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00183_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00182_0" MIMETYPE="text/xml" CHECKSUM="43720011dc742c2f8e44d6040355b171" CHECKSUMTYPE="MD5" SIZE="64554">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00182_0.xml"/>
+      </file>
+      <file ID="alto_00182_1" MIMETYPE="text/xml" CHECKSUM="0b984629ca13a0c0d0c50745be7903cd" CHECKSUMTYPE="MD5" SIZE="81709">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00182_1.xml"/>
+      </file>
+      <file ID="alto_00183_0" MIMETYPE="text/xml" CHECKSUM="453b06c568fb06b6abef30ba393f7616" CHECKSUMTYPE="MD5" SIZE="59392">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00183_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0071" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="363" firstpage="361">
+              <parties id="b363-7" pgmap="363">Clegg vs. Roane.</parties>
+              <attorneys id="b364-6" pgmap="364">Hutchinson, for the appellant.</attorneys>
+              <attorneys id="b364-7" pgmap="364">Bell &amp; Carlton, contra.</attorneys>
+              <summary id="b364-4" pgmap="364">Appeal from Jefferson Circuit Court.</summary>
+              <summary id="b364-5" pgmap="364">Hon. John C. Murray, Circuit Judge.</summary>
+              <headnotes id="b363-8" pgmap="363">A plea alleging that the writings obligatory sued on were executed without any con­sideration whatever, is not sustained, where it appears that the obligor being the proprietor of one bank of a river, where a public highway crossed, and having a license to keep a ferry, executed the obligation for a lease of the ferry rights, etc., of the owner of the opposite side of the river, who had obtained, from the county court, an order for a ferry from iris shore.</headnotes>
+              <opinion type="majority">
+                <author id="b364-8" pgmap="364">Mr. Chief Justice English</author>
+                <p id="AeY" pgmap="364">delivered the opinion of the Court.</p>
+                <p id="b364-9" pgmap="364">Roane sued Clegg in the Jefferson Circuit Court., on two writings obligatory. Clegg pleaded that the obligations were executed without any consideration whatever. Issue was taken to the plea, submitted to the court sitting as a jury, and finding for the plaintiff. Defendant moved for a new trial, which was refused, and he excepted and appealed.</p>
+                <p id="b364-10" pgmap="364">The material facts agreed upon at the trial, are, that Clegg was the proprietor of the south bank of the Arkansas river, at the town of Pine Bluff, where a public highway crossed the river, and had a license to keep a ferry from his shore. That Roane was the owner of the land on the opposite side of the river, and had obtained an order of the county court for a ferry from his shore; but before taking out license he leased to Clegg for a term of years, all the ferry rights, privileges and advan­tages belonging to him, by virtue of his ownership and posses­sion of the land on the river opposite to Pine Bluff; and the obligations sued on were executed to him for the lease.</p>
+                <p id="b364-11" pgmap="364">It is insisted for appellant, and the court below was asked to declare the law to be, that by virtue of his ferry license, he had the right to carry passengers and freight, not only from his own shore, but to cross them from the opposite bank; and hence the lease of Roane’s ferry privilege vested in appellant no new or additional right, and therefore he received no con­sideration whatever for the obligations sued on.</p>
+                <p id="b364-12" pgmap="364(33) 365(166)">It would be a difficult task to reconcile the premises, thus assumed, with the 2d section of the 70th chapter of the Digest, relating to the ferry privilege of a riparian proprietor; but, conceding the truth of the premises, for the purposes of this case, it does not follow as a legitimate deduction therefrom, that the obligations were executed without consideration. If it be true that the appellant had the right, by virtue of his ferry license, to cross freight and passengers from both banks of the river, it is equally true, that if Roane had taken out the license granted to him by the county court, and exercised his ferry pri­vilege, he would have run his boat in competition with appel­lant’s, and lessened the profits of his ferry. But appellant having leased Roane’s ferry privilege for a term of years, thereby avoided such competition, and availed himself of the entire profits of accommodating the public, by crossing passen­gers and freight from both shores of the river, which, surely, was some consideration for the obligations sued on. Roane surrendered a privilege which was of value to him, and appel­lant derived benefit from the right surrendered.</p>
+                <p id="b365-6" pgmap="365">It is deemed unnecessary to decide other questions discussed by counsel, and involved in the propositions which the court below was asked to declare to be the law of the case, relating to ferry privileges under our statute, etc.</p>
+                <p id="b365-7" pgmap="365">The facts agreed on failing to prove that the bonds sued on were executed without any consideration whatever, as alleged by the plea, Roane was entitled to judgment.</p>
+                <p id="b365-8" pgmap="365">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="363" ORDERLABEL="361" TYPE="page">
+        <fptr FILEID="tiff_00182_0"/>
+        <fptr FILEID="jp2_00182_0"/>
+        <fptr FILEID="alto_00182_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_363.3" BETYPE="IDREF" FILEID="alto_00182_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_363.2" BETYPE="IDREF" FILEID="alto_00182_0"/>
+              <area BEGIN="BL_363.4" BETYPE="IDREF" FILEID="alto_00182_0"/>
+              <area BEGIN="BL_363.10" BETYPE="IDREF" FILEID="alto_00182_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_363.7" BETYPE="IDREF" FILEID="alto_00182_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="364" ORDERLABEL="362" TYPE="page">
+        <fptr FILEID="tiff_00182_1"/>
+        <fptr FILEID="jp2_00182_1"/>
+        <fptr FILEID="alto_00182_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_364.1" BETYPE="IDREF" FILEID="alto_00182_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_364.2" BETYPE="IDREF" FILEID="alto_00182_1"/>
+              <area BEGIN="BL_364.3" BETYPE="IDREF" FILEID="alto_00182_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="365" ORDERLABEL="363" TYPE="page">
+        <fptr FILEID="tiff_00183_0"/>
+        <fptr FILEID="jp2_00183_0"/>
+        <fptr FILEID="alto_00183_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_365.3" BETYPE="IDREF" FILEID="alto_00183_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_365.2" BETYPE="IDREF" FILEID="alto_00183_0"/>
+              <area BEGIN="BL_365.4" BETYPE="IDREF" FILEID="alto_00183_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b364-12" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_364.13" BETYPE="IDREF" FILEID="alto_00182_1"/>
+            <area BEGIN="BL_365.1" BETYPE="IDREF" FILEID="alto_00183_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b364-11" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_364.12" BETYPE="IDREF" FILEID="alto_00182_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b364-10" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_364.11" BETYPE="IDREF" FILEID="alto_00182_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b363-8" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_363.9" BETYPE="IDREF" FILEID="alto_00182_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b365-8" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_365.7" BETYPE="IDREF" FILEID="alto_00183_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b365-6" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_365.5" BETYPE="IDREF" FILEID="alto_00183_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b365-7" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_365.6" BETYPE="IDREF" FILEID="alto_00183_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b363-7" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_363.8" BETYPE="IDREF" FILEID="alto_00182_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b364-9" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_364.10" BETYPE="IDREF" FILEID="alto_00182_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b364-8" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_364.8" BETYPE="IDREF" FILEID="alto_00182_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AeY" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_364.9" BETYPE="IDREF" FILEID="alto_00182_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b364-7" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_364.7" BETYPE="IDREF" FILEID="alto_00182_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b364-6" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_364.6" BETYPE="IDREF" FILEID="alto_00182_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b364-5" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_364.5" BETYPE="IDREF" FILEID="alto_00182_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b364-4" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_364.4" BETYPE="IDREF" FILEID="alto_00182_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

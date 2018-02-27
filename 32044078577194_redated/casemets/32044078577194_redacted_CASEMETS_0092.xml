@@ -1,0 +1,764 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0092" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Jones v. State">Wendell JONES v. STATE of Arkansas</name>
+          <docketnumber>CR 85-118</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 375</citation>
+          <citation category="parallel" type="bluebook">705 S.W.2d 874</citation>
+          <decisiondate>1986-03-24</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:00Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00205_0" MIMETYPE="image/tiff" CHECKSUM="e91ec63f4aec0073f8d62fad5c813055" CHECKSUMTYPE="MD5" SIZE="19044">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00205_0.tif"/>
+      </file>
+      <file ID="tiff_00205_1" MIMETYPE="image/tiff" CHECKSUM="086506eae29f52d2be9c9a29ba0d87be" CHECKSUMTYPE="MD5" SIZE="19540">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00205_1.tif"/>
+      </file>
+      <file ID="tiff_00206_0" MIMETYPE="image/tiff" CHECKSUM="0551b7f9a0f73041e0a4e5214a7197b0" CHECKSUMTYPE="MD5" SIZE="52960">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00206_0.tif"/>
+      </file>
+      <file ID="tiff_00206_1" MIMETYPE="image/tiff" CHECKSUM="cccdc2fce76c612b4a614d1eaaaacc5c" CHECKSUMTYPE="MD5" SIZE="55956">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00206_1.tif"/>
+      </file>
+      <file ID="tiff_00207_0" MIMETYPE="image/tiff" CHECKSUM="335a84643eb69a2c789cd6ae5398d6c9" CHECKSUMTYPE="MD5" SIZE="44982">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00207_0.tif"/>
+      </file>
+      <file ID="tiff_00207_1" MIMETYPE="image/tiff" CHECKSUM="41a4f73eae3ebf5211ebd9fa74bd5729" CHECKSUMTYPE="MD5" SIZE="43800">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00207_1.tif"/>
+      </file>
+      <file ID="tiff_00208_0" MIMETYPE="image/tiff" CHECKSUM="9e7cfd78ca47a61f84e43edbf023861f" CHECKSUMTYPE="MD5" SIZE="20494">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00208_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00205_0" MIMETYPE="image/jp2" CHECKSUM="6ffef3d26704ddaa3695a931bd4eda30" CHECKSUMTYPE="MD5" SIZE="1751962">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00205_0.jp2"/>
+      </file>
+      <file ID="jp2_00205_1" MIMETYPE="image/jp2" CHECKSUM="9ca05ff3e45cdc294608fb27d8878105" CHECKSUMTYPE="MD5" SIZE="1541386">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00205_1.jp2"/>
+      </file>
+      <file ID="jp2_00206_0" MIMETYPE="image/jp2" CHECKSUM="8c90bd48a0a02609a05b8ede78114854" CHECKSUMTYPE="MD5" SIZE="2610910">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00206_0.jp2"/>
+      </file>
+      <file ID="jp2_00206_1" MIMETYPE="image/jp2" CHECKSUM="27a549546d1440537605658b6b78cf0a" CHECKSUMTYPE="MD5" SIZE="2599934">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00206_1.jp2"/>
+      </file>
+      <file ID="jp2_00207_0" MIMETYPE="image/jp2" CHECKSUM="eeda6133d5a8e5e04022195eb6dc334a" CHECKSUMTYPE="MD5" SIZE="2467037">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00207_0.jp2"/>
+      </file>
+      <file ID="jp2_00207_1" MIMETYPE="image/jp2" CHECKSUM="d74495cc703f6050a271b1bf8c1a630d" CHECKSUMTYPE="MD5" SIZE="2450839">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00207_1.jp2"/>
+      </file>
+      <file ID="jp2_00208_0" MIMETYPE="image/jp2" CHECKSUM="3e3d0086201735c49efc809fefa22aae" CHECKSUMTYPE="MD5" SIZE="1833538">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00208_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00205_0" MIMETYPE="text/xml" CHECKSUM="c93bf3de54b0823f0e8300581e32bd7f" CHECKSUMTYPE="MD5" SIZE="29779">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00205_0.xml"/>
+      </file>
+      <file ID="alto_00205_1" MIMETYPE="text/xml" CHECKSUM="4cc8487470f92309ee147b4e5a7fc19d" CHECKSUMTYPE="MD5" SIZE="29989">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00205_1.xml"/>
+      </file>
+      <file ID="alto_00206_0" MIMETYPE="text/xml" CHECKSUM="436245d3f873156f7b36bbf2fe6f0705" CHECKSUMTYPE="MD5" SIZE="84890">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00206_0.xml"/>
+      </file>
+      <file ID="alto_00206_1" MIMETYPE="text/xml" CHECKSUM="441b2aa7ded0624db709735c897b8010" CHECKSUMTYPE="MD5" SIZE="93550">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00206_1.xml"/>
+      </file>
+      <file ID="alto_00207_0" MIMETYPE="text/xml" CHECKSUM="0e7e6728061433d4298cff1b7cb945ba" CHECKSUMTYPE="MD5" SIZE="77306">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00207_0.xml"/>
+      </file>
+      <file ID="alto_00207_1" MIMETYPE="text/xml" CHECKSUM="3158adc4b3ea142f448e7c88af473982" CHECKSUMTYPE="MD5" SIZE="77114">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00207_1.xml"/>
+      </file>
+      <file ID="alto_00208_0" MIMETYPE="text/xml" CHECKSUM="a9176846c76c151b271efaea978740f3" CHECKSUMTYPE="MD5" SIZE="32342">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00208_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0092" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="375" lastpage="381">
+              <court pgmap="409" id="b409-11">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="409" id="b409-10">CR 85-118</docketnumber>
+              <citation pgmap="409" id="AUR">705 S.W.2d 874</citation>
+              <parties pgmap="409" id="b409-9">Wendell JONES v. STATE of Arkansas</parties>
+              <decisiondate pgmap="409" id="AbYl">Opinion delivered March 24, 1986</decisiondate>
+              <judges pgmap="415" id="b415-5">Purtle, J., not participating.</judges>
+              <attorneys pgmap="410" id="b410-14">Person &amp; VanWinkle, by: J. Rdndolph Shock, for appellant.</attorneys>
+              <attorneys pgmap="410" id="b410-15">Steve Clark, Att’y Gen., by: Connie Griffin, Asst. Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="410" id="b410-16">Jack Holt, Jr., Chief Justice.</author>
+                <p pgmap="410(91) 411(52)" id="AqWh">Appellant filed an Ark. R. Crim. P. Rule 37 motion to vacate his negotiated pleas of guilty to three counts of delivery of a controlled substance, one count of conspiracy to commit theft of property, and one count of driving while intoxicated. In his petition, appellant alleged that his guilty pleas were not knowingly, intelligently or voluntarily entered because he was denied effective assistance of counsel and was coerced by the trial court’s denial of his motion for continuance. In addition, he claims the court erred by not establishing a factual basis for his guilty pleas. The trial court, without a hearing, issued written findings of fact based on the files and record, denying postconviction relief. We find that the trial court’s decision was not clearly against the preponderance of the evidence and affirm. Our jurisdiction is pursuant to Sup. Ct. R. 29(1)(e).</p>
+                <p pgmap="411" id="b411-6">
+                   Rule37.3(a) provides that “[i]f the motion and the files and records of the case conclusively show that the prisoner is entitled to no relief, the trial court shall make written findings to that effect, specifying any parts of the files or records that are relied upon to sustain the court’s findings.”</p>
+                <p pgmap="411" id="b411-7">
+                   Appellant contends his guilty plea was not entered intelligently and voluntarily and with the advice of competent counsel. He therefore has the burden of showing that the advice he received from his attorney was not within the range of competence demanded from attorneys in criminal cases. Thomas v. State, 277 Ark. 74, 639 S.W.2d 353 (1982).</p>
+                <p pgmap="411" id="b411-8">
+                   In Strickland v. Washington, 466 U.S. 668 (1984), the U.S. Supreme Court adopted a two-part standard for evaluating claims of ineffective assistance of counsel. It provides: (1) “ [w] hen a convicted defendant complains of the ineffectiveness of counsel’s assistance, the defendant must show that the counsel’s representation fell below an objective standard of reasonable­ness” and (2) “[t]he defendant must show that there is a reasonable probability that, but for counsel’s unprofessional errors, the result of the proceeding would have been different.” In Hill v. Lockhart, _ U.S _, 106 S. Ct. 366 (1985) the two-part Strickland v. Washington test was made applicable to challenges to guilty pleas based on ineffective assistance of counsel.</p>
+                <p pgmap="411" id="b411-11">
+                   In the context of guilty pleas, the Supreme Court stated in Hill:</p>
+                <blockquote pgmap="411" id="b411-12">[I] n order to satisfy the “prejudice” requirement [part two of Strickland], the defendant must show that there is a reasonable probability that, but for counsel’s errors, he would not have pleaded guilty and would have insisted on going to trial.</blockquote>
+                <p pgmap="411(32) 412(20)" id="b411-13">This court stated in Crockett v. State, 282 Ark. 582, 669 S.W.2d 896 (1984), “A defendant whose conviction is based upon a plea of guilty normally will have difficulty proving any prejudice since his plea rests upon his admission in open court that he did the act with which he is charged.”</p>
+                <p pgmap="412" id="b412-4">
+                   The prejudice requirement has not been met in this instance. We do not find it necessary to determine whether there may have been ineffective assistance on the part of counsel because the petitioner’s allegations are insufficient to satisfy the Strickland requirement of “prejudice”. See also, Welch v. State, 283 Ark. 281, 675 S.W.2d 641 (1984), rehearing denied. Like­wise, the record and files do not support the proposition that under any circumstance the petitioner would have pled not guilty and insisted on going to trial, nor does petitioner allege any special consideration that might support this conclusion. Because the petitioner fails to allege the kind of “prejudice” necessary to satisfy the second half of the Strickland test, the trial court did not err in declining to hold a hearing on petitioner’s ineffective assistance of counsel claim.</p>
+                <p pgmap="412" id="b412-5">The appellant also claims that his guilty pleas were not voluntarily entered because he was coerced by the trial court’s denial of his motion for continuance. The appellant does not challenge the merits of the denial of his motion for continuance. Rather, he argues it was a coercive factor in his decision to plead guilty. Appellant maintains that, because of the denial, he either had to go to trial with an unprepared attorney or plead guilty.</p>
+                <p pgmap="412" id="b412-6">
+                   The denial of a motion for continuance rests in the sound discretion of the trial court and we do not reverse absent an abuse of that discretion. Clark v. State, 260 Ark. 479, 541 S.W.2d 683 (1976). Here the record demonstrates the appellant had eleven months to secure counsel and prepare for trial, and the trial court found that appellant had retained counsel until about a month before the trial date. At that time, appellant notified the court that his attorney was no longer representing him and that he would like time to hire a new attorney. The court contacted appellant to see if he had secured representation and told him that a public defender could be appointed for him. Subsequently a public defender was appointed.</p>
+                <p pgmap="412" id="b412-7">We agree with the trial court that the record illustrates that any delay in obtaining counsel was caused by appellant. This fact, coupled with appellant’s election to plead guilty rather than go to trial, renders this argument meritless.</p>
+                <p pgmap="413" id="b413-5">Appellant’s final contention is that the court erred in its failure to establish a factual basis for his guilty pleas.</p>
+                <p pgmap="413" id="b413-6">
+                   Ark. R. Crim. P. Rule 24.6 provides: “The court shall not enter a judgment upon a plea of guilty or nolo contendere without making such inquiry as will establish that there is a factual basis for the plea.” This rule is mandatory. Reed v. State, 276 Ark. 318, 635 S.W.2d 472 (1982); Irons v. State, 267 Ark. 469, 591 S.W.2d 650 (1980).</p>
+                <p pgmap="413" id="b413-7">Appellant signed a written plea statement indicating that he understood the charges against him and the consequences of pleading guilty, that his plea had not been induced by any “promises or threats”, that he realized the trial judge would decide what his sentence would be if he pled guilty, and that he had discussed the plea agreement with his attorney and was satisfied with his attorney’s advice. The last four lines of the plea agreement, just above the petitioner’s signature, read: “I have read everything in this paper including my lawyer’s certificate below. I understand what is being told me, what my rights are, and the questions that have been asked. My answer is ‘yes’ to all questions. I know what I am doing and am voluntarily pleading guilty because I am guilty as charged.”</p>
+                <p pgmap="413" id="b413-8">In reviewing this plea statement with the appellant and, in particular, the sentencing aspects, the following scenario occurred:</p>
+                <blockquote pgmap="413" id="b413-9">THE COURT: Now, is this in accordance with your understanding with Mr. Marquette as to what the State would recommend if you should enter your plea?</blockquote>
+                <blockquote pgmap="413" id="b413-10">MR. JONES: Yes, sir.</blockquote>
+                <blockquote pgmap="413" id="b413-11">THE COURT: Again, that’s the Court would sentence you to ten years and suspend four of that on each of the charges.</blockquote>
+                <blockquote pgmap="413" id="b413-12">Has anyone promised you anything other than a ten year sentence before your suspended, if you should enter your plea?</blockquote>
+                <blockquote pgmap="413" id="b413-13">MR. JONES: No, sir.</blockquote>
+                <blockquote pgmap="413(10) 414(11)" id="b413-14">THE COURT: Certainly, you are aware of your right to have a trial by a Jury if you should so wish?</blockquote>
+                <blockquote pgmap="414" id="b414-6">MR. JONES: Yes.</blockquote>
+                <blockquote pgmap="414" id="b414-7">THE COURT: Has there been any threats or coercion or force of any kind to induce you to enter your plea before this Court?</blockquote>
+                <blockquote pgmap="414" id="b414-8">MR. JONES: No, sir.</blockquote>
+                <blockquote pgmap="414" id="b414-9">THE COURT: Is there a factual basis for the plea?</blockquote>
+                <blockquote pgmap="414" id="b414-10">MR. JONES: Yes, sir, in each case.</blockquote>
+                <blockquote pgmap="414" id="b414-11">THE COURT: Mr. Marquette, are you satisfied that there is a factual basis?</blockquote>
+                <blockquote pgmap="414" id="b414-12">MR. MARQUETTE: Yes, sir.</blockquote>
+                <p pgmap="414" id="b414-13">Thereafter, the appellant interposed a plea of guilty to each case, by voicing his plea of guilty, the case number, the general nature of the charge in each case, and the date of the charge. After the appellant’s declarations, the court stated the sentence upon each charge and then asked appellant: “Now, is that in accordance with your understanding, Wendell, as to what the sentence the court would impose if you should enter your pleas?” Appellant replied, “Yes, sir.” The court then imposed the judgment and sentence.</p>
+                <p pgmap="414" id="b414-14">Under these circumstances, we find that the trial court substantially complied with Rule 24.6. See Shipman v. State, 261 Ark. 559, 550 S.W.2d 454 (1977).</p>
+                <p pgmap="414" id="b414-15">
+                   Although we find the trial court in substantial compli­ance with Rule 24.6, this court has observed a growing trend among trial judges to make casual and indirect inquiry as to the factual basis for pleas. Inasmuch as Rule 24.5 requires the trial court to address the defendant personally to determine whether or not any force or threats, or any promises apart from the plea agreement were used to induce the plea, the trial court could, and should, comply with Rule 24.6 by continuing a direct inquiry of the defendant as to the factual basis for his plea. This would, for all practical purposes, eliminate problems of compliance with this rule requiring inquiry as to the factual basis for a plea.</p>
+                <p pgmap="414(8) 415(14)" id="b414-16">Nevertheless, the record conclusively shows that this peti­tioner is not entitled to a hearing on any issue raised in his motion.</p>
+                <p pgmap="415" id="Ade">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="409" ORDERLABEL="375" TYPE="page">
+        <fptr FILEID="tiff_00205_0"/>
+        <fptr FILEID="jp2_00205_0"/>
+        <fptr FILEID="alto_00205_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_409.3" BETYPE="IDREF" FILEID="alto_00205_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="410" ORDERLABEL="376" TYPE="page">
+        <fptr FILEID="tiff_00205_1"/>
+        <fptr FILEID="jp2_00205_1"/>
+        <fptr FILEID="alto_00205_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_410.2" BETYPE="IDREF" FILEID="alto_00205_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="411" ORDERLABEL="377" TYPE="page">
+        <fptr FILEID="tiff_00206_0"/>
+        <fptr FILEID="jp2_00206_0"/>
+        <fptr FILEID="alto_00206_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_411.3" BETYPE="IDREF" FILEID="alto_00206_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="412" ORDERLABEL="378" TYPE="page">
+        <fptr FILEID="tiff_00206_1"/>
+        <fptr FILEID="jp2_00206_1"/>
+        <fptr FILEID="alto_00206_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_412.2" BETYPE="IDREF" FILEID="alto_00206_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="413" ORDERLABEL="379" TYPE="page">
+        <fptr FILEID="tiff_00207_0"/>
+        <fptr FILEID="jp2_00207_0"/>
+        <fptr FILEID="alto_00207_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_413.2" BETYPE="IDREF" FILEID="alto_00207_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="414" ORDERLABEL="380" TYPE="page">
+        <fptr FILEID="tiff_00207_1"/>
+        <fptr FILEID="jp2_00207_1"/>
+        <fptr FILEID="alto_00207_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_414.2" BETYPE="IDREF" FILEID="alto_00207_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="415" ORDERLABEL="381" TYPE="page">
+        <fptr FILEID="tiff_00208_0"/>
+        <fptr FILEID="jp2_00208_0"/>
+        <fptr FILEID="alto_00208_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_415.3" BETYPE="IDREF" FILEID="alto_00208_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b411-8" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_411.6" BETYPE="IDREF" FILEID="alto_00206_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AbYl" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_409.12" BETYPE="IDREF" FILEID="alto_00205_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b411-6" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_411.4" BETYPE="IDREF" FILEID="alto_00206_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b411-7" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_411.5" BETYPE="IDREF" FILEID="alto_00206_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b413-14" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_413.12" BETYPE="IDREF" FILEID="alto_00207_0"/>
+            <area BEGIN="BL_414.1" BETYPE="IDREF" FILEID="alto_00207_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ade" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_415.4" BETYPE="IDREF" FILEID="alto_00208_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b413-10" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_413.8" BETYPE="IDREF" FILEID="alto_00207_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b413-11" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_413.9" BETYPE="IDREF" FILEID="alto_00207_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b413-12" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_413.10" BETYPE="IDREF" FILEID="alto_00207_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b413-13" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_413.11" BETYPE="IDREF" FILEID="alto_00207_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b412-7" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_412.7" BETYPE="IDREF" FILEID="alto_00206_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b412-6" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_412.6" BETYPE="IDREF" FILEID="alto_00206_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b413-8" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_413.6" BETYPE="IDREF" FILEID="alto_00207_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b413-9" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_413.7" BETYPE="IDREF" FILEID="alto_00207_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b413-6" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_413.4" BETYPE="IDREF" FILEID="alto_00207_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b413-7" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_413.5" BETYPE="IDREF" FILEID="alto_00207_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b413-5" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_413.3" BETYPE="IDREF" FILEID="alto_00207_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b410-15" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_410.13" BETYPE="IDREF" FILEID="alto_00205_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b410-14" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_410.12" BETYPE="IDREF" FILEID="alto_00205_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AqWh" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_410.15" BETYPE="IDREF" FILEID="alto_00205_1"/>
+            <area BEGIN="BL_410.16" BETYPE="IDREF" FILEID="alto_00205_1"/>
+            <area BEGIN="BL_411.1" BETYPE="IDREF" FILEID="alto_00206_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b410-16" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_410.14" BETYPE="IDREF" FILEID="alto_00205_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b414-6" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_414.4" BETYPE="IDREF" FILEID="alto_00207_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AUR" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_409.10" BETYPE="IDREF" FILEID="alto_00205_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b414-11" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_414.9" BETYPE="IDREF" FILEID="alto_00207_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b414-10" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_414.8" BETYPE="IDREF" FILEID="alto_00207_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b414-13" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_414.11" BETYPE="IDREF" FILEID="alto_00207_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b414-12" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_414.10" BETYPE="IDREF" FILEID="alto_00207_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b414-15" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_414.13" BETYPE="IDREF" FILEID="alto_00207_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b414-14" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_414.12" BETYPE="IDREF" FILEID="alto_00207_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b414-16" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_414.14" BETYPE="IDREF" FILEID="alto_00207_1"/>
+            <area BEGIN="BL_415.1" BETYPE="IDREF" FILEID="alto_00208_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b415-5" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_415.5" BETYPE="IDREF" FILEID="alto_00208_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b414-9" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_414.7" BETYPE="IDREF" FILEID="alto_00207_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b414-8" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_414.6" BETYPE="IDREF" FILEID="alto_00207_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b409-11" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_409.11" BETYPE="IDREF" FILEID="alto_00205_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b409-10" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_409.9" BETYPE="IDREF" FILEID="alto_00205_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b414-7" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_414.5" BETYPE="IDREF" FILEID="alto_00207_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b412-5" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_412.5" BETYPE="IDREF" FILEID="alto_00206_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b412-4" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_412.4" BETYPE="IDREF" FILEID="alto_00206_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b411-12" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_411.8" BETYPE="IDREF" FILEID="alto_00206_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b411-13" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_411.9" BETYPE="IDREF" FILEID="alto_00206_0"/>
+            <area BEGIN="BL_412.1" BETYPE="IDREF" FILEID="alto_00206_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b411-11" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_411.7" BETYPE="IDREF" FILEID="alto_00206_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b409-9" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_409.8" BETYPE="IDREF" FILEID="alto_00205_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

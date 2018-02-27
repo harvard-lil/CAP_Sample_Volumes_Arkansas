@@ -1,0 +1,330 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0104" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="McDonald v. Smith">McDonald vs. Smith</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 460</citation>
+          <decisiondate>1860-07</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00231_1" MIMETYPE="image/tiff" CHECKSUM="de35e2195beb4db27f3c6f7ca5ff3ede" CHECKSUMTYPE="MD5" SIZE="35028">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00231_1.tif"/>
+      </file>
+      <file ID="tiff_00232_0" MIMETYPE="image/tiff" CHECKSUM="0241c4e49908131390ff3dbdf7e432e6" CHECKSUMTYPE="MD5" SIZE="34042">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00232_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00231_1" MIMETYPE="image/jp2" CHECKSUM="963044a552fd7b06d1740501f1233a24" CHECKSUMTYPE="MD5" SIZE="2459170">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00231_1.jp2"/>
+      </file>
+      <file ID="jp2_00232_0" MIMETYPE="image/jp2" CHECKSUM="7edc93b33364aec3c9900bbd1ae6a53d" CHECKSUMTYPE="MD5" SIZE="2508719">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00232_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00231_1" MIMETYPE="text/xml" CHECKSUM="a23f16039470763c36d27de4bd998cb9" CHECKSUMTYPE="MD5" SIZE="68627">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00231_1.xml"/>
+      </file>
+      <file ID="alto_00232_0" MIMETYPE="text/xml" CHECKSUM="d01e3421fdbe30407f631bf80183c4bb" CHECKSUMTYPE="MD5" SIZE="63895">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00232_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0104" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="461" firstpage="460">
+              <parties id="b462-6" pgmap="462">McDonald vs. Smith.</parties>
+              <attorneys id="b462-11" pgmap="462">Carleton for the appellant.</attorneys>
+              <summary id="b462-9" pgmap="462">Appeal from Columbia Circuit Court.</summary>
+              <summary id="b462-10" pgmap="462">Hon. Len B. Green, Circuit Judge.</summary>
+              <summary id="b462-12" pgmap="462">The testimony of the absent witness was legal and compe­tent — the defendant having procured the property in suit by fraud in the trade. Paige 537; Root vs. French, 13 Wend. 570.</summary>
+              <summary id="b462-13" pgmap="462">The overruling the appellant’s motion for a continuance not being a reasonable exercise of the discretion of this court, it is subject to revision and correction on appeal. Hensley et al. vs. Tucker, 5 Eng. 528.</summary>
+              <headnotes id="b462-7" pgmap="462">Where a person swaps personal property, receiving in exchange therefor other pro­perty, known by the party with whom the trade is made to have been stolen, he may, on such property being taken from him by the rightful owner, rescind the bargain and maintain replevin for his o wn property.</headnotes>
+              <headnotes id="b462-8" pgmap="462">Where the refusal of the circuit court to continue a cause on account of the absence of a material witness, operates as a denial of justice, its discretion is not exercised reasonably, and is subject to correction in this court.</headnotes>
+              <opinion type="majority">
+                <author id="b462-14" pgmap="462">Mr. Justice Fairchild</author>
+                <p id="AZQ" pgmap="462">delivered the opinion of the court.</p>
+                <p id="b462-15" pgmap="462(80) 463(75)">At the spring term, 1858, of the Columbia circuit court, the issues were made up in this case, it being an action of replevin for a mule, when the plaintiff filed an application for continu­ance, for the absence of a material witness. By that witness the plaintiff stated that he expected to prove that he had swapped the mule sued for, to the defendant, for a mare; that before this suit was begun, the mare had been proven and taken away from the plaintiff, as stolen property, and that he could prove such circumstances, as would tend to show that the defendant knew the mare to be stolen property when the trade was made; that upon the mare being proven from the plaintiff, he offered to return to the defendant the money given by him in addition to the mare for the mule, and demanded a recision of the bargain, which the defendant refused.</p>
+                <p id="b463-5" pgmap="463">In all formal requisites, the affidavit complied with the sta­tute. The court refused to grant a continuance, on the ground that the testimony was inadmissible. The plaintiff excepted to the ruling of the court, and refused to proceed in the trial of the cause. The court, at the instance of the defendant, ordered a jury to try the issues of the case, and there were verdict and judgment for the defendant — the plaintiff appealed, and the ground of appeal is, that the circuit court should not have over­ruled his application for a continuance.</p>
+                <p id="b463-6" pgmap="463">The court was wrong in its view of the testimony expected to be proven by the absent witness. It would have entitled the plaintiff to judgment, and when the plaintiff could not prove the facts by any other witness, and had been diligent to procure his attendance, to refuse the continuance was a denial of jus­tice to the plaintiff.</p>
+                <p id="b463-7" pgmap="463">The discretion of the court was not exercised reasonably, and is subject to correction here. Hensley vs. Tucker, 5 Eng. 528. The judgment is reversed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="462" ORDERLABEL="460" TYPE="page">
+        <fptr FILEID="tiff_00231_1"/>
+        <fptr FILEID="jp2_00231_1"/>
+        <fptr FILEID="alto_00231_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_462.1" BETYPE="IDREF" FILEID="alto_00231_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_462.2" BETYPE="IDREF" FILEID="alto_00231_1"/>
+              <area BEGIN="BL_462.3" BETYPE="IDREF" FILEID="alto_00231_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="463" ORDERLABEL="461" TYPE="page">
+        <fptr FILEID="tiff_00232_0"/>
+        <fptr FILEID="jp2_00232_0"/>
+        <fptr FILEID="alto_00232_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_463.3" BETYPE="IDREF" FILEID="alto_00232_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_463.2" BETYPE="IDREF" FILEID="alto_00232_0"/>
+              <area BEGIN="BL_463.4" BETYPE="IDREF" FILEID="alto_00232_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b462-6" BETYPE="IDREF" FILEID="casebody_0104"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_462.4" BETYPE="IDREF" FILEID="alto_00231_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b462-7" BETYPE="IDREF" FILEID="casebody_0104"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_462.5" BETYPE="IDREF" FILEID="alto_00231_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b462-8" BETYPE="IDREF" FILEID="casebody_0104"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_462.6" BETYPE="IDREF" FILEID="alto_00231_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b462-9" BETYPE="IDREF" FILEID="casebody_0104"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_462.7" BETYPE="IDREF" FILEID="alto_00231_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b463-7" BETYPE="IDREF" FILEID="casebody_0104"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_463.7" BETYPE="IDREF" FILEID="alto_00232_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b463-5" BETYPE="IDREF" FILEID="casebody_0104"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_463.5" BETYPE="IDREF" FILEID="alto_00232_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AZQ" BETYPE="IDREF" FILEID="casebody_0104"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_462.13" BETYPE="IDREF" FILEID="alto_00231_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b463-6" BETYPE="IDREF" FILEID="casebody_0104"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_463.6" BETYPE="IDREF" FILEID="alto_00232_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b462-10" BETYPE="IDREF" FILEID="casebody_0104"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_462.8" BETYPE="IDREF" FILEID="alto_00231_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b462-11" BETYPE="IDREF" FILEID="casebody_0104"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_462.9" BETYPE="IDREF" FILEID="alto_00231_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b462-12" BETYPE="IDREF" FILEID="casebody_0104"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_462.10" BETYPE="IDREF" FILEID="alto_00231_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b462-13" BETYPE="IDREF" FILEID="casebody_0104"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_462.11" BETYPE="IDREF" FILEID="alto_00231_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b462-14" BETYPE="IDREF" FILEID="casebody_0104"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_462.12" BETYPE="IDREF" FILEID="alto_00231_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b462-15" BETYPE="IDREF" FILEID="casebody_0104"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_462.14" BETYPE="IDREF" FILEID="alto_00231_1"/>
+            <area BEGIN="BL_463.1" BETYPE="IDREF" FILEID="alto_00232_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,463 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0145" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Borg-Warner Acceptance Corp. v. Kesterson">BORG-WARNER ACCEPTANCE CORPORATION v. Jefferson L. KESTERSON</name>
+          <docketnumber>85-310</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 611</citation>
+          <citation category="parallel" type="bluebook">708 S.W.2d 606</citation>
+          <decisiondate>1986-04-28</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:01Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00325_0" MIMETYPE="image/tiff" CHECKSUM="d871c3216b98867ea73aafb7c09c3132" CHECKSUMTYPE="MD5" SIZE="14642">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00325_0.tif"/>
+      </file>
+      <file ID="tiff_00325_1" MIMETYPE="image/tiff" CHECKSUM="eb484c1cf74b1bed4f9a760eb136b759" CHECKSUMTYPE="MD5" SIZE="39588">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00325_1.tif"/>
+      </file>
+      <file ID="tiff_00326_0" MIMETYPE="image/tiff" CHECKSUM="931fe07ae79b4a599999971e1755ca79" CHECKSUMTYPE="MD5" SIZE="44062">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00326_0.tif"/>
+      </file>
+      <file ID="tiff_00326_1" MIMETYPE="image/tiff" CHECKSUM="39f8ff4897bb3152c3f0d1270e003996" CHECKSUMTYPE="MD5" SIZE="37258">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00326_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00325_0" MIMETYPE="image/jp2" CHECKSUM="3d7e668513a11015320c4ec2155a1e17" CHECKSUMTYPE="MD5" SIZE="1583293">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00325_0.jp2"/>
+      </file>
+      <file ID="jp2_00325_1" MIMETYPE="image/jp2" CHECKSUM="fddadec3725a8f0040982bae2ac65e81" CHECKSUMTYPE="MD5" SIZE="2024813">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00325_1.jp2"/>
+      </file>
+      <file ID="jp2_00326_0" MIMETYPE="image/jp2" CHECKSUM="af04274b0d6673b98dbf22b3a570876a" CHECKSUMTYPE="MD5" SIZE="2446586">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00326_0.jp2"/>
+      </file>
+      <file ID="jp2_00326_1" MIMETYPE="image/jp2" CHECKSUM="55f46565ca6bd2bae69ef0454ecfdcf5" CHECKSUMTYPE="MD5" SIZE="2336375">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00326_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00325_0" MIMETYPE="text/xml" CHECKSUM="cb58a0670d6008e6b7576331fb8a9901" CHECKSUMTYPE="MD5" SIZE="19556">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00325_0.xml"/>
+      </file>
+      <file ID="alto_00325_1" MIMETYPE="text/xml" CHECKSUM="3cd0f531d420adaf9b06bfd8976e729d" CHECKSUMTYPE="MD5" SIZE="60859">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00325_1.xml"/>
+      </file>
+      <file ID="alto_00326_0" MIMETYPE="text/xml" CHECKSUM="26f974a440a5c4bc0f80e06ecb68583f" CHECKSUMTYPE="MD5" SIZE="71518">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00326_0.xml"/>
+      </file>
+      <file ID="alto_00326_1" MIMETYPE="text/xml" CHECKSUM="ac6720aae16d057d3768f7fb883097c0" CHECKSUMTYPE="MD5" SIZE="64441">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00326_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0145" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="611" lastpage="614">
+              <court pgmap="649" id="b649-10">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="649" id="b649-9">85-310</docketnumber>
+              <citation pgmap="649" id="AFE">708 S.W.2d 606</citation>
+              <parties pgmap="649" id="b649-8">BORG-WARNER ACCEPTANCE CORPORATION v. Jefferson L. KESTERSON</parties>
+              <decisiondate pgmap="649" id="AR3">Opinion delivered April 28, 1986</decisiondate>
+              <judges pgmap="652" id="b652-10">Purtle, J., not participating.</judges>
+              <attorneys pgmap="650" id="b650-10">Howell, Price &amp; Trice, P.A., by: Max Howell and Carey E. Basham, for appellant.</attorneys>
+              <attorneys pgmap="650" id="b650-11">Joe H. Hardegree, for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="650" id="b650-12">Robert H. Dudley, Justice.</author>
+                <p pgmap="650(225) 651(25)" id="AWG">Appellant, Borg-Warner Ac­ceptance Corporation, filed a complaint against the appellee, Jefferson L. Kesterson, seeking a deficiency judgment of $50,433.54, plus costs, interest, and attorney’s fees. The com­plaint was based upon a retail installment sales contract. On August 10, 1983, after the appellee had filed an answer, the appellant mailed requests for admissions to the appellee’s attor­ney. The requests included the following: “Please admit that the Defendant [appellee] is indebted to the Plaintiff [appellant] in the sum of $50,433.54, plus interest thereon at the rate provided by the Contract until paid in full.” The appellee did not answer the requests for admissions within 30 days after service, but finally responded on October 5, 1983. No excusable neglect, unavoidable casualty, or other just cause was pleaded as a reason for the untimely response. The appellant subsequently filed a motion requesting that the matters contained in the requests for admissions be deemed admitted and praying for summary judg­ment in the amount of $50,433.54, plus interest and costs. The trial judge refused to deem the requests admitted and denied the motion for summary judgment. A jury trial on the issue of the debt resulted in a verdict for the appellee. Appellant argues that the trial court erred in refusing to deem the requests admitted, in denying the motion for summary judgment, and in setting the matter for jury determination. The argument has merit, and accordingly, we reverse and instruct the trial court to grant judgment in favor of the appellant.</p>
+                <p pgmap="651" id="b651-6">
+                   ARCP Rule 36 provides in pertinent part:</p>
+                <blockquote pgmap="651" id="b651-7">(a) Request for Admission. A party may serve upon any other party written request for the admission, for purposes of the pending action, of the truth of any matters within the scope of Rule 26(b) set forth in the request that relate to statements or opinions of fact, ....</blockquote>
+                <blockquote pgmap="651" id="b651-8">Each matter of which an admission is requested shall be separately set forth. The matter is admitted unless, within 30 days after service of the request, or within such shorter or longer time as the court may allow, the party to whom the request is directed serves upon the party request­ing the admission a written answer or objection addressed to the matter, ....</blockquote>
+                <blockquote pgmap="651" id="b651-9">(b) Effect of Admission. Any matter admitted under this rule is conclusively established unless the court on motion permits withdrawal or amendment of the admission.</blockquote>
+                <p pgmap="651" id="b651-10">(Emphasis added.)</p>
+                <p pgmap="651" id="b651-11">
+                   ARCP Rule 6(b)(2) provides broadly for extensions of time to respond in instances of excusable neglect. It applies to requests for admissions. Barnett Restaurant Supply, Inc. v. Vance, 279 Ark. 222, 650 S.W.2d 568 (1983). Excusable neglect was neither pleaded nor proven in this case, and the response was not timely filed. In such cases we have consistently held that an untimely response results in an admission. In Womack v. Horton, 283 Ark. 227, 674 S.W.2d 935 (1984), we explained:</p>
+                <blockquote pgmap="651(46) 652(68)" id="b651-12">The policy of this court through the years has been to require compliance with the rule governing responses to requests for admissions. Barnett Restaurant Supply, Inc. v. Vance, 279 Ark, 222, 650 S.W.2d 568 (1983), citing Stocker v. Hall, 269 Ark. 468, 602 S.W.2d 662 (1980); White River Limestone Products Co. v. Mo. Pac. Rd. Co., 228 Ark. 697, 310 S.W.2d 3 (1958). If the responses are not on time or are faulty for some other reason, such as not being signed by the parties or being inadequate and deficient, this court has made it a practice of deeming the requests to be admitted. Stocker v. Hall, 269 Ark. 468, 602 S.W.2d 662 (1980).</blockquote>
+                <p pgmap="652" id="b652-6">Accordingly, the case must be reversed and remanded for entry of the judgment.</p>
+                <p pgmap="652" id="b652-7">We briefly discuss appellant’s other assignment of error because it appears to be a matter of some confusion. Appellant attached a certificate of no defense to its complaint. See Ark. Stat. Ann. § 27-1142 (Supp. 1985). Appellee did not file a timely affidavit of a good and valid defense. See Ark. Stat. Ann. § 27-­1142. The appellant contends that the trial court erred in refusing to strike the answer. .See Ark. Stat. Ann. § 27-1142 (Supp. 1985). The trial court was correct.</p>
+                <p pgmap="652" id="b652-8">
+                   ARCP Rule 8 sets out the required content of a complaint and of an answer. It is a rule of procedure and not a matter of substantive law. Ark. Stat. Ann. § 27-1142 does not conform with ARCP Rule 8, and therefore, it is deemed to be superseded even though it is not so listed in our per curiam order of December 18,1978. See Venable v. Becker, 287 Ark. 236, 697 S.W.2d 903 (1985). A suit to collect a debt is not a special proceeding as contemplated by ARCP Rule 81(a), and therefore, it is not subject to a different statute.</p>
+                <p pgmap="652" id="b652-9">Reversed and remanded.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="649" ORDERLABEL="611" TYPE="page">
+        <fptr FILEID="tiff_00325_0"/>
+        <fptr FILEID="jp2_00325_0"/>
+        <fptr FILEID="alto_00325_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_649.3" BETYPE="IDREF" FILEID="alto_00325_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="650" ORDERLABEL="612" TYPE="page">
+        <fptr FILEID="tiff_00325_1"/>
+        <fptr FILEID="jp2_00325_1"/>
+        <fptr FILEID="alto_00325_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_650.2" BETYPE="IDREF" FILEID="alto_00325_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="651" ORDERLABEL="613" TYPE="page">
+        <fptr FILEID="tiff_00326_0"/>
+        <fptr FILEID="jp2_00326_0"/>
+        <fptr FILEID="alto_00326_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_651.3" BETYPE="IDREF" FILEID="alto_00326_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="652" ORDERLABEL="614" TYPE="page">
+        <fptr FILEID="tiff_00326_1"/>
+        <fptr FILEID="jp2_00326_1"/>
+        <fptr FILEID="alto_00326_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_652.2" BETYPE="IDREF" FILEID="alto_00326_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b651-6" BETYPE="IDREF" FILEID="casebody_0145"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_651.4" BETYPE="IDREF" FILEID="alto_00326_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b651-7" BETYPE="IDREF" FILEID="casebody_0145"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_651.5" BETYPE="IDREF" FILEID="alto_00326_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AFE" BETYPE="IDREF" FILEID="casebody_0145"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_649.9" BETYPE="IDREF" FILEID="alto_00325_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b651-11" BETYPE="IDREF" FILEID="casebody_0145"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_651.9" BETYPE="IDREF" FILEID="alto_00326_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b651-8" BETYPE="IDREF" FILEID="casebody_0145"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_651.6" BETYPE="IDREF" FILEID="alto_00326_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b649-8" BETYPE="IDREF" FILEID="casebody_0145"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_649.7" BETYPE="IDREF" FILEID="alto_00325_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AWG" BETYPE="IDREF" FILEID="casebody_0145"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_650.12" BETYPE="IDREF" FILEID="alto_00325_1"/>
+            <area BEGIN="BL_650.13" BETYPE="IDREF" FILEID="alto_00325_1"/>
+            <area BEGIN="BL_651.1" BETYPE="IDREF" FILEID="alto_00326_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AR3" BETYPE="IDREF" FILEID="casebody_0145"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_649.11" BETYPE="IDREF" FILEID="alto_00325_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b651-9" BETYPE="IDREF" FILEID="casebody_0145"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_651.7" BETYPE="IDREF" FILEID="alto_00326_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b651-10" BETYPE="IDREF" FILEID="casebody_0145"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_651.8" BETYPE="IDREF" FILEID="alto_00326_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b652-10" BETYPE="IDREF" FILEID="casebody_0145"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_652.8" BETYPE="IDREF" FILEID="alto_00326_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b651-12" BETYPE="IDREF" FILEID="casebody_0145"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_651.10" BETYPE="IDREF" FILEID="alto_00326_0"/>
+            <area BEGIN="BL_652.1" BETYPE="IDREF" FILEID="alto_00326_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b649-9" BETYPE="IDREF" FILEID="casebody_0145"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_649.8" BETYPE="IDREF" FILEID="alto_00325_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b650-12" BETYPE="IDREF" FILEID="casebody_0145"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_650.11" BETYPE="IDREF" FILEID="alto_00325_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b650-11" BETYPE="IDREF" FILEID="casebody_0145"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_650.10" BETYPE="IDREF" FILEID="alto_00325_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b650-10" BETYPE="IDREF" FILEID="casebody_0145"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_650.9" BETYPE="IDREF" FILEID="alto_00325_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b649-10" BETYPE="IDREF" FILEID="casebody_0145"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_649.10" BETYPE="IDREF" FILEID="alto_00325_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b652-9" BETYPE="IDREF" FILEID="casebody_0145"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_652.7" BETYPE="IDREF" FILEID="alto_00326_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b652-7" BETYPE="IDREF" FILEID="casebody_0145"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_652.5" BETYPE="IDREF" FILEID="alto_00326_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b652-6" BETYPE="IDREF" FILEID="casebody_0145"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_652.4" BETYPE="IDREF" FILEID="alto_00326_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b652-8" BETYPE="IDREF" FILEID="casebody_0145"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_652.6" BETYPE="IDREF" FILEID="alto_00326_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,550 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0008" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Burnett v. Burkhead">Burnett vs. Burkhead &amp; wife</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 77</citation>
+          <decisiondate>1860-01</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00040_0" MIMETYPE="image/tiff" CHECKSUM="596c60a3315ceb53bfcda9a3b5f5d590" CHECKSUMTYPE="MD5" SIZE="33310">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00040_0.tif"/>
+      </file>
+      <file ID="tiff_00040_1" MIMETYPE="image/tiff" CHECKSUM="e3cc8e551820e6d0324f58a8ae108fbd" CHECKSUMTYPE="MD5" SIZE="45290">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00040_1.tif"/>
+      </file>
+      <file ID="tiff_00041_0" MIMETYPE="image/tiff" CHECKSUM="54e051d109da17d508c0e18d87792622" CHECKSUMTYPE="MD5" SIZE="45722">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00041_0.tif"/>
+      </file>
+      <file ID="tiff_00041_1" MIMETYPE="image/tiff" CHECKSUM="151b527f93fe3c575cdf3220490820b1" CHECKSUMTYPE="MD5" SIZE="21704">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00041_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00040_0" MIMETYPE="image/jp2" CHECKSUM="3ceb829a204aa996a4f66b419995b12e" CHECKSUMTYPE="MD5" SIZE="2576567">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00040_0.jp2"/>
+      </file>
+      <file ID="jp2_00040_1" MIMETYPE="image/jp2" CHECKSUM="95188a25ff54e468ddd9189edba16e36" CHECKSUMTYPE="MD5" SIZE="2552950">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00040_1.jp2"/>
+      </file>
+      <file ID="jp2_00041_0" MIMETYPE="image/jp2" CHECKSUM="052734ed50cb82bb73e1bcb874742f34" CHECKSUMTYPE="MD5" SIZE="2570141">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00041_0.jp2"/>
+      </file>
+      <file ID="jp2_00041_1" MIMETYPE="image/jp2" CHECKSUM="e11e77680cfbce98dd1a34f17cc65b05" CHECKSUMTYPE="MD5" SIZE="2375642">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00041_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00040_0" MIMETYPE="text/xml" CHECKSUM="69378efecad15f08814ee659de08a6ac" CHECKSUMTYPE="MD5" SIZE="65435">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00040_0.xml"/>
+      </file>
+      <file ID="alto_00040_1" MIMETYPE="text/xml" CHECKSUM="51e6a669aa9e00f2bfa2220e21e52123" CHECKSUMTYPE="MD5" SIZE="82283">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00040_1.xml"/>
+      </file>
+      <file ID="alto_00041_0" MIMETYPE="text/xml" CHECKSUM="e7d860ff034c5c93b30eb8f2cfa8e827" CHECKSUMTYPE="MD5" SIZE="88205">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00041_0.xml"/>
+      </file>
+      <file ID="alto_00041_1" MIMETYPE="text/xml" CHECKSUM="34dea458fc9000b7f026c7a09adb5207" CHECKSUMTYPE="MD5" SIZE="43930">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00041_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0008" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="80" firstpage="77">
+              <parties id="b79-5" pgmap="79">Burnett vs. Burkhead &amp; wife.</parties>
+              <judges id="b82-7" pgmap="82">Absent, Mr. Justice Rector.</judges>
+              <attorneys id="b79-11" pgmap="79">Hsllowell, for the plaintiff.</attorneys>
+              <summary id="b79-15" pgmap="79">Error to Yell Circuit Court.</summary>
+              <summary id="b79-10" pgmap="79">Hon. John J. Clendenin, Circuit Judge.</summary>
+              <summary id="b79-12" pgmap="79">It is submitted that the Court erred in excluding from the jury the declarations of the wife; and the case does not fall within the rule laid down in Funkhouser et al. vs. Pogue, 13 Ark. 291; that the declarations were admissible as evidence against herself, if not against her husband. 1 Phill. on Ev. 76, 77, 78; that the receiving of his wife by the defendants, and taking her to California was a wrong, for which they have shown no justification.</summary>
+              <headnotes id="b79-8" pgmap="79">In an action against the husband and wife for a trespass, the plaintiff cannot introduce the declarations or admissions of the wife to prove the injury alleged. (Funkhouser et al. vs. Pogue, 13 Ark. 295.)</headnotes>
+              <headnotes id="b79-9" pgmap="79">Where the wife separates from her husband, of her own accord, and without any fault on the part of her parents, they are not liable to an action at the suit of the husband for receiving her and affording her shelter and support.</headnotes>
+              <opinion type="majority">
+                <author id="b79-13" pgmap="79">Mr. Chief Justice English</author>
+                <p id="Aj" pgmap="79">delivered the opinion of the Court.</p>
+                <p id="b79-14" pgmap="79(63) 80(15)">This was trespass vi et armis brought by Nevell W. Burnett against John R. Burkhead and Mary Ann, his wife, in the Yell Circuit Court. The declaration alleges that the defendants ' committed an assault and battery upon Harriet Ann, the wife of the plaintiff, and forcibly, and against her will, took and detained her from the plaintiff, whereby he lost her comfort, assistance, etc. The cause was submitted to the jury on the plea of not guilty.</p>
+                <p id="b80-5" pgmap="80">The plaintiff, after proving his marriage with Harriet Ann Burkhead, (daughter of defendants), and that she was his wife, offered to introduce the declarations and • admissions of the defendant Mary Ann, that she had taken plaintiff’s wife away from him by force, and against her will, and declared that shé should never live with him again;</p>
+                <p id="b80-6" pgmap="80">But the Court ruled out her declarations.</p>
+                <p id="b80-7" pgmap="80">Plaintiff then proved that his wife, Harriet Ann, left his house, and separated from him in November, 1855, and within about four weeks after their marriage. That during their in­termarriage he remained and lived with his said wife; and that in April, 1856, defendants took plaintiff’s wife with them to California. Such is the substance of the evidence as contained in the bill of exceptions.</p>
+                <p id="b80-8" pgmap="80">Plaintiff moved the Court to charge the jury as follows:</p>
+                <blockquote id="b80-9" pgmap="80">“1. If the jury believe from the evidence that Harriet Ann Burnett and the plaintiff were husband and wife, and defen­dants took her off to a foreign State, without the consent of the plaintiff, they must find for the plaintiff.</blockquote>
+                <blockquote id="b80-10" pgmap="80">“ 2. If the jury believe from the evidence that defendants induced plaintiff’s wife to leave and separate from him, with­out his consent, they should find for plaintiff.</blockquote>
+                <blockquote id="b80-11" pgmap="80">“ 3. The jury may infer from the fact of plaintiff’s wife liv­ing with defendants, and going away with them, that defendants induced her to separate from her husband, and if they did, they should find for plaintiff.”</blockquote>
+                <p id="b80-12" pgmap="80">The Court refused to give these instructions, but upon the motion of defendants instructed the jury as follows:</p>
+                <blockquote id="b80-13" pgmap="80">“ 1. That if they believe from the testimony that the wife of plaintiff separated from him, and went to live with the defen­dants, who were her father and mother, the plaintiff cannot recover in this action.</blockquote>
+                <blockquote id="b80-14" pgmap="80(11) 81(19)">“ 2. That when a man’s daughter separates from her husband,' and goes to her father’s house, he has the legal right to take her in, and to support her.”</blockquote>
+                <p id="b81-5" pgmap="81">The jury returned a verdict in favor of the defendants; the plaintiff moved for a new trial, which the Court refused, and he excepted, and appealed.</p>
+                <p id="b81-6" pgmap="81">In an action against husband and wife for. a trespass, the plaintiff cannot introduce the declarations or admissions of the wife to prove the injury alleged. If her declarations or con­fessions were admitted, it would be, in effect, making her a witness to charge the husband. Funkhouser et al. vs. Pogue 13 Ark. 295.</p>
+                <p id="b81-7" pgmap="81">It is to be inferred from the evidence, as stated in the bill of exceptions, that the plaintiff’s wife lived with him about a month after their marriage; and then, in November, 1855, sepa­rated from him, and returned to her parents (the defendants) and lived with them until the following April, when they removed to California, taking her with them. The action, it appears, was commenced, and the writ served, before they left.</p>
+                <p id="b81-8" pgmap="81">The plaintiff utterly failed to prove that his wife was forcibly taken from him by the defendants, or that they induced her to leave him, or in any manner caused the separation, or force or persuasion, prevented her from returning to him.</p>
+                <p id="b81-9" pgmap="81">Nor is the guilty agency of the defendants to be inferred from the fact that the plaintiff’s wife, on separating from him, went to the house of the defendants, and remained with them. It was her former home — they were her parents. As well remarked by Kent, C. J., in Hutcheson vs. Peck, 5 John. 209, a father’s house is always open to his children; and, whether they be married or unmarried, it is still to them a refuge from evil, and a consolation in distress. Natural affection establishes and consecrates this asylum. Having determined to separate from her husband (whether for or without sufficient cause, does not appear from the evidence,) it was natural for the plaintiff’s wife to return to her father’s house, and it was as natural for her parents to receive her, and afford her shelter and support.</p>
+                <p id="b82-5" pgmap="82">As remarked by Mr. Justice Van Ness, in the case above referred to, the conduct of parents, in such cases, is to be liberally construed, and worthy motives are to be presumed. This is clearly the dictate of reason and nature.</p>
+                <p id="b82-6" pgmap="82">The Court below did not err in refusing a new trial, and the judgment is affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="79" ORDERLABEL="77" TYPE="page">
+        <fptr FILEID="tiff_00040_0"/>
+        <fptr FILEID="jp2_00040_0"/>
+        <fptr FILEID="alto_00040_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_79.2" BETYPE="IDREF" FILEID="alto_00040_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_79.1" BETYPE="IDREF" FILEID="alto_00040_0"/>
+              <area BEGIN="BL_79.3" BETYPE="IDREF" FILEID="alto_00040_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="80" ORDERLABEL="78" TYPE="page">
+        <fptr FILEID="tiff_00040_1"/>
+        <fptr FILEID="jp2_00040_1"/>
+        <fptr FILEID="alto_00040_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_80.2" BETYPE="IDREF" FILEID="alto_00040_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_80.3" BETYPE="IDREF" FILEID="alto_00040_1"/>
+              <area BEGIN="BL_80.4" BETYPE="IDREF" FILEID="alto_00040_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="81" ORDERLABEL="79" TYPE="page">
+        <fptr FILEID="tiff_00041_0"/>
+        <fptr FILEID="jp2_00041_0"/>
+        <fptr FILEID="alto_00041_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_81.3" BETYPE="IDREF" FILEID="alto_00041_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_81.2" BETYPE="IDREF" FILEID="alto_00041_0"/>
+              <area BEGIN="BL_81.4" BETYPE="IDREF" FILEID="alto_00041_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="82" ORDERLABEL="80" TYPE="page">
+        <fptr FILEID="tiff_00041_1"/>
+        <fptr FILEID="jp2_00041_1"/>
+        <fptr FILEID="alto_00041_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_82.1" BETYPE="IDREF" FILEID="alto_00041_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_82.2" BETYPE="IDREF" FILEID="alto_00041_1"/>
+              <area BEGIN="BL_82.3" BETYPE="IDREF" FILEID="alto_00041_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_82.7" BETYPE="IDREF" FILEID="alto_00041_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b79-13" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_79.11" BETYPE="IDREF" FILEID="alto_00040_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b79-12" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_79.10" BETYPE="IDREF" FILEID="alto_00040_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b79-11" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_79.9" BETYPE="IDREF" FILEID="alto_00040_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b79-10" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_79.8" BETYPE="IDREF" FILEID="alto_00040_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b79-15" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_79.7" BETYPE="IDREF" FILEID="alto_00040_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b79-14" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_79.13" BETYPE="IDREF" FILEID="alto_00040_0"/>
+            <area BEGIN="BL_80.1" BETYPE="IDREF" FILEID="alto_00040_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b82-5" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_82.4" BETYPE="IDREF" FILEID="alto_00041_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b82-7" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_82.6" BETYPE="IDREF" FILEID="alto_00041_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b82-6" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_82.5" BETYPE="IDREF" FILEID="alto_00041_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b80-14" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_80.14" BETYPE="IDREF" FILEID="alto_00040_1"/>
+            <area BEGIN="BL_81.1" BETYPE="IDREF" FILEID="alto_00041_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b80-13" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_80.13" BETYPE="IDREF" FILEID="alto_00040_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b80-12" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_80.12" BETYPE="IDREF" FILEID="alto_00040_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b80-11" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_80.11" BETYPE="IDREF" FILEID="alto_00040_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b80-10" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_80.10" BETYPE="IDREF" FILEID="alto_00040_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b81-8" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_81.8" BETYPE="IDREF" FILEID="alto_00041_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aj" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_79.12" BETYPE="IDREF" FILEID="alto_00040_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b81-7" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_81.7" BETYPE="IDREF" FILEID="alto_00041_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b81-6" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_81.6" BETYPE="IDREF" FILEID="alto_00041_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b80-9" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_80.9" BETYPE="IDREF" FILEID="alto_00040_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b79-5" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_79.4" BETYPE="IDREF" FILEID="alto_00040_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b80-8" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_80.8" BETYPE="IDREF" FILEID="alto_00040_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b80-7" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_80.7" BETYPE="IDREF" FILEID="alto_00040_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b80-6" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_80.6" BETYPE="IDREF" FILEID="alto_00040_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b79-9" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_79.6" BETYPE="IDREF" FILEID="alto_00040_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b79-8" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_79.5" BETYPE="IDREF" FILEID="alto_00040_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b81-9" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_81.9" BETYPE="IDREF" FILEID="alto_00041_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b81-5" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_81.5" BETYPE="IDREF" FILEID="alto_00041_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b80-5" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_80.5" BETYPE="IDREF" FILEID="alto_00040_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

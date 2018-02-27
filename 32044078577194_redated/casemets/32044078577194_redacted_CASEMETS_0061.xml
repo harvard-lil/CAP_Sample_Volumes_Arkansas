@@ -1,0 +1,430 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0061" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Story v. American States Insurance">Dennis Rex STORY v. AMERICAN STATES INSURANCE COMPANY</name>
+          <docketnumber>85-277</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 257</citation>
+          <citation category="parallel" type="bluebook">704 S.W.2d 162</citation>
+          <decisiondate>1986-02-24</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:00Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00143_0" MIMETYPE="image/tiff" CHECKSUM="d73b0232bb66b4ff7e6cc26b8b3a6d9f" CHECKSUMTYPE="MD5" SIZE="21802">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00143_0.tif"/>
+      </file>
+      <file ID="tiff_00143_1" MIMETYPE="image/tiff" CHECKSUM="bdd2582bb8bd53580941ec56e4dc77a6" CHECKSUMTYPE="MD5" SIZE="39008">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00143_1.tif"/>
+      </file>
+      <file ID="tiff_00144_0" MIMETYPE="image/tiff" CHECKSUM="1143cf04e1b4d37d9974c87f465ae5f8" CHECKSUMTYPE="MD5" SIZE="57702">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00144_0.tif"/>
+      </file>
+      <file ID="tiff_00144_1" MIMETYPE="image/tiff" CHECKSUM="11e3a2acbfe1ca4d305af8a5d4e4976a" CHECKSUMTYPE="MD5" SIZE="42678">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00144_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00143_0" MIMETYPE="image/jp2" CHECKSUM="c1ad1cdaf92ed5fb31fbb27655f6c2d7" CHECKSUMTYPE="MD5" SIZE="1842832">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00143_0.jp2"/>
+      </file>
+      <file ID="jp2_00143_1" MIMETYPE="image/jp2" CHECKSUM="74a2110116f33082e08487ec9f04e402" CHECKSUMTYPE="MD5" SIZE="2182299">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00143_1.jp2"/>
+      </file>
+      <file ID="jp2_00144_0" MIMETYPE="image/jp2" CHECKSUM="a4a2cfa25e29e86f8ff5dea176f21c76" CHECKSUMTYPE="MD5" SIZE="2563077">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00144_0.jp2"/>
+      </file>
+      <file ID="jp2_00144_1" MIMETYPE="image/jp2" CHECKSUM="a513ea24506c93d8bf0d14560ff276b6" CHECKSUMTYPE="MD5" SIZE="2451106">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00144_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00143_0" MIMETYPE="text/xml" CHECKSUM="e037cf8e2c97a949b37e9dda0d87b3a2" CHECKSUMTYPE="MD5" SIZE="35799">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00143_0.xml"/>
+      </file>
+      <file ID="alto_00143_1" MIMETYPE="text/xml" CHECKSUM="fccafa7af5a24b5f7db853e040bf3c36" CHECKSUMTYPE="MD5" SIZE="59074">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00143_1.xml"/>
+      </file>
+      <file ID="alto_00144_0" MIMETYPE="text/xml" CHECKSUM="f8a9f974be90ef6c70a4aa215a71a8b7" CHECKSUMTYPE="MD5" SIZE="97977">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00144_0.xml"/>
+      </file>
+      <file ID="alto_00144_1" MIMETYPE="text/xml" CHECKSUM="142c9a6f1c93e166bbe6320a395a1a06" CHECKSUMTYPE="MD5" SIZE="72818">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00144_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0061" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="257" lastpage="260">
+              <court pgmap="285" id="b285-10">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="285" id="b285-9">85-277</docketnumber>
+              <citation pgmap="285" id="AKe">704 S.W.2d 162</citation>
+              <parties pgmap="285" id="b285-8">Dennis Rex STORY v. AMERICAN STATES INSURANCE COMPANY</parties>
+              <decisiondate pgmap="285" id="AMxv">Opinion delivered February 24, 1986</decisiondate>
+              <judges pgmap="288" id="b288-10">Purtle, J., not participating.</judges>
+              <attorneys pgmap="286" id="b286-7">Clark &amp; Adkisson, for appellant.</attorneys>
+              <attorneys pgmap="286" id="b286-8">Barber, McCaskill, Amsler, Jones &amp; Hale, P.A., for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="286" id="b286-9">George Rose Smith, Justice.</author>
+                <p pgmap="286" id="ASx">The claims asserted on this appeal arose during the construction of a building in Searcy. The appellee, American States, was the surety on the general contrac­tor’s payment and performance bond. The plumbing subcontrac­tor, Central Mechanical Contractors, Inc., was owned by the appellant, Dennis Rex Story, and his wife Linda. The original plaintiff, Apache Supply Company, sold plumbing materials to Central Mechanical, which used them in the performance of its subcontract. Central Mechanical had financial problems and failed to pay Apache the final balance of about $ 13,000, although Central Mechanical had been fully paid by the general contractor.</p>
+                <p pgmap="286" id="b286-10">Apache, as a materialman, began this litigation by filing suit against American States for the $ 13,000 balance owed to Apache by Central Mechanical. American States denied liability. It also filed a third-party complaint against Central Mechanical and the appellant Story, asserting that if American States should be held liable to Apache, then American States was entitled to judgment over against Central Mechanical and Story, because the general contractor had paid Central Mechanical in full and Story had converted the funds. Upon trial without a jury the court found for Apache against American States and gave American States a judgment over against Story. He appeals and American States cross appeals. The Court of Appeals transferred the case to us under Rule 29(4)(b).</p>
+                <p pgmap="287" id="b287-3">
+                   On direct appeal Story first argues that the third-party complaint against him should have been dismissed for want of venue, because the suit was brought in Pulaski County, but he resides in Faulkner County, was served in Faulkner County, and must be sued there. Our Venue Act, however, was amended in 1977 to provide that an action for conversion may be brought in the county where the conversion occurred or where the owner of the converted property resided at the time. Hence the venue was proper if Story had been guilty of conversion.</p>
+                <p pgmap="287" id="b287-4">
+                   We think the proof was sufficient. The claim arose because Central Mechanical was in financial trouble and was using new money to pay old accounts. Story tried to disclaim personal responsibility by saying that his wife was the bookkeeper and was in charge of such matters. The trial judge, however, did not have to accept that disclaimer in view of the fact that the husband and wife operated the business together. Furthermore, Mrs. Story evidently looked to her husband for instructions, for when she was asked why she had posted a payment to the wrong account she answered: “At the time I probably couldn’t run Rex down,” so she posted the payment to the wrong account. She also admitted that at times when she had closed her books on a job as being finished and another payment came in, she applied it to another job. At one point she conceded: “Well, okay, I lied then.” The testimony was sufficient to support the trial court’s finding that Story had been guilty of conversion by taking payments that should have been applied to the Searcy job and applying them to other accounts. It is not argued that such conduct would not be a conversion. See Hooten v. State Use Cross County, 119 Ark. 334, 178 S.W. 310, LRA 1916C, 544(1915), and case note, 9 Ark. L. Rev. 72 (1954). Even though Central Mechanical was a corpora­tion, Story is liable for his own torts. As to him the venue was proper.</p>
+                <p pgmap="287(77) 288(44)" id="b287-5">
+                   Story also argues that the third-party complaint was not maintainable because it asserted a claim entirely separate from the principal cause of action against American States, Nolen v. Prickett, 268 Ark. 369, 596 S.W.2d 693 (1980). We do not agree. Apache asserted a cause of action against American States only because the general contractor had paid Central Mechanical for the supplies it had bought from Apache, but the payments had been wrongfully applied to other accounts, leaving American States liable on its bond. Hence, unlike the situation in the Nolen case, the same basic claim was involved; so it was desirable that all parties be brought into one lawsuit and that their conflicting claims be disposed of in a single trial.</p>
+                <p pgmap="288" id="b288-6">Story also argues on direct appeal that if he is liable to American States, he should be credited with the 10% retainage that American State’s principal, the general contractor, was entitled to hold back from its payments to the subcontractor. That contention should have been pressed in the trial court and cannot be asserted for the first time on appeal.</p>
+                <p pgmap="288" id="b288-7">
+                   On cross appeal American States insists that the trial court, in addition to entering judgment against Story for the amount recovered by Apache, with interest, should have given American States judgment over for the penalty and attorney’s fee that were recovered by Apache. This argument is not sound. When the suit was brought by Apache, American States could have confessed judgment for the amount claimed and thereby avoided liability for the penalty and attorney’s fee. Instead, it chose to deny liability and force Apache to prove its claim, which it did. The liability for the penalty and attorney’s fee was incurred by American States, not by Story; so the trial court’s judgment was correct.</p>
+                <p pgmap="288" id="b288-8">American States also argues that Apache failed to prove that all the material for which it claims payment actually went into the Searcy job. This was an issue of fact, as to which Apache made a convincing prima facie case which was not overcome by contrary proof. It would serve no useful purpose for us to discuss the facts in detail, which are set forth in the cross appellee’s brief. We cannot say that the trial court’s decision is clearly erroneous.</p>
+                <p pgmap="288" id="b288-9">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="285" ORDERLABEL="257" TYPE="page">
+        <fptr FILEID="tiff_00143_0"/>
+        <fptr FILEID="jp2_00143_0"/>
+        <fptr FILEID="alto_00143_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_285.2" BETYPE="IDREF" FILEID="alto_00143_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="286" ORDERLABEL="258" TYPE="page">
+        <fptr FILEID="tiff_00143_1"/>
+        <fptr FILEID="jp2_00143_1"/>
+        <fptr FILEID="alto_00143_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_286.2" BETYPE="IDREF" FILEID="alto_00143_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="287" ORDERLABEL="259" TYPE="page">
+        <fptr FILEID="tiff_00144_0"/>
+        <fptr FILEID="jp2_00144_0"/>
+        <fptr FILEID="alto_00144_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_287.2" BETYPE="IDREF" FILEID="alto_00144_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="288" ORDERLABEL="260" TYPE="page">
+        <fptr FILEID="tiff_00144_1"/>
+        <fptr FILEID="jp2_00144_1"/>
+        <fptr FILEID="alto_00144_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_288.2" BETYPE="IDREF" FILEID="alto_00144_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b288-8" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_288.6" BETYPE="IDREF" FILEID="alto_00144_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b288-9" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_288.7" BETYPE="IDREF" FILEID="alto_00144_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b285-10" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_285.11" BETYPE="IDREF" FILEID="alto_00143_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b288-6" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_288.4" BETYPE="IDREF" FILEID="alto_00144_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b288-7" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_288.5" BETYPE="IDREF" FILEID="alto_00144_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ASx" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_286.10" BETYPE="IDREF" FILEID="alto_00143_1"/>
+            <area BEGIN="BL_286.11" BETYPE="IDREF" FILEID="alto_00143_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AKe" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_285.10" BETYPE="IDREF" FILEID="alto_00143_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b286-10" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_286.12" BETYPE="IDREF" FILEID="alto_00143_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b288-10" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_288.8" BETYPE="IDREF" FILEID="alto_00144_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AMxv" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_285.12" BETYPE="IDREF" FILEID="alto_00143_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b286-8" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_286.8" BETYPE="IDREF" FILEID="alto_00143_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b286-9" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_286.9" BETYPE="IDREF" FILEID="alto_00143_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b285-9" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_285.9" BETYPE="IDREF" FILEID="alto_00143_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b285-8" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_285.8" BETYPE="IDREF" FILEID="alto_00143_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b287-5" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_287.5" BETYPE="IDREF" FILEID="alto_00144_0"/>
+            <area BEGIN="BL_288.1" BETYPE="IDREF" FILEID="alto_00144_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b287-4" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_287.4" BETYPE="IDREF" FILEID="alto_00144_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b287-3" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_287.3" BETYPE="IDREF" FILEID="alto_00144_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b286-7" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_286.7" BETYPE="IDREF" FILEID="alto_00143_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

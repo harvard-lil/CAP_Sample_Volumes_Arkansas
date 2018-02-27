@@ -1,0 +1,329 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0058" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Memphis &amp; St. Francis Plank Road Co. v. Banere &amp; Brown">Memphis &amp; St. Francis Plank Road Co. vs. Banere &amp; Brown</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 306</citation>
+          <decisiondate>1860-05</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00154_1" MIMETYPE="image/tiff" CHECKSUM="6bf224df8f19497dd485b6f718073015" CHECKSUMTYPE="MD5" SIZE="16686">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00154_1.tif"/>
+      </file>
+      <file ID="tiff_00155_0" MIMETYPE="image/tiff" CHECKSUM="cb6e97ebff2ecf54e8ab14395544ceff" CHECKSUMTYPE="MD5" SIZE="20090">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00155_0.tif"/>
+      </file>
+      <file ID="tiff_00155_1" MIMETYPE="image/tiff" CHECKSUM="628e4065ffb810fb1ad9e9dd2d25209d" CHECKSUMTYPE="MD5" SIZE="2248">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00155_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00154_1" MIMETYPE="image/jp2" CHECKSUM="7f24f92a392a873c324558ef6344667c" CHECKSUMTYPE="MD5" SIZE="2375629">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00154_1.jp2"/>
+      </file>
+      <file ID="jp2_00155_0" MIMETYPE="image/jp2" CHECKSUM="c3a8cd89ac9dfcf37f037b68d866b479" CHECKSUMTYPE="MD5" SIZE="2420225">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00155_0.jp2"/>
+      </file>
+      <file ID="jp2_00155_1" MIMETYPE="image/jp2" CHECKSUM="1e77e63d3f4ce8668261c67c71648931" CHECKSUMTYPE="MD5" SIZE="2225337">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00155_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00154_1" MIMETYPE="text/xml" CHECKSUM="d2b258f5187ac5092ea99a264be171f1" CHECKSUMTYPE="MD5" SIZE="32150">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00154_1.xml"/>
+      </file>
+      <file ID="alto_00155_0" MIMETYPE="text/xml" CHECKSUM="8410c8162761b52473de77b6a5894e3f" CHECKSUMTYPE="MD5" SIZE="37434">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00155_0.xml"/>
+      </file>
+      <file ID="alto_00155_1" MIMETYPE="text/xml" CHECKSUM="dc32fcb13468cacaebed0a701caaa082" CHECKSUMTYPE="MD5" SIZE="1663">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00155_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0058" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="308" firstpage="306">
+              <parties id="b308-9" pgmap="308">Memphis &amp; St. Francis Plank Road Co. vs. Banere &amp; Brown.</parties>
+              <attorneys id="b309-5" pgmap="309">Alexander, for the appellant.</attorneys>
+              <attorneys id="b309-6" pgmap="309">Fowler &amp; Stillwell, for the appellee.</attorneys>
+              <summary id="b309-3" pgmap="309">Appeal from Phillips Circuit Court.</summary>
+              <summary id="b309-4" pgmap="309">Hon. George W. Beazley, Circuit Judge.</summary>
+              <headnotes id="b308-10" pgmap="308">This court will not grant a new trial, on the evidence, where there is not a total want of evidence to sustain the finding.</headnotes>
+              <opinion type="majority">
+                <author id="b309-7" pgmap="309">Mr. Justice Compton</author>
+                <p id="AIp" pgmap="309">delivered the opinion of the Court.</p>
+                <p id="b309-8" pgmap="309">This case originated before a justice of the peace, and was brought by appeal into the Circuit Court, where, on a trial dt novo, the appellees recovered judgment.</p>
+                <p id="b309-9" pgmap="309">It is urged in argument here, that the evidence does not sus­tain the finding of the Circuit Judge, who tried the case sitting as a jury. Upon looking into the record, we do not perceive a total want of evidence to support the finding; and therefore, according to the settled practice of this court; the finding will not be disturbed.</p>
+                <p id="b309-10" pgmap="309">Let the judgment be affirmed with costs.</p>
+                <p id="b310-1" pgmap="310">L</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="308" ORDERLABEL="306" TYPE="page">
+        <fptr FILEID="tiff_00154_1"/>
+        <fptr FILEID="jp2_00154_1"/>
+        <fptr FILEID="alto_00154_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_308.2" BETYPE="IDREF" FILEID="alto_00154_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_308.3" BETYPE="IDREF" FILEID="alto_00154_1"/>
+              <area BEGIN="BL_308.4" BETYPE="IDREF" FILEID="alto_00154_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_308.6" BETYPE="IDREF" FILEID="alto_00154_1"/>
+              <area BEGIN="BL_308.10" BETYPE="IDREF" FILEID="alto_00154_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="309" ORDERLABEL="307" TYPE="page">
+        <fptr FILEID="tiff_00155_0"/>
+        <fptr FILEID="jp2_00155_0"/>
+        <fptr FILEID="alto_00155_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_309.2" BETYPE="IDREF" FILEID="alto_00155_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_309.1" BETYPE="IDREF" FILEID="alto_00155_0"/>
+              <area BEGIN="BL_309.3" BETYPE="IDREF" FILEID="alto_00155_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="310" ORDERLABEL="308" TYPE="page">
+        <fptr FILEID="tiff_00155_1"/>
+        <fptr FILEID="jp2_00155_1"/>
+        <fptr FILEID="alto_00155_1"/>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b308-9" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_308.11" BETYPE="IDREF" FILEID="alto_00154_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b309-10" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_309.12" BETYPE="IDREF" FILEID="alto_00155_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b309-9" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_309.11" BETYPE="IDREF" FILEID="alto_00155_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b309-4" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_309.5" BETYPE="IDREF" FILEID="alto_00155_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b309-5" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_309.6" BETYPE="IDREF" FILEID="alto_00155_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b309-6" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_309.7" BETYPE="IDREF" FILEID="alto_00155_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b309-7" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_309.8" BETYPE="IDREF" FILEID="alto_00155_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AIp" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_309.9" BETYPE="IDREF" FILEID="alto_00155_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b309-3" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_309.4" BETYPE="IDREF" FILEID="alto_00155_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b310-1" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_310.1" BETYPE="IDREF" FILEID="alto_00155_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b309-8" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_309.10" BETYPE="IDREF" FILEID="alto_00155_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b308-10" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_308.12" BETYPE="IDREF" FILEID="alto_00154_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

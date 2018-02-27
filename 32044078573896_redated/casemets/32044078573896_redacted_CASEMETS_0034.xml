@@ -1,0 +1,944 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0034" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Scott v. Orbison">Scott vs. Orbison et al.</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 202</citation>
+          <decisiondate>1860-01</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00102_1" MIMETYPE="image/tiff" CHECKSUM="f1dd6586a4ce53cb88b3ec4f096c86b7" CHECKSUMTYPE="MD5" SIZE="37996">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00102_1.tif"/>
+      </file>
+      <file ID="tiff_00103_0" MIMETYPE="image/tiff" CHECKSUM="923642039db2a4dbcefd179e722a06df" CHECKSUMTYPE="MD5" SIZE="45200">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00103_0.tif"/>
+      </file>
+      <file ID="tiff_00103_1" MIMETYPE="image/tiff" CHECKSUM="9ced507c7feb0add026f18def4653dc6" CHECKSUMTYPE="MD5" SIZE="48244">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00103_1.tif"/>
+      </file>
+      <file ID="tiff_00104_0" MIMETYPE="image/tiff" CHECKSUM="c5e5214192cb3270b9334e31ce2efb5a" CHECKSUMTYPE="MD5" SIZE="49778">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00104_0.tif"/>
+      </file>
+      <file ID="tiff_00104_1" MIMETYPE="image/tiff" CHECKSUM="2bada27b6159243e07e0fe38d3a7c704" CHECKSUMTYPE="MD5" SIZE="43356">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00104_1.tif"/>
+      </file>
+      <file ID="tiff_00105_0" MIMETYPE="image/tiff" CHECKSUM="cadf9f3d1e8251074648d03d8d11d67a" CHECKSUMTYPE="MD5" SIZE="47702">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00105_0.tif"/>
+      </file>
+      <file ID="tiff_00105_1" MIMETYPE="image/tiff" CHECKSUM="8a244804bf888913e03098d43a0be78b" CHECKSUMTYPE="MD5" SIZE="48104">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00105_1.tif"/>
+      </file>
+      <file ID="tiff_00106_0" MIMETYPE="image/tiff" CHECKSUM="d9bd3730c5b6e78b97a49ad22c54d62c" CHECKSUMTYPE="MD5" SIZE="28390">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00106_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00102_1" MIMETYPE="image/jp2" CHECKSUM="bbf2c01e4514309d7530438526b7ef9d" CHECKSUMTYPE="MD5" SIZE="2531544">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00102_1.jp2"/>
+      </file>
+      <file ID="jp2_00103_0" MIMETYPE="image/jp2" CHECKSUM="4ac35ccc40a723df2af9915e45e453aa" CHECKSUMTYPE="MD5" SIZE="2665841">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00103_0.jp2"/>
+      </file>
+      <file ID="jp2_00103_1" MIMETYPE="image/jp2" CHECKSUM="8ff39675f4272006798349691fcd185d" CHECKSUMTYPE="MD5" SIZE="2594567">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00103_1.jp2"/>
+      </file>
+      <file ID="jp2_00104_0" MIMETYPE="image/jp2" CHECKSUM="9e7ffd7b7173e8cc4f5f5c9ef7d650e5" CHECKSUMTYPE="MD5" SIZE="2661827">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00104_0.jp2"/>
+      </file>
+      <file ID="jp2_00104_1" MIMETYPE="image/jp2" CHECKSUM="1bdb3a4ba04ca3b46645cb726aadae0a" CHECKSUMTYPE="MD5" SIZE="2615626">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00104_1.jp2"/>
+      </file>
+      <file ID="jp2_00105_0" MIMETYPE="image/jp2" CHECKSUM="c404101370ed96073fa101489cbd9370" CHECKSUMTYPE="MD5" SIZE="2697286">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00105_0.jp2"/>
+      </file>
+      <file ID="jp2_00105_1" MIMETYPE="image/jp2" CHECKSUM="c688f9b5c8bba26b8545ad93b0c96643" CHECKSUMTYPE="MD5" SIZE="2613915">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00105_1.jp2"/>
+      </file>
+      <file ID="jp2_00106_0" MIMETYPE="image/jp2" CHECKSUM="169d54a069eced3b45b8641b6c9a6000" CHECKSUMTYPE="MD5" SIZE="2496370">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00106_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00102_1" MIMETYPE="text/xml" CHECKSUM="600a05a85e2d77f265e8a9a37f588688" CHECKSUMTYPE="MD5" SIZE="77467">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00102_1.xml"/>
+      </file>
+      <file ID="alto_00103_0" MIMETYPE="text/xml" CHECKSUM="d7dbf56a85cdceeef2079cae2ff4c66c" CHECKSUMTYPE="MD5" SIZE="86620">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00103_0.xml"/>
+      </file>
+      <file ID="alto_00103_1" MIMETYPE="text/xml" CHECKSUM="0043f24a7a0d7c415aace2e7a0a3d4f0" CHECKSUMTYPE="MD5" SIZE="85189">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00103_1.xml"/>
+      </file>
+      <file ID="alto_00104_0" MIMETYPE="text/xml" CHECKSUM="ee808ce5389a896cf1a84f1efaea19b4" CHECKSUMTYPE="MD5" SIZE="90811">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00104_0.xml"/>
+      </file>
+      <file ID="alto_00104_1" MIMETYPE="text/xml" CHECKSUM="f54bef7880014638f930ea62f5600de7" CHECKSUMTYPE="MD5" SIZE="81968">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00104_1.xml"/>
+      </file>
+      <file ID="alto_00105_0" MIMETYPE="text/xml" CHECKSUM="e8e752d2236495d625c209e60c76503d" CHECKSUMTYPE="MD5" SIZE="86586">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00105_0.xml"/>
+      </file>
+      <file ID="alto_00105_1" MIMETYPE="text/xml" CHECKSUM="7af787bceb45a89c170e1234f20c105f" CHECKSUMTYPE="MD5" SIZE="92245">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00105_1.xml"/>
+      </file>
+      <file ID="alto_00106_0" MIMETYPE="text/xml" CHECKSUM="73fcaa5b1f097a846ea73b3b8bff37ed" CHECKSUMTYPE="MD5" SIZE="58743">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00106_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0034" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="209" firstpage="202">
+              <parties id="b204-6" pgmap="204">Scott vs. Orbison et al.</parties>
+              <attorneys id="b204-12" pgmap="204">Garland &amp; Randolph, for the appellant.</attorneys>
+              <attorneys id="b205-7" pgmap="205">Watkins &amp; Gallagher, for the appellees,</attorneys>
+              <summary id="b204-10" pgmap="204">Appeal jrom Clark Circuit Court in Equity.</summary>
+              <summary id="b204-11" pgmap="204">Hon. Abner A. Stitii, Circuit Judge.</summary>
+              <summary id="b204-13" pgmap="204">The doctrine that the vendor of real estate has a lien upon it for the purchase money, is too well established in the equity courts, both in England and in this country, to admit of contra­diction. And the principle, says Chancellor Kent, is founded in natural equity, and seems to be inherent in the English jurisprudence. And Chancellor Walworth, in Fish vs. Howland, 1 st Paige 23, said, that in England, and he believed in every State in the Union, which has a court of chancery to give effect to such lien, it is admitted to exist. See 4 Kent 152; 2 Story’s Eq. J. secs. 1217, 1233; Willard’s Eq. J. 443; Adams’ Eqity 126, 129; 1 J. C. II. 308; 7 Wheat. 48; 6 Vesey, jr. 752; 5 Ohio 35; 12 How. U. S. Rep. 24; Shall et al. vs. Biscoe et al., 18 Ark. 142.</summary>
+              <summary id="b205-5" pgmap="205">The presumption of law is in favor of the lien, and the party-­contesting it must show that it has not been reserved, or has been waived by express contract between the parties to that effect, or by some act on the part of the vendor which is wholly inconsistent with the existence of a lien. 4 Kent 152; 15 Ves., jr. 329. The fact that the receipt of the purchase money is acknowledged in the conveyance, does not affect the lien, 2 Stonfs Eq. J., sec. 1225; nor does the taking of a bond, bill or note for the purchase money, Adams' Equity 128; Story's Eq. J., sec. 1226; 1 J. C. JR.. 308; 18 Ark. 142; nor the taking of security, though such security be distinct and independent. Story's Eq. J., sec. 1226, and note; 3 Russ. 488.</summary>
+              <summary id="b205-6" pgmap="205">And the lien is equally good against a subsequent purchaser with notice that the purchase money has not been paid to the vendor. Stonfs Eq. Jur., secs. 1217, 1219; Willard's Eq. 443; 3 Barb. S. C. R. 367; 7 Eng. 218; 1.8 Ark. 142.</summary>
+              <summary id="AU5" pgmap="205">contended that the vendor had expressly waived his lien; that a lien is waived by taking bonds for the purchase money, and that the proof failed to show that the vendees had notice that the purchase money had not been paid.</summary>
+              <headnotes id="b204-7" pgmap="204">The vendor of real estate has an equitable lien thereon for the purchase money, though he make the purchaser an absolute deed reciting the receipt of the purchase money, as against the vendee or a person purchasing with notice that the purchase money is unpaid. (Shall vs. Biscoe et al., 18 Ark. 142.)</headnotes>
+              <headnotes id="b204-8" pgmap="204">If the immediate purchaser of the vendee has no notice of the existence of an equitable lien, any subsequent purchaser, though he have notice, will be equally protected.</headnotes>
+              <headnotes id="b204-9" pgmap="204">If a vendor, having an equitable lien upon the land for the purchase money, induce a third person to believe that he does not look to the land but to other means for payment, and, in consequence thereof, he purchases the land, the vendor would be estopped from sotting up his vendor’s lien.</headnotes>
+              <opinion type="majority">
+                <author id="b205-8" pgmap="205">Mr. Justice Compton</author>
+                <p id="AMa" pgmap="205">delivered the opinion of the court.</p>
+                <p id="b205-9" pgmap="205">The original bill was filed by James D. Scott, against Wil­liam C. Orbison, Henry K. Hardy and Robert H. McCargo, to enforce a vendor’s equitable lien upon a tract of land.</p>
+                <p id="b205-10" pgmap="205">The material allegations of the bill are, that Scott sold the land to Orbison on time, took his obligation for the purchase money, and executed to him an absolute deed, acknowledging the receipt of the purchase money. That Orbison sold and conveyed the land to Hardy, and Hardy sold and conveyed it to Robert McCargo — both of whom had full notice that the purchase money was unpaid, and that Scott claimed an equitable lien therefor.</p>
+                <p id="b206-3" pgmap="206">That, in the mean time, Scott obtained judgment against Orbison, for the portion of the purchase money remaining unpaid, caused several fi. fas. to be issued, which were returned nulla bona, and finally had the land levied on, sold, and pur­chased it himself; but took no deed from the sheriff, being advised that he would have to rely on his vendor’s lien.</p>
+                <p id="b206-4" pgmap="206">Hardy'departed this life after the bill was filed; his executors were made parties, and Witherspoon, one of them, adopted and •filed an answer'to the bill, which Hardy had prepared before his death.</p>
+                <p id="b206-5" pgmap="206">Scott filed an amendment to the bill, in which he stated that Robert H. McCargo, had also departed this life leaving a widow........and an infant child, Mary, who, with an admin­istrator of McCargo, appointed by the court, were made defend­ants.</p>
+                <p id="b206-7" pgmap="206">It was alleged in the amendment to the bill, that Robert H. McCargo had, by deed, which is exhibited, conveyed one undi­vided fourth part of the land in question to each of the follow­ing persons, viz: Henrietta E. McCargo, James D.'McCargo and John McCargo; and that the consideration expressed in the deed was fictitious, and the conveyance voluntary; or that when Robert H. McCargo purchased the land, he was acting as their agent, and they all had notice of Scott’s rights.</p>
+                <p id="b206-8" pgmap="206">Witherspoon was appointed guardian ad litem for Mary McCargo, (infant child of Robert H.) and for James D. and John McCargo, who are stated in the record to have been infants; and he interposed for them a formal answer, denying the allegations of the bill.</p>
+                <p id="b206-9" pgmap="206">Orbison, the widow of Robert H. McCargo, and his adminis­trator did not answer, and a decree was taken against them proconfcsso. Henrietta McCargo did not answer, and no decree was taken against her.' On the final hearing, the bill was dis­missed for want of equity, and Scott appealed.</p>
+                <p id="b206-10" pgmap="206(31) 207(33)">That the vendor of real estate has an equitable lien thereon, for the unpaid purchase money, though he make the purchaser an absolute deed, reciting the receipt of the purchase money as against the vendee, or a person purchasing from him with full notice that the purchase money is unpaid, was held by this court in Shall vs. Biscoe et al. 18 Ark. 142.</p>
+                <p id="b207-5" pgmap="207">The proof is clear that before Robert H. McCargo purchased the land of Hardy, Scott notified him (McCargo,) that he had a claim on the land for balance of purchase money. But if the proposition, that Hardy acquired title to the land unencumbered by the equitable lien sought to be enforced by Scott, can be maintained, then McCargo also acquired title discharged of the incumbrance, though he had notice.</p>
+                <p id="b207-6" pgmap="207">The proof is ample, that Hardy had ndtice when he purchased the land of Orbison, that a portion of the purchase money remained due to Scott. He alleges, however, in the answer prepared by him, that Scott induced Him to believe, in a con­versation they held on the subject, before he purchased of Orbison, that he did not look to the land, but to other means and resources of Orbison for the payment of the purchase money, and that in consequence thereof he purchased the land of Orbison. If this were so, Scott would‘be estopped from setting up his vendor’s lien as against Hardy, or one claiming under him; but the proof upon the hearing fails to sustain the allegations of the answer as to the conversation referred to.</p>
+                <p id="b207-7" pgmap="207">Scott is entitled, therefore, to an enforcement of his lien upon the one (undivided) fourth part of the land which Robert McCargo did not dispose of during his lifetime, as against the infant child and administrator.</p>
+                <p id="b207-8" pgmap="207">The deed from Robert H. McCargo to Henritta, James D. and John McCargo, exhibited with the amendment to the bill, shows upon its face, that they purchased of him for a valuable consideration, three undivided fourths of the land — and there was no evidence upon the hearing that the consideration expressed in the deed was fictitious, that the conveyance, was voluntary, that Robert H. McCargo purchased of Hardy, as their agent, or that they had notice, before they purchased, of Scott’s lien, as charged in the bill. There was an utter failure as to them to make out the case.</p>
+                <p id="b208-4" pgmap="208">But the court erred in dismissing the bill.</p>
+                <p id="b208-5" pgmap="208">The decree must be reversed and the cause remanded with instructions to the court to render a decree against Robert IT. MeCargo’s administrator and heir at law, enforcing the lien for balance of the unpaid purchase money upon the one undivided fourth part of said land which belonged to Robert H. at the time of his death, and that the costs of this court be equally divided between the appellant and the administrator of said Robert H.</p>
+                <p id="b208-6" pgmap="208">Mr. Justice Rector.</p>
+                <p id="b208-7" pgmap="208">On the 3d of January, 1848, Scott, the appellant, sold a tract of land to Orbison, the appellee, and took his notes or bonds, in payment, payable at six and twelve months — each in the sum of three hundred dollars.</p>
+                <p id="b208-8" pgmap="208">Several payments were made on the first note, but in 1840, there being a balance of one hundred and three dollars on it, Orbjson took that note up, and gave his due bill for the residue. And upon which, and the twelve month note, Scott instituted suit in the Clark Circuit Court, and obtained judgment.</p>
+                <p id="b208-9" pgmap="208">Executions were issued repeatedly and returned from Hot Spring county “ nulla bona” Orbison being then a resident of that county.</p>
+                <p id="b208-10" pgmap="208">• Finally, however, a levy and sale was made of the land, and Scott, 15th September, 1851, became the purchaser.</p>
+                <p id="b208-11" pgmap="208">In the mean time, Orbison had sold the land to defendant, Hardy, and he likewise had sold it to Robert H. McC'argo — who conveyed to Henrietta, James and John McCargo, each an undivided one-fourth.</p>
+                <p id="b208-12" pgmap="208">The tract is situate in Clark county, and known as the north­west quarter of section seven, township seven south, range nineteen west.</p>
+                <p id="b208-13" pgmap="208(43) 209(18)">In October, 1854, the appellant filed his bill in the Clark Circuit Court, setting up his sale to Orbison, the insolvency of the latter; that a portion of the purchase money for the land, remained unpaid, and that Hardy and the McCargos had actual notice of these facts before they bought the land, and praying the enforcement of his vendor’s lien.</p>
+                <p id="b209-5" pgmap="209">Pending the suit, the death of Hardy was suggested, and James L. Witherspoon answered the bill as his executor.</p>
+                <p id="b209-6" pgmap="209">A decree pro confesso was taken as to the defendants, Orbison and Robert H. McCargo’s representatives, and John and James McCargo answered by Witherspoon, their guardian; denying all the allegations in the bill, and requiring proof, etc.'</p>
+                <p id="b209-7" pgmap="209">At the hearing the chancellor dismissed the bill for want of equity, and Scott appealed to this court.</p>
+                <p id="b209-8" pgmap="209">The first question is, whether Scott, the vendor, ever had a lien upon the land for the purchase money.</p>
+                <p id="b209-9" pgmap="209">In the case of Shall vs. Biscoe-, 18 Ark. 142, this court main­tained by argument and authority, which we still hold conclu­sive, the affirmative of this proposition.</p>
+                <p id="b209-10" pgmap="209">And in view of the extended examination given by the court then, of this question, it becomes unnecessary, now, to collate from the various authorities, what it seems to us ought to be a conceded principle before any court exercising equity powers.</p>
+                <p id="b209-11" pgmap="209">The proposition, that one who alienates his estate, may look to that estate for payment, (making just exceptions for those who have bought without notice,) is one, embodying such uni­versal justice as to have challenged the support and admiration of the earliest equity text writers, both in England and America.</p>
+                <p id="b209-12" pgmap="209">And if the question was now before us, in the absence of a precedent exposition, we should feel constrained to hold, upon the broadest principles of justice, and in accordance with an unbroken chain of standard authorities, that the vendor’s equit­able lien is, by settled law, a right which should be recognized and enforced without question, in courts of equity cognizance, irrespective of the peculiar views announced by modern jurists in our own and some of the adjoining States. For the doctrine, as we think, instead of being odious, not only possesses great merit, but has become venerable for its antiquity.</p>
+                <p id="b209-13" pgmap="209(10) 210(35)">But secondly — It is strenuously contended by counsel, that the appellant, in making certain declarations at the time he executed the .deed to Orbison, waived his lien, and elected to look to other security than the land, for the payment of his money. n</p>
+                <p id="b210-5" pgmap="210">The proof is, that when the deed was executed, Scott was asked by his attorney, in the presence of Hardy, defendant, why he had not given Orbison a title bond instead of a deed, by which means he could have secured the payment of the purchase money, to which he replied, that he had rather have the word of a Virginian than his bond.</p>
+                <p id="b210-6" pgmap="210">And it may be infen-ed, without any proof on the subject however, that Scott alluded to Orbison, as the Virginian.”</p>
+                <p id="Adbv" pgmap="210">Notív, are these loose expressions, used perhaps in jest, or it may be, ironically, sufficient to induce the conclusion beyond doubt, that Scott intended really to waive his lien upon the land, and look to other security?</p>
+                <p id="b210-7" pgmap="210">Upon this subject, Mr. Justice Story remarks: “ Pothier has deduced the conclusion that in the civil law, the question, whether personal credit was given to the vendee or not, was to be judged of by all the circumstances of the case. Whenever it was doubtful, whether such credit was given or not, there, it w-as not to be presumed unless made certain by the vendee.”</p>
+                <p id="AOt" pgmap="210">“ In every other case, either a payment or a satisfaction of the price was necessary to discharge the property. If under all the circumstances it remains in doubt, then the lien attaches.”</p>
+                <p id="AKJ" pgmap="210">Applying the rule, thus explicitly laid down, to this case, it is not difficult to determine that the expressions attibuted to Scott leave his real intentions in too much doubt to warrant the con­clusion, “ beyond question,” that he intended to waive his lien. And the proof being conclusive that he bought from Orbison, with full notice that the purchase money had not been paid to Scott, we conclude as to him, that there was equity on the face of the bill, and that it w-as sustained by proof — and the chan­cellor committed error in dismissing it.</p>
+                <p id="b210-8" pgmap="210(18) 211(65)">Henrietta, James, and John MeCargo, having for a valuable consideration purchased one-fourth, each, of the land in con­troversy, from R. H. McCargo, and there being no proof in the case, showing that they had notice of the lien of the appellant, the court below will only retain the bill, and enforce the appel­lant’s lien against the undivided one-fourth interest in the land retained by Robert II. McCargo in his life time, and now since his death held by his legal representatives.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="204" ORDERLABEL="202" TYPE="page">
+        <fptr FILEID="tiff_00102_1"/>
+        <fptr FILEID="jp2_00102_1"/>
+        <fptr FILEID="alto_00102_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_204.1" BETYPE="IDREF" FILEID="alto_00102_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_204.2" BETYPE="IDREF" FILEID="alto_00102_1"/>
+              <area BEGIN="BL_204.3" BETYPE="IDREF" FILEID="alto_00102_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="205" ORDERLABEL="203" TYPE="page">
+        <fptr FILEID="tiff_00103_0"/>
+        <fptr FILEID="jp2_00103_0"/>
+        <fptr FILEID="alto_00103_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_205.2" BETYPE="IDREF" FILEID="alto_00103_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_205.1" BETYPE="IDREF" FILEID="alto_00103_0"/>
+              <area BEGIN="BL_205.3" BETYPE="IDREF" FILEID="alto_00103_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="206" ORDERLABEL="204" TYPE="page">
+        <fptr FILEID="tiff_00103_1"/>
+        <fptr FILEID="jp2_00103_1"/>
+        <fptr FILEID="alto_00103_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_206.1" BETYPE="IDREF" FILEID="alto_00103_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_206.2" BETYPE="IDREF" FILEID="alto_00103_1"/>
+              <area BEGIN="BL_206.3" BETYPE="IDREF" FILEID="alto_00103_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="207" ORDERLABEL="205" TYPE="page">
+        <fptr FILEID="tiff_00104_0"/>
+        <fptr FILEID="jp2_00104_0"/>
+        <fptr FILEID="alto_00104_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_207.3" BETYPE="IDREF" FILEID="alto_00104_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_207.2" BETYPE="IDREF" FILEID="alto_00104_0"/>
+              <area BEGIN="BL_207.4" BETYPE="IDREF" FILEID="alto_00104_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="208" ORDERLABEL="206" TYPE="page">
+        <fptr FILEID="tiff_00104_1"/>
+        <fptr FILEID="jp2_00104_1"/>
+        <fptr FILEID="alto_00104_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_208.1" BETYPE="IDREF" FILEID="alto_00104_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_208.2" BETYPE="IDREF" FILEID="alto_00104_1"/>
+              <area BEGIN="BL_208.3" BETYPE="IDREF" FILEID="alto_00104_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="209" ORDERLABEL="207" TYPE="page">
+        <fptr FILEID="tiff_00105_0"/>
+        <fptr FILEID="jp2_00105_0"/>
+        <fptr FILEID="alto_00105_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_209.3" BETYPE="IDREF" FILEID="alto_00105_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_209.2" BETYPE="IDREF" FILEID="alto_00105_0"/>
+              <area BEGIN="BL_209.4" BETYPE="IDREF" FILEID="alto_00105_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="210" ORDERLABEL="208" TYPE="page">
+        <fptr FILEID="tiff_00105_1"/>
+        <fptr FILEID="jp2_00105_1"/>
+        <fptr FILEID="alto_00105_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_210.2" BETYPE="IDREF" FILEID="alto_00105_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_210.3" BETYPE="IDREF" FILEID="alto_00105_1"/>
+              <area BEGIN="BL_210.4" BETYPE="IDREF" FILEID="alto_00105_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="211" ORDERLABEL="209" TYPE="page">
+        <fptr FILEID="tiff_00106_0"/>
+        <fptr FILEID="jp2_00106_0"/>
+        <fptr FILEID="alto_00106_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_211.3" BETYPE="IDREF" FILEID="alto_00106_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_211.2" BETYPE="IDREF" FILEID="alto_00106_0"/>
+              <area BEGIN="BL_211.4" BETYPE="IDREF" FILEID="alto_00106_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_211.5" BETYPE="IDREF" FILEID="alto_00106_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b204-8" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_204.6" BETYPE="IDREF" FILEID="alto_00102_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b204-9" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_204.7" BETYPE="IDREF" FILEID="alto_00102_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b205-9" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_205.11" BETYPE="IDREF" FILEID="alto_00103_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b205-8" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_205.9" BETYPE="IDREF" FILEID="alto_00103_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b207-5" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_207.5" BETYPE="IDREF" FILEID="alto_00104_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b205-5" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_205.4" BETYPE="IDREF" FILEID="alto_00103_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b205-7" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_205.6" BETYPE="IDREF" FILEID="alto_00103_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b207-8" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_207.8" BETYPE="IDREF" FILEID="alto_00104_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b204-6" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_204.4" BETYPE="IDREF" FILEID="alto_00102_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b204-7" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_204.5" BETYPE="IDREF" FILEID="alto_00102_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b206-10" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_206.10" BETYPE="IDREF" FILEID="alto_00103_1"/>
+            <area BEGIN="BL_207.1" BETYPE="IDREF" FILEID="alto_00104_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b208-8" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_208.8" BETYPE="IDREF" FILEID="alto_00104_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AKJ" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_210.10" BETYPE="IDREF" FILEID="alto_00105_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b207-6" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_207.6" BETYPE="IDREF" FILEID="alto_00104_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b204-12" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_204.10" BETYPE="IDREF" FILEID="alto_00102_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b206-7" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_206.7" BETYPE="IDREF" FILEID="alto_00103_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b206-4" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_206.5" BETYPE="IDREF" FILEID="alto_00103_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AMa" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_205.10" BETYPE="IDREF" FILEID="alto_00103_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b209-5" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_209.5" BETYPE="IDREF" FILEID="alto_00105_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b206-3" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_206.4" BETYPE="IDREF" FILEID="alto_00103_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b209-7" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_209.7" BETYPE="IDREF" FILEID="alto_00105_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b209-6" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_209.6" BETYPE="IDREF" FILEID="alto_00105_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b208-4" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_208.4" BETYPE="IDREF" FILEID="alto_00104_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b209-8" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_209.8" BETYPE="IDREF" FILEID="alto_00105_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b208-6" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_208.6" BETYPE="IDREF" FILEID="alto_00104_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b208-7" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_208.7" BETYPE="IDREF" FILEID="alto_00104_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b206-5" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_206.6" BETYPE="IDREF" FILEID="alto_00103_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b206-8" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_206.8" BETYPE="IDREF" FILEID="alto_00103_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b206-9" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_206.9" BETYPE="IDREF" FILEID="alto_00103_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b205-6" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_205.5" BETYPE="IDREF" FILEID="alto_00103_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b204-13" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_204.11" BETYPE="IDREF" FILEID="alto_00102_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Adbv" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_210.7" BETYPE="IDREF" FILEID="alto_00105_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b209-9" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_209.9" BETYPE="IDREF" FILEID="alto_00105_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b210-8" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_210.11" BETYPE="IDREF" FILEID="alto_00105_1"/>
+            <area BEGIN="BL_211.1" BETYPE="IDREF" FILEID="alto_00106_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b209-11" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_209.11" BETYPE="IDREF" FILEID="alto_00105_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b209-10" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_209.10" BETYPE="IDREF" FILEID="alto_00105_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b209-13" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_209.13" BETYPE="IDREF" FILEID="alto_00105_0"/>
+            <area BEGIN="BL_210.1" BETYPE="IDREF" FILEID="alto_00105_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b208-5" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_208.5" BETYPE="IDREF" FILEID="alto_00104_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AOt" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_210.9" BETYPE="IDREF" FILEID="alto_00105_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b204-10" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_204.8" BETYPE="IDREF" FILEID="alto_00102_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b209-12" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_209.12" BETYPE="IDREF" FILEID="alto_00105_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b204-11" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_204.9" BETYPE="IDREF" FILEID="alto_00102_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b208-12" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_208.12" BETYPE="IDREF" FILEID="alto_00104_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b208-13" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_208.13" BETYPE="IDREF" FILEID="alto_00104_1"/>
+            <area BEGIN="BL_209.1" BETYPE="IDREF" FILEID="alto_00105_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b208-10" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_208.10" BETYPE="IDREF" FILEID="alto_00104_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b208-11" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_208.11" BETYPE="IDREF" FILEID="alto_00104_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b205-10" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_205.12" BETYPE="IDREF" FILEID="alto_00103_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b210-7" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_210.8" BETYPE="IDREF" FILEID="alto_00105_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b210-6" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_210.6" BETYPE="IDREF" FILEID="alto_00105_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b210-5" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_210.5" BETYPE="IDREF" FILEID="alto_00105_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b207-7" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_207.7" BETYPE="IDREF" FILEID="alto_00104_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b208-9" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_208.9" BETYPE="IDREF" FILEID="alto_00104_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AU5" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_205.7" BETYPE="IDREF" FILEID="alto_00103_0"/>
+            <area BEGIN="BL_205.8" BETYPE="IDREF" FILEID="alto_00103_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

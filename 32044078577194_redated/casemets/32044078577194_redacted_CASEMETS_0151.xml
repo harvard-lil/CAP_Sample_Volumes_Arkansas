@@ -1,0 +1,330 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0151" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Costillo v. Goodson">Fabian COSTILLO v. John GOODSON, Judge</name>
+          <docketnumber>CR 86-20</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 639</citation>
+          <citation category="parallel" type="bluebook">707 S.W.2d 776</citation>
+          <decisiondate>1986-04-28</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:01Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00339_0" MIMETYPE="image/tiff" CHECKSUM="ebe2ced80934c19dd68234aaea892075" CHECKSUMTYPE="MD5" SIZE="24696">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00339_0.tif"/>
+      </file>
+      <file ID="tiff_00339_1" MIMETYPE="image/tiff" CHECKSUM="cb375d83db00c1babaf4f38eee3bb50f" CHECKSUMTYPE="MD5" SIZE="38096">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00339_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00339_0" MIMETYPE="image/jp2" CHECKSUM="12e8c17654276ac96cea186f863d14d5" CHECKSUMTYPE="MD5" SIZE="2042559">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00339_0.jp2"/>
+      </file>
+      <file ID="jp2_00339_1" MIMETYPE="image/jp2" CHECKSUM="a1a3dc46ac4fb9f2f31ed53bb047b0c7" CHECKSUMTYPE="MD5" SIZE="2275676">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00339_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00339_0" MIMETYPE="text/xml" CHECKSUM="76c805a6ed0469b79c18b54a104f6d8c" CHECKSUMTYPE="MD5" SIZE="40610">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00339_0.xml"/>
+      </file>
+      <file ID="alto_00339_1" MIMETYPE="text/xml" CHECKSUM="5ad83f95a709405887891bfe1eafff22" CHECKSUMTYPE="MD5" SIZE="61715">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00339_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0151" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="639" lastpage="640">
+              <court pgmap="677" id="b677-8">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="677" id="Asx">CR 86-20</docketnumber>
+              <citation pgmap="677" id="AEzd">707 S.W.2d 776</citation>
+              <parties pgmap="677" id="b677-7">Fabian COSTILLO v. John GOODSON, Judge</parties>
+              <decisiondate pgmap="677" id="AnA">Opinion delivered April 28, 1986</decisiondate>
+              <judges pgmap="678" id="b678-8">Purtle, J., not participating.</judges>
+              <attorneys pgmap="677" id="b677-13">Appellant, pro se.</attorneys>
+              <attorneys pgmap="677" id="b677-14">No brief filed by respondent.</attorneys>
+              <opinion type="majority">
+                <author pgmap="677" id="b677-15">Per Curiam.</author>
+                <p pgmap="677" id="Agf4">Petitioner was convicted on June 23, 1981 of aggravated robbery and sentenced to 75 years imprisonment. No appeal was taken. On June 19, 1984, petitioner filed in circuit court a pro se petition pursuant to Criminal Procedure Rule 37 which is still pending despite the elapse of almost two years. Petitioner has filed a petition for writ of mandamus with this Court, seeking an Order to compel the circuit judge to act on his petition.</p>
+                <p pgmap="677(42) 678(150)" id="b677-16">The petition for writ of mandamus is granted. When our criminal case coordinator first contacted the circuit court about the pending petition, she was informed that the transcript was being prepared for the court to review. The delay in acting on the petition was attributed to problems with transcribing the record from a deceased court reporter’s file. In September, 1985, the trial judge informed the coordinator that the record had been completed and taken under review. The trial court responded to further inquiries in October, November and December, 1985, and January, 1986, that the record was still being reviewed. In mid-February, 1986, the court issued an order declaring Costillo indigent and providing him with a copy of the transcript. The order also indicated that at some point counsel had been ap­pointed for Costillo. The prosecuting attorney was directed to turn over his files for counsel’s inspection, and counsel was directed to examine the prosecutor’s file and the transcript and request a hearing date as soon as his investigation was complete. As of the date of this opinion, the trial court has not notified this court that a hearing has been set.</p>
+                <p pgmap="678" id="b678-6">
+                   Since it has been more than two years since the date the Rule 37 petition was filed and more than six months since the record was taken under review, we find that the trial court has had ample time to rule on the Rule 37 petition, or at the least, schedule a hearing. Therefore, the court is directed to hold a hearing on the petition within thirty days and issue an order within fourteen days thereafter.</p>
+                <p pgmap="678" id="b678-7">Petition granted,</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="677" ORDERLABEL="639" TYPE="page">
+        <fptr FILEID="tiff_00339_0"/>
+        <fptr FILEID="jp2_00339_0"/>
+        <fptr FILEID="alto_00339_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_677.3" BETYPE="IDREF" FILEID="alto_00339_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="678" ORDERLABEL="640" TYPE="page">
+        <fptr FILEID="tiff_00339_1"/>
+        <fptr FILEID="jp2_00339_1"/>
+        <fptr FILEID="alto_00339_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_678.2" BETYPE="IDREF" FILEID="alto_00339_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b677-7" BETYPE="IDREF" FILEID="casebody_0151"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_677.7" BETYPE="IDREF" FILEID="alto_00339_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AEzd" BETYPE="IDREF" FILEID="casebody_0151"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_677.9" BETYPE="IDREF" FILEID="alto_00339_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b677-8" BETYPE="IDREF" FILEID="casebody_0151"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_677.10" BETYPE="IDREF" FILEID="alto_00339_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Asx" BETYPE="IDREF" FILEID="casebody_0151"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_677.8" BETYPE="IDREF" FILEID="alto_00339_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b678-8" BETYPE="IDREF" FILEID="casebody_0151"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_678.6" BETYPE="IDREF" FILEID="alto_00339_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b678-6" BETYPE="IDREF" FILEID="casebody_0151"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_678.4" BETYPE="IDREF" FILEID="alto_00339_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b678-7" BETYPE="IDREF" FILEID="casebody_0151"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_678.5" BETYPE="IDREF" FILEID="alto_00339_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b677-14" BETYPE="IDREF" FILEID="casebody_0151"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_677.17" BETYPE="IDREF" FILEID="alto_00339_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b677-15" BETYPE="IDREF" FILEID="casebody_0151"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_677.18" BETYPE="IDREF" FILEID="alto_00339_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AnA" BETYPE="IDREF" FILEID="casebody_0151"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_677.11" BETYPE="IDREF" FILEID="alto_00339_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Agf4" BETYPE="IDREF" FILEID="casebody_0151"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_677.19" BETYPE="IDREF" FILEID="alto_00339_0"/>
+            <area BEGIN="BL_677.20" BETYPE="IDREF" FILEID="alto_00339_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b677-16" BETYPE="IDREF" FILEID="casebody_0151"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_677.21" BETYPE="IDREF" FILEID="alto_00339_0"/>
+            <area BEGIN="BL_678.1" BETYPE="IDREF" FILEID="alto_00339_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b677-13" BETYPE="IDREF" FILEID="casebody_0151"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_677.16" BETYPE="IDREF" FILEID="alto_00339_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

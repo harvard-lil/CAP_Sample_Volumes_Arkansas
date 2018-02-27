@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#">
+  <!--Created by Innodata R.E.D. RLI tool: 2017-04-25 06:27:17.627030-->
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>32044078577194_00073_0.tif</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OP_1">
+      <ocrProcessingStep>
+        <processingStepDescription>Alto coordinates refer to the deskewed TIFF file. 
+		To convert point (x, y) to original image (TIFF or JP2) apply transformation matrix T=(m00, m01, m10, m11, b0, b1) using the rule:
+			T * (x,y) = (m00 * x + m01 * y + b0), (m10 * x + m11 * y + b1)</processingStepDescription>
+        <processingStepSettings>RED.transform=(1.0, -0.0, 0.0, 1.0, 0.0, -0.0)</processingStepSettings>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Styles>
+    <TextStyle FONTFAMILY="Times New Roman" FONTSIZE="9.50" FONTTYPE="serif" FONTWIDTH="proportional" ID="Style_2"/>
+    </Styles>
+  <Tags>
+    <StructureTag ID="b145-4" LABEL="pagelabel"/>
+    </Tags>
+  <Layout>
+    <Page HEIGHT="2696" ID="PG_145" PHYSICAL_IMG_NR="145" WIDTH="1632">
+      <PrintSpace HEIGHT="2696" HPOS="0" ID="PS_145" VPOS="0" WIDTH="1632">
+        <TextBlock HEIGHT="33.0" HPOS="1264.0" ID="BL_145.3" TAGREFS="b145-4" VPOS="286.0" WIDTH="63.0">
+          <TextLine HEIGHT="33" HPOS="1264" ID="TL_145.3.1" VPOS="286" WIDTH="63">
+            <String CONTENT="119" HEIGHT="33" HPOS="1264" ID="ST_145.3.1.1" STYLEREFS="Style_2" VPOS="286" WIDTH="63" WC="0.98" CC="000" TAGREFS=""/>
+          </TextLine>
+        </TextBlock>
+        </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

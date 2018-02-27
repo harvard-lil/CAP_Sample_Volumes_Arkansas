@@ -1,0 +1,588 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0054" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Lackey v. State">Stanley LACKEY and Susan LACKEY v. STATE of Arkansas</name>
+          <docketnumber>CR 85-108</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 225</citation>
+          <citation category="parallel" type="bluebook">703 S.W.2d 858</citation>
+          <decisiondate>1986-02-18</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:00Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00127_0" MIMETYPE="image/tiff" CHECKSUM="4bbfad8cde62032cef3923414c9fbcb4" CHECKSUMTYPE="MD5" SIZE="36908">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00127_0.tif"/>
+      </file>
+      <file ID="tiff_00127_1" MIMETYPE="image/tiff" CHECKSUM="c389548cdb922d2c3117f7e6bea36fe3" CHECKSUMTYPE="MD5" SIZE="28766">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00127_1.tif"/>
+      </file>
+      <file ID="tiff_00128_0" MIMETYPE="image/tiff" CHECKSUM="fd05e9bfd30873d9b2c8f439a4a8a2bd" CHECKSUMTYPE="MD5" SIZE="54544">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00128_0.tif"/>
+      </file>
+      <file ID="tiff_00128_1" MIMETYPE="image/tiff" CHECKSUM="78b8dc2f17309e0e54242767a0bb2c68" CHECKSUMTYPE="MD5" SIZE="57364">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00128_1.tif"/>
+      </file>
+      <file ID="tiff_00129_0" MIMETYPE="image/tiff" CHECKSUM="9994fc85a59835deb762fc885d41f11c" CHECKSUMTYPE="MD5" SIZE="55434">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00129_0.tif"/>
+      </file>
+      <file ID="tiff_00129_1" MIMETYPE="image/tiff" CHECKSUM="1309a4df4aa42e54141dc266d8e6c458" CHECKSUMTYPE="MD5" SIZE="56050">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00129_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00127_0" MIMETYPE="image/jp2" CHECKSUM="07e21ee5b7316c053734c7a5aaf3c9b4" CHECKSUMTYPE="MD5" SIZE="2288461">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00127_0.jp2"/>
+      </file>
+      <file ID="jp2_00127_1" MIMETYPE="image/jp2" CHECKSUM="4f69a93ba919c8fc6eac9b03857e44f5" CHECKSUMTYPE="MD5" SIZE="1787588">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00127_1.jp2"/>
+      </file>
+      <file ID="jp2_00128_0" MIMETYPE="image/jp2" CHECKSUM="95ef7cb722fae53270897af6b9955f07" CHECKSUMTYPE="MD5" SIZE="2799283">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00128_0.jp2"/>
+      </file>
+      <file ID="jp2_00128_1" MIMETYPE="image/jp2" CHECKSUM="8f105412f9abdce8c579be748e730eae" CHECKSUMTYPE="MD5" SIZE="2580026">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00128_1.jp2"/>
+      </file>
+      <file ID="jp2_00129_0" MIMETYPE="image/jp2" CHECKSUM="087f14441b8b74f57fccc4050ff260f6" CHECKSUMTYPE="MD5" SIZE="2523063">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00129_0.jp2"/>
+      </file>
+      <file ID="jp2_00129_1" MIMETYPE="image/jp2" CHECKSUM="b684296cec18e3c1c16644cb7b4f6d8b" CHECKSUMTYPE="MD5" SIZE="2744412">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00129_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00127_0" MIMETYPE="text/xml" CHECKSUM="f7206a43aed92f9fa2c3ad3d5549d59e" CHECKSUMTYPE="MD5" SIZE="60178">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00127_0.xml"/>
+      </file>
+      <file ID="alto_00127_1" MIMETYPE="text/xml" CHECKSUM="8cf7b33f5483877513db368502c07775" CHECKSUMTYPE="MD5" SIZE="47837">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00127_1.xml"/>
+      </file>
+      <file ID="alto_00128_0" MIMETYPE="text/xml" CHECKSUM="5bc97da0395057b7ad776e0e482ece18" CHECKSUMTYPE="MD5" SIZE="93070">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00128_0.xml"/>
+      </file>
+      <file ID="alto_00128_1" MIMETYPE="text/xml" CHECKSUM="9b1217490cae31c8825d834a80a1e608" CHECKSUMTYPE="MD5" SIZE="99001">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00128_1.xml"/>
+      </file>
+      <file ID="alto_00129_0" MIMETYPE="text/xml" CHECKSUM="de94b0bdb45cf1323b664a91c577da12" CHECKSUMTYPE="MD5" SIZE="96501">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00129_0.xml"/>
+      </file>
+      <file ID="alto_00129_1" MIMETYPE="text/xml" CHECKSUM="3cd5657d0a4c455ee370403e86fe002f" CHECKSUMTYPE="MD5" SIZE="96997">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00129_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0054" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="225" lastpage="230">
+              <court pgmap="253" id="b253-14">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="253" id="b253-12">CR 85-108</docketnumber>
+              <citation pgmap="253" id="b253-13">703 S.W.2d 858</citation>
+              <parties pgmap="253" id="b253-10">Stanley LACKEY and Susan LACKEY v. STATE of Arkansas</parties>
+              <decisiondate pgmap="253" id="A_q">Opinion delivered February 18, 1986</decisiondate>
+              <judges pgmap="257" id="b257-7">Purtle, J., not participating.</judges>
+              <judges pgmap="257" id="b257-8">Holt, C. J., and Hays, J., dissenting.</judges>
+              <attorneys pgmap="254" id="b254-13">Acchione &amp; King, by: Harold King; Lazar M. Palnick and Lisa Shipley, for appellants.</attorneys>
+              <attorneys pgmap="254" id="b254-14">Steve Clark, Att’y Gen., by: Theodore Holder, Asst. Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="254" id="b254-15">David Newbern, Justice.</author>
+                <p pgmap="254" id="Af37">The appellants were convicted of rape of Theresa Baraque. Their convictions were reversed, and they were tried a second time. In the second trial the doctor who examined Theresa, and who testified in the first trial, Lackey v. State, 283 Ark. 150, 671 S.W.2d 759 (1984), did not testify. His testimony was read from the transcript of the first trial over the appellants’ objection. The appellants were again convicted, and they appeal contending, among other points, that the state should not have been allowed to read the transcript of the doctor’s prior testimony and that this error was prejudicial to the appellants’ case.</p>
+                <p pgmap="254(61) 255(115)" id="b254-16">
+                   The state’s brief says that the efforts of the prosecution to obtain the doctor as a witness for the second trial . . could well [be found] ... to have been, in the words of the court in Satterfield v. State, 248 Ark. 395, 399, 451 S.W.2d 730, 733 (1979), ‘far too feeble to constitute “good faith effort.” ’” In view of this concession, we need not review here the prosecution’s efforts to procure the doctor’s presence. As in Holloway v. State, 268 Ark. 24, 594 S.W.2d 2 (1980), the search for the doctor who had examined the alleged victim, testified in the first trial, and then moved from Arkansas to another state, came too late to permit use of the Interstate Rendition of Witnesses Act, Ark. Stat. Ann. §§ 43-2005 through 43-2009 (Repl. 1977). But in Holloway v. State, supra, we held the erroneous admission of the doctor’s testimony was not prejudicial, and we affirmed the rape conviction. In response to Holloway’s argument that the doctor’s prior testimony should have been ruled inadmissible, we said:</p>
+                <blockquote pgmap="255" id="b255-4">The doctor’s testimony was, however, not critical. The State’s misconduct was, therefore, harmless error. He only testified the women had recently had sex. A rape victim’s testimony need not be corroborated. See, Spencer v. State, 255 Ark. 258, 499 S.W.2d 856 (1973). Satterfield, supra, does not demand reversal. There, the missing witness was a suspected accomplice and his presence particularly impor­tant. We find no prejudice here. The witness had already said all he could be expected to say.</blockquote>
+                <blockquote pgmap="255" id="b255-5">The same holds true regarding the argument that the testimony from the first trial was not admissible because the witness had not been properly and fully cross-ex­amined. Holloway’s defense was he did not rob the Leather Bottle, nor rape the women. What more could have been asked of the doctor who said the women had had sexual intercourse within six hours?</blockquote>
+                <blockquote pgmap="255" id="b255-6">Just as we believe there was no violation of the Uniform Rules of Evidence, we also believe there was no violation of the confrontation clause of the Sixth Amend­ment. That clause is not absolute. It does not require that every criminal defendant be allowed to confront every witness against him every time he is tried. . . . Neither was due process violated. [268 Ark. at 28-29, 594 S.W.2d at 4.]</blockquote>
+                <p pgmap="255(67) 256(101)" id="b255-7">In the case before us, the doctor’s testimony was more extensive than the doctor’s testimony in Holloway v. State, supra. Here, the doctor’s prior testimony, which was read to the jury, described at length what the victim had said about the details of the alleged rape on the night she was examined by him. He testified he had found blood and sperm in the vaginal area and that Theresa was crying and appeared to him to be upset, and that he prescribed valium to calm her anxiety. On cross-examination he testified he found no evidence of bruises, lacerations, or other trauma usually associated with rape. He said further that the sperm he examined from Theresa was non-motile, and then he testified at some length about the implications of its non-motility, noting that sperm can remain motile up to five days in the vagina. He testified about the fact that Theresa’s blood pressure was normal and about the presence of the blood being possibly related to the menstrual cycle.</p>
+                <p pgmap="256" id="b256-6">
+                   Given the range of the doctor’s testimony read from the first trial transcript, we cannot agree that Holloway v. State, supra, is controlling. While we do not renege on our conclusion that the Sixth Amendment does not require confrontation with every witness every time a criminal defendant is retried, we find this witness’ testimony to have been so significant as to require that the jury in whose hands the fate of the appellants rested be allowed to observe the confrontation so as to see the witness’ demeanor and make its determinations with respect to the matters addressed by him. In Barber v. Page, 390 U.S. 719 (1968), the Supreme Court said:</p>
+                <blockquote pgmap="256" id="b256-7">The right to confrontation is basically a trial right. It includes both the opportunity to cross-examine and the occasion for the jury to weigh the demeanor of the witness. [390 U.S. at 725.]</blockquote>
+                <p pgmap="256" id="b256-8">Where the prior testimony of the witness is as extensive and significant as that of the doctor in this case, the reading of it to the jury, where the state’s showing of the unavailability of the witness is insufficient, is prejudicial.</p>
+                <p pgmap="256" id="b256-9">
+                   As there may be another trial of these appellants, we will mention briefly two other points argued. The appellants wanted to question Theresa about her prior sexual conduct. They argue it was relevant because of the doctor’s statement that the sperm he found was non-motile and that sperm could remain motile up to five days in the vagina. The court properly denied their motion, as it was well within his discretion under Ark. Stat. Ann. § 41-1810.2 (Rep. 1977 and Supp. 1985) to determine the relevancy of the question and balance it against its possibly prejudicial effect on the prosecution’s case. Cf. Bobo &amp; Forrest v. State, 267 Ark. 1, 589 S.W.2d 5 (1979).</p>
+                <p pgmap="256(19) 257(110)" id="b256-10">
+                   Theresa’s testimony was that Susan Lackey said to her she was assisting her husband Stanley Lackey in raping Theresa because it was the only way she could keep her husband “alive.” The prosecution produced evidence that an ambulance had been called to the Lackey’s home the night before the rape because Stanley’s mother thought he had taken an overdose of a non­prescription drug. The appellants argue this testimony is inad­missible because it shows only an unrelated prior bad act on the part of Stanley. The state contends, and we agree, it is relevant to showing Susan’s motive for participation in the crime. Even if motive is not an element of the crime charged, it may be proven. Synoground v. State, 260 Ark. 756, 543 S.W.2d 935 (1976).</p>
+                <p pgmap="257" id="b257-6">Reversed.</p>
+              </opinion>
+              <opinion type="dissent">
+                <author pgmap="257" id="b257-9">Steele Hays, Justice,</author>
+                <p pgmap="257" id="ADg">dissenting. I disagree that this case should be reversed a second time. While it is difficult to argue with the majority view that the state confessed error with respect to the good faith effort to produce Dr. Brunson, the concession is more tacit than real. But if it was conceded, it was done in reliance on the precedent of Holloway v. State, 268 Ark. 24, 594 S.W.2d 2 (1980) where, on virtually identical facts, we said the error was harmless.</p>
+                <p pgmap="257(199) 258(30)" id="b257-10">Indeed, the medical testimony in Holloway was far more prejudicial to the defense than in this case. In Holloway, two female employees of the Leather Bottle accused the defendant of raping them during a robbery that occurred around 2:00 a.m. They were examined by Dr. David Frueh at 5:00 a.m. In this case Dr. Brunson testified that Theresa Baraque, while her blood pressure was normal, “appeared to be upset and was crying.” He found traces of blood in the vaginal vault, which he said could have been attributed to irregular menstrual flow. In both cases the doctors noted an absence of trauma, bruises, lacerations and neither testified that the women had been raped. The record in Holloway tells us nothing about the emotional state of the two women, but the fact that Theresa Baraque was crying is hardly a basis for distinguishing the cases. The crucial difference between the two cases is Dr. Brunson found non-motile sperm which he said could have been acquired over a span of five days, whereas in Holloway, Dr. Frueh testified the two women had had sexual intercourse within the preceeding six hours. Under the circum­stances of Holloway, that testimony was particularly damaging to the defendant, whereas in the case before us the defendant was able to argue that the non-motile sperm could have come from Theresa’s boyfriend during the five day interval.</p>
+                <p pgmap="258" id="b258-6">But since the majority insists on distinguishing Holloway, it should I think be willing to examine the efforts by the prosecution to produce Dr. Brunson to determine whether that attempt met the test of good faith. Consideration for a fifteen year old victim who is forced to relive a wrenching ordeal yet a fourth time warrants that much effort on our part, at least in view of the tenuous grounds on which this case has twice been reversed.</p>
+                <p pgmap="258" id="b258-7">The deputy prosecutor to whom this case was assigned was hired January 1,1985 and began efforts to locate Dr. Brunson in mid-January for a February 8 trial date. She got no information from the Jefferson Memorial Hospital, the only lead she had. They knew only he had been gone about a year. She contacted the Arkansas State Medical Board and learned nothing. She again contacted Jefferson Memorial and learned that Dr. Brunson might have gone to Alabama. She began contacting the Alabama Medical Board and learned that he might have located in Montgomery. That produced nothing until someone told her he could be in Birmingham. She began calling individual clinics listed in the Birmingham directory and through that rather arduous method, found him at a local clinic. Dr. Brunson at first indicated a willingness to come for trial, then equivocated and, when it was too late for compulsory measures, he declined. In contrast, the witness in Satterfield v. State, 248 Ark. 395, 451 S.W.2d 730 (1979), cited by the majority, was never contacted after it was learned he was in Kentucky. The Satterfield opinion tells us that a mere phone call to the witness would have succeeded in getting him to Arkansas for the trial, “even at the late date on which it was discovered he was in Kentucky.” (Satterfield at p. 400.) The trial court found a good faith effort to produce Dr. Brunson and I disagree that we can label that finding clearly erroneous. I believe the case should be affirmed on the strength of either Holloway v. State, supra, or Satterfield v. State, supra.</p>
+                <p pgmap="258" id="b258-8">When three trials are required (assuming there is not to be a fourth) before we can say every rule has been kept, every theory satisfied, our system is in danger of collapsing under its own weight.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="253" ORDERLABEL="225" TYPE="page">
+        <fptr FILEID="tiff_00127_0"/>
+        <fptr FILEID="jp2_00127_0"/>
+        <fptr FILEID="alto_00127_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_253.3" BETYPE="IDREF" FILEID="alto_00127_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="254" ORDERLABEL="226" TYPE="page">
+        <fptr FILEID="tiff_00127_1"/>
+        <fptr FILEID="jp2_00127_1"/>
+        <fptr FILEID="alto_00127_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_254.2" BETYPE="IDREF" FILEID="alto_00127_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="255" ORDERLABEL="227" TYPE="page">
+        <fptr FILEID="tiff_00128_0"/>
+        <fptr FILEID="jp2_00128_0"/>
+        <fptr FILEID="alto_00128_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_255.3" BETYPE="IDREF" FILEID="alto_00128_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="256" ORDERLABEL="228" TYPE="page">
+        <fptr FILEID="tiff_00128_1"/>
+        <fptr FILEID="jp2_00128_1"/>
+        <fptr FILEID="alto_00128_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_256.2" BETYPE="IDREF" FILEID="alto_00128_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="257" ORDERLABEL="229" TYPE="page">
+        <fptr FILEID="tiff_00129_0"/>
+        <fptr FILEID="jp2_00129_0"/>
+        <fptr FILEID="alto_00129_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_257.3" BETYPE="IDREF" FILEID="alto_00129_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="258" ORDERLABEL="230" TYPE="page">
+        <fptr FILEID="tiff_00129_1"/>
+        <fptr FILEID="jp2_00129_1"/>
+        <fptr FILEID="alto_00129_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_258.2" BETYPE="IDREF" FILEID="alto_00129_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b253-14" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_253.12" BETYPE="IDREF" FILEID="alto_00127_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b253-12" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_253.10" BETYPE="IDREF" FILEID="alto_00127_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b253-13" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_253.11" BETYPE="IDREF" FILEID="alto_00127_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b253-10" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_253.9" BETYPE="IDREF" FILEID="alto_00127_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b256-7" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_256.5" BETYPE="IDREF" FILEID="alto_00128_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b256-6" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_256.4" BETYPE="IDREF" FILEID="alto_00128_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b255-6" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_255.6" BETYPE="IDREF" FILEID="alto_00128_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b255-7" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_255.7" BETYPE="IDREF" FILEID="alto_00128_0"/>
+            <area BEGIN="BL_256.1" BETYPE="IDREF" FILEID="alto_00128_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b255-4" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_255.4" BETYPE="IDREF" FILEID="alto_00128_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b257-6" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_257.4" BETYPE="IDREF" FILEID="alto_00129_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b257-7" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_257.5" BETYPE="IDREF" FILEID="alto_00129_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b257-8" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_257.6" BETYPE="IDREF" FILEID="alto_00129_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b256-9" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_256.7" BETYPE="IDREF" FILEID="alto_00128_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b257-9" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_257.7" BETYPE="IDREF" FILEID="alto_00129_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ADg" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_257.8" BETYPE="IDREF" FILEID="alto_00129_0"/>
+            <area BEGIN="BL_257.9" BETYPE="IDREF" FILEID="alto_00129_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b256-8" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_256.6" BETYPE="IDREF" FILEID="alto_00128_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b258-7" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_258.5" BETYPE="IDREF" FILEID="alto_00129_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Af37" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_254.14" BETYPE="IDREF" FILEID="alto_00127_1"/>
+            <area BEGIN="BL_254.15" BETYPE="IDREF" FILEID="alto_00127_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b258-8" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_258.6" BETYPE="IDREF" FILEID="alto_00129_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b258-6" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_258.4" BETYPE="IDREF" FILEID="alto_00129_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b257-10" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_257.10" BETYPE="IDREF" FILEID="alto_00129_0"/>
+            <area BEGIN="BL_258.1" BETYPE="IDREF" FILEID="alto_00129_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b256-10" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_256.8" BETYPE="IDREF" FILEID="alto_00128_1"/>
+            <area BEGIN="BL_257.1" BETYPE="IDREF" FILEID="alto_00129_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A_q" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_253.13" BETYPE="IDREF" FILEID="alto_00127_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b255-5" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_255.5" BETYPE="IDREF" FILEID="alto_00128_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b254-16" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_254.16" BETYPE="IDREF" FILEID="alto_00127_1"/>
+            <area BEGIN="BL_255.1" BETYPE="IDREF" FILEID="alto_00128_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b254-15" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_254.13" BETYPE="IDREF" FILEID="alto_00127_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b254-14" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_254.12" BETYPE="IDREF" FILEID="alto_00127_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b254-13" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_254.11" BETYPE="IDREF" FILEID="alto_00127_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

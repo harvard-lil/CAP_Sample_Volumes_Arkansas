@@ -1,0 +1,421 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0077" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Fagan v. State">Fagan vs. The State</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 390</citation>
+          <decisiondate>1860-07</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00196_1" MIMETYPE="image/tiff" CHECKSUM="a744054f931d6e7bdedd90510c759888" CHECKSUMTYPE="MD5" SIZE="28660">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00196_1.tif"/>
+      </file>
+      <file ID="tiff_00197_0" MIMETYPE="image/tiff" CHECKSUM="d94a3e2566599a07a1877a06a8ec9c9b" CHECKSUMTYPE="MD5" SIZE="50164">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00197_0.tif"/>
+      </file>
+      <file ID="tiff_00197_1" MIMETYPE="image/tiff" CHECKSUM="6102e060487a4f199ad33da1d1657fd8" CHECKSUMTYPE="MD5" SIZE="34070">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00197_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00196_1" MIMETYPE="image/jp2" CHECKSUM="df1355c6114fd1fefd4b84f99b770073" CHECKSUMTYPE="MD5" SIZE="2550378">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00196_1.jp2"/>
+      </file>
+      <file ID="jp2_00197_0" MIMETYPE="image/jp2" CHECKSUM="b0fd9fe28c962d36a00ab36b6802337e" CHECKSUMTYPE="MD5" SIZE="2665854">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00197_0.jp2"/>
+      </file>
+      <file ID="jp2_00197_1" MIMETYPE="image/jp2" CHECKSUM="b5827c542b45e0911d344e5973b9c22b" CHECKSUMTYPE="MD5" SIZE="2609772">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00197_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00196_1" MIMETYPE="text/xml" CHECKSUM="e6315c6d1f940520ccbe30502cd6e16e" CHECKSUMTYPE="MD5" SIZE="52344">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00196_1.xml"/>
+      </file>
+      <file ID="alto_00197_0" MIMETYPE="text/xml" CHECKSUM="3aaed8f01b60da13fcbe1e50eb736f84" CHECKSUMTYPE="MD5" SIZE="88604">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00197_0.xml"/>
+      </file>
+      <file ID="alto_00197_1" MIMETYPE="text/xml" CHECKSUM="68db6d23b903da7e88a85e930303d91a" CHECKSUMTYPE="MD5" SIZE="62445">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00197_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0077" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="392" firstpage="390">
+              <parties id="b392-7" pgmap="392">Fagan vs. The State.</parties>
+              <attorneys id="b392-11" pgmap="392">Garland &amp; Randolph, for the appellant.</attorneys>
+              <attorneys id="b392-12" pgmap="392">IIsllowell, Attorney General, contra.</attorneys>
+              <summary id="b392-9" pgmap="392">Appeal from Pulaski Circuit Court.</summary>
+              <summary id="b392-10" pgmap="392">Hon. John J. Clendenin, Circuit Judge.</summary>
+              <headnotes id="b392-8" pgmap="392">In an indictment for betting at Faro, the betting is the gist of the offence under the statute: and if the defendant merely bet or play off checks, which by an under­standing with the banker do not represent money, and he wagers nothing, he is guilty of no offence.</headnotes>
+              <opinion type="majority">
+                <author id="b393-4" pgmap="393">Mr. Chief Justice English</author>
+                <p id="Acx" pgmap="393">delivered the opinion of the court.</p>
+                <p id="b393-5" pgmap="393">Fagan was indicted for betting at faro, one count charging that he bet money on the game, and the other, that he bet a check, which represented money.</p>
+                <p id="b393-6" pgmap="393">On the trial one witness proved that he went into a room where he found several persons betting checks at a faro bank&gt; and among them Fagan. Witness bought some checks, bet against the bank and lost them. He saw neither Fagan, nor any one else, except himself, buy checks at the bank, nor did he know that Fagan bought any. He supposed that Fagan’s checks represented money, because witness paid money for what he bought at the bank, but he did not see Fagan pay any money for his checks, nor did he know that his checks in fact represented money. He saw him bet no money at the game.</p>
+                <p id="b393-7" pgmap="393">Another witness testified that he was present at the time referred to by the first witness, and knew the fact that Fagan’s checks did not represent money. That by an agreement between him and the banker they were not to represent money and that he did not risk, win or lose any thing on the game, and could not have done so under his understanding with the banker. That he bet the checks, which represented no money or value, against the bank, and not against any other person. Witness, saw him bet no money on the game.</p>
+                <p id="b393-8" pgmap="393">At the instance of the attorney for the State, the court gave to the jury, among others, the following instruction, against the objection of Fagan:</p>
+                <blockquote id="b393-9" pgmap="393">“ If the jury believe from the evidence that the defendant bet any check at a game of faro, within Pulaski county, within twelve months next before the finding of the indictment, whether the defendant wagered any thing himself or not, they must convict.”</blockquote>
+                <p id="b393-10" pgmap="393">The jury found the defendant guilty, and assessed his fine at $50; he moved for a new trial, which was refused, and he appealed.</p>
+                <p id="b393-11" pgmap="393(19) 394(63)">The evidence conduces to prove that appellant obtained checks from the banker, without paying any thing for them, and went through the usual form of betting them off on the game, but that in point of fact he bet nothing — that by an under­standing with the banker the checks did not represent any sum of money, and that he did not win or lose anything on the game, and could not have done so under his agreement with the banker.</p>
+                <p id="b394-5" pgmap="394">The betting is the gist of the offence under the statute, and without betting he was guilty of no offence. The fact that others bet against the bank at the time he went through the form of playing off his checks, made him guilty of no offence.</p>
+                <p id="b394-6" pgmap="394">The jury might have inferred from the testimony of the first witness, that appellant was guilty of betting checks which were the representatives of money, but if they believed the testimony of the second witness there was left but little or no ground for such inference.</p>
+                <p id="b394-7" pgmap="394">The instruction copied above, which was not consistent with others given by the court, was calculated, we think, to make the impression upon the jury that the appellant was guilty of the crime alleged against him even if the fact stated by the second witness were true, and appellant did not bet money, or checks representing money at the game.</p>
+                <p id="b394-8" pgmap="394">For the error of the court in giving this instruction, the judg­ment must be reversed, and the cause remanded, with instruc­tions to the court to grant the appellant a new trial.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="392" ORDERLABEL="390" TYPE="page">
+        <fptr FILEID="tiff_00196_1"/>
+        <fptr FILEID="jp2_00196_1"/>
+        <fptr FILEID="alto_00196_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_392.2" BETYPE="IDREF" FILEID="alto_00196_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_392.3" BETYPE="IDREF" FILEID="alto_00196_1"/>
+              <area BEGIN="BL_392.4" BETYPE="IDREF" FILEID="alto_00196_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_392.7" BETYPE="IDREF" FILEID="alto_00196_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="393" ORDERLABEL="391" TYPE="page">
+        <fptr FILEID="tiff_00197_0"/>
+        <fptr FILEID="jp2_00197_0"/>
+        <fptr FILEID="alto_00197_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_393.2" BETYPE="IDREF" FILEID="alto_00197_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_393.1" BETYPE="IDREF" FILEID="alto_00197_0"/>
+              <area BEGIN="BL_393.3" BETYPE="IDREF" FILEID="alto_00197_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="394" ORDERLABEL="392" TYPE="page">
+        <fptr FILEID="tiff_00197_1"/>
+        <fptr FILEID="jp2_00197_1"/>
+        <fptr FILEID="alto_00197_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_394.2" BETYPE="IDREF" FILEID="alto_00197_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_394.3" BETYPE="IDREF" FILEID="alto_00197_1"/>
+              <area BEGIN="BL_394.4" BETYPE="IDREF" FILEID="alto_00197_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b394-6" BETYPE="IDREF" FILEID="casebody_0077"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_394.6" BETYPE="IDREF" FILEID="alto_00197_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b394-7" BETYPE="IDREF" FILEID="casebody_0077"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_394.7" BETYPE="IDREF" FILEID="alto_00197_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b392-7" BETYPE="IDREF" FILEID="casebody_0077"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_392.8" BETYPE="IDREF" FILEID="alto_00196_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Acx" BETYPE="IDREF" FILEID="casebody_0077"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_393.5" BETYPE="IDREF" FILEID="alto_00197_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b392-12" BETYPE="IDREF" FILEID="casebody_0077"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_392.13" BETYPE="IDREF" FILEID="alto_00196_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b393-11" BETYPE="IDREF" FILEID="casebody_0077"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_393.12" BETYPE="IDREF" FILEID="alto_00197_0"/>
+            <area BEGIN="BL_394.1" BETYPE="IDREF" FILEID="alto_00197_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b392-8" BETYPE="IDREF" FILEID="casebody_0077"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_392.9" BETYPE="IDREF" FILEID="alto_00196_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b392-9" BETYPE="IDREF" FILEID="casebody_0077"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_392.10" BETYPE="IDREF" FILEID="alto_00196_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b394-8" BETYPE="IDREF" FILEID="casebody_0077"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_394.8" BETYPE="IDREF" FILEID="alto_00197_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b393-10" BETYPE="IDREF" FILEID="casebody_0077"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_393.11" BETYPE="IDREF" FILEID="alto_00197_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b393-9" BETYPE="IDREF" FILEID="casebody_0077"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_393.10" BETYPE="IDREF" FILEID="alto_00197_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b393-8" BETYPE="IDREF" FILEID="casebody_0077"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_393.9" BETYPE="IDREF" FILEID="alto_00197_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b394-5" BETYPE="IDREF" FILEID="casebody_0077"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_394.5" BETYPE="IDREF" FILEID="alto_00197_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b392-10" BETYPE="IDREF" FILEID="casebody_0077"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_392.11" BETYPE="IDREF" FILEID="alto_00196_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b392-11" BETYPE="IDREF" FILEID="casebody_0077"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_392.12" BETYPE="IDREF" FILEID="alto_00196_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b393-5" BETYPE="IDREF" FILEID="casebody_0077"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_393.6" BETYPE="IDREF" FILEID="alto_00197_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b393-4" BETYPE="IDREF" FILEID="casebody_0077"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_393.4" BETYPE="IDREF" FILEID="alto_00197_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b393-7" BETYPE="IDREF" FILEID="casebody_0077"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_393.8" BETYPE="IDREF" FILEID="alto_00197_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b393-6" BETYPE="IDREF" FILEID="casebody_0077"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_393.7" BETYPE="IDREF" FILEID="alto_00197_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

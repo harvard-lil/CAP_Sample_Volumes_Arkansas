@@ -1,0 +1,541 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0093" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Widmer v. Widmer">Carl WIDMER v. Raymond F. WIDMER, Executor of the Estate of Walter Widmer, Deceased</name>
+          <docketnumber>85-290</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 381</citation>
+          <citation category="parallel" type="bluebook">705 S.W.2d 878</citation>
+          <decisiondate>1986-03-24</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:00Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00208_0" MIMETYPE="image/tiff" CHECKSUM="9e7cfd78ca47a61f84e43edbf023861f" CHECKSUMTYPE="MD5" SIZE="20494">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00208_0.tif"/>
+      </file>
+      <file ID="tiff_00208_1" MIMETYPE="image/tiff" CHECKSUM="e5152d5a042651ccec91b1cc1be69e94" CHECKSUMTYPE="MD5" SIZE="53092">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00208_1.tif"/>
+      </file>
+      <file ID="tiff_00209_0" MIMETYPE="image/tiff" CHECKSUM="8b4c35d1287a384819478c14c0763594" CHECKSUMTYPE="MD5" SIZE="47272">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00209_0.tif"/>
+      </file>
+      <file ID="tiff_00209_1" MIMETYPE="image/tiff" CHECKSUM="d01793dd340ca90b0f01b77f13c40e3d" CHECKSUMTYPE="MD5" SIZE="38178">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00209_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00208_0" MIMETYPE="image/jp2" CHECKSUM="3e3d0086201735c49efc809fefa22aae" CHECKSUMTYPE="MD5" SIZE="1833538">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00208_0.jp2"/>
+      </file>
+      <file ID="jp2_00208_1" MIMETYPE="image/jp2" CHECKSUM="2d7e0b95bd4cec7850883d05e8a91f1b" CHECKSUMTYPE="MD5" SIZE="2525658">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00208_1.jp2"/>
+      </file>
+      <file ID="jp2_00209_0" MIMETYPE="image/jp2" CHECKSUM="6a971887a9a69ac91642d939015d140e" CHECKSUMTYPE="MD5" SIZE="2505868">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00209_0.jp2"/>
+      </file>
+      <file ID="jp2_00209_1" MIMETYPE="image/jp2" CHECKSUM="5f110f1834a2660a4a6aa2cbf635c5a7" CHECKSUMTYPE="MD5" SIZE="2324053">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00209_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00208_0" MIMETYPE="text/xml" CHECKSUM="a9176846c76c151b271efaea978740f3" CHECKSUMTYPE="MD5" SIZE="32342">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00208_0.xml"/>
+      </file>
+      <file ID="alto_00208_1" MIMETYPE="text/xml" CHECKSUM="1d0832cefac379c349f498edbd7da11e" CHECKSUMTYPE="MD5" SIZE="87045">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00208_1.xml"/>
+      </file>
+      <file ID="alto_00209_0" MIMETYPE="text/xml" CHECKSUM="19cd00233c07a5a264d8ae6f2711b263" CHECKSUMTYPE="MD5" SIZE="83183">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00209_0.xml"/>
+      </file>
+      <file ID="alto_00209_1" MIMETYPE="text/xml" CHECKSUM="2fca36f8366d51a5bc43bedf7f14a073" CHECKSUMTYPE="MD5" SIZE="64209">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00209_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0093" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="381" lastpage="384">
+              <court pgmap="415" id="b415-8">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="415" id="b415-7">85-290</docketnumber>
+              <citation pgmap="415" id="AuJ">705 S.W.2d 878</citation>
+              <parties pgmap="415" id="b415-6">Carl WIDMER v. Raymond F. WIDMER, Executor of the Estate of Walter Widmer, Deceased</parties>
+              <decisiondate pgmap="415" id="ALO">Opinion delivered March 24, 1986</decisiondate>
+              <otherdate pgmap="415" id="Avd">[Rehearing denied April 28, 1986.<footnotemark>*</footnotemark>]</otherdate>
+              <judges pgmap="418" id="b418-9">Purtle, J., not participating.</judges>
+              <attorneys pgmap="415" id="b415-16">Walters Law Firm, P.A., for appellant.</attorneys>
+              <attorneys pgmap="415" id="b415-17">John T. Tuohey, for appellee.</attorneys>
+              <footnote label="*">
+                <p pgmap="415" id="b415-19">* Purtle, J., not participating.</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="415" id="b415-18">Jack Holt, Jr., Chief Justice.</author>
+                <p pgmap="415(47) 416(11)" id="A0S">This appeal involves the right of an attorney who has not paid his Arkansas Supreme Court Bar dues to collect fees for representation which occurred during his delinquent period. Our jurisdiction is pursuant to Sup. Ct. R. 29(1 )(h) since the case concerns regulating the practice of law. We hold that the attorney may not collect his fee.</p>
+                <p pgmap="416" id="b416-6">Raymond Widmer, son of the testator, Walter Widmer, and executor of his estate, employed John Tuohey as attorney for the estate. On April 15, 1985, executor Widmer, appellee, filed a First Accounting and Petition for Other Matters, seeking execu­tor’s and attorney’s fees, and an order approving encumbrance of the real property of the estate to obtain funds to pay these fees and other obligations. Appellant, Carl Widmer, the brother of Ray­mond Widmer, filed a response, objecting that the accounting was not filed in proper form, claiming misuse of estate funds, and requesting the court to substitute him as executor and to pay minimal attorney’s fees to Tuohey, since he was not a member in good standing of the Arkansas Bar.</p>
+                <p pgmap="416" id="b416-7">A scheduled hearing was held on June 20,1985, attended by Tuohey and appellee Raymond Widmer. Appellant and his counsel, Bill Walters, did not attend, although notice was given.</p>
+                <p pgmap="416" id="b416-8">On August 7, 1985, the probate judge entered an order approving the First Accounting of Executor for a period from September 26, 1983 to February 14, 1985. Fie also awarded certain fees to the executor, together with reimbursement of out-­of-pocket expenses and $20,000.00 in attorney’s fees to Tuohey. In addition, the probate judge found there was no basis for removing the appellee as the designated executor. Appellant’s objections to the qualifications and payment of Tuohey were denied inasmuch as Tuohey was a resident of Arkansas and duly licensed in this state until sometime after the commencement of the action, and he was in good standing as of June 3,1985. In so ruling, the court stated it was cognizant of the Supreme Court Clerk’s Certificate stating that Tuohey had not paid his Arkansas Supreme Court Bar dues in 1984 and 1985. However, the probate judge held there was no proof that these dues had not now been paid.</p>
+                <p pgmap="416" id="b416-9">This finding ignores Rule X of Rules of the Court Regulating Professional Conduct of Attorneys which states in part:</p>
+                <blockquote pgmap="416" id="b416-10">ALL LICENSED ATTORNEYS — MEMBERS OF BAR</blockquote>
+                <blockquote pgmap="416(21) 417(8)" id="b416-12">Every lawyer now licensed to practice and engage in the practice shall be a member of the Bar of this State, subject to these rules or those hereafter made.</blockquote>
+                <blockquote pgmap="417" id="b417-5">SUSPENSION FOR FAILURE TO PAY FEE-­NOTICE OF DELINQUENCY. REINSTATEMENT — HOW.</blockquote>
+                <blockquote pgmap="417" id="b417-7">Failure to pay the annual license fee herein provided shall automatically suspend such delinquent lawyer from the practice. Notice of delinquencies shall be given by the Clerk of this Court to the delinquent, and to the Judges of the Circuit and Chancery Courts of the District of the delinquent’s residence, and a list of all delinquents shall be posted in the office of the Clerk of this Court. Where delinquency is for no more than three years reinstatement may be had by the payment of all such delinquent dues, and a penalty of $1.00. (Delinquency in a given year dates from March 2 of that year.) If delinquency is for more than three years application for reinstatement must be made on a form supplied by the Clerk and accompanied by a tender of all unpaid dues and penalty. (Emphasis added)</blockquote>
+                <p pgmap="417" id="b417-8">It is obvious from the record that Tuohey performed certain services for the estate between March 2, 1984 and May 6,1985, while his license was suspended. Suffice to say, an attorney should not, and cannot, be compensated for services performed during the time that his license was in a state of suspension.</p>
+                <p pgmap="417" id="b417-9">In Smith v. Kneisley, 49 P.2d 916 (Wash., 1935) an attorney attempted to recover reasonable attorney’s fees for services rendered while his license was suspended for failure to register and pay his fees. The court in Smith stated:</p>
+                <blockquote pgmap="417" id="b417-10">That is, the statute says that he shall be held to have lost his right to practice law “until such registration shall have been made and the fee paid.”</blockquote>
+                <blockquote pgmap="417" id="b417-11">In Re Ellis, 118 Wash. 484, 203 P. 957, 958, it was said: “The right to practice law is not a right de jure. * * * ‘It is in the nature of a franchise from the state conferred only for merit, and is not a lawful business except for members of the bar who have complied with all the conditions required by statute and the rules of the court.' ”</blockquote>
+                <p pgmap="418" id="b418-5">
+                   Our practice is similar in that the rules of this court state that failure to pay the annual license fee shall automatically suspend the delinquent lawyer from practice. Since Tuohey was in fact suspended from practice for a period in 1984 and 1985, he is not entitled to collect for his services during that time. The validity of the work performed by Tuohey for the estate, however, is not affected by this decision. To hold otherwise, would be to punish the client for the lawyer’s oversight.</p>
+                <p pgmap="418" id="b418-6">
+                   Appellee fails in his brief to address the legal questions raised by appellant, but instead argues facts outside of the record, including a cancelled check showing payment of his fees in 1984, and statements that his employer had agreed to pay his fees for 1985. We do not consider matters outside of the record, however, we remind all attorneys that the responsibility for payment of license fees rests solely on the lawyer, and not on employers, friends, or court personnel.</p>
+                <p pgmap="418" id="b418-7">As to the remaining allegations, we agree with the probate judge that the record does not reveal sufficient grounds to support appellant’s argument for removal of appellee as the executor of the Widmer estate. Accordingly, we reverse in part and remand to the probate judge for a determination of an appropriate fee for services rendered by Tuohey while he held a valid license.</p>
+                <p pgmap="418" id="b418-8">Affirmed in part; reversed in part.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="415" ORDERLABEL="381" TYPE="page">
+        <fptr FILEID="tiff_00208_0"/>
+        <fptr FILEID="jp2_00208_0"/>
+        <fptr FILEID="alto_00208_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_415.3" BETYPE="IDREF" FILEID="alto_00208_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="416" ORDERLABEL="382" TYPE="page">
+        <fptr FILEID="tiff_00208_1"/>
+        <fptr FILEID="jp2_00208_1"/>
+        <fptr FILEID="alto_00208_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_416.2" BETYPE="IDREF" FILEID="alto_00208_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="417" ORDERLABEL="383" TYPE="page">
+        <fptr FILEID="tiff_00209_0"/>
+        <fptr FILEID="jp2_00209_0"/>
+        <fptr FILEID="alto_00209_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_417.3" BETYPE="IDREF" FILEID="alto_00209_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="418" ORDERLABEL="384" TYPE="page">
+        <fptr FILEID="tiff_00209_1"/>
+        <fptr FILEID="jp2_00209_1"/>
+        <fptr FILEID="alto_00209_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_418.1" BETYPE="IDREF" FILEID="alto_00209_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b416-7" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_416.5" BETYPE="IDREF" FILEID="alto_00208_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b416-6" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_416.4" BETYPE="IDREF" FILEID="alto_00208_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b417-9" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_417.7" BETYPE="IDREF" FILEID="alto_00209_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AuJ" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_415.9" BETYPE="IDREF" FILEID="alto_00208_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b417-5" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_417.4" BETYPE="IDREF" FILEID="alto_00209_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b415-6" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_415.7" BETYPE="IDREF" FILEID="alto_00208_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b415-7" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_415.8" BETYPE="IDREF" FILEID="alto_00208_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b416-9" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_416.7" BETYPE="IDREF" FILEID="alto_00208_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b416-8" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_416.6" BETYPE="IDREF" FILEID="alto_00208_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b416-12" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_416.9" BETYPE="IDREF" FILEID="alto_00208_1"/>
+            <area BEGIN="BL_417.1" BETYPE="IDREF" FILEID="alto_00209_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A0S" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_415.23" BETYPE="IDREF" FILEID="alto_00208_0"/>
+            <area BEGIN="BL_415.24" BETYPE="IDREF" FILEID="alto_00208_0"/>
+            <area BEGIN="BL_416.1" BETYPE="IDREF" FILEID="alto_00208_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b416-10" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_416.8" BETYPE="IDREF" FILEID="alto_00208_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Avd" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_415.12" BETYPE="IDREF" FILEID="alto_00208_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b415-8" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_415.10" BETYPE="IDREF" FILEID="alto_00208_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b418-7" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_418.5" BETYPE="IDREF" FILEID="alto_00209_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b417-7" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_417.5" BETYPE="IDREF" FILEID="alto_00209_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b417-10" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_417.8" BETYPE="IDREF" FILEID="alto_00209_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b415-18" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_415.22" BETYPE="IDREF" FILEID="alto_00208_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b415-19" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_415.25" BETYPE="IDREF" FILEID="alto_00208_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b415-16" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_415.20" BETYPE="IDREF" FILEID="alto_00208_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b415-17" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_415.21" BETYPE="IDREF" FILEID="alto_00208_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b418-9" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_418.7" BETYPE="IDREF" FILEID="alto_00209_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b418-8" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_418.6" BETYPE="IDREF" FILEID="alto_00209_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b417-11" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_417.9" BETYPE="IDREF" FILEID="alto_00209_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b418-5" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_418.3" BETYPE="IDREF" FILEID="alto_00209_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ALO" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_415.11" BETYPE="IDREF" FILEID="alto_00208_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b418-6" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_418.4" BETYPE="IDREF" FILEID="alto_00209_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b417-8" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_417.6" BETYPE="IDREF" FILEID="alto_00209_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

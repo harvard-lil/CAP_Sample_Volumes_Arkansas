@@ -1,0 +1,629 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0014" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Chandler v. Chandler">Chandler vs. Chandler et al.</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 95</citation>
+          <decisiondate>1860-01</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00049_0" MIMETYPE="image/tiff" CHECKSUM="33d7ae815d8b77de5ee6a9f4eb33711e" CHECKSUMTYPE="MD5" SIZE="29858">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00049_0.tif"/>
+      </file>
+      <file ID="tiff_00049_1" MIMETYPE="image/tiff" CHECKSUM="bd0bcd26d595f6080b6b4d4412bcf96f" CHECKSUMTYPE="MD5" SIZE="45114">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00049_1.tif"/>
+      </file>
+      <file ID="tiff_00050_0" MIMETYPE="image/tiff" CHECKSUM="668e8ae4f8632e6a1bc67f24f6f61395" CHECKSUMTYPE="MD5" SIZE="49300">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00050_0.tif"/>
+      </file>
+      <file ID="tiff_00050_1" MIMETYPE="image/tiff" CHECKSUM="0cf36065fcc8465e76269abeabe96dd3" CHECKSUMTYPE="MD5" SIZE="47134">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00050_1.tif"/>
+      </file>
+      <file ID="tiff_00051_0" MIMETYPE="image/tiff" CHECKSUM="562bb5af1682a7fec86c59d08ef05acf" CHECKSUMTYPE="MD5" SIZE="38810">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00051_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00049_0" MIMETYPE="image/jp2" CHECKSUM="f1c3f893dc4d6225b9279c68cb022af8" CHECKSUMTYPE="MD5" SIZE="2552082">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00049_0.jp2"/>
+      </file>
+      <file ID="jp2_00049_1" MIMETYPE="image/jp2" CHECKSUM="982e4ffc596c9ced903bf1ad5ff84d95" CHECKSUMTYPE="MD5" SIZE="2649262">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00049_1.jp2"/>
+      </file>
+      <file ID="jp2_00050_0" MIMETYPE="image/jp2" CHECKSUM="2449172d22838868d7b1ce827da2cb8e" CHECKSUMTYPE="MD5" SIZE="2683339">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00050_0.jp2"/>
+      </file>
+      <file ID="jp2_00050_1" MIMETYPE="image/jp2" CHECKSUM="2b618ba05ab896929ee89ebe35cc6c55" CHECKSUMTYPE="MD5" SIZE="2617361">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00050_1.jp2"/>
+      </file>
+      <file ID="jp2_00051_0" MIMETYPE="image/jp2" CHECKSUM="bcb9eb2923d2e32f20f8b588117d338f" CHECKSUMTYPE="MD5" SIZE="2594092">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00051_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00049_0" MIMETYPE="text/xml" CHECKSUM="9c64f7cdd1f7fc48f820fd024c0171d4" CHECKSUMTYPE="MD5" SIZE="60102">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00049_0.xml"/>
+      </file>
+      <file ID="alto_00049_1" MIMETYPE="text/xml" CHECKSUM="f9f45f357540930b84d7043afe3ac4af" CHECKSUMTYPE="MD5" SIZE="83133">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00049_1.xml"/>
+      </file>
+      <file ID="alto_00050_0" MIMETYPE="text/xml" CHECKSUM="c7e6d815b19f67a126d359dec94e6f0f" CHECKSUMTYPE="MD5" SIZE="89833">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00050_0.xml"/>
+      </file>
+      <file ID="alto_00050_1" MIMETYPE="text/xml" CHECKSUM="07c7c729dde2c6d9ff6ece2aba4cedcb" CHECKSUMTYPE="MD5" SIZE="91437">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00050_1.xml"/>
+      </file>
+      <file ID="alto_00051_0" MIMETYPE="text/xml" CHECKSUM="1f9a2d929390c4d7d0b6ba2d1c3f0f6c" CHECKSUMTYPE="MD5" SIZE="75890">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00051_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0014" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="99" firstpage="95">
+              <parties id="b97-4" pgmap="97">Chandler vs. Chandler et al.</parties>
+              <judges id="b101-7" pgmap="101">Absent, Mr. Justice Rector.</judges>
+              <attorneys id="b97-10" pgmap="97">S. H, Hempstead, for the appellant.</attorneys>
+              <attorneys id="b97-11" pgmap="97">Watkins &amp; Gallagher, contra.</attorneys>
+              <summary id="b97-8" pgmap="97">Ajyp&amp;al from Hempstead Circuit. Court.</summary>
+              <summary id="b97-9" pgmap="97">Hon. Abner A. Stith, Circuit Judge.</summary>
+              <headnotes id="b97-5" pgmap="97">Where a bond, or note, or other written contract, is conditionally delivered to a stranger, it has no efficacy and is not operative and binding until the conditions are performed.</headnotes>
+              <headnotes id="b97-6" pgmap="97">An instrument for the payment of money, executed in 184?, and payable in 1845, is within the operation of'the Act of Limitation of the 14th December, 1844, and of the saving clause in favor of infants and married women.</headnotes>
+              <headnotes id="b97-7" pgmap="97">A plea is demurrable, which neither denies any material allegation in the decla­ration, nor sets up any fact in avoidance.</headnotes>
+              <opinion type="majority">
+                <author id="b97-12" pgmap="97">Mr. Justice Compton</author>
+                <p id="AJ" pgmap="97">delivered the opinion of the Court.</p>
+                <p id="b97-13" pgmap="97">' The questions presented for our determination in this case, arise upon the pleadings in the Court below.</p>
+                <p id="b97-14" pgmap="97">The action was assumpsit by James W. Chandler and Mary Ann, his wife — formally Mary Ann Camp — Levi Stuart and Tempe Caroline, his wife — formerly Tempe Caroline Camp— against Joel Chandler, on an instrument in writing of the fol­lowing tenor:</p>
+                <blockquote id="b97-15" pgmap="97">“ ALABAMA, &gt;</blockquote>
+                <blockquote id="b97-16" pgmap="97">Benton County. )</blockquote>
+                <blockquote id="b97-17" pgmap="97(34) 98(84)">Whereas, John S. Chandler has this day made a disposition of his negro property by lot; and whereas, a negro boy named Eatt has fallen to the heirs of Joel Chandler, appraised to live hundred dollars, their part being only three hundred and fifty-­one dollars, leaving a balance of one hundred and forty-nine dollars after several divisions; which balance of one hundred and forty-nine dollars, I, for the said heirs, promise to pay the heirs of Temperance Camp, on or before the first day of January, 1845, hereby giving a lien on said negro boy, until said sum of money is paid with interest from date, for value received of them, this 19th day of December, 1842.</blockquote>
+                <blockquote id="b98-5" pgmap="98">his</blockquote>
+                <blockquote id="b98-6" pgmap="98">JOEL ¡*¡ CHANDLER.”</blockquote>
+                <blockquote id="Ax_" pgmap="98">mark</blockquote>
+                <p id="b98-8" pgmap="98">The declaration contained three special counts, together with the common counts usual in actions of assumpsit. The judg­ment being rendered on the first and second counts, so much only of the pleading as relates to those counts need be stated.</p>
+                <p id="b98-9" pgmap="98">The first count is on the written agreement, is in good form, and avers that the defendant promised to pay the sum of money in the agreement mentioned, to the plaintiffs, Mary Ann and Tempe Caroline, by the style and description of “ the heirs of Temperance Camp,” etc.</p>
+                <p id="b98-10" pgmap="98">The second count is, also, on the written agreement, is in like good form, and was, that the said Temperance Camp, at the time the agreement was executed, was, and is now still living— that she then had, and from thence until now has had two only children, the plaintiffs, Mary Ann and Tempe Caroline; and that the defendant meant, by said agreement, to promise to pay the plaintiffs, Mary Ann and Tempe Caroline, the sum of money therein specified, etc.</p>
+                <p id="b98-11" pgmap="98">To these counts the defendant pleaded, in substance, as fol­lows:</p>
+                <p id="b98-12" pgmap="98(67) 99(328)">1st. That at the time the negroes of John S. Chandler were divided, it was agreed, between the parties interested in the division, that the shares oí those to whom the negroes were given, should be equal, and that, in order to make them so, the parties receiving negro property of greater value than the com­mon share, should execute to those receiving less, their note or agreement in writing for the payment of the difference in money; that the said John S. being then indebted, and it being doubtful whether he had retained property sufficient to pay his indebtedness, it was further agreed that such notes or agree­ments should be placed in the hands of a third person — one James Henley — for safe keeping, there to remain until it could be ascertained whether the said John S. had retained property sufficient for the payment of his debts, and in the event it should be found he had not, that the parties among whom his negroes had been divided, should contribute equally from their respec­tive allotments to make up the deficiency — after which, said notes or agreements were to be delivered to the parties to whom they were made payable, provided they had contributed their respective, portions towards making up such deficiency, but if they had not, and the parties who executed the notes or agree­ments had done so for them, in amounts equal to those expressed in the notes or agreements, then Henley was to deliver the notes or agreements back to the makers thereof. And the defendant averred that, pursuant to the above understanding and arrrangement, he executed the instrument sued on and delivered it to Henley, for the purposes aforesaid — it being for the difference between a common share and the value of the allotment given the children of the defendant in the divi­sion of the negroes; that afterward, a contribution for the payment of the debts of the said John S. became necessary, and the plaintiffs, Mary Ann and Tempe Caroline, failed to contribute; that the defendant contributed for them an amount more than equal to that mentioned in the agreement sued on, but neglecting to take the agreement out of Henley’s hands, as he then had a right to do, the plaintiffs got possession of it by means unknown to him, etc.</p>
+                <p id="b99-4" pgmap="99">2d. That the cause of action did not accrue to the plaintiffs within five years next before the commencement of the suit.</p>
+                <p id="b99-5" pgmap="99(22) 100(15)">3d. That the defendant did not promise to pay the plaintiffs, Mary Ann and Tempe Caroline, by the style and description of the heirs of Temperance Camp; nor did he, by said agreement, mean to do so.</p>
+                <p id="b100-4" pgmap="100">4th. That the plaintiffs, Mary Ann and Tempe Caroline, are not the heirs of Temperance Camp.</p>
+                <p id="b100-5" pgmap="100">To the 1st and 4th pleas the plaintiffs demurred. To the second they replied that, at the time the cause of action accrued, the plaintiff, Mary Ann, was a feme covert, and the plaintiff, Tempe Caroline, an infant under the age of twenty-one years, and that they continued so to be from thence until within five years next before the commencement of the suit. To the third they joined issue. And the defendant demurred to the plain­tiffs’ replication to the 2d plea.</p>
+                <p id="b100-6" pgmap="100">The Court sustained the demurrer of the plaintiffs to the 1st and 4th pleas of the defendant, and overruled the demurrer of the defendant to the plaintiffs’ replication to the 2d plea. The defendant rested, and, by consent, the issues of fact were sub­mitted to the Court, who found for the plaintiffs. Judgment was rendered on the finding, and the defendant appealed.</p>
+                <p id="b100-7" pgmap="100">1. In sustaining the demurrer to the first plea, the Court erred. The facts set up show that the instrument sued on was not delivered to the plaintiffs. It was put into the hands of Henley, a stranger, to be delivered to the plaintiffs on a condi­tion which the plea avers was never performed. Where a bond is conditionally delivered to the obligee himself, it is operative and binding from the time of the delivery, though the conditions be never performed. But where the bond is conditionally delivered to a stranger, it is said to be delivered as an escrow, and has no efficacy, and is not operative and bind­ing until the conditions are performed. These principles have been held to apply to promissory notes. Archer vs. Whalen, l Wend. 182; 1 Root 87; Scott vs. State Bank, 4 Eng. 36; and, it may be added, that they apply to all written contracts.</p>
+                <p id="b100-8" pgmap="100(43) 101(240)">2. It is insisted for the appellant that the second plea sets, up a limitation of five years, when the limitation was three years; and that, therefore, a repleader should have been awarded. The argument is, that prior to the passage of the act of 14th December, 1844, the period of limitation as to suits on instruments of the description here declared on, was three years, and although, by the act of 1844, the period of limita.­tion is five years; yet, the act being prospective in its operation, as repeatedly held by this Court, did not apply to causes of action which had accrued at its passage, but to such only as accrued thereafter. This is granted, but it does not follow that the proposition is maintained. An application of the rule laid down in the argument, to the facts of the case under conside­ration, leads us to a conclusion directly the reverse of that reached by the counsel. The instrument sued on, though dated the 19th December, 1842, was not payable until the first of Jan. 1845. When then did the cause of action accrue? Certainly hot until the maturity of the instrument, which was after the passage of the act of the 14th December, 1844. The general rule is, that the cause of action or suit arises when and so soon I as the party has a right to apply to the proper tribunal fon relief. Ang. on Lim., p. 41. The plaintiffs, by their replica-j tion to this plea, brought themselves within the saving clause in' favor of infants and married women, contained in the act of 1844, and the demurrer to it was, therefore, properly over­ruled.</p>
+                <p id="b101-5" pgmap="101">3. The demurrer to the fourth plea was well taken. That plea was bad, for the reason that it neither denied any mate­rial allegation in the declaration, nor set up any fact in avoid­ance.</p>
+                <p id="b101-6" pgmap="101">The Court below having erred in sustaining the demurrer to the first plea, the judgment must be reversed, and the cause remanded for further proceedings.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="97" ORDERLABEL="95" TYPE="page">
+        <fptr FILEID="tiff_00049_0"/>
+        <fptr FILEID="jp2_00049_0"/>
+        <fptr FILEID="alto_00049_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_97.2" BETYPE="IDREF" FILEID="alto_00049_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_97.1" BETYPE="IDREF" FILEID="alto_00049_0"/>
+              <area BEGIN="BL_97.3" BETYPE="IDREF" FILEID="alto_00049_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="98" ORDERLABEL="96" TYPE="page">
+        <fptr FILEID="tiff_00049_1"/>
+        <fptr FILEID="jp2_00049_1"/>
+        <fptr FILEID="alto_00049_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_98.2" BETYPE="IDREF" FILEID="alto_00049_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_98.3" BETYPE="IDREF" FILEID="alto_00049_1"/>
+              <area BEGIN="BL_98.4" BETYPE="IDREF" FILEID="alto_00049_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="99" ORDERLABEL="97" TYPE="page">
+        <fptr FILEID="tiff_00050_0"/>
+        <fptr FILEID="jp2_00050_0"/>
+        <fptr FILEID="alto_00050_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_99.3" BETYPE="IDREF" FILEID="alto_00050_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_99.2" BETYPE="IDREF" FILEID="alto_00050_0"/>
+              <area BEGIN="BL_99.4" BETYPE="IDREF" FILEID="alto_00050_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="100" ORDERLABEL="98" TYPE="page">
+        <fptr FILEID="tiff_00050_1"/>
+        <fptr FILEID="jp2_00050_1"/>
+        <fptr FILEID="alto_00050_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_100.2" BETYPE="IDREF" FILEID="alto_00050_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_100.3" BETYPE="IDREF" FILEID="alto_00050_1"/>
+              <area BEGIN="BL_100.4" BETYPE="IDREF" FILEID="alto_00050_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="101" ORDERLABEL="99" TYPE="page">
+        <fptr FILEID="tiff_00051_0"/>
+        <fptr FILEID="jp2_00051_0"/>
+        <fptr FILEID="alto_00051_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_101.3" BETYPE="IDREF" FILEID="alto_00051_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_101.2" BETYPE="IDREF" FILEID="alto_00051_0"/>
+              <area BEGIN="BL_101.4" BETYPE="IDREF" FILEID="alto_00051_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b101-5" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_101.5" BETYPE="IDREF" FILEID="alto_00051_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b100-7" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_100.8" BETYPE="IDREF" FILEID="alto_00050_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b100-6" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_100.7" BETYPE="IDREF" FILEID="alto_00050_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b101-6" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_101.6" BETYPE="IDREF" FILEID="alto_00051_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b101-7" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_101.7" BETYPE="IDREF" FILEID="alto_00051_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b97-12" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_97.12" BETYPE="IDREF" FILEID="alto_00049_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b97-7" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_97.7" BETYPE="IDREF" FILEID="alto_00049_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b97-6" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_97.6" BETYPE="IDREF" FILEID="alto_00049_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b97-5" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_97.5" BETYPE="IDREF" FILEID="alto_00049_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b97-4" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_97.4" BETYPE="IDREF" FILEID="alto_00049_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b97-11" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_97.11" BETYPE="IDREF" FILEID="alto_00049_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ax_" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_98.7" BETYPE="IDREF" FILEID="alto_00049_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b100-4" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_100.5" BETYPE="IDREF" FILEID="alto_00050_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b99-5" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_99.6" BETYPE="IDREF" FILEID="alto_00050_0"/>
+            <area BEGIN="BL_100.1" BETYPE="IDREF" FILEID="alto_00050_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b99-4" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_99.5" BETYPE="IDREF" FILEID="alto_00050_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b100-8" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_100.9" BETYPE="IDREF" FILEID="alto_00050_1"/>
+            <area BEGIN="BL_101.1" BETYPE="IDREF" FILEID="alto_00051_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b97-9" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_97.9" BETYPE="IDREF" FILEID="alto_00049_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b97-8" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_97.8" BETYPE="IDREF" FILEID="alto_00049_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b98-8" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_98.8" BETYPE="IDREF" FILEID="alto_00049_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b98-9" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_98.9" BETYPE="IDREF" FILEID="alto_00049_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b100-5" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_100.6" BETYPE="IDREF" FILEID="alto_00050_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b98-10" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_98.10" BETYPE="IDREF" FILEID="alto_00049_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b97-17" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_97.18" BETYPE="IDREF" FILEID="alto_00049_0"/>
+            <area BEGIN="BL_98.1" BETYPE="IDREF" FILEID="alto_00049_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b97-16" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_97.17" BETYPE="IDREF" FILEID="alto_00049_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b97-15" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_97.16" BETYPE="IDREF" FILEID="alto_00049_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b97-14" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_97.15" BETYPE="IDREF" FILEID="alto_00049_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b97-13" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_97.14" BETYPE="IDREF" FILEID="alto_00049_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b98-5" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_98.5" BETYPE="IDREF" FILEID="alto_00049_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b98-6" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_98.6" BETYPE="IDREF" FILEID="alto_00049_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b97-10" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_97.10" BETYPE="IDREF" FILEID="alto_00049_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b98-11" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_98.11" BETYPE="IDREF" FILEID="alto_00049_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b98-12" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_98.12" BETYPE="IDREF" FILEID="alto_00049_1"/>
+            <area BEGIN="BL_99.1" BETYPE="IDREF" FILEID="alto_00050_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AJ" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_97.13" BETYPE="IDREF" FILEID="alto_00049_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

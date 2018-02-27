@@ -1,0 +1,782 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0072" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Scott v. Pleasants">Scott et al. vs. Pleasants et al.</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 364</citation>
+          <decisiondate>1860-07</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00183_1" MIMETYPE="image/tiff" CHECKSUM="ed2156872c886bb38bc9a7a29714de7c" CHECKSUMTYPE="MD5" SIZE="39798">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00183_1.tif"/>
+      </file>
+      <file ID="tiff_00184_0" MIMETYPE="image/tiff" CHECKSUM="c75535334985266f7073464f2ff91dae" CHECKSUMTYPE="MD5" SIZE="41062">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00184_0.tif"/>
+      </file>
+      <file ID="tiff_00184_1" MIMETYPE="image/tiff" CHECKSUM="989f60fc651815d847470cb934456ed2" CHECKSUMTYPE="MD5" SIZE="47804">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00184_1.tif"/>
+      </file>
+      <file ID="tiff_00185_0" MIMETYPE="image/tiff" CHECKSUM="77327469e1536f6b3a312e570fb5ef3f" CHECKSUMTYPE="MD5" SIZE="46070">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00185_0.tif"/>
+      </file>
+      <file ID="tiff_00185_1" MIMETYPE="image/tiff" CHECKSUM="923a308ef453879ee68652287e5dcb25" CHECKSUMTYPE="MD5" SIZE="47858">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00185_1.tif"/>
+      </file>
+      <file ID="tiff_00186_0" MIMETYPE="image/tiff" CHECKSUM="0dc7baa0eac7cb79d1319e8bee84c910" CHECKSUMTYPE="MD5" SIZE="46986">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00186_0.tif"/>
+      </file>
+      <file ID="tiff_00186_1" MIMETYPE="image/tiff" CHECKSUM="1cad7d819ea511928329799f4aac94b4" CHECKSUMTYPE="MD5" SIZE="35202">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00186_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00183_1" MIMETYPE="image/jp2" CHECKSUM="f46f7e4b9789f9d36721bff440d0397e" CHECKSUMTYPE="MD5" SIZE="2505816">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00183_1.jp2"/>
+      </file>
+      <file ID="jp2_00184_0" MIMETYPE="image/jp2" CHECKSUM="ec942910c28c4f5437c4de2646698fdf" CHECKSUMTYPE="MD5" SIZE="2547689">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00184_0.jp2"/>
+      </file>
+      <file ID="jp2_00184_1" MIMETYPE="image/jp2" CHECKSUM="eaf69327b9c3114b6856a412fec6084d" CHECKSUMTYPE="MD5" SIZE="2562553">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00184_1.jp2"/>
+      </file>
+      <file ID="jp2_00185_0" MIMETYPE="image/jp2" CHECKSUM="00e4b8b8cb2e244e421bd81434e899e3" CHECKSUMTYPE="MD5" SIZE="2609853">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00185_0.jp2"/>
+      </file>
+      <file ID="jp2_00185_1" MIMETYPE="image/jp2" CHECKSUM="1a13d82b42f4b790e32671b8f50a60ab" CHECKSUMTYPE="MD5" SIZE="2593469">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00185_1.jp2"/>
+      </file>
+      <file ID="jp2_00186_0" MIMETYPE="image/jp2" CHECKSUM="15b52b4e4e439da7b3104204057515bc" CHECKSUMTYPE="MD5" SIZE="2816790">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00186_0.jp2"/>
+      </file>
+      <file ID="jp2_00186_1" MIMETYPE="image/jp2" CHECKSUM="390c952fcc47674572bfdb70db37caf7" CHECKSUMTYPE="MD5" SIZE="2425707">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00186_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00183_1" MIMETYPE="text/xml" CHECKSUM="bc2eb46ad1f4568b80eacbd6078d501f" CHECKSUMTYPE="MD5" SIZE="83160">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00183_1.xml"/>
+      </file>
+      <file ID="alto_00184_0" MIMETYPE="text/xml" CHECKSUM="46e8eb0a9b3287dbda2400e052ccb15a" CHECKSUMTYPE="MD5" SIZE="81363">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00184_0.xml"/>
+      </file>
+      <file ID="alto_00184_1" MIMETYPE="text/xml" CHECKSUM="a5a555638e7d8a568cbd74f2c37f4025" CHECKSUMTYPE="MD5" SIZE="93670">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00184_1.xml"/>
+      </file>
+      <file ID="alto_00185_0" MIMETYPE="text/xml" CHECKSUM="151f6f3eb1f8fd5ee97a00231d0dfa15" CHECKSUMTYPE="MD5" SIZE="88857">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00185_0.xml"/>
+      </file>
+      <file ID="alto_00185_1" MIMETYPE="text/xml" CHECKSUM="36e3f2996bfa05c17dd034c39a13d87c" CHECKSUMTYPE="MD5" SIZE="94778">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00185_1.xml"/>
+      </file>
+      <file ID="alto_00186_0" MIMETYPE="text/xml" CHECKSUM="7537d6b1010b48968868c5c3d60e296a" CHECKSUMTYPE="MD5" SIZE="92752">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00186_0.xml"/>
+      </file>
+      <file ID="alto_00186_1" MIMETYPE="text/xml" CHECKSUM="ab8c25a252080a2c3afe6e08ef1a06b9" CHECKSUMTYPE="MD5" SIZE="81411">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00186_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0072" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="370" firstpage="364">
+              <parties id="b366-13" pgmap="366">Scott et al. vs. Pleasants et al.</parties>
+              <attorneys id="b366-18" pgmap="366">Fowler &amp; Stillwell, for the plaintiffs.</attorneys>
+              <attorneys id="b367-6" pgmap="367">Watkins &amp; Gallagher, for defendants.</attorneys>
+              <attorneys id="b367-8" pgmap="367">Hempstead, also for the defendants.</attorneys>
+              <summary id="b366-17" pgmap="366">Writ of Error to Pulaski Circuit Court.</summary>
+              <summary id="AWi" pgmap="366">Hon. John J. Clendenin, Circuit Judge.</summary>
+              <summary id="b366-19" pgmap="366">The decree of Pulaski Circuit Court was void and should not have been admitted in evidence. It was rendered in a pro­ceeding summary in its nature, and consequently, the statute must be strictly construed, and every fact necessary to give the court jurisdiction, must appear. 3 Ala. 153; 5 Ark. 410; 3 Yerg. 359. A recital in the decree that notice has been given, is not sufficient, if the evidence does not appear in the record. 11 Ark. 131; 13 lb. 491. The publication of notice is required to be proved by the affidavit of the publisher or proprietor of the newspaper. 6 Eng. 127; 13 Ark. 49; 14 Ark. 410.</summary>
+              <summary id="b366-20" pgmap="366(26) 367(13)">A decree against a party, without notice actual or construc­tive, is void, (4 Mon. 544; 3 A. K. Marsh. 43; 7 lb. 658, and it appears that there was no legal proof of the notice in the case.</summary>
+              <summary id="b367-5" pgmap="367">A jury may disregard a decree for fraud. 8 How. Miss. Rep. 386; 1 J. C. R. 407; Freem. Ch. Rep. 206; 15 J. R. 125.</summary>
+              <summary id="b367-7" pgmap="367">A decree of confirmation cannot be collaterally questioned, unless it be an absolute nullity, and so appears on its face; and though erroneous, yet, while unreversed, it is conclusive against the world. Frans Black vs. Percijul, 5 Ark. 41; Parker vs. Overman, 18 How. 140.</summary>
+              <summary id="b367-9" pgmap="367">A decree confirming a tax title must be treated like any other decree of a court of competent jurisdiction. It imports abso­lute verity, and no matter whether notice was given, or not, in exact accordance with the statute, a decree rendered is not void. Errors may be corrected in a direct proceeding for the purpose; but the decree cannot be impeached collaterally. Borden vs. Slate, 6 Eng. 519; Evans vs. Black, 5 Ark. 427; Par­ker vs. Overman, Hemp. C. C. R.; S. C. 18 How. S. C. R. 137; Thomas vs. Laivson’s Hrs. 21 How. 342; Roane vs. Bonnell, 20 Ark.</summary>
+              <headnotes id="b366-14" pgmap="366">A decree of confirmation, of a tax title, made upon a notice proven solely by the affidavit of the editor of a newspaper in which it was published, is erroneous, and may be reversed on appeal, but it is not void, and cannot be disregarded when introduced collaterally in an action of ejectment.</headnotes>
+              <headnotes id="b366-15" pgmap="366">It wonld be an alarming doctrine to establish, that on the trial of the issue of not guilty in an action of ejectment, the jury might find, from their own inspection of the record and proceedings, that a decree, offered in evidence, was fraudulently obta'ned though referred to “other circumstances” to be taken in connection therewith, but with no instruction of what the facts must be, that they may consider to be such other circumstances.</headnotes>
+              <headnotes id="b366-16" pgmap="366">A decree of confirmation of a tax title is admissible in evidence when, and as any other decree given upon constructive notice, and no more strictness is required in its recitals than is required in other decrees.</headnotes>
+              <opinion type="majority">
+                <author id="b367-10" pgmap="367">Mr. Justice Fairchild</author>
+                <p id="A8t" pgmap="367">delivered the opinion of the court.</p>
+                <p id="b367-11" pgmap="367">In an action of ejectment, brought by the plaintiffs in error, against the defendant, Pleasants, with whom Alfred Wallace was made a defendant upon his motion, and upon whose death his personal representatives were substituted in his place, ver­dict and judgment were given that the plaintiffs should recover the north-east fractional quarter section 12; the south-east fractional quarter of same, and the north-west fractional quar­ter of section 13, township 1 south, range 11 west; but because they did not recover the west half of section 12, which was claimed by their suit, they have brought the case here by writ of error.</p>
+                <p id="b367-12" pgmap="367(10) 368(65)">By the same evidence upon which the verdict was founded, tile plaintiffs showed title to the west half of section 12, but did not recover it, on account of a decree of the Circuit Court of Pulaski county, sitting in chancery, made the 18th of Sep­tember, 1841, and upon an ex parte application of William McK. Ball, which decree was a confirmation of tax title to the land in question, previously acquired by Ball.</p>
+                <p id="b368-6" pgmap="368">Upon the permission given to the defendants to read the decree in evidence, and upon the effect which the notice of Ball’s application and supporting affidavit can have upon the decree, must this case mainly turn.</p>
+                <p id="b368-7" pgmap="368">Other objections are made to the deed of Lawson to Ball, and to the regularity of the sale, which the deed is intended to witness, but they are only to be considered when the decree shall have been found not to have confirmed the title, and not to have cured the irregularities and infirmities connected with the sale of the land, and the proceedings previous to the sale. No objection to the decree is apparent upon its face, but the original papers introduced by the plaintiffs to rebut the decree, taken in connection with the recital in the decree, do show that the proof of notice of the sale to Ball and of his intended application for its confirmation, is not that contemplated by the third section of chapter 160, under the head of Tax Title, in English's Digest. By that statute the affidavit of a publisher or proprietor of the newspaper containing the notice is taken as sufficient evidence of the publication.</p>
+                <p id="b368-8" pgmap="368">The statute does not say that it shall be the only evidence of the publication, and if the decree did not exclude the conclu­sion, we might infer that other evidence than the affidavit attached to the notice read by the plaintiffs, was before the court upon the rendition of the decree.</p>
+                <p id="b368-9" pgmap="368">But a fair construction of the decree brings up the direct question, whether a decree of confirmation of a tax title, made upon a notice proven solely by the affidavit of the editor of the newspaper in which it was published, is, for.that reason, void.</p>
+                <p id="b368-10" pgmap="368(20) 369(12)">That such decree is erroneous and would be reversed upon appeal, may be safely presumed upon the authority of Brodie vs. Skelton, 6 Eng. 130; and Saffold vs. Saffold, 14 Ark. 400.</p>
+                <p id="b369-6" pgmap="369">Not to so hold would be proceeding upon'a principle different from that which prevailed in those cases, and which is distinctly decided in Clark vs. Strong, 13 Ark. 492, to be that which should be adhered to in suits in chancery dependent upon construc­tive notice.</p>
+                <p id="b369-7" pgmap="369">But it does not follow that the decree, though reversible upon appeal, and for error upon its face, must be held void, and con­sequently be disregarded when introduced collaterally as evi­dence in an action of ejectment.</p>
+                <p id="b369-8" pgmap="369">The decree of the court was made upon a matter over which it had jurisdiction, as held in Evans vs. Perciful, 5 Ark. 43; and the conclusiveness of the decree does not depend jupón its being made against a person, or against property.</p>
+                <p id="b369-9" pgmap="369">A decree pro confesso upon constructive notice that is defective, is as good as a like decree upon insufficient personal service, and such decree when made final cannot be collaterally ques­tioned.</p>
+                <p id="b369-10" pgmap="369">The proceeding for a confirmation of Ball’s tax title was not-­solely against the defendants in this case, but against them and all who might claim the lands embraced in the notice; that is, against all the world: a notice was given which the court called a good notice, for being sufficiently proven, and this was one of the points before the court for its determination: all the world then was bound to question the notice by a direct proceeding, or to submit to the decree rendered.</p>
+                <p id="b369-11" pgmap="369">The court rendering the decree under consideration, passed directly upon the evidence of the publication of the notice; that was one of its clearest prerogatives, and though it may be admitted that the court wrongfully decided, its decision was simply an interpretation of law that could have been corrected if made the subject of direct review in this court; it could not be annulled by the Circuit Court of Pulaski county, as would have been done if the objection of the plaintiffs to its introduc­tion as evidence had been sustained on the trial of this action of ejectment.</p>
+                <p id="b370-4" pgmap="370">There was then no error in allowing the decree to be read in evidence, nor in not allowing the rebutting evidence of the plaintiffs to destroy it.</p>
+                <p id="b370-5" pgmap="370">The fifth and ninth instructions of the plaintiffs were rightly refused, and the first instruction of the defendants was correctly given to the jury, those of the plaintiffs denying the decree to be of any effect, for the defect in the proof of the notice, the other affirming its conclusiveness, irrespective of the defect.</p>
+                <p id="b370-6" pgmap="370">There were no facts in the case, as shown by the bill of exceptions of the plaintiffs, upon which the seventh and eighth instructions could be founded. •</p>
+                <p id="b370-7" pgmap="370">They were to the effect that if the décree was obtained by fraud, or should so appear to the jury, they should disregard it in making up their verdict.</p>
+                <p id="b370-8" pgmap="370">Doubtless, whatever is fraudulently done, should, wherever done, be liable to be questioned for its fraud, but in the appli­cation of even a legal axiom, if such a thing can be, great caution is requisite less a misapplication of the principle work equal injury to its denial. And it would be an alarming doc­trine to establish, that a jury, on the issue of not guilty in an action of ejectment, could find a decree to have been fraudu­lently obtained, from their own inspection of what is on its face, and in the proceedings of the case, though referred to “other circumstances” tobe taken in connection therewith, but with no instruction of what (the facts must be, that they may consider to be such “other circumstances.”</p>
+                <p id="b370-9" pgmap="370">The allegation in Ball’s petition, that the notice was proven by the affidavit of the editor or publisher of the newspaper and when the affidavit is itself produced in. the case, and does not contain any statement known to Ball to be false, is nothing to establish fraud, or to afford reason for its inference.</p>
+                <p id="AMW" pgmap="370">And in the whole case in which the decree was rendered, as shown by the decree and deed introduced by the defendants, and by the original papers read by the plaintiffs, there was no peversion or concealment of such material fact, nor false state­ment unaccompanied by the means of its detection, as could induce the court to do otherwise than it did decree.</p>
+                <p id="b371-4" pgmap="371">It is claimed that in the confirmation of tax titles by our statutorj decrees, a more stringent rule of construction must be applied to them than to other decrees; that, as being founded on a summary proceeding, everything both to show the juris­diction, the manner of its exercise, and the evidence on which it was rendered, must be set forth in the decree. If the proceed­ing be summary simply because it is out of the ordinary course of trial, because not affording a trial by jury, or by the rules of the common law, which is the definition of a summary pro­ceeding in Bouvier’s Law Dictionary, or because trial is had for the purpose of operating upon the property seized, it is not perceived why any rule of construction, or admissibility in evidence, should be applied to a decree of confirmation, than is applied to decrees rendered in our usual chancery practice upon constructive notice, or to judgments at law in attachment cases. The notice that is given is much more ample, before a decree confirming a tax title can be given, than what is suffi­cient to call for a decree fro confcsso in suits prosecuted by the general chancery practice.</p>
+                <p id="b371-5" pgmap="371">A decree rendered upon notice by publication for six weeks successively, the last one six months before the term at which the decree is rendered, cannot be more summary, in the sense of being speedy, or without probable actual notice, than one given after two insertions in a newspaper with the intervention of only four weeks between the publication and the decree pro confesso.</p>
+                <p id="b371-6" pgmap="371(109) 372(13)">Nor is the proceeding summary in the sense that a judgment, or rather an execution, upon our delivery bonds is summary, where from the actual or alleged signing of a name to a delivery bond, a party is subject to have his property seized in execution, without an opportunity of confessing or denying the act upon which his liability rests; nor is it summary in the sense of the Tennessee proceeding shown in Igiehart vs. Moore, 16 Ark. 246, where a security in an injunction bond, upon proof of payment of the amount enjoined, may have a decree against his principal for the amount paid, without notice of the decree, or of any of the previous steps by which it is supported.</p>
+                <p id="b372-6" pgmap="372">We think that a confirmation decree is admissible in evidence, when and as any other decree given upon constructive notice, and that with due reference to the law by which it is regulated, no more strictness is required in its recitals, than is required in other decrees.</p>
+                <p id="b372-7" pgmap="372">There being nothing further that need be noticed in this branch of the case, as arising upon the bill of exceptions of the plaintiffs, the judgment of the Circuit Court of Pulaski county, so far as relates to the west-half of section 12, township 1, south 11 west, must be affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="366" ORDERLABEL="364" TYPE="page">
+        <fptr FILEID="tiff_00183_1"/>
+        <fptr FILEID="jp2_00183_1"/>
+        <fptr FILEID="alto_00183_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_366.1" BETYPE="IDREF" FILEID="alto_00183_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_366.2" BETYPE="IDREF" FILEID="alto_00183_1"/>
+              <area BEGIN="BL_366.3" BETYPE="IDREF" FILEID="alto_00183_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="367" ORDERLABEL="365" TYPE="page">
+        <fptr FILEID="tiff_00184_0"/>
+        <fptr FILEID="jp2_00184_0"/>
+        <fptr FILEID="alto_00184_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_367.3" BETYPE="IDREF" FILEID="alto_00184_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_367.2" BETYPE="IDREF" FILEID="alto_00184_0"/>
+              <area BEGIN="BL_367.4" BETYPE="IDREF" FILEID="alto_00184_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="368" ORDERLABEL="366" TYPE="page">
+        <fptr FILEID="tiff_00184_1"/>
+        <fptr FILEID="jp2_00184_1"/>
+        <fptr FILEID="alto_00184_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_368.2" BETYPE="IDREF" FILEID="alto_00184_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_368.3" BETYPE="IDREF" FILEID="alto_00184_1"/>
+              <area BEGIN="BL_368.4" BETYPE="IDREF" FILEID="alto_00184_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="369" ORDERLABEL="367" TYPE="page">
+        <fptr FILEID="tiff_00185_0"/>
+        <fptr FILEID="jp2_00185_0"/>
+        <fptr FILEID="alto_00185_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_369.3" BETYPE="IDREF" FILEID="alto_00185_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_369.2" BETYPE="IDREF" FILEID="alto_00185_0"/>
+              <area BEGIN="BL_369.4" BETYPE="IDREF" FILEID="alto_00185_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="370" ORDERLABEL="368" TYPE="page">
+        <fptr FILEID="tiff_00185_1"/>
+        <fptr FILEID="jp2_00185_1"/>
+        <fptr FILEID="alto_00185_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_370.1" BETYPE="IDREF" FILEID="alto_00185_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_370.2" BETYPE="IDREF" FILEID="alto_00185_1"/>
+              <area BEGIN="BL_370.3" BETYPE="IDREF" FILEID="alto_00185_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="371" ORDERLABEL="369" TYPE="page">
+        <fptr FILEID="tiff_00186_0"/>
+        <fptr FILEID="jp2_00186_0"/>
+        <fptr FILEID="alto_00186_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_371.2" BETYPE="IDREF" FILEID="alto_00186_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_371.1" BETYPE="IDREF" FILEID="alto_00186_0"/>
+              <area BEGIN="BL_371.3" BETYPE="IDREF" FILEID="alto_00186_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="372" ORDERLABEL="370" TYPE="page">
+        <fptr FILEID="tiff_00186_1"/>
+        <fptr FILEID="jp2_00186_1"/>
+        <fptr FILEID="alto_00186_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_372.2" BETYPE="IDREF" FILEID="alto_00186_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_372.3" BETYPE="IDREF" FILEID="alto_00186_1"/>
+              <area BEGIN="BL_372.4" BETYPE="IDREF" FILEID="alto_00186_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_372.7" BETYPE="IDREF" FILEID="alto_00186_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AMW" BETYPE="IDREF" FILEID="casebody_0072"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_370.10" BETYPE="IDREF" FILEID="alto_00185_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b371-4" BETYPE="IDREF" FILEID="casebody_0072"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_371.4" BETYPE="IDREF" FILEID="alto_00186_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b371-6" BETYPE="IDREF" FILEID="casebody_0072"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_371.6" BETYPE="IDREF" FILEID="alto_00186_0"/>
+            <area BEGIN="BL_372.1" BETYPE="IDREF" FILEID="alto_00186_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b366-20" BETYPE="IDREF" FILEID="casebody_0072"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_366.12" BETYPE="IDREF" FILEID="alto_00183_1"/>
+            <area BEGIN="BL_367.1" BETYPE="IDREF" FILEID="alto_00184_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b367-5" BETYPE="IDREF" FILEID="casebody_0072"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_367.5" BETYPE="IDREF" FILEID="alto_00184_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b367-6" BETYPE="IDREF" FILEID="casebody_0072"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_367.6" BETYPE="IDREF" FILEID="alto_00184_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b367-7" BETYPE="IDREF" FILEID="casebody_0072"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_367.7" BETYPE="IDREF" FILEID="alto_00184_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b367-8" BETYPE="IDREF" FILEID="casebody_0072"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_367.8" BETYPE="IDREF" FILEID="alto_00184_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b367-9" BETYPE="IDREF" FILEID="casebody_0072"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_367.9" BETYPE="IDREF" FILEID="alto_00184_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b369-8" BETYPE="IDREF" FILEID="casebody_0072"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_369.7" BETYPE="IDREF" FILEID="alto_00185_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b369-9" BETYPE="IDREF" FILEID="casebody_0072"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_369.8" BETYPE="IDREF" FILEID="alto_00185_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b371-5" BETYPE="IDREF" FILEID="casebody_0072"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_371.5" BETYPE="IDREF" FILEID="alto_00186_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b369-10" BETYPE="IDREF" FILEID="casebody_0072"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_369.9" BETYPE="IDREF" FILEID="alto_00185_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b366-13" BETYPE="IDREF" FILEID="casebody_0072"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_366.4" BETYPE="IDREF" FILEID="alto_00183_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b366-15" BETYPE="IDREF" FILEID="casebody_0072"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_366.6" BETYPE="IDREF" FILEID="alto_00183_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b366-14" BETYPE="IDREF" FILEID="casebody_0072"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_366.5" BETYPE="IDREF" FILEID="alto_00183_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b366-17" BETYPE="IDREF" FILEID="casebody_0072"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_366.8" BETYPE="IDREF" FILEID="alto_00183_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b366-16" BETYPE="IDREF" FILEID="casebody_0072"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_366.7" BETYPE="IDREF" FILEID="alto_00183_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b366-19" BETYPE="IDREF" FILEID="casebody_0072"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_366.11" BETYPE="IDREF" FILEID="alto_00183_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b366-18" BETYPE="IDREF" FILEID="casebody_0072"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_366.10" BETYPE="IDREF" FILEID="alto_00183_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b370-4" BETYPE="IDREF" FILEID="casebody_0072"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_370.4" BETYPE="IDREF" FILEID="alto_00185_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b368-10" BETYPE="IDREF" FILEID="casebody_0072"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_368.9" BETYPE="IDREF" FILEID="alto_00184_1"/>
+            <area BEGIN="BL_369.1" BETYPE="IDREF" FILEID="alto_00185_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b367-12" BETYPE="IDREF" FILEID="casebody_0072"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_367.13" BETYPE="IDREF" FILEID="alto_00184_0"/>
+            <area BEGIN="BL_368.1" BETYPE="IDREF" FILEID="alto_00184_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b367-10" BETYPE="IDREF" FILEID="casebody_0072"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_367.10" BETYPE="IDREF" FILEID="alto_00184_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b367-11" BETYPE="IDREF" FILEID="casebody_0072"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_367.12" BETYPE="IDREF" FILEID="alto_00184_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b370-6" BETYPE="IDREF" FILEID="casebody_0072"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_370.6" BETYPE="IDREF" FILEID="alto_00185_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b372-7" BETYPE="IDREF" FILEID="casebody_0072"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_372.6" BETYPE="IDREF" FILEID="alto_00186_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b369-6" BETYPE="IDREF" FILEID="casebody_0072"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_369.5" BETYPE="IDREF" FILEID="alto_00185_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AWi" BETYPE="IDREF" FILEID="casebody_0072"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_366.9" BETYPE="IDREF" FILEID="alto_00183_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b369-7" BETYPE="IDREF" FILEID="casebody_0072"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_369.6" BETYPE="IDREF" FILEID="alto_00185_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b370-7" BETYPE="IDREF" FILEID="casebody_0072"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_370.7" BETYPE="IDREF" FILEID="alto_00185_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b372-6" BETYPE="IDREF" FILEID="casebody_0072"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_372.5" BETYPE="IDREF" FILEID="alto_00186_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b370-8" BETYPE="IDREF" FILEID="casebody_0072"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_370.8" BETYPE="IDREF" FILEID="alto_00185_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b370-9" BETYPE="IDREF" FILEID="casebody_0072"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_370.9" BETYPE="IDREF" FILEID="alto_00185_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b368-9" BETYPE="IDREF" FILEID="casebody_0072"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_368.8" BETYPE="IDREF" FILEID="alto_00184_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b368-8" BETYPE="IDREF" FILEID="casebody_0072"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_368.7" BETYPE="IDREF" FILEID="alto_00184_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b368-7" BETYPE="IDREF" FILEID="casebody_0072"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_368.6" BETYPE="IDREF" FILEID="alto_00184_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b368-6" BETYPE="IDREF" FILEID="casebody_0072"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_368.5" BETYPE="IDREF" FILEID="alto_00184_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b370-5" BETYPE="IDREF" FILEID="casebody_0072"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_370.5" BETYPE="IDREF" FILEID="alto_00185_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A8t" BETYPE="IDREF" FILEID="casebody_0072"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_367.11" BETYPE="IDREF" FILEID="alto_00184_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b369-11" BETYPE="IDREF" FILEID="casebody_0072"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_369.10" BETYPE="IDREF" FILEID="alto_00185_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

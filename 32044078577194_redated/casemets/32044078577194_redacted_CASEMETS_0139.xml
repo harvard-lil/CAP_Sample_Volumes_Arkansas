@@ -1,0 +1,464 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0139" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Roberts-McNutt, Inc. v. Williams">ROBERTS-McNUTT, INC. v. Michael J. WILLIAMS</name>
+          <docketnumber>85-177</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 587</citation>
+          <citation category="parallel" type="bluebook">708 S.W.2d 87</citation>
+          <decisiondate>1986-04-21</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:01Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00313_0" MIMETYPE="image/tiff" CHECKSUM="73cc12028e96fdb05b21b009ad87b5e7" CHECKSUMTYPE="MD5" SIZE="37652">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00313_0.tif"/>
+      </file>
+      <file ID="tiff_00313_1" MIMETYPE="image/tiff" CHECKSUM="9b7941e6f0d0fcd111afeeaa11742db4" CHECKSUMTYPE="MD5" SIZE="55496">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00313_1.tif"/>
+      </file>
+      <file ID="tiff_00314_0" MIMETYPE="image/tiff" CHECKSUM="b7b1d9ff9cd8556be7f4cfbba2aa5156" CHECKSUMTYPE="MD5" SIZE="38122">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00314_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00313_0" MIMETYPE="image/jp2" CHECKSUM="8886a094dc785bdd6c3b4b7647f0d2b9" CHECKSUMTYPE="MD5" SIZE="2278324">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00313_0.jp2"/>
+      </file>
+      <file ID="jp2_00313_1" MIMETYPE="image/jp2" CHECKSUM="1a377bfaa2ab166cf8421eeb492f34ba" CHECKSUMTYPE="MD5" SIZE="2534564">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00313_1.jp2"/>
+      </file>
+      <file ID="jp2_00314_0" MIMETYPE="image/jp2" CHECKSUM="ac8d59bcd489edafe090c37b5cdb6a57" CHECKSUMTYPE="MD5" SIZE="2331952">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00314_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00313_0" MIMETYPE="text/xml" CHECKSUM="8d3a6556c41a84bbf69b23b8455a2bcd" CHECKSUMTYPE="MD5" SIZE="60859">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00313_0.xml"/>
+      </file>
+      <file ID="alto_00313_1" MIMETYPE="text/xml" CHECKSUM="87236655694af864e6dbfafb2dc42576" CHECKSUMTYPE="MD5" SIZE="85735">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00313_1.xml"/>
+      </file>
+      <file ID="alto_00314_0" MIMETYPE="text/xml" CHECKSUM="c1242a2246dcddbd5c0d7d2ee6fbc260" CHECKSUMTYPE="MD5" SIZE="59096">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00314_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0139" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="587" lastpage="589">
+              <court pgmap="625" id="b625-4">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="625" id="AAUY">85-177</docketnumber>
+              <citation pgmap="625" id="AeR">708 S.W.2d 87</citation>
+              <parties pgmap="625" id="b625-3">ROBERTS-McNUTT, INC. v. Michael J. WILLIAMS</parties>
+              <decisiondate pgmap="625" id="A9RL">Opinion delivered April 21, 1986</decisiondate>
+              <otherdate pgmap="625" id="AhY">[Rehearing denied May 27, 1986.<footnotemark>*</footnotemark>]</otherdate>
+              <judges pgmap="627" id="b627-8">Purtle, J., not participating.</judges>
+              <judges pgmap="627" id="b627-9">Holt, C.J., George Rose Smith, J., and Hays, J., would reverse for the reasons given by Judge Corbin in the Court of Appeals.</judges>
+              <attorneys pgmap="625" id="b625-7">Friday, Eldredge &amp; Clark, by: William M. Griffin, III, for appellant.</attorneys>
+              <attorneys pgmap="625" id="b625-8">Laws &amp; Swain, P.A., by: Timothy W. Murdoch, for appellee.</attorneys>
+              <footnote label="*">
+                <p pgmap="625" id="b625-12">* Purtle, J., not participating.</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="625" id="b625-9">Robert Branch, Special Justice.</author>
+                <p pgmap="625" id="AEp">We granted review of this case because the Court of Appeals was evenly divided on the main issue, Roberts-McNutt, Inc. v. Williams, 15 Ark. App. 240, 691 S.W.2d 887 (1985), and because it involves a matter of significant public interest.</p>
+                <p pgmap="625" id="b625-10">Michael J. Williams was granted workers’ compensation even though he falsely represented on his employment applica­tion that he had no previous injury. The pertinent facts are that Williams suffered a back injury on November 3, 1982, while employed by Western Waterproofing in Oklahoma. On January 17, 1983, he underwent back surgery and on April 4,1983, was released at his request with a rating of 20 percent disability to the body as a whole.</p>
+                <p pgmap="625(74) 626(41)" id="b625-11">On April 18, 1983, Williams applied for employment with the Appellant. On April 21, 1983, Williams filed a joint petition to settle his workers’ compensation claim in Oklahoma and he was paid $18,000.00 as compensation for that injury. On May 2 or May 3,1983, Williams began work for the Appellant and one day later he slipped and fell and sustained an injury which gives rise to this claim. On his employment application with the Appellant, he omitted any reference to his injury or compensa­tion. Williams concedes these facts but claims that the president of the Appellant company told him to omit any reference to the injury because it would make his insurance go up.</p>
+                <p pgmap="626" id="b626-6">This case involves only an issue of witness credibility. Williams testified he called Raymond Roberts, the president of the Appellant company, and told him of the injury he had sustained while working for Western Waterproofing in Oklahoma and of his back surgery and that he was invited by Roberts to come in and make an application for employment. Freddy Carl Scott testified that he was present when Williams called Roberts and told Roberts that he was waiting to be cleared by his doctor before he could come to Arkansas for employment.</p>
+                <p pgmap="626" id="b626-7">Williams testified that when he filled out his application for work in Roberts’ presence, Roberts asked him how he felt and decided his pay would be less than the full pay scale because of Williams’ back condition. Williams testified that while filling out his employment application, he asked if he should include information about his back condition and Roberts replied he should not because it would make his “insurance go up”. Scott testified Roberts told Williams not to mention the back condition in the employment application for insurance reasons.</p>
+                <p pgmap="626" id="b626-8">Roberts denied Williams had told him of his back condition and denied telling Williams to falsify his employment applica­tion. Roberts testified his company was self-insured through a self-insuring fund and he only paid Williams $10.00 per hour because Williams was trying to take a shortcut to employment as a journeyman. The administrative law judge ruled in favor of the Claimant Williams. The Arkansas Workers’ Compensation Commission affirmed.</p>
+                <p pgmap="626" id="b626-9">We find there is substantial evidence to support the decision of the Workers’ Compensation Commission.</p>
+                <p pgmap="626" id="b626-10">Roberts testified he knew Williams and knew of his work with Western Waterproofing in Little Rock prior to going to Oklahoma. He contended, however, that Williams lied on his job application about his education level and he did not disclose his employment with Western Waterproofing in Oklahoma.</p>
+                <p pgmap="626(9) 627(91)" id="b626-11">Williams stated on his application that he worked for Western Waterproofing in Little Rock from 1978 until June 1, 1982. The application was dated April 18,1983. The application did not disclose any employment information for the period from June 1, 1982 to April 18, 1983. The Appellant asked the Administrative Law Judge and the Commission to believe that Roberts accepted this job application without knowing of the prior injury, without knowing of Williams’ employment with Western Waterproofing in Oklahoma, and without questioning where Williams had been and what he had been doing for the preceding ten months and 18 days.</p>
+                <p pgmap="627" id="b627-6">
+                   The issue is whether Williams and Scott were telling the truth or Roberts was telling the truth. The Commission chose to believe Williams and Scott. We defer to the decision of the Workers’ Compensation Commission on questions of witness credibility. May v. Crompton-Arkansas Mills Inc. &amp; Liberty Mutual Insurance Co., 253 Ark. 1080, 490 S.W.2d 794 (1973); Warwick Electronics Inc. v. Devazier, 253 Ark. 1100, 490 S.W.2d 792 (1973); Dacus Casket Co. v. Hardy, 250 Ark. 886, 467 S.W.2d 713 (1971); Nationwide Warehouse Market v. Whisenant, 249 Ark. 604, 460 S.W.2d 90 (1970); Kivett v. Redmond Co., 234 Ark. 855, 355 S.W.2d 172 (1962).</p>
+                <p pgmap="627" id="b627-7">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="625" ORDERLABEL="587" TYPE="page">
+        <fptr FILEID="tiff_00313_0"/>
+        <fptr FILEID="jp2_00313_0"/>
+        <fptr FILEID="alto_00313_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_625.2" BETYPE="IDREF" FILEID="alto_00313_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="626" ORDERLABEL="588" TYPE="page">
+        <fptr FILEID="tiff_00313_1"/>
+        <fptr FILEID="jp2_00313_1"/>
+        <fptr FILEID="alto_00313_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_626.2" BETYPE="IDREF" FILEID="alto_00313_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="627" ORDERLABEL="589" TYPE="page">
+        <fptr FILEID="tiff_00314_0"/>
+        <fptr FILEID="jp2_00314_0"/>
+        <fptr FILEID="alto_00314_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_627.3" BETYPE="IDREF" FILEID="alto_00314_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b625-7" BETYPE="IDREF" FILEID="casebody_0139"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_625.12" BETYPE="IDREF" FILEID="alto_00313_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b626-10" BETYPE="IDREF" FILEID="casebody_0139"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_626.8" BETYPE="IDREF" FILEID="alto_00313_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b626-11" BETYPE="IDREF" FILEID="casebody_0139"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_626.9" BETYPE="IDREF" FILEID="alto_00313_1"/>
+            <area BEGIN="BL_627.1" BETYPE="IDREF" FILEID="alto_00314_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AAUY" BETYPE="IDREF" FILEID="casebody_0139"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_625.4" BETYPE="IDREF" FILEID="alto_00313_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AEp" BETYPE="IDREF" FILEID="casebody_0139"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_625.15" BETYPE="IDREF" FILEID="alto_00313_0"/>
+            <area BEGIN="BL_625.16" BETYPE="IDREF" FILEID="alto_00313_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b625-12" BETYPE="IDREF" FILEID="casebody_0139"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_625.19" BETYPE="IDREF" FILEID="alto_00313_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b625-11" BETYPE="IDREF" FILEID="casebody_0139"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_625.18" BETYPE="IDREF" FILEID="alto_00313_0"/>
+            <area BEGIN="BL_626.1" BETYPE="IDREF" FILEID="alto_00313_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b625-10" BETYPE="IDREF" FILEID="casebody_0139"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_625.17" BETYPE="IDREF" FILEID="alto_00313_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b625-9" BETYPE="IDREF" FILEID="casebody_0139"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_625.14" BETYPE="IDREF" FILEID="alto_00313_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b625-8" BETYPE="IDREF" FILEID="casebody_0139"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_625.13" BETYPE="IDREF" FILEID="alto_00313_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b627-9" BETYPE="IDREF" FILEID="casebody_0139"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_627.7" BETYPE="IDREF" FILEID="alto_00314_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b627-8" BETYPE="IDREF" FILEID="casebody_0139"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_627.6" BETYPE="IDREF" FILEID="alto_00314_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b625-3" BETYPE="IDREF" FILEID="casebody_0139"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_625.3" BETYPE="IDREF" FILEID="alto_00313_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b627-6" BETYPE="IDREF" FILEID="casebody_0139"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_627.4" BETYPE="IDREF" FILEID="alto_00314_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AeR" BETYPE="IDREF" FILEID="casebody_0139"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_625.5" BETYPE="IDREF" FILEID="alto_00313_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b625-4" BETYPE="IDREF" FILEID="casebody_0139"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_625.6" BETYPE="IDREF" FILEID="alto_00313_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AhY" BETYPE="IDREF" FILEID="casebody_0139"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_625.8" BETYPE="IDREF" FILEID="alto_00313_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A9RL" BETYPE="IDREF" FILEID="casebody_0139"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_625.7" BETYPE="IDREF" FILEID="alto_00313_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b626-6" BETYPE="IDREF" FILEID="casebody_0139"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_626.4" BETYPE="IDREF" FILEID="alto_00313_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b626-7" BETYPE="IDREF" FILEID="casebody_0139"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_626.5" BETYPE="IDREF" FILEID="alto_00313_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b626-8" BETYPE="IDREF" FILEID="casebody_0139"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_626.6" BETYPE="IDREF" FILEID="alto_00313_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b626-9" BETYPE="IDREF" FILEID="casebody_0139"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_626.7" BETYPE="IDREF" FILEID="alto_00313_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b627-7" BETYPE="IDREF" FILEID="casebody_0139"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_627.5" BETYPE="IDREF" FILEID="alto_00314_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

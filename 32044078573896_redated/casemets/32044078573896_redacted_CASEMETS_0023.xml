@@ -1,0 +1,688 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0023" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="State ex rel. Peterson v. Gibson">State use of Peterson vs. Gibson et al.</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 140</citation>
+          <decisiondate>1860-01</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00071_1" MIMETYPE="image/tiff" CHECKSUM="bdc55f7dfe4f31d83a7528c4a9c66874" CHECKSUMTYPE="MD5" SIZE="35296">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00071_1.tif"/>
+      </file>
+      <file ID="tiff_00072_0" MIMETYPE="image/tiff" CHECKSUM="4564211a8271933856b3494c6e7991eb" CHECKSUMTYPE="MD5" SIZE="43956">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00072_0.tif"/>
+      </file>
+      <file ID="tiff_00072_1" MIMETYPE="image/tiff" CHECKSUM="303dbfe14d4b9a3e811061fc83453c47" CHECKSUMTYPE="MD5" SIZE="48448">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00072_1.tif"/>
+      </file>
+      <file ID="tiff_00073_0" MIMETYPE="image/tiff" CHECKSUM="17b8aacd6d93a8d10d40ec4631155da2" CHECKSUMTYPE="MD5" SIZE="47478">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00073_0.tif"/>
+      </file>
+      <file ID="tiff_00073_1" MIMETYPE="image/tiff" CHECKSUM="eb71665c3deba32b1d9ac19168285a26" CHECKSUMTYPE="MD5" SIZE="46592">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00073_1.tif"/>
+      </file>
+      <file ID="tiff_00074_0" MIMETYPE="image/tiff" CHECKSUM="269b9296eef95fe290148390cb4f40ed" CHECKSUMTYPE="MD5" SIZE="33402">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00074_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00071_1" MIMETYPE="image/jp2" CHECKSUM="f0ec09ca6ed057e495831a488f8f126a" CHECKSUMTYPE="MD5" SIZE="2445644">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00071_1.jp2"/>
+      </file>
+      <file ID="jp2_00072_0" MIMETYPE="image/jp2" CHECKSUM="4fb27d36b8484229307f9ab7367c0598" CHECKSUMTYPE="MD5" SIZE="2594919">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00072_0.jp2"/>
+      </file>
+      <file ID="jp2_00072_1" MIMETYPE="image/jp2" CHECKSUM="51b2098b4fd5fcaac5a349d8e9b57a8c" CHECKSUMTYPE="MD5" SIZE="2618889">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00072_1.jp2"/>
+      </file>
+      <file ID="jp2_00073_0" MIMETYPE="image/jp2" CHECKSUM="e1aef2c717644db5e0981b6f890c1824" CHECKSUMTYPE="MD5" SIZE="2672981">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00073_0.jp2"/>
+      </file>
+      <file ID="jp2_00073_1" MIMETYPE="image/jp2" CHECKSUM="46795e971fbb8184fbb3fe1a1c32f7a2" CHECKSUMTYPE="MD5" SIZE="2576655">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00073_1.jp2"/>
+      </file>
+      <file ID="jp2_00074_0" MIMETYPE="image/jp2" CHECKSUM="7db40614415f0b2c1cfe75415d983d14" CHECKSUMTYPE="MD5" SIZE="2491141">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00074_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00071_1" MIMETYPE="text/xml" CHECKSUM="9ebaa99b1be0f19c6432944f781eb950" CHECKSUMTYPE="MD5" SIZE="80251">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00071_1.xml"/>
+      </file>
+      <file ID="alto_00072_0" MIMETYPE="text/xml" CHECKSUM="5d43ff181c1e5d116a285942eacf1b33" CHECKSUMTYPE="MD5" SIZE="84741">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00072_0.xml"/>
+      </file>
+      <file ID="alto_00072_1" MIMETYPE="text/xml" CHECKSUM="2ebbbd3edb6f271ccaf607cd68806c9a" CHECKSUMTYPE="MD5" SIZE="94332">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00072_1.xml"/>
+      </file>
+      <file ID="alto_00073_0" MIMETYPE="text/xml" CHECKSUM="1d2f3721107e126e8ebe5fa00dd07584" CHECKSUMTYPE="MD5" SIZE="90972">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00073_0.xml"/>
+      </file>
+      <file ID="alto_00073_1" MIMETYPE="text/xml" CHECKSUM="87ff5d7775512b1dd2c59f7ea21cd2f7" CHECKSUMTYPE="MD5" SIZE="94000">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00073_1.xml"/>
+      </file>
+      <file ID="alto_00074_0" MIMETYPE="text/xml" CHECKSUM="ab894a846594666e121cdd3972c8bf62" CHECKSUMTYPE="MD5" SIZE="78996">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00074_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0023" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="145" firstpage="140">
+              <parties id="b142-5" pgmap="142">State use of Peterson vs. Gibson et al.</parties>
+              <attorneys id="b142-11" pgmap="142">Carleton, for the plaintiff.</attorneys>
+              <attorneys id="b143-5" pgmap="143">Watkins &amp; Gallagher, for defendants.</attorneys>
+              <summary id="b142-9" pgmap="142">Error to Union Circuit Court.</summary>
+              <summary id="b142-10" pgmap="142">Hon. Abner A. Stitii, Circuit Judge.</summary>
+              <summary id="b142-12" pgmap="142">It was error to refuse the introduction of the evidence by which it was shown that the receiver had applied thé effects of his receivership to his own private use, and afterwards refused to account for them, as this was the very substance of all the issues.</summary>
+              <summary id="b142-13" pgmap="142">The jury should have been sworn to enquire into the truth of the breaches as to Sargent, who made default, and to truly assess the damages, 2 Ark. 382; 1 Eng. 490.</summary>
+              <summary id="b142-14" pgmap="142(24) 143(14)">But one final judgment shall be given in a cáse (sec. SO, chap. 126, Dig.', 6 Eng. 642), and the court erred in rendering final judgment as to the other defendants, without rendering final judgment as to Sargent.</summary>
+              <summary id="b143-6" pgmap="143">No order of the court appointing the receiver, having been made touching the receiver, or the disposition of the property in his hands, the court below correctly decided, in effect, that no suit would lie. 3 Dan. Ch. Pr. 1996, 1998, 2002; Edwards on Rec’rs in Ch., 2, 4, 9, 485, 486, 487, and cases cited; 15-­Ark. 41.</summary>
+              <headnotes id="b142-6" pgmap="142">Where a receiver has been appointed by a court of chancery, in a case pending, and lias taken charge of the property in litigation, a compromise and dismissal of the bill do not discharge the receiver from accountability to the dourt: nor is he liable to an action upon his bond, as receiver, until he has failed to obey some order of the court in relation to the property.</headnotes>
+              <headnotes id="b142-7" pgmap="142">Where the record, in an action upon a penal bond, states that “ the jury were sworn as required by law,” instead of “to enquire into the truth of the breaches and assess the damages,” as to a party in default, and “ to try the issues and assess the damages,” as to the defendants who had pleaded, the presumption is that they were so sworn.</headnotes>
+              <headnotes id="b142-8" pgmap="142">Where one of several defendants makes default, and his co-defendants interpose pleas in bar to the whole action, a finding in their favor enures to his benefit, and he is entitled to a judgment of discharge; but the failure of the judgment to discharge him in terms, is not an error prejudicial to the plaintiff.</headnotes>
+              <opinion type="majority">
+                <author id="b143-7" pgmap="143">Mr. Chief Justice</author>
+                <p id="Azo" pgmap="143">English delivered the opinion of the Court.</p>
+                <p id="b143-8" pgmap="143">This was an action of debt brought in the name of the State for the use of Frederick A. Peterson, in the Union Circuit Court, against Edward N. Gibson, Cyrus F. Sargent, Joel Kelly and Matthew Lambert.</p>
+                <p id="b143-9" pgmap="143">The action was founded on a penal bond, executed by the defendants, payable to the State, conditioned as follows:</p>
+                <blockquote id="b143-10" pgmap="143">“ The condition of the above obligation is such that whereas one Henry Cossart has filed his bill in chancery, in the Circuit Court of said county of Union, and to the next term thereof, against one Frederick A. Peterson, praying, among other things, for a dissolution of the mercantile firm of F. A. Peterson &amp; Co., for an injunction, and the appointment of a receiver, to take charge, possession and management of the assets and business of said firm, and has obtained an order appointing the said Edward N. Gibson as such receiver, — now, if the said Edward N. Gibson, as such receiver, shall well and faithfully perform the trust and office of receiver of the stock and busi­ness of the partnership effects of the said firm of F. A. Peterson &amp; Co., and shall account to the said Union Circuit Court accord­ing to law, then the above obligation to be void, else to remain in full force.”</blockquote>
+                <p id="b143-11" pgmap="143">The declaration, after setting out the bond and its condition, asssigns as breaches thereof, in substance:</p>
+                <p id="b143-12" pgmap="143(11) 144(125)">1. That while Gibson was acting as such receiver, from the 25th June, to the 12th Oct., 1855, he took, and appropriated to his own use, good's, wares and effects of the firm, which came into his hands as such receiver, of the value of $500. That said chancery suit, in which he was appointed receiver, was compromised and dismissed on the 25th October, 1855, — Peter­son having purchased the entire interest of Cossart, and becom­ing thereby entitled to the immediate possession of the partnership effects, whereupon the authority of Gibson, as such receiver, ceased, of which he had notice. But that he refused to account for said goods and effects to the said Circuit Court of Union county, according to law, or deliver or account for the same to Peterson, upon demand etc.</p>
+                <p id="b144-5" pgmap="144">2d. That while Gibson was acting as such receiver, the sum of $800 in money, effects of said firm, came to his hands as such, which he appropriated to his own use. That though the chancery suit, in which he was appointed receiver, had been compromised and dismissed, and, by the terms of the compro­mise, all of the effects of the firm were to be delivered imme­diately to Peterson, of which Gibson had notice, he refused to account to the said Circuit Court for said sum according to law, or deliver the same to Peterson, on demand, etc.</p>
+                <p id="b144-6" pgmap="144">3. That while Gibson was acting as receiver, goods, wares and merchandize of the value of $1,000, came to his hands as such — that the chancery suit was compromised and dismissed, and, though by the terms of the compromise, said goods, etc., were to be delivered to Peterson, of which Gibson had notice, yet he would not account to the said Circuit Court for said goods, etc., according to law, nor deliver or account for them to Peterson &amp; Co.</p>
+                <p id="b144-7" pgmap="144">The defendants (except Sargent who made default) filed eight pleas, of which it is sufficient to say that they put in issue the truth of the breaches assigned in the declaration.</p>
+                <p id="b144-8" pgmap="144(47) 145(99)">On the trial the plaintiff offered to introduce evidence condu­cing to prove that, while Gibson was acting as receiver, he converted a portion of the effects which came into his hands as such to his own use, and had failed to account for the same, etc., which the court excluded, holding, as the bill of exceptions states, that Gibson having been appointed receiver by the Chancery Court of Union county, given his bond as such, and taken the effects into his possession, he was not discharged from his amenability to that court, by the dismissal of the cause in vacation; and that he could not be sued upon his bond until that court had adjudicated his account, and .made some order touching the rights of the parties to the property in his hands. Whereupon, the plaintiff announced that he had no other proof to offer.</p>
+                <p id="b145-5" pgmap="145">The defendants read in evidence the record entry, showing that the suit, in which Gibson had been appointed receiver, was dismissed by the complainant before the clerk in vacation.</p>
+                <p id="b145-6" pgmap="145">Verdict in favor of defendants, etc.</p>
+                <p id="b145-7" pgmap="145">That the litigating partners had the right to compromise the matters in dispute between them; and that the complainant had the right to relinquish his interest in the partnership effects which were placed in the hands of the receiver, to the defen­dant, and dismiss his bill in vacation, before the clerk, is beyond question. Dig., chap. 133, sec. 134.</p>
+                <p id="b145-8" pgmap="145">But the dismissal'of the bill did not discharge the receiver from accountability to the Court of Chancery, from which he received his appointment (3 Daniel, 2003.) He was an officer of the court, (Hoffman M. Ch. 154,) and subject to its orders in relation to the partnership effects placed in his hands as receiver, until discharged by the court. The condition of his bond was that he would faithfully perform his duties as receiver, etc., and account to the court, from which he received his appointment, according to law. He and his securities were not liable to an action upon the bond until he had failed to obey some order of the court in relation to the effects placed in his hands. 1 Stnith's Ch. Prac. C46.</p>
+                <p id="b145-9" pgmap="145(46) 146(77)">At the term of the court ensuing the dismissal of the chan­cery suit, or at a subsequent term, it would have been compe­tent for Peterson, wffio, by the terms of the compromise, was entitled to the partnership effects placed in the hands of the receiver, to have applied to the court for a rule upon him to render his account; and after the account was adjusted and approved by the court, and the receiver ordered to pay the effects in his hands into court, or to the' party entitled to them, if he had failed to do so, he would have been subject to attach­ment as for contempt, and he and his securities liable to suit upon his bond. Ib.</p>
+                <p id="b146-5" pgmap="146">But it is peculiarly the province of the Chancery Court ap­pointing the receiver to adjust his account, because it is to that court that he must look for the allowance of such compensa­tion for his services as he may be entitled to.</p>
+                <p id="b146-6" pgmap="146">The court below did not err in excluding the evidence offered by the plaintiff.</p>
+                <p id="b146-7" pgmap="146">It appears from the record entries, that after the issues were made up between the plaintiff and the defendants who pleaded, a judgment by default was entered against the deiendant Sar­gent, who failed to plead. That a jury was then empannelled who (the entry states) “ were sworn in this case as required by law,” and after hearing the evidence, etc., returned a verdict in favor of the “ defendants.” Then follows a judgment dis­charging the three defendants, by name, who interposed the pleas, and for costs, but Sargent is not mentioned in the judg­ment.</p>
+                <p id="b146-8" pgmap="146">The coi’rect practice was to swear the jury to enquire into the truth of the breaches and assess the damages as to the party in default, as well as to try the issues and assess the damages as to the defendants, who pleaded to the action. Dig. ch. 127, see. 7; 1 Eng. 497; 4 ib. 358, 423.</p>
+                <p id="b146-9" pgmap="146">It was the duty of the plaintiff to see that this was done; and the record stating that the jury were sworn as required by law, the presumption is that they were so sworn.</p>
+                <p id="b146-10" pgmap="146(56) 147(39)">Three of the defendants having interposed pleas in bar of the whole action, a finding in their favor necessarily enured to the benefit of the party in default; and he, as well as the others, was entitled to a judgment of discharge. He was in legal effect discharged, by the verdict and judgment. But the fail­ure of the judgment to discharge him, in terms, was not an error prejudicial to the plaintiff. If any orfe has the right to complain, it is the party who should have been formally dis­charged, but was not.</p>
+                <p id="b147-5" pgmap="147">The judgment must be affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="142" ORDERLABEL="140" TYPE="page">
+        <fptr FILEID="tiff_00071_1"/>
+        <fptr FILEID="jp2_00071_1"/>
+        <fptr FILEID="alto_00071_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_142.1" BETYPE="IDREF" FILEID="alto_00071_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_142.2" BETYPE="IDREF" FILEID="alto_00071_1"/>
+              <area BEGIN="BL_142.3" BETYPE="IDREF" FILEID="alto_00071_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="143" ORDERLABEL="141" TYPE="page">
+        <fptr FILEID="tiff_00072_0"/>
+        <fptr FILEID="jp2_00072_0"/>
+        <fptr FILEID="alto_00072_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_143.3" BETYPE="IDREF" FILEID="alto_00072_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_143.2" BETYPE="IDREF" FILEID="alto_00072_0"/>
+              <area BEGIN="BL_143.4" BETYPE="IDREF" FILEID="alto_00072_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="144" ORDERLABEL="142" TYPE="page">
+        <fptr FILEID="tiff_00072_1"/>
+        <fptr FILEID="jp2_00072_1"/>
+        <fptr FILEID="alto_00072_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_144.2" BETYPE="IDREF" FILEID="alto_00072_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_144.3" BETYPE="IDREF" FILEID="alto_00072_1"/>
+              <area BEGIN="BL_144.4" BETYPE="IDREF" FILEID="alto_00072_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="145" ORDERLABEL="143" TYPE="page">
+        <fptr FILEID="tiff_00073_0"/>
+        <fptr FILEID="jp2_00073_0"/>
+        <fptr FILEID="alto_00073_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_145.3" BETYPE="IDREF" FILEID="alto_00073_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_145.2" BETYPE="IDREF" FILEID="alto_00073_0"/>
+              <area BEGIN="BL_145.4" BETYPE="IDREF" FILEID="alto_00073_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="146" ORDERLABEL="144" TYPE="page">
+        <fptr FILEID="tiff_00073_1"/>
+        <fptr FILEID="jp2_00073_1"/>
+        <fptr FILEID="alto_00073_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_146.2" BETYPE="IDREF" FILEID="alto_00073_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_146.3" BETYPE="IDREF" FILEID="alto_00073_1"/>
+              <area BEGIN="BL_146.4" BETYPE="IDREF" FILEID="alto_00073_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="147" ORDERLABEL="145" TYPE="page">
+        <fptr FILEID="tiff_00074_0"/>
+        <fptr FILEID="jp2_00074_0"/>
+        <fptr FILEID="alto_00074_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_147.3" BETYPE="IDREF" FILEID="alto_00074_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_147.2" BETYPE="IDREF" FILEID="alto_00074_0"/>
+              <area BEGIN="BL_147.4" BETYPE="IDREF" FILEID="alto_00074_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_147.6" BETYPE="IDREF" FILEID="alto_00074_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b145-8" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_145.8" BETYPE="IDREF" FILEID="alto_00073_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b142-5" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_142.4" BETYPE="IDREF" FILEID="alto_00071_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b142-7" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_142.6" BETYPE="IDREF" FILEID="alto_00071_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b142-6" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_142.5" BETYPE="IDREF" FILEID="alto_00071_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b147-5" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_147.5" BETYPE="IDREF" FILEID="alto_00074_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b143-5" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_143.5" BETYPE="IDREF" FILEID="alto_00072_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b143-6" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_143.6" BETYPE="IDREF" FILEID="alto_00072_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b143-7" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_143.7" BETYPE="IDREF" FILEID="alto_00072_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b143-8" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_143.9" BETYPE="IDREF" FILEID="alto_00072_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b143-9" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_143.10" BETYPE="IDREF" FILEID="alto_00072_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b142-9" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_142.8" BETYPE="IDREF" FILEID="alto_00071_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b142-8" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_142.7" BETYPE="IDREF" FILEID="alto_00071_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b144-7" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_144.7" BETYPE="IDREF" FILEID="alto_00072_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b142-11" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_142.10" BETYPE="IDREF" FILEID="alto_00071_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b142-10" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_142.9" BETYPE="IDREF" FILEID="alto_00071_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b142-13" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_142.12" BETYPE="IDREF" FILEID="alto_00071_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b142-12" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_142.11" BETYPE="IDREF" FILEID="alto_00071_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b142-14" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_142.13" BETYPE="IDREF" FILEID="alto_00071_1"/>
+            <area BEGIN="BL_143.1" BETYPE="IDREF" FILEID="alto_00072_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b145-9" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_145.9" BETYPE="IDREF" FILEID="alto_00073_0"/>
+            <area BEGIN="BL_146.1" BETYPE="IDREF" FILEID="alto_00073_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Azo" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_143.8" BETYPE="IDREF" FILEID="alto_00072_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b145-6" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_145.6" BETYPE="IDREF" FILEID="alto_00073_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b144-5" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_144.5" BETYPE="IDREF" FILEID="alto_00072_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b145-7" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_145.7" BETYPE="IDREF" FILEID="alto_00073_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b143-12" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_143.13" BETYPE="IDREF" FILEID="alto_00072_0"/>
+            <area BEGIN="BL_144.1" BETYPE="IDREF" FILEID="alto_00072_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b144-6" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_144.6" BETYPE="IDREF" FILEID="alto_00072_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b143-10" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_143.11" BETYPE="IDREF" FILEID="alto_00072_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b143-11" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_143.12" BETYPE="IDREF" FILEID="alto_00072_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b146-5" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_146.5" BETYPE="IDREF" FILEID="alto_00073_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b146-7" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_146.7" BETYPE="IDREF" FILEID="alto_00073_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b146-6" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_146.6" BETYPE="IDREF" FILEID="alto_00073_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b146-9" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_146.9" BETYPE="IDREF" FILEID="alto_00073_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b146-8" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_146.8" BETYPE="IDREF" FILEID="alto_00073_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b146-10" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_146.10" BETYPE="IDREF" FILEID="alto_00073_1"/>
+            <area BEGIN="BL_147.1" BETYPE="IDREF" FILEID="alto_00074_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b145-5" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_145.5" BETYPE="IDREF" FILEID="alto_00073_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b144-8" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_144.8" BETYPE="IDREF" FILEID="alto_00072_1"/>
+            <area BEGIN="BL_145.1" BETYPE="IDREF" FILEID="alto_00073_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

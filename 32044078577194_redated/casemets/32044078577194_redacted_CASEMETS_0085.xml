@@ -1,0 +1,540 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0085" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Otis Elevator Co. v. Faulkner">OTIS ELEVATOR COMPANY v. Terry FAULKNER</name>
+          <docketnumber>85-210</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 344</citation>
+          <citation category="parallel" type="bluebook">705 S.W.2d 428</citation>
+          <decisiondate>1986-03-17</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:00Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00189_1" MIMETYPE="image/tiff" CHECKSUM="82e20536292e972e33afc927c2650335" CHECKSUMTYPE="MD5" SIZE="9270">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00189_1.tif"/>
+      </file>
+      <file ID="tiff_00190_0" MIMETYPE="image/tiff" CHECKSUM="93ab1a7ed978332307e1b59576a69962" CHECKSUMTYPE="MD5" SIZE="51116">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00190_0.tif"/>
+      </file>
+      <file ID="tiff_00190_1" MIMETYPE="image/tiff" CHECKSUM="c8866d1f2a3cf5afeacb9a525421783a" CHECKSUMTYPE="MD5" SIZE="56156">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00190_1.tif"/>
+      </file>
+      <file ID="tiff_00191_0" MIMETYPE="image/tiff" CHECKSUM="a3efc0dea5f1b125c5c9cbc8fbf78ff3" CHECKSUMTYPE="MD5" SIZE="54292">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00191_0.tif"/>
+      </file>
+      <file ID="tiff_00191_1" MIMETYPE="image/tiff" CHECKSUM="fc1e70fa9df14d4aa31178576b9750a1" CHECKSUMTYPE="MD5" SIZE="53138">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00191_1.tif"/>
+      </file>
+      <file ID="tiff_00192_0" MIMETYPE="image/tiff" CHECKSUM="b52309e58b571edf2c3efe19775a7cdb" CHECKSUMTYPE="MD5" SIZE="32010">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00192_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00189_1" MIMETYPE="image/jp2" CHECKSUM="3e802f913fb99a4709aae9a634891fcd" CHECKSUMTYPE="MD5" SIZE="1417415">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00189_1.jp2"/>
+      </file>
+      <file ID="jp2_00190_0" MIMETYPE="image/jp2" CHECKSUM="f178d0e3ed67ebe5af6b8ad086259a43" CHECKSUMTYPE="MD5" SIZE="2518227">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00190_0.jp2"/>
+      </file>
+      <file ID="jp2_00190_1" MIMETYPE="image/jp2" CHECKSUM="0e908f72aae999f7864f5f546654b01a" CHECKSUMTYPE="MD5" SIZE="2568913">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00190_1.jp2"/>
+      </file>
+      <file ID="jp2_00191_0" MIMETYPE="image/jp2" CHECKSUM="49bf66a6d24959990990aa47999fe1a2" CHECKSUMTYPE="MD5" SIZE="2523542">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00191_0.jp2"/>
+      </file>
+      <file ID="jp2_00191_1" MIMETYPE="image/jp2" CHECKSUM="d8fbdff16582a438d6ba57616d99a821" CHECKSUMTYPE="MD5" SIZE="2588655">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00191_1.jp2"/>
+      </file>
+      <file ID="jp2_00192_0" MIMETYPE="image/jp2" CHECKSUM="71102dd9bb8f275ecfad43dcf1723d90" CHECKSUMTYPE="MD5" SIZE="2222246">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00192_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00189_1" MIMETYPE="text/xml" CHECKSUM="1eef16e312435f9a18971e6572a00a57" CHECKSUMTYPE="MD5" SIZE="11594">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00189_1.xml"/>
+      </file>
+      <file ID="alto_00190_0" MIMETYPE="text/xml" CHECKSUM="cae463a571b799a3d7be8a7ac9d9a2f9" CHECKSUMTYPE="MD5" SIZE="90967">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00190_0.xml"/>
+      </file>
+      <file ID="alto_00190_1" MIMETYPE="text/xml" CHECKSUM="bf4fb78725f26e74256b6e49a089fe02" CHECKSUMTYPE="MD5" SIZE="97213">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00190_1.xml"/>
+      </file>
+      <file ID="alto_00191_0" MIMETYPE="text/xml" CHECKSUM="c6eba9905336b39af3bb5c5b5212b4f2" CHECKSUMTYPE="MD5" SIZE="95903">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00191_0.xml"/>
+      </file>
+      <file ID="alto_00191_1" MIMETYPE="text/xml" CHECKSUM="dab3dcfc351fe3f7af94dc092796fc6b" CHECKSUMTYPE="MD5" SIZE="92256">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00191_1.xml"/>
+      </file>
+      <file ID="alto_00192_0" MIMETYPE="text/xml" CHECKSUM="7c6d13f83a288e8dff1241332bef1cf4" CHECKSUMTYPE="MD5" SIZE="55910">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00192_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0085" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="344" lastpage="349">
+              <court pgmap="378" id="b378-4">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="378" id="AKX">85-210</docketnumber>
+              <citation pgmap="378" id="AJX">705 S.W.2d 428</citation>
+              <parties pgmap="378" id="b378-3">OTIS ELEVATOR COMPANY v. Terry FAULKNER</parties>
+              <decisiondate pgmap="378" id="A0g">Opinion delivered March 17, 1986</decisiondate>
+              <otherdate pgmap="378" id="AkTd">[Rehearing denied April 21, 1986.<footnotemark>*</footnotemark>]</otherdate>
+              <judges pgmap="383" id="b383-7">Purtle, J., not participating.</judges>
+              <attorneys pgmap="378" id="b378-11">Wright, Lindsey &amp; Jennings, for appellant.</attorneys>
+              <attorneys pgmap="379" id="b379-5">Gregory W. Harris and Tom Lienhart, for appellee.</attorneys>
+              <footnote label="*">
+                <p pgmap="378" id="b378-12">* Purtle, J., not participating.</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="379" id="b379-6">Darrell Hickman, Justicé.</author>
+                <p pgmap="379" id="Aub">This is a suit against Otis Elevator Company, which had a service contract on an old freight elevator located at Minnesota Mining and Manufacturing Com­pany in Little Rock. Terry Faulkner, an employee of 3M, claimed he was injured when the elevator suddenly jumped or fell and came to a sudden halt. The elevator was reported to have fallen from the fourth floor to just past the third floor landing. A jury awarded Faulkner $ 191,127. The only issue on appeal is whether there is sufficient evidence of Otis’ negligence which was the proximate cause of the accident. The jury found there was, and we find no legal reason to set aside the verdict.</p>
+                <p pgmap="379" id="b379-7">Faulkner’s damage suit was based on expert testimony, the testimony of a serviceman, and records of repair of the elevator. The expert concluded that the faulty drive sheave, which should have been repaired by Otis, was the cause of the fall, which, in turn, set the safety brakes and suddenly stopped the elevator.</p>
+                <p pgmap="379" id="b379-8">Essentially Otis’ defense was that the accident did not happen as described, and if it did, there was no proof of any negligence by Otis that was a cause of the accident. Otis argued below and on appeal that if the accident was caused by a worn drive sheave, the elevator would rise instead of fall. Otis offered no expert testimony below on this question and asks us to hold that because of logic and the law of physics there is no substantial evidence to support the verdict.</p>
+                <p pgmap="379(119) 380(9)" id="b379-9">
+                   We are not, of course, experts in the laws of physics nor was the jury. Nor are we experts in the mechanics of machinery. We are supposed to be experts in the law, and the law is that on appeal we view the evidence in the light most favorable to the appellees, and if there is any substantial evidence at all to support a jury verdict, it must stand. E. I. DuPont de Nemours and Co. v. Dillaha, 280 Ark. 477, 659 S.W.2d 756 (1983). The weight to be given to the testimony by witnesses is to be determined by the jury, rather than by us. Union Lincoln Mercury, Inc. v. Daniel, 287 Ark. 205, 697 S.W.2d 888 (1985). Bearing these rules in mind, we review the evidence.</p>
+                <p pgmap="380" id="b380-6">No one witnessed the accident. Faulkner testified that he got into the elevator sometime after 11 p.m. on the night of Septem­ber 17, 1980, on the fourth floor, which is the top floor. He intended to go to the basement to get a shovel. The elevator was the type where the button switches must be pushed constantly to move the elevator. He pushed the button to go down, and the elevator suddenly jumped. Faulkner said he felt like it was going too fast and had the sensation of falling; he threw up his arms and saw sparks fly overhead. Suddenly it stopped. He fell, injuring his coccyx. Over 30 minutes later his supervisor found him. The elevator was stopped just below the third floor landing.</p>
+                <p pgmap="380(279) 381(15)" id="b380-7">On appeal we have before us the testimony of Faulkner, Faulkner’s expert witness, the records relating to the elevator, the testimony of the 3M employee responsible for maintenance, the servicemen who worked on the elevator before and after the accident, and their supervisor. Certain facts were undisputed. Otis had the service contract on this elevator since early 1976; it provided for a maintenance call every two weeks. Normally Otis made repairs after 3M approved them. The elevator was manu­factured by Lee-Hoff and all agreed it was an old one. Service calls and repairs had been frequent, but there was testimony that this was not unusual for an old elevator used in a dusty environment. Four months before the accident, Otis was notified that the elevator had dropped two feet. Otis found no problem. Five days before the accident the elevator was reported to have gone below the bottom landing. A repairman testified that he could not recall whether a problem was found but admitted that such “slippage” could be caused by a worn drive sheave. Critical in the case is that as early as July 9,1979, Otis had recommended the drive sheave, which drives five cables and moves the elevator up and down, be regrooved or replaced; it was badly worn. This same recommendation was made in writing by Otis on July 1, 1980. We cannot say for certain whether this work was done or not. It was Otis’ position at trial that Faulkner did not prove the work had been approved by 3M, a necessary requirement before work was done. However, there was ample circumstantial evi­dence to prove that 3M routinely approved all of Otis’ recommen­dations and that the repair had not been made by the time of the accident.</p>
+                <p pgmap="381" id="b381-6">The governor, which controls the safety stops, had to be repaired just before the accident. On September 8, an Otis serviceman, Norman Beckman, removed the governor and 3M replaced the shaft. The next day it was replaced and Beckman said he recalibrated it. The governor is set to trip safeties if the elevator goes too fast. It had to be removed a few days later because Beckman had forgotten to have a hole drilled in the shaft for a grease fitting. Beckman said he did not have to recalibrate the governor when only the shaft was removed and replaced. The “call back and repair” sheet reflected that problems were reported to Otis some 19 times in the year and a half before the accident and 11 times in the eight months after. There were reports of the overload switch tripping, broken buttons, or simply that the elevator would not run. Only about four weeks after the accident, it was reported to Otis that the elevator was running past the floor.</p>
+                <p pgmap="381" id="b381-7">Bob Early, an elevator consultant, was qualified as an expert for Faulkner. No objection was made to his qualification. He said he first worked for Otis in 1947 when he was in college. He and his father later founded an elevator maintenance and repair com­pany. He then began his own elevator consulting firm. He did not view the 3M elevator until 1984. His testimony was based on his examination of the elevator and study of the records maintained on the elevator. It was his opinion that when the accident occurred there was a power surge which caused a jerk. Because the drive sheave was worn, there was no traction with the five cables; inertia caused the car to move down faster and the safeties set causing the sudden stop. He said such surges were not uncommon and when Faulkner saw the sparks overhead, it was the arcing of the motor contacts which caused the surge. Early said the fact that the elevator had slipped before and had gone below the ground floor should have signaled Otis that something was wrong. How fast and how far the car would go would depend on the circumstances, including the car’s load and the counterweight. Early would not concede that logic and physics dictate that if the sheave slipped, the car would go up rather than down.</p>
+                <p pgmap="382" id="b382-5">Otis offered no expert to rebut Early’s testimony but did ask the Otis supervisor his opinion about what would happen under those circumstances. He said it was his experience that the car would go up. There is evidence that the counterweight is heavier than the elevator, but how much heavier we are not told. The attorney for Otis merely asked Early to assume that the counter­weight was 40% heavier. It was conceded by Otis’ witness that the slippage of the elevator past the floor could have been caused by a worn, sheave, and that is somewhat inconsistent with the testi­mony that the elevator would go up instead of down.</p>
+                <p pgmap="382" id="b382-6">In Otis Elevator v. Robinson, 287 F.2d 62 (5th Cir. 1961), a hotel employee was injured when the elevator dropped suddenly from the 14th floor to the 8th floor. He heard a popping noise overhead and had the sensation of excessive speed. Otis had the maintenance contract. The court stated that the jury was entitled to find that the accident happened exactly as the plaintiff said it did. It also noted that it was inconsequential that the plaintiff failed to prove specifically what was wrong with the elevator since he proved that two similar incidents had happened and nothing was found to be wrong. The court said a reasonable man could infer there was a failure to exercise ordinary prudence in making the repair.</p>
+                <p pgmap="382" id="b382-7">In Otis Elevator Co. v. Jackson, 325 F.2d 260 (5th Cir. 1963), an elevator operator was injured when the elevator fell at a rapid rate from the 8th floor to the pit of the shaft. The passengers felt jerking and heard popping overhead. Otis had the mainte­nance contract. The car had been reported as going to the bottom limit at least twice before. An expert testified that there was a malfunction causing the drive motor to overspeed. Otis’ position was that there was nothing wrong with the elevator either before or after the fall. The court stated that the jury could fairly infer that the elevator was out of order and that the trouble was not detected because of faulty inspection. These cases were based on the legal theory that enough circumstantial evidence of negli­gence existed to justify a finding of negligence by Otis which caused the accidents.</p>
+                <p pgmap="382(8) 383(191)" id="b382-8">
+                   This case is based on more than circumstantial evidence. We have expert testimony that cannot be entirely discounted. It is not inconceivable that the accident could have happened as Early explained it. If we say it could not, then we would be holding ourselves out as experts in physics and mechan­ics and substituting our opinion when we have no basis or right to do so. It would be too much to say that Early’s testimony was totally incredible. This is not a case where the evidence is entirely undisputed as it was in Grain Dealers Mut. Ins. Co. v. Porterfield, 287 Ark. 27, 695 S.W.2d 833 (1985). It is enough to say that on appeal there is substantial evidence and that the jury could have reached its verdict other than on pure speculation. Otis could have easily countered such opinion testimony and demonstrated clearly to the jury and to us on appeal, without question, that this accident simply could not have happened as Early said it did. This case was tried to a jury, decided on the basis of the evidence presented, and we cannot say the evidence was not substantial as a matter of law; it was.</p>
+                <p pgmap="383" id="b383-6">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="378" ORDERLABEL="344" TYPE="page">
+        <fptr FILEID="tiff_00189_1"/>
+        <fptr FILEID="jp2_00189_1"/>
+        <fptr FILEID="alto_00189_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_378.1" BETYPE="IDREF" FILEID="alto_00189_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="379" ORDERLABEL="345" TYPE="page">
+        <fptr FILEID="tiff_00190_0"/>
+        <fptr FILEID="jp2_00190_0"/>
+        <fptr FILEID="alto_00190_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_379.2" BETYPE="IDREF" FILEID="alto_00190_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="380" ORDERLABEL="346" TYPE="page">
+        <fptr FILEID="tiff_00190_1"/>
+        <fptr FILEID="jp2_00190_1"/>
+        <fptr FILEID="alto_00190_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_380.2" BETYPE="IDREF" FILEID="alto_00190_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="381" ORDERLABEL="347" TYPE="page">
+        <fptr FILEID="tiff_00191_0"/>
+        <fptr FILEID="jp2_00191_0"/>
+        <fptr FILEID="alto_00191_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_381.3" BETYPE="IDREF" FILEID="alto_00191_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="382" ORDERLABEL="348" TYPE="page">
+        <fptr FILEID="tiff_00191_1"/>
+        <fptr FILEID="jp2_00191_1"/>
+        <fptr FILEID="alto_00191_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_382.1" BETYPE="IDREF" FILEID="alto_00191_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="383" ORDERLABEL="349" TYPE="page">
+        <fptr FILEID="tiff_00192_0"/>
+        <fptr FILEID="jp2_00192_0"/>
+        <fptr FILEID="alto_00192_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_383.3" BETYPE="IDREF" FILEID="alto_00192_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b378-12" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_378.17" BETYPE="IDREF" FILEID="alto_00189_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b378-11" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_378.16" BETYPE="IDREF" FILEID="alto_00189_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AkTd" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_378.8" BETYPE="IDREF" FILEID="alto_00189_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AJX" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_378.5" BETYPE="IDREF" FILEID="alto_00189_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b383-6" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_383.4" BETYPE="IDREF" FILEID="alto_00192_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b378-3" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_378.3" BETYPE="IDREF" FILEID="alto_00189_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b378-4" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_378.6" BETYPE="IDREF" FILEID="alto_00189_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b382-8" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_382.6" BETYPE="IDREF" FILEID="alto_00191_1"/>
+            <area BEGIN="BL_383.1" BETYPE="IDREF" FILEID="alto_00192_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A0g" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_378.7" BETYPE="IDREF" FILEID="alto_00189_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AKX" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_378.4" BETYPE="IDREF" FILEID="alto_00189_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aub" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_379.5" BETYPE="IDREF" FILEID="alto_00190_0"/>
+            <area BEGIN="BL_379.6" BETYPE="IDREF" FILEID="alto_00190_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b380-7" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_380.5" BETYPE="IDREF" FILEID="alto_00190_1"/>
+            <area BEGIN="BL_381.1" BETYPE="IDREF" FILEID="alto_00191_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b379-5" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_379.3" BETYPE="IDREF" FILEID="alto_00190_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b379-7" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_379.7" BETYPE="IDREF" FILEID="alto_00190_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b379-6" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_379.4" BETYPE="IDREF" FILEID="alto_00190_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b382-7" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_382.5" BETYPE="IDREF" FILEID="alto_00191_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b381-6" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_381.4" BETYPE="IDREF" FILEID="alto_00191_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b382-5" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_382.3" BETYPE="IDREF" FILEID="alto_00191_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b380-6" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_380.4" BETYPE="IDREF" FILEID="alto_00190_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b383-7" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_383.5" BETYPE="IDREF" FILEID="alto_00192_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b381-7" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_381.5" BETYPE="IDREF" FILEID="alto_00191_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b379-9" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_379.9" BETYPE="IDREF" FILEID="alto_00190_0"/>
+            <area BEGIN="BL_380.1" BETYPE="IDREF" FILEID="alto_00190_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b379-8" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_379.8" BETYPE="IDREF" FILEID="alto_00190_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b382-6" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_382.4" BETYPE="IDREF" FILEID="alto_00191_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

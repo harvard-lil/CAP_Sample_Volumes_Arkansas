@@ -1,0 +1,799 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0021" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Bright v. Pennywit">Bright vs. Pennywit</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 130</citation>
+          <decisiondate>1860-01</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00066_1" MIMETYPE="image/tiff" CHECKSUM="2f400faec706b16c2dc2432da82ed56f" CHECKSUMTYPE="MD5" SIZE="35694">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00066_1.tif"/>
+      </file>
+      <file ID="tiff_00067_0" MIMETYPE="image/tiff" CHECKSUM="2624e180bf892c89fa7e6f9f642ef94a" CHECKSUMTYPE="MD5" SIZE="44910">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00067_0.tif"/>
+      </file>
+      <file ID="tiff_00067_1" MIMETYPE="image/tiff" CHECKSUM="fdc7fb2239ddfc746d3a5c5c510c3865" CHECKSUMTYPE="MD5" SIZE="48266">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00067_1.tif"/>
+      </file>
+      <file ID="tiff_00068_0" MIMETYPE="image/tiff" CHECKSUM="7d912569cd499f368eae27bd7c29547a" CHECKSUMTYPE="MD5" SIZE="47536">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00068_0.tif"/>
+      </file>
+      <file ID="tiff_00068_1" MIMETYPE="image/tiff" CHECKSUM="5c18294aaef4405b05a33a5f49a6d776" CHECKSUMTYPE="MD5" SIZE="49174">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00068_1.tif"/>
+      </file>
+      <file ID="tiff_00069_0" MIMETYPE="image/tiff" CHECKSUM="b54bdad07058b2e6a08b0af745937271" CHECKSUMTYPE="MD5" SIZE="49496">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00069_0.tif"/>
+      </file>
+      <file ID="tiff_00069_1" MIMETYPE="image/tiff" CHECKSUM="d59bd35f676629ae91a2e95d9a0881ec" CHECKSUMTYPE="MD5" SIZE="37652">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00069_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00066_1" MIMETYPE="image/jp2" CHECKSUM="caa8090fb397d69cc442118c40391a64" CHECKSUMTYPE="MD5" SIZE="2425285">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00066_1.jp2"/>
+      </file>
+      <file ID="jp2_00067_0" MIMETYPE="image/jp2" CHECKSUM="4346c7449a3dc4a53b5b1f4bd0760b1b" CHECKSUMTYPE="MD5" SIZE="2564443">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00067_0.jp2"/>
+      </file>
+      <file ID="jp2_00067_1" MIMETYPE="image/jp2" CHECKSUM="5c8791fd9cd86a753975026c953a591b" CHECKSUMTYPE="MD5" SIZE="2582897">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00067_1.jp2"/>
+      </file>
+      <file ID="jp2_00068_0" MIMETYPE="image/jp2" CHECKSUM="229e99bc1831ae6e91d42890c2e79402" CHECKSUMTYPE="MD5" SIZE="2617687">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00068_0.jp2"/>
+      </file>
+      <file ID="jp2_00068_1" MIMETYPE="image/jp2" CHECKSUM="1a3dd41a8b5ff1bbcee7f16726c77304" CHECKSUMTYPE="MD5" SIZE="2546273">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00068_1.jp2"/>
+      </file>
+      <file ID="jp2_00069_0" MIMETYPE="image/jp2" CHECKSUM="bbf48fe4dec66acd0e7446489986091d" CHECKSUMTYPE="MD5" SIZE="2597443">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00069_0.jp2"/>
+      </file>
+      <file ID="jp2_00069_1" MIMETYPE="image/jp2" CHECKSUM="0b5c67f3594a62c17f6d98f6a5b9a05c" CHECKSUMTYPE="MD5" SIZE="2506210">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00069_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00066_1" MIMETYPE="text/xml" CHECKSUM="eaf5dfda578af485a37aad366b940297" CHECKSUMTYPE="MD5" SIZE="76894">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00066_1.xml"/>
+      </file>
+      <file ID="alto_00067_0" MIMETYPE="text/xml" CHECKSUM="92ff377b00260e5fafa5c2f2ea28f2db" CHECKSUMTYPE="MD5" SIZE="88287">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00067_0.xml"/>
+      </file>
+      <file ID="alto_00067_1" MIMETYPE="text/xml" CHECKSUM="4a7ea8d6b3b095adfbbe00f6cbdb1e80" CHECKSUMTYPE="MD5" SIZE="88919">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00067_1.xml"/>
+      </file>
+      <file ID="alto_00068_0" MIMETYPE="text/xml" CHECKSUM="ba5e568f4757359cf454e4f79717b90f" CHECKSUMTYPE="MD5" SIZE="90617">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00068_0.xml"/>
+      </file>
+      <file ID="alto_00068_1" MIMETYPE="text/xml" CHECKSUM="e08d923e66cdff25c600749c627442da" CHECKSUMTYPE="MD5" SIZE="89815">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00068_1.xml"/>
+      </file>
+      <file ID="alto_00069_0" MIMETYPE="text/xml" CHECKSUM="6c7a32162ce8c4a5b106f68910e69768" CHECKSUMTYPE="MD5" SIZE="95495">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00069_0.xml"/>
+      </file>
+      <file ID="alto_00069_1" MIMETYPE="text/xml" CHECKSUM="a43f8f5d7d4ca1903c4b8ca2155d38cc" CHECKSUMTYPE="MD5" SIZE="70266">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00069_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0021" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="136" firstpage="130">
+              <parties id="b132-5" pgmap="132">Bright vs. Pennywit.</parties>
+              <attorneys id="b132-11" pgmap="132">Duval and King, for the appellant.</attorneys>
+              <attorneys id="b133-7" pgmap="133">Fowler &amp; Stillwell, for the appellee.</attorneys>
+              <summary id="b132-9" pgmap="132">Appeal from Sebastian Circuit Court in Chancery.</summary>
+              <summary id="b132-10" pgmap="132">Hon. Felix I. Batson, Circuit Judge.</summary>
+              <summary id="b132-12" pgmap="132">Where one party wishes to avail himself of a written instru­ment, in possession of his adversay, he must give notice to pro­duce it. •</summary>
+              <summary id="b132-13" pgmap="132">3 Johnson’s R. 346; 12 John. 221; Thayer vs. Middlesex Mxl­tual Fire Ins. Co., 10 Pick. 326; Blood vs. Harrington,- 8 ib. 552; 'Smith, vs. Morrow, 7 Monroe, 239; Waring vs. Warren, 1 John. 340.</summary>
+              <summary id="b132-14" pgmap="132(42) 133(34)">The appellee having signally failed to establish the material fact that Bright held under the defendants as their lessee or tenant or agent, judgment shouldhave been given against him. There can be no doubt but that the court erred, if we regard this as a motion for possession under the statute. But it may be said-that this was not the statutory motion for possession, but a proceeding in chancery, to enforce the execution of a decree.</summary>
+              <summary id="b133-5" pgmap="133">A decree in chancery can only bind parties. and privies. Young vs. Henderson, 4 Hayw. 189; McWhorter vs. Standifer, 2 Porter, 519; Brown vs. Wincoop, 2 Blackf. 230; Candy vs. Briigway, Iialst. Dig. 176; Dale vs. Rosevclt, 1 Paige 35; 2 Danl. Chancery Practice, 1210.</summary>
+              <summary id="b133-6" pgmap="133">Where a ioreclosure of the equity of redemption and sale of mortgaged premises is decreed, and the mortgagor or defendant, or any one who has come into possessipn under him, refuses to deliver up the possession on demand to the purchaser under the decree, the court, on motion for that purpose, will-order posses­sion to be delivered to the purchaser, and not drive him to an action of ejectment^ But in all cases where summary pro­ceedings are allowed, to give the purchaser possession, the per­sons against whom the orders are made were parties to the original proceedings.</summary>
+              <summary id="b133-8" pgmap="133">That the court had the power to make the order for posses­sion against appellant, who was a purchaser pendente lite, or .mere intruder. Kershaw vs. Thompson, 2 Ala. R, 159; Dickens Rep. 617; 1 Bro. R. 375; 1 Cox, 101; 3 Aik. 275; 15 Vesey 180; 1 Vesey 144; 1 Atk. 543; 3 Tenn. R. 29; 1 J. R. 44.</summary>
+              <summary id="b133-9" pgmap="133">' The appellant took the property subject to the claim of the complainant in the bill and the decree tobe made. 5 Pet.. Cond. R. 574; 1 Story's Eq. Jur.; 1 J. Ch. R. 576; 1 McCord's R. 264; Sug. on Vend. 535; 8 Cjiio R. 209; 1 Barb. Ch. R. 75.</summary>
+              <summary id="b133-10" pgmap="133">The lis pendens began with'the filing of th.e bill and service of subpoena, Sug. on Vend. 535; 1 J. C. R. 576; 9 Paige R. 575,.</summary>
+              <headnotes id="b132-6" pgmap="132">It is clear that the Court of chancery has the power to order the purchaser under a decree of foreclosure, to bo put into possession of the premises, and to enforce the order by appropriate process, where the person in possession does not claim to hold by title paramount to that of the parties to the decree of foreclosure.</headnotes>
+              <headnotes id="b132-7" pgmap="132">The purchaser under a decree of foreclosure shows a prima facie case for an order of possession, by introducing the decree, commissioner’s deed, and showing that the person in possession of the premises came into the possession after the filing of the bill, service of process, etc., and if he holds by title paramount, it is incumbent on him to show it.</headnotes>
+              <headnotes id="b132-8" pgmap="132">If it be necessary, to give notice to the adverse party to produce an original deed before the copy from the record can be read in evidence under the statute, (Gould’s Dig. ch. 37, sec. 27), proof that he had evaded the notice and avoided the production of the original, will dispense with actual service of the notice.</headnotes>
+              <opinion type="majority">
+                <author id="b133-11" pgmap="133">Mr. Chief Justice English</author>
+                <p id="AUR" pgmap="133">delivered the opinion of the court.</p>
+                <p id="b133-12" pgmap="133(22) 134(14)">On the 25th of February, 1857, the appellee, Philip Pennywit, presented a petition to the Judge of the Circuit Court of Sebas­tian county, sitting in chancery, in term time, alleging in sub­stance, as follows:</p>
+                <p id="b134-5" pgmap="134">That, at the August term of said court, 1856, in a suit' in chancery therein pending, in which one Burton, internal im­provement commissioner, etc., was complainant, and Charles B. Johnson, Marshall Grimes, G. Adolphus Meyer and others were defendants, a decree was rendered in favor of the com­plainant, foreclosing a mortgage upon a tract of land, directing a sale of the mortgaged premises for the payment of the debt, etc., and appointing a commissioner to make the sale, etc.</p>
+                <p id="b134-6" pgmap="134">That in pursuance of the decree, the commissioner sold the land, on the 16th. of February, 1857, and the appellee became the purchaser, paid the purchase money, obtained the commis­sioner’s deed, and on the 20th of the same month, the commis­sioner made his report of the sale to the court, which was ap­proved and confirmed. That at the time of the filing of the bill to foreclose, and at the time of rendering the decree, and from thence until the sale, Marshall Grimes, one of .the mort­gagors, and one of the defendants to the bill, was in possession of the mortgaged premises, in person, or by tenants claiming under him, etc. But that the said Grimes, in order to harrass, perplex and defraud appellee, had since the sale, delivered the keys of a steam mill situated on the land to EthelbertB. Bright, (the appellant,) and put him into possession of the premises, who had refused to surrender .possession to appellee upon de­mand, etc. Prayer for an order supplemental to the decree and confirmation of the sale, directing the sheriff to put the appel­lee into possession of the premises.</p>
+                <p id="b134-7" pgmap="134">The appellant filed a response to the petition, stating, in substance, that he was a stranger, and not a party to the pro­ceeding, etc., for foreclosure, etc. Admits that he was in pos­session of the mortgaged premises, and avers that he had been since the 5th of September, 1855, about twelve months prior to the decree; and that he held such possession and claimed title adversely to the title of the defendants therein.</p>
+                <p id="b135-5" pgmap="135">He denies that he then, or ever, held possession of the pre­mises as the lessee, tenant or agent of the defendants in the decree, or any, or either of them.</p>
+                <p id="b135-6" pgmap="135">He also denies that Marshall Grimes ever delivered to him the keys of the steam-mill, or the possession of the premises, as alleged in the petition. Insists that he is entitled to the pos­session of the premises, and prays to be discharged, etc.</p>
+                <p id="b135-7" pgmap="135">The matter was heard upon the petition, response and evi­dence introduced, and the court made an order in favor of appellee for the possession of the premises, and that a writ of possession be issued, etc., as prayed.</p>
+                <p id="b135-8" pgmap="135">From a bill of exceptions taken by the appellant, it appears, that upon the hearing the appellant read in evidence the decree of foreclosure, and the deed executed to him by the commis­sioner who made the sale under the decree.</p>
+                <p id="b135-9" pgmap="135">The appellee also proved that all of the defendants in the decree were duly served with process, thirty days prior to the August term, 1855, notifying them of the pendency of the suit to foreclose, etc.</p>
+                <p id="b135-10" pgmap="135">That before filing the petition, he had demanded of the appellant possession of the premises, which was refused, etc.</p>
+                <p id="b135-11" pgmap="135">The clerk then brought into court a book purporting to be the record of deeds and mortgages for Sebastian county, from which the appellee offered fo read a deed purporting to have been executed by the sheriff of the county to the appellant, for the premises in question, etc., and in connection therewith introduced Solomon F. Clark, Esq., as a witness, who stated that the original of said deed was not in the possession or under the control of the appellee. That the appellant was in the court-house on the previous day, and hearing vritness say he intended .to serve notice on him to produce the deed, left, and that the notice was placed in the hands of the sheriff, who returned it, not served.</p>
+                <p id="b135-12" pgmap="135(33) 136(16)">Appellee also introduced John Carnall, as a witness, in con­nection with his offer to read in evidence the deed from the record book, who stated that two days previous he saw the original deed in a pocket-book belonging to. Ben. T.' Data!, Esq., in the town of Greenwood.</p>
+                <p id="b136-5" pgmap="136">Appellee also introduced Duval, who stated that the deed was in the possession of John King, Marshall Grimes, or the appellant; that King and Grimes had been in the court-house on that morning, and the appellant on the day before. Upon this showing, the court permitted the appellee to read in evi­dence the deed from the record book, against the objection of appellant, who insisted that it was irrelevant, and that the showing was not sufficient, etc. The deed is copied in the bill of 'exceptions.</p>
+                <p id="b136-6" pgmap="136">The appellee introduced no other evidence, and the appellant none.</p>
+                <p id="b136-7" pgmap="136">In Kershaw vs. Thompson, 4 John. Ch. R. 613, Chancellor Kent said: “ It does not appear to consist with sound principle, that the court, which has exclusive authority to foreclose the equity of redemption of a mortgage, and can call all the par­ties in interest .before it, and decree a sale of the mortgaged premises, should not be able even to put the purchaser into possession against one of the parties to the suit, and who is bound by the decr'ee. * * * * * If it was to be under­stood that after a decree and sale of the mortgaged premises, the mortgagor or other party to the suit, or perhaps those who have been let into possession by the mortgagor, pendente lite, could withhold the possession in defiance of the authority of the court of chancery, and compel the purchaser to resort to a court of law, I apprehend that the delay and expense, and inconvenience of such a course, of proceeding, w’ould greatly impair the value and diminish the results of sales .under a decree. * * * * * A bill to foreclose the equity of redemption is a suit concerning realty, and in rem, and the power that can dispose of the fee must control the possession.”</p>
+                <p id="b136-10" pgmap="136(42) 137(85)">In the case of Frelinghuysen vs. Golden, 4 Paige 206, the Chan­cellor (Walworth) said: “ Where mortgaged premises are sold under a decree of foreclosure, the purchaser is entitled to the assistance of the court in obtaining the possession, as against parties to the suit, or those who have come into possession under them subsequent to the filing of notice of the commence­ment of the suit. But the court has no jurisdiction, in a sum­mary proceeding, to determine the rights of third persons claim­ing title to the premises, who have received the possession of the same by legal and adverse proceedings against a party to the suit, under a claim of right which accrued previous to the filing of the bill to foreclose.</p>
+                <p id="b137-5" pgmap="137">And so it was held in Van Hook vs. Throckmorton, 8 Paige 33, that a purchaser under a decree of foreclosure is not entitled to a writ of assistance to turn a person out of possession of the mortgaged premises, although such person went into possession pendente lite, unless he went into possession under or by the permission of some one of the parties to the suit.</p>
+                <p id="b137-6" pgmap="137">We think it clear from the above, and other adjudications, that the court of chancery has the power to order the purchaser under a decree of foreclosure to be put into possession of the premises, and to enforce the order by appropriate process, where the person in possession does not claim to hold by title paramount to that of the parties to the decree of foreclosure. 2 Smithls Ch. Pr. p. 214, and note; 1 Bland Ch. R. 363; Hoff. Master Ch. 237; 2 Hen. (f Munf. 8.</p>
+                <p id="b137-7" pgmap="137">In this case, upon the application of the appellee for an order, supplemental to the decree, for a writ of possession, a rule was issued and served upon the appellant to show cause why the order should not be made. In his response he admits that he went into possession of the premises after the filing of the bill to foreclose, but denies that he held under any of the parties to the bill, and avers that he held possession and claimed the premises by adverse title, etc.; but he does not set out his title in the response; nor did he produce, or offer to produce, any title upon the hearing, so as to enable the court to determine whether the alleged title was of a character which could not be the subject of adjudication in the summary proceeding before the court.</p>
+                <p id="b137-8" pgmap="137(11) 138(43)">In Commonwealth vs. Ragsdale, 2 Hen. &amp; Munf. 8, the court said the usual course had been, to make a rule upon the person in possession, where he was not a party to the suit to foreclose, and unless he showed a paramount right in himself, to order the property to be delivered, etc.</p>
+                <p id="b138-5" pgmap="138">The appellee made a prima facie case for the order, by introducing the decree of foreclosure, the commissioner’s deed to him, and by showing that the appellant came into possession of the premises after the filing of the bill to foreclose, the service of the process, etc., and if the appellant held by title para­mount, it was incumbent upon him to show it.</p>
+                <p id="b138-6" pgmap="138">The appellee, however, made, an unnecessary attempt to show that the appellant purchased the property at execution sale, after.the filing of the bill to foreclose, under judgments recovered against parties to the bill subsequent to the mort­gage, etc.. The appellant objected to the reading of the she­riff's deed from the record book, etc.</p>
+                <p id="b138-7" pgmap="138">On the showing made for the appellee (by his counsel) that the original deed was “ not within his power and control,” he had'the right to read the copy from the record, which appears from the certificates attached to it, to have been duly acknowl­edged .and recorded. See Gould’s Dig., chap. 37, sec. 27.</p>
+                <p id="b138-8" pgmap="138">If it was necessary for the appellee to give the appellant notice to produce the original deed before he could read in evi­dence the registered copy, as insisted by the counsel for appel­lant, the testimony conduces to prove that the appellant evaded the service of the notice, and avoided the production of the original.</p>
+                <p id="b138-9" pgmap="138">The decree of the court below must be affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="132" ORDERLABEL="130" TYPE="page">
+        <fptr FILEID="tiff_00066_1"/>
+        <fptr FILEID="jp2_00066_1"/>
+        <fptr FILEID="alto_00066_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_132.1" BETYPE="IDREF" FILEID="alto_00066_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_132.2" BETYPE="IDREF" FILEID="alto_00066_1"/>
+              <area BEGIN="BL_132.3" BETYPE="IDREF" FILEID="alto_00066_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="133" ORDERLABEL="131" TYPE="page">
+        <fptr FILEID="tiff_00067_0"/>
+        <fptr FILEID="jp2_00067_0"/>
+        <fptr FILEID="alto_00067_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_133.3" BETYPE="IDREF" FILEID="alto_00067_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_133.2" BETYPE="IDREF" FILEID="alto_00067_0"/>
+              <area BEGIN="BL_133.4" BETYPE="IDREF" FILEID="alto_00067_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="134" ORDERLABEL="132" TYPE="page">
+        <fptr FILEID="tiff_00067_1"/>
+        <fptr FILEID="jp2_00067_1"/>
+        <fptr FILEID="alto_00067_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_134.2" BETYPE="IDREF" FILEID="alto_00067_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_134.3" BETYPE="IDREF" FILEID="alto_00067_1"/>
+              <area BEGIN="BL_134.4" BETYPE="IDREF" FILEID="alto_00067_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="135" ORDERLABEL="133" TYPE="page">
+        <fptr FILEID="tiff_00068_0"/>
+        <fptr FILEID="jp2_00068_0"/>
+        <fptr FILEID="alto_00068_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_135.2" BETYPE="IDREF" FILEID="alto_00068_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_135.1" BETYPE="IDREF" FILEID="alto_00068_0"/>
+              <area BEGIN="BL_135.3" BETYPE="IDREF" FILEID="alto_00068_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="136" ORDERLABEL="134" TYPE="page">
+        <fptr FILEID="tiff_00068_1"/>
+        <fptr FILEID="jp2_00068_1"/>
+        <fptr FILEID="alto_00068_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_136.2" BETYPE="IDREF" FILEID="alto_00068_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_136.3" BETYPE="IDREF" FILEID="alto_00068_1"/>
+              <area BEGIN="BL_136.4" BETYPE="IDREF" FILEID="alto_00068_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="137" ORDERLABEL="135" TYPE="page">
+        <fptr FILEID="tiff_00069_0"/>
+        <fptr FILEID="jp2_00069_0"/>
+        <fptr FILEID="alto_00069_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_137.3" BETYPE="IDREF" FILEID="alto_00069_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_137.2" BETYPE="IDREF" FILEID="alto_00069_0"/>
+              <area BEGIN="BL_137.4" BETYPE="IDREF" FILEID="alto_00069_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="138" ORDERLABEL="136" TYPE="page">
+        <fptr FILEID="tiff_00069_1"/>
+        <fptr FILEID="jp2_00069_1"/>
+        <fptr FILEID="alto_00069_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_138.2" BETYPE="IDREF" FILEID="alto_00069_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_138.3" BETYPE="IDREF" FILEID="alto_00069_1"/>
+              <area BEGIN="BL_138.4" BETYPE="IDREF" FILEID="alto_00069_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b132-8" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_132.7" BETYPE="IDREF" FILEID="alto_00066_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b132-9" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_132.8" BETYPE="IDREF" FILEID="alto_00066_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b133-9" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_133.10" BETYPE="IDREF" FILEID="alto_00067_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b133-8" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_133.9" BETYPE="IDREF" FILEID="alto_00067_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b135-9" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_135.8" BETYPE="IDREF" FILEID="alto_00068_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b135-8" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_135.7" BETYPE="IDREF" FILEID="alto_00068_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b133-5" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_133.5" BETYPE="IDREF" FILEID="alto_00067_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b135-6" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_135.5" BETYPE="IDREF" FILEID="alto_00068_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b133-7" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_133.8" BETYPE="IDREF" FILEID="alto_00067_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b133-6" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_133.6" BETYPE="IDREF" FILEID="alto_00067_0"/>
+            <area BEGIN="BL_133.7" BETYPE="IDREF" FILEID="alto_00067_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b137-5" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_137.5" BETYPE="IDREF" FILEID="alto_00069_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b132-5" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_132.4" BETYPE="IDREF" FILEID="alto_00066_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b132-6" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_132.5" BETYPE="IDREF" FILEID="alto_00066_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b132-7" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_132.6" BETYPE="IDREF" FILEID="alto_00066_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b136-5" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_136.5" BETYPE="IDREF" FILEID="alto_00068_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b136-6" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_136.6" BETYPE="IDREF" FILEID="alto_00068_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b136-7" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_136.7" BETYPE="IDREF" FILEID="alto_00068_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b134-6" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_134.6" BETYPE="IDREF" FILEID="alto_00067_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b134-7" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_134.7" BETYPE="IDREF" FILEID="alto_00067_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b138-8" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_138.8" BETYPE="IDREF" FILEID="alto_00069_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b134-5" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_134.5" BETYPE="IDREF" FILEID="alto_00067_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AUR" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_133.13" BETYPE="IDREF" FILEID="alto_00067_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b138-7" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_138.7" BETYPE="IDREF" FILEID="alto_00069_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b137-6" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_137.6" BETYPE="IDREF" FILEID="alto_00069_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b138-9" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_138.9" BETYPE="IDREF" FILEID="alto_00069_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b138-5" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_138.5" BETYPE="IDREF" FILEID="alto_00069_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b136-10" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_136.8" BETYPE="IDREF" FILEID="alto_00068_1"/>
+            <area BEGIN="BL_137.1" BETYPE="IDREF" FILEID="alto_00069_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b137-7" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_137.7" BETYPE="IDREF" FILEID="alto_00069_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b137-8" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_137.8" BETYPE="IDREF" FILEID="alto_00069_0"/>
+            <area BEGIN="BL_138.1" BETYPE="IDREF" FILEID="alto_00069_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b133-11" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_133.12" BETYPE="IDREF" FILEID="alto_00067_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b133-10" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_133.11" BETYPE="IDREF" FILEID="alto_00067_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b138-6" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_138.6" BETYPE="IDREF" FILEID="alto_00069_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b133-12" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_133.14" BETYPE="IDREF" FILEID="alto_00067_0"/>
+            <area BEGIN="BL_134.1" BETYPE="IDREF" FILEID="alto_00067_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b135-12" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_135.11" BETYPE="IDREF" FILEID="alto_00068_0"/>
+            <area BEGIN="BL_136.1" BETYPE="IDREF" FILEID="alto_00068_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b135-11" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_135.10" BETYPE="IDREF" FILEID="alto_00068_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b135-10" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_135.9" BETYPE="IDREF" FILEID="alto_00068_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b135-7" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_135.6" BETYPE="IDREF" FILEID="alto_00068_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b132-12" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_132.11" BETYPE="IDREF" FILEID="alto_00066_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b132-13" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_132.12" BETYPE="IDREF" FILEID="alto_00066_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b132-10" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_132.9" BETYPE="IDREF" FILEID="alto_00066_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b132-11" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_132.10" BETYPE="IDREF" FILEID="alto_00066_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b135-5" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_135.4" BETYPE="IDREF" FILEID="alto_00068_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b132-14" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_132.13" BETYPE="IDREF" FILEID="alto_00066_1"/>
+            <area BEGIN="BL_133.1" BETYPE="IDREF" FILEID="alto_00067_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

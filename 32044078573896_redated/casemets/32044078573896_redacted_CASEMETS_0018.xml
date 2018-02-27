@@ -1,0 +1,848 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0018" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Stuart v. Peay">Stuart et al. adm’rs vs. Peay, Rec’r.</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 117</citation>
+          <decisiondate>1860-01</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00060_0" MIMETYPE="image/tiff" CHECKSUM="4381351a11d0b686cb5102adb0c712f8" CHECKSUMTYPE="MD5" SIZE="34370">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00060_0.tif"/>
+      </file>
+      <file ID="tiff_00060_1" MIMETYPE="image/tiff" CHECKSUM="b8ea46cd3005c6c9834b6419940e0b95" CHECKSUMTYPE="MD5" SIZE="41480">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00060_1.tif"/>
+      </file>
+      <file ID="tiff_00061_0" MIMETYPE="image/tiff" CHECKSUM="062f4d4149253d4305f9fbb7156ad771" CHECKSUMTYPE="MD5" SIZE="50068">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00061_0.tif"/>
+      </file>
+      <file ID="tiff_00061_1" MIMETYPE="image/tiff" CHECKSUM="3738ff3abde39f5a359a120d62e4c73c" CHECKSUMTYPE="MD5" SIZE="45148">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00061_1.tif"/>
+      </file>
+      <file ID="tiff_00062_0" MIMETYPE="image/tiff" CHECKSUM="6ce38a423676c168c244ebdc4c4d3d18" CHECKSUMTYPE="MD5" SIZE="51584">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00062_0.tif"/>
+      </file>
+      <file ID="tiff_00062_1" MIMETYPE="image/tiff" CHECKSUM="a992afbdb46c56364cd8f58b2bb73972" CHECKSUMTYPE="MD5" SIZE="46514">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00062_1.tif"/>
+      </file>
+      <file ID="tiff_00063_0" MIMETYPE="image/tiff" CHECKSUM="5f5233cda0980c89e881c653779391b9" CHECKSUMTYPE="MD5" SIZE="48910">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00063_0.tif"/>
+      </file>
+      <file ID="tiff_00063_1" MIMETYPE="image/tiff" CHECKSUM="eaa821b1229266def972311fa7dcd395" CHECKSUMTYPE="MD5" SIZE="35570">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00063_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00060_0" MIMETYPE="image/jp2" CHECKSUM="084fb3650e6f039a00cc61dd91f93e21" CHECKSUMTYPE="MD5" SIZE="2544062">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00060_0.jp2"/>
+      </file>
+      <file ID="jp2_00060_1" MIMETYPE="image/jp2" CHECKSUM="90d4b528b68346827b3223d1c8458ffc" CHECKSUMTYPE="MD5" SIZE="2499201">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00060_1.jp2"/>
+      </file>
+      <file ID="jp2_00061_0" MIMETYPE="image/jp2" CHECKSUM="4c24ed0a5962537bc4a725587c30f3a0" CHECKSUMTYPE="MD5" SIZE="2599368">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00061_0.jp2"/>
+      </file>
+      <file ID="jp2_00061_1" MIMETYPE="image/jp2" CHECKSUM="0c0b95bad41e78d9e922010d8c05fa7f" CHECKSUMTYPE="MD5" SIZE="2575029">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00061_1.jp2"/>
+      </file>
+      <file ID="jp2_00062_0" MIMETYPE="image/jp2" CHECKSUM="de77b52ea6c962c5a75d6e7ed84e69b8" CHECKSUMTYPE="MD5" SIZE="3115739">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00062_0.jp2"/>
+      </file>
+      <file ID="jp2_00062_1" MIMETYPE="image/jp2" CHECKSUM="7b115890adfaa343af63514f563477fb" CHECKSUMTYPE="MD5" SIZE="2528649">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00062_1.jp2"/>
+      </file>
+      <file ID="jp2_00063_0" MIMETYPE="image/jp2" CHECKSUM="f3ed19c1a4a98df2255ab711eda2d60b" CHECKSUMTYPE="MD5" SIZE="2575120">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00063_0.jp2"/>
+      </file>
+      <file ID="jp2_00063_1" MIMETYPE="image/jp2" CHECKSUM="8ff06307c605a5dca302d94b3639a3d8" CHECKSUMTYPE="MD5" SIZE="2483314">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00063_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00060_0" MIMETYPE="text/xml" CHECKSUM="6586e39673ebb4df08aeacb465f0d5a7" CHECKSUMTYPE="MD5" SIZE="73821">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00060_0.xml"/>
+      </file>
+      <file ID="alto_00060_1" MIMETYPE="text/xml" CHECKSUM="d9443a96df97f2fbf5c413264a4c5bb8" CHECKSUMTYPE="MD5" SIZE="82619">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00060_1.xml"/>
+      </file>
+      <file ID="alto_00061_0" MIMETYPE="text/xml" CHECKSUM="f1b0cb2b660a8b1c3b7925ca5b00c768" CHECKSUMTYPE="MD5" SIZE="93048">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00061_0.xml"/>
+      </file>
+      <file ID="alto_00061_1" MIMETYPE="text/xml" CHECKSUM="3aa1ed76cdbea1ff36b9d7ec6807b42e" CHECKSUMTYPE="MD5" SIZE="85337">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00061_1.xml"/>
+      </file>
+      <file ID="alto_00062_0" MIMETYPE="text/xml" CHECKSUM="e237005b15194b82deed8c3c0b116680" CHECKSUMTYPE="MD5" SIZE="95468">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00062_0.xml"/>
+      </file>
+      <file ID="alto_00062_1" MIMETYPE="text/xml" CHECKSUM="f6ec7be5b1fdfb45107c576ac75fbc61" CHECKSUMTYPE="MD5" SIZE="88169">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00062_1.xml"/>
+      </file>
+      <file ID="alto_00063_0" MIMETYPE="text/xml" CHECKSUM="1bec3f81e109ef4fac956a28fbb62a4d" CHECKSUMTYPE="MD5" SIZE="94858">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00063_0.xml"/>
+      </file>
+      <file ID="alto_00063_1" MIMETYPE="text/xml" CHECKSUM="03a49554f847ceee04d71930132a898d" CHECKSUMTYPE="MD5" SIZE="66009">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00063_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0018" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="124" firstpage="117">
+              <parties id="b119-6" pgmap="119">Stuart et al. adm’rs vs. Peay, Rec’r.</parties>
+              <attorneys id="b120-8" pgmap="120">Watkins &amp; Gallagher, for appellants.</attorneys>
+              <attorneys id="b120-12" pgmap="120">S. H. Hempstead, for the appellee.</attorneys>
+              <summary id="b120-5" pgmap="120">Appeal jrom Hempstead Circuit Court in Chancery.</summary>
+              <summary id="b120-6" pgmap="120">Hon. Abner A. Stith, Circuit Judge.</summary>
+              <summary id="b120-9" pgmap="120">It is proved that the note upon which the original judgment was obtained had been long previously satisfied and extin­guished by the payment of a State bond and the execution of a new note, which were received as a complete extinguishment and payment of the original note. See State Bank vs. Mc­Guire, 14 Ark. 533; Grade vs. Sanford. 4 Eng. 232.</summary>
+              <summary id="b120-10" pgmap="120">The failure of the Bank, or its officers, to present the second note to the administrators within two years after the grant of letters, forever extinguished the debt, both as against the administrators and the heirs, by virtue of the statute of non-­claim. 14 Ark. Rep. 241, 254; 15 lb. 412; 17 lb. 334. It was the duty of the administrators to refuse the allowance of the claim: and, as the debt was lost by the laches of the agents of the Bank, equity will not relieve them. '</summary>
+              <summary id="b120-11" pgmap="120">As the appellants could enjoin the judgment — which was void in law, and void in fact — if the entry of satisfaction should be set aside, and the appellee could derive no ultimate benefit by having it set aside, the Court will, in the exercise of its dis­cretion, refuse to set it aside, though, under other circumstances, it might do so. 18 Ark. R. 23.</summary>
+              <summary id="b120-13" pgmap="120">The judgment was rendered by a Court of competent juris­diction, and on regular service of process, too, on the defen­dants, and cannot be collaterally impeached (Borden vs. The State, 6 Eng. 519) for errors and irregularities, if such may be justly imputable to it.</summary>
+              <summary id="b121-3" pgmap="121">If they had any defence, they were bound to make it in the suit, or be ever afterwards concluded. If payments had been made, or if the demand, upon which the suit was based, had been extinguished by renejval'or otherwise, it was a pure legal defence, and they were bound to make it at law, and could never have the aid of a Court of equity to repair the conse­quences of their neglect. Bently vs. Dillard. 1 Eng. 80; Hemp-­stead vs. Watkins, 1 Eng. 317.</summary>
+              <summary id="b121-4" pgmap="121">It is said in the answer, that the bond on which the judgment was based, had been extinguished by giving the note for $3,-­629 07, of date 1st November, 1848, and the payment of a State bond amounting to $1,420; that this was a renewal of the pre­vious indebtedness. If the previous bond was thus extinguished and paid, it was matter of pure legal cognizance, and should have been made the ground of defence in the action at law.</summary>
+              <summary id="b121-5" pgmap="121">There is abundant equity in the bill, and no reason is urged why the relief prayed should not be granted. The proof is clear that the satisfaction of the judgment was entered on- the clear and express understanding and agreement that th.e two notes, one for $1,307 97, and the other for $3,629 07, should be allowed and classified, and stand good against the estate of Joseph Stuart. That was the sole consideration for entering the satisfaction, and the entry thereof on the margin of the record, so expresses the fact. It further appears that when the claims were presented to the Probate Court, the estate, by which must be intended the administrators, objected to their allowance or classification, on the ground that they were barred by non-claim, and further, that the administratrix had not authorised her name to be signed to the allowance. These objections being fatal, the claims were rejected, and costs ad­judged against the Trustees.</summary>
+              <summary id="b121-6" pgmap="121(53) 122(12)">Of course the administrators cannot be allowed to take advantage of their own wrong, nor will a court of equity permit the authors of this double dealing to derive any benefit from it. The Court had the power, and it was its imperative duty, enforced not more by law than common honesty, to vacate the entry of satisfaction and place the parties in statu quo.</summary>
+              <headnotes id="b119-7" pgmap="119">It is but just and equitable that a Court of equity should vacate the entry of satisfaction of a judgment, and restore the plaintiff to his legal rights, by placing the judgment in statu quo, where the entry of satisfaction was made upon an agree­ment which the defendant had failed to perform.</headnotes>
+              <headnotes id="b119-8" pgmap="119">Where the note sued upon has been paid, this is a matter of defence which may be interposed to defeat the action, but if judgment be rendered on the note for ■want of defence — the Court having jurisdiction of the subject matter and of-the person of the defendant — it is not void.</headnotes>
+              <headnotes id="b119-9" pgmap="119(85) 120(38)">It is not clear that a Court of Chancery would enjoin a judgment rendered against administrators, by default, upon a note given by their intestate to the Trustees of the Real Estate Bank, and afterwards revived by scire facias, where the intestate has made a part payment and delivered to the Trustees a renewal note for the remainder, which had not been paid, and the right to enforce its pay­ment had been lost by lapse of time, and thus enable the administrators to avoid the payment of a debt not denied to have been a just one, simply because, until after the revival of the judgment, they had no knowledge of the facts, which might have been easily obtained by due diligence.</headnotes>
+              <opinion type="majority">
+                <author id="b122-5" pgmap="122">Mr. Chief Justice English</author>
+                <p id="Ai" pgmap="122">delivered the opinion of the Court.</p>
+                <p id="b122-6" pgmap="122">The material facts in this case are as follows:</p>
+                <p id="b122-7" pgmap="122">On the 28th June, 1848, the Trustees of the Real Estate Bank commenced an action in the Hempstead Circuit Court, by filing a declaration and issuing a writ, against Joseph Stuart, upon a stock note executed by him to the Trustees, 1st January, 1844, for $4,111 00, etc.</p>
+                <p id="b122-8" pgmap="122">The writ was returned, without service, by order of George Hill, one of the Trustees.</p>
+                <p id="b122-9" pgmap="122">At the May term, 1849, the death of Hill was suggested, the cause directed to proceed in the name of his survivors, an alias writ ordered, and the case continued. The writ was issued, and returned without service by direction of James H. Walker, one of the Trustees.</p>
+                <p id="b122-10" pgmap="122">At the May term, 1851, the attorney of the Trustees suggested the death of the defendant (Joseph Stuart), and it was ordered that the suit stand continued for revivor, and that a scire facias be issued whenever administration was had upon his estate.</p>
+                <p id="b122-11" pgmap="122">Letters of administration were granted, by the Probate Court of Hempstead county, to Mildred Stuart and Robert C. Stuart, 14th June, 1851. On the 12th August, 1851, a scire facias was issued for the purpose of reviving the suit against them, return­able to the November term following, which was 4(luly served upon both of them, 29th of August, 1851.</p>
+                <p id="b122-12" pgmap="122">At the November term, 1851, the cause was regularly re­vived, and judgment rendered against them, as administratrix and administrator of Joseph Stuart, deceased, by default, for $4,508 09, damages, being for balance claimed to be due upon the note sued on, the plaintiffs producing the note in Court, the record states, and admitting that there was paid thereon, 1st November, 1848, $481 23, and all interest up to that date.</p>
+                <p id="b122-13" pgmap="122(22) 123(26)">On the 15th of August, 1853, a scire facias was issued for the' purpose of reviving the judgment, which was duly executed upon the defendants, as such administratrix and administrator, 17th September, 1S53, and, at the November term following, the judgment was regularly revived against them by default.</p>
+                <p id="b123-5" pgmap="123">It appears that on the' 1st of Nov’r, 1848, after the suit was commenced against Joseph Stuart, he paid to Hill, one of the Trustees, a State bond, amounting to $1,420, and delivered to him a new note for $3,629 07, payable to the Trustees by equal annual installments, the whole to be paid by the 25th October, 1856, in renewal of the note in suit.</p>
+                <p id="b123-6" pgmap="123">It seems that this note came to the possession of Mr. Newton, the Secretary of the Trustees, and was also in the hands of Mr. Pike, their attorney, before the original judgment was taken against the administrators of Joseph Stuart on the note in suit, but that if Mr. Pike had been informed that it was given in renewal of the note sued on, he did not remember it at the time the judgment was taken. He so states.</p>
+                <p id="b123-7" pgmap="123">In November, 1854, an agreement was made between the attorney of the Trustees and Robert C. Stuart, (to W'hich it was understood that Mildred Stuart assented), by the terms of which the renewal note of the 1st November, 1848, was to be allowed against the estate of Joseph Stuart, and the attorney of the Trustees was to enter satisfaction of the judgment of revivor above referred to, except as to costs. And accordingly Robert C. Stuart, in pursuance of the agreement, endorsed an allow­ance upon the note, to which he signed his own name, and the name of Mildred Stuart, as administrator and administratrix, etc.; and the attorney of the Trustees made an entry in the margin of the record .of the judgment, that it was “ satisfied in full, except costs, on the 2d day of November, 1854, by allow­ance of note given in renewal of the debt sued on.”</p>
+                <p id="b123-8" pgmap="123(63) 124(28)">At the ensuing term of the Probate Court of Hempstead county, the note was presented for allowance and classification, in pursuance of the agreement, and Mildred Stuart objected to its being allowed, etc., on the grounds that her name had been signed to the allowance' endorsed on the note, without her con­sent, and that the note had not been presented for allowance within the time prescribed by law; and the Court, upon her objections, rejected the note, and refused to allow and class it as a demand against the estate.</p>
+                <p id="b124-5" pgmap="124">"Whereupon, the Receiver of the assets of the Bank (the Trustees having been removed) filed a bill against the admini­strator and administratrix, praying that the entry of satisfac­tion of the judgment be vacated, and the judgment left in full force, etc.</p>
+                <p id="b124-6" pgmap="124">Oh the hearing, the Court decreed as prayed by the bill, but directed, the master to ascertain and state an account of any payments that had been made upon the debt by Joseph Stuart in his life time, or his administrators subsequently, and that they be credited upon the judgment, etc.</p>
+                <p id="b124-7" pgmap="124">The administrators appealed from the decree,</p>
+                <p id="AHD" pgmap="124">The appellants having failed to perform the agreement upon which, and upon no other consideration, the entry of satisfac­tion was made, it was but just and equitable that the entry should be vacated, and the representative of the Bank restored to his legal rights, by placing the judgment in statu quo.</p>
+                <p id="b124-8" pgmap="124">But as the appellee sought the aid of the Court of chancery to place the judgment in statu quo, by vacating the entry, it was proper that the court should grant him the relief which he prayed, under the peculiar circumstances of the case, upon con­dition that he would allow the appellants the benefit of any payment which had been made upon the debt, before or after judgment, and not credited, on the principle that he who seeks equity must do equity. And this the court did, in effect, if not in form.</p>
+                <p id="b124-9" pgmap="124">It is insisted by the appellants that the payment of the State bond, and the execution and delivery of the new note by their intestate, one of the Trustees, extinguished the original note, and that the judgment obtained upon it afterwards, was null and void.</p>
+                <p id="b124-10" pgmap="124(34) 125(69)">If the premises be conceded — if it be further conceded that the bond and new note were accepted by the Trustees as a payment and satisfaction of the original note, which is not shown — still the conclusion that the judgment was null and. void, does not follow. The court had jurisdiction of the subject matter, and of the persons of the appellants, and if the note sued on had been paid, this was matter of defence, which might have been interposed to defeat the action, but the judg­ment having been rendered for want of defence, it was surely not void.</p>
+                <p id="b125-5" pgmap="125">Nor does it appear that the judgment was obtained by fraud, as alleged by the appellants in their answer.</p>
+                <p id="b125-6" pgmap="125">It is not shown that the attorney for the Trustees practiced any imposition or deception upon the Court, or in any manner prevented appellants from defending the suit, in order to obtain the judgment. He testifies that the note executed by Joseph Stuart, 1st November, 1848, had.been in his hands, but if he knew that it was given in renewal of the note in suit, he had entirely forgotten it at the time he took the judgment.</p>
+                <p id="b125-7" pgmap="125">It is probable, also, that the credit, which was allowed at the time the original judgment was taken, was for the amount of the State bond, which was paid to Hill by Stewart. The al­lowance of the credits conduces to show that there was no design to defraud the appellants in taking the judgment.</p>
+                <p id="b125-8" pgmap="125">It is finally insisted for the appellants, that the Court below should not have vacated the entry of satisfaction, because upon a bill filed by them for the purpose, the Court would be bound, upon the facts disclosed in this case, to enjoin the collection of the judgment, etc.</p>
+                <p id="b125-9" pgmap="125(117) 126(224)">The grounds upon which they would seek an injunction, are, that the judgment was obtained upon the original note after a part of it had been paid with a State bond, and a renewal note executed and delivered to the Trustees of the bank for the re­mainder, which had not been paid, and the right to enforce its payment lost by lapse of time, and the claim disallowed by one of the appellants, and rejected by the Probate Court. Thus they would ask the aid of a Court of Chancery to enable them to avoid, altogether, the payment of a debt which is not denied to have been a just one. And what excuse would they give to. the Chancellor for permitting the judgment to be ren­dered, and subsequently revived against them, without defence, after full notice, and ample time afforded them to ascertain the rights of their intestate, and prepare for defence, etc.? The same excuse, it may be supposed, that they have given in their answer to the bill in this case: — that they had no knowledge of the execution of the renewal note by their intestate until after the revival of the judgment. But notwithstanding' over two years elapsed from the time they were served with process, in the original suit, to the time of the revival of the judgment, they failed to show that they used any diligence to ascertain whether there were any grounds of defence, by applying to the Trustees, the secretary, or the attorney of the bank, for infor­mation in relation to the condition of the debt, or that they attempted to obtain information from any source in relation to the claim, or to prepare any defence to the action. It appears that Mildred Stuart made enquiry of the attorney of the Trus­tees, in relation to the debt, after the revival of the judgment, and the whole matter was explained to her, as we may suppose it would have been, at any previous time, had the enquiry been made.</p>
+                <p id="b126-5" pgmap="126">Upon the facts disclosed in the case, therefore, we are by no means clear that the judgment would be enjoined. See Bently exr. vs. Dillard, 1 Eng. 79.</p>
+                <p id="b126-6" pgmap="126">The decree of the Court below must be affirmed</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="119" ORDERLABEL="117" TYPE="page">
+        <fptr FILEID="tiff_00060_0"/>
+        <fptr FILEID="jp2_00060_0"/>
+        <fptr FILEID="alto_00060_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_119.3" BETYPE="IDREF" FILEID="alto_00060_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_119.2" BETYPE="IDREF" FILEID="alto_00060_0"/>
+              <area BEGIN="BL_119.4" BETYPE="IDREF" FILEID="alto_00060_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_119.6" BETYPE="IDREF" FILEID="alto_00060_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="120" ORDERLABEL="118" TYPE="page">
+        <fptr FILEID="tiff_00060_1"/>
+        <fptr FILEID="jp2_00060_1"/>
+        <fptr FILEID="alto_00060_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_120.2" BETYPE="IDREF" FILEID="alto_00060_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_120.3" BETYPE="IDREF" FILEID="alto_00060_1"/>
+              <area BEGIN="BL_120.4" BETYPE="IDREF" FILEID="alto_00060_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="121" ORDERLABEL="119" TYPE="page">
+        <fptr FILEID="tiff_00061_0"/>
+        <fptr FILEID="jp2_00061_0"/>
+        <fptr FILEID="alto_00061_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_121.2" BETYPE="IDREF" FILEID="alto_00061_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_121.1" BETYPE="IDREF" FILEID="alto_00061_0"/>
+              <area BEGIN="BL_121.3" BETYPE="IDREF" FILEID="alto_00061_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="122" ORDERLABEL="120" TYPE="page">
+        <fptr FILEID="tiff_00061_1"/>
+        <fptr FILEID="jp2_00061_1"/>
+        <fptr FILEID="alto_00061_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_122.2" BETYPE="IDREF" FILEID="alto_00061_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_122.3" BETYPE="IDREF" FILEID="alto_00061_1"/>
+              <area BEGIN="BL_122.4" BETYPE="IDREF" FILEID="alto_00061_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="123" ORDERLABEL="121" TYPE="page">
+        <fptr FILEID="tiff_00062_0"/>
+        <fptr FILEID="jp2_00062_0"/>
+        <fptr FILEID="alto_00062_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_123.3" BETYPE="IDREF" FILEID="alto_00062_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_123.2" BETYPE="IDREF" FILEID="alto_00062_0"/>
+              <area BEGIN="BL_123.4" BETYPE="IDREF" FILEID="alto_00062_0"/>
+              <area BEGIN="BL_123.9" BETYPE="IDREF" FILEID="alto_00062_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="124" ORDERLABEL="122" TYPE="page">
+        <fptr FILEID="tiff_00062_1"/>
+        <fptr FILEID="jp2_00062_1"/>
+        <fptr FILEID="alto_00062_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_124.2" BETYPE="IDREF" FILEID="alto_00062_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_124.3" BETYPE="IDREF" FILEID="alto_00062_1"/>
+              <area BEGIN="BL_124.4" BETYPE="IDREF" FILEID="alto_00062_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="125" ORDERLABEL="123" TYPE="page">
+        <fptr FILEID="tiff_00063_0"/>
+        <fptr FILEID="jp2_00063_0"/>
+        <fptr FILEID="alto_00063_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_125.3" BETYPE="IDREF" FILEID="alto_00063_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_125.2" BETYPE="IDREF" FILEID="alto_00063_0"/>
+              <area BEGIN="BL_125.4" BETYPE="IDREF" FILEID="alto_00063_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="126" ORDERLABEL="124" TYPE="page">
+        <fptr FILEID="tiff_00063_1"/>
+        <fptr FILEID="jp2_00063_1"/>
+        <fptr FILEID="alto_00063_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_126.2" BETYPE="IDREF" FILEID="alto_00063_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_126.3" BETYPE="IDREF" FILEID="alto_00063_1"/>
+              <area BEGIN="BL_126.4" BETYPE="IDREF" FILEID="alto_00063_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b120-9" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_120.8" BETYPE="IDREF" FILEID="alto_00060_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b120-8" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_120.7" BETYPE="IDREF" FILEID="alto_00060_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b122-5" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_122.5" BETYPE="IDREF" FILEID="alto_00061_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b120-5" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_120.5" BETYPE="IDREF" FILEID="alto_00060_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b122-9" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_122.10" BETYPE="IDREF" FILEID="alto_00061_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b122-8" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_122.9" BETYPE="IDREF" FILEID="alto_00061_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b121-4" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_121.5" BETYPE="IDREF" FILEID="alto_00061_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b121-5" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_121.6" BETYPE="IDREF" FILEID="alto_00061_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b121-6" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_121.7" BETYPE="IDREF" FILEID="alto_00061_0"/>
+            <area BEGIN="BL_122.1" BETYPE="IDREF" FILEID="alto_00061_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b122-13" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_122.14" BETYPE="IDREF" FILEID="alto_00061_1"/>
+            <area BEGIN="BL_123.1" BETYPE="IDREF" FILEID="alto_00062_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b122-12" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_122.13" BETYPE="IDREF" FILEID="alto_00061_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b122-11" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_122.12" BETYPE="IDREF" FILEID="alto_00061_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b122-10" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_122.11" BETYPE="IDREF" FILEID="alto_00061_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ai" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_122.6" BETYPE="IDREF" FILEID="alto_00061_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b122-6" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_122.7" BETYPE="IDREF" FILEID="alto_00061_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AHD" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_124.8" BETYPE="IDREF" FILEID="alto_00062_1"/>
+            <area BEGIN="BL_124.9" BETYPE="IDREF" FILEID="alto_00062_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b123-6" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_123.6" BETYPE="IDREF" FILEID="alto_00062_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b123-7" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_123.7" BETYPE="IDREF" FILEID="alto_00062_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b123-5" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_123.5" BETYPE="IDREF" FILEID="alto_00062_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b119-9" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_119.10" BETYPE="IDREF" FILEID="alto_00060_0"/>
+            <area BEGIN="BL_120.1" BETYPE="IDREF" FILEID="alto_00060_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b121-3" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_121.4" BETYPE="IDREF" FILEID="alto_00061_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b119-7" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_119.8" BETYPE="IDREF" FILEID="alto_00060_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b119-6" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_119.7" BETYPE="IDREF" FILEID="alto_00060_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b124-10" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_124.12" BETYPE="IDREF" FILEID="alto_00062_1"/>
+            <area BEGIN="BL_125.1" BETYPE="IDREF" FILEID="alto_00063_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b123-8" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_123.8" BETYPE="IDREF" FILEID="alto_00062_0"/>
+            <area BEGIN="BL_124.1" BETYPE="IDREF" FILEID="alto_00062_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b119-8" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_119.9" BETYPE="IDREF" FILEID="alto_00060_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b124-9" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_124.11" BETYPE="IDREF" FILEID="alto_00062_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b124-8" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_124.10" BETYPE="IDREF" FILEID="alto_00062_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b120-6" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_120.6" BETYPE="IDREF" FILEID="alto_00060_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b126-6" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_126.6" BETYPE="IDREF" FILEID="alto_00063_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b126-5" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_126.5" BETYPE="IDREF" FILEID="alto_00063_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b124-5" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_124.5" BETYPE="IDREF" FILEID="alto_00062_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b124-7" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_124.7" BETYPE="IDREF" FILEID="alto_00062_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b124-6" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_124.6" BETYPE="IDREF" FILEID="alto_00062_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b125-5" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_125.5" BETYPE="IDREF" FILEID="alto_00063_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b125-6" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_125.6" BETYPE="IDREF" FILEID="alto_00063_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b125-7" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_125.7" BETYPE="IDREF" FILEID="alto_00063_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b122-7" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_122.8" BETYPE="IDREF" FILEID="alto_00061_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b125-8" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_125.8" BETYPE="IDREF" FILEID="alto_00063_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b125-9" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_125.9" BETYPE="IDREF" FILEID="alto_00063_0"/>
+            <area BEGIN="BL_126.1" BETYPE="IDREF" FILEID="alto_00063_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b120-11" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_120.10" BETYPE="IDREF" FILEID="alto_00060_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b120-10" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_120.9" BETYPE="IDREF" FILEID="alto_00060_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b120-13" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_120.12" BETYPE="IDREF" FILEID="alto_00060_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b120-12" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_120.11" BETYPE="IDREF" FILEID="alto_00060_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

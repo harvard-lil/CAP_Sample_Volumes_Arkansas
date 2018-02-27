@@ -1,0 +1,510 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0096" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Beaulieu v. Gray">Thelma Lee BEAULIEU, as Guardian of the Person and the Estate of Bettye Jean CULPEPPER v. Henry GRAY, B.K. COOPER, and Charles VENABLE</name>
+          <docketnumber>85-254</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 395</citation>
+          <citation category="parallel" type="bluebook">705 S.W.2d 880</citation>
+          <decisiondate>1986-03-24</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:00Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00215_0" MIMETYPE="image/tiff" CHECKSUM="cf12fe996615b8625bf79d163d3696d7" CHECKSUMTYPE="MD5" SIZE="18146">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00215_0.tif"/>
+      </file>
+      <file ID="tiff_00215_1" MIMETYPE="image/tiff" CHECKSUM="7e8f2b8fd2cc96f201826ec3777e1c20" CHECKSUMTYPE="MD5" SIZE="31206">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00215_1.tif"/>
+      </file>
+      <file ID="tiff_00216_0" MIMETYPE="image/tiff" CHECKSUM="bb715e25db3362ea8af528a2ed441dfc" CHECKSUMTYPE="MD5" SIZE="52998">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00216_0.tif"/>
+      </file>
+      <file ID="tiff_00216_1" MIMETYPE="image/tiff" CHECKSUM="cbdf60595f6f516ae041e9fdc415bfb8" CHECKSUMTYPE="MD5" SIZE="52420">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00216_1.tif"/>
+      </file>
+      <file ID="tiff_00217_0" MIMETYPE="image/tiff" CHECKSUM="2d3cd045d140d0a3457cd23dada55ae5" CHECKSUMTYPE="MD5" SIZE="22620">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00217_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00215_0" MIMETYPE="image/jp2" CHECKSUM="924eb9c45a1dcc23eeb96f7fa3d8f6c4" CHECKSUMTYPE="MD5" SIZE="1676317">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00215_0.jp2"/>
+      </file>
+      <file ID="jp2_00215_1" MIMETYPE="image/jp2" CHECKSUM="eacfe7b7c5156650c7e7c5ae67c05d03" CHECKSUMTYPE="MD5" SIZE="1883613">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00215_1.jp2"/>
+      </file>
+      <file ID="jp2_00216_0" MIMETYPE="image/jp2" CHECKSUM="d236e6627a933ef51c8fe6dba8cfa8ae" CHECKSUMTYPE="MD5" SIZE="2524044">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00216_0.jp2"/>
+      </file>
+      <file ID="jp2_00216_1" MIMETYPE="image/jp2" CHECKSUM="def0bf81c7efb8ba0ae1385643195a08" CHECKSUMTYPE="MD5" SIZE="2538734">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00216_1.jp2"/>
+      </file>
+      <file ID="jp2_00217_0" MIMETYPE="image/jp2" CHECKSUM="c49d8ceb1af58ef3ed6b6c8c0503286b" CHECKSUMTYPE="MD5" SIZE="1907119">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00217_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00215_0" MIMETYPE="text/xml" CHECKSUM="f07cdb9fe7fee6bc4ace7fd3c980d115" CHECKSUMTYPE="MD5" SIZE="24952">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00215_0.xml"/>
+      </file>
+      <file ID="alto_00215_1" MIMETYPE="text/xml" CHECKSUM="f12ae5b4be808c5c084a196f12309e4d" CHECKSUMTYPE="MD5" SIZE="45301">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00215_1.xml"/>
+      </file>
+      <file ID="alto_00216_0" MIMETYPE="text/xml" CHECKSUM="b493790175c4adda85b3e67baca62247" CHECKSUMTYPE="MD5" SIZE="83391">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00216_0.xml"/>
+      </file>
+      <file ID="alto_00216_1" MIMETYPE="text/xml" CHECKSUM="3e99954ecd1148e104a715a936474514" CHECKSUMTYPE="MD5" SIZE="89381">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00216_1.xml"/>
+      </file>
+      <file ID="alto_00217_0" MIMETYPE="text/xml" CHECKSUM="6abe3d0108f5b5fc35c3399df3d55565" CHECKSUMTYPE="MD5" SIZE="33661">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00217_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0096" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="395" lastpage="399">
+              <court pgmap="429" id="b429-11">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="429" id="b429-10">85-254</docketnumber>
+              <citation pgmap="429" id="AqKU">705 S.W.2d 880</citation>
+              <parties pgmap="429" id="b429-9">Thelma Lee BEAULIEU, as Guardian of the Person and the Estate of Bettye Jean CULPEPPER v. Henry GRAY, B.K. COOPER, and Charles VENABLE</parties>
+              <decisiondate pgmap="429" id="ALj">Opinion delivered March 24, 1986</decisiondate>
+              <judges pgmap="433" id="b433-6">Purtle, J., not participating.</judges>
+              <attorneys pgmap="430" id="b430-9">The McMath Law Firm, by: James Bruce McMath, for appellant.</attorneys>
+              <attorneys pgmap="430" id="b430-10">Friday, Eldredge &amp; Clark, by: Bill S. Clark, and Barry E. Coplin, for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="430" id="b430-11">Robert H. Dudley, Justice.</author>
+                <p pgmap="430" id="ACCz">Appellant, the plaintiff below, brought suit against appellees, who are administrators and engineers for the Arkansas Highway and Transportation Depart­ment, for injuries sustained in a car-truck wreck which occurred at an abnormally dangerous highway intersection. Appellant alleged that the creation of the intersection was a negligent act, and that allowing it to continue in existence amounted to a willful and wanton disregard of appellant’s safety. The trial judge dismissed the suit on the ground that the appellees were immune from tort liability for acts which occurred within the course of their state employment. We affirm.</p>
+                <p pgmap="430(57) 431(17)" id="b430-12">
+                   Sovereign immunity and the immunity of state officers and employees are two different concepts with two different origins and purposes. Sovereign immunity originates with Article V, § 20 of the Arkansas Constitution which provides, “[t]he State of Arkansas shall never be made defendant in any of her courts.” There is no similar constitutional doctrine providing for immu­nity of state officers and employees. Such a doctrine must come from either common law or statute.</p>
+                <p pgmap="431" id="b431-6">Judge Learned Hand stated that the doctrine of immunity for public employees was based upon a policy of freeing public employees from fear of retaliation for unpopular decisions so that they could function freely and thereby give unflinching discharge of their duties. Gregoire v. Biddle, 177 F.2d 579, 581 (2d Cir. 1949), cert. denied, 339 U.S. 949 (1950). William L. Prosser also believed that public employees would be unduly intimidated in the discharge of their duties if they could be sued for actions which were later determined to be negligent. W.L. Prosser, Law of Torts 987 (4th ed. 1971). Another reason advanced for the immunity of state employees is that without immunity, highly skilled employees would not accept public positions because the potential liability would not be commensurate with the relatively low compensation which public employees receive. Van Alstyne, Government Tort Liability: A Public Policy Prospectus, 10 UCLA L. Rev. 463 (1963); Smith v. Cooper, 256 Or. 485, 475 P.2d 78 (1970); Annot., 45 A.L.R.3d 857 (1970).</p>
+                <p pgmap="431" id="b431-7">In 1979, the State of Arkansas did not have a statute providing immunity for state officers and employees. At that time, this Court refused to create immunity by judicial fiat and held that a state employee was not protected by the sovereign immunity clause and could be liable for an act of negligence which was committed while engaged in the performance of official duties. Grimmett v. Digby, 267 Ark. 192, 589 S.W.2d 579 (1979).</p>
+                <p pgmap="431" id="b431-8">
+                   At its next session, in 1981, the General Assembly enacted Ark. Stat. Ann. § 13-1420 (Supp. 1985), which provides:</p>
+                <blockquote pgmap="431" id="b431-9">Officers and employees of the State of Arkansas are immune from civil liability for acts or omissions, other than malicious acts or omissions, occurring within the course and scope of their employment.</blockquote>
+                <p pgmap="431" id="b431-10">Summarizing this brief overview of the immunity doctrines, the Arkansas Constitution provides for sovereign immunity and Ark. Stat. Ann. § 13-1420 provides for immunity of officers and employees of the state.</p>
+                <p pgmap="431(11) 432(85)" id="b431-11">
+                   The suit at bar is filed against employees of the state, and under the quoted statute those employees are immune from civil liability for non-malicious acts occurring within the course of their employment. The appellant, quite understandably, argues that the recent case of Carter v. Bush, 283 Ark. 16, 669 S.W.2d 902, substituted opinion, 677 S.W.2d 837 (1984), states that the quoted statute does not provide immunity for officers and employ­ees of the state. The Carter case does provide that the statute is not a grant of immunity. We expressly overrule that part of Carter.</p>
+                <p pgmap="432" id="b432-6">
+                   The ruling of the trial court must also be affirmed for a second reason. While this action is nominally filed against state employees, it is in reality an action against the State of Arkansas in violation of the sovereign immunity clause. The standard for determining whether the State is the real party in interest is set out in Page v. McKinley, 196 Ark. 331, 118 S.W.2d 235 (1938):</p>
+                <blockquote pgmap="432" id="b432-7">Accordingly it is well settled, as a general proposition, that, where a suit is brought against an officer or agency with relation to some matter in which defendant represents the state in action and liability, and the state, while not a party to the record, is the real party against which relief is sought so that a judgment for plaintiff, although nominally against the named defendant as an individual or entity distinct from the state, will operate to control the action of the state or subject it to liability, the suit is in effect one against the state and cannot be maintained without its consent.</blockquote>
+                <p pgmap="432" id="b432-8">
+                   In this case the real party against whom relief is sought is the State since, under the provisions of Ark. Stat. Ann. § 12-­3401 (Repl. 1979), a 1979 statute, the State would be required to pay any judgment obtained against appellees. The statute provides:</p>
+                <blockquote pgmap="432(76) 433(16)" id="b432-9">The State of Arkansas shall pay actual, but not punitive, damages adjudged by a state or federal court, or entered by such a court as a result of a compromise settlement approved and recommended by the Attorney General, against officers or employees of the State of Arkansas, or against the estate of such an officer or employee, based on an act or omission by the officer or employee while acting without malice and in good faith within the course and scope of his employment and in the performance of his official duties.</blockquote>
+                <p pgmap="433" id="b433-4">
+                   The appellant next contends that even if appellees, as employees, have qualified immunity, they are not immune from liability for malicious acts, and that their acts in this situation were willful and wanton. The statute conferring immunity to officers and employees does not protect them if they act mali­ciously. However, the appellant has failed to allege facts sufficient to support the claim of malicious conduct. A bare allegation of willful and wanton conduct will not suffice. See Miller v. Ensco, Inc., 286 Ark. 458, 692 S.W.2d 615 (1985).</p>
+                <p pgmap="433" id="b433-5">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="429" ORDERLABEL="395" TYPE="page">
+        <fptr FILEID="tiff_00215_0"/>
+        <fptr FILEID="jp2_00215_0"/>
+        <fptr FILEID="alto_00215_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_429.3" BETYPE="IDREF" FILEID="alto_00215_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="430" ORDERLABEL="396" TYPE="page">
+        <fptr FILEID="tiff_00215_1"/>
+        <fptr FILEID="jp2_00215_1"/>
+        <fptr FILEID="alto_00215_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_430.2" BETYPE="IDREF" FILEID="alto_00215_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="431" ORDERLABEL="397" TYPE="page">
+        <fptr FILEID="tiff_00216_0"/>
+        <fptr FILEID="jp2_00216_0"/>
+        <fptr FILEID="alto_00216_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_431.3" BETYPE="IDREF" FILEID="alto_00216_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="432" ORDERLABEL="398" TYPE="page">
+        <fptr FILEID="tiff_00216_1"/>
+        <fptr FILEID="jp2_00216_1"/>
+        <fptr FILEID="alto_00216_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_432.2" BETYPE="IDREF" FILEID="alto_00216_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="433" ORDERLABEL="399" TYPE="page">
+        <fptr FILEID="tiff_00217_0"/>
+        <fptr FILEID="jp2_00217_0"/>
+        <fptr FILEID="alto_00217_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_433.3" BETYPE="IDREF" FILEID="alto_00217_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b431-8" BETYPE="IDREF" FILEID="casebody_0096"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_431.6" BETYPE="IDREF" FILEID="alto_00216_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b431-9" BETYPE="IDREF" FILEID="casebody_0096"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_431.7" BETYPE="IDREF" FILEID="alto_00216_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b430-9" BETYPE="IDREF" FILEID="casebody_0096"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_430.8" BETYPE="IDREF" FILEID="alto_00215_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AqKU" BETYPE="IDREF" FILEID="casebody_0096"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_429.10" BETYPE="IDREF" FILEID="alto_00215_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b431-6" BETYPE="IDREF" FILEID="casebody_0096"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_431.4" BETYPE="IDREF" FILEID="alto_00216_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b431-7" BETYPE="IDREF" FILEID="casebody_0096"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_431.5" BETYPE="IDREF" FILEID="alto_00216_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b429-11" BETYPE="IDREF" FILEID="casebody_0096"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_429.11" BETYPE="IDREF" FILEID="alto_00215_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b429-10" BETYPE="IDREF" FILEID="casebody_0096"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_429.9" BETYPE="IDREF" FILEID="alto_00215_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b432-6" BETYPE="IDREF" FILEID="casebody_0096"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_432.4" BETYPE="IDREF" FILEID="alto_00216_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ALj" BETYPE="IDREF" FILEID="casebody_0096"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_429.12" BETYPE="IDREF" FILEID="alto_00215_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b429-9" BETYPE="IDREF" FILEID="casebody_0096"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_429.8" BETYPE="IDREF" FILEID="alto_00215_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b432-7" BETYPE="IDREF" FILEID="casebody_0096"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_432.5" BETYPE="IDREF" FILEID="alto_00216_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b433-5" BETYPE="IDREF" FILEID="casebody_0096"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_433.5" BETYPE="IDREF" FILEID="alto_00217_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b430-12" BETYPE="IDREF" FILEID="casebody_0096"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_430.13" BETYPE="IDREF" FILEID="alto_00215_1"/>
+            <area BEGIN="BL_431.1" BETYPE="IDREF" FILEID="alto_00216_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b430-11" BETYPE="IDREF" FILEID="casebody_0096"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_430.10" BETYPE="IDREF" FILEID="alto_00215_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b430-10" BETYPE="IDREF" FILEID="casebody_0096"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_430.9" BETYPE="IDREF" FILEID="alto_00215_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b433-6" BETYPE="IDREF" FILEID="casebody_0096"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_433.6" BETYPE="IDREF" FILEID="alto_00217_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b433-4" BETYPE="IDREF" FILEID="casebody_0096"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_433.4" BETYPE="IDREF" FILEID="alto_00217_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b432-9" BETYPE="IDREF" FILEID="casebody_0096"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_432.7" BETYPE="IDREF" FILEID="alto_00216_1"/>
+            <area BEGIN="BL_433.1" BETYPE="IDREF" FILEID="alto_00217_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ACCz" BETYPE="IDREF" FILEID="casebody_0096"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_430.11" BETYPE="IDREF" FILEID="alto_00215_1"/>
+            <area BEGIN="BL_430.12" BETYPE="IDREF" FILEID="alto_00215_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b432-8" BETYPE="IDREF" FILEID="casebody_0096"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_432.6" BETYPE="IDREF" FILEID="alto_00216_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b431-10" BETYPE="IDREF" FILEID="casebody_0096"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_431.8" BETYPE="IDREF" FILEID="alto_00216_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b431-11" BETYPE="IDREF" FILEID="casebody_0096"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_431.9" BETYPE="IDREF" FILEID="alto_00216_0"/>
+            <area BEGIN="BL_432.1" BETYPE="IDREF" FILEID="alto_00216_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

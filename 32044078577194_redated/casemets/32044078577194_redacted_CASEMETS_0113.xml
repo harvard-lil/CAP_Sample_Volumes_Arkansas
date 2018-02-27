@@ -1,0 +1,385 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0113" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Bell v. Bell">Barbara BELL v. David BELL</name>
+          <docketnumber>85-299</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 468</citation>
+          <citation category="parallel" type="bluebook">705 S.W.2d 891</citation>
+          <decisiondate>1986-03-31</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:00Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00251_1" MIMETYPE="image/tiff" CHECKSUM="fd96403b12bb203f7b35865581c9d5b8" CHECKSUMTYPE="MD5" SIZE="33852">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00251_1.tif"/>
+      </file>
+      <file ID="tiff_00252_0" MIMETYPE="image/tiff" CHECKSUM="15f7949124db3c9b0ee59edfe20bba29" CHECKSUMTYPE="MD5" SIZE="45066">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00252_0.tif"/>
+      </file>
+      <file ID="tiff_00252_1" MIMETYPE="image/tiff" CHECKSUM="2a8356c90a4212171ed4166d4f1636e7" CHECKSUMTYPE="MD5" SIZE="33446">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00252_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00251_1" MIMETYPE="image/jp2" CHECKSUM="f85cbdd9ed888f07aaebf0b335e78df7" CHECKSUMTYPE="MD5" SIZE="2077185">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00251_1.jp2"/>
+      </file>
+      <file ID="jp2_00252_0" MIMETYPE="image/jp2" CHECKSUM="ad9f6b3b3750d1487329db6c0a97a4fe" CHECKSUMTYPE="MD5" SIZE="2301802">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00252_0.jp2"/>
+      </file>
+      <file ID="jp2_00252_1" MIMETYPE="image/jp2" CHECKSUM="98c7b7abc157b57b70fd08ef8ac14828" CHECKSUMTYPE="MD5" SIZE="2233659">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00252_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00251_1" MIMETYPE="text/xml" CHECKSUM="fab58e1faa920389dafce1e89d00fa24" CHECKSUMTYPE="MD5" SIZE="51992">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00251_1.xml"/>
+      </file>
+      <file ID="alto_00252_0" MIMETYPE="text/xml" CHECKSUM="5db5c91d134361c29172393bed4a8775" CHECKSUMTYPE="MD5" SIZE="69854">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00252_0.xml"/>
+      </file>
+      <file ID="alto_00252_1" MIMETYPE="text/xml" CHECKSUM="8eec104b02fb8d87771826e754915da0" CHECKSUMTYPE="MD5" SIZE="52383">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00252_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0113" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="468" lastpage="470">
+              <court pgmap="502" id="b502-8">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="502" id="ACCq">85-299</docketnumber>
+              <citation pgmap="502" id="AIy6">705 S.W.2d 891</citation>
+              <parties pgmap="502" id="b502-7">Barbara BELL v. David BELL</parties>
+              <decisiondate pgmap="502" id="AW5">Opinion delivered March 31, 1986</decisiondate>
+              <judges pgmap="504" id="b504-9">Purtle, J., not participating.</judges>
+              <attorneys pgmap="503" id="b503-7">Witt Law Firm, P.C., by: Ernie Witt, for appellant.</attorneys>
+              <attorneys pgmap="503" id="b503-8">Hixson, Cleveland &amp; Rush, by: David L. Rush, for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="503" id="b503-9">David Newbern, Justice.</author>
+                <p pgmap="503" id="Afi2">The appellee sought enforcement of visitation rights pursuant to a divorce decree issued by a court in the State of Washington and registered in Arkansas. The appellant responded by seeking modification of the visitation provisions. The chancellor held he lacked jurisdiction to modify the Washington decree because of the Uniform Child Custody Jurisdiction Act, Ark. Stat. Ann. §§ 34-2701 through 34-2725 (Supp. 1985), and he, therefore, did not rule on the merits of the appellee’s modification petition. We reverse because we conclude the chancellor does have jurisdiction to modify the decree. The chancellor did not cite any particular section of the Act as precluding him from taking jurisdiction. Our review of each section of the Act discloses none which would bar him from doing so.</p>
+                <p pgmap="503" id="b503-10">
+                   Section 34-2714(a) governs modification of custody decrees rendered by courts of other states. It provides:</p>
+                <blockquote pgmap="503" id="b503-11">If a court of another state has made a custody decree, a court of this State shall not modify that decree unless: (1) it appears to the court of this State that the court which rendered the decree does not now have jurisdiction under jurisdictional prerequisites substantially in accordance with this Act [§§ 34-2701 — 34-2725] or has declined to assume jurisdiction to modify the decree and (2) the court of this State has jurisdiction.</blockquote>
+                <p pgmap="503(49) 504(29)" id="b503-12">Whether the Washington court continues to have jurisdiction must be determined by reference to § 34-2703, and we find no provision there which would confer jurisdiction on the Washing­ton court to entertain the appellee’s request for modification. Instead, the record before us shows the two children in question have resided in Arkansas with the appellee far longer than the six months mentioned in § 34-2703(a)(l), and thus Arkansas has, according to the Act, become their home state.</p>
+                <p pgmap="504" id="b504-6">Nor is there evidence of any pending custody litigation in Washington or any state other than Arkansas. Thus § 34-2706(a) would not preclude the modification sought here. See Davis v. Davis, 285 Ark. 403, 687 S.W.2d 843 (1985).</p>
+                <p pgmap="504" id="b504-7">
+                   Although we must reverse the chancellor’s determina­tion that he lacked jurisdiction to modify the decree, we express no opinion on the merits of the appellant’s request for modifica­tion. No hearing was held on that issue, and thus we cannot engage in a de novo review with respect to the merits. Instead, we remand the case for a hearing on the question whether conditions have changed so as to warrant modification of the decree since the parties, by consent decree, registered the Washington court’s decree with the chancery court. Rains v. Alston, 265 Ark. 108, 576 S.W.2d 505 (1979).</p>
+                <p pgmap="504" id="b504-8">Reversed and remanded.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="502" ORDERLABEL="468" TYPE="page">
+        <fptr FILEID="tiff_00251_1"/>
+        <fptr FILEID="jp2_00251_1"/>
+        <fptr FILEID="alto_00251_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_502.2" BETYPE="IDREF" FILEID="alto_00251_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="503" ORDERLABEL="469" TYPE="page">
+        <fptr FILEID="tiff_00252_0"/>
+        <fptr FILEID="jp2_00252_0"/>
+        <fptr FILEID="alto_00252_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_503.3" BETYPE="IDREF" FILEID="alto_00252_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="504" ORDERLABEL="470" TYPE="page">
+        <fptr FILEID="tiff_00252_1"/>
+        <fptr FILEID="jp2_00252_1"/>
+        <fptr FILEID="alto_00252_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_504.2" BETYPE="IDREF" FILEID="alto_00252_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b503-10" BETYPE="IDREF" FILEID="casebody_0113"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_503.12" BETYPE="IDREF" FILEID="alto_00252_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AW5" BETYPE="IDREF" FILEID="casebody_0113"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_502.10" BETYPE="IDREF" FILEID="alto_00251_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b504-9" BETYPE="IDREF" FILEID="casebody_0113"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_504.7" BETYPE="IDREF" FILEID="alto_00252_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b504-8" BETYPE="IDREF" FILEID="casebody_0113"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_504.6" BETYPE="IDREF" FILEID="alto_00252_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b503-12" BETYPE="IDREF" FILEID="casebody_0113"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_503.14" BETYPE="IDREF" FILEID="alto_00252_0"/>
+            <area BEGIN="BL_504.1" BETYPE="IDREF" FILEID="alto_00252_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b502-7" BETYPE="IDREF" FILEID="casebody_0113"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_502.6" BETYPE="IDREF" FILEID="alto_00251_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AIy6" BETYPE="IDREF" FILEID="casebody_0113"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_502.8" BETYPE="IDREF" FILEID="alto_00251_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b503-11" BETYPE="IDREF" FILEID="casebody_0113"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_503.13" BETYPE="IDREF" FILEID="alto_00252_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b502-8" BETYPE="IDREF" FILEID="casebody_0113"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_502.9" BETYPE="IDREF" FILEID="alto_00251_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b504-7" BETYPE="IDREF" FILEID="casebody_0113"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_504.5" BETYPE="IDREF" FILEID="alto_00252_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b504-6" BETYPE="IDREF" FILEID="casebody_0113"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_504.4" BETYPE="IDREF" FILEID="alto_00252_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b503-9" BETYPE="IDREF" FILEID="casebody_0113"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_503.9" BETYPE="IDREF" FILEID="alto_00252_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b503-7" BETYPE="IDREF" FILEID="casebody_0113"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_503.7" BETYPE="IDREF" FILEID="alto_00252_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Afi2" BETYPE="IDREF" FILEID="casebody_0113"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_503.10" BETYPE="IDREF" FILEID="alto_00252_0"/>
+            <area BEGIN="BL_503.11" BETYPE="IDREF" FILEID="alto_00252_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ACCq" BETYPE="IDREF" FILEID="casebody_0113"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_502.7" BETYPE="IDREF" FILEID="alto_00251_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b503-8" BETYPE="IDREF" FILEID="casebody_0113"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_503.8" BETYPE="IDREF" FILEID="alto_00252_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

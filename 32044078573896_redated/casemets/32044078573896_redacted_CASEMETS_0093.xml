@@ -1,0 +1,529 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0093" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Miller v. Merrick">Miller, Auditor, vs. Merrick</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 427</citation>
+          <decisiondate>1860-07</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00215_0" MIMETYPE="image/tiff" CHECKSUM="bd7811b825f6e06ce9a9c967ad1f79fd" CHECKSUMTYPE="MD5" SIZE="25152">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00215_0.tif"/>
+      </file>
+      <file ID="tiff_00215_1" MIMETYPE="image/tiff" CHECKSUM="62fa9d3f07ac45d444e40f599f73e69a" CHECKSUMTYPE="MD5" SIZE="45020">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00215_1.tif"/>
+      </file>
+      <file ID="tiff_00216_0" MIMETYPE="image/tiff" CHECKSUM="2aba0d5637464d3526f800dec145d183" CHECKSUMTYPE="MD5" SIZE="43900">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00216_0.tif"/>
+      </file>
+      <file ID="tiff_00216_1" MIMETYPE="image/tiff" CHECKSUM="ba0d719c93dbe3065f93b7855f72ff27" CHECKSUMTYPE="MD5" SIZE="34940">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00216_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00215_0" MIMETYPE="image/jp2" CHECKSUM="742f15a590e11a5661678be075043645" CHECKSUMTYPE="MD5" SIZE="2375722">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00215_0.jp2"/>
+      </file>
+      <file ID="jp2_00215_1" MIMETYPE="image/jp2" CHECKSUM="f3c282e3969baefd28d8ad5efd5c1187" CHECKSUMTYPE="MD5" SIZE="2508922">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00215_1.jp2"/>
+      </file>
+      <file ID="jp2_00216_0" MIMETYPE="image/jp2" CHECKSUM="1f8944da02d071d4a50f818abf2b51f9" CHECKSUMTYPE="MD5" SIZE="2761672">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00216_0.jp2"/>
+      </file>
+      <file ID="jp2_00216_1" MIMETYPE="image/jp2" CHECKSUM="48633425699da701331796b700f5f6e0" CHECKSUMTYPE="MD5" SIZE="2428673">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00216_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00215_0" MIMETYPE="text/xml" CHECKSUM="78f55e58c116fcf66cc3132a2427690e" CHECKSUMTYPE="MD5" SIZE="46526">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00215_0.xml"/>
+      </file>
+      <file ID="alto_00215_1" MIMETYPE="text/xml" CHECKSUM="897d67182c9d3d8dba41f2ed29f5d1f2" CHECKSUMTYPE="MD5" SIZE="83797">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00215_1.xml"/>
+      </file>
+      <file ID="alto_00216_0" MIMETYPE="text/xml" CHECKSUM="e27042ab8c9c867e1a94e304778b7107" CHECKSUMTYPE="MD5" SIZE="86559">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00216_0.xml"/>
+      </file>
+      <file ID="alto_00216_1" MIMETYPE="text/xml" CHECKSUM="f609b909f9ed44a8d1c948087a64426f" CHECKSUMTYPE="MD5" SIZE="68925">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00216_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0093" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="430" firstpage="427">
+              <parties id="b429-6" pgmap="429">Miller, Auditor, vs. Merrick.</parties>
+              <attorneys id="b429-10" pgmap="429">Hempstead, Solicitor General, for the Auditor.</attorneys>
+              <attorneys id="b430-9" pgmap="430">Garland, for appellee.</attorneys>
+              <summary id="b429-8" pgmap="429">Appeal from Pulaski Circuit Court.</summary>
+              <summary id="b429-9" pgmap="429">Hon. John J. Clendenin, Circuit Judge.</summary>
+              <summary id="b429-11" pgmap="429">This is a question of construction, and one confessedly im­portant; and, to a proper understanding of its merits, it must be remembered that by an act, approved 1st January, 1853, (Acts 1852, p. 55), several radical changes were made in the revenue law.</summary>
+              <summary id="b429-12" pgmap="429(12) 430(70)">The act of 1855, for the benefit of actual settlers on the forfeited lands of the State, was intended to accommodate itself to the change in our revenue system, and was not, as I confi­dently maintain, intended to affect or abrogate the right of redemption, existing in the owner of forfeited lands, for the space of two years from the date of forfeiture, under the 118th section of the Revenue law {Dig. 889); but had quite a different object in view.</summary>
+              <summary id="b430-6" pgmap="430">It would be highly unjust to hold that it operated as a repeal of the right of redemption in two years; because that was a general right in owners, secured to them by the general law and policy existing almost from the beginning of the State government.</summary>
+              <summary id="b430-7" pgmap="430">By holding the right of redemption, as still subsisting, both laws may stand as they ought to, and both have a subject mat­ter upon which to act; and thus a general system remains intact. I cannot think the legislature intended to cut off the right of the owner of forfeited land to redeem the same in two years; but which is abrogated if this mandamus can be sus­tained. Certainly injustice would arise from a different con­struction. Although the literal import of the act may seem to give a pre-emption to forfeited lands presently, yet when it comes to be construed, in reference to other laws in pari mate­ria it is evident that a different interpretation should be given to it. United States vs. Fisher, 2 Cranch. 386, 399; 9 Bac. Abr. Statute (1) 240.</summary>
+              <summary id="b430-8" pgmap="430">Where in a subsequent statute there is no express repeal of a former one, the former will not be considered as repealed by implication, unless the repugnancy is plain and unavoidable. Planters Bank vs. The State, Q S. Sf M. 628; 4 Ilow. U. S. 37; I Ws. 513; 15 Geo. 361.</summary>
+              <summary id="b430-10" pgmap="430(29) 431(21)">When statutes are so repugnant and contradictory that the)' cannot be construed harmoniously and made to stand, the latter statute repeals the former by implication, which is as effective as if done expressly. 2 Mass. Rep. 146; 6 S. M. 628; 1 Tucker’s Com., book 1, ch. 2, p. 13.</summary>
+              <summary id="b431-4" pgmap="431">To lands forfeited to the State, she has a contingent title, to be defeated on the owner’s paying taxes, costs, etc.; and if within the two years allowed for redemption, she convey away such lands, her vendee gets exactly what title she had, which likewise may be defeated by redemption within the two years.</summary>
+              <headnotes id="b429-7" pgmap="429">The act of 1st January, 1855, authorising actual settlers upon lands forfeited to the State for non-payment of taxes, to purchase them of the Auditor at private sale, does not expressly or by implication repeal section 138, chap. 148, Gould’s Dig., allowing the former owner the privilege of redeeming them within two years after the forfeiture.</headnotes>
+              <opinion type="majority">
+                <author id="b431-5" pgmap="431">Mr. Chief Justice English</author>
+                <p id="AL_" pgmap="431">delivered the opinion of the Court.</p>
+                <p id="b431-6" pgmap="431">On the 9th of March, 1857, the collector of Conway county offered for sale for taxes a tract of land, taxed in the name of one Tarkington, which was not sold for want of a bidder, and forfeited to the State.</p>
+                <p id="b431-7" pgmap="431">On the 25th oí November, 1857, Merrick applied to the Audi­tor to purchase the land, under the act of January 1st, 1855, (Gould’s Dig., ch. 148, secs. 172, 173), tendering the amount of taxes, penally and costs due thereon, and producing to the Auditor the affidavits of settlement and residence, etc., pre­scribed by the act; but the Auditor refused to receive the money and execute to the applicant a deed to the land, on the ground that the two years allowed by the statute to the former owner to redeem the land had not expired.</p>
+                <p id="ANDi" pgmap="431">Merrick then applied to the Circuit Court of Pulaski county for a mandamus against the Auditor to compel him to accept the money, and execute the deed, stating the facts above set forth.</p>
+                <p id="b431-9" pgmap="431">The Auditor demurred to the petition, the court overruled the demurrer, awarded the mandamus, and the Auditor ap­pealed.</p>
+                <p id="b431-10" pgmap="431">By see. 138, Gould’s Dig. ch. 148, the former owner of any tract of land forfeited for non payment of taxes, is allowed to redeem the land at any time before the expiration of two years from the date of the forfeiture, by paying the amount of taxes, etc., charged thereon.</p>
+                <p id="b431-11" pgmap="431(23) 432(18)">Section 155 requires the Auditor to offer at public sale, on the first Monday in February, in each year, all lands, etc., which have been forfeited to the State for the term of two years, and have not been redeemed, etc.</p>
+                <p id="b432-6" pgmap="432">These sections of the statute were in force when the act of 1st January, 1855, was passed. It provides:</p>
+                <p id="b432-7" pgmap="432">That “ actual settlers upon lands which have been, or may be hereafter forfeited to the State for non-payment of taxes, shall be entitled to purchase the same at private sale, and upon payment of the amount of taxes, penalty and costs due thereon to the Auditor, it shall be the duty of the Auditor to execute and deliver to the purchaser a deed of conveyance for the same as required by sec. 163” (where forfeited lands are sold by the Auditor at public sale). Dig., chap. 148, sec. 172.</p>
+                <p id="b432-8" pgmap="432">Section 173 prescribes the affidavits of settlement, etc., to be filed by the applicant to purchase at private sale.</p>
+                <p id="b432-9" pgmap="432">The act of 1st January, 1855, does not expressly, nor do we think by implication, or conflict, repeal the previous law allow­ing the former owner of land forfeited to the State, the privi­lege of redeeming it any time before the expiration of two years from the date of the forfeiture. It only changes the previous law so far as to authorise the Auditor to sell forfeited lands, after the period allowed for redemption has expired, to the actual settlers thereon at private sale, instead of offering all such lands at public sale, as required by the previous law.</p>
+                <p id="b432-10" pgmap="432">The judgment of the court below must be reversed, and the cause remanded, with instructions to the court to sustain the demurrer of the Auditor to the petition of Merrick.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="429" ORDERLABEL="427" TYPE="page">
+        <fptr FILEID="tiff_00215_0"/>
+        <fptr FILEID="jp2_00215_0"/>
+        <fptr FILEID="alto_00215_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_429.3" BETYPE="IDREF" FILEID="alto_00215_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_429.2" BETYPE="IDREF" FILEID="alto_00215_0"/>
+              <area BEGIN="BL_429.4" BETYPE="IDREF" FILEID="alto_00215_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_429.6" BETYPE="IDREF" FILEID="alto_00215_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="430" ORDERLABEL="428" TYPE="page">
+        <fptr FILEID="tiff_00215_1"/>
+        <fptr FILEID="jp2_00215_1"/>
+        <fptr FILEID="alto_00215_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_430.2" BETYPE="IDREF" FILEID="alto_00215_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_430.3" BETYPE="IDREF" FILEID="alto_00215_1"/>
+              <area BEGIN="BL_430.4" BETYPE="IDREF" FILEID="alto_00215_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="431" ORDERLABEL="429" TYPE="page">
+        <fptr FILEID="tiff_00216_0"/>
+        <fptr FILEID="jp2_00216_0"/>
+        <fptr FILEID="alto_00216_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_431.3" BETYPE="IDREF" FILEID="alto_00216_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_431.2" BETYPE="IDREF" FILEID="alto_00216_0"/>
+              <area BEGIN="BL_431.4" BETYPE="IDREF" FILEID="alto_00216_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="432" ORDERLABEL="430" TYPE="page">
+        <fptr FILEID="tiff_00216_1"/>
+        <fptr FILEID="jp2_00216_1"/>
+        <fptr FILEID="alto_00216_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_432.2" BETYPE="IDREF" FILEID="alto_00216_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_432.3" BETYPE="IDREF" FILEID="alto_00216_1"/>
+              <area BEGIN="BL_432.4" BETYPE="IDREF" FILEID="alto_00216_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b429-11" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_429.12" BETYPE="IDREF" FILEID="alto_00215_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b429-10" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_429.11" BETYPE="IDREF" FILEID="alto_00215_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b429-12" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_429.13" BETYPE="IDREF" FILEID="alto_00215_0"/>
+            <area BEGIN="BL_430.1" BETYPE="IDREF" FILEID="alto_00215_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b430-7" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_430.6" BETYPE="IDREF" FILEID="alto_00215_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b430-6" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_430.5" BETYPE="IDREF" FILEID="alto_00215_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b432-7" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_432.6" BETYPE="IDREF" FILEID="alto_00216_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b432-6" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_432.5" BETYPE="IDREF" FILEID="alto_00216_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b432-9" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_432.8" BETYPE="IDREF" FILEID="alto_00216_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b432-8" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_432.7" BETYPE="IDREF" FILEID="alto_00216_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b430-9" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_430.8" BETYPE="IDREF" FILEID="alto_00215_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b430-8" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_430.7" BETYPE="IDREF" FILEID="alto_00215_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b431-10" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_431.12" BETYPE="IDREF" FILEID="alto_00216_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b431-11" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_431.13" BETYPE="IDREF" FILEID="alto_00216_0"/>
+            <area BEGIN="BL_432.1" BETYPE="IDREF" FILEID="alto_00216_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b429-9" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_429.10" BETYPE="IDREF" FILEID="alto_00215_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b429-8" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_429.9" BETYPE="IDREF" FILEID="alto_00215_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b430-10" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_430.9" BETYPE="IDREF" FILEID="alto_00215_1"/>
+            <area BEGIN="BL_431.1" BETYPE="IDREF" FILEID="alto_00216_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b429-7" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_429.8" BETYPE="IDREF" FILEID="alto_00215_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b429-6" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_429.7" BETYPE="IDREF" FILEID="alto_00215_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AL_" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_431.7" BETYPE="IDREF" FILEID="alto_00216_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b431-9" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_431.11" BETYPE="IDREF" FILEID="alto_00216_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b432-10" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_432.9" BETYPE="IDREF" FILEID="alto_00216_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ANDi" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_431.10" BETYPE="IDREF" FILEID="alto_00216_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b431-6" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_431.8" BETYPE="IDREF" FILEID="alto_00216_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b431-7" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_431.9" BETYPE="IDREF" FILEID="alto_00216_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b431-4" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_431.5" BETYPE="IDREF" FILEID="alto_00216_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b431-5" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_431.6" BETYPE="IDREF" FILEID="alto_00216_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

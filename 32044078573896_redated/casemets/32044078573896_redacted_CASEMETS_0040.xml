@@ -1,0 +1,547 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0040" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Lewis v. Davis">Lewis vs. Davis et al.</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 235</citation>
+          <decisiondate>1860-05</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00119_0" MIMETYPE="image/tiff" CHECKSUM="ccb7f5d9061d5055de6c13d7e6ab6033" CHECKSUMTYPE="MD5" SIZE="39448">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00119_0.tif"/>
+      </file>
+      <file ID="tiff_00119_1" MIMETYPE="image/tiff" CHECKSUM="1d92aa9f514efd95699a213fe3bb6011" CHECKSUMTYPE="MD5" SIZE="48554">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00119_1.tif"/>
+      </file>
+      <file ID="tiff_00120_0" MIMETYPE="image/tiff" CHECKSUM="2bacd30050d967e17c4bafa75f3f5fb1" CHECKSUMTYPE="MD5" SIZE="49254">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00120_0.tif"/>
+      </file>
+      <file ID="tiff_00120_1" MIMETYPE="image/tiff" CHECKSUM="3e8080aadfbabc4531ced026c49f31ac" CHECKSUMTYPE="MD5" SIZE="50270">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00120_1.tif"/>
+      </file>
+      <file ID="tiff_00121_0" MIMETYPE="image/tiff" CHECKSUM="cfc36ee8790e0860b39c63f011d0db25" CHECKSUMTYPE="MD5" SIZE="50464">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00121_0.tif"/>
+      </file>
+      <file ID="tiff_00121_1" MIMETYPE="image/tiff" CHECKSUM="fcadd0394f9926bc1ba60410e81950e9" CHECKSUMTYPE="MD5" SIZE="30782">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00121_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00119_0" MIMETYPE="image/jp2" CHECKSUM="2ecf5968b4fa7200f01dc8db3c80512b" CHECKSUMTYPE="MD5" SIZE="2820655">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00119_0.jp2"/>
+      </file>
+      <file ID="jp2_00119_1" MIMETYPE="image/jp2" CHECKSUM="c049f756f0ef9aa63df48cc0d1da290d" CHECKSUMTYPE="MD5" SIZE="2643744">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00119_1.jp2"/>
+      </file>
+      <file ID="jp2_00120_0" MIMETYPE="image/jp2" CHECKSUM="b9be02be5d53a5e70ace2845373ecc8e" CHECKSUMTYPE="MD5" SIZE="3046877">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00120_0.jp2"/>
+      </file>
+      <file ID="jp2_00120_1" MIMETYPE="image/jp2" CHECKSUM="cae5b27b57977631916a9625dcf2a74e" CHECKSUMTYPE="MD5" SIZE="2634352">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00120_1.jp2"/>
+      </file>
+      <file ID="jp2_00121_0" MIMETYPE="image/jp2" CHECKSUM="d289bb4f86d9b12b91dff8effebea012" CHECKSUMTYPE="MD5" SIZE="2964347">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00121_0.jp2"/>
+      </file>
+      <file ID="jp2_00121_1" MIMETYPE="image/jp2" CHECKSUM="8fccc915e4fb3622cd5d464aac16f86c" CHECKSUMTYPE="MD5" SIZE="2469851">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00121_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00119_0" MIMETYPE="text/xml" CHECKSUM="6fc0c3621f079a1cdf7b142df5aee7e2" CHECKSUMTYPE="MD5" SIZE="86892">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00119_0.xml"/>
+      </file>
+      <file ID="alto_00119_1" MIMETYPE="text/xml" CHECKSUM="557f07cc83a6b19283a5067025655e5d" CHECKSUMTYPE="MD5" SIZE="91217">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00119_1.xml"/>
+      </file>
+      <file ID="alto_00120_0" MIMETYPE="text/xml" CHECKSUM="fde59010f7d69a38268f1c8978db779b" CHECKSUMTYPE="MD5" SIZE="93056">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00120_0.xml"/>
+      </file>
+      <file ID="alto_00120_1" MIMETYPE="text/xml" CHECKSUM="d22faec0b1cb8fa5ca7c19df5162eca9" CHECKSUMTYPE="MD5" SIZE="92751">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00120_1.xml"/>
+      </file>
+      <file ID="alto_00121_0" MIMETYPE="text/xml" CHECKSUM="df3881a3cd3a2f364a24a6a9db0fe2e5" CHECKSUMTYPE="MD5" SIZE="91711">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00121_0.xml"/>
+      </file>
+      <file ID="alto_00121_1" MIMETYPE="text/xml" CHECKSUM="480b134046d5c54c8b72c71bf3204ce2" CHECKSUMTYPE="MD5" SIZE="71329">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00121_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0040" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="240" firstpage="235">
+              <parties id="b237-4" pgmap="237">Lewis vs. Davis et al.</parties>
+              <attorneys id="b237-10" pgmap="237">S. F.. Clark, for the appellant.</attorneys>
+              <attorneys id="b238-5" pgmap="238">Duval, for the appellee.</attorneys>
+              <summary id="b237-8" pgmap="237">Appeal f rom Sebastian Circuit Court.</summary>
+              <summary id="b237-9" pgmap="237">Hon. Felix I. Batson, Circuit Judge.</summary>
+              <summary id="ABH" pgmap="237">Admitting that the appel­lant had failed to execute a good and valid title to the land within one month after the contract, he is entitled to judgment, for the plea admits that the defendant had received in conside­ration of the bonds sued on, the possession of the lands, and the bond for title of O. C. Wood, which vested in him the title of the appellant. In order to constitute a good plea, it should have alleged that Wood had no title, and that defendant had been ousted of the possession. 1 J. C. R. 213; 3 Pick. 452; 11 J. R. 50; 2 Wheat. 13.</summary>
+              <summary id="b237-11" pgmap="237(14) 238(56)">The case is not within that of Smith vs. Hemp, 2 Eng. 207, for there are no dependent covenants in this case; and if the agreement to make title was a condition precedent, it was only so as to part of the consideration for which the bonds were given, and could not be a defence to the action. 1 Ch. PI. 323; 1 Saund. 320 b; 7 J. R. 249.</summary>
+              <summary id="Ab0" pgmap="238">The plea set up a good defence •according to the repeated adjudications of this court. Smith vs. Henry, 2 Eng. 207; McDaniel vs. Grace et al.. 15 Ark. 465; Seaborn vs. Sutherland, 17 Ark. 606. It not only alleges with clearness and precision that the plaintiff had no title to the land at the time of the pretended sale, and never acquired any afterwards, but alleged that the defendants offered to return the land, etc.</summary>
+              <headnotes id="b237-6" pgmap="237">Upon a verbal contract for the sale of land, the vendor assigned to the vendees a title bond, which he held, and agreed, within one month, to make them a good and valid title to the land; the vendees paid a part of the purchase money, at the time, and executed their notes at one and two years for the residue; Held, That the making of the title was a condition precedent, the performance of which, or the offer to do so, was first necessary, on the part of the vendor, before he could maintain an action on the notes for the residue of the purchase money.</headnotes>
+              <headnotes id="b237-7" pgmap="237">Where the vendee of land accepts a deed with covenants of warranty, the con­tract is executed, and he is held to roly upon the covenants in the deed, which cannot be resorted to until broken, by actual eviction or its legal equivalent; but where the contract is executory, and the stipulations, to make title on the part of the vendor, and to pay the purchase money on the part of the vendee, are depen­dent, the vendee, though in possession, cannot be compelled to pay unless the vendor is ready and able to make title.</headnotes>
+              <opinion type="majority">
+                <author id="b238-6" pgmap="238">Mr. Justice Compton</author>
+                <p id="A6u" pgmap="238">delivered the opinion of the court.</p>
+                <p id="b238-7" pgmap="238">This was an action of debt by Lewis, against Davis and Slosson, on two writings obligatory, each for one thousand dol­lars, the one due and payable on the 2d August, 1853, and the other on the 2d August, 1854. By consent, the cause was sub­mitted to the court for trial, upon an issue of fact, and the find­ing was for the defendants. Motion was then made for judg­ment non obstante veredicto., which was overruled, and the plain­tiff prosecuted his appeal to this court.</p>
+                <p id="b238-8" pgmap="238(137) 239(60)">The facts relied on in the defence, as set out in the special plea interposed by the defendants, are, that the writings obliga­tory sued on were executed to secure the payment of a part of the purchase money for a tract of land, under the following circumstances: The plaintiff represented to the defendants that he held the equitable title to the land in virtue of a title-bond executed to him by one Oliver C. Wood, and that he had a law­ful right to convey the same; whereupon, on the 4th August, 1852,' the plaintiff and the defendants entered into a verbal contract, by which it was agreed that the plaintiff should sell the land to the defendants, assign to them the title-bond of Wood, and within one month next after the date of the con­tract, make, or cause to be made to them, “ a good and valid title to the land.” In consideration whereof, the defendants agreed to pay the plaintiff' four thousand dollars, five hundred of -which they were to pay down, and execute .their writings obligatory for the residue, which was to be secured by a mort­gage on the land.</p>
+                <p id="b239-6" pgmap="239">Pursuant to, and at the date of this contract, the defendants paid the five hundred dollars, and executed the writings obliga­tory sued on, for the residue of the purchase money, to secure the payment of which, they also mortgaged the land. And the plaintiff, on his part, assigned to the defendants the title-bond of Wood, but did not, within one month next after the making of the contract, nor at any time afterward, make, or cause to be made, to them a good and valid title to the land, nor could he do so for the reason, as stated in the plea, that he had no title whatever, legal or equitable, to the lands which he had thus agreed to convey.</p>
+                <p id="b239-7" pgmap="239">The plea further avers that the defendants offered to deliver up the title-bond, cancel the assignment of the plaintiff, and surrender possession of the premises.</p>
+                <p id="b239-8" pgmap="239">Upon an agreement for the sale and purchase of land, where the stipulations by which the vendor undertakes to make title, and the vendee to pay the purchase money, are dependent, the vendor cannot maintain an action for the purchase money unless he has performed, or offered to perform his part of the contract. In all such cases, if the mutual stipulations of the parties are set forth in the instrument declared on, the fact of performance, or the offer to do so, must be averred in the declaration; and when the stipulations do not so appear, the defendant may plead the fact. So this court held in Smith vs. Henry, 2 Eng. 207. And whether the stipulations, in the case we are considering, fall within this rule, must depend upon the meaning and purpose of the parties, to be gathered from a rational interpretation of the whole contract. Atkinson vs. Richie, 10 East 530; 2 Par. on Cont. 41.</p>
+                <p id="b239-9" pgmap="239(12) 240(71)">The sum of five hundred dollars was payable on the day the contract was made, which was one month before the expiration of the time allowed the plaintiff to make title. The promise by the defendants to pay this amount, was independent of the plaintiff’s agreement to convey at a subsequent period. They were to pay it when due and rely upon their remedy against the plaintiff in the event he should afterwards fail to make the title, and it was accordingly paid.</p>
+                <p id="b240-5" pgmap="240">The writings obligatory sued on were due and, payable, as has been seen, the one on the 2d August, 1853, and the other on the 2d.August, 1854 — periods of nearly one and two years after the time when the plaintiff was to make a title to the land. Here, the stipulations were dependent, for it was the manifest intention of the parties, that a “good and valid title” was to be made before the defendants should be required to pay these last installments. The making of the title was, there­fore, a condition precedent, the performance’of which, or the offer to do so, was first necessary on the part of the plaintiff, before he could maintain this action. Leonard vs. Bates, 1 Black/. 172; Brockenbrough vs. Ward’s adm’r., 4 Rand. 355. This condition precedent was not only not performed, but could not be, the plaintiff having no title, legal or equitable, to the premises.</p>
+                <p id="b240-6" pgmap="240">It is insisted that the making of a good and valid title to the land within one month after the date of the contract, was not the entire consideration for which the writings obligatory were executed, and cannot, therefore, be pleaded as a condition pre­cedent to their payment; because, the assignment of Wood’s title-bond to the defendants, and their possession of the land under the contract, constituted a part of the consideration.</p>
+                <p id="b240-7" pgmap="240(81) 241(377) 242(22)">In answer to this argument it may be remarked, that, taking a comprehensive view of the whole contract, it was obviously the design of the parties, that a valid title, by deed in fee sim­ple, sufficient to pass the estate, should be made on the one part, and that the purchase money should be paid on the other. Nothing more or less was contemplated; nor does the contract, on a proper construction of it, show that anything else was to be done. The assignment of the title-bond was but a step towards the accomplishment of what the plaintiff, on his part, had undertaken to do, and a fruitless one it was, because the plea alleges he neither then, nor afterwards, had any title to the land. The defendants did not contract for the title-bond with the remedies, it and the assignment of it afforded against Wood and the plaintiff, as a part of the consideration for the purchase money. Nor can the possession of the land under the contract be treated as a part of the consideration. True, it has been decided in this court, that where a party contracts for, and receives a deed to land, with covenants of warranty, and the title fails, the purchaser cannot avail himself of the plea of total failure of consideration, unless there has been an eviction or its equivalent. McDaniel vs. Grace, 15 Ark. 487. But the rule does not apply in this case. The distinction is, that where the vendor has accepted a deed with covenants of warranty, the contract ceases to be executory — it is executed— and the vendee is held to have agreed expressly, of impliedly, to rely upon'the covenants in the deed, which cannot be resorted to until broken, and which are never broken without actual eviction, or its legal equivalent. In such a case the considera­tion is two-fold, that is, the present transfer of the vendor’s estate, and the future performance by himself and his heirs; when necessary, of the covenants of warranty, which is an undertaking that the purchaser, and those claiming under him, shall not suffer from any defect of title covered by the cove­nants, and this performance is never necessary or required by law while the purchaser is in possession. Hence, the doctrine laid down in McDaniel vs. Grace, supra. But where no deed has been executed, and there is a bond, or parol agreement^ only, for title, the contract for the sale and purchase remains executory — there are no covenants of warranty, the perform­ance of which constitutes a part of the consideration, and if the stipulations are dependent, as in the case under considera­tion, the vendee though in possession, cannot be forced to part with his money unless the vendor is ready and able to make the title. Feemster vs. May, 13 Smedes &amp; Mar. 275.</p>
+                <p id="b242-4" pgmap="242">The court is of opinion that the matter alleged in the plea is a bar to the plaintiff’s action. The judgment must be affirmed with costs.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="237" ORDERLABEL="235" TYPE="page">
+        <fptr FILEID="tiff_00119_0"/>
+        <fptr FILEID="jp2_00119_0"/>
+        <fptr FILEID="alto_00119_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_237.2" BETYPE="IDREF" FILEID="alto_00119_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_237.1" BETYPE="IDREF" FILEID="alto_00119_0"/>
+              <area BEGIN="BL_237.3" BETYPE="IDREF" FILEID="alto_00119_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="238" ORDERLABEL="236" TYPE="page">
+        <fptr FILEID="tiff_00119_1"/>
+        <fptr FILEID="jp2_00119_1"/>
+        <fptr FILEID="alto_00119_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_238.2" BETYPE="IDREF" FILEID="alto_00119_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_238.3" BETYPE="IDREF" FILEID="alto_00119_1"/>
+              <area BEGIN="BL_238.4" BETYPE="IDREF" FILEID="alto_00119_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="239" ORDERLABEL="237" TYPE="page">
+        <fptr FILEID="tiff_00120_0"/>
+        <fptr FILEID="jp2_00120_0"/>
+        <fptr FILEID="alto_00120_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_239.3" BETYPE="IDREF" FILEID="alto_00120_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_239.2" BETYPE="IDREF" FILEID="alto_00120_0"/>
+              <area BEGIN="BL_239.4" BETYPE="IDREF" FILEID="alto_00120_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="240" ORDERLABEL="238" TYPE="page">
+        <fptr FILEID="tiff_00120_1"/>
+        <fptr FILEID="jp2_00120_1"/>
+        <fptr FILEID="alto_00120_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_240.2" BETYPE="IDREF" FILEID="alto_00120_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_240.3" BETYPE="IDREF" FILEID="alto_00120_1"/>
+              <area BEGIN="BL_240.4" BETYPE="IDREF" FILEID="alto_00120_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="241" ORDERLABEL="239" TYPE="page">
+        <fptr FILEID="tiff_00121_0"/>
+        <fptr FILEID="jp2_00121_0"/>
+        <fptr FILEID="alto_00121_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_241.3" BETYPE="IDREF" FILEID="alto_00121_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_241.2" BETYPE="IDREF" FILEID="alto_00121_0"/>
+              <area BEGIN="BL_241.4" BETYPE="IDREF" FILEID="alto_00121_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="242" ORDERLABEL="240" TYPE="page">
+        <fptr FILEID="tiff_00121_1"/>
+        <fptr FILEID="jp2_00121_1"/>
+        <fptr FILEID="alto_00121_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_242.2" BETYPE="IDREF" FILEID="alto_00121_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_242.3" BETYPE="IDREF" FILEID="alto_00121_1"/>
+              <area BEGIN="BL_242.4" BETYPE="IDREF" FILEID="alto_00121_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_242.6" BETYPE="IDREF" FILEID="alto_00121_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b238-8" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_238.11" BETYPE="IDREF" FILEID="alto_00119_1"/>
+            <area BEGIN="BL_239.1" BETYPE="IDREF" FILEID="alto_00120_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b237-8" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_237.7" BETYPE="IDREF" FILEID="alto_00119_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b240-6" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_240.6" BETYPE="IDREF" FILEID="alto_00120_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b240-7" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_240.7" BETYPE="IDREF" FILEID="alto_00120_1"/>
+            <area BEGIN="BL_241.1" BETYPE="IDREF" FILEID="alto_00121_0"/>
+            <area BEGIN="BL_242.1" BETYPE="IDREF" FILEID="alto_00121_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b242-4" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_242.5" BETYPE="IDREF" FILEID="alto_00121_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b238-5" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_238.5" BETYPE="IDREF" FILEID="alto_00119_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b238-7" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_238.10" BETYPE="IDREF" FILEID="alto_00119_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b238-6" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_238.8" BETYPE="IDREF" FILEID="alto_00119_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b239-6" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_239.5" BETYPE="IDREF" FILEID="alto_00120_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b239-7" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_239.6" BETYPE="IDREF" FILEID="alto_00120_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A6u" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_238.9" BETYPE="IDREF" FILEID="alto_00119_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b237-9" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_237.8" BETYPE="IDREF" FILEID="alto_00119_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b237-6" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_237.5" BETYPE="IDREF" FILEID="alto_00119_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b237-7" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_237.6" BETYPE="IDREF" FILEID="alto_00119_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b237-4" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_237.4" BETYPE="IDREF" FILEID="alto_00119_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b239-8" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_239.7" BETYPE="IDREF" FILEID="alto_00120_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b239-9" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_239.8" BETYPE="IDREF" FILEID="alto_00120_0"/>
+            <area BEGIN="BL_240.1" BETYPE="IDREF" FILEID="alto_00120_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b240-5" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_240.5" BETYPE="IDREF" FILEID="alto_00120_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ab0" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_238.6" BETYPE="IDREF" FILEID="alto_00119_1"/>
+            <area BEGIN="BL_238.7" BETYPE="IDREF" FILEID="alto_00119_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ABH" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_237.10" BETYPE="IDREF" FILEID="alto_00119_0"/>
+            <area BEGIN="BL_237.11" BETYPE="IDREF" FILEID="alto_00119_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b237-10" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_237.9" BETYPE="IDREF" FILEID="alto_00119_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b237-11" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_237.12" BETYPE="IDREF" FILEID="alto_00119_0"/>
+            <area BEGIN="BL_238.1" BETYPE="IDREF" FILEID="alto_00119_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

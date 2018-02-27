@@ -1,0 +1,385 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0027" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Parker v. Saline County">William PARKER v. SALINE COUNTY and Wayne BISHOP, Saline County Judge Willie G. BAKER, Ruth BAKER, George IVIR, and Randy BAILEY (Intervenors)</name>
+          <docketnumber>85-215</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 108</citation>
+          <citation category="parallel" type="bluebook">702 S.W.2d 7</citation>
+          <decisiondate>1986-01-27</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:00Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00067_1" MIMETYPE="image/tiff" CHECKSUM="19ee2d838e4d21162f59545c32d656ab" CHECKSUMTYPE="MD5" SIZE="23274">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00067_1.tif"/>
+      </file>
+      <file ID="tiff_00068_0" MIMETYPE="image/tiff" CHECKSUM="9a1bc086b300bf53f5e3333ac9bcff47" CHECKSUMTYPE="MD5" SIZE="40080">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00068_0.tif"/>
+      </file>
+      <file ID="tiff_00068_1" MIMETYPE="image/tiff" CHECKSUM="47d14ea3a8deaff62c783cdce8e07887" CHECKSUMTYPE="MD5" SIZE="43882">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00068_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00067_1" MIMETYPE="image/jp2" CHECKSUM="2659d1edd13eb33532d49738680a077d" CHECKSUMTYPE="MD5" SIZE="1858619">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00067_1.jp2"/>
+      </file>
+      <file ID="jp2_00068_0" MIMETYPE="image/jp2" CHECKSUM="1f0ddf0f8036bcc5e66539b3613da828" CHECKSUMTYPE="MD5" SIZE="2226332">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00068_0.jp2"/>
+      </file>
+      <file ID="jp2_00068_1" MIMETYPE="image/jp2" CHECKSUM="ac7fdbb4f60bd6bdebf7acdc667f5024" CHECKSUMTYPE="MD5" SIZE="2432402">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00068_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00067_1" MIMETYPE="text/xml" CHECKSUM="15a85bdf955f46327a298be4a52dd4a9" CHECKSUMTYPE="MD5" SIZE="35978">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00067_1.xml"/>
+      </file>
+      <file ID="alto_00068_0" MIMETYPE="text/xml" CHECKSUM="4872141c7f972d170da91316b2ea02ce" CHECKSUMTYPE="MD5" SIZE="67914">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00068_0.xml"/>
+      </file>
+      <file ID="alto_00068_1" MIMETYPE="text/xml" CHECKSUM="af213e3386ce9c8abb660cc0b4ff5131" CHECKSUMTYPE="MD5" SIZE="72375">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00068_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0027" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="108" lastpage="110">
+              <court pgmap="134" id="b134-10">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="134" id="b134-8">85-215</docketnumber>
+              <citation pgmap="134" id="b134-9">702 S.W.2d 7</citation>
+              <parties pgmap="134" id="b134-7">William PARKER v. SALINE COUNTY and Wayne BISHOP, Saline County Judge Willie G. BAKER, Ruth BAKER, George IVIR, and Randy BAILEY (Intervenors)</parties>
+              <decisiondate pgmap="134" id="Ao_">Opinion delivered January 27, 1986</decisiondate>
+              <judges pgmap="136" id="b136-8">Purtle, J., not participating.</judges>
+              <attorneys pgmap="135" id="b135-7">Dan Kroha, for appellant.</attorneys>
+              <attorneys pgmap="135" id="b135-8">Joe Kelly Hardin, for appellees.</attorneys>
+              <attorneys pgmap="135" id="b135-9">James L. Sloan, for intervenors.</attorneys>
+              <opinion type="majority">
+                <author pgmap="135" id="b135-10">Robert H. Dudley, Justice.</author>
+                <p pgmap="135" id="AFk">The incorporation of the Town of Alexander was granted in 18 87 by the County Court of Pulaski County. In 1982, the Town of Alexander, ex parte, petitioned the Circuit Court of Saline County for an order declaring that the town was incorporated in both Saline and Pulaski Counties. The petition was filed in order to obtain turnback funds from Saline County as well as from Pulaski County. Although there was no notice of any type, the Circuit Court granted the order and held that Alexander was incorporated in both counties. In 1984, appellant, William Parker, filed the instant suit against Saline County and the County Judge of Saline County. It was filed in the Chancery Court of Saline County and the prayer recites:</p>
+                <blockquote pgmap="135" id="b135-11">WHEREFORE, plaintiff prays that this Court im­mediately issue its Order declaring that the Saline County Circuit Court Order of May 17; 1982 is correct, that the corporate limits of Alexander extend into Saline County as shown by the plat filed with the Secretary of State, that the County Judge and his agents, servants and employees should recognize the established limits of Alexander, costs and all proper relief.</blockquote>
+                <p pgmap="135" id="b135-12">The Chancery Court took jurisdiction of the case and ruled that the County Judge would not be compelled to follow the Circuit Court order because Alexander exists only in Pulaski County. We reverse and remand since the Chancery Court was completely without subject matter jurisdiction.</p>
+                <p pgmap="135(23) 136(250)" id="b135-13">
+                   The petition praying that the County Judge be compelled to do an act is a petition for a writ of mandamus. A writ of mandamus is defined as “an order of the Circuit or Chancery Court granted upon the petition of an aggrieved party or the State when the public interest is affected, commanding an executive, judicial, or ministerial officer to perform an act, or to omit to do an act, the performance or omission of which is enjoined by law.” Ark. Stat. Ann. § 33-102 (Repl. 1962). Without question, we have often held that a county judge may be compelled by mandamus to perform an act. See, e.g., Merritt v. School District, 54 Ark. 468, 16 S.W. 287 (1891). However, that part of Ark. Stat. Ann. § 33-101 (Repl. 1962), which declares that the Chancery Court shall have subject matter jurisdiction to hear a petition for a writ of mandamus is unconstitutional. Nethercutt v. Pulaski County Special School Dist., 248 Ark. 143, 450 S.W.2d 111 (1970) overruling Higgins v. Barnhill, 218 Ark. 466, 236 S.W.2d 1011 (1951). The reason it is unconstitutional is the Arkansas Constitution gives the General Assembly the authority to create courts of chancery, but only authorizes the General Assembly to vest chancery courts with such jurisdiction as was known at the time the constitution was adopted, and the writ of mandamus was a common law writ, unknown to equity, at the time of the adoption of the Constitution of Arkansas. Nethercutt v. Pulaski County Special School Dist., supra. The Chancery Court, therefore, was wholly without subject matter jurisdiction to hear the petition in the case now before us.</p>
+                <p pgmap="136" id="b136-6">
+                   The decree rendered by a court wholly without subject matter jurisdiction is vacated and set aside, but the original petition is not dismissed. See Taylor v. Bay St. Francis Drainage District, 171 Ark. 285, 284 S.W. 770 (1926). The original petition may be transferred to circuit court.</p>
+                <p pgmap="136" id="b136-7">Reversed and remanded.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="134" ORDERLABEL="108" TYPE="page">
+        <fptr FILEID="tiff_00067_1"/>
+        <fptr FILEID="jp2_00067_1"/>
+        <fptr FILEID="alto_00067_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_134.2" BETYPE="IDREF" FILEID="alto_00067_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="135" ORDERLABEL="109" TYPE="page">
+        <fptr FILEID="tiff_00068_0"/>
+        <fptr FILEID="jp2_00068_0"/>
+        <fptr FILEID="alto_00068_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_135.2" BETYPE="IDREF" FILEID="alto_00068_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="136" ORDERLABEL="110" TYPE="page">
+        <fptr FILEID="tiff_00068_1"/>
+        <fptr FILEID="jp2_00068_1"/>
+        <fptr FILEID="alto_00068_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_136.2" BETYPE="IDREF" FILEID="alto_00068_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b135-7" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_135.7" BETYPE="IDREF" FILEID="alto_00068_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ao_" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_134.12" BETYPE="IDREF" FILEID="alto_00067_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b136-8" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_136.6" BETYPE="IDREF" FILEID="alto_00068_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b134-7" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_134.8" BETYPE="IDREF" FILEID="alto_00067_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b134-8" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_134.9" BETYPE="IDREF" FILEID="alto_00067_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b134-9" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_134.10" BETYPE="IDREF" FILEID="alto_00067_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b135-9" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_135.9" BETYPE="IDREF" FILEID="alto_00068_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b135-8" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_135.8" BETYPE="IDREF" FILEID="alto_00068_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b135-13" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_135.15" BETYPE="IDREF" FILEID="alto_00068_0"/>
+            <area BEGIN="BL_136.1" BETYPE="IDREF" FILEID="alto_00068_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b135-12" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_135.14" BETYPE="IDREF" FILEID="alto_00068_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b135-11" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_135.13" BETYPE="IDREF" FILEID="alto_00068_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b135-10" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_135.10" BETYPE="IDREF" FILEID="alto_00068_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b136-7" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_136.5" BETYPE="IDREF" FILEID="alto_00068_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b134-10" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_134.11" BETYPE="IDREF" FILEID="alto_00067_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AFk" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_135.11" BETYPE="IDREF" FILEID="alto_00068_0"/>
+            <area BEGIN="BL_135.12" BETYPE="IDREF" FILEID="alto_00068_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b136-6" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_136.4" BETYPE="IDREF" FILEID="alto_00068_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

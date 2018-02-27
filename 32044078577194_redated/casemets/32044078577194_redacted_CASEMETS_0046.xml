@@ -1,0 +1,583 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0046" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Jackson v. Clark">Cliff JACKSON v. The Honorable Steve CLARK, Attorney General</name>
+          <docketnumber>86-21</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 192</citation>
+          <citation category="parallel" type="bluebook">703 S.W.2d 454</citation>
+          <decisiondate>1986-02-10</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:00Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00110_1" MIMETYPE="image/tiff" CHECKSUM="d79a2602d093e650209c702f174c0b77" CHECKSUMTYPE="MD5" SIZE="13350">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00110_1.tif"/>
+      </file>
+      <file ID="tiff_00111_0" MIMETYPE="image/tiff" CHECKSUM="951fd04b3aead726d8f137dd9a08aa59" CHECKSUMTYPE="MD5" SIZE="44782">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00111_0.tif"/>
+      </file>
+      <file ID="tiff_00111_1" MIMETYPE="image/tiff" CHECKSUM="0bf5fe2500c5575b039a9db37c34e9d1" CHECKSUMTYPE="MD5" SIZE="49142">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00111_1.tif"/>
+      </file>
+      <file ID="tiff_00112_0" MIMETYPE="image/tiff" CHECKSUM="b6fc3e3d9772fa9c0f90cbdfee742fca" CHECKSUMTYPE="MD5" SIZE="53486">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00112_0.tif"/>
+      </file>
+      <file ID="tiff_00112_1" MIMETYPE="image/tiff" CHECKSUM="807044d27b0de4e4119f5a71e822288c" CHECKSUMTYPE="MD5" SIZE="53288">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00112_1.tif"/>
+      </file>
+      <file ID="tiff_00113_0" MIMETYPE="image/tiff" CHECKSUM="641dd1e6913d2e1fe040b2202e7c65ae" CHECKSUMTYPE="MD5" SIZE="39684">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00113_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00110_1" MIMETYPE="image/jp2" CHECKSUM="887a4909eb89e9da44b5c2cd571cd591" CHECKSUMTYPE="MD5" SIZE="1566028">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00110_1.jp2"/>
+      </file>
+      <file ID="jp2_00111_0" MIMETYPE="image/jp2" CHECKSUM="75de1b7723323550baa2532a13729e87" CHECKSUMTYPE="MD5" SIZE="2341339">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00111_0.jp2"/>
+      </file>
+      <file ID="jp2_00111_1" MIMETYPE="image/jp2" CHECKSUM="f64a5514bbd18565c12e0c631163b353" CHECKSUMTYPE="MD5" SIZE="2426146">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00111_1.jp2"/>
+      </file>
+      <file ID="jp2_00112_0" MIMETYPE="image/jp2" CHECKSUM="27ba55790a4107a8384feda3029e65b1" CHECKSUMTYPE="MD5" SIZE="2490760">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00112_0.jp2"/>
+      </file>
+      <file ID="jp2_00112_1" MIMETYPE="image/jp2" CHECKSUM="d3c5798120b6ed943d6803ff7d35eed9" CHECKSUMTYPE="MD5" SIZE="2535915">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00112_1.jp2"/>
+      </file>
+      <file ID="jp2_00113_0" MIMETYPE="image/jp2" CHECKSUM="9465bf65566e73660d91d01b3bb1d93f" CHECKSUMTYPE="MD5" SIZE="2392300">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00113_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00110_1" MIMETYPE="text/xml" CHECKSUM="5d57114b15b0cfeda0587fb6f33a6a97" CHECKSUMTYPE="MD5" SIZE="20591">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00110_1.xml"/>
+      </file>
+      <file ID="alto_00111_0" MIMETYPE="text/xml" CHECKSUM="7b35daefc8682e5a641e9d9ebd8e0510" CHECKSUMTYPE="MD5" SIZE="77033">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00111_0.xml"/>
+      </file>
+      <file ID="alto_00111_1" MIMETYPE="text/xml" CHECKSUM="896eb7272691b11fe8601f84276fa4a0" CHECKSUMTYPE="MD5" SIZE="69433">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00111_1.xml"/>
+      </file>
+      <file ID="alto_00112_0" MIMETYPE="text/xml" CHECKSUM="222552524f108c0d4699e196dae19884" CHECKSUMTYPE="MD5" SIZE="80644">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00112_0.xml"/>
+      </file>
+      <file ID="alto_00112_1" MIMETYPE="text/xml" CHECKSUM="bc39c9158a0805aa11cd6039e41e3984" CHECKSUMTYPE="MD5" SIZE="82455">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00112_1.xml"/>
+      </file>
+      <file ID="alto_00113_0" MIMETYPE="text/xml" CHECKSUM="ebceb31dd1d8bd0cfa0d8a4e76deca7b" CHECKSUMTYPE="MD5" SIZE="65748">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00113_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0046" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="192" lastpage="197">
+              <court pgmap="220" id="b220-8">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="220" id="b220-7">86-21</docketnumber>
+              <citation pgmap="220" id="AXh">703 S.W.2d 454</citation>
+              <parties pgmap="220" id="b220-6">Cliff JACKSON v. The Honorable Steve CLARK, Attorney General</parties>
+              <decisiondate pgmap="220" id="AVk">Opinion delivered February 10, 1986</decisiondate>
+              <judges pgmap="225" id="b225-11">Purtle, J., not participating.</judges>
+              <attorneys pgmap="221" id="b221-7">Cliff Jackson, for petitioner.</attorneys>
+              <attorneys pgmap="221" id="b221-8">Steve Clark, Att’y Gen., by: Mary B. Stallcup, Deputy Att’y Gen., for respondent.</attorneys>
+              <opinion type="majority">
+                <author pgmap="221" id="b221-9">Per Curiam.</author>
+                <p pgmap="221" id="AqC">The petitioner, Cliff Jackson, the sponsor of a proposed initiated act, submitted the proposed initiated act to respondent, the Attorney General, for certification of the ballot name and popular title, pursuant to Ark. Stat. Ann. § 2-208 (Supp. 1985). The respondent found the proposed popular name and ballot title to be insufficient and certified, instead, a revised popular name and ballot title. Petitioner now prays that this Court issue a writ of mandamus directing the respondent to certify the name and title as originally submitted or directing the respondent to reexamine the matter. We deny the writ.</p>
+                <p pgmap="221" id="b221-10">
+                   The standards used to determine the sufficiency of popular names and ballot titles are well established. In Bradley v. Hall, 220 Ark. 925, 251 S.W.2d 470 (1952), we stated:</p>
+                <blockquote pgmap="221" id="b221-11">Our decisions upon the sufficiency of ballot titles have been so numerous that the governing principles are per­fectly familiar. On the one hand, it is not required that the ballot title contain a synopsis of the amendment or statute. Sturdy v. Hall, 204 Ark. 785, 164 S.W.2d 884 (1942). It is sufficient for the title to be complete enough to convey an intelligible idea of the scope and import of the proposed law. Westbrook v. McDonald, 184 Ark. 740, 43 S.W.2d 356, 44 S.W.2d 331 (1931). We have recognized the impossibility of preparing a ballot title that would suit everyone. Hogan v. Hall, 198 Ark. 681, 130 S.W.2d 716 (1939). Yet, on the other hand, the ballot title must be free from ‘any misleading tendency, whether of amplification, of omission, or fallacy,’ and it must not be tinged with partisan coloring.</blockquote>
+                <p pgmap="221(32) 222(3)" id="b221-12">
+                   In the case of Arkansas Women’s Political Caucus v. Riviere, 283 Ark. 463, 677 S.W.2d 846 (1984), we held that the ballot title and popular title must be (1) intelligible; (2) honest; and (3) impartial.</p>
+                <p pgmap="222" id="b222-6">The popular name submitted by petitioner was:</p>
+                <blockquote pgmap="222" id="b222-7">An act to revoke Arkansas Power and Light’s franchise and exclusive territory; to establish procedures, require­ments and guidelines for award of revoked public utility franchises to new franchisees; to provide for a rate-making process free and independent of closed-door deal-making and influence-peddling; to prohibit future franchisees from charging ratepayers for legal, lobbying and advertising (except public notices) expenses; and to provide for exclu­sive jurisdiction in chancery court of taxpayers’ illegal exaction lawsuits challenging rate increases.</blockquote>
+                <p pgmap="222" id="b222-8">The popular name certified by respondent is:</p>
+                <blockquote pgmap="222" id="b222-9">An act to revoke Arkansas Power and Light’s franchise and exclusive territory; to establish procedures, require­ments and guidelines for award of revoked public utility franchises to new franchisees; to prohibit closed-door settlement conferences involving more than two parties to a ratemaking proceeding and attempts to influence the ratemaking process outside normal legal channels; to prohibit future franchisees from charging rate-payers for legal, lobbying and advertising (except public notices) expenses; and to provide for exclusive jurisdiction in Chancery Court of taxpayers’ illegal exaction lawsuits challenging rate increases.</blockquote>
+                <p pgmap="222" id="b222-10">
+                   In applying the standards for a popular name, the respondent obviously determined that the phrases “closed-door deal-making” and “influence-peddling” amounted to partisan coloring and substituted the phrase “to prohibit closed-door settlement conferences involving more than two parties to a ratemaking proceeding and attempts to influence the ratemaking process outside normal legal channels.” The respondent was unquestionably correct. The phrases, as originally submitted, were clearly calculated to influence voters to support the proposed initiated act. The respondent’s certified ballot name does not contain the partisan coloring.</p>
+                <p pgmap="222" id="b222-11">The same changes were made by the respondent in the ballot title. The proposed ballot title was as follows:</p>
+                <blockquote pgmap="223" id="b223-5">An Act to Affirm the People’s Right to Revoke and Modify the Franchises and Exclusive Territories of Public Utilities and Cooperatives for Just Cause Upon Approval by a Majority of Votes in a Regular Election and to Award the Same to New Franchisee(s); to Make a Finding That Arkansas Power and Light Company Has Violated its Franchise by Misuse and to Revoke and Rescind the Franchise and Exclusive Territory of Arkansas Power and Light Company; to Provide for Interim Service by Arkan­sas Power and Light Company Until Such Time as a New Franchise is Awarded; to Provide for a Residual Franchise to Allow Arkansas Power and Light Company to Make Full Use of Its Property Which is Not Acquired or Condemned; to Authorize and Direct the Arkansas Public Service Commission to Award Any Revoked Franchises and Exclusive Territories of Public Utilities to New Franchisee(s) After Obtaining Competitive Bids and Con­ducting Public Hearings; to Establish Guidelines and Procedures for Submission of Bids by Prospective Fran­chisee^) and for the Award of New Public Utility Franchises by the Arkansas Public Service Commission; to Prohibit All New Public Utility Franchisee(s) Hereafter Awarded Revoked Franchises from Affiliating with a Multi-State Conglomerate or Engaging in Out-of-State Construction of Power Plants Without a Prior Three-­Fourths Vote of the General Assembly; to Prohibit Utili­ties Awarded Future Franchises From Charging Ratepay­ers for Legal, Lobbying and Advertising (Except Public Notices) Expenses; to Establish Additional Specific Con­siderations for Commission Evaluation in Awarding New Franchises; to Confer Upon the New Franchisee(s) the Power of Eminent Domain to Condemn Property of the Revoked Franchisee and Others and to Prescribe the Use of Such Power; to Prohibit Closed-Door Deal-Making and Influence-Peddling in Utility Rate Cases and to Provide for a Civil Fine of Not Less Than $5,000.00 or More Than $ 10,000.00 and, If a Public Official, Removal From Office, As a Penalty For the Same; to Provide for Exclusive Jurisdiction in Chancery Court For Taxpayers’ Illegal Exaction Lawsuits Challenging Rate Increases; and for Other Purposes.</blockquote>
+                <blockquote pgmap="224" id="b224-4">(Emphasis added.)</blockquote>
+                <p pgmap="224" id="b224-5">The ballot title as certified is:</p>
+                <blockquote pgmap="224(337) 225(22)" id="b224-6">An act to affirm the people’s right to revoke and modify the franchises and exclusive territories of public utilities and cooperatives for just cause upon approval by a majority of votes in a regular election and to award the same to new franchisee(s); to make a finding that Arkansas Power and Light Company has violated its franchise by misuse and to revoke and rescind the franchise and exclusive territory of Arkansas Power and Light Company; to provide for interim service by Arkansas Power and Light Company until such time as a new franchise is awarded; to provide for a residual franchise to allow Arkansas Power and Light Company to make full use of its property which is not acquired or condemned; to authorize and direct the Arkan­sas Public Service Commission to award any revoked franchises and exclusive territories of public utilities to new franchisee(s) after obtaining competitive bids and conducting public hearings; to establish guidelines and procedures for submission of bids by prospective fran­chisee^) and for the award of new public utility franchises by the Arkansas Public Service Commission; to prohibit all new public utility franchisee(s) hereafter awarded revoked franchises from affiliating with a multi-state conglomerate or engaging in out-of-state construction of power plants without a prior three-fourths vote of the General Assem­bly; to prohibit utilities awarded future franchises from charging ratepayers for legal, lobbying and advertising (except public notices) expenses; to establish additional specific considerations for Commission evaluation in awarding new franchises; to confer upon the new fran­chisee^) the power of eminent domain to condemn prop­erty of the revoked franchisee and others and to prescribe the use of such power; to prohibit closed-door settlement conferences involving more than two parties to a ratemak-­ing proceeding and attempts to influence the ratemaking process outside normal legal channelsfor personal, politi­cal, financial or economic gain and to provide for a civil fine of not less than $5,000.00 or more than $10,000.00 and, if a public official, removal from office, as a penalty for the same; to provide for exclusive jurisdiction in chancery court for taxpayers’ illegal exaction lawsuits challenging rate increases; and for other purposes.</blockquote>
+                <blockquote pgmap="225" id="b225-6">(Emphasis added.)</blockquote>
+                <p pgmap="225" id="b225-7">The action of the respondent in changing the ballot was appropriate.</p>
+                <p pgmap="225" id="b225-8">
+                   The petitioner next contends that the popular name and ballot title are too lengthy as certified by respondent. In Dust v. Riviere, 277 Ark. 1, 638 S.W.2d 663 (1982), we stated that the length of a ballot title “could be a serious objection because the law recognizes that an elector’s time is limited in occupying a voting booth.” The approved title in Dust exceeded 700 words, while this certified ballot title is comprised of only 353 words and the title as proposed by petitioner contained 339 words. We have previously approved a ballot title containing 735 words. Newton v. Hall, 196 Ark. 929, 120 S.W.2d 364 (1938). The certified ballot is not unduly cumbersome.</p>
+                <p pgmap="225" id="b225-9">This action was filed in this Court as an original action. The sole issue is whether the Attorney General’s refusal to certify the popular name and ballot title, as submitted by petitioner, was erroneous. .See Ark. Stat. Ann. § 2-208 (Supp. 1985). The action, solely between petitioner and respondent, has been heard on an expediated basis. Other parties who may be interested have not been given an opportunity to contest the validity of the popular name or ballot title and, consequently, this matter of public interest has not been decided on a fully adjudicated basis. Therefore, this opinion shall not prevent other interested parties from contesting the validity of the certified popular name or ballot title.</p>
+                <p pgmap="225" id="b225-10">Writ denied.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="220" ORDERLABEL="192" TYPE="page">
+        <fptr FILEID="tiff_00110_1"/>
+        <fptr FILEID="jp2_00110_1"/>
+        <fptr FILEID="alto_00110_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_220.2" BETYPE="IDREF" FILEID="alto_00110_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="221" ORDERLABEL="193" TYPE="page">
+        <fptr FILEID="tiff_00111_0"/>
+        <fptr FILEID="jp2_00111_0"/>
+        <fptr FILEID="alto_00111_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_221.3" BETYPE="IDREF" FILEID="alto_00111_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="222" ORDERLABEL="194" TYPE="page">
+        <fptr FILEID="tiff_00111_1"/>
+        <fptr FILEID="jp2_00111_1"/>
+        <fptr FILEID="alto_00111_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_222.2" BETYPE="IDREF" FILEID="alto_00111_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="223" ORDERLABEL="195" TYPE="page">
+        <fptr FILEID="tiff_00112_0"/>
+        <fptr FILEID="jp2_00112_0"/>
+        <fptr FILEID="alto_00112_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_223.2" BETYPE="IDREF" FILEID="alto_00112_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="224" ORDERLABEL="196" TYPE="page">
+        <fptr FILEID="tiff_00112_1"/>
+        <fptr FILEID="jp2_00112_1"/>
+        <fptr FILEID="alto_00112_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_224.1" BETYPE="IDREF" FILEID="alto_00112_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="225" ORDERLABEL="197" TYPE="page">
+        <fptr FILEID="tiff_00113_0"/>
+        <fptr FILEID="jp2_00113_0"/>
+        <fptr FILEID="alto_00113_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_225.3" BETYPE="IDREF" FILEID="alto_00113_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AqC" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_221.9" BETYPE="IDREF" FILEID="alto_00111_0"/>
+            <area BEGIN="BL_221.10" BETYPE="IDREF" FILEID="alto_00111_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b221-9" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_221.8" BETYPE="IDREF" FILEID="alto_00111_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b221-8" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_221.7" BETYPE="IDREF" FILEID="alto_00111_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b225-7" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_225.5" BETYPE="IDREF" FILEID="alto_00113_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b225-9" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_225.7" BETYPE="IDREF" FILEID="alto_00113_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b225-8" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_225.6" BETYPE="IDREF" FILEID="alto_00113_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b223-5" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_223.3" BETYPE="IDREF" FILEID="alto_00112_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b224-6" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_224.5" BETYPE="IDREF" FILEID="alto_00112_1"/>
+            <area BEGIN="BL_225.1" BETYPE="IDREF" FILEID="alto_00113_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b221-7" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_221.6" BETYPE="IDREF" FILEID="alto_00111_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b224-4" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_224.3" BETYPE="IDREF" FILEID="alto_00112_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b224-5" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_224.4" BETYPE="IDREF" FILEID="alto_00112_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b220-6" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_220.7" BETYPE="IDREF" FILEID="alto_00110_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b220-7" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_220.8" BETYPE="IDREF" FILEID="alto_00110_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b225-10" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_225.8" BETYPE="IDREF" FILEID="alto_00113_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b222-6" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_222.4" BETYPE="IDREF" FILEID="alto_00111_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b222-7" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_222.5" BETYPE="IDREF" FILEID="alto_00111_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b222-8" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_222.6" BETYPE="IDREF" FILEID="alto_00111_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b222-9" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_222.7" BETYPE="IDREF" FILEID="alto_00111_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b220-8" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_220.10" BETYPE="IDREF" FILEID="alto_00110_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b222-10" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_222.8" BETYPE="IDREF" FILEID="alto_00111_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b225-11" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_225.9" BETYPE="IDREF" FILEID="alto_00113_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b222-11" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_222.9" BETYPE="IDREF" FILEID="alto_00111_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AXh" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_220.9" BETYPE="IDREF" FILEID="alto_00110_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b225-6" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_225.4" BETYPE="IDREF" FILEID="alto_00113_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AVk" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_220.11" BETYPE="IDREF" FILEID="alto_00110_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b221-12" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_221.13" BETYPE="IDREF" FILEID="alto_00111_0"/>
+            <area BEGIN="BL_222.1" BETYPE="IDREF" FILEID="alto_00111_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b221-11" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_221.12" BETYPE="IDREF" FILEID="alto_00111_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b221-10" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_221.11" BETYPE="IDREF" FILEID="alto_00111_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

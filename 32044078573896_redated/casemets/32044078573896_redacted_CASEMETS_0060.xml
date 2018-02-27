@@ -1,0 +1,483 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0060" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Chatten v. Heffley">Chatten et al. vs. Heffley, use, etc.</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 313</citation>
+          <decisiondate>1860-07</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00158_0" MIMETYPE="image/tiff" CHECKSUM="79450107546ee7e3b84fa64fb9a44000" CHECKSUMTYPE="MD5" SIZE="29426">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00158_0.tif"/>
+      </file>
+      <file ID="tiff_00158_1" MIMETYPE="image/tiff" CHECKSUM="55d1c6ddaa8f6020f0d5a2efa3ae450d" CHECKSUMTYPE="MD5" SIZE="46358">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00158_1.tif"/>
+      </file>
+      <file ID="tiff_00159_0" MIMETYPE="image/tiff" CHECKSUM="4eca5b7b8c15691ee5224a9320ee4299" CHECKSUMTYPE="MD5" SIZE="49886">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00159_0.tif"/>
+      </file>
+      <file ID="tiff_00159_1" MIMETYPE="image/tiff" CHECKSUM="c721d4775331b004bdba6f0e16e9ec1f" CHECKSUMTYPE="MD5" SIZE="24896">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00159_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00158_0" MIMETYPE="image/jp2" CHECKSUM="8dd1e1105e045c108d804b1dce974670" CHECKSUMTYPE="MD5" SIZE="2615371">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00158_0.jp2"/>
+      </file>
+      <file ID="jp2_00158_1" MIMETYPE="image/jp2" CHECKSUM="86662e1e396c06a1f89adb25dae5e1d8" CHECKSUMTYPE="MD5" SIZE="2595846">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00158_1.jp2"/>
+      </file>
+      <file ID="jp2_00159_0" MIMETYPE="image/jp2" CHECKSUM="6b50f2baf1090f236d0beb7b1c6e3492" CHECKSUMTYPE="MD5" SIZE="2650331">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00159_0.jp2"/>
+      </file>
+      <file ID="jp2_00159_1" MIMETYPE="image/jp2" CHECKSUM="171d4b87be3cbbce2cc9d1f1b822c0c6" CHECKSUMTYPE="MD5" SIZE="2395519">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00159_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00158_0" MIMETYPE="text/xml" CHECKSUM="ecd7341f8bfb7af7659595912ff98f01" CHECKSUMTYPE="MD5" SIZE="56949">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00158_0.xml"/>
+      </file>
+      <file ID="alto_00158_1" MIMETYPE="text/xml" CHECKSUM="b6ff1952e0a2267655f05b7dd099de68" CHECKSUMTYPE="MD5" SIZE="87389">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00158_1.xml"/>
+      </file>
+      <file ID="alto_00159_0" MIMETYPE="text/xml" CHECKSUM="21fd4164edf81d213d3cd94b3cde2d4c" CHECKSUMTYPE="MD5" SIZE="99478">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00159_0.xml"/>
+      </file>
+      <file ID="alto_00159_1" MIMETYPE="text/xml" CHECKSUM="01f5f8294a0c002737f58e1b8c7bafb0" CHECKSUMTYPE="MD5" SIZE="47328">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00159_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0060" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="316" firstpage="313">
+              <parties id="b315-9" pgmap="315">Chatten et al. vs. Heffley, use, etc.</parties>
+              <attorneys id="b316-4" pgmap="316">J. M. Smith, for the appellant,</attorneys>
+              <attorneys id="b316-5" pgmap="316">Jordan, for the appellee,</attorneys>
+              <summary id="b315-11" pgmap="315">Appeal from Saline Circuit Court.</summary>
+              <summary id="b315-12" pgmap="315">Hon. John J; Clendenin, Circuit Judge.</summary>
+              <summary id="AZv" pgmap="316">contended that this case is one of contract, where the sum in controversy exceeds one hundred dollars — the agreement to pay ten per cent, interest being as much a part of the contract as the agreement to pay the principal debt, both agreements constituting one entire contract; and referred to Walker vs. Byrd et al., 15 Ark. 38; Howell vs. Milligan, 13 lb. 42; Henry vs. Ward, 4 lb. 151. In the cases of Fisher vs. Hall 4* Childress, 1 Ark. 275; Heilman vs. Martin, 2 lb. 172; and Dillard vs. Noel, lb. 457, there was no contract at all to pay interest; the sum in controversy, in those cases, was the amount agreed tó be paid, the interest accrued by operation of law, and was but an incident to the contract, and not'a part of it, whilst, in this case, the contract embraces both principal and interest.</summary>
+              <summary id="As-" pgmap="316">referred to the cases of Fisher vs. Hall Childress, 1 Ark. 275; Berry.vs. Linton, lb.-252; Heilman vs. Martin, 2 Ark. 158; Dillard vs. Noel, lb. 449;- Moore vs. Woodruff, 5 Ark. 215; Martin et al. vs. Foreman, 4 Eng. 465.</summary>
+              <headnotes id="b315-10" pgmap="315">Justices of the peace have jurisdiction in actions of contract, where the sum in controversy is one hundred dollars, or less, excluding the interest, whether the contract be for legal or conventional interest.</headnotes>
+              <opinion type="majority">
+                <author id="b316-6" pgmap="316">Mr. Chief Justice English</author>
+                <p id="Ags" pgmap="316">delivered the opinion of the Court.</p>
+                <p id="b316-7" pgmap="316">On the 20th April, 1857, Heffley, use of Milliner, commenced suit against Chatten, before a justice of the peace of Saline county, on the following note:</p>
+                <blockquote id="b316-8" pgmap="316">“ For value received, I promise to pay Henry W. Heffley, or bearer, one hundred dollars, by the first day of January, 1857, bearing ten per cent, from date. April 5th, 1856..</blockquote>
+                <blockquote id="b316-9" pgmap="316">G. W. CHATTEN.” '</blockquote>
+                <p id="b316-10" pgmap="316">Heffley obtained judgment before the justice of the peace for $100 debt, and $11 43 damages, and Chatten appealed to the Circuit Court of Saline county.</p>
+                <p id="b316-11" pgmap="316(47) 317(30)">In the Circuit Court, Chatten filed a motion to dismiss the case for want of jurisdiction, on the ground that the sum in controversy, exceeded one'hundred dollars. The court over­ruled the motion, and, Chatten declining to make further defence, judgment was rendered against him and Crawford, his security in the appeal bond, for the amount of the note sued on as debt, and the interest due thereon as damages, etc., and they appealed to this court.</p>
+                <p id="b317-5" pgmap="317">It has been long and well settled by the decisions of this Court, that the Circuit Court has jurisdiction where the sum in controversy is over one hundred dollars, excluding interest; and that where the sum in controversy is one hundred dollars, or less, excluding interest, the jurisdiction belongs to a justice of the peace. That the interest is not to be added to the prin­cipal in order to give jurisdiction to the Circuit Court, or to defeat the jurisdiction of the justice of the peace. Constitution Ark. Article vi. sec. 3, 15; Dig. ch. 95, part 2, sec. 1; Fisher vs. Hall et al. 1 Ark, 275; Heilman vs. Martin, 2 Ark. 171; ib. 449; Wilson vs. Mason et al. 3 ib. 494.</p>
+                <p id="b317-6" pgmap="317">It is insisted by the counsel for the appellants that these decis­ions apply to contracts bearing the legal rate of interest, and not to such as bear conventional interest. That the former follows as a legal consequence of the contract, and the latter is stipulated for in the contract, and forms a part of it.</p>
+                <p id="b317-7" pgmap="317">It is true that the decisions appear to have been made in cases where the contracts bearing the legal rate of interest were the subjects of the suits, but the decisions do not appear to have turned upon that fact.</p>
+                <p id="b317-8" pgmap="317">Whether the rate of interest be fixed by the law, or agreed upon by the parties, it is, still, but interest — it is but an increase or fruit of the principal debt, and there is no good reason, upon principle, why a justice of the peace should have jurisdiction of a debt of $100, drawing six per cent, interest, and should not have jurisdiction of a debt of the same amount bearing a greater rate of interest. If the interest may be added to the principal to defeat the jurisdiction of the justice, and transfer it to the Circuit Court in the latter case, why not in the former?</p>
+                <p id="b317-9" pgmap="317(47) 318(42)">If the amount of debt demanded be regarded, in all cases, as the criterion of jurisdiction, there is no difficulty in determining whether the suit must be brought before a justice of the peace or in the Circuit Court; but if the jurisdiction is made to depend upon the amount of interest which has or may accumulate upon the debt, it would be contingent, floating, and in some instances the creditor might be in doubt as to the forum in which he should seek his remedy. (13 Ark. 40.)</p>
+                <p id="b318-6" pgmap="318">The judgment must be affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="315" ORDERLABEL="313" TYPE="page">
+        <fptr FILEID="tiff_00158_0"/>
+        <fptr FILEID="jp2_00158_0"/>
+        <fptr FILEID="alto_00158_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_315.3" BETYPE="IDREF" FILEID="alto_00158_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_315.2" BETYPE="IDREF" FILEID="alto_00158_0"/>
+              <area BEGIN="BL_315.4" BETYPE="IDREF" FILEID="alto_00158_0"/>
+              <area BEGIN="BL_315.14" BETYPE="IDREF" FILEID="alto_00158_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_315.9" BETYPE="IDREF" FILEID="alto_00158_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="316" ORDERLABEL="314" TYPE="page">
+        <fptr FILEID="tiff_00158_1"/>
+        <fptr FILEID="jp2_00158_1"/>
+        <fptr FILEID="alto_00158_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_316.1" BETYPE="IDREF" FILEID="alto_00158_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_316.2" BETYPE="IDREF" FILEID="alto_00158_1"/>
+              <area BEGIN="BL_316.3" BETYPE="IDREF" FILEID="alto_00158_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="317" ORDERLABEL="315" TYPE="page">
+        <fptr FILEID="tiff_00159_0"/>
+        <fptr FILEID="jp2_00159_0"/>
+        <fptr FILEID="alto_00159_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_317.3" BETYPE="IDREF" FILEID="alto_00159_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_317.2" BETYPE="IDREF" FILEID="alto_00159_0"/>
+              <area BEGIN="BL_317.4" BETYPE="IDREF" FILEID="alto_00159_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="318" ORDERLABEL="316" TYPE="page">
+        <fptr FILEID="tiff_00159_1"/>
+        <fptr FILEID="jp2_00159_1"/>
+        <fptr FILEID="alto_00159_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_318.2" BETYPE="IDREF" FILEID="alto_00159_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_318.3" BETYPE="IDREF" FILEID="alto_00159_1"/>
+              <area BEGIN="BL_318.4" BETYPE="IDREF" FILEID="alto_00159_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_318.6" BETYPE="IDREF" FILEID="alto_00159_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="As-" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_316.8" BETYPE="IDREF" FILEID="alto_00158_1"/>
+            <area BEGIN="BL_316.9" BETYPE="IDREF" FILEID="alto_00158_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b315-9" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_315.10" BETYPE="IDREF" FILEID="alto_00158_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ags" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_316.11" BETYPE="IDREF" FILEID="alto_00158_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AZv" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_316.5" BETYPE="IDREF" FILEID="alto_00158_1"/>
+            <area BEGIN="BL_316.6" BETYPE="IDREF" FILEID="alto_00158_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b317-6" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_317.6" BETYPE="IDREF" FILEID="alto_00159_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b318-6" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_318.5" BETYPE="IDREF" FILEID="alto_00159_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b316-10" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_316.15" BETYPE="IDREF" FILEID="alto_00158_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b317-8" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_317.8" BETYPE="IDREF" FILEID="alto_00159_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b317-5" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_317.5" BETYPE="IDREF" FILEID="alto_00159_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b315-12" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_315.13" BETYPE="IDREF" FILEID="alto_00158_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b315-11" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_315.12" BETYPE="IDREF" FILEID="alto_00158_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b315-10" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_315.11" BETYPE="IDREF" FILEID="alto_00158_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b316-4" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_316.4" BETYPE="IDREF" FILEID="alto_00158_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b316-5" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_316.7" BETYPE="IDREF" FILEID="alto_00158_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b316-6" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_316.10" BETYPE="IDREF" FILEID="alto_00158_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b316-7" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_316.12" BETYPE="IDREF" FILEID="alto_00158_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b316-8" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_316.13" BETYPE="IDREF" FILEID="alto_00158_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b316-9" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_316.14" BETYPE="IDREF" FILEID="alto_00158_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b316-11" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_316.16" BETYPE="IDREF" FILEID="alto_00158_1"/>
+            <area BEGIN="BL_317.1" BETYPE="IDREF" FILEID="alto_00159_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b317-9" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_317.9" BETYPE="IDREF" FILEID="alto_00159_0"/>
+            <area BEGIN="BL_318.1" BETYPE="IDREF" FILEID="alto_00159_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b317-7" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_317.7" BETYPE="IDREF" FILEID="alto_00159_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

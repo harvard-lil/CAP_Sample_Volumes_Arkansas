@@ -1,0 +1,556 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0006" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Young v. Young">Marvin Henry YOUNG v. Linda Joyce YOUNG</name>
+          <docketnumber>85-186</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 33</citation>
+          <citation category="parallel" type="bluebook">701 S.W.2d 369</citation>
+          <decisiondate>1986-01-13</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:00Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00030_0" MIMETYPE="image/tiff" CHECKSUM="fe962f341fa09f8181b3f701ad676a53" CHECKSUMTYPE="MD5" SIZE="6524">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00030_0.tif"/>
+      </file>
+      <file ID="tiff_00030_1" MIMETYPE="image/tiff" CHECKSUM="b9b9ff553b78cc9a33d98203a25aef17" CHECKSUMTYPE="MD5" SIZE="46602">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00030_1.tif"/>
+      </file>
+      <file ID="tiff_00031_0" MIMETYPE="image/tiff" CHECKSUM="21190cd56801d80e310486b4b450ffe7" CHECKSUMTYPE="MD5" SIZE="52414">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00031_0.tif"/>
+      </file>
+      <file ID="tiff_00031_1" MIMETYPE="image/tiff" CHECKSUM="feddb3a13301f7bb3a2ede1f9300fe57" CHECKSUMTYPE="MD5" SIZE="54066">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00031_1.tif"/>
+      </file>
+      <file ID="tiff_00032_0" MIMETYPE="image/tiff" CHECKSUM="0b793dead00df7b21b3f91577edbc6d1" CHECKSUMTYPE="MD5" SIZE="31836">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00032_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00030_0" MIMETYPE="image/jp2" CHECKSUM="813384d326a65f737398d19b86396c39" CHECKSUMTYPE="MD5" SIZE="1186298">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00030_0.jp2"/>
+      </file>
+      <file ID="jp2_00030_1" MIMETYPE="image/jp2" CHECKSUM="b17cca5d22266d52a0e6b39a54b16ca3" CHECKSUMTYPE="MD5" SIZE="2369916">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00030_1.jp2"/>
+      </file>
+      <file ID="jp2_00031_0" MIMETYPE="image/jp2" CHECKSUM="8efd6ed9282fab91b2feb87f162e7590" CHECKSUMTYPE="MD5" SIZE="2587025">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00031_0.jp2"/>
+      </file>
+      <file ID="jp2_00031_1" MIMETYPE="image/jp2" CHECKSUM="758cd66e43607865b53b26b244ef9f78" CHECKSUMTYPE="MD5" SIZE="2535374">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00031_1.jp2"/>
+      </file>
+      <file ID="jp2_00032_0" MIMETYPE="image/jp2" CHECKSUM="3449d6e8f4e9a947563571d2aa258ea3" CHECKSUMTYPE="MD5" SIZE="2416824">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00032_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00030_0" MIMETYPE="text/xml" CHECKSUM="82f1e6692886fa5a06a879f16ca064ff" CHECKSUMTYPE="MD5" SIZE="7143">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00030_0.xml"/>
+      </file>
+      <file ID="alto_00030_1" MIMETYPE="text/xml" CHECKSUM="24c92f08905d0e9af7ced7570661755c" CHECKSUMTYPE="MD5" SIZE="75008">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00030_1.xml"/>
+      </file>
+      <file ID="alto_00031_0" MIMETYPE="text/xml" CHECKSUM="34ccbdc41c7ba5ed96c3d15758dd448f" CHECKSUMTYPE="MD5" SIZE="85850">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00031_0.xml"/>
+      </file>
+      <file ID="alto_00031_1" MIMETYPE="text/xml" CHECKSUM="e6e43ce06e32094de43fc226536c6b23" CHECKSUMTYPE="MD5" SIZE="92601">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00031_1.xml"/>
+      </file>
+      <file ID="alto_00032_0" MIMETYPE="text/xml" CHECKSUM="295b71c618dcb7cfcd273ba06039b023" CHECKSUMTYPE="MD5" SIZE="51310">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00032_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0006" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="33" lastpage="37">
+              <court pgmap="59" id="b59-4">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="59" id="Aq">85-186</docketnumber>
+              <citation pgmap="59" id="AHZ">701 S.W.2d 369</citation>
+              <parties pgmap="59" id="b59-3">Marvin Henry YOUNG v. Linda Joyce YOUNG</parties>
+              <decisiondate pgmap="59" id="Anr">Opinion delivered January 13, 1986</decisiondate>
+              <judges pgmap="63" id="b63-8">Purtle, J., not participating.</judges>
+              <judges pgmap="63" id="b63-9">Hickman, J., dissents.</judges>
+              <attorneys pgmap="60" id="b60-8">Janice Williams Wheeler, for appellant.</attorneys>
+              <attorneys pgmap="60" id="b60-9">Wright &amp; Chaney, P.A., by: Travis R. Berry, for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="60" id="b60-10">Steele Hays, Justice.</author>
+                <p pgmap="60" id="Ap8">The primary issue to be decided in this divorce suit is the proper disposition of military retirement pay under Ark. Stat. Ann. § 34-1214(A)(l). Jurisdiction rests on Rule 29(l)(c).</p>
+                <p pgmap="60" id="b60-11">Appellant Marvin Young and appellee Linda Young were married in January 1963 and lived together as husband and wife until October, 1984. Marvin Young had been in the United States Air Force from January 1960 until his retirement in January, 1980. In October, 1984 Linda Young filed for divorce. Marvin Young did not contest Linda’s divorce suit in October 1984. He asked the court to divide the property in accordance with Arkansas law. The court granted the divorce and divided the property of the parties including Marvin Young’s military retirement pay, finding it marital property in accordance with our decision in Day v. Day, 281 Ark. 261, 663 S.W.2d 719 (1984). The court divided the military pension proportionately to the number of years of marriage that coincided with Marvin Young’s military service, the method approved in Marshall v. Marshall, 285 Ark. 426, 688 S.W.2d 279 (1985).</p>
+                <p pgmap="60" id="b60-12">In Womack v. Womack, 16 Ark. App. 139 (1985), a case factually very similar to the one before us, the question of the disposition of a military pension was at issue. The Court of Appeals found that Day and its progeny had established that military retirement benefits constitute marital property and our prior holding on that subject in Paulsen v. Paulsen, 269 Ark. 523, 601 S.W.2d 873 (1980), was effectively overruled in Day, supra, Marshall, supra, and Gentry v. Gentry, 282 Ark. 413, 668 S.W.2d 947 (1984). We find nothing in appellant’s argument to warrant a contrary finding.</p>
+                <p pgmap="60(20) 61(57)" id="b60-13">The appellant raises two arguments aside from the military aspect of the pension, contending there was error in the court’s finding the pension was marital property. He first argues that because he entered the service prior to his marriage, under Ark. Stat. Ann. § 34-1214(B)(2), the pension represents only an increase in value of property acquired prior to the marriage and is not included in the definition of marital property. There is no merit to this argument.</p>
+                <p pgmap="61" id="b61-6">
+                   If we were to adopt appellant’s argument it would be in conflict with our reasoning in Day. There we recognized the basis for a spouse’s right to retirement benefits was based on the fact that the employment compensation of one spouse was acquired through the mutual efforts of both parties and that inequity would result if we failed to recognize the growing significance pensions have played as part of the consideration for employment. In Marshall, we did recognize the separate nature of retirement benefits accrued prior to marriage, but we also reaffirmed our holding in Day that subsequent benefits accrued during marriage were marital property. Appellant has simply mischaracterized those benefits accrued during marriage as being only an increase in his separate property and chosen to ignore in his argument that those benefits were marital property, a result of mutual efforts of both parties as we have already held in Day.</p>
+                <p pgmap="61" id="b61-7">Appellant also argues that this case is distinguishable from Day because the pension plan here is a noncontributory one. In Day we said:</p>
+                <blockquote pgmap="61" id="b61-8">Dr. Day has used part of the family’s money to buy the annuities he now seeks to exempt from their proper classification as marital property. Under the law, however, we must recognize that Mrs. Day also contributed to the acquisition of the annuities by service as a homemaker and by bearing the six children and bringing them up.</blockquote>
+                <p pgmap="61" id="b61-9">Appellant points out that unlike Day, no family funds were channeled into a retirement fund in this case.</p>
+                <p pgmap="61(59) 62(78)" id="b61-10">
+                   This argument overlooks the fact that although the plan was noncontributory, the pension was in effect, part of the consideration of his employment contract with the military, a wage substitute. As it was consideration earned during the marriage, it constitutes marital property. Ark. Stat. Ann. § 34-­1214(B). This is the majority view. See, Ohm v. Ohm, 49 Md.Ap. 392, 431 A.2d 1371 (1981); In Re Marriage of Hunt, 78 Ill.App.3d 653, 34 Ill.Dec. 55, 397 N.E.2d 511 (1979); Matter of Rogers v. Rogers, 45 Or.App. 885, 609 P.2d 877 (1980); Damiano v. Damiano, 94 App.Div.2d 132, 463 N.Y.S.2d 477 (1983). “Even where contributions have been made entirely by the employer, the courts have concluded that retirement benefits are a mode of employee compensation and as such are an earned property right of the marriage.” Rogers, supra.</p>
+                <p pgmap="62" id="b62-6">
+                   As we concluded in Day, “What we do hold is simply that earnings or other property acquired by each spouse must be treated as marital property unless falling within one of the statutory exceptions, and neither one can deprive the other of any interest in such property by putting it temporarily beyond his or her own control, as by the purchase of annuities, participation in a retirement plan or other device for postponing full enjoyment of the property.”</p>
+                <p pgmap="62" id="b62-7">
+                   As a final point, appellant contends the court below made an unequal division of the marital property. Ark. Stat. Ann. § 34-1214(A)(1) requires that all marital property shall be distributed equally unless the court finds such a distribution to be inequitable, taking into consideration certain enumerated fac­tors. When the court does make an unequal division, it must state its reasons for doing so.</p>
+                <p pgmap="62" id="b62-8">There was no statement by the court that an unequal division of marital property was being made, nor any statement pertain­ing to the manner of division other than a listing by the court of how the property should be divided. Appellant maintains this was an unequal division and that the court failed to state the basis for the unequal division.</p>
+                <p pgmap="62(117) 63(43)" id="b62-9">
+                   The court is not required to state the division is an equal one, and there is nothing on the face of the order to indicate it is not an equal division. There is insufficient information in either the abstract or the record for us to determine the valuation of any of the property divided, and from the record no error is shown. The burden is upon the appellant to bring up a record sufficient to demonstrate that the trial court was in error. SD Leasing v. RNF Corp., 278 Ark. 530, 647 S.W.2d 447 (1983); King v. Younts, 278 Ark. 91, 643 S.W.2d 542 (1982). Although we can’t presume that any portions of the record not designated support the trial court’s action, we also can’t reverse unless the record demonstrates apparent error. Sharum v. Dodson, 264 Ark. 57, 568 S.W.2d 503 (1978). Kimery v. Shockley, 226 Ark. 437, 290 S.W.2d 442 (1956). Appellant’s argument fails for want of a record.</p>
+                <p pgmap="63" id="b63-6">Appellant makes one point within this last argument which warrants our attention. The court granted Linda Young a proportionate share of the military pension amounting to one half of 18/20ths. The record however does not support that and we assume a clerical error was made. Appellant entered the service in January 1960 and retired in January 1980. The Youngs were married in January, 1963 and separated in 1984. The order should be modified to grant appellee one-half of 17/20ths of the military benefits.</p>
+                <p pgmap="63" id="b63-7">Affirmed as modified.</p>
+              </opinion>
+              <opinion type="dissent">
+                <author pgmap="63" id="b63-10">Darrell Hickman, Justice,</author>
+                <p pgmap="63" id="AXD">dissenting. I am of the view that Paulsen v. Paulsen, 269 Ark. 523, 601 S.W.2d 873 (1980), should not be overruled, so I dissent. I have previously stated my objection to the majority’s change of position in Day v. Day, 281 Ark. 261, 663 S.W.2d 719 (1984).</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="59" ORDERLABEL="33" TYPE="page">
+        <fptr FILEID="tiff_00030_0"/>
+        <fptr FILEID="jp2_00030_0"/>
+        <fptr FILEID="alto_00030_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_59.2" BETYPE="IDREF" FILEID="alto_00030_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="60" ORDERLABEL="34" TYPE="page">
+        <fptr FILEID="tiff_00030_1"/>
+        <fptr FILEID="jp2_00030_1"/>
+        <fptr FILEID="alto_00030_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_60.2" BETYPE="IDREF" FILEID="alto_00030_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="61" ORDERLABEL="35" TYPE="page">
+        <fptr FILEID="tiff_00031_0"/>
+        <fptr FILEID="jp2_00031_0"/>
+        <fptr FILEID="alto_00031_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_61.3" BETYPE="IDREF" FILEID="alto_00031_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="62" ORDERLABEL="36" TYPE="page">
+        <fptr FILEID="tiff_00031_1"/>
+        <fptr FILEID="jp2_00031_1"/>
+        <fptr FILEID="alto_00031_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_62.2" BETYPE="IDREF" FILEID="alto_00031_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="63" ORDERLABEL="37" TYPE="page">
+        <fptr FILEID="tiff_00032_0"/>
+        <fptr FILEID="jp2_00032_0"/>
+        <fptr FILEID="alto_00032_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_63.3" BETYPE="IDREF" FILEID="alto_00032_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b62-7" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_62.5" BETYPE="IDREF" FILEID="alto_00031_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b62-6" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_62.4" BETYPE="IDREF" FILEID="alto_00031_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b60-12" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_60.13" BETYPE="IDREF" FILEID="alto_00030_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b60-10" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_60.9" BETYPE="IDREF" FILEID="alto_00030_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b60-13" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_60.14" BETYPE="IDREF" FILEID="alto_00030_1"/>
+            <area BEGIN="BL_61.1" BETYPE="IDREF" FILEID="alto_00031_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b62-8" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_62.6" BETYPE="IDREF" FILEID="alto_00031_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b60-9" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_60.8" BETYPE="IDREF" FILEID="alto_00030_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AHZ" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_59.5" BETYPE="IDREF" FILEID="alto_00030_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b61-8" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_61.6" BETYPE="IDREF" FILEID="alto_00031_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b61-9" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_61.7" BETYPE="IDREF" FILEID="alto_00031_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b59-3" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_59.3" BETYPE="IDREF" FILEID="alto_00030_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b63-9" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_63.7" BETYPE="IDREF" FILEID="alto_00032_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b59-4" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_59.6" BETYPE="IDREF" FILEID="alto_00030_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aq" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_59.4" BETYPE="IDREF" FILEID="alto_00030_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b61-7" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_61.5" BETYPE="IDREF" FILEID="alto_00031_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b61-6" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_61.4" BETYPE="IDREF" FILEID="alto_00031_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b60-8" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_60.7" BETYPE="IDREF" FILEID="alto_00030_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b63-10" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_63.8" BETYPE="IDREF" FILEID="alto_00032_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Anr" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_59.7" BETYPE="IDREF" FILEID="alto_00030_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b63-8" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_63.6" BETYPE="IDREF" FILEID="alto_00032_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AXD" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_63.9" BETYPE="IDREF" FILEID="alto_00032_0"/>
+            <area BEGIN="BL_63.10" BETYPE="IDREF" FILEID="alto_00032_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b60-11" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_60.12" BETYPE="IDREF" FILEID="alto_00030_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b63-6" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_63.4" BETYPE="IDREF" FILEID="alto_00032_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ap8" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_60.10" BETYPE="IDREF" FILEID="alto_00030_1"/>
+            <area BEGIN="BL_60.11" BETYPE="IDREF" FILEID="alto_00030_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b61-10" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_61.8" BETYPE="IDREF" FILEID="alto_00031_0"/>
+            <area BEGIN="BL_62.1" BETYPE="IDREF" FILEID="alto_00031_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b62-9" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_62.7" BETYPE="IDREF" FILEID="alto_00031_1"/>
+            <area BEGIN="BL_63.1" BETYPE="IDREF" FILEID="alto_00032_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b63-7" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_63.5" BETYPE="IDREF" FILEID="alto_00032_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

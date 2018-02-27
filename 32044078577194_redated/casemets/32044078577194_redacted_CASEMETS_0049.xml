@@ -1,0 +1,373 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0049" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Tisdale v. Lockhart">Adrian Bruce TISDALE v. A.L. LOCKHART, Director</name>
+          <docketnumber>85-219</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 203</citation>
+          <citation category="parallel" type="bluebook">703 S.W.2d 849</citation>
+          <decisiondate>1986-02-18</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:00Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00116_0" MIMETYPE="image/tiff" CHECKSUM="d40fcc289e887072a1a40596e42f1b6f" CHECKSUMTYPE="MD5" SIZE="29372">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00116_0.tif"/>
+      </file>
+      <file ID="tiff_00116_1" MIMETYPE="image/tiff" CHECKSUM="a36d96852aaf9ca152ea6d24054aa6ff" CHECKSUMTYPE="MD5" SIZE="51318">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00116_1.tif"/>
+      </file>
+      <file ID="tiff_00117_0" MIMETYPE="image/tiff" CHECKSUM="60ab769649aa94c7a3ffe5a392144192" CHECKSUMTYPE="MD5" SIZE="6974">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00117_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00116_0" MIMETYPE="image/jp2" CHECKSUM="cbb3419908348ff5d945b5e70e1a87ba" CHECKSUMTYPE="MD5" SIZE="2042679">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00116_0.jp2"/>
+      </file>
+      <file ID="jp2_00116_1" MIMETYPE="image/jp2" CHECKSUM="34bece0d4aeba2ea5d2e6f56e24943f7" CHECKSUMTYPE="MD5" SIZE="2521882">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00116_1.jp2"/>
+      </file>
+      <file ID="jp2_00117_0" MIMETYPE="image/jp2" CHECKSUM="976136d060a6efd278d37685e3645f13" CHECKSUMTYPE="MD5" SIZE="1309554">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00117_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00116_0" MIMETYPE="text/xml" CHECKSUM="17695265a1865cde43e321a26168574c" CHECKSUMTYPE="MD5" SIZE="48887">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00116_0.xml"/>
+      </file>
+      <file ID="alto_00116_1" MIMETYPE="text/xml" CHECKSUM="84fc5659a2a94c23a92fa9687ee0105d" CHECKSUMTYPE="MD5" SIZE="89184">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00116_1.xml"/>
+      </file>
+      <file ID="alto_00117_0" MIMETYPE="text/xml" CHECKSUM="cbcb162c19506ccebde12ee1cb653f1e" CHECKSUMTYPE="MD5" SIZE="8361">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00117_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0049" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="203" lastpage="205">
+              <court pgmap="231" id="b231-4">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="231" id="A7yT">85-219</docketnumber>
+              <citation pgmap="231" id="Ayd">703 S.W.2d 849</citation>
+              <parties pgmap="231" id="b231-3">Adrian Bruce TISDALE v. A.L. LOCKHART, Director</parties>
+              <decisiondate pgmap="231" id="Ax-">Opinion delivered February 18, 1986</decisiondate>
+              <judges pgmap="233" id="b233-5">Purtle, J., not participating.</judges>
+              <attorneys pgmap="231" id="b231-7">Appellant, pro se.</attorneys>
+              <attorneys pgmap="231" id="b231-8">Steve Clark, Att’y Gen., by: Theodore Holder, Asst. Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="231" id="b231-9">George Rose Smith, Justice.</author>
+                <p pgmap="231" id="AWQ">This is a pro se petition by the appellant, an inmate in the Department of Correction, for a judgment declaring that the Department has erroneously calcu­lated the earliest date on which the appellant will be eligible for parole. The appellee is the Director of the Department. The trial court agreed with the Department. Our jurisdiction is pursuant to Rule 29(l)(c). We affirm.</p>
+                <p pgmap="231" id="b231-10">In 1970 Tisdale was sentenced to imprisonment for felony convictions. While on parole from that sentence in 1972, he was convicted a second time and received a 21-year sentence that will expire on December 8,1993. Under the laws then in effect he was eligible for parole after having served one third of that sentence, with credit for good time.</p>
+                <p pgmap="231(32) 232(131)" id="b231-11">In 1977 the General Assembly adopted Act 93, which provides that persons who commit felonies after April 1, 1977, and who are classified under the act as third offenders, will not be eligible for parole until they have served three-fourths of their sentence, with credit for good time. Ark. Stat. Ann. § 43-2829 (B)(4) (Repl. 1977). Tisdale was released on parole from his second sentence in 1978. He was convicted in 1983 of a third felony and received a 10-year sentence, which is to run concur­rently with the 21-year sentence and will expire on March 9, 1993. The Department classified Tisdale as a third offender and ruled that he will not be eligible for parole until he has served three-fourths of the 10-year sentence, with credit for good time, which will be later than his parole eligibility actually occurred under the earlier 21-year sentence. In fact, it was while he was on parole from that sentence that he committed his third felony.</p>
+                <p pgmap="232" id="b232-6">It is true, as the Department concedes, that if Tisdale had to serve both his sentences in full, the 21-year sentence would be controlling as his ultimate release, because it would run for nine months after the expiration of the 10-year sentence. On that basis Tisdale argues that the 21-year sentence should also be control­ling as to his parole eligibility.</p>
+                <p pgmap="232" id="b232-7">
+                   This argument disregards not only the language of Act 93 but also its obvious intent, which was to lengthen the period of confinement before parole eligibility as the number of prior convictions increases. Everyone is charged with knowledge of the criminal law. Hence, when Tisdale was released on parole in 1978 he must be taken to have known that if he committed a third felony and was convicted, he would be compelled to serve three-­fourths of his sentence before being eligible for release on parole. That Tisdale happened to be serving a 21-year sentence has nothing whatever to do with his parole eligibility under Act 93. We are certain that the legislature did not intend, as Tisdale in effect argues, that because Tisdale was serving a 21 -year sentence he is entitled to greater leniency than if he had been serving only a 15-year sentence. Act 93 changed the law and thereby gave Tisdale notice of what would happen if he should be convicted a third time. He was so convicted and must suffer the consequences imposed by law. The Department’s calculation was correct.</p>
+                <p pgmap="232" id="b232-8">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="231" ORDERLABEL="203" TYPE="page">
+        <fptr FILEID="tiff_00116_0"/>
+        <fptr FILEID="jp2_00116_0"/>
+        <fptr FILEID="alto_00116_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_231.2" BETYPE="IDREF" FILEID="alto_00116_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="232" ORDERLABEL="204" TYPE="page">
+        <fptr FILEID="tiff_00116_1"/>
+        <fptr FILEID="jp2_00116_1"/>
+        <fptr FILEID="alto_00116_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_232.2" BETYPE="IDREF" FILEID="alto_00116_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="233" ORDERLABEL="205" TYPE="page">
+        <fptr FILEID="tiff_00117_0"/>
+        <fptr FILEID="jp2_00117_0"/>
+        <fptr FILEID="alto_00117_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_233.2" BETYPE="IDREF" FILEID="alto_00117_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b232-8" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_232.6" BETYPE="IDREF" FILEID="alto_00116_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AWQ" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_231.14" BETYPE="IDREF" FILEID="alto_00116_0"/>
+            <area BEGIN="BL_231.15" BETYPE="IDREF" FILEID="alto_00116_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b231-11" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_231.17" BETYPE="IDREF" FILEID="alto_00116_0"/>
+            <area BEGIN="BL_232.1" BETYPE="IDREF" FILEID="alto_00116_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b232-7" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_232.5" BETYPE="IDREF" FILEID="alto_00116_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b232-6" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_232.4" BETYPE="IDREF" FILEID="alto_00116_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ax-" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_231.7" BETYPE="IDREF" FILEID="alto_00116_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b231-9" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_231.13" BETYPE="IDREF" FILEID="alto_00116_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A7yT" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_231.4" BETYPE="IDREF" FILEID="alto_00116_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b233-5" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_233.3" BETYPE="IDREF" FILEID="alto_00117_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b231-4" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_231.6" BETYPE="IDREF" FILEID="alto_00116_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b231-7" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_231.11" BETYPE="IDREF" FILEID="alto_00116_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b231-8" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_231.12" BETYPE="IDREF" FILEID="alto_00116_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b231-10" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_231.16" BETYPE="IDREF" FILEID="alto_00116_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ayd" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_231.5" BETYPE="IDREF" FILEID="alto_00116_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b231-3" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_231.3" BETYPE="IDREF" FILEID="alto_00116_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

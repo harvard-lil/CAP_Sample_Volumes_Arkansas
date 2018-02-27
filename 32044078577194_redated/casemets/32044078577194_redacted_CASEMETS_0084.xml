@@ -1,0 +1,592 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0084" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Bradley v. Bruce">Danny BRADLEY v. Dale BRUCE, et al.</name>
+          <docketnumber>85-253</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 342</citation>
+          <citation category="parallel" type="bluebook">705 S.W.2d 431; 713 S.W.2d 451</citation>
+          <decisiondate>1986-03-17</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:00Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00187_1" MIMETYPE="image/tiff" CHECKSUM="ea6afa4c122e467a2162e69872308ea9" CHECKSUMTYPE="MD5" SIZE="27688">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00187_1.tif"/>
+      </file>
+      <file ID="tiff_00188_0" MIMETYPE="image/tiff" CHECKSUM="93c8892cb6ea62340e8fb8813f776c63" CHECKSUMTYPE="MD5" SIZE="51664">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00188_0.tif"/>
+      </file>
+      <file ID="tiff_00188_1" MIMETYPE="image/tiff" CHECKSUM="4e3d58f17abfcd2e2580672ee5331a9e" CHECKSUMTYPE="MD5" SIZE="46800">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00188_1.tif"/>
+      </file>
+      <file ID="tiff_00189_0" MIMETYPE="image/tiff" CHECKSUM="74bb6be1380a5c408100129d69ca512c" CHECKSUMTYPE="MD5" SIZE="25964">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00189_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00187_1" MIMETYPE="image/jp2" CHECKSUM="dd51036771e729eeec4e3fdb08076b08" CHECKSUMTYPE="MD5" SIZE="2010864">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00187_1.jp2"/>
+      </file>
+      <file ID="jp2_00188_0" MIMETYPE="image/jp2" CHECKSUM="df5d0061f90a1d859e92c6a948c5f80e" CHECKSUMTYPE="MD5" SIZE="2538020">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00188_0.jp2"/>
+      </file>
+      <file ID="jp2_00188_1" MIMETYPE="image/jp2" CHECKSUM="11a2a803f9958c5cfe725512c325286f" CHECKSUMTYPE="MD5" SIZE="2491637">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00188_1.jp2"/>
+      </file>
+      <file ID="jp2_00189_0" MIMETYPE="image/jp2" CHECKSUM="d08f78b5a96d89419ed59332217cb262" CHECKSUMTYPE="MD5" SIZE="2273675">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00189_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00187_1" MIMETYPE="text/xml" CHECKSUM="d7299e3228a95d15f2386fc6e234bc58" CHECKSUMTYPE="MD5" SIZE="42811">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00187_1.xml"/>
+      </file>
+      <file ID="alto_00188_0" MIMETYPE="text/xml" CHECKSUM="a7747d40cfaab455bdf0ed492da5c6b3" CHECKSUMTYPE="MD5" SIZE="83071">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00188_0.xml"/>
+      </file>
+      <file ID="alto_00188_1" MIMETYPE="text/xml" CHECKSUM="c9c0719a05a976f3084f2c227b180cdb" CHECKSUMTYPE="MD5" SIZE="78571">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00188_1.xml"/>
+      </file>
+      <file ID="alto_00189_0" MIMETYPE="text/xml" CHECKSUM="300bfed9e3697489226cb68884ea9475" CHECKSUMTYPE="MD5" SIZE="39232">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00189_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0084" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="342" lastpage="343-B">
+              <court pgmap="374" id="Ab5g">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="374" id="A9R">85-253</docketnumber>
+              <citation pgmap="374" id="AMZ">705 S.W.2d 431</citation>
+              <citation pgmap="376" id="AY-">713 S.W.2d 451</citation>
+              <parties pgmap="374" id="b374-4">Danny BRADLEY v. Dale BRUCE, et al.</parties>
+              <decisiondate pgmap="374" id="A3X">Opinion delivered March 17, 1986</decisiondate>
+              <otherdate pgmap="374" id="AbgN">[Rehearing denied April 28, 1986.<footnotemark>*</footnotemark>]</otherdate>
+              <judges pgmap="376" id="b376-9">Purtle, J., not participating.</judges>
+              <attorneys pgmap="374" id="b374-12">Hilburn, Bethune, Calhoon, Forster, Harper &amp; Pruniski, Ltd., by: John F. Forster, Jr., and Dorcy Kyle Corbin, for appellant.</attorneys>
+              <attorneys pgmap="374" id="b374-13">Jim Hamilton, City Att’y, by: Terry R. Ballard, Asst. City Att’y, for appellee.</attorneys>
+              <attorneys pgmap="374" id="b374-14">Hankins, Capps, Hicks &amp; Madden, by: Harold W. Madden, for appellees-intervenors, J.V. Williams and Charles “Skipper” Polk.</attorneys>
+              <footnote label="*">
+                <p pgmap="374" id="b374-16">* Holt, C.J., concurring opinion; Hays, J., dissenting opinion; Purtle, J., not participating.</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="374" id="b374-15">Darrell Hickman, Justice.</author>
+                <p pgmap="374(68) 375(24)" id="Ack">The issue on appeal concerns the promotion eligibility list for the North Little Rock police. Danny Bradley, a sergeant, made the highest score on the examination for lieutenant. However, he was not listed first because the Civil Service Commission passed a rule that seniority is a factor to be considered in determining eligibility for promo­tions, causing points for years of service to be added to the test score. Wilson Parker, who had more seniority but made a lesser grade on the test, was listed first and has intervened in this case.</p>
+                <p pgmap="375" id="b375-4">In a declaratory judgment suit, the circuit court held Arkansas law did not prohibit the Civil Service Commission from using seniority as a criterion to determine ranking on eligibility lists. We find Arkansas law is to the contrary, requiring that the person with the highest test score be promoted.</p>
+                <p pgmap="375" id="b375-5">Ark. Stat. Ann. § 19-1603 (Repl. 1980) provides for the Board of Civil Service to prescribe rules and regulations for police and fire departments. That statute states:</p>
+                <blockquote pgmap="375" id="b375-6">These rules shall provide . . .</blockquote>
+                <blockquote pgmap="375" id="b375-7">9th. For promotion based upon open competitive examina­tions of efficiency, character and conduct, lists shall be created for each rank of service and promotions made therefrom as provided herein.</blockquote>
+                <blockquote pgmap="375" id="b375-8">6th. . . . and for the promotion or advancement of the one standing highest on the eligibility list for that rank of service.</blockquote>
+                <p pgmap="375" id="b375-9">This statute covers two separate subjects relevant here: (1) applicants who are to be hired, and (2) employees who are to be promoted. Undoubtedly, the Commission has been reading the statute using the two separate categories of individuals inter­changeably, because the practice has been to forward an eligibil­ity list containing the three persons ranked highest (figuring in seniority) to the department head. That practice is wrong. The statutory language which speaks of certification of the three highest persons, refers to the appointment of applicants, not the promotion of employees. The very next sentence in the statute deals with promotions which we have already quoted. In Orrell v. City of Hot Springs, 265 Ark. 267, 578 S.W.2d 18 (1979), we made the same mistake the Commission did in our reference to Ark. Stat. Ann. §19-1603 (6), by assuming that the three persons ranked highest on the eligibility list were to be used by the department head for promotion purposes.</p>
+                <p pgmap="375(27) 376(20)" id="b375-10">
+                   The statute specifically provides that promotion shall be made on the basis of the examination. There is no provision authorizing any other criterion, including seniority. Any other reading of the law would negate its purpose which is to promote those eligible who score highest on the test.</p>
+                <p pgmap="376" id="b376-6">
+                   The primary rule of statutory construction is to find the intention of the legislature. Perry County v. House, 196 Ark. 317, 117 S.W.2d 342 (1938). When the language is clear, we follow it. Walker v. Allred, 179 Ark. 1104, 20 S.W.2d 116 (1929). The statutory language is clear that promotions shall be based on the results of the examination and does not provide for seniority as a factor.</p>
+                <p pgmap="376" id="b376-7">The judgment is reversed and the cause remanded for the trial court to enter an appropriate order.</p>
+                <p pgmap="376" id="b376-8">Reversed and remanded.</p>
+                <p pgmap="376" id="b376-10">Rehearing Denied April 28, 1986</p>
+              </opinion>
+              <opinion type="concurrence">
+                <author pgmap="376" id="b376-12">Jack Holt, Jr., Chief Justice,</author>
+                <p pgmap="376" id="AYt">concurring. Although I concur in the denial of appellee’s petition for rehearing, I think one point in the majority opinion warrants mention.</p>
+                <p pgmap="376" id="b376-13">The majority opinion is misleading in that it states Ark. Stat. Ann. § 19-1603 (Repl. 1980), specifically provides that promo­tion shall be made on the basis of “the examination” and not on any other criterion. In this instance the appellant was given a written examination.</p>
+                <p pgmap="376" id="b376-14">By these findings the court suggests one written examination is given, when in fact, Ark. Stat. Ann. § 19-1603 provides for “promotion based upon open competitive examinations of effi­ciency, character and conduct.” (emphasis added). Obviously seniority does not fall within these criteria, however, it is equally obvious that this statute does not limit promotion to a written examination as suggested by the majority opinion.</p>
+                <p pgmap="376(63) 377(15)" id="b376-15">The court is correct in its findings in this instance, that the promotion should be based upon the written examination, since it was the only examination conducted. Nevertheless, the statutory language is equally clear that other types of examinations may be given as long as they fall within statutory criteria. Any request for further clarification as to what types of examinations are author­ized should be addressed to the legislature, since the statute is vague in this respect.</p>
+              </opinion>
+              <opinion type="dissent">
+                <author pgmap="377" id="b377-6">Steele Hays, Justice,</author>
+                <p pgmap="377" id="ArdA">dissenting. The petition for rehearing and the comments of Chief Justice Holt demonstrate that we were mistaken in applying a narrow interpretation to Ark. Stat. Ann. § 19-1603 (Repl. 1980). The fact that the Civil Service Act simply refers to “open, competitive examinations”, need not be taken to mean that the qualities being sought, i.e. “efficiency, character and conduct,” can only be measured by an examina­tion. Nothing in the act suggests that the legislature intended that such qualities be discerned entirely by examination and we should not read that questionable premise into the act. The trial court ruled that inasmuch as the Civil Service Act does not specifically prohibit reasonable credits based on seniority, the procedures adopted by the North Little Rock Civil Service Commission were not unlawful. I believe that interpretation was correct and should be adopted on rehearing.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="374" ORDERLABEL="342" TYPE="page">
+        <fptr FILEID="tiff_00187_1"/>
+        <fptr FILEID="jp2_00187_1"/>
+        <fptr FILEID="alto_00187_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_374.1" BETYPE="IDREF" FILEID="alto_00187_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="375" ORDERLABEL="343" TYPE="page">
+        <fptr FILEID="tiff_00188_0"/>
+        <fptr FILEID="jp2_00188_0"/>
+        <fptr FILEID="alto_00188_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_375.3" BETYPE="IDREF" FILEID="alto_00188_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="376" ORDERLABEL="343-A" TYPE="page">
+        <fptr FILEID="tiff_00188_1"/>
+        <fptr FILEID="jp2_00188_1"/>
+        <fptr FILEID="alto_00188_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_376.4" BETYPE="IDREF" FILEID="alto_00188_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="377" ORDERLABEL="343-B" TYPE="page">
+        <fptr FILEID="tiff_00189_0"/>
+        <fptr FILEID="jp2_00189_0"/>
+        <fptr FILEID="alto_00189_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_377.3" BETYPE="IDREF" FILEID="alto_00189_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b374-16" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_374.23" BETYPE="IDREF" FILEID="alto_00187_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ArdA" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_377.5" BETYPE="IDREF" FILEID="alto_00189_0"/>
+            <area BEGIN="BL_377.6" BETYPE="IDREF" FILEID="alto_00189_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b374-14" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_374.19" BETYPE="IDREF" FILEID="alto_00187_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b376-9" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_376.8" BETYPE="IDREF" FILEID="alto_00188_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b374-12" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_374.17" BETYPE="IDREF" FILEID="alto_00187_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b374-13" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_374.18" BETYPE="IDREF" FILEID="alto_00187_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ab5g" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_374.8" BETYPE="IDREF" FILEID="alto_00187_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b375-8" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_375.8" BETYPE="IDREF" FILEID="alto_00188_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b376-6" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_376.5" BETYPE="IDREF" FILEID="alto_00188_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b376-7" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_376.6" BETYPE="IDREF" FILEID="alto_00188_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A3X" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_374.9" BETYPE="IDREF" FILEID="alto_00187_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ack" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_374.21" BETYPE="IDREF" FILEID="alto_00187_1"/>
+            <area BEGIN="BL_374.22" BETYPE="IDREF" FILEID="alto_00187_1"/>
+            <area BEGIN="BL_375.1" BETYPE="IDREF" FILEID="alto_00188_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b374-15" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_374.20" BETYPE="IDREF" FILEID="alto_00187_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b375-10" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_375.10" BETYPE="IDREF" FILEID="alto_00188_0"/>
+            <area BEGIN="BL_376.2" BETYPE="IDREF" FILEID="alto_00188_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b375-5" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_375.5" BETYPE="IDREF" FILEID="alto_00188_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AbgN" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_374.10" BETYPE="IDREF" FILEID="alto_00187_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b377-6" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_377.4" BETYPE="IDREF" FILEID="alto_00189_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b375-4" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_375.4" BETYPE="IDREF" FILEID="alto_00188_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b375-9" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_375.9" BETYPE="IDREF" FILEID="alto_00188_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b375-7" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_375.7" BETYPE="IDREF" FILEID="alto_00188_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b376-8" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_376.7" BETYPE="IDREF" FILEID="alto_00188_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A9R" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_374.6" BETYPE="IDREF" FILEID="alto_00187_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b376-14" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_376.14" BETYPE="IDREF" FILEID="alto_00188_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b375-6" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_375.6" BETYPE="IDREF" FILEID="alto_00188_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AMZ" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_374.7" BETYPE="IDREF" FILEID="alto_00187_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AYt" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_376.11" BETYPE="IDREF" FILEID="alto_00188_1"/>
+            <area BEGIN="BL_376.12" BETYPE="IDREF" FILEID="alto_00188_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b376-15" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_376.15" BETYPE="IDREF" FILEID="alto_00188_1"/>
+            <area BEGIN="BL_377.1" BETYPE="IDREF" FILEID="alto_00189_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b374-4" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_374.5" BETYPE="IDREF" FILEID="alto_00187_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AY-" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_376.1" BETYPE="IDREF" FILEID="alto_00188_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b376-10" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_376.9" BETYPE="IDREF" FILEID="alto_00188_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b376-12" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_376.10" BETYPE="IDREF" FILEID="alto_00188_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b376-13" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_376.13" BETYPE="IDREF" FILEID="alto_00188_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

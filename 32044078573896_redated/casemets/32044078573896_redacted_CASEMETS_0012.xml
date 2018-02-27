@@ -1,0 +1,405 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0012" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Peay v. Ramsey">Peay, Receiver, etc., vs. Ramsey</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 91</citation>
+          <decisiondate>1860-01</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00047_0" MIMETYPE="image/tiff" CHECKSUM="f97e5f7f9491b8fd888d83df4c2de643" CHECKSUMTYPE="MD5" SIZE="25324">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00047_0.tif"/>
+      </file>
+      <file ID="tiff_00047_1" MIMETYPE="image/tiff" CHECKSUM="9a2dab683448deae57582abbe9912fea" CHECKSUMTYPE="MD5" SIZE="50904">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00047_1.tif"/>
+      </file>
+      <file ID="tiff_00048_0" MIMETYPE="image/tiff" CHECKSUM="095b4453920cb1ce80ca0d201c8a0a83" CHECKSUMTYPE="MD5" SIZE="22500">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00048_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00047_0" MIMETYPE="image/jp2" CHECKSUM="3a6da91424dc47ff6550f1e05c6a2192" CHECKSUMTYPE="MD5" SIZE="2465001">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00047_0.jp2"/>
+      </file>
+      <file ID="jp2_00047_1" MIMETYPE="image/jp2" CHECKSUM="7ee0d20a3a857d5eee73d06605a0beb9" CHECKSUMTYPE="MD5" SIZE="2674266">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00047_1.jp2"/>
+      </file>
+      <file ID="jp2_00048_0" MIMETYPE="image/jp2" CHECKSUM="7697031a9784dc42579186a4a5ccf3fb" CHECKSUMTYPE="MD5" SIZE="2504842">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00048_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00047_0" MIMETYPE="text/xml" CHECKSUM="58616c7946eac609b5fe6cfbd112ee45" CHECKSUMTYPE="MD5" SIZE="47675">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00047_0.xml"/>
+      </file>
+      <file ID="alto_00047_1" MIMETYPE="text/xml" CHECKSUM="774297506a56726cc155b4abf4b492f2" CHECKSUMTYPE="MD5" SIZE="100045">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00047_1.xml"/>
+      </file>
+      <file ID="alto_00048_0" MIMETYPE="text/xml" CHECKSUM="9f7df4cd55f090263a6ffbf62d0e6309" CHECKSUMTYPE="MD5" SIZE="42739">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00048_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0012" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="93" firstpage="91">
+              <parties id="b93-8" pgmap="93">Peay, Receiver, etc., vs. Ramsey.</parties>
+              <judges id="b95-5" pgmap="95">Absent, Mr. Justice Rector.</judges>
+              <attorneys id="b93-11" pgmap="93">S. H. Hempstead for the appellant.</attorneys>
+              <attorneys id="b93-12" pgmap="93">Watkins &amp; Gallagher, for the appellee.</attorneys>
+              <summary id="b93-10" pgmap="93">Appeal from Pulaski Circuit Com t.</summary>
+              <summary id="Ao" pgmap="93">Hon. John J. Clendenin, Circuit Judge!</summary>
+              <headnotes id="b93-9" pgmap="93">R is not within the power of the legislature to compel the Receiver of the Real Estate Bank to receive the bonds of the State issued to the State Bank in pay­ments of debts due to the Real Estate Bank. .</headnotes>
+              <opinion type="majority">
+                <author id="b94-5" pgmap="94">Mr. Chief Justice English</author>
+                <p id="A5a" pgmap="94">delivered the opinion of the Court.</p>
+                <p id="b94-6" pgmap="94">Peay, as Receiver in Chancery of the assets of the Real Estate Bank, brought an action of debt, in the Pulaski Circuit Court, against Ramsey, on a bond for $200, which constituted a part of the assets of the bank.</p>
+                <p id="b94-7" pgmap="94">The defendant pleaded a tender before suit, in “ bonds of the “ State of Arkansas, issued by said State to and for the benefit “ and in behalf of the Bank of the State,” etc.</p>
+                <p id="b94-8" pgmap="94">The plaintiff demurred to the plea, the Court overruled the demurrer, and the plaintiff declining to plead over, final judg­ment was rendered for the defendant, and the plaintiff appealed.</p>
+                <p id="b94-9" pgmap="94">If it was the intention of the legislature, as it perhaps was, by the act of 12th January, 1853. (Pamphlet Acts of 1862, p. 196), to compel the Receiver of the Real Estate Bank to receive the bonds of the State issued to the Bank of the State in pay­ment of debts due to the Real Estate Bank, the act is in conflict with that provision of the Constitution of the United States which declares that no State shall make any thing but gold and silver coin a tender in payment of debts.</p>
+                <p id="b94-11" pgmap="94">The Bank of the State being exclusively a State institution, debts due to it are in effect due to the State, and she may pro­vide for their payment in her own bonds, as she has done, or in any thing else that she is willing to accept in lieu of money. See Fagan, etc. vs. Stillwell, 19 Ark. 285.</p>
+                <p id="b94-12" pgmap="94">But the debts due the Real Estate Bank do not belong to the State. They are held by the Receiver in trust for the benefit of the creditors of the bank, under the deed of assignment, and the individuals who compose the stockholders of the bank, etc.</p>
+                <p id="b94-13" pgmap="94">The Real Estate Bank was in no way bound for the payment of the bonds issued by the State for the benefit of the Bank of the State, and if the legislature could compel the Receiver of the Real Estate Bank to take these bonds in payment of debts due to it, they could also make the paper of any bank, or the bonds of any other corporation or State, however depreciated, a legal tender in payment of such debts. (See Paup et al. vs. Drew, 10 How. 219; 2 Story on Con. sec. 1372.</p>
+                <p id="b95-4" pgmap="95">The judgment of the Court below is reversed, and the cause remanded, etc.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="93" ORDERLABEL="91" TYPE="page">
+        <fptr FILEID="tiff_00047_0"/>
+        <fptr FILEID="jp2_00047_0"/>
+        <fptr FILEID="alto_00047_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_93.3" BETYPE="IDREF" FILEID="alto_00047_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_93.2" BETYPE="IDREF" FILEID="alto_00047_0"/>
+              <area BEGIN="BL_93.4" BETYPE="IDREF" FILEID="alto_00047_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_93.8" BETYPE="IDREF" FILEID="alto_00047_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="94" ORDERLABEL="92" TYPE="page">
+        <fptr FILEID="tiff_00047_1"/>
+        <fptr FILEID="jp2_00047_1"/>
+        <fptr FILEID="alto_00047_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_94.1" BETYPE="IDREF" FILEID="alto_00047_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_94.2" BETYPE="IDREF" FILEID="alto_00047_1"/>
+              <area BEGIN="BL_94.3" BETYPE="IDREF" FILEID="alto_00047_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="95" ORDERLABEL="93" TYPE="page">
+        <fptr FILEID="tiff_00048_0"/>
+        <fptr FILEID="jp2_00048_0"/>
+        <fptr FILEID="alto_00048_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_95.2" BETYPE="IDREF" FILEID="alto_00048_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_95.1" BETYPE="IDREF" FILEID="alto_00048_0"/>
+              <area BEGIN="BL_95.3" BETYPE="IDREF" FILEID="alto_00048_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_95.6" BETYPE="IDREF" FILEID="alto_00048_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b93-9" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_93.10" BETYPE="IDREF" FILEID="alto_00047_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b93-8" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_93.9" BETYPE="IDREF" FILEID="alto_00047_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b94-7" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_94.7" BETYPE="IDREF" FILEID="alto_00047_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b94-9" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_94.9" BETYPE="IDREF" FILEID="alto_00047_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b94-5" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_94.4" BETYPE="IDREF" FILEID="alto_00047_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b94-6" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_94.6" BETYPE="IDREF" FILEID="alto_00047_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A5a" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_94.5" BETYPE="IDREF" FILEID="alto_00047_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b94-12" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_94.11" BETYPE="IDREF" FILEID="alto_00047_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b94-13" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_94.12" BETYPE="IDREF" FILEID="alto_00047_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b94-11" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_94.10" BETYPE="IDREF" FILEID="alto_00047_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b94-8" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_94.8" BETYPE="IDREF" FILEID="alto_00047_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b95-5" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_95.5" BETYPE="IDREF" FILEID="alto_00048_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b95-4" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_95.4" BETYPE="IDREF" FILEID="alto_00048_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b93-12" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_93.14" BETYPE="IDREF" FILEID="alto_00047_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b93-11" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_93.13" BETYPE="IDREF" FILEID="alto_00047_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b93-10" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_93.11" BETYPE="IDREF" FILEID="alto_00047_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ao" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_93.12" BETYPE="IDREF" FILEID="alto_00047_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

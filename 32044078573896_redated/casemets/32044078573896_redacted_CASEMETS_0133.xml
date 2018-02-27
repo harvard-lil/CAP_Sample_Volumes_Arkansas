@@ -1,0 +1,561 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0133" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Bettison v. Budd">Bettison vs. Budd</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 578</citation>
+          <decisiondate>1860-10</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00290_1" MIMETYPE="image/tiff" CHECKSUM="d995a5c2b639b8b764b1ebda91166f49" CHECKSUMTYPE="MD5" SIZE="34428">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00290_1.tif"/>
+      </file>
+      <file ID="tiff_00291_0" MIMETYPE="image/tiff" CHECKSUM="1513f4685f8e401f0ff0e0bc8d350939" CHECKSUMTYPE="MD5" SIZE="48714">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00291_0.tif"/>
+      </file>
+      <file ID="tiff_00291_1" MIMETYPE="image/tiff" CHECKSUM="839ad567c476639c337186a2ebe65146" CHECKSUMTYPE="MD5" SIZE="48334">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00291_1.tif"/>
+      </file>
+      <file ID="tiff_00292_0" MIMETYPE="image/tiff" CHECKSUM="9899a985fae97b894142c8681d551625" CHECKSUMTYPE="MD5" SIZE="48090">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00292_0.tif"/>
+      </file>
+      <file ID="tiff_00292_1" MIMETYPE="image/tiff" CHECKSUM="23577fc455bbc3f437f63e8f79fe30fc" CHECKSUMTYPE="MD5" SIZE="27820">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00292_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00290_1" MIMETYPE="image/jp2" CHECKSUM="4b767831e19318da9218d1f2f67f603e" CHECKSUMTYPE="MD5" SIZE="2443105">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00290_1.jp2"/>
+      </file>
+      <file ID="jp2_00291_0" MIMETYPE="image/jp2" CHECKSUM="6c62a302b2ff9e3530c576aa6ffd3d8f" CHECKSUMTYPE="MD5" SIZE="2589681">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00291_0.jp2"/>
+      </file>
+      <file ID="jp2_00291_1" MIMETYPE="image/jp2" CHECKSUM="6e9e64737127a9a573c30ed4bcb7d126" CHECKSUMTYPE="MD5" SIZE="2552561">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00291_1.jp2"/>
+      </file>
+      <file ID="jp2_00292_0" MIMETYPE="image/jp2" CHECKSUM="d8b56ec022c152e5c9eee1dde284a2bf" CHECKSUMTYPE="MD5" SIZE="2561364">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00292_0.jp2"/>
+      </file>
+      <file ID="jp2_00292_1" MIMETYPE="image/jp2" CHECKSUM="6ac45eb25c169735cdda0f2fb2ae8c22" CHECKSUMTYPE="MD5" SIZE="2378880">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00292_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00290_1" MIMETYPE="text/xml" CHECKSUM="98a187724dab8d3d705291f740d9f975" CHECKSUMTYPE="MD5" SIZE="76181">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00290_1.xml"/>
+      </file>
+      <file ID="alto_00291_0" MIMETYPE="text/xml" CHECKSUM="a8ef4aaccf510ed178a5f13aa50d95cb" CHECKSUMTYPE="MD5" SIZE="96718">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00291_0.xml"/>
+      </file>
+      <file ID="alto_00291_1" MIMETYPE="text/xml" CHECKSUM="13e04bd71d25ec8b00453479d874db0a" CHECKSUMTYPE="MD5" SIZE="95140">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00291_1.xml"/>
+      </file>
+      <file ID="alto_00292_0" MIMETYPE="text/xml" CHECKSUM="1daa046b4c1561812786e59ebbffd140" CHECKSUMTYPE="MD5" SIZE="93395">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00292_0.xml"/>
+      </file>
+      <file ID="alto_00292_1" MIMETYPE="text/xml" CHECKSUM="a52cbd909557ddc4d2d8845199378147" CHECKSUMTYPE="MD5" SIZE="56482">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00292_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0133" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="582" firstpage="578">
+              <parties id="b580-5" pgmap="580">Bettison vs. Budd.</parties>
+              <judges id="b584-9" pgmap="584">Mr. Chief Justice English did not sit in this case.</judges>
+              <attorneys id="b580-10" pgmap="580">Fowler &amp; Stillwell, for the plaintiff.</attorneys>
+              <attorneys id="b580-11" pgmap="580">Hempstead and Williams, for the defendant.</attorneys>
+              <summary id="b580-8" pgmap="580">Error to Pulaski Circuit Court.</summary>
+              <summary id="b580-9" pgmap="580">Hon. John J. Clendenin, Circuit Judge.</summary>
+              <headnotes id="b580-6" pgmap="580">The filing of a paper does not consist in the endorsement by the clerk, that it was filed, but on its being placed, as a permanent record, in the office or case where it belongs: And were the original assessment list for the year, 1844, without endorsement as to the time it was filed, is proved to have been in the office of the clerk in the fall of that year, when it was turned over to hitn as the successor of the clerk who received it and who has since died, it will be presumed that it was filed by the officer within the time prescribed by law.</headnotes>
+              <headnotes id="b580-7" pgmap="580">The assessment of land for taxes, and the advertisement and sale of the land for non-payment of the taxes must be in the same name, whether of the true owner, or others, or unknown owners.</headnotes>
+              <opinion type="majority">
+                <author id="b580-12" pgmap="580">Hon. Harris Flanagin, Special Judge,</author>
+                <p id="ATZ" pgmap="580">delivered the opinion of the court.</p>
+                <p id="b580-13" pgmap="580">This was an action of ejectment by Bettison vs. Budd, for lots one, two, three and four, in block twelve, east of the Q,ua­paw line, in the city of Liltle Rock. Judgment was given for the defendant, and it was brought to this court, and reversed. See Bettison vs. Budd, 15 Ark. Rep. 546.</p>
+                <p id="b580-14" pgmap="580">Afterwards, in July, 1857, the case went to a jury, who found a verdict for the plaintiff for lot four, (only,) on which there was judgment. The plaintiff brought error.</p>
+                <p id="b580-15" pgmap="580(36) 581(100)">The case went to trial on the pleas of not guilty, ten years limitation. The plaintiff, at the trial, introduced a deed from John J. Budd to the plaintiff, dated June 23d, 1840, for the lots one, two and three, which deed was regular on its face, acknowledged and recorded. The plaintiff, also, read in evi­dence a judgment of the Circuit Court of Pulaski county, against John J. Budd et al., and a sheriff’s deed, dated in 1840, for lots two and four, purporting to be made by authority of a levy and sale of the above lots, on execution founded upon the above judgment. The deed was acknowledged and recorded. The plaintiff proved the possession of the defendant at the com­mencement of this suit, and a demand for the lots before suit brought.</p>
+                <p id="b581-5" pgmap="581">The defendant then read in evidence three deeds from the Auditor of the State, for lots one, two and three, in the usual form, dated in February, 1847, and purporting to be founded on a forfeiture for the non-payment of taxes for the year 1844. He then proved that he had possession since the spring of 1837. That one Frail had possession before that time — that when the plaintiff left the State in 1841, he left Merrick agent to pay the taxes on his lands, but said nothing about his lots — that defend­ant had paid taxes on one, two and three from 1847 to 1854.</p>
+                <p id="b581-6" pgmap="581">The plaintiff by way of rebutting the testimony of the defendant, and to destroy the effect of said deed, offered in evi­dence, from the record of the sheriff’s advertisement of lands for the non-payment of taxes in 1844, and the record of the sale of land for the non-payment of taxes for that year, this extract: “ Owners unknown, all of block 12, E. Q. line, in Little Rock, “year 1844, State tax 1 50, county tax 1 50, whole amount “ including costs 4 03, to the State 1, 2, 3, 6 and 12, balance “ paid before sale.”</p>
+                <p id="b581-8" pgmap="581(92) 582(102)">The plaintiff then offered in evidence two books purporting to be together the assessment list of Pulaski county, for the year 1844, and one of them had ón it a certificate, that it was the original assesment list of Pulaski county, signed by the then assessor and collector; also, there was on it a receipt, signed by said assessor and collector, for the tax book of that year. He also proved that one Herndon Haralson was clerk of Pulaski county, in 1844, and was dead at the time of the trial: That said books were found in tbe office in the fall of 1844, and had ever since remained' there, and had been constantly recog­nized as the original assessment list for that year. The plain­tiff proposed to prove by said books, that the lots one, two and three, were not assessed in that year, in the name of “ owners unknown,” or “unknown owners.” The defendant objected to their introduction because they were not marked filed, and because it did not appear that they were filed on or before the time required by law. The objection was sustained, and the plaintiff excepted.</p>
+                <p id="b582-6" pgmap="582">The exclusion of these books is assigned for error: Thereby he was prevented from showing, that the land was not assessed in the name of “unknown owners.”</p>
+                <p id="b582-8" pgmap="582">The statute in force at the time of the foregoing assessment, required that the assessor should file his original assessment list, on or before the 25th day of March, in each year, with the clerk of the County Court. English's Digest 874. The filing of a paper does not consist of the marking put on it by the clerk, but in placing it as a permanent record in the office, or case where it belongs. The State vs. Garvin, 7 Eng. Rep. 64; Thompson &amp; Boyer vs. Foster’s admr., 1 Eng. 210; Keith vs. Berkley &amp; Wood, 2 Eng. 469. There is sufficient and satisfac­tory evidence that the books offered were the assesment list of Pulaski county for the year 1844. As to the t,ime of filing — it was there in the fall of 1844, and it was turned over to the successor of the clerk who received it, as such list. The clerk who received it is dead, so it cannot be proved when it was received. The sheriff filed it in the proper office, and since the date of filing does not appear, it will be presumed that it was filed within the time prescribed by law. Maury Ex. vs. Cooper Ex., 3 J. J. Marshall 225; Wheelock vs. Hale, 3 N. Hamp. Rep. 310; Wilson vs. Gale, 4 Wendell 623.</p>
+                <p id="b582-9" pgmap="582">The only remaining question is, whether the facts proposed to be proven were material and relevant.</p>
+                <p id="b582-10" pgmap="582(22) 583(158)">Under our laws,..tax titles are to be upheld, when held in conformity with law, and when they can be sustained by any reasonable intendment. Hogan vs. Brashears, 8 English 230. No exception can be taken to a deed, but such as shall apply to the real merits of the case, and consistent with a fair and liberal interpretation of the intention of the General Assembly. Digest sec. 131, Title Revenue. “Trivial non-conformity” of the proceedings of a sale, with the law, which in no way touch the merits of the case, would not invalidate a sale. Patrick vs. Davis, 15 Ark. 370. On the other hand, the proceeding to sell land for taxes is by a special authority, and there must be a substantial compliance with the law, or the sale cannot be sus­tained; and while the deed of the auditor is prima facie evidence of the regularity of the proceedings, it may be attacked by proof of fatal irregularities. Merrick vs. Fenno and Hutt, 15 Ark. 331; Patrick vs. Davis, ib. 370; Hogan vs. Brashears, 8 English 230.</p>
+                <p id="b583-6" pgmap="583">An assessment is essential as the first step in a proceeding to sell land for taxes. It has been said to fill the place of a judg­ment in an execution sale; if there is no assessment, then there is no charge upon the land. It is essential that a levy be recited to make a valid deed by the collector. Pillow vs. Roberts, 7 English 822.</p>
+                <p id="b583-7" pgmap="583">Our laws evidently contemplate that, while an assessment and sale in a wrong name shall not invalidate the sale, the assessment and sale shall be in the same name. Sec. 11 of our revenue law provides, that the assessor shall make an alpha­betical list of the names of property holders. Sec. 13, the assessor shall attach to each name a description of his property. Sec. 43, the clerk shall make two tax books. Sec. 95, English’s Digest, the assessor shall make a list of lands and town lots, setting forth the owner’s names as the same are described in the tax book. Sec. 96, a copy of the list shall be advertised. Sec. 97, a copy of the list shall be recorded.</p>
+                <p id="b583-8" pgmap="583">In every step it is evidently intended that the owner’s name shall be the same in the assessment, as in the advertisement and sale.</p>
+                <p id="b583-9" pgmap="583(12) 584(27)">This is not a mere technicality, for if the assessment fills the place of a judgment, and the tax book the execution, then, assuredly, a vital variance between the two, as to the person taxed, -would be fatal. .</p>
+                <p id="b584-7" pgmap="584">We therefore hold that the assessment, advertisement, and sale, must be in the same name. Shemmin vs. Inman, 26 Maine Rep. 232; and Wait vs. Gilmore, 2 Yeats 330.</p>
+                <p id="b584-8" pgmap="584">Let the judgment be reversed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="580" ORDERLABEL="578" TYPE="page">
+        <fptr FILEID="tiff_00290_1"/>
+        <fptr FILEID="jp2_00290_1"/>
+        <fptr FILEID="alto_00290_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_580.1" BETYPE="IDREF" FILEID="alto_00290_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_580.2" BETYPE="IDREF" FILEID="alto_00290_1"/>
+              <area BEGIN="BL_580.3" BETYPE="IDREF" FILEID="alto_00290_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="581" ORDERLABEL="579" TYPE="page">
+        <fptr FILEID="tiff_00291_0"/>
+        <fptr FILEID="jp2_00291_0"/>
+        <fptr FILEID="alto_00291_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_581.3" BETYPE="IDREF" FILEID="alto_00291_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_581.2" BETYPE="IDREF" FILEID="alto_00291_0"/>
+              <area BEGIN="BL_581.4" BETYPE="IDREF" FILEID="alto_00291_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="582" ORDERLABEL="580" TYPE="page">
+        <fptr FILEID="tiff_00291_1"/>
+        <fptr FILEID="jp2_00291_1"/>
+        <fptr FILEID="alto_00291_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_582.2" BETYPE="IDREF" FILEID="alto_00291_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_582.3" BETYPE="IDREF" FILEID="alto_00291_1"/>
+              <area BEGIN="BL_582.4" BETYPE="IDREF" FILEID="alto_00291_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="583" ORDERLABEL="581" TYPE="page">
+        <fptr FILEID="tiff_00292_0"/>
+        <fptr FILEID="jp2_00292_0"/>
+        <fptr FILEID="alto_00292_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_583.3" BETYPE="IDREF" FILEID="alto_00292_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_583.2" BETYPE="IDREF" FILEID="alto_00292_0"/>
+              <area BEGIN="BL_583.4" BETYPE="IDREF" FILEID="alto_00292_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="584" ORDERLABEL="582" TYPE="page">
+        <fptr FILEID="tiff_00292_1"/>
+        <fptr FILEID="jp2_00292_1"/>
+        <fptr FILEID="alto_00292_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_584.3" BETYPE="IDREF" FILEID="alto_00292_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_584.4" BETYPE="IDREF" FILEID="alto_00292_1"/>
+              <area BEGIN="BL_584.5" BETYPE="IDREF" FILEID="alto_00292_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_584.9" BETYPE="IDREF" FILEID="alto_00292_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b580-8" BETYPE="IDREF" FILEID="casebody_0133"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_580.7" BETYPE="IDREF" FILEID="alto_00290_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b582-10" BETYPE="IDREF" FILEID="casebody_0133"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_582.8" BETYPE="IDREF" FILEID="alto_00291_1"/>
+            <area BEGIN="BL_583.1" BETYPE="IDREF" FILEID="alto_00292_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ATZ" BETYPE="IDREF" FILEID="casebody_0133"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_580.12" BETYPE="IDREF" FILEID="alto_00290_1"/>
+            <area BEGIN="BL_580.13" BETYPE="IDREF" FILEID="alto_00290_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b581-6" BETYPE="IDREF" FILEID="casebody_0133"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_581.6" BETYPE="IDREF" FILEID="alto_00291_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b581-5" BETYPE="IDREF" FILEID="casebody_0133"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_581.5" BETYPE="IDREF" FILEID="alto_00291_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b582-9" BETYPE="IDREF" FILEID="casebody_0133"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_582.7" BETYPE="IDREF" FILEID="alto_00291_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b581-8" BETYPE="IDREF" FILEID="casebody_0133"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_581.7" BETYPE="IDREF" FILEID="alto_00291_0"/>
+            <area BEGIN="BL_582.1" BETYPE="IDREF" FILEID="alto_00291_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b582-8" BETYPE="IDREF" FILEID="casebody_0133"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_582.6" BETYPE="IDREF" FILEID="alto_00291_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b583-8" BETYPE="IDREF" FILEID="casebody_0133"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_583.7" BETYPE="IDREF" FILEID="alto_00292_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b583-9" BETYPE="IDREF" FILEID="casebody_0133"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_583.8" BETYPE="IDREF" FILEID="alto_00292_0"/>
+            <area BEGIN="BL_584.1" BETYPE="IDREF" FILEID="alto_00292_1"/>
+            <area BEGIN="BL_584.2" BETYPE="IDREF" FILEID="alto_00292_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b580-10" BETYPE="IDREF" FILEID="casebody_0133"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_580.9" BETYPE="IDREF" FILEID="alto_00290_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b580-7" BETYPE="IDREF" FILEID="casebody_0133"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_580.6" BETYPE="IDREF" FILEID="alto_00290_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b580-6" BETYPE="IDREF" FILEID="casebody_0133"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_580.5" BETYPE="IDREF" FILEID="alto_00290_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b584-9" BETYPE="IDREF" FILEID="casebody_0133"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_584.8" BETYPE="IDREF" FILEID="alto_00292_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b584-8" BETYPE="IDREF" FILEID="casebody_0133"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_584.7" BETYPE="IDREF" FILEID="alto_00292_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b584-7" BETYPE="IDREF" FILEID="casebody_0133"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_584.6" BETYPE="IDREF" FILEID="alto_00292_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b580-9" BETYPE="IDREF" FILEID="casebody_0133"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_580.8" BETYPE="IDREF" FILEID="alto_00290_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b582-6" BETYPE="IDREF" FILEID="casebody_0133"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_582.5" BETYPE="IDREF" FILEID="alto_00291_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b583-6" BETYPE="IDREF" FILEID="casebody_0133"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_583.5" BETYPE="IDREF" FILEID="alto_00292_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b583-7" BETYPE="IDREF" FILEID="casebody_0133"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_583.6" BETYPE="IDREF" FILEID="alto_00292_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b580-13" BETYPE="IDREF" FILEID="casebody_0133"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_580.14" BETYPE="IDREF" FILEID="alto_00290_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b580-12" BETYPE="IDREF" FILEID="casebody_0133"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_580.11" BETYPE="IDREF" FILEID="alto_00290_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b580-11" BETYPE="IDREF" FILEID="casebody_0133"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_580.10" BETYPE="IDREF" FILEID="alto_00290_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b580-14" BETYPE="IDREF" FILEID="casebody_0133"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_580.15" BETYPE="IDREF" FILEID="alto_00290_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b580-15" BETYPE="IDREF" FILEID="casebody_0133"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_580.16" BETYPE="IDREF" FILEID="alto_00290_1"/>
+            <area BEGIN="BL_581.1" BETYPE="IDREF" FILEID="alto_00291_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b580-5" BETYPE="IDREF" FILEID="casebody_0133"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_580.4" BETYPE="IDREF" FILEID="alto_00290_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

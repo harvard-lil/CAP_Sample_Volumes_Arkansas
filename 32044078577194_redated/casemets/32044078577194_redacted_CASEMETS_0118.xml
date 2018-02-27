@@ -1,0 +1,473 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0118" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Loyd v. Knight">Doyne LOYD, et al., as Members of the Chicot County Bd. of Educ., Tommy POOLE, et al., Sam ADKISSON, et al., as Members of Lake Village Pub. School Dist. Bd. of Dir. v. Lonnie KNIGHT, et al., as Members of Ross Van Ness School Bd. of Dir., James HANDIE, et al., as Members of Eudora School Dist. &amp; Bd. of Directors</name>
+          <docketnumber>85-259</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 474</citation>
+          <citation category="parallel" type="bluebook">706 S.W.2d 393</citation>
+          <decisiondate>1986-04-07</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:01Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00254_1" MIMETYPE="image/tiff" CHECKSUM="47bc91f78d1eca1ab88f67540711c402" CHECKSUMTYPE="MD5" SIZE="36520">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00254_1.tif"/>
+      </file>
+      <file ID="tiff_00255_0" MIMETYPE="image/tiff" CHECKSUM="05faeefab7890cfc5f245b8ca3eac3fb" CHECKSUMTYPE="MD5" SIZE="34292">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00255_0.tif"/>
+      </file>
+      <file ID="tiff_00255_1" MIMETYPE="image/tiff" CHECKSUM="a10accf6335fef32e4a1283e6737d9b0" CHECKSUMTYPE="MD5" SIZE="54558">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00255_1.tif"/>
+      </file>
+      <file ID="tiff_00256_0" MIMETYPE="image/tiff" CHECKSUM="cf777e7728910e364ea3f33c47474501" CHECKSUMTYPE="MD5" SIZE="52662">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00256_0.tif"/>
+      </file>
+      <file ID="tiff_00256_1" MIMETYPE="image/tiff" CHECKSUM="3c079b430e8e1abe775e4ada681cef45" CHECKSUMTYPE="MD5" SIZE="8490">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00256_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00254_1" MIMETYPE="image/jp2" CHECKSUM="cf192d0bbe15d000318f55fc4df0505b" CHECKSUMTYPE="MD5" SIZE="2289911">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00254_1.jp2"/>
+      </file>
+      <file ID="jp2_00255_0" MIMETYPE="image/jp2" CHECKSUM="7b989c80ea308cc59d0d4b5dca96fa4f" CHECKSUMTYPE="MD5" SIZE="2014149">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00255_0.jp2"/>
+      </file>
+      <file ID="jp2_00255_1" MIMETYPE="image/jp2" CHECKSUM="098e2938971869ade181479e2e56c2cf" CHECKSUMTYPE="MD5" SIZE="2580232">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00255_1.jp2"/>
+      </file>
+      <file ID="jp2_00256_0" MIMETYPE="image/jp2" CHECKSUM="f07cd1ac3874e0b63a64db9825c8a36d" CHECKSUMTYPE="MD5" SIZE="2533609">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00256_0.jp2"/>
+      </file>
+      <file ID="jp2_00256_1" MIMETYPE="image/jp2" CHECKSUM="8c323c385a0efbe6991d08e553ecca83" CHECKSUMTYPE="MD5" SIZE="1369517">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00256_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00254_1" MIMETYPE="text/xml" CHECKSUM="ad17d9c77de77a4b9650fcf55aa1b29c" CHECKSUMTYPE="MD5" SIZE="61844">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00254_1.xml"/>
+      </file>
+      <file ID="alto_00255_0" MIMETYPE="text/xml" CHECKSUM="8bbe5899312220de4389714a0ec3aa8d" CHECKSUMTYPE="MD5" SIZE="56464">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00255_0.xml"/>
+      </file>
+      <file ID="alto_00255_1" MIMETYPE="text/xml" CHECKSUM="21a2218380885155e090765fe1b7abd1" CHECKSUMTYPE="MD5" SIZE="89036">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00255_1.xml"/>
+      </file>
+      <file ID="alto_00256_0" MIMETYPE="text/xml" CHECKSUM="950bdffcd565498f5b229ecb4a9b9922" CHECKSUMTYPE="MD5" SIZE="82198">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00256_0.xml"/>
+      </file>
+      <file ID="alto_00256_1" MIMETYPE="text/xml" CHECKSUM="e72b30c51c5f9afb84edadc02d7b31a4" CHECKSUMTYPE="MD5" SIZE="10257">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00256_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0118" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="474" lastpage="478">
+              <court pgmap="508" id="b508-12">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="508" id="b508-11">85-259</docketnumber>
+              <citation pgmap="508" id="Aq8">706 S.W.2d 393</citation>
+              <parties pgmap="508" id="b508-10">Doyne LOYD, et al., as Members of the Chicot County Bd. of Educ., Tommy POOLE, et al., Sam ADKISSON, et al., as Members of Lake Village Pub. School Dist. Bd. of Dir. v. Lonnie KNIGHT, et al., as Members of Ross Van Ness School Bd. of Dir., James HANDIE, et al., as Members of Eudora School Dist. &amp; Bd. of Directors</parties>
+              <decisiondate pgmap="508" id="AvtJ">Opinion delivered April 7, 1986</decisiondate>
+              <judges pgmap="512" id="b512-3">Hays and Purtle, JJ., not participating.</judges>
+              <attorneys pgmap="509" id="b509-8">Tarvin &amp; Byrd, by: Timothy R. Tarvin and John R. Byrd, for appellants Sam Adkisson and Tommy Poole.</attorneys>
+              <attorneys pgmap="509" id="b509-9">Arnold, Hamilton &amp; Streetman, by: Herman L. Hamilton, Jr., for appellant Doyne Loyd.</attorneys>
+              <attorneys pgmap="509" id="b509-10">Gibson &amp; Gibson, P.A., by R. Bynum Gibson, Jr., for appellee Eudora School District.</attorneys>
+              <opinion type="majority">
+                <author pgmap="509" id="b509-11">Jack Holt, Jr., Chief Justice.</author>
+                <p pgmap="509" id="Aoy">This case presents the question: When a proper petition is filed under Act 445 of 1983, as amended, codified at Ark. Stat. Ann. §§ 80-4601 — 80-4612 (Supp. 1985), with a county board of education for annexation of school districts, must the Board annex districts that are contigu­ous? The answer is “yes”, and we affirm the holdings of the lower court. Our jurisdiction is pursuant to Supreme Court Rule 29(l)(c).</p>
+                <p pgmap="509(109) 510(115)" id="b509-12">This action began on May 25,1985, when the Ross Van Ness School Board filed a petition with the Chicot County Board of Education to annex its district to the Eudora School District, a contiguous district, pursuant to Ark. Stat. Ann. § 80-4609(c). On June 10,1985, a majority of the Ross Van Ness patrons petitioned the Chicot County Board of Education to dissolve Ross Van Ness and to annex its district to a noncontiguous area, the Lakeside (Lake Village) School District, pursuant to Ark. Stat. Ann. § 80-­418 (Repl. 1980). A hearing was held on June 24,1985, at which the Board of Education adopted the Ross Van Ness patrons’ petition. The Ross Van Ness and the Eudora School Boards appealed the board of education’s order to the Chicot County Circuit Court. The circuit court held that Act 445 of 1983, as amended, mandated annexation to adjoining districts and gave the board no discretion to deny the petition of the Ross Van Ness School Board since the Ross Van Ness School District adjoined the Eudora School District and did not adjoin the Lakeside (Lake Village) District. The lower court then set aside the board of education’s ruling and ordered that the Ross Van Ness School District be annexed to the Eudora School District. From these adverse rulings the appellants appeal and the appellees cross appeal.</p>
+                <p pgmap="510" id="b510-6">Act 445 of 1983 is known as the Quality Education Act. The Act’s primary goal is the elimination of all public elementary and secondary schools that fall below the minimum standards for accreditation as set forth by the State Board of Education. Section 2 of Act 445, codified as Ark. Stat. Ann. § 80-4602(a), provides that all schools failing to meet the minimum standards shall be eliminated no later than June 1, 1987, and districts operating such schools shall be dissolved and annexed to another district or districts which comply with the minimum standards. This statute also states, “The County Board of Education shall abolish said districts and shall annex the territory of such districts to the receiving district or districts in a geographically contiguous manner.”</p>
+                <p pgmap="510" id="b510-7">Section 9 of Act 445 of 1983, amended by Act 61 (First Extraordinary Session of 1983) and codified as Ark. Stat. Ann. § 80-4609, states:</p>
+                <blockquote pgmap="510(111) 511(35)" id="b510-8">(c) Between June 1, 1984, and June 1, 1987, any school district may be annexed to one or more adjoining school districts by petitioning the county board of educa­tion of the county in which such district is administered to order the annexation. The annexation request may be by resolution of the board of directors of the district or by a petition signed by a majority of the qualified electors in the district. Upon receipt of a request for annexation, the county board of education shall hold a hearing on the request and shall then order the annexation of the district to one or more adjoining school districts. If the county board of education fails to act within sixty (60) days of receipt of a request for annexation, the petitioning district may request the circuit court to issue a writ of mandamus to said county board.</blockquote>
+                <p pgmap="511" id="b511-4">
+                   Inasmuch as the Ross Van Ness School Board peti­tioned for annexation under Act 445, as amended, the Act left the Chicot County Board of Education without discretion to deny the petition of the school board requesting annexation to the adjoin­ing Eudora School District. Section 80-4602(a) and section 80-­4609(c) state that the county board of education shall order annexation to adjoining districts. The word “shall” when used in a statute means that the legislature intended mandatory compli­ance with the statute unless such an interpretation would lead to an absurdity. Arkansas State Highway Commission v. Mabry, 229 Ark. 261, 315 S.W.2d 900 (1958). To require annexation to the adjoining districts is reasonable and practical. Annexation to the adjoining districts, among other things, promotes the sharing of physical plants among the schools, facilitates the objectives of Act 445, limits the distance to be travelled by students, and maintains existing communities.</p>
+                <p pgmap="511" id="b511-5">
+                   We affirmed annexation to an adjoining school district across county lines under Act 229 of 1969, the precursor of Act 445 of 1983, in Saline County Board of Education v. Hot Springs Board of Education, 270 Ark. 136, 603 S.W.2d 413 (1980), recognizing that, in matters of education, our constitution (art. 14, § 1, as amended) vests in the legislature the duty and authority to make provision for the establishment, maintenance and support of a common school system in our state.</p>
+                <p pgmap="511" id="b511-6">
+                   We, therefore, conclude that once a proper petition is filed with a county board of education under Act 445, annexation to adjoining districts is mandatory and such filings preempt utilization of other enactments, such as § 80-418. Accordingly, the Chicot County Board of Education did not have discretion to deny the Ross Van Ness School Board’s petition.</p>
+                <p pgmap="511" id="b511-7">The appellee raises several issues on cross appeal; however, in light of our holding these points need not be addressed.</p>
+                <p pgmap="511" id="b511-8">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="508" ORDERLABEL="474" TYPE="page">
+        <fptr FILEID="tiff_00254_1"/>
+        <fptr FILEID="jp2_00254_1"/>
+        <fptr FILEID="alto_00254_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_508.2" BETYPE="IDREF" FILEID="alto_00254_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="509" ORDERLABEL="475" TYPE="page">
+        <fptr FILEID="tiff_00255_0"/>
+        <fptr FILEID="jp2_00255_0"/>
+        <fptr FILEID="alto_00255_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_509.3" BETYPE="IDREF" FILEID="alto_00255_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="510" ORDERLABEL="476" TYPE="page">
+        <fptr FILEID="tiff_00255_1"/>
+        <fptr FILEID="jp2_00255_1"/>
+        <fptr FILEID="alto_00255_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_510.2" BETYPE="IDREF" FILEID="alto_00255_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="511" ORDERLABEL="477" TYPE="page">
+        <fptr FILEID="tiff_00256_0"/>
+        <fptr FILEID="jp2_00256_0"/>
+        <fptr FILEID="alto_00256_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_511.3" BETYPE="IDREF" FILEID="alto_00256_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="512" ORDERLABEL="478" TYPE="page">
+        <fptr FILEID="tiff_00256_1"/>
+        <fptr FILEID="jp2_00256_1"/>
+        <fptr FILEID="alto_00256_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_512.1" BETYPE="IDREF" FILEID="alto_00256_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b511-5" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_511.5" BETYPE="IDREF" FILEID="alto_00256_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b511-4" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_511.4" BETYPE="IDREF" FILEID="alto_00256_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b511-7" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_511.7" BETYPE="IDREF" FILEID="alto_00256_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b511-6" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_511.6" BETYPE="IDREF" FILEID="alto_00256_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b512-3" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_512.3" BETYPE="IDREF" FILEID="alto_00256_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b509-8" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_509.8" BETYPE="IDREF" FILEID="alto_00255_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b509-9" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_509.9" BETYPE="IDREF" FILEID="alto_00255_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AvtJ" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_508.13" BETYPE="IDREF" FILEID="alto_00254_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b508-12" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_508.12" BETYPE="IDREF" FILEID="alto_00254_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b508-11" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_508.10" BETYPE="IDREF" FILEID="alto_00254_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b508-10" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_508.9" BETYPE="IDREF" FILEID="alto_00254_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aoy" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_509.12" BETYPE="IDREF" FILEID="alto_00255_0"/>
+            <area BEGIN="BL_509.13" BETYPE="IDREF" FILEID="alto_00255_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b509-12" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_509.14" BETYPE="IDREF" FILEID="alto_00255_0"/>
+            <area BEGIN="BL_510.1" BETYPE="IDREF" FILEID="alto_00255_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b509-10" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_509.10" BETYPE="IDREF" FILEID="alto_00255_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b509-11" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_509.11" BETYPE="IDREF" FILEID="alto_00255_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b510-6" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_510.4" BETYPE="IDREF" FILEID="alto_00255_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b510-7" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_510.5" BETYPE="IDREF" FILEID="alto_00255_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b511-8" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_511.8" BETYPE="IDREF" FILEID="alto_00256_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aq8" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_508.11" BETYPE="IDREF" FILEID="alto_00254_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b510-8" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_510.6" BETYPE="IDREF" FILEID="alto_00255_1"/>
+            <area BEGIN="BL_511.1" BETYPE="IDREF" FILEID="alto_00256_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,597 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0019" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Ragland v. Yeargan">Charles D. RAGLAND, Commissioner of Revenues of the State of Arkansas v. Earl YEARGAN</name>
+          <docketnumber>85-196</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 81</citation>
+          <citation category="parallel" type="bluebook">702 S.W.2d 23</citation>
+          <decisiondate>1986-01-21</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:00Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00054_0" MIMETYPE="image/tiff" CHECKSUM="d4003766cd5870e9d0c8ea88206a5f3f" CHECKSUMTYPE="MD5" SIZE="30780">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00054_0.tif"/>
+      </file>
+      <file ID="tiff_00054_1" MIMETYPE="image/tiff" CHECKSUM="3b78f1ffb65cc94f5f0c1d7a3c2a94e0" CHECKSUMTYPE="MD5" SIZE="24572">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00054_1.tif"/>
+      </file>
+      <file ID="tiff_00055_0" MIMETYPE="image/tiff" CHECKSUM="2bc42d66703d720dc54014559f7d3546" CHECKSUMTYPE="MD5" SIZE="47598">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00055_0.tif"/>
+      </file>
+      <file ID="tiff_00055_1" MIMETYPE="image/tiff" CHECKSUM="40769d3c3840536e5880bb2d240398d6" CHECKSUMTYPE="MD5" SIZE="48520">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00055_1.tif"/>
+      </file>
+      <file ID="tiff_00056_0" MIMETYPE="image/tiff" CHECKSUM="b107226d6fff4cc5bf918a604e4acd15" CHECKSUMTYPE="MD5" SIZE="55264">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00056_0.tif"/>
+      </file>
+      <file ID="tiff_00056_1" MIMETYPE="image/tiff" CHECKSUM="6b2103146a86dd1ee96454554d060e30" CHECKSUMTYPE="MD5" SIZE="17998">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00056_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00054_0" MIMETYPE="image/jp2" CHECKSUM="18c407b6c98be0847061404cb75c3b30" CHECKSUMTYPE="MD5" SIZE="2110968">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00054_0.jp2"/>
+      </file>
+      <file ID="jp2_00054_1" MIMETYPE="image/jp2" CHECKSUM="e7c33b6c2596330fafc7508454aa7572" CHECKSUMTYPE="MD5" SIZE="1708136">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00054_1.jp2"/>
+      </file>
+      <file ID="jp2_00055_0" MIMETYPE="image/jp2" CHECKSUM="5449e2cf4e96c600dff6d6cacdcfaeff" CHECKSUMTYPE="MD5" SIZE="2416044">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00055_0.jp2"/>
+      </file>
+      <file ID="jp2_00055_1" MIMETYPE="image/jp2" CHECKSUM="b70154773d0a81785a9201e9237711a5" CHECKSUMTYPE="MD5" SIZE="2480220">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00055_1.jp2"/>
+      </file>
+      <file ID="jp2_00056_0" MIMETYPE="image/jp2" CHECKSUM="b533c3f5c48b9d33be863de36f3ee59c" CHECKSUMTYPE="MD5" SIZE="2518577">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00056_0.jp2"/>
+      </file>
+      <file ID="jp2_00056_1" MIMETYPE="image/jp2" CHECKSUM="5e2f096359d75675f9700a68dfadd164" CHECKSUMTYPE="MD5" SIZE="1720046">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00056_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00054_0" MIMETYPE="text/xml" CHECKSUM="a9b9b1b0eaebffc3e100b9aae00febf4" CHECKSUMTYPE="MD5" SIZE="49602">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00054_0.xml"/>
+      </file>
+      <file ID="alto_00054_1" MIMETYPE="text/xml" CHECKSUM="e86bce867e11e3ae41b5091f1119207e" CHECKSUMTYPE="MD5" SIZE="41522">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00054_1.xml"/>
+      </file>
+      <file ID="alto_00055_0" MIMETYPE="text/xml" CHECKSUM="4ca0632421e44a3e8a15198485eca196" CHECKSUMTYPE="MD5" SIZE="79272">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00055_0.xml"/>
+      </file>
+      <file ID="alto_00055_1" MIMETYPE="text/xml" CHECKSUM="4bfbf55f7e239ae08860bea2b755d860" CHECKSUMTYPE="MD5" SIZE="81546">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00055_1.xml"/>
+      </file>
+      <file ID="alto_00056_0" MIMETYPE="text/xml" CHECKSUM="da3b04c29205bf95ae158aadb20979f3" CHECKSUMTYPE="MD5" SIZE="91843">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00056_0.xml"/>
+      </file>
+      <file ID="alto_00056_1" MIMETYPE="text/xml" CHECKSUM="1a11f7e710f233c39993866cf775a746" CHECKSUMTYPE="MD5" SIZE="29115">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00056_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0019" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="81" lastpage="86">
+              <court pgmap="107" id="b107-12">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="107" id="b107-11">85-196</docketnumber>
+              <citation pgmap="107" id="AAS">702 S.W.2d 23</citation>
+              <parties pgmap="107" id="b107-10">Charles D. RAGLAND, Commissioner of Revenues of the State of Arkansas v. Earl YEARGAN</parties>
+              <decisiondate pgmap="107" id="A9T">Opinion delivered January 21, 1986</decisiondate>
+              <judges pgmap="112" id="b112-5">Purtle, J., not participating.</judges>
+              <attorneys pgmap="108" id="b108-8">Timothy J. Leathers, Wayne Zakrzewski, Kelly Jennings, John Theis, Ann Kell, Joe Morphew, and Michael D. Munns, by: Joseph V. Svoboda, for appellant.</attorneys>
+              <attorneys pgmap="108" id="b108-9">Appellee, pro se.</attorneys>
+              <opinion type="majority">
+                <author pgmap="108" id="b108-10">Steele Hays, Justice.</author>
+                <p pgmap="108" id="AYV">The question raised by this appeal is whether the Commissioner of Revenues is required to disclose information concerning motor fuel taxes pursuant to the Freedom of Information Act (Act 93 of 1967) and the Arkansas Motor Fuel Tax Act (Act 383 of 1941), in light of the Arkansas Tax Procedure Act (Act 401 of 1979).<footnotemark>1</footnotemark> Our jurisdiction attaches under Rule 29(l)(c).</p>
+                <p pgmap="108(46) 109(61)" id="b108-11">Appellant, as Commissioner of Revenues, is the official custodian of all records filed under Arkansas tax laws. Earl Yeargan, appellee, is an individual residing in Pope County, Arkansas. On June 12, 1985 Yeargan asked the Commissioner for the names of persons, companies, or corporations that are licensed, bonded fuel dealers, wholesalers, or distributors cur­rently on the Commissioner’s books. Noting that he was required to disclose the information under the Freedom of Information Act and the Arkansas Motor Fuel Tax Act, but prohibited from disclosing confidential tax records under the Arkansas Tax Procedure Act, the Commissioner filed a petition for declaratory judgment in the Pulaski Chancery Court.</p>
+                <p pgmap="109" id="b109-6">Relying on Section 6(a) of the Tax Procedure Act, the chancellor declared that Yeargan had the right to inspect and copy the motor fuel tax records requested except those pertaining to a natural person, that is, an individual taxpayer. The Commis­sioner has appealed. We affirm the chancellor.</p>
+                <p pgmap="109" id="b109-7">The earliest of these acts is the Motor Fuel Tax Act of 1941 which provides in part:</p>
+                <blockquote pgmap="109" id="b109-8">Section 24. Public Inspection of Records. — The records of the Commissioner of Revenues pertaining to motor fuel taxes shall at all reasonable times be open to the public, with the approval of the Commissioner.</blockquote>
+                <p pgmap="109" id="b109-9">Next came the Freedom of Information Act in 1967 which expresses the public policy of Arkansas to be one of open government, in these terms:</p>
+                <blockquote pgmap="109" id="b109-10">Section 2. Declaration of Public Policy. It is vital in a democratic society that public business be performed in an open and public manner so that the electors shall be advised of the performance of public officials and of the decisions that are reached in public activity and in making public policy. Toward this end, this act is adopted, making it possible for them or their representatives, to learn and to report fully the activities of their public officials.</blockquote>
+                <p pgmap="109" id="b109-11">The Freedom of Information Act goes on to provide:</p>
+                <blockquote pgmap="109" id="b109-12">Except as otherwise specifically provided by laws now in effect, or laws hereafter specifically enacted to provide otherwise,... all records which by law are required to be kept and maintained shall be open to inspection and copying by any citizen of the State of Arkansas during the regular business hours of the custodian of records. (Our italics).</blockquote>
+                <p pgmap="110" id="b110-5">
+                   Elsewhere in the FOIA (Section 4) an exception from public inspection is made for state income taxes, medical, scholastic, and adoption records, and the like. But those excep­tions have no bearing on the records involved here. Thus, the Motor Fuel Tax Act specifically, and the Freedom of Information Act generally, provide for the inspection and copying of motor fuel tax records kept by the Commissioner of Revenues. This was the status of the law for nearly forty years when the Arkansas Tax Procedure Act was enacted in 1979.</p>
+                <p pgmap="110" id="b110-6">On appeal the Commissioner submits that language of the Tax Procedure Act, notably Section 6(a) and 6(c) suggests that all tax returns of any taxpayer are confidential. Section 6(a) of the act reads:</p>
+                <blockquote pgmap="110" id="b110-7">Records and files of Commissioner confidential and privi­leged — Exception—Inspection.—(a) The Commissioner is the official custodian of all records and files required by any State tax law to be filed with the Commissioner and is required to take all steps necessary to maintain their confidentiality. Except as otherwise provided by this act [§§ 84-4701 — 84-4744], the records and files of the Commissioner concerning the administration of any State tax law are confidential and privileged. These records and files and any information obtained from these records or files or from any examination or inspection of the premises or property of any taxpayer shall not be divulged or disclosed by the Commissioner or any other person who may have obtained these records and files. It is the specific intent of this act that all tax returns, audit reports and information pertaining to any individual tax returns not be subject to the provisions of Act 93 of 1967 [§§ 12-2801 — 12-2807], as amended.</blockquote>
+                <p pgmap="110" id="b110-8">Section 6(c) also uses inclusive language:</p>
+                <blockquote pgmap="110" id="b110-9">(c) The provisions of this section shall be strictly inter­preted and shall not permit any other disclosure of infor­mation concerning a taxpayer contained in the records and files of the Commissioner relating to income tax or any other State tax.</blockquote>
+                <p pgmap="110(9) 111(88)" id="b110-10">
+                   Appellee Yeargan points out that the final sentence of Section 6(a) limits the application of the FOIA to individual tax returns, and on that basis the chancellor held that records of motor fuel taxpayers except those of individuals are not excluded from inspection and copying. While there is room for considera­ble doubt as to what was intended under the wording of the Tax Procedure Act, the only specific lifting of the disclosure require­ments of the FOIA found in the Tax Procedure Act is limited to individual tax returns and we think that language must govern.</p>
+                <p pgmap="111" id="b111-6">The Commissioner contends it would be incongruent to exempt the motor fuel tax returns of individuals, while denying that protection to corporations and partnerships. We concede some merit to the argument, though not enough to compel us to rewrite the enactment. The financial records of corporations and other business entities have traditionally enjoyed less privacy than individuals and that may have influenced the language used in the Tax Procedure Act.</p>
+                <p pgmap="111" id="b111-7">
+                   We recognize the principle that enactments on the same subject are to be read in pari materia, with each to be given effect whenever possible, Vandiver v. Washington County, 274 Ark. 561, 628 S.W.2d 1 (1982). The only means by which we can give these enactments equal effect is to reach the same conclusion as the chancellor and limit the confidentiality of motor fuel tax records to those involving individual taxpayers. To do otherwise would require two things, equally undesirable: we would have to repeal by implication that portion of the Motor Fuel Tax Act making those records public, a form of judicial legislating which we do not favor, Nance v. Williams, 263 Ark. 237, 564 S.W.2d 213(1978), and we would have to apply a narrow construction to the Freedom of Information Act against a line of our cases and authorities urging the contrary. Baxter County Newspapers, Inc. v. Medical Staff of Baxter General Hospital, 273 Ark. 511, 622 S.W.2d 495 (1981); North Central Assn. of Colleges and Schools v. Troutt Bros., Inc., 261 Ark. 378, 548 S.W.2d 825 (1977); Ark. Gazette v. Pickens, 258 Ark. 69, 522 S.W.2d 350 (1975); Laman v. McCord, 245 Ark. 401, 432 S.W.2d 753 (1968); See “Access to Public Records Under the Arkansas Freedom of Information Act,” Professor John J. Watkins, 37 Ark. Law Review 742.</p>
+                <p pgmap="111(10) 112(71)" id="b111-8">
+                   We conclude that the objectives of the FOIA are such that whenever the legislature fails to specify that any records in the public domain are to be excluded from inspection, or is less than clear in its intendments, then privacy must yield to openness and secrecy to the public’s right to know the status of its own affairs. We hold, therefore, that the burden of confidentiality rests on the legislation itself, and if the intention is doubtful, openness is the result.</p>
+                <p pgmap="112" id="b112-4">The order appealed from is affirmed.</p>
+                <footnote label="1">
+                  <p pgmap="108" id="b108-12">1 These acts are codified, respectively, as Ark. Stat. Ann. § 12-2801 et seq., Ark. Stat. Ann. § 75-1101 et seq. and Ark. Stat. Ann. § 84-4701 et seq.</p>
+                </footnote>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="107" ORDERLABEL="81" TYPE="page">
+        <fptr FILEID="tiff_00054_0"/>
+        <fptr FILEID="jp2_00054_0"/>
+        <fptr FILEID="alto_00054_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_107.3" BETYPE="IDREF" FILEID="alto_00054_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="108" ORDERLABEL="82" TYPE="page">
+        <fptr FILEID="tiff_00054_1"/>
+        <fptr FILEID="jp2_00054_1"/>
+        <fptr FILEID="alto_00054_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_108.2" BETYPE="IDREF" FILEID="alto_00054_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="109" ORDERLABEL="83" TYPE="page">
+        <fptr FILEID="tiff_00055_0"/>
+        <fptr FILEID="jp2_00055_0"/>
+        <fptr FILEID="alto_00055_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_109.3" BETYPE="IDREF" FILEID="alto_00055_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="110" ORDERLABEL="84" TYPE="page">
+        <fptr FILEID="tiff_00055_1"/>
+        <fptr FILEID="jp2_00055_1"/>
+        <fptr FILEID="alto_00055_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_110.1" BETYPE="IDREF" FILEID="alto_00055_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="111" ORDERLABEL="85" TYPE="page">
+        <fptr FILEID="tiff_00056_0"/>
+        <fptr FILEID="jp2_00056_0"/>
+        <fptr FILEID="alto_00056_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_111.3" BETYPE="IDREF" FILEID="alto_00056_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="112" ORDERLABEL="86" TYPE="page">
+        <fptr FILEID="tiff_00056_1"/>
+        <fptr FILEID="jp2_00056_1"/>
+        <fptr FILEID="alto_00056_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_112.2" BETYPE="IDREF" FILEID="alto_00056_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AAS" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_107.11" BETYPE="IDREF" FILEID="alto_00054_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b107-12" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_107.12" BETYPE="IDREF" FILEID="alto_00054_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b107-10" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_107.9" BETYPE="IDREF" FILEID="alto_00054_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b107-11" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_107.10" BETYPE="IDREF" FILEID="alto_00054_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b111-6" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_111.4" BETYPE="IDREF" FILEID="alto_00056_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b111-7" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_111.5" BETYPE="IDREF" FILEID="alto_00056_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b110-7" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_110.5" BETYPE="IDREF" FILEID="alto_00055_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AYV" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_108.9" BETYPE="IDREF" FILEID="alto_00054_1"/>
+            <area BEGIN="BL_108.10" BETYPE="IDREF" FILEID="alto_00054_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b110-6" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_110.4" BETYPE="IDREF" FILEID="alto_00055_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b112-5" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_112.5" BETYPE="IDREF" FILEID="alto_00056_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b110-5" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_110.3" BETYPE="IDREF" FILEID="alto_00055_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b108-11" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_108.11" BETYPE="IDREF" FILEID="alto_00054_1"/>
+            <area BEGIN="BL_109.1" BETYPE="IDREF" FILEID="alto_00055_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b108-10" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_108.8" BETYPE="IDREF" FILEID="alto_00054_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b110-8" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_110.6" BETYPE="IDREF" FILEID="alto_00055_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b110-9" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_110.7" BETYPE="IDREF" FILEID="alto_00055_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b111-8" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_111.6" BETYPE="IDREF" FILEID="alto_00056_0"/>
+            <area BEGIN="BL_112.1" BETYPE="IDREF" FILEID="alto_00056_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b109-10" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_109.8" BETYPE="IDREF" FILEID="alto_00055_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b109-11" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_109.9" BETYPE="IDREF" FILEID="alto_00055_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b109-12" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_109.10" BETYPE="IDREF" FILEID="alto_00055_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b110-10" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_110.8" BETYPE="IDREF" FILEID="alto_00055_1"/>
+            <area BEGIN="BL_111.1" BETYPE="IDREF" FILEID="alto_00056_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b112-4" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_112.4" BETYPE="IDREF" FILEID="alto_00056_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A9T" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_107.13" BETYPE="IDREF" FILEID="alto_00054_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b109-8" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_109.6" BETYPE="IDREF" FILEID="alto_00055_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b109-9" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_109.7" BETYPE="IDREF" FILEID="alto_00055_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b109-6" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_109.4" BETYPE="IDREF" FILEID="alto_00055_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b109-7" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_109.5" BETYPE="IDREF" FILEID="alto_00055_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b108-9" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_108.7" BETYPE="IDREF" FILEID="alto_00054_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b108-8" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_108.6" BETYPE="IDREF" FILEID="alto_00054_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b108-12" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_108.12" BETYPE="IDREF" FILEID="alto_00054_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

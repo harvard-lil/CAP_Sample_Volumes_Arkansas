@@ -1,0 +1,375 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0040" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Harwood v. Lofton">Michael A. HARWOOD v. Floyd J. LOFTON, Judge</name>
+          <docketnumber>CR 85-185</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 173</citation>
+          <citation category="parallel" type="bluebook">702 S.W.2d 805</citation>
+          <decisiondate>1986-02-10</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:00Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00100_0" MIMETYPE="image/tiff" CHECKSUM="66d934c238513432e04b47b3869b8778" CHECKSUMTYPE="MD5" SIZE="19580">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00100_0.tif"/>
+      </file>
+      <file ID="tiff_00100_1" MIMETYPE="image/tiff" CHECKSUM="192decb6973eadc4341fcb9f196e4e76" CHECKSUMTYPE="MD5" SIZE="49664">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00100_1.tif"/>
+      </file>
+      <file ID="tiff_00101_0" MIMETYPE="image/tiff" CHECKSUM="d80db261925095269e8be92f64178cb6" CHECKSUMTYPE="MD5" SIZE="33506">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00101_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00100_0" MIMETYPE="image/jp2" CHECKSUM="e7862b1cd4879ac24fbb250b8b72ce2a" CHECKSUMTYPE="MD5" SIZE="1766891">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00100_0.jp2"/>
+      </file>
+      <file ID="jp2_00100_1" MIMETYPE="image/jp2" CHECKSUM="1a60ea955bfc8feeb284819da048630f" CHECKSUMTYPE="MD5" SIZE="2465511">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00100_1.jp2"/>
+      </file>
+      <file ID="jp2_00101_0" MIMETYPE="image/jp2" CHECKSUM="3205307b79345cf52f872b3966c9fa9a" CHECKSUMTYPE="MD5" SIZE="2181163">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00101_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00100_0" MIMETYPE="text/xml" CHECKSUM="651b56f8b4471b485f82e9284d2e4601" CHECKSUMTYPE="MD5" SIZE="32247">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00100_0.xml"/>
+      </file>
+      <file ID="alto_00100_1" MIMETYPE="text/xml" CHECKSUM="09e2ef08c8ec11430fa0308d487d6707" CHECKSUMTYPE="MD5" SIZE="85042">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00100_1.xml"/>
+      </file>
+      <file ID="alto_00101_0" MIMETYPE="text/xml" CHECKSUM="c4cc8d7a51301f7ef0158680419cbfd7" CHECKSUMTYPE="MD5" SIZE="58593">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00101_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0040" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="173" lastpage="175">
+              <court pgmap="199" id="b199-12">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="199" id="b199-11">CR 85-185</docketnumber>
+              <citation pgmap="199" id="AjG">702 S.W.2d 805</citation>
+              <parties pgmap="199" id="b199-10">Michael A. HARWOOD v. Floyd J. LOFTON, Judge</parties>
+              <decisiondate pgmap="199" id="AY4">Opinion delivered February 10, 1986</decisiondate>
+              <judges pgmap="201" id="b201-8">Purtle, J., not participating.</judges>
+              <attorneys pgmap="200" id="b200-6">William R. Simpson, Jr., Public Defender, by: Arthur L. Allen, Deputy Public Defender, for petitioner.</attorneys>
+              <attorneys pgmap="200" id="b200-7">Steve Clark, Att’y Gen., by: Charles R. Lucas, Asst. Att’y Gen., for respondent.</attorneys>
+              <opinion type="majority">
+                <author pgmap="200" id="b200-8">George Rose Smith, Justice.</author>
+                <p pgmap="200" id="ARq">On December 9, 1983, the petitioner was stopped and arrested for DWI. His resistance to the officers resulted in an additional charge of second-degree battery. The DWI charge, a misdemeanor, was promptly tried in municipal court. Petitioner’s appeal from that conviction was consolidated in the Pulaski Circuit Court, Fourth Division, with the pending felony charge.</p>
+                <p pgmap="200" id="b200-9">On September 4,1985, after the case had been transferred to the First Division, petitioner filed a motion to dismiss for want of a speedy trial. By then the lapse of time since the arrest was almost 21 months. The First Division judge, who was not in any way at fault, denied the motion to dismiss, in the belief that the issue should be tested by an application to this court for a writ of prohibition. We issued a temporary writ, and the case has now been submitted on briefs. We find that the charges should have been dismissed.</p>
+                <p pgmap="200" id="b200-10">
+                   The maximum permissible delay, after the exclusion of delays chargeable to the defense, is 18 months, A.R.Cr.P. Rule 28.1(c) (Supp. 1985). A two-month delay was admittedly so chargeable; the court’s docket entry recites that the continuance was on motion of the defense. Still, the only way the total delay can be reduced to less than 18 months is for the defense to be charged with another continuance from November 2, 1984, to January 22,1985. The court’s docket reflects the resetting of the case for trial on January 22, but the docket entry does not state why or at whose request the case was reset.</p>
+                <p pgmap="200(64) 201(110)" id="b200-11">
+                   When the time allowed by the speedy trial rule has been exceeded, the prosecution has the burden of proving that the delay was legally justified. State v. Lewis, 268 Ark. 359, 596 S.W.2d 697 (1980). Here the pertinent testimony was that of the deputy prosecutor who was handling the case. The critical docket entry was dated November 2, 1984. The deputy testified that a day or two after she interviewed her witnesses on October 31, she talked to the defense and learned that the case was not to be tried on November 8, as scheduled. “I remember him saying at that time that that case is not going to trial on that date, and giving me the reasons why, which I do not remember.” She went on to say that she was present when the case was continued on November 2: “And on November 2nd I made the motion that it was continued at that point on the defense request. . . . I do not know why it’s not reflected on the docket.”</p>
+                <p pgmap="201" id="b201-6">
+                   The prosecution failed to sustain its burden of proof. The witness could not remember why the case had been contin­ued, leaving the possibility that the delay might have been excludable even though requested by defense counsel. Moreover, the deputy prosecutor was present and made the motion that the case be continued, but failed to make certain that the docket entry reflected which side was responsible for the delay. Understanda­bly, it could not then have been foreseen that the omission would eventually be decisive, but we must nevertheless conclude that the State’s failure to make a complete record is fatal to its present argument.</p>
+                <p pgmap="201" id="b201-7">Writ granted.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="199" ORDERLABEL="173" TYPE="page">
+        <fptr FILEID="tiff_00100_0"/>
+        <fptr FILEID="jp2_00100_0"/>
+        <fptr FILEID="alto_00100_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_199.2" BETYPE="IDREF" FILEID="alto_00100_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="200" ORDERLABEL="174" TYPE="page">
+        <fptr FILEID="tiff_00100_1"/>
+        <fptr FILEID="jp2_00100_1"/>
+        <fptr FILEID="alto_00100_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_200.1" BETYPE="IDREF" FILEID="alto_00100_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="201" ORDERLABEL="175" TYPE="page">
+        <fptr FILEID="tiff_00101_0"/>
+        <fptr FILEID="jp2_00101_0"/>
+        <fptr FILEID="alto_00101_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_201.3" BETYPE="IDREF" FILEID="alto_00101_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b200-10" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_200.12" BETYPE="IDREF" FILEID="alto_00100_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b200-11" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_200.13" BETYPE="IDREF" FILEID="alto_00100_1"/>
+            <area BEGIN="BL_201.1" BETYPE="IDREF" FILEID="alto_00101_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AjG" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_199.13" BETYPE="IDREF" FILEID="alto_00100_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AY4" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_199.15" BETYPE="IDREF" FILEID="alto_00100_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b200-8" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_200.8" BETYPE="IDREF" FILEID="alto_00100_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b200-9" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_200.11" BETYPE="IDREF" FILEID="alto_00100_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b201-7" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_201.5" BETYPE="IDREF" FILEID="alto_00101_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b201-6" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_201.4" BETYPE="IDREF" FILEID="alto_00101_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ARq" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_200.9" BETYPE="IDREF" FILEID="alto_00100_1"/>
+            <area BEGIN="BL_200.10" BETYPE="IDREF" FILEID="alto_00100_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b199-10" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_199.11" BETYPE="IDREF" FILEID="alto_00100_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b199-12" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_199.14" BETYPE="IDREF" FILEID="alto_00100_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b199-11" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_199.12" BETYPE="IDREF" FILEID="alto_00100_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b201-8" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_201.6" BETYPE="IDREF" FILEID="alto_00101_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b200-6" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_200.6" BETYPE="IDREF" FILEID="alto_00100_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b200-7" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_200.7" BETYPE="IDREF" FILEID="alto_00100_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

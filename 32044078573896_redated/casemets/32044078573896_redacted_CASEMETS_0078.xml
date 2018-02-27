@@ -1,0 +1,526 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0078" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Block v. Kirtland">Block vs. Kirtland</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 393</citation>
+          <decisiondate>1860-07</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00198_0" MIMETYPE="image/tiff" CHECKSUM="102d31c2555fd29f26edd99335c8ef7e" CHECKSUMTYPE="MD5" SIZE="33744">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00198_0.tif"/>
+      </file>
+      <file ID="tiff_00198_1" MIMETYPE="image/tiff" CHECKSUM="f079a9d47e3940575a242ea357d1f8c1" CHECKSUMTYPE="MD5" SIZE="51926">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00198_1.tif"/>
+      </file>
+      <file ID="tiff_00199_0" MIMETYPE="image/tiff" CHECKSUM="833bfec504772649b7d147d340990c5a" CHECKSUMTYPE="MD5" SIZE="44470">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00199_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00198_0" MIMETYPE="image/jp2" CHECKSUM="e0b148abc16a67c4d6a1a3cb5764836b" CHECKSUMTYPE="MD5" SIZE="2595499">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00198_0.jp2"/>
+      </file>
+      <file ID="jp2_00198_1" MIMETYPE="image/jp2" CHECKSUM="ce546c33cee74c48768c4d0dde520dea" CHECKSUMTYPE="MD5" SIZE="2637356">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00198_1.jp2"/>
+      </file>
+      <file ID="jp2_00199_0" MIMETYPE="image/jp2" CHECKSUM="07b7a646767deff7182108a919153b3b" CHECKSUMTYPE="MD5" SIZE="2944546">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00199_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00198_0" MIMETYPE="text/xml" CHECKSUM="fd538ae3615c4b4e60e927d8fe345a3b" CHECKSUMTYPE="MD5" SIZE="59640">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00198_0.xml"/>
+      </file>
+      <file ID="alto_00198_1" MIMETYPE="text/xml" CHECKSUM="5409452c97128aeb119d94dc64cadd36" CHECKSUMTYPE="MD5" SIZE="93714">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00198_1.xml"/>
+      </file>
+      <file ID="alto_00199_0" MIMETYPE="text/xml" CHECKSUM="56a665854718fd49de9ad52ea7844560" CHECKSUMTYPE="MD5" SIZE="75590">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00199_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0078" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="395" firstpage="393">
+              <parties id="b395-4" pgmap="395">Block vs. Kirtland.</parties>
+              <attorneys id="b395-8" pgmap="395">Fowler &amp; Stillwell, for the appellant.</attorneys>
+              <attorneys id="b395-9" pgmap="395">Watkins &amp; Gallagher, contra.</attorneys>
+              <summary id="b395-6" pgmap="395">Appeal from Poinsett Circuit Court.</summary>
+              <summary id="b395-7" pgmap="395">Hon. George W. Beazley, Circuit Judge.</summary>
+              <headnotes id="b395-5" pgmap="395">A payment by the maker of a negotiable note, to the original payee, after the note has been assigned, is not a good defence to an action by the assignee against the maker.</headnotes>
+              <opinion type="majority">
+                <author id="b395-10" pgmap="395">Mr. Chief Justice English</author>
+                <p id="AqQ" pgmap="395">delivered the opinion of the Court.</p>
+                <p id="b395-11" pgmap="395">Ira B. Kirtland brought an action of debt against David Block, in the Poinsett Circuit Court, upon the following instru­ment:</p>
+                <blockquote id="b395-12" pgmap="395">“ $850 28 Memphis, March 20th, 1854.</blockquote>
+                <blockquote id="b395-13" pgmap="395">Nine months after date, I promise to pay to Furgu­son &amp; Neill or order, at the Branch Planters Bank of Tennessee, at Memphis, eight hundred and fifty 28-100 dollars, value received, at the rate of ten per cent, interest per annum after maturity of note. DAVID BLOCK.”</blockquote>
+                <p id="b395-14" pgmap="395">On which were the following assignments:</p>
+                <blockquote id="b395-15" pgmap="395">“June 20th, 1854. We assign the within to Emerson, Cochrane &amp; Co. Waiving demand and notice, and guaranteeing the ulti­mate solvency of the maker.</blockquote>
+                <blockquote id="b395-16" pgmap="395">FURGUSON &amp; NEILL.</blockquote>
+                <blockquote id="b395-17" pgmap="395">Pay to J. B. Kirtland, Esq., or order.</blockquote>
+                <blockquote id="b395-18" pgmap="395">EMERSON, COCHRANE &amp; CO.”</blockquote>
+                <p id="b395-19" pgmap="395(33) 396(60)">Block interposed several special pleas, alleging, in substance that the assignment to Emerson, Cochrane &amp; Co., was not made in the usual course of trade, but by way of security for a debt due to them from Furguson &amp; Neill: that Emerson, Cochrane &amp; Co. assigned the note to Kirtland, the plaintiff, for collection merely: and that he, Block, having no notice of the assignment by Furguson &amp; Neill, paid to them the amount due on the note. Some of the pleas allege full payment, under such circumstan­ces, and others part payment.</p>
+                <p id="b396-5" pgmap="396">Issues were taken to the pleas, submitted to the court, sitting as a jury, and finding and judgment in favor of the plaintiff for the amount of the note with interest.</p>
+                <p id="b396-6" pgmap="396">The defendant moved for a new trial, which was refused, and he excepted and appealed.</p>
+                <p id="b396-7" pgmap="396">The sufficiency of the evidence to sustain the finding of the court, is the only question presented for'our consideration.</p>
+                <p id="b396-8" pgmap="396">But one witness was examined, the book keeper of Furguson &amp; Neill, who proved that they transferred the note sued on to Emerson, Cochrane &amp; Co., merchants of Boston, in part pay­ment of an invoice of goods purchased of them by Furguson &amp; Neill. The invoice was dated 15th of June, and the trans­fer of the note was ' entered on the books of Furguson &amp; Neill in July, 1854. Y^itness knew nothing of the solvency or insol­vency of the firm at that time.</p>
+                <p id="b396-9" pgmap="396">On the 15th April, 1858, Block called on Furguson &amp; Neill and demanded the note, saying he wanted to pay the balance due on it, he having paid a part of the note sometime previous. Furguson then stated that the note was not in the hands of Fur­guson &amp; Neill, but would be in a few days, and desired that Block should pay a portion of the balance, and in a few days, or by the time Bloek came over again (meaning from Arkansas to Memphis) he would have the note for him. Block said he pre­ferred having the note then, as he was prepared to pay it. Finally he paid §400, reserving the balance to be paid on delivery of the note to him; and witness executed and delivered to him, by request of Furguson, the following receipt:</p>
+                <blockquote id="b396-10" pgmap="396(31) 397(17)">“$400. Rec’d, Memphis, April 15th, 1860, from David Block four hundred dollars on account of note due Dec’r. 7th, 1854, for eight hundred fifty 28-100 dollars, which note we agree to take up and deliver to him on payment of balance, one hundred and fifty five 28-100 dollars.</blockquote>
+                <blockquote id="b397-5" pgmap="397">FURGUSON &amp; NEILL.”</blockquote>
+                <p id="b397-6" pgmap="397">It was admitted by the plaintiff that the note was assigned to him by Emerson, Cochrane &amp; Co., and that the suit was for their sole use and benefit.</p>
+                <p id="b397-7" pgmap="397">1. The evidence conduces to prove that the note was assigned by Furguson &amp; Neill to Emerson, Cochrane &amp; Co., before its maturity, in payment of goods purchased by the former of the latter before the assignment, and that they therefore received the note in due course.of trade, for value, according to the rule as settled in Bertrand vs. Barkman, 13 Ark. 159. The evidence fails to establish the allegation of the pleas that they received the note as collateral security merely for a pre-existing debt.</p>
+                <p id="b397-8" pgmap="397">2. When the first payment upon the note was made by Block, does not appear from the evidence. But the note was assigned to Emerson, Cochrane &amp; Co., before it was due, and the legal pre. sumption is, in the absence of proof to the contrary, that the payment was made after the maturity of the note, and hence after the assignment. It is expressly shown that the payment of $400 was made long after the assignment, and under cir­cumstances that would have put a prudent man on his guard.</p>
+                <p id="b397-9" pgmap="397">A payment by the maker of a negotiable note to the original payee after the note has been assigned, is not a good defence to an action by the assignee against the maker, under the statute (Dig. ch. 15 sec. 4,) nor by the law merchant. The maker must take care that the person to whom he pays a negotiable note is its holder, or in possession of it. Story on Bills, sec. 4i5.</p>
+                <p id="b397-10" pgmap="397">The judgment must be affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="395" ORDERLABEL="393" TYPE="page">
+        <fptr FILEID="tiff_00198_0"/>
+        <fptr FILEID="jp2_00198_0"/>
+        <fptr FILEID="alto_00198_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_395.2" BETYPE="IDREF" FILEID="alto_00198_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_395.1" BETYPE="IDREF" FILEID="alto_00198_0"/>
+              <area BEGIN="BL_395.3" BETYPE="IDREF" FILEID="alto_00198_0"/>
+              <area BEGIN="BL_395.21" BETYPE="IDREF" FILEID="alto_00198_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="396" ORDERLABEL="394" TYPE="page">
+        <fptr FILEID="tiff_00198_1"/>
+        <fptr FILEID="jp2_00198_1"/>
+        <fptr FILEID="alto_00198_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_396.2" BETYPE="IDREF" FILEID="alto_00198_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_396.3" BETYPE="IDREF" FILEID="alto_00198_1"/>
+              <area BEGIN="BL_396.4" BETYPE="IDREF" FILEID="alto_00198_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="397" ORDERLABEL="395" TYPE="page">
+        <fptr FILEID="tiff_00199_0"/>
+        <fptr FILEID="jp2_00199_0"/>
+        <fptr FILEID="alto_00199_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_397.3" BETYPE="IDREF" FILEID="alto_00199_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_397.2" BETYPE="IDREF" FILEID="alto_00199_0"/>
+              <area BEGIN="BL_397.4" BETYPE="IDREF" FILEID="alto_00199_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b395-19" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_395.20" BETYPE="IDREF" FILEID="alto_00198_0"/>
+            <area BEGIN="BL_396.1" BETYPE="IDREF" FILEID="alto_00198_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b395-18" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_395.19" BETYPE="IDREF" FILEID="alto_00198_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AqQ" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_395.11" BETYPE="IDREF" FILEID="alto_00198_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b395-13" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_395.14" BETYPE="IDREF" FILEID="alto_00198_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b395-12" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_395.13" BETYPE="IDREF" FILEID="alto_00198_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b395-11" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_395.12" BETYPE="IDREF" FILEID="alto_00198_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b395-10" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_395.10" BETYPE="IDREF" FILEID="alto_00198_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b395-17" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_395.18" BETYPE="IDREF" FILEID="alto_00198_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b395-16" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_395.17" BETYPE="IDREF" FILEID="alto_00198_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b395-15" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_395.16" BETYPE="IDREF" FILEID="alto_00198_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b395-14" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_395.15" BETYPE="IDREF" FILEID="alto_00198_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b397-8" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_397.8" BETYPE="IDREF" FILEID="alto_00199_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b397-10" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_397.10" BETYPE="IDREF" FILEID="alto_00199_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b397-7" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_397.7" BETYPE="IDREF" FILEID="alto_00199_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b397-6" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_397.6" BETYPE="IDREF" FILEID="alto_00199_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b396-10" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_396.10" BETYPE="IDREF" FILEID="alto_00198_1"/>
+            <area BEGIN="BL_397.1" BETYPE="IDREF" FILEID="alto_00199_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b396-8" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_396.8" BETYPE="IDREF" FILEID="alto_00198_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b396-9" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_396.9" BETYPE="IDREF" FILEID="alto_00198_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b395-7" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_395.7" BETYPE="IDREF" FILEID="alto_00198_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b395-6" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_395.6" BETYPE="IDREF" FILEID="alto_00198_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b395-5" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_395.5" BETYPE="IDREF" FILEID="alto_00198_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b395-4" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_395.4" BETYPE="IDREF" FILEID="alto_00198_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b397-5" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_397.5" BETYPE="IDREF" FILEID="alto_00199_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b397-9" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_397.9" BETYPE="IDREF" FILEID="alto_00199_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b395-9" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_395.9" BETYPE="IDREF" FILEID="alto_00198_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b395-8" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_395.8" BETYPE="IDREF" FILEID="alto_00198_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b396-5" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_396.5" BETYPE="IDREF" FILEID="alto_00198_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b396-6" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_396.6" BETYPE="IDREF" FILEID="alto_00198_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b396-7" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_396.7" BETYPE="IDREF" FILEID="alto_00198_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

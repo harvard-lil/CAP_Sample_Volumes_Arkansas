@@ -1,0 +1,519 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0007" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Carter v. Matthews">Leslie T. CARTER v. George E. and Bessie MATTHEWS</name>
+          <docketnumber>85-192</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 37</citation>
+          <citation category="parallel" type="bluebook">701 S.W.2d 374</citation>
+          <decisiondate>1986-01-13</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:00Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00032_0" MIMETYPE="image/tiff" CHECKSUM="0b793dead00df7b21b3f91577edbc6d1" CHECKSUMTYPE="MD5" SIZE="31836">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00032_0.tif"/>
+      </file>
+      <file ID="tiff_00032_1" MIMETYPE="image/tiff" CHECKSUM="34040a59b99fa1c71a3f958ad69b99e6" CHECKSUMTYPE="MD5" SIZE="3474">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00032_1.tif"/>
+      </file>
+      <file ID="tiff_00033_0" MIMETYPE="image/tiff" CHECKSUM="887aa17f5fa8bf67a334c295c5f480cc" CHECKSUMTYPE="MD5" SIZE="52670">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00033_0.tif"/>
+      </file>
+      <file ID="tiff_00033_1" MIMETYPE="image/tiff" CHECKSUM="99e948e48c8596270de87479b55e2161" CHECKSUMTYPE="MD5" SIZE="56392">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00033_1.tif"/>
+      </file>
+      <file ID="tiff_00034_0" MIMETYPE="image/tiff" CHECKSUM="2095a2f0ad7aa53b382b134a15121cd2" CHECKSUMTYPE="MD5" SIZE="52772">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00034_0.tif"/>
+      </file>
+      <file ID="tiff_00034_1" MIMETYPE="image/tiff" CHECKSUM="8b5639e85d1779460e557a38e42ac4e7" CHECKSUMTYPE="MD5" SIZE="10248">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00034_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00032_0" MIMETYPE="image/jp2" CHECKSUM="3449d6e8f4e9a947563571d2aa258ea3" CHECKSUMTYPE="MD5" SIZE="2416824">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00032_0.jp2"/>
+      </file>
+      <file ID="jp2_00032_1" MIMETYPE="image/jp2" CHECKSUM="06821c7ab0b3ab1f7b8344babf5bb27f" CHECKSUMTYPE="MD5" SIZE="956304">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00032_1.jp2"/>
+      </file>
+      <file ID="jp2_00033_0" MIMETYPE="image/jp2" CHECKSUM="a6a314e68a5da79660e93976377e2af0" CHECKSUMTYPE="MD5" SIZE="2503799">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00033_0.jp2"/>
+      </file>
+      <file ID="jp2_00033_1" MIMETYPE="image/jp2" CHECKSUM="fca9286195ec7eee4fdec8d1e8b27159" CHECKSUMTYPE="MD5" SIZE="2535551">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00033_1.jp2"/>
+      </file>
+      <file ID="jp2_00034_0" MIMETYPE="image/jp2" CHECKSUM="9bc9b7d2c48ffe619dcb16674bab5d91" CHECKSUMTYPE="MD5" SIZE="2493175">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00034_0.jp2"/>
+      </file>
+      <file ID="jp2_00034_1" MIMETYPE="image/jp2" CHECKSUM="4b7221538b9307b29f82520570322abb" CHECKSUMTYPE="MD5" SIZE="1379241">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00034_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00032_0" MIMETYPE="text/xml" CHECKSUM="295b71c618dcb7cfcd273ba06039b023" CHECKSUMTYPE="MD5" SIZE="51310">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00032_0.xml"/>
+      </file>
+      <file ID="alto_00032_1" MIMETYPE="text/xml" CHECKSUM="09ef8020704f17d25b711e0b42886a9a" CHECKSUMTYPE="MD5" SIZE="1758">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00032_1.xml"/>
+      </file>
+      <file ID="alto_00033_0" MIMETYPE="text/xml" CHECKSUM="c420f65d0dd414e049862b8af1b19468" CHECKSUMTYPE="MD5" SIZE="90052">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00033_0.xml"/>
+      </file>
+      <file ID="alto_00033_1" MIMETYPE="text/xml" CHECKSUM="9d5be808496d271934de0e5a138d053f" CHECKSUMTYPE="MD5" SIZE="93176">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00033_1.xml"/>
+      </file>
+      <file ID="alto_00034_0" MIMETYPE="text/xml" CHECKSUM="08afa13a38e623f57aea5c3d9a7adf52" CHECKSUMTYPE="MD5" SIZE="92004">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00034_0.xml"/>
+      </file>
+      <file ID="alto_00034_1" MIMETYPE="text/xml" CHECKSUM="a7a2cf26effda46504c326334b579ee7" CHECKSUMTYPE="MD5" SIZE="13228">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00034_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0007" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="37" lastpage="42">
+              <court pgmap="63" id="b63-12">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="63" id="AVN">85-192</docketnumber>
+              <citation pgmap="63" id="AOY">701 S.W.2d 374</citation>
+              <parties pgmap="63" id="b63-11">Leslie T. CARTER v. George E. and Bessie MATTHEWS</parties>
+              <decisiondate pgmap="63" id="AnI">Opinion delivered January 13, 1986</decisiondate>
+              <judges pgmap="68" id="b68-7">Purtle, J., not participating.</judges>
+              <attorneys pgmap="65" id="b65-5">Gill, Skokos, Simpson, Buford &amp; Graham, P.A., by: Theo­dore C. Skokos and Michael R. Rainwater, for appellant.</attorneys>
+              <attorneys pgmap="65" id="b65-6">Gibson &amp; Ellis, by: Sam Gibson, for appellees.</attorneys>
+              <opinion type="majority">
+                <author pgmap="65" id="b65-7">David Newbern, Justice.</author>
+                <p pgmap="65" id="Abf">This is a real estate sale case in which the chancellor granted rescission in favor of the appellant on the ground of mutual mistake but did not award the money damages she claimed. The damages she sought were for her expenses in constructing improvements which subsequently hqd to be removed from the land. The appellant claims it was error for the chancellor to have found she did not rely on misrepresenta­tions made by the appellees through their real estate agent, and thus it was error to refuse her damages for fraud plus costs and an attorney fee. On cross-appeal, the appellees contend the only possible basis for the rescission was fraud, not mistake, and the chancellor erred in granting rescission once he had found there was no reliance by the appellant on any active or constructive misrepresentations of the appellees. We find the chancellor was correct on all counts, and thus we affirm on both appeal and cross-­appeal.</p>
+                <p pgmap="65" id="b65-8">1, Rescission</p>
+                <p pgmap="65" id="b65-9">
+                   The chancellor found that conversations between the appellant and the appellees’ agent showed that both parties were under the mistaken impression that the low, flat portion of land in question was suitable for building permanent structures such as a barn, horse corral and fencing. In fact, however, the area where the appellant attempted to build a barn and corral and which she wanted to use as pasture for horses was subject to severe and frequent flooding. The chancellor held there was thus a mutual mistake of fact making rescission proper. While there was evidence the appellees had known of one instance of severe flooding on the land, the evidence did not show they knew it was prone to the frequent and extensive flooding which turned out to be the case.</p>
+                <p pgmap="65(60) 66(69)" id="b65-10">Other matters not known to the parties were that the low portion of the land, about two-thirds of the total acreage, is in the 100 year floodplain and that a Pulaski County ordinance, No. 83-­OR-11, requires a seller of land lying in the floodplain to inform the buyer of that fact no later than ten days before closing the transaction. The county planning ordinance also requires that no structures be built in the floodplain. If the chancellor’s decision had been to permit rescission because of the parties’ lack of knowledge of these items, we would have had before us the question whether the mistake was one of law rather than fact and thus perhaps irremediable. But see Glasgow v. Greenfield, 9 Ark. App. 224, 657 S.W.2d 578 (1983).</p>
+                <p pgmap="66" id="b66-7">
+                   While the chancellor mentions these items, his basis for rescission was the mutual lack of knowledge about the extent of the flooding, and misunderstanding of the suitability of the property, as a matter of fact, for the buyer’s purposes which were known to both parties. We sustain his finding that there was a mutual mistake of fact. A mutual mistake of fact as to a material element of a contract is an appropriate basis for rescission. Troxell v. Sandusky, 247 Ark. 898, 448 S.W.2d 28 (1969); Blythe v. Coney, 228 Ark. 824, 310 S.W.2d 485 (1958). Thus we affirm on cross-appeal.</p>
+                <p pgmap="66" id="b66-8">2. Damages for Fraud</p>
+                <p pgmap="66(225) 67(51)" id="b66-9">
+                   The chancellor refused to allow the appellant any damages for the loss she sustained with respect to the improve­ments she had placed in the floodplain. He found the appellant had made an independent investigation of the propensity of the property to become flooded and had ascertained, erroneously, that the property was not in the floodplain. Thus, in spite of the legal duty on the part of the appellees to tell the appellant that the land was in the floodplain, and what might have been the resultant constructive fraud upon failure to inform her, he held that fraud may not be the basis of a damages award absent reliance on the misrepresentation. For the same reason the chancellor refused to base his decision on any alleged fraud resulting from the appellees’ failure to tell the appellant what they may have known about the land’s propensity to flood. He was correct. An essential element of an action for deceit is reliance by the plaintiff on the defendant’s misrepresentation. MFA Mutual Insurance Co. v. Keller, 274 Ark. 281, 623 S.W.2d 841 (1981). In view of the strong evidence, including her own testimony, that the appellant made her own investigation as to whether the land flooded, the extent to which a creek running through the land was in the floodplain and the feasibility of bridging the creek above the floodplain, we can hardly say the chancellor’s factual determi­nation that the appellant did not rely on the failure of the appellees to give her information known to them or which they had a duty to disclose to her under the ordinance was clearly erroneous. Ark. R. Civ. P. 52(a).</p>
+                <p pgmap="67" id="b67-6">We find nothing in the law of this jurisdiction requiring us to say that when the appellant chose to seek rescission rather than affirm the contract and sue for damages, either out of pocket or benefit of bargain, she waived any possible damages claim. See D. Dobbs, Remedies, § 9.4 (1974). The point here is that we find no reason to upset the chancellor’s conclusion that the appellant did not rely upon the appellees’ misrepresentation of the facts as to whether the land was subject to flooding or their failure to notify the appellant that the land was in the “legal” floodplain.</p>
+                <p pgmap="67" id="b67-7">
+                   When rescission is based on mutual mistake rather than fraud, the recoveries of the parties are limited to their restitution­ary interests. Restatement (Second) of Contracts § 370 (1979). As the appellant could show no benefit conferred on the appellees from her attempted improvements on the land, she was entitled to no recovery in excess of the return of the purchase price, which was awarded to her by the chancellor, as well as cancellation of her note and mortgage.</p>
+                <p pgmap="67" id="b67-8">3. Costs and Attorney Fee</p>
+                <p pgmap="67" id="b67-9">
+                   The appellant contends costs should have been awarded to her as the prevailing party. For this proposition she cites Ark. R. Civ. P. 54. Rule 54(d) says, in relevant part, costs are to be allowed to the prevailing party as a matter of course, “unless the court otherwise directs.” Here the court directed that each party bear his own costs. The appellant gives us no reason to hold the chancellor abused the discretion vested in him under the Rule, ¿xcept that the appellees were guilty of fraud.</p>
+                <p pgmap="67(70) 68(12)" id="b67-10">The appellant’s argument on the attorney fee is that it can be awarded when there is a “recognized ground of equity.” Lewallen v. Bethune, 267 Ark. 976, 593 S.W.2d 64 (Ark. App. 1980). She then states that “fraud” is such a ground. As we are affirming the chancellor’s refusal to find fraud as the basis of rescission, we need not go into the question whether one may recover costs under Rule 54(d) or an attorney fee when fraud has been alleged successfully.</p>
+                <p pgmap="68" id="b68-6">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="63" ORDERLABEL="37" TYPE="page">
+        <fptr FILEID="tiff_00032_0"/>
+        <fptr FILEID="jp2_00032_0"/>
+        <fptr FILEID="alto_00032_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_63.3" BETYPE="IDREF" FILEID="alto_00032_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="64" ORDERLABEL="38" TYPE="page">
+        <fptr FILEID="tiff_00032_1"/>
+        <fptr FILEID="jp2_00032_1"/>
+        <fptr FILEID="alto_00032_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_64.2" BETYPE="IDREF" FILEID="alto_00032_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="65" ORDERLABEL="39" TYPE="page">
+        <fptr FILEID="tiff_00033_0"/>
+        <fptr FILEID="jp2_00033_0"/>
+        <fptr FILEID="alto_00033_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_65.2" BETYPE="IDREF" FILEID="alto_00033_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="66" ORDERLABEL="40" TYPE="page">
+        <fptr FILEID="tiff_00033_1"/>
+        <fptr FILEID="jp2_00033_1"/>
+        <fptr FILEID="alto_00033_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_66.2" BETYPE="IDREF" FILEID="alto_00033_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="67" ORDERLABEL="41" TYPE="page">
+        <fptr FILEID="tiff_00034_0"/>
+        <fptr FILEID="jp2_00034_0"/>
+        <fptr FILEID="alto_00034_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_67.3" BETYPE="IDREF" FILEID="alto_00034_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="68" ORDERLABEL="42" TYPE="page">
+        <fptr FILEID="tiff_00034_1"/>
+        <fptr FILEID="jp2_00034_1"/>
+        <fptr FILEID="alto_00034_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_68.2" BETYPE="IDREF" FILEID="alto_00034_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b66-8" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_66.5" BETYPE="IDREF" FILEID="alto_00033_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b68-6" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_68.4" BETYPE="IDREF" FILEID="alto_00034_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b66-9" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_66.6" BETYPE="IDREF" FILEID="alto_00033_1"/>
+            <area BEGIN="BL_67.1" BETYPE="IDREF" FILEID="alto_00034_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b67-10" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_67.8" BETYPE="IDREF" FILEID="alto_00034_0"/>
+            <area BEGIN="BL_68.1" BETYPE="IDREF" FILEID="alto_00034_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b65-10" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_65.10" BETYPE="IDREF" FILEID="alto_00033_0"/>
+            <area BEGIN="BL_66.1" BETYPE="IDREF" FILEID="alto_00033_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b65-8" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_65.8" BETYPE="IDREF" FILEID="alto_00033_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b65-9" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_65.9" BETYPE="IDREF" FILEID="alto_00033_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AnI" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_63.16" BETYPE="IDREF" FILEID="alto_00032_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b67-8" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_67.6" BETYPE="IDREF" FILEID="alto_00034_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b67-9" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_67.7" BETYPE="IDREF" FILEID="alto_00034_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b67-6" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_67.4" BETYPE="IDREF" FILEID="alto_00034_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b67-7" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_67.5" BETYPE="IDREF" FILEID="alto_00034_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b65-5" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_65.3" BETYPE="IDREF" FILEID="alto_00033_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b65-6" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_65.4" BETYPE="IDREF" FILEID="alto_00033_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b65-7" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_65.5" BETYPE="IDREF" FILEID="alto_00033_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Abf" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_65.6" BETYPE="IDREF" FILEID="alto_00033_0"/>
+            <area BEGIN="BL_65.7" BETYPE="IDREF" FILEID="alto_00033_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b66-7" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_66.4" BETYPE="IDREF" FILEID="alto_00033_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AOY" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_63.14" BETYPE="IDREF" FILEID="alto_00032_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b68-7" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_68.5" BETYPE="IDREF" FILEID="alto_00034_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b63-11" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_63.12" BETYPE="IDREF" FILEID="alto_00032_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b63-12" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_63.15" BETYPE="IDREF" FILEID="alto_00032_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AVN" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_63.13" BETYPE="IDREF" FILEID="alto_00032_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

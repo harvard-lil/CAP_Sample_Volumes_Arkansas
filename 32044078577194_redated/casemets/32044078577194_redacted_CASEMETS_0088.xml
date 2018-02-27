@@ -1,0 +1,508 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0088" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Odell v. Arkansas General Industries Co.">Betty A. ODELL v. ARKANSAS GENERAL INDUSTRIES CO.</name>
+          <docketnumber>85-272</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 356</citation>
+          <citation category="parallel" type="bluebook">705 S.W.2d 438</citation>
+          <decisiondate>1986-03-17</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:00Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00195_1" MIMETYPE="image/tiff" CHECKSUM="44bb7423883af7523e58934288acb2f2" CHECKSUMTYPE="MD5" SIZE="38950">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00195_1.tif"/>
+      </file>
+      <file ID="tiff_00196_0" MIMETYPE="image/tiff" CHECKSUM="0b26fe7a67a6a733f574f6a26d794f43" CHECKSUMTYPE="MD5" SIZE="24574">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00196_0.tif"/>
+      </file>
+      <file ID="tiff_00196_1" MIMETYPE="image/tiff" CHECKSUM="854f5eef359bf3c8ecaa1adfe6beed63" CHECKSUMTYPE="MD5" SIZE="49366">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00196_1.tif"/>
+      </file>
+      <file ID="tiff_00197_0" MIMETYPE="image/tiff" CHECKSUM="d44ead30979cc03cafea17ce9b0831f0" CHECKSUMTYPE="MD5" SIZE="50768">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00197_0.tif"/>
+      </file>
+      <file ID="tiff_00197_1" MIMETYPE="image/tiff" CHECKSUM="164d4495df55ea347675e684bcea85b5" CHECKSUMTYPE="MD5" SIZE="15186">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00197_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00195_1" MIMETYPE="image/jp2" CHECKSUM="338f5b6a02a7d83a38e0f25f2077bf1b" CHECKSUMTYPE="MD5" SIZE="2377998">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00195_1.jp2"/>
+      </file>
+      <file ID="jp2_00196_0" MIMETYPE="image/jp2" CHECKSUM="11ab90764656f58c1dae4bdc13e6f8f9" CHECKSUMTYPE="MD5" SIZE="1795114">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00196_0.jp2"/>
+      </file>
+      <file ID="jp2_00196_1" MIMETYPE="image/jp2" CHECKSUM="ab671fcfd31b8332823e3f14d6c08c8a" CHECKSUMTYPE="MD5" SIZE="2556754">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00196_1.jp2"/>
+      </file>
+      <file ID="jp2_00197_0" MIMETYPE="image/jp2" CHECKSUM="4b276df4c6f5caf76bf38fa25d492867" CHECKSUMTYPE="MD5" SIZE="2532171">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00197_0.jp2"/>
+      </file>
+      <file ID="jp2_00197_1" MIMETYPE="image/jp2" CHECKSUM="853ccf71896aafc3325630da7ba12ffa" CHECKSUMTYPE="MD5" SIZE="1595585">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00197_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00195_1" MIMETYPE="text/xml" CHECKSUM="225e33780fb74853cad5f74d92e09a7a" CHECKSUMTYPE="MD5" SIZE="64849">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00195_1.xml"/>
+      </file>
+      <file ID="alto_00196_0" MIMETYPE="text/xml" CHECKSUM="a7e848a809f5ecf336416fb8b19292f3" CHECKSUMTYPE="MD5" SIZE="36689">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00196_0.xml"/>
+      </file>
+      <file ID="alto_00196_1" MIMETYPE="text/xml" CHECKSUM="2c7adc92d28f531f917a627cdc847488" CHECKSUMTYPE="MD5" SIZE="82992">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00196_1.xml"/>
+      </file>
+      <file ID="alto_00197_0" MIMETYPE="text/xml" CHECKSUM="007825f92e998ca9b90cf83f6e2102b6" CHECKSUMTYPE="MD5" SIZE="83531">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00197_0.xml"/>
+      </file>
+      <file ID="alto_00197_1" MIMETYPE="text/xml" CHECKSUM="0d420d37b69de76e47727652cffee5d1" CHECKSUMTYPE="MD5" SIZE="22763">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00197_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0088" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="356" lastpage="360">
+              <court pgmap="390" id="b390-10">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="390" id="b390-9">85-272</docketnumber>
+              <citation pgmap="390" id="AGP">705 S.W.2d 438</citation>
+              <parties pgmap="390" id="b390-8">Betty A. ODELL v. ARKANSAS GENERAL INDUSTRIES CO.</parties>
+              <decisiondate pgmap="390" id="AHl">Opinion delivered March 17, 1986</decisiondate>
+              <judges pgmap="394" id="b394-7">Purtle, J., not participating,</judges>
+              <attorneys pgmap="391" id="b391-8">Pickens, McLarty &amp; Watson, by: James A. McLarty, for appellant.</attorneys>
+              <attorneys pgmap="391" id="b391-9">Friday, Eldredge &amp; Clark, by: Frederick S. Ursery, for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="391" id="b391-10">Steele Hays, Justice.</author>
+                <p pgmap="391" id="ATG">Appellant, Betty Odell, filed this action in Jackson County, where she lives, against her former employer, Arkansas General Industries Co., which operates a manufacturing plant in White County.</p>
+                <p pgmap="391" id="b391-11">The complaint states appellant was hired at-will in 1959 and was terminated on March 7, 1984, for failing to arrange for continued absence from work due to an injury, in violation of company policy. It alleges an intentional, wrongful discharge in violation of public policy and the Arkansas Workers’ Compensa­tion Act, resulting in loss of income, mental anguish, physical and mental pain and suffering. The complaint prayed for compensa­tory and punitive damages.</p>
+                <p pgmap="391(18) 392(25)" id="b391-12">Citing Arkansas Rules of Civil Procedure Rule 12(b)(3), dealing with improper venue, AGI moved to dismiss the com­plaint based on its residence in White County. The circuit judge granted the motion and Mrs. Odell has appealed. Our jurisdiction attaches under Rule 29(l)(o).</p>
+                <p pgmap="392" id="b392-4">
+                   In Atkins Pickle v. Burrough-Uerling-Brasuell Con­sulting Engineers, Inc., 275 Ark. 135, 628 S.W.2d 9 (1982), we said:</p>
+                <blockquote pgmap="392" id="b392-5">Ever since the adoption of our Civil Code in 1869 our statutes have defined certain local actions and directed that all other actions be brought in the county of the defendant’s residence. § 27-613. We have said repeatedly that our underlying policy is to fix the venue in the county of the defendant’s residence unless for policy reasons there is a statutory exception.</blockquote>
+                <p pgmap="392" id="b392-6">Appellant claims the exception which permits her to sue in Jackson County is found in § 27-610:</p>
+                <blockquote pgmap="392" id="b392-7">All actions for damages for personal injury or death by wrongful act shall be brought in the county where the accident occurred which caused the injury or death or in the county where the person injured or killed resided at the time of injury, and provided further that in all such actions service of summons may be had upon any party to such action, in addition to other methods now provided by law, by service of summons upon any agent who is a regular employee of such party, and on duty at the time of such service.</blockquote>
+                <p pgmap="392" id="b392-8">
+                   We disagree with that proposition. While we have said the reference in the statute to “where the accident occurred,” does not require a trauma or blow in the literal sense, Coca-Cola Bottling Co. v.Kincannon, 202 Ark. 235, 150 S.W.2d 193 (1941), Shultz v. Young, 205 Ark. 533, 169 S.W.2d 648 (1943), even so, a physical or bodily injury is required in order for § 27-610 to apply. Arkansas Valley Industries, Inc. v. Roberts, 244 Ark. 432, 425 S.W.2d 298 (1968); Robinson v. MoPac Transp. Co., 218 Ark. 390, 236 S.W.2d 575 (1951). Thus, defamation, abuse of process, false imprisonment, malicious prosecution, and the like, though tortious in origin, do not come within § 27-610. B-W Acceptance Corporation v. Colvin, 252 Ark. 306, 478 S.W.2d 755 (1972).</p>
+                <p pgmap="392(10) 393(82)" id="b392-9">
+                   A case in point is Arkansas Valley Industries, Inc. v. Roberts, supra. The plaintiff, Graddy, filed suit in Faulkner County for personal injuries in the nature of “heartache, mental anguish, nervousness, sleeplessness, nightmare and shock.” These conditions were alleged to be the result of the defendant’s abuse of process, malicious prosecution, vexatious litigation and false imprisonment. The plaintiff resided in Faulkner County, though the defendant had no branch office or other place of business there. In granting the defendant’s petition for a writ of prohibition to the Faulkner Circuit Court, we said:</p>
+                <blockquote pgmap="393" id="b393-4">In Monk v. Ehret, 192 Cal. 186, 219 Pac. 452 (1923), there was under consideration a statute similar to ours, and after reviewing the history of the enactment of such statutes, it was concluded that the term “personal injuries” in the statute was limited to corporeal or physical injuries by reason of any violence. That court, in Plum v. Forgay Lumber Co., 118 Cal.App. 76, 4 P.2d 804 (1931), followed the same construction of the term “personal injury” and held that an action for malicious prosecution and false arrest could not be maintained in the county in which the arrest occurred.</blockquote>
+                <blockquote pgmap="393" id="b393-5">Other courts have held to the contrary. See Hatcher v. Southern Ry. Co., 191 Ala. 634, 68 So. 55 (1915).</blockquote>
+                <blockquote pgmap="393" id="b393-6">However, we feel that under Robinson, supra, we are committed to the view expressed by California in Monk v. Ehret, supra, and consequently find that the Faulkner Circuit Court is without venue. Nor can we find anything in the allegation with reference to mental anguish which would change this result, since this was also a factor involved in the Robinson case.</blockquote>
+                <p pgmap="393(92) 394(42)" id="b393-7">
+                   Appellant cites M.B. M. Co. v. Counce, 268 Ark. 265, 596 S.W.2d 68 (1980). There Ms. Counce sued her former employer for wrongful discharge under circumstances intended to cause severe emotional distress. The decision in Counce is of no avail in this case. Venue was not an issue in Counce, and the opinion notes that Ms. Counce regarded her cause of action as sounding in contract, rather than in tort. While appellant Odell has couched her complaint in terms of intentional wrong, and willful and wanton conduct, bare allegations of willful and wanton conduct are not sufficient. Miller v. Ensco, Inc., 286 Ark. 458, 692 S.W.2d 615 (1985). When we look beneath those allegations we think the complaint essentially alleges simply a wrongful discharge. We conclude that venue must be where the defendant resides.</p>
+                <p pgmap="394" id="b394-6">The order is affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="390" ORDERLABEL="356" TYPE="page">
+        <fptr FILEID="tiff_00195_1"/>
+        <fptr FILEID="jp2_00195_1"/>
+        <fptr FILEID="alto_00195_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_390.2" BETYPE="IDREF" FILEID="alto_00195_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="391" ORDERLABEL="357" TYPE="page">
+        <fptr FILEID="tiff_00196_0"/>
+        <fptr FILEID="jp2_00196_0"/>
+        <fptr FILEID="alto_00196_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_391.3" BETYPE="IDREF" FILEID="alto_00196_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="392" ORDERLABEL="358" TYPE="page">
+        <fptr FILEID="tiff_00196_1"/>
+        <fptr FILEID="jp2_00196_1"/>
+        <fptr FILEID="alto_00196_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_392.2" BETYPE="IDREF" FILEID="alto_00196_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="393" ORDERLABEL="359" TYPE="page">
+        <fptr FILEID="tiff_00197_0"/>
+        <fptr FILEID="jp2_00197_0"/>
+        <fptr FILEID="alto_00197_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_393.3" BETYPE="IDREF" FILEID="alto_00197_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="394" ORDERLABEL="360" TYPE="page">
+        <fptr FILEID="tiff_00197_1"/>
+        <fptr FILEID="jp2_00197_1"/>
+        <fptr FILEID="alto_00197_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_394.2" BETYPE="IDREF" FILEID="alto_00197_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AGP" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_390.11" BETYPE="IDREF" FILEID="alto_00195_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b392-9" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_392.9" BETYPE="IDREF" FILEID="alto_00196_1"/>
+            <area BEGIN="BL_393.1" BETYPE="IDREF" FILEID="alto_00197_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b392-8" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_392.8" BETYPE="IDREF" FILEID="alto_00196_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b392-4" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_392.4" BETYPE="IDREF" FILEID="alto_00196_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b392-5" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_392.5" BETYPE="IDREF" FILEID="alto_00196_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b390-8" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_390.9" BETYPE="IDREF" FILEID="alto_00195_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b390-9" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_390.10" BETYPE="IDREF" FILEID="alto_00195_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b392-6" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_392.6" BETYPE="IDREF" FILEID="alto_00196_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b391-9" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_391.11" BETYPE="IDREF" FILEID="alto_00196_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b391-8" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_391.10" BETYPE="IDREF" FILEID="alto_00196_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b391-12" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_391.16" BETYPE="IDREF" FILEID="alto_00196_0"/>
+            <area BEGIN="BL_392.1" BETYPE="IDREF" FILEID="alto_00196_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b391-11" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_391.15" BETYPE="IDREF" FILEID="alto_00196_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b391-10" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_391.12" BETYPE="IDREF" FILEID="alto_00196_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AHl" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_390.13" BETYPE="IDREF" FILEID="alto_00195_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b392-7" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_392.7" BETYPE="IDREF" FILEID="alto_00196_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ATG" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_391.13" BETYPE="IDREF" FILEID="alto_00196_0"/>
+            <area BEGIN="BL_391.14" BETYPE="IDREF" FILEID="alto_00196_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b393-5" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_393.5" BETYPE="IDREF" FILEID="alto_00197_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b393-4" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_393.4" BETYPE="IDREF" FILEID="alto_00197_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b393-7" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_393.7" BETYPE="IDREF" FILEID="alto_00197_0"/>
+            <area BEGIN="BL_394.1" BETYPE="IDREF" FILEID="alto_00197_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b393-6" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_393.6" BETYPE="IDREF" FILEID="alto_00197_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b390-10" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_390.12" BETYPE="IDREF" FILEID="alto_00195_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b394-6" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_394.4" BETYPE="IDREF" FILEID="alto_00197_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b394-7" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_394.5" BETYPE="IDREF" FILEID="alto_00197_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

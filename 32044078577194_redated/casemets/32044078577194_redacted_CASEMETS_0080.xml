@@ -1,0 +1,553 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0080" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Dyer v. Ross-Lawhon">Susan DYER, Mary BRYANT and Willie BRYANT v. Dorothy ROSS-LAWHON</name>
+          <docketnumber>85-251</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 327</citation>
+          <citation category="parallel" type="bluebook">704 S.W.2d 629</citation>
+          <decisiondate>1986-03-10</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:00Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00180_0" MIMETYPE="image/tiff" CHECKSUM="11ae2eb0c2825c4d449df97134fb1337" CHECKSUMTYPE="MD5" SIZE="26546">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00180_0.tif"/>
+      </file>
+      <file ID="tiff_00180_1" MIMETYPE="image/tiff" CHECKSUM="0144accddce7de80da260daa47dbdf59" CHECKSUMTYPE="MD5" SIZE="30936">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00180_1.tif"/>
+      </file>
+      <file ID="tiff_00181_0" MIMETYPE="image/tiff" CHECKSUM="cc579d696d9565ea3f2328ba49475f90" CHECKSUMTYPE="MD5" SIZE="47752">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00181_0.tif"/>
+      </file>
+      <file ID="tiff_00181_1" MIMETYPE="image/tiff" CHECKSUM="10cdd65468c18bb239688bf817806047" CHECKSUMTYPE="MD5" SIZE="51232">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00181_1.tif"/>
+      </file>
+      <file ID="tiff_00182_0" MIMETYPE="image/tiff" CHECKSUM="a8c033fe9de860f62b4ff9f6c1d6033a" CHECKSUMTYPE="MD5" SIZE="34252">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00182_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00180_0" MIMETYPE="image/jp2" CHECKSUM="ee2a61c0178c0742133c3ec5eae51a47" CHECKSUMTYPE="MD5" SIZE="2087118">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00180_0.jp2"/>
+      </file>
+      <file ID="jp2_00180_1" MIMETYPE="image/jp2" CHECKSUM="99d31baf0c2974f2e3b01263a3a47377" CHECKSUMTYPE="MD5" SIZE="1905568">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00180_1.jp2"/>
+      </file>
+      <file ID="jp2_00181_0" MIMETYPE="image/jp2" CHECKSUM="f10c3b91ca61f7019016f00ba84582e8" CHECKSUMTYPE="MD5" SIZE="2491287">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00181_0.jp2"/>
+      </file>
+      <file ID="jp2_00181_1" MIMETYPE="image/jp2" CHECKSUM="8141ab1072ee898ffd4ce9894b5c2657" CHECKSUMTYPE="MD5" SIZE="2559966">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00181_1.jp2"/>
+      </file>
+      <file ID="jp2_00182_0" MIMETYPE="image/jp2" CHECKSUM="d0dbcc24c130ec03d9de21f21e7bccef" CHECKSUMTYPE="MD5" SIZE="2682198">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00182_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00180_0" MIMETYPE="text/xml" CHECKSUM="f0655443f807e05c47b00506fb347bed" CHECKSUMTYPE="MD5" SIZE="44607">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00180_0.xml"/>
+      </file>
+      <file ID="alto_00180_1" MIMETYPE="text/xml" CHECKSUM="433fe01483a3c2d60a4b4faa39ef9aae" CHECKSUMTYPE="MD5" SIZE="49478">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00180_1.xml"/>
+      </file>
+      <file ID="alto_00181_0" MIMETYPE="text/xml" CHECKSUM="fbf4c9d0aa571a25a33134bbe8cd0446" CHECKSUMTYPE="MD5" SIZE="79575">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00181_0.xml"/>
+      </file>
+      <file ID="alto_00181_1" MIMETYPE="text/xml" CHECKSUM="841a4d33440d734684e6a2c70941ab7b" CHECKSUMTYPE="MD5" SIZE="78485">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00181_1.xml"/>
+      </file>
+      <file ID="alto_00182_0" MIMETYPE="text/xml" CHECKSUM="254c3b0671b16a0db2a405fdefe060fd" CHECKSUMTYPE="MD5" SIZE="58077">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00182_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0080" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="327" lastpage="331">
+              <court pgmap="359" id="b359-12">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="359" id="b359-11">85-251</docketnumber>
+              <citation pgmap="359" id="AD-O">704 S.W.2d 629</citation>
+              <parties pgmap="359" id="b359-10">Susan DYER, Mary BRYANT and Willie BRYANT v. Dorothy ROSS-LAWHON</parties>
+              <decisiondate pgmap="359" id="AlQ">Opinion delivered March 10, 1986</decisiondate>
+              <judges pgmap="363" id="b363-7">Purtle, J., not participating.</judges>
+              <judges pgmap="363" id="b363-8">Holt, C.J., and Hays and Newbern, JJ., concur.</judges>
+              <judges pgmap="363" id="b363-11">Holt, C.J. and Hays, J., join in this concurrence.</judges>
+              <attorneys pgmap="360" id="b360-9">Edwin A. Keaton, for appellants.</attorneys>
+              <attorneys pgmap="360" id="b360-10">Howell, Price, Trice, Basham &amp; Hope, P.A., for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="360" id="b360-11">Robert H. Dudley, Justice.</author>
+                <p pgmap="360" id="A19P">The appellee, Dorothy Ross-­Lawhon, filed a petition in the Probate Court of Pulaski County seeking appointment as guardian of the person and of the estate of her granddaughter, Gabrielle Lawhon-Dyer. Appellee already had been awarded temporary custody of the child by the Juvenile Court of Ouachita County. The appellants, the mother and maternal grandparents of the child, filed a motion to dismiss the petition for guardianship contending that the probate court did not have jurisdiction to hear the guardianship petition while the juvenile court matter was still pending. The trial court entered an order appointing appellee guardian of the person and of the estate. We affirm the trial court’s ruling that it had jurisdiction, but remand the case for further proof.</p>
+                <p pgmap="360" id="b360-12">Appellants first contend that the probate court was without jurisdiction. The argument is without merit. Ark. Stat. Ann. § 57-­604 (Repl. 1971), a part of the probate code, was in effect at the time of the probate court hearing. It provides:</p>
+                <blockquote pgmap="360(17) 361(18)" id="b360-13">57-604. Jurisdiction — a. GENERALLY. The juris­diction of the probate court over all matters of guardian­ship, other than guardianships ad litem in other courts, shall be exclusive, subject to the right of appeal.</blockquote>
+                <blockquote pgmap="361" id="b361-6">c. NOT TO CONFLICT WITH JUVENILE COURT. The provisions of this Code shall not be con­strued to affect the jurisdiction or authority now vested in Juvenile Courts except in the matter of appointment of guardians.</blockquote>
+                <p pgmap="361" id="b361-7">
+                   Subpart a. of this statute provides that the probate courts have exclusive jurisdiction over all matters of guardian­ship, except guardianships ad litem in other courts. Subpart c. of the statute explains that the jurisdiction and authority which is vested in the juvenile courts is not to be affected by the provisions of the probate code “except in the matter of appointment of guardians.” Thus, the probate court had jurisdiction to hear this petition for guardianship. See Robins v. Arkansas Social Ser­vices, 273 Ark. 241, 617 S.W.2d 857 (1981); and Cude v. State, 237 Ark. 927, 377 S.W.2d 816 (1964).</p>
+                <p pgmap="361" id="b361-8">In Robins v. Arkansas Social Services, supra, we explained the jurisdiction of the various courts involved with juveniles as follows:</p>
+                <blockquote pgmap="361(161) 362(55)" id="b361-9">In Arkansas the General Assembly does not have the power to create courts. Article 7, § 1, Constitution of Arkansas, Jansen v. Blissenbach, 214 Ark. 755, 217 S.W.2d 849 (1949). After the Arkansas Constitution was adopted there was a nationwide movement to create juvenile courts. The first juvenile court was created in Illinois in 1899. Twelve years later, by Act 215 of 1911, the Arkansas General Assembly established the juvenile court as a segment of the county court. That act was tested in the case of Ex parte King, 141 Ark. 213, 217 S.W. 465 (1919) and this court very carefully pointed out that the General Assembly had not created a new court, but authorized the county court, a previously existing and constitutionally created court, to exercise the special subject matter juris­diction set forth in the statute. This special subject matter jurisdiction was bottomed solely on the basis of a public guardianship over infants as a class. The opinion explains that the existing constitutionally created courts would retain their traditional jurisdiction. Chancery courts would retain general jurisdiction over the persons (cus­tody) and property of minors; probate courts would retain general jurisdiction over guardianships of the persons and estates of minors and of adoptions; while circuit courts would retain civil and criminal jurisdiction over minors.</blockquote>
+                <p pgmap="362" id="b362-6">The Juvenile Court Referee, although not involved in the probate proceeding, correctly understood the applicable law and found;</p>
+                <blockquote pgmap="362" id="b362-7">That pursuant to the case of Robins v. Arkansas Social Services, 273 Ark. 241, 617 S.W.2d 857 (1981), this Court finds that the Juvenile Court of Ouachita County, Arkan­sas retains concurrent jurisdiction with the Probate Court of Pulaski County, Arkansas. That Dorothy Ross-Lawhon has every right to proceed with a petition for guardianship in the Probate Court; however, the Juvenile Court of Ouachita County, Arkansas, retains jurisdiction to tempo­rarily care for neglected or dependant children and to determine, while said child is considered to be neglected and dependent, what is best for said child’s care, welfare, safety, health, and education.</blockquote>
+                <p pgmap="362" id="b362-8">The Probate Court had jurisdiction to determine whether to appoint a guardian of the person and of the estate.</p>
+                <p pgmap="362" id="b362-9">Appellants next contend that even if the probate court had jurisdiction, it proceeded to trial in an erroneous manner. The argument is meritorious,</p>
+                <p pgmap="362(112) 363(28)" id="b362-10">
+                   Over appellants’ objection, evidence in the guardian­ship case was had by taking judicial notice of the juvenile court proceeding. In addition, the appellants were not allowed to put on evidence in opposition to appellee being appointed guardian. The procedure was erroneous. Courts do not take judicial notice of prior litigation in other cases, even between the same parties. May v. Edwards, 258 Ark. 871, 529 S.W.2d 647 (1975). In addition, proof must be taken in probate court before a guardian can be appointed. Ark. Stat. Ann. §§ 57-614, 57-615, and 57-607. The appellants were entitled to put on evidence in opposition to appellee being appointed guardian. The denial of the opportunity to cross-examine witnesses and put on evidence was a denial of due process of law. Accordingly, we remand the case to the probate court for a full hearing.</p>
+                <p pgmap="363" id="b363-6">Reversed and remanded.</p>
+              </opinion>
+              <opinion type="concurrence">
+                <author pgmap="363" id="b363-9">David Newbern, Justice,</author>
+                <p pgmap="363" id="AgCL">concurring. The majority opin­ion is correct, and I agree with it in every respect. The purpose of this concurring opinion is to point out once again the need for a family court for Arkansas. See Jarmon v. Brown, 286 Ark. 455 at 457, 692 S.W.2d 618 at 620 (1985). The harmonization of the jurisdictional provisions undertaken by the majority opinion is correct, but the harmony is abstract and legalistic. Anyone who reads the opinion must realize that an Arkansas juvenile could be placed in the custody of a divorced parent by the chancery court, placed in the custody of a social services agency by the juvenile court, and subjected to a guardianship of his person by the probate court — all at the same time!</p>
+                <p pgmap="363" id="b363-10">As the majority opinion says, courts can only be created by constitutional amendment. Again, this is but one of the problems we should try to iron out with a new judicial article.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="359" ORDERLABEL="327" TYPE="page">
+        <fptr FILEID="tiff_00180_0"/>
+        <fptr FILEID="jp2_00180_0"/>
+        <fptr FILEID="alto_00180_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_359.3" BETYPE="IDREF" FILEID="alto_00180_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="360" ORDERLABEL="328" TYPE="page">
+        <fptr FILEID="tiff_00180_1"/>
+        <fptr FILEID="jp2_00180_1"/>
+        <fptr FILEID="alto_00180_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_360.1" BETYPE="IDREF" FILEID="alto_00180_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="361" ORDERLABEL="329" TYPE="page">
+        <fptr FILEID="tiff_00181_0"/>
+        <fptr FILEID="jp2_00181_0"/>
+        <fptr FILEID="alto_00181_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_361.3" BETYPE="IDREF" FILEID="alto_00181_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="362" ORDERLABEL="330" TYPE="page">
+        <fptr FILEID="tiff_00181_1"/>
+        <fptr FILEID="jp2_00181_1"/>
+        <fptr FILEID="alto_00181_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_362.2" BETYPE="IDREF" FILEID="alto_00181_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="363" ORDERLABEL="331" TYPE="page">
+        <fptr FILEID="tiff_00182_0"/>
+        <fptr FILEID="jp2_00182_0"/>
+        <fptr FILEID="alto_00182_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_363.3" BETYPE="IDREF" FILEID="alto_00182_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b363-9" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_363.7" BETYPE="IDREF" FILEID="alto_00182_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b360-9" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_360.9" BETYPE="IDREF" FILEID="alto_00180_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AlQ" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_359.13" BETYPE="IDREF" FILEID="alto_00180_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b362-8" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_362.6" BETYPE="IDREF" FILEID="alto_00181_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b362-7" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_362.5" BETYPE="IDREF" FILEID="alto_00181_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b362-6" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_362.4" BETYPE="IDREF" FILEID="alto_00181_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b362-10" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_362.8" BETYPE="IDREF" FILEID="alto_00181_1"/>
+            <area BEGIN="BL_363.1" BETYPE="IDREF" FILEID="alto_00182_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b361-6" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_361.4" BETYPE="IDREF" FILEID="alto_00181_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b361-7" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_361.5" BETYPE="IDREF" FILEID="alto_00181_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b363-6" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_363.4" BETYPE="IDREF" FILEID="alto_00182_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b363-7" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_363.5" BETYPE="IDREF" FILEID="alto_00182_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b363-8" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_363.6" BETYPE="IDREF" FILEID="alto_00182_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b362-9" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_362.7" BETYPE="IDREF" FILEID="alto_00181_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AgCL" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_363.8" BETYPE="IDREF" FILEID="alto_00182_0"/>
+            <area BEGIN="BL_363.9" BETYPE="IDREF" FILEID="alto_00182_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b361-8" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_361.6" BETYPE="IDREF" FILEID="alto_00181_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b361-9" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_361.7" BETYPE="IDREF" FILEID="alto_00181_0"/>
+            <area BEGIN="BL_362.1" BETYPE="IDREF" FILEID="alto_00181_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b363-10" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_363.10" BETYPE="IDREF" FILEID="alto_00182_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b363-11" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_363.11" BETYPE="IDREF" FILEID="alto_00182_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b359-12" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_359.12" BETYPE="IDREF" FILEID="alto_00180_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b359-11" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_359.10" BETYPE="IDREF" FILEID="alto_00180_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b359-10" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_359.9" BETYPE="IDREF" FILEID="alto_00180_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A19P" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_360.12" BETYPE="IDREF" FILEID="alto_00180_1"/>
+            <area BEGIN="BL_360.13" BETYPE="IDREF" FILEID="alto_00180_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AD-O" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_359.11" BETYPE="IDREF" FILEID="alto_00180_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b360-13" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_360.15" BETYPE="IDREF" FILEID="alto_00180_1"/>
+            <area BEGIN="BL_361.1" BETYPE="IDREF" FILEID="alto_00181_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b360-12" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_360.14" BETYPE="IDREF" FILEID="alto_00180_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b360-11" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_360.11" BETYPE="IDREF" FILEID="alto_00180_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b360-10" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_360.10" BETYPE="IDREF" FILEID="alto_00180_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

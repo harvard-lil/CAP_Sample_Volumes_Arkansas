@@ -1,0 +1,508 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0106" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Holland v. State">Herman Martinez HOLLAND v. STATE of Arkansas</name>
+          <docketnumber>CR 85-204</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 435</citation>
+          <citation category="parallel" type="bluebook">706 S.W.2d 375</citation>
+          <decisiondate>1986-03-31</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:00Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00235_0" MIMETYPE="image/tiff" CHECKSUM="4bf5924597dd6784cc91ad29b2f2a758" CHECKSUMTYPE="MD5" SIZE="9856">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00235_0.tif"/>
+      </file>
+      <file ID="tiff_00235_1" MIMETYPE="image/tiff" CHECKSUM="0996df94eb8581a9cfdf126e9a16ff35" CHECKSUMTYPE="MD5" SIZE="56106">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00235_1.tif"/>
+      </file>
+      <file ID="tiff_00236_0" MIMETYPE="image/tiff" CHECKSUM="6d10552e7672ab2b3c7be4ae801dda8d" CHECKSUMTYPE="MD5" SIZE="50462">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00236_0.tif"/>
+      </file>
+      <file ID="tiff_00236_1" MIMETYPE="image/tiff" CHECKSUM="b1e9eb05a72b2f5088de17dba22a0453" CHECKSUMTYPE="MD5" SIZE="58798">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00236_1.tif"/>
+      </file>
+      <file ID="tiff_00237_0" MIMETYPE="image/tiff" CHECKSUM="23ed4043c876493066d1c97108e3f1e5" CHECKSUMTYPE="MD5" SIZE="21274">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00237_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00235_0" MIMETYPE="image/jp2" CHECKSUM="e6a1840de3dc0ff9c9efa13b34886779" CHECKSUMTYPE="MD5" SIZE="1399520">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00235_0.jp2"/>
+      </file>
+      <file ID="jp2_00235_1" MIMETYPE="image/jp2" CHECKSUM="f6cc4ad21ddb8554c091d50a5a39cafd" CHECKSUMTYPE="MD5" SIZE="2597904">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00235_1.jp2"/>
+      </file>
+      <file ID="jp2_00236_0" MIMETYPE="image/jp2" CHECKSUM="ef5cfeeb0edd176d863d1512610f5422" CHECKSUMTYPE="MD5" SIZE="2512999">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00236_0.jp2"/>
+      </file>
+      <file ID="jp2_00236_1" MIMETYPE="image/jp2" CHECKSUM="8a4563571f7d9d7f93baebe045cf2f62" CHECKSUMTYPE="MD5" SIZE="2607221">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00236_1.jp2"/>
+      </file>
+      <file ID="jp2_00237_0" MIMETYPE="image/jp2" CHECKSUM="dc504b30bbe0f120dccff375afc9e5bc" CHECKSUMTYPE="MD5" SIZE="1807744">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00237_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00235_0" MIMETYPE="text/xml" CHECKSUM="f183c6b9f9ccb0bb2590711cad7b6d66" CHECKSUMTYPE="MD5" SIZE="12012">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00235_0.xml"/>
+      </file>
+      <file ID="alto_00235_1" MIMETYPE="text/xml" CHECKSUM="3e21cde9e1fdc54708de8d515d089c4f" CHECKSUMTYPE="MD5" SIZE="98404">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00235_1.xml"/>
+      </file>
+      <file ID="alto_00236_0" MIMETYPE="text/xml" CHECKSUM="ed539fe644f7df7980e6a4c50ffd380b" CHECKSUMTYPE="MD5" SIZE="92947">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00236_0.xml"/>
+      </file>
+      <file ID="alto_00236_1" MIMETYPE="text/xml" CHECKSUM="cb3b703f391b3660c0c3b4f5f6293393" CHECKSUMTYPE="MD5" SIZE="98629">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00236_1.xml"/>
+      </file>
+      <file ID="alto_00237_0" MIMETYPE="text/xml" CHECKSUM="61324504e2aaf1ea9f4574746e255802" CHECKSUMTYPE="MD5" SIZE="33622">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00237_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0106" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="435" lastpage="439">
+              <court pgmap="469" id="b469-4">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="469" id="Au_">CR 85-204</docketnumber>
+              <citation pgmap="469" id="AYH">706 S.W.2d 375</citation>
+              <parties pgmap="469" id="b469-3">Herman Martinez HOLLAND v. STATE of Arkansas</parties>
+              <decisiondate pgmap="469" id="Aqt">Opinion delivered March 31, 1986</decisiondate>
+              <judges pgmap="473" id="b473-8">Purtle, J., not participating.</judges>
+              <attorneys pgmap="469" id="b469-13">William C. McArthur, for appellant.</attorneys>
+              <attorneys pgmap="469" id="b469-14">Steve Clark, Att’y Gen., by: Theodore Holder, Asst. Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="470" id="b470-5">George Rose Smith, Justice.</author>
+                <p pgmap="470" id="AqL2">The appellant, Herman Holland, and his co-defendant, John Zones, were charged with capital murder, kidnapping, and aggravated robbery. At separate trials each was found guilty of all three offenses and sentenced to life imprisonment without parole upon the charge of capital murder, with which the trial court merged the other two offenses. We find no merit in Holland’s, arguments for a new trial, nor any prejudicial error in the other points disclosed by the record as abstracted.</p>
+                <p pgmap="470" id="b470-6">After Zones had been convicted he testified as a witness for the State at Holland’s trial. The basic facts were much the same as they had been developed at Zones’s trial. See our opinion in Zones v. State, 287 Ark. 483, 702 S.W.2d 1 (1985). Zones testified that he and Holland had spent the evening drinking at bars with the victim, James Mitchell. The three men left in Mitchell’s car at about 4:00 a.m. According to Zones, it was Holland who stabbed the victim and put him in the trunk of the car. They drove out the Memphis highway and stopped by Faulkner Lake, which is swampy and shallow. Zones testified that Holland struck the victim twice on the head with a tire tool, dragged him from the car, and disposed of the body by taking it out into the lake, where he anchored the body under the water with logs. The next morning, according to Zones, the two men first tried to get a woman to dispose of the car for them and finally burned it near the Arch Street Pike.</p>
+                <p pgmap="470" id="b470-7">
+                   The murder was committed on July 9 or 10. In September, after Zones had been arrested, he showed the officers where the body had been submerged. A picture of the remains, just under the surface, was introduced at the Zones trial and again at this one. We have examined the picture and do not find it so offensive as to be inadmissible. Nor was a picture of the burned car subject to objection.</p>
+                <p pgmap="470(81) 471(17)" id="b470-8">
+                   The testimony of Zones, a confessed accomplice, was sufficiently corroborated. Carla Bettis, who had been Holland’s girl friend and by whom he had had a child, testified that Holland had told her that he and a man named John had picked up a man at a bar, that they had ridden around drinking with him, and that Holland stabbed the man. According to her, Holland said they took the man to a swampy part of the river, where John beat the man with a tire tool. They then stripped him down and tied him out in the river.</p>
+                <p pgmap="471" id="b471-6">Holland testified in his own defense. He admitted having been with Zones that evening until about 2:30 a.m., but he said he then went home. He said he saw Zones the next day at about noon and was with Zones when they tried to persuade a woman to dispose of the car. It is argued that the corroborating witness’s testimony differed in several respects from the facts as proved at the trial. That is to some extent true, but the jury was properly instructed as to the need for corroboration. Upon the evidence the jury could, and evidently did, find the corroboration to meet the requirements of the law. If believed, it was sufficient.</p>
+                <p pgmap="471" id="b471-7">
+                   Before the voir dire had begun, a roll call of the expected witnesses showed that one witness for the State had not yet arrived. A deputy prosecutor remarked: “I don’t know what’s happened to him unless he’s gotten killed. He knew to be here.” Defense counsel moved for a mistrial. The motion was properly denied. As the trial judge observed, the remark was just a comment that had nothing to do with the trial and did not impute anything to anyone.</p>
+                <p pgmap="471" id="b471-8">The denial of another motion for mistrial is said to have been reversible error. During a noon hour a juror reported to the trial judge that he had received a telephone call during the preceding night. In chambers, in the presence of counsel, the juror was sworn and questioned. He said his phone rang at 1:16. The juror continued:</p>
+                <blockquote pgmap="471" id="b471-9">They asked: “Are you Larry Davis?” I said: “Yes.” And the next words were either, “You better do good,” or “You better be good,” and I hung up before the sentence was completed.</blockquote>
+                <p pgmap="471" id="b471-10">The juror did not know who it had been, but he said the voice sounded “gay.” (There had been some indication that the victim of the murder may have been gay.) The juror said that in his opinion the call did not affect his ability to decide the case fairly. “It doesn’t bother me at all that I got the call.” The juror said he had not mentioned the matter to the other jurors and was told not to do so.</p>
+                <p pgmap="471(10) 472(114)" id="b471-11">
+                   We perceive no abuse of the trial court’s discretion in its refusal to grant a mistrial. That drastic step should not be taken unless the possibility of prejudice cannot be removed by an admonition to the jury, or here to the juror. Cobb v. State, 265 Ark. 527, 579 S.W.2d 612 (1979). Here the trial judge was evidently impressed by the juror’s conscientiousness in reporting the matter. The judge was in a far better position than we to say whether the particular juror might be affected by the telephone call. Such incidents obviously cannot be prevented. For us to set aside the trial for what seems to have been the proper way to handle the matter might encourage such anonymous calls in the future.</p>
+                <p pgmap="472" id="b472-6">There is no substance to the argument that the trial court improperly restricted the defense in the cross-examination of two witnesses. The first was Zones. The defense had been provided with a written account of a social worker’s interview with Zones. The account reported Zones as having said that when he was fourteen he had stabbed a man and that all his life he had had a violent temper that led him to strike people and smash things. Defense counsel disclaimed any intention of asking Zones about the specific stabbing incident, but he did want to ask about Zones’s general statement, which the judge said he would permit. Counsel later asked Zones: “Have you ever made the statement that you have a very explosive and violent temper that leads to hitting and beating people?” Zones said, “No, sir,” and stuck to his position when the same question was asked two or three times. Counsel argues the point at some length in his brief, but the trouble is the absence of any specific complaint. That is, neither the abstract nor the brief sets forth any particular question that counsel was not permitted to ask. No error is shown.</p>
+                <p pgmap="472(108) 473(23)" id="b472-7">The second occasion occurred during counsel’s cross-exami­nation of Ms. Bettis, Holland’s former girl friend. Counsel had elicited an admission from Ms. Bettis that the juvenile court had charged her with being a neglectful parent and that she was engaged in a legal battle about the custody of her children. The attorney later asked: “If Herman Holland is convicted of this charge or any other significant charge, I assume that that would remove one potential witness that you would have a problem with, wouldn’t it?” The court properly sustained the State’s objection, noting that the question was argumentative. Not only was the question argumentative; it contained unwarranted assumptions of fact on the part of the interrogator. In sustaining the objection the court did not abuse its discretion in controlling cross-­examination.</p>
+                <p pgmap="473" id="b473-6">Before the trial, counsel filed a number of motions raising questions about the validity or application of our statutes relating to capital murder. These questions have been answered in several of our opinions and need not be explored once more. We are convinced by the record and the briefs that Holland was fairly tried and was convicted in accordance with the law.</p>
+                <p pgmap="473" id="b473-7">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="469" ORDERLABEL="435" TYPE="page">
+        <fptr FILEID="tiff_00235_0"/>
+        <fptr FILEID="jp2_00235_0"/>
+        <fptr FILEID="alto_00235_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_469.2" BETYPE="IDREF" FILEID="alto_00235_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="470" ORDERLABEL="436" TYPE="page">
+        <fptr FILEID="tiff_00235_1"/>
+        <fptr FILEID="jp2_00235_1"/>
+        <fptr FILEID="alto_00235_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_470.1" BETYPE="IDREF" FILEID="alto_00235_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="471" ORDERLABEL="437" TYPE="page">
+        <fptr FILEID="tiff_00236_0"/>
+        <fptr FILEID="jp2_00236_0"/>
+        <fptr FILEID="alto_00236_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_471.3" BETYPE="IDREF" FILEID="alto_00236_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="472" ORDERLABEL="438" TYPE="page">
+        <fptr FILEID="tiff_00236_1"/>
+        <fptr FILEID="jp2_00236_1"/>
+        <fptr FILEID="alto_00236_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_472.2" BETYPE="IDREF" FILEID="alto_00236_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="473" ORDERLABEL="439" TYPE="page">
+        <fptr FILEID="tiff_00237_0"/>
+        <fptr FILEID="jp2_00237_0"/>
+        <fptr FILEID="alto_00237_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_473.3" BETYPE="IDREF" FILEID="alto_00237_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b471-8" BETYPE="IDREF" FILEID="casebody_0106"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_471.6" BETYPE="IDREF" FILEID="alto_00236_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b469-4" BETYPE="IDREF" FILEID="casebody_0106"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_469.6" BETYPE="IDREF" FILEID="alto_00235_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b469-3" BETYPE="IDREF" FILEID="casebody_0106"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_469.3" BETYPE="IDREF" FILEID="alto_00235_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b473-8" BETYPE="IDREF" FILEID="casebody_0106"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_473.6" BETYPE="IDREF" FILEID="alto_00237_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Au_" BETYPE="IDREF" FILEID="casebody_0106"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_469.4" BETYPE="IDREF" FILEID="alto_00235_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AYH" BETYPE="IDREF" FILEID="casebody_0106"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_469.5" BETYPE="IDREF" FILEID="alto_00235_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b471-7" BETYPE="IDREF" FILEID="casebody_0106"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_471.5" BETYPE="IDREF" FILEID="alto_00236_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AqL2" BETYPE="IDREF" FILEID="casebody_0106"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_470.4" BETYPE="IDREF" FILEID="alto_00235_1"/>
+            <area BEGIN="BL_470.5" BETYPE="IDREF" FILEID="alto_00235_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b473-6" BETYPE="IDREF" FILEID="casebody_0106"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_473.4" BETYPE="IDREF" FILEID="alto_00237_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b473-7" BETYPE="IDREF" FILEID="casebody_0106"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_473.5" BETYPE="IDREF" FILEID="alto_00237_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b471-10" BETYPE="IDREF" FILEID="casebody_0106"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_471.8" BETYPE="IDREF" FILEID="alto_00236_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b471-11" BETYPE="IDREF" FILEID="casebody_0106"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_471.9" BETYPE="IDREF" FILEID="alto_00236_0"/>
+            <area BEGIN="BL_472.1" BETYPE="IDREF" FILEID="alto_00236_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b469-14" BETYPE="IDREF" FILEID="casebody_0106"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_469.17" BETYPE="IDREF" FILEID="alto_00235_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b469-13" BETYPE="IDREF" FILEID="casebody_0106"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_469.16" BETYPE="IDREF" FILEID="alto_00235_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b470-5" BETYPE="IDREF" FILEID="casebody_0106"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_470.3" BETYPE="IDREF" FILEID="alto_00235_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b472-7" BETYPE="IDREF" FILEID="casebody_0106"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_472.5" BETYPE="IDREF" FILEID="alto_00236_1"/>
+            <area BEGIN="BL_473.1" BETYPE="IDREF" FILEID="alto_00237_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b472-6" BETYPE="IDREF" FILEID="casebody_0106"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_472.4" BETYPE="IDREF" FILEID="alto_00236_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b470-7" BETYPE="IDREF" FILEID="casebody_0106"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_470.7" BETYPE="IDREF" FILEID="alto_00235_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b470-6" BETYPE="IDREF" FILEID="casebody_0106"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_470.6" BETYPE="IDREF" FILEID="alto_00235_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aqt" BETYPE="IDREF" FILEID="casebody_0106"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_469.7" BETYPE="IDREF" FILEID="alto_00235_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b471-9" BETYPE="IDREF" FILEID="casebody_0106"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_471.7" BETYPE="IDREF" FILEID="alto_00236_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b471-6" BETYPE="IDREF" FILEID="casebody_0106"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_471.4" BETYPE="IDREF" FILEID="alto_00236_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b470-8" BETYPE="IDREF" FILEID="casebody_0106"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_470.8" BETYPE="IDREF" FILEID="alto_00235_1"/>
+            <area BEGIN="BL_471.1" BETYPE="IDREF" FILEID="alto_00236_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

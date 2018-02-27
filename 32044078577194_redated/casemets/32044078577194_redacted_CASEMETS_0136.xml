@@ -1,0 +1,511 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0136" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="State v. Hamzy">STATE of Arkansas v. Norflet HAMZY, Ralph M. KUYKENDALL, and Dana Keith KUYKENDALL</name>
+          <docketnumber>CR 85-219</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 561</citation>
+          <citation category="parallel" type="bluebook">709 S.W.2d 397</citation>
+          <decisiondate>1986-04-21</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:01Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00300_0" MIMETYPE="image/tiff" CHECKSUM="5fce23b2ea95248d2cbe92b99719bb64" CHECKSUMTYPE="MD5" SIZE="9894">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00300_0.tif"/>
+      </file>
+      <file ID="tiff_00300_1" MIMETYPE="image/tiff" CHECKSUM="f37efa210e996eb7d5fd672e261c1fa4" CHECKSUMTYPE="MD5" SIZE="16560">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00300_1.tif"/>
+      </file>
+      <file ID="tiff_00301_0" MIMETYPE="image/tiff" CHECKSUM="24b54ede023e37a492b9b16179942f70" CHECKSUMTYPE="MD5" SIZE="56610">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00301_0.tif"/>
+      </file>
+      <file ID="tiff_00301_1" MIMETYPE="image/tiff" CHECKSUM="dba1801ad13e9a439b6409915d5ebd09" CHECKSUMTYPE="MD5" SIZE="54724">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00301_1.tif"/>
+      </file>
+      <file ID="tiff_00302_0" MIMETYPE="image/tiff" CHECKSUM="dc61f36d4d0aeeb3d883dfad06a87659" CHECKSUMTYPE="MD5" SIZE="54888">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00302_0.tif"/>
+      </file>
+      <file ID="tiff_00302_1" MIMETYPE="image/tiff" CHECKSUM="c3de730c057baa70baed887df86a43c7" CHECKSUMTYPE="MD5" SIZE="22574">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00302_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00300_0" MIMETYPE="image/jp2" CHECKSUM="efcbc79dbb7f25dd012b501aafc63392" CHECKSUMTYPE="MD5" SIZE="1299855">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00300_0.jp2"/>
+      </file>
+      <file ID="jp2_00300_1" MIMETYPE="image/jp2" CHECKSUM="98a9c4dea23f2a700ce548a35c867283" CHECKSUMTYPE="MD5" SIZE="1406195">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00300_1.jp2"/>
+      </file>
+      <file ID="jp2_00301_0" MIMETYPE="image/jp2" CHECKSUM="c86709a325004b699dc65692f50557a9" CHECKSUMTYPE="MD5" SIZE="2578702">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00301_0.jp2"/>
+      </file>
+      <file ID="jp2_00301_1" MIMETYPE="image/jp2" CHECKSUM="5fc4b2aa2fae3770205c9b1b0dfbe370" CHECKSUMTYPE="MD5" SIZE="2544737">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00301_1.jp2"/>
+      </file>
+      <file ID="jp2_00302_0" MIMETYPE="image/jp2" CHECKSUM="e4e3345dad65b9def5eb98d0583d3255" CHECKSUMTYPE="MD5" SIZE="2554191">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00302_0.jp2"/>
+      </file>
+      <file ID="jp2_00302_1" MIMETYPE="image/jp2" CHECKSUM="e0276a08ce9259dce2052e37a7bccfd2" CHECKSUMTYPE="MD5" SIZE="1758593">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00302_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00300_0" MIMETYPE="text/xml" CHECKSUM="7219b90a2984aba27e24e986a07dbade" CHECKSUMTYPE="MD5" SIZE="11767">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00300_0.xml"/>
+      </file>
+      <file ID="alto_00300_1" MIMETYPE="text/xml" CHECKSUM="6ead54dfd1f30d58486854bb0cc1c1de" CHECKSUMTYPE="MD5" SIZE="23122">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00300_1.xml"/>
+      </file>
+      <file ID="alto_00301_0" MIMETYPE="text/xml" CHECKSUM="b78deb6032852586970f4455d7001606" CHECKSUMTYPE="MD5" SIZE="87238">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00301_0.xml"/>
+      </file>
+      <file ID="alto_00301_1" MIMETYPE="text/xml" CHECKSUM="c9f836291c09409e14f87b620a7a8c7c" CHECKSUMTYPE="MD5" SIZE="88882">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00301_1.xml"/>
+      </file>
+      <file ID="alto_00302_0" MIMETYPE="text/xml" CHECKSUM="789f8c7060e3094788ed258efbf3d7c1" CHECKSUMTYPE="MD5" SIZE="90211">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00302_0.xml"/>
+      </file>
+      <file ID="alto_00302_1" MIMETYPE="text/xml" CHECKSUM="c53426181b0ac6ce4528968f7cdaebd7" CHECKSUMTYPE="MD5" SIZE="34569">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00302_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0136" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="561" lastpage="566">
+              <court pgmap="599" id="b599-5">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="599" id="b599-4">CR 85-219</docketnumber>
+              <citation pgmap="599" id="AVd">709 S.W.2d 397</citation>
+              <parties pgmap="599" id="b599-3">STATE of Arkansas v. Norflet HAMZY, Ralph M. KUYKENDALL, and Dana Keith KUYKENDALL</parties>
+              <decisiondate pgmap="599" id="Aej">Opinion delivered April 21, 1986</decisiondate>
+              <otherdate pgmap="599" id="AMJV">[Rehearing denied May 27, 1986.<footnotemark>*</footnotemark>]</otherdate>
+              <judges pgmap="604" id="b604-7">Purtle, J., not participating.</judges>
+              <attorneys pgmap="600" id="b600-12">Steve Clark, Att’y Gen., by: Clint Miller, Asst. Att’y Gen., for appellant.</attorneys>
+              <attorneys pgmap="600" id="b600-13">Omar Greene and R. W. Laster, for appellees.</attorneys>
+              <footnote label="*">
+                <p pgmap="599" id="b599-13">* Purtle, J., not participating.</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="600" id="b600-14">Robert H. Dudley, Justice.</author>
+                <p pgmap="600(62) 601(36)" id="A4f">Appellees, Norflet Hamzy, Ralph Kuykendall, and Dana Kuykendall stand charged with keeping a gambling house. The police obtained telephone com­pany records, relating to appellees’ telephone activities, by use of a prosecuting attorney’s subpoena rather than by use of a search warrant. With the information so gained, the police secured search warrants for the homes of two of the appellees and there seized gambling paraphernalia. The appellees filed a motion to suppress the evidence. The trial court granted the motion. The State filed this interlocutory appeal under Ark. Sup. Ct. R. 29(1)(k) and A.R.Cr.P. Rule 36.10. We reverse.</p>
+                <p pgmap="601" id="b601-6">A confidential informant reported to the Little Rock police that a wager could be placed by calling a certain telephone number. For three days the police monitored the informant’s calls to the number and verified that bets could be made by calling the number. The police apparently did not know the names of all of the appellees and did not know the address of the person or persons who held the number. A deputy prosecutor issued a prosecutor’s subpoena directing the telephone company to pro­duce records and information concerning the number. The subpoena commanded that the information be produced for an investigation conducted by the Little Rock Police Department.</p>
+                <p pgmap="601" id="b601-7">At trial, the appellees made a very narrow suppression argument. They only argued that the Fourth Amendment was violated by an unauthorized search. They contended that the prosecuting attorney’s office abused its subpoena power by authorizing the police to seize evidence. The trial court was unquestionably correct in holding that the seizure was unlawful on that basis.</p>
+                <p pgmap="601" id="b601-8">
+                   The police do not have the power to issue subpoenas. A prosecutor does have the power to issue subpoenas. Ark. Stat. Ann. §43-801 (Repl. 1977). The prosecutor’s power to subpoena, however, must be used only for a prosecutor’s investigation. Duckett v. State, 268 Ark. 687, 600 S.W.2d 18 (Ark. App. 1980). Here, the prosecutor abused his power to subpoena when he commanded that records be produced for the police. Such a misuse of the subpoena power effectively gave the subpoena power to the police. Clearly, the information from the telephone company was unlawfully seized. That information, in turn, was used to obtain warrants for the search of two of appellees’ homes where the gambling paraphernalia were seized. The appellees successfully argued below that the evidence should be suppressed because of the unlawful seizure from the telephone company.</p>
+                <p pgmap="601(29) 602(76)" id="b601-9">
+                   Neither the Supreme Court of the United States nor this court has ever held that unlawfully seized evidence is inadmissible against all persons, or in all proceedings. See, e.g., Rakas v. Illinois, 439 U.S. 128, 134 (1978); United States v. Ceccolini, 435 U.S. 268, 275 (1978); Stone v. Powell, 428 U.S. 465, 486 (1976). The reason is “each time the exclusionary rule is applied it exacts a substantial social cost for the vindication of Fourth Amendment rights. Relevant and reliable evidence is kept from the trier of fact and the search for truth at trial is deflected.” Rakas v. Illinois, 439 U.S. 128, 137 (1978).</p>
+                <p pgmap="602" id="b602-6">
+                   The State argues that these appellees do not have standing to question the unlawful seizure from the telephone company, and therefore, the exclusionary rule should not be applied in this proceeding. The doctrine of standing to invoke the Fourth Amendment exclusionary rule has now evolved to focus on a defendant’s substantive Fourth Amendment rights. Id., at 140. Under this test a court should not exclude evidence under the Fourth Amendment unless it finds that an unlawful search or seizure violated the defendant’s own constitutional rights, and his rights are violated only if the challenged conduct invaded his legitimate expectation of privacy rather than that of a third party. United States v. Payner, 447 U.S. 727, 731 (1980); Rakas v. Illinois, 439 U.S. 128, 133-140, 143 (1978).</p>
+                <p pgmap="602" id="b602-7">
+                   The unlawfully seized evidence should not be sup­pressed unless the appellees had a legitimate expectation of privacy in the evidence. The concept of a legitimate expectation of privacy is set out in Rakas v. Illinois, 439 U.S. 128, 143 n.12 (1978):</p>
+                <blockquote pgmap="602(132) 603(291)" id="b602-8">Obviously, however, a “legitimate” expectation of privacy by definition means more than a subjective expectation of not being discovered. A burglar plying his trade in a summer cabin during the off season may have a thoroughly justified subjective expectation of privacy, but it is not one which the law recognizes as “legitimate.” His presence, in the words of Jones, 362 U.S., at 267, is “wrongful”; his expectation is not “one that society is prepared to recog­nize as ‘reasonable.’ ” Katz v. United States, 389 U.S., at 361 (Harlan, J., concurring). And it would, of course, be merely tautological to fall back on the notion that those expectations of privacy which are legitimate depend pri­marily on cases deciding exclusionary-rule issues in crimi­nal cases. Legitimation of expectations of privacy by law must have a source outside of the Fourth Amendment, either by reference to concepts of real or personal property law or to understandings that are recognized and permit­ted by society. One of the main rights attaching to property is the right to exclude others, see W. Blackstone, Commen­taries, Book 2, ch. 1, and one who owns or lawfully possesses or controls property will in all likelihood have a legitimate expectation of privacy by virtue of this right to exclude. Expectations of privacy protected by the Fourth Amendment, of course, need not be based on a common-­law interest in real or personal property, or on the invasion of such an interest. These ideas were rejected both in Jones, supra, and Katz, supra. But by focusing on legiti­mate expectations of privacy in Fourth Amendment juris­prudence, the Court has not altogether abandoned use of property concepts in determining the presence or absence of the privacy interests protected by that Amendment. No better demonstration of this proposition exists than the decision in Alderman v. United States, 394 U.S. 165 (1969), where the Court held that an individual’s property interest in his own home was so great as to allow him to object to electronic surveillance of conversations emanat­ing from his home, even though he himself was not a party to the conversations. On the other hand, even a property interest in premises may not be sufficient to establish a legitimate expectation of privacy with respect to particular items located on the premises or activity conducted thereon. See Katz, supra, at 351; Lewis v. United States, 385 U.S. 206, 210 (1966); United States v. Lee, 274 U.S. 559, 563 (1921); Hester v. United States, 265 U.S. 57, 58-­59 (1924).</blockquote>
+                <p pgmap="603(92) 604(96)" id="b603-6">
+                   The proponent of a motion to suppress has the burden of establishing that his own Fourth Amendment rights were violated by the challenged search or seizure. Rakas v. Illinois, 439 U.S. 128, 130-131 n.1 (1978). In the case at bar, the deputy prosecutor argued that the appellees lacked standing to challenge the search because they did not have “a justifiable, reasonable or legitimate expectation of privacy in the records of the telephone company.” The deputy prosecutor’s argument gave appellees notice that they were to put on proof concerning the issue of a legitimate expectation of privacy in the records of the telephone company. They offered no evidence whatsoever on the issue. Because of their failure to offer any proof on the issue, we must assume, for purposes of our review, that petitioners had no legitimate expectation of privacy in the telephone records. See Smith v. Maryland, 442 U.S. 735 (1979). The appellees have not shown that their own constitutional rights were violated in the unlawful seizure, and the resulting evidence should not be suppressed. Accordingly, we reverse and remand with instruc­tions to deny the motion to suppress.</p>
+                <p pgmap="604" id="b604-6">Reversed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="599" ORDERLABEL="561" TYPE="page">
+        <fptr FILEID="tiff_00300_0"/>
+        <fptr FILEID="jp2_00300_0"/>
+        <fptr FILEID="alto_00300_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_599.2" BETYPE="IDREF" FILEID="alto_00300_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="600" ORDERLABEL="562" TYPE="page">
+        <fptr FILEID="tiff_00300_1"/>
+        <fptr FILEID="jp2_00300_1"/>
+        <fptr FILEID="alto_00300_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_600.2" BETYPE="IDREF" FILEID="alto_00300_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="601" ORDERLABEL="563" TYPE="page">
+        <fptr FILEID="tiff_00301_0"/>
+        <fptr FILEID="jp2_00301_0"/>
+        <fptr FILEID="alto_00301_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_601.3" BETYPE="IDREF" FILEID="alto_00301_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="602" ORDERLABEL="564" TYPE="page">
+        <fptr FILEID="tiff_00301_1"/>
+        <fptr FILEID="jp2_00301_1"/>
+        <fptr FILEID="alto_00301_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_602.2" BETYPE="IDREF" FILEID="alto_00301_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="603" ORDERLABEL="565" TYPE="page">
+        <fptr FILEID="tiff_00302_0"/>
+        <fptr FILEID="jp2_00302_0"/>
+        <fptr FILEID="alto_00302_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_603.3" BETYPE="IDREF" FILEID="alto_00302_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="604" ORDERLABEL="566" TYPE="page">
+        <fptr FILEID="tiff_00302_1"/>
+        <fptr FILEID="jp2_00302_1"/>
+        <fptr FILEID="alto_00302_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_604.2" BETYPE="IDREF" FILEID="alto_00302_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b601-9" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_601.7" BETYPE="IDREF" FILEID="alto_00301_0"/>
+            <area BEGIN="BL_602.1" BETYPE="IDREF" FILEID="alto_00301_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b601-8" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_601.6" BETYPE="IDREF" FILEID="alto_00301_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b602-8" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_602.6" BETYPE="IDREF" FILEID="alto_00301_1"/>
+            <area BEGIN="BL_603.1" BETYPE="IDREF" FILEID="alto_00302_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AMJV" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_599.8" BETYPE="IDREF" FILEID="alto_00300_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b600-14" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_600.12" BETYPE="IDREF" FILEID="alto_00300_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b601-7" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_601.5" BETYPE="IDREF" FILEID="alto_00301_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b601-6" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_601.4" BETYPE="IDREF" FILEID="alto_00301_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aej" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_599.7" BETYPE="IDREF" FILEID="alto_00300_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b600-12" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_600.10" BETYPE="IDREF" FILEID="alto_00300_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b599-3" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_599.3" BETYPE="IDREF" FILEID="alto_00300_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b599-5" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_599.6" BETYPE="IDREF" FILEID="alto_00300_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b599-4" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_599.4" BETYPE="IDREF" FILEID="alto_00300_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A4f" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_600.13" BETYPE="IDREF" FILEID="alto_00300_1"/>
+            <area BEGIN="BL_600.14" BETYPE="IDREF" FILEID="alto_00300_1"/>
+            <area BEGIN="BL_601.1" BETYPE="IDREF" FILEID="alto_00301_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b600-13" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_600.11" BETYPE="IDREF" FILEID="alto_00300_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b603-6" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_603.4" BETYPE="IDREF" FILEID="alto_00302_0"/>
+            <area BEGIN="BL_604.1" BETYPE="IDREF" FILEID="alto_00302_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b602-6" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_602.4" BETYPE="IDREF" FILEID="alto_00301_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b602-7" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_602.5" BETYPE="IDREF" FILEID="alto_00301_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AVd" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_599.5" BETYPE="IDREF" FILEID="alto_00300_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b599-13" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_599.15" BETYPE="IDREF" FILEID="alto_00300_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b604-6" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_604.4" BETYPE="IDREF" FILEID="alto_00302_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b604-7" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_604.5" BETYPE="IDREF" FILEID="alto_00302_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

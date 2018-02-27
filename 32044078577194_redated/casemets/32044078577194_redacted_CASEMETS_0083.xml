@@ -1,0 +1,496 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0083" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="TXO Production Corp. v. First National Bank of Russellville">TXO PRODUCTION CORP. v. FIRST NATIONAL BANK OF RUSSELLVILLE</name>
+          <docketnumber>85-108</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 338</citation>
+          <citation category="parallel" type="bluebook">705 S.W.2d 423</citation>
+          <decisiondate>1986-03-10</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:00Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00185_1" MIMETYPE="image/tiff" CHECKSUM="b2d32e38b75f1fa1c64d0c8fc0b6bf57" CHECKSUMTYPE="MD5" SIZE="8552">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00185_1.tif"/>
+      </file>
+      <file ID="tiff_00186_0" MIMETYPE="image/tiff" CHECKSUM="b3511239cc6d9befab3e57d443fd374c" CHECKSUMTYPE="MD5" SIZE="50200">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00186_0.tif"/>
+      </file>
+      <file ID="tiff_00186_1" MIMETYPE="image/tiff" CHECKSUM="6b2a4495c44af35a6f6ab0f6049121fd" CHECKSUMTYPE="MD5" SIZE="52434">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00186_1.tif"/>
+      </file>
+      <file ID="tiff_00187_0" MIMETYPE="image/tiff" CHECKSUM="22753a849bd6646dad13ee7d5413d024" CHECKSUMTYPE="MD5" SIZE="48676">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00187_0.tif"/>
+      </file>
+      <file ID="tiff_00187_1" MIMETYPE="image/tiff" CHECKSUM="ea6afa4c122e467a2162e69872308ea9" CHECKSUMTYPE="MD5" SIZE="27688">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00187_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00185_1" MIMETYPE="image/jp2" CHECKSUM="4cbef7ceda870a0e9e9d226d659420a2" CHECKSUMTYPE="MD5" SIZE="1363726">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00185_1.jp2"/>
+      </file>
+      <file ID="jp2_00186_0" MIMETYPE="image/jp2" CHECKSUM="a3c8eb031a66451438c0e8ea6d83624f" CHECKSUMTYPE="MD5" SIZE="2460581">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00186_0.jp2"/>
+      </file>
+      <file ID="jp2_00186_1" MIMETYPE="image/jp2" CHECKSUM="9a34225c346b99992e5f6379ef24cb2b" CHECKSUMTYPE="MD5" SIZE="2517232">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00186_1.jp2"/>
+      </file>
+      <file ID="jp2_00187_0" MIMETYPE="image/jp2" CHECKSUM="72b1a26c5ca2cc623376450a9ae136dc" CHECKSUMTYPE="MD5" SIZE="2466908">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00187_0.jp2"/>
+      </file>
+      <file ID="jp2_00187_1" MIMETYPE="image/jp2" CHECKSUM="dd51036771e729eeec4e3fdb08076b08" CHECKSUMTYPE="MD5" SIZE="2010864">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00187_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00185_1" MIMETYPE="text/xml" CHECKSUM="d7fa5dd78bb40d31a0c8c1a85cb470bd" CHECKSUMTYPE="MD5" SIZE="9054">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00185_1.xml"/>
+      </file>
+      <file ID="alto_00186_0" MIMETYPE="text/xml" CHECKSUM="f420572618c61897ab80483331880b86" CHECKSUMTYPE="MD5" SIZE="83803">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00186_0.xml"/>
+      </file>
+      <file ID="alto_00186_1" MIMETYPE="text/xml" CHECKSUM="a7a25256878f836708bfed14b279beb4" CHECKSUMTYPE="MD5" SIZE="88888">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00186_1.xml"/>
+      </file>
+      <file ID="alto_00187_0" MIMETYPE="text/xml" CHECKSUM="2111bfbd61a95afe47e367964e0039df" CHECKSUMTYPE="MD5" SIZE="82182">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00187_0.xml"/>
+      </file>
+      <file ID="alto_00187_1" MIMETYPE="text/xml" CHECKSUM="d7299e3228a95d15f2386fc6e234bc58" CHECKSUMTYPE="MD5" SIZE="42811">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00187_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0083" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="338" lastpage="342">
+              <court pgmap="370" id="b370-8">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="370" id="b370-7">85-108</docketnumber>
+              <citation pgmap="370" id="AjJt">705 S.W.2d 423</citation>
+              <parties pgmap="370" id="b370-6">TXO PRODUCTION CORP. v. FIRST NATIONAL BANK OF RUSSELLVILLE</parties>
+              <decisiondate pgmap="370" id="AREm">Opinion delivered March 10, 1986</decisiondate>
+              <judges pgmap="374" id="b374-3">Purtle, J., not participating.</judges>
+              <attorneys pgmap="371" id="b371-4">Hardin, Jesson &amp; Dawson, by: Rex M. Terry, for appellant.</attorneys>
+              <attorneys pgmap="371" id="b371-5">Gardner, Gardner &amp; Hardin, by: Stephen C. Gardner, for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="371" id="b371-6">Ronald A. May, Special Justice.</author>
+                <p pgmap="371" id="A_kI">This is a suit by First National Bank of Russellville to recover royalties, penalties and attorney’s fees under an oil and gas lease given to TXO Produc­tion Corporation. Shortly after suit was filed, TXO tendered royalties, and this action continued only as one for penalties and attorney’s fees. The Trial Court found for the bank and TXO appealed. The case was transferred to this Court under Rule 29(l)(c) and (n). We are affirming the Trial Court.</p>
+                <p pgmap="371" id="b371-7">
+                   The penalties were assessed under Act 269 of 1981 (Ark. Stat. Ann. § 53-525), which reads as follows:</p>
+                <blockquote pgmap="371(228) 372(115)" id="b371-8">“A. The proceeds derived from the sale of oil or gas production from any oil or gas well shall be paid to persons legally entitled thereto, commencing no later than six (6) months after the date of first sale, and thereafter no later than sixty (60) days after the end of the calendar month within which subsequent production is sold. Such payment is to be made to persons entitled thereto by the first purchasers of such production. Provided, such purchasers may remit to the persons entitled to such proceeds from production semi-annually for the aggregate of six (6) months’ accumulation of monthly proceeds of amounts less than Fifteen Dollars ($15.00). As used in this Act, first purchaser shall mean the first commercial purchaser after completion of the well and shall not include purchasers of oil or gas during initial testing prior to completion. Further provided, that any delay in determining the persons legally entitled to an interest in such proceeds from production caused by unmarketable title to such interest shall not affect payments to persons whose title is marketable. Provided, however, that in those instances where such proceeds cannot be paid because the title thereto is not marketable, the purchasers of such production shall cause all proceeds due such interest to earn interest at the rate of eight percent (8%) per annum, until such time as the title to such interest has been perfected. Marketability of title shall be determined in accordance with the then current legally recognized real property law governing titles to oil and gas interest. The first purchaser shall be exempt from the provisions of this subsection and the owner of the right to drill and to produce under an oil and gas lease or force pooling order shall be substituted for the first purchaser therein where the owner and purchaser have entered into arrangements where the proceeds are paid by the pur­chaser to the owner who assumes the responsibility of paying the proceeds to persons legally entitled thereto.” [The assessment of the penalty is in a separate subsection.]</blockquote>
+                <p pgmap="372" id="b372-6">The oil and gas lease itself is not in evidence. However it is undisputed that gas production on the well in question started in early 1982. A portion of the gas was sold to Columbia Gas Transmission Service and other portions were sold to Arkansas Louisiana Gas Transmission Corporation. (ARKLA). It is undis­puted that TXO assumed the obligation to pay royalties on gas production to the bank.</p>
+                <p pgmap="372" id="b372-7">Arkla began taking deliveries of gas from TXO’s well in May, 1982, although it never formally executed a purchase agreement until fifteen months later in August, 1983. TXO contends, and we accept as true, that such delays are common in the oil and gas industry. Proceeds from the sale of such gas from TXO to Arkla were received by TXO on October 3,1983, and the royalties in question here were paid to the bank on November 10, 1983.</p>
+                <p pgmap="372" id="b372-8">TXO contends that it paid the royalties within the six (6) months contemplated by the statute because the time started to run when TXO received its payment from Arkla. The bank argues that TXO “sold” the gas to Arkla in May, 1982, when it permitted Arkla to first begin taking deliveries of the gas.</p>
+                <p pgmap="372" id="b372-9">The first portion of the statute isn’t very helpful in resolving this question. Did the General Assembly intend that “the date of first sale” meant the date a commercial purchaser executed a purchase agreement (here August, 1983), or took delivery (here May, 1982) or actually paid for the gas (here October, 1983)?</p>
+                <p pgmap="372(9) 373(31)" id="b372-10">We don’t think the General Assembly intended, in passing this clearly remedial legislation, to put it in the power of a gas producer to circumvent the statute’s impact by the form and timing of his sales agreements with third parties.</p>
+                <p pgmap="373" id="b373-4">Significantly, the last sentence of Ark. Stat. Ann. § 53-525A seems to recognize that situations like this one would occur. That sentence would substitute the gas producer (TXO) for the gas purchaser (Arkla) where the producer had assumed responsibil­ity of paying the proceeds “to persons legally entitled thereto.”</p>
+                <p pgmap="373" id="b373-5">
+                   The Trial Court made a finding that a sale occurred in February, 1982. This was the date that Columbia first took delivery of gas under its contract with TXO. Arkla took delivery in May, 1982. In either instance, the payment to the bank came much later than six (6) months after the date of first sale. We are not prepared to say that the date of first sale could be delayed until TXO entered into a formal agreement with Arkla and received payment. Accordingly, the penalty was properly assessed and the case should be affirmed.</p>
+                <p pgmap="373" id="b373-6">
+                   Two other points deserve passing mention. TXO con­tends that the bank never furnished notice that it intended to file suit. There is no such requirement in Act 269 of 1981. TXO contends that the oil and gas lease imposed a duty on the bank to make such a demand. The lease was not in the record, however. We are not prepared to announce that there is a common law obligation to give such notice in the absence of any statutory requirement or agreement between the parties.</p>
+                <p pgmap="373" id="b373-7">
+                   The remaining issue involves the award of attorney’s fees. The Trial Court awarded $1,500.00. Evidence was intro­duced by the bank’s attorneys reflecting forty-two (42) hours of work at $75.00 per hour, the total amounting to $3,150.00. As in many other cases coming before this Court, we defer to the trial judge’s superior position to evaluate the worth of counsel’s services. The bank has requested additional fees for work per­formed in connection with this appeal, and we grant an additional fee of $1,000.00.</p>
+                <p pgmap="373" id="b373-8">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="370" ORDERLABEL="338" TYPE="page">
+        <fptr FILEID="tiff_00185_1"/>
+        <fptr FILEID="jp2_00185_1"/>
+        <fptr FILEID="alto_00185_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_370.1" BETYPE="IDREF" FILEID="alto_00185_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="371" ORDERLABEL="339" TYPE="page">
+        <fptr FILEID="tiff_00186_0"/>
+        <fptr FILEID="jp2_00186_0"/>
+        <fptr FILEID="alto_00186_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_371.2" BETYPE="IDREF" FILEID="alto_00186_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="372" ORDERLABEL="340" TYPE="page">
+        <fptr FILEID="tiff_00186_1"/>
+        <fptr FILEID="jp2_00186_1"/>
+        <fptr FILEID="alto_00186_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_372.2" BETYPE="IDREF" FILEID="alto_00186_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="373" ORDERLABEL="341" TYPE="page">
+        <fptr FILEID="tiff_00187_0"/>
+        <fptr FILEID="jp2_00187_0"/>
+        <fptr FILEID="alto_00187_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_373.3" BETYPE="IDREF" FILEID="alto_00187_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="374" ORDERLABEL="342" TYPE="page">
+        <fptr FILEID="tiff_00187_1"/>
+        <fptr FILEID="jp2_00187_1"/>
+        <fptr FILEID="alto_00187_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_374.1" BETYPE="IDREF" FILEID="alto_00187_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b373-8" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_373.8" BETYPE="IDREF" FILEID="alto_00187_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b371-8" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_371.10" BETYPE="IDREF" FILEID="alto_00186_0"/>
+            <area BEGIN="BL_372.1" BETYPE="IDREF" FILEID="alto_00186_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b371-5" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_371.5" BETYPE="IDREF" FILEID="alto_00186_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b371-4" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_371.4" BETYPE="IDREF" FILEID="alto_00186_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b371-7" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_371.9" BETYPE="IDREF" FILEID="alto_00186_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b371-6" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_371.6" BETYPE="IDREF" FILEID="alto_00186_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b373-7" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_373.7" BETYPE="IDREF" FILEID="alto_00187_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b373-6" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_373.6" BETYPE="IDREF" FILEID="alto_00187_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b373-4" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_373.4" BETYPE="IDREF" FILEID="alto_00187_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b372-6" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_372.4" BETYPE="IDREF" FILEID="alto_00186_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b372-7" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_372.5" BETYPE="IDREF" FILEID="alto_00186_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b373-5" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_373.5" BETYPE="IDREF" FILEID="alto_00187_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b370-6" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_370.5" BETYPE="IDREF" FILEID="alto_00185_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b370-7" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_370.6" BETYPE="IDREF" FILEID="alto_00185_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b370-8" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_370.8" BETYPE="IDREF" FILEID="alto_00185_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b372-8" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_372.6" BETYPE="IDREF" FILEID="alto_00186_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b372-9" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_372.7" BETYPE="IDREF" FILEID="alto_00186_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AREm" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_370.9" BETYPE="IDREF" FILEID="alto_00185_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b372-10" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_372.8" BETYPE="IDREF" FILEID="alto_00186_1"/>
+            <area BEGIN="BL_373.1" BETYPE="IDREF" FILEID="alto_00187_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b374-3" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_374.4" BETYPE="IDREF" FILEID="alto_00187_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A_kI" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_371.7" BETYPE="IDREF" FILEID="alto_00186_0"/>
+            <area BEGIN="BL_371.8" BETYPE="IDREF" FILEID="alto_00186_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AjJt" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_370.7" BETYPE="IDREF" FILEID="alto_00185_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

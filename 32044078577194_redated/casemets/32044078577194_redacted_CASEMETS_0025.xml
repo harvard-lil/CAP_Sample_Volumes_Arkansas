@@ -1,0 +1,554 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0025" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Johnson v. State">James JOHNSON v. STATE of Arkansas</name>
+          <docketnumber>CR 85-163</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 101</citation>
+          <citation category="parallel" type="bluebook">702 S.W.2d 2</citation>
+          <decisiondate>1986-01-27</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:00Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00064_0" MIMETYPE="image/tiff" CHECKSUM="126c868ccf2d36fa3924eed739d42b3f" CHECKSUMTYPE="MD5" SIZE="8360">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00064_0.tif"/>
+      </file>
+      <file ID="tiff_00064_1" MIMETYPE="image/tiff" CHECKSUM="22ceacc06a77b079c72f9d88bfce828c" CHECKSUMTYPE="MD5" SIZE="52712">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00064_1.tif"/>
+      </file>
+      <file ID="tiff_00065_0" MIMETYPE="image/tiff" CHECKSUM="fa0d210f84873a364623a121b923d6c2" CHECKSUMTYPE="MD5" SIZE="52736">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00065_0.tif"/>
+      </file>
+      <file ID="tiff_00065_1" MIMETYPE="image/tiff" CHECKSUM="c7385d122d58a23c6032428d2ccf7f2d" CHECKSUMTYPE="MD5" SIZE="55622">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00065_1.tif"/>
+      </file>
+      <file ID="tiff_00066_0" MIMETYPE="image/tiff" CHECKSUM="b6b097cd4c4c596d94bd3e3e39d12824" CHECKSUMTYPE="MD5" SIZE="58348">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00066_0.tif"/>
+      </file>
+      <file ID="tiff_00066_1" MIMETYPE="image/tiff" CHECKSUM="c8ab3970b21c59e80ddd7d922b3f0f7a" CHECKSUMTYPE="MD5" SIZE="12426">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00066_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00064_0" MIMETYPE="image/jp2" CHECKSUM="f88d765cafda7f844f1545175c788e96" CHECKSUMTYPE="MD5" SIZE="1265545">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00064_0.jp2"/>
+      </file>
+      <file ID="jp2_00064_1" MIMETYPE="image/jp2" CHECKSUM="06fe75a5f19cf513f92157f0bf697639" CHECKSUMTYPE="MD5" SIZE="2487838">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00064_1.jp2"/>
+      </file>
+      <file ID="jp2_00065_0" MIMETYPE="image/jp2" CHECKSUM="0342681f3064e66703a15a6d089a4525" CHECKSUMTYPE="MD5" SIZE="2587398">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00065_0.jp2"/>
+      </file>
+      <file ID="jp2_00065_1" MIMETYPE="image/jp2" CHECKSUM="9c98a946c954694c686b5cde05ca6eae" CHECKSUMTYPE="MD5" SIZE="2535566">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00065_1.jp2"/>
+      </file>
+      <file ID="jp2_00066_0" MIMETYPE="image/jp2" CHECKSUM="4a9ec0d4d9b9efee7b1dff91686b62a0" CHECKSUMTYPE="MD5" SIZE="2562133">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00066_0.jp2"/>
+      </file>
+      <file ID="jp2_00066_1" MIMETYPE="image/jp2" CHECKSUM="ec9cb3d5dc72773fd2c3f3cb1ae9dacb" CHECKSUMTYPE="MD5" SIZE="1573234">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00066_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00064_0" MIMETYPE="text/xml" CHECKSUM="babbab01704bc726a3e3ff41c458d9f2" CHECKSUMTYPE="MD5" SIZE="10396">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00064_0.xml"/>
+      </file>
+      <file ID="alto_00064_1" MIMETYPE="text/xml" CHECKSUM="96e04a82bd1fedfa20719d7d77b6953b" CHECKSUMTYPE="MD5" SIZE="92799">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00064_1.xml"/>
+      </file>
+      <file ID="alto_00065_0" MIMETYPE="text/xml" CHECKSUM="2f331c78a476b408f08cd026dfd81551" CHECKSUMTYPE="MD5" SIZE="90560">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00065_0.xml"/>
+      </file>
+      <file ID="alto_00065_1" MIMETYPE="text/xml" CHECKSUM="d6276cf2aeacd8a5983416dc5f141ab3" CHECKSUMTYPE="MD5" SIZE="98846">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00065_1.xml"/>
+      </file>
+      <file ID="alto_00066_0" MIMETYPE="text/xml" CHECKSUM="9e17c023b770db9174681a740ed225a7" CHECKSUMTYPE="MD5" SIZE="96429">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00066_0.xml"/>
+      </file>
+      <file ID="alto_00066_1" MIMETYPE="text/xml" CHECKSUM="ea1c6ac550a8abc5a3b326bebfc6fa72" CHECKSUMTYPE="MD5" SIZE="19168">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00066_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0025" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="101" lastpage="106">
+              <court pgmap="127" id="b127-5">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="127" id="AP3">CR 85-163</docketnumber>
+              <citation pgmap="127" id="AX32">702 S.W.2d 2</citation>
+              <parties pgmap="127" id="b127-4">James JOHNSON v. STATE of Arkansas</parties>
+              <decisiondate pgmap="127" id="AUn">Opinion delivered January 27, 1986</decisiondate>
+              <otherdate pgmap="127" id="AcB">[Rehearing denied March 3, 1986.<footnotemark>*</footnotemark>]</otherdate>
+              <judges pgmap="132" id="b132-6">Purtle, J., not participating.</judges>
+              <attorneys pgmap="128" id="b128-6">Joel W. Price, for appellant.</attorneys>
+              <attorneys pgmap="128" id="b128-7">Steve Clark, Att’y Gen., by: Joel O. Huggins, Asst. Att’y Gen., for appellee.</attorneys>
+              <footnote label="*">
+                <p pgmap="127" id="b127-18">* Purtle, J., not participating.</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="128" id="b128-8">George Rose Smith, Justice.</author>
+                <p pgmap="128" id="AAO">The appellant was charged with incest, in that he had sexual intercourse with his daughter, then 19 years old. The appellant’s defense, voluntary intoxica­tion, was submitted to the jury in AMCI 4005.1. The jury found the defendant guilty and imposed a five-year prison sentence. The case was transferred to us as presenting an issue of statutory construction. Rule 29(l)(c). The five points for reversal relate to the voir dire of the jury and to the admissibility and sufficiency of evidence. We do not find any basis for disturbing the conviction.</p>
+                <p pgmap="128" id="b128-9">The prosecutrix testified that she had a baby when she was twelve and living with her family. Shortly after that her father began fondling her and eventually had sex with her. That continued until she was seventeen, when she married and moved to an apartment with her husband. She and her husband separated, but she kept the apartment.</p>
+                <p pgmap="128" id="b128-10">About a week before the offense the defendant let his daughter know that he wanted to have sex with her again. She testified that she did not intend to permit it and enlisted the aid of a friend, who called the police. The officer said that the police do not act unless a complaint is made. The prosecutrix testified that when her father telephoned her that he was coming to the apartment, she again called her friend. He testified that he drove over there and watched the defendant arrive in his car. The prosecutrix testified that her father entered the apartment, began fondling her, and eventually laid her on a pallet and accomplished his purpose. She said that in the past he had threatened to kill her if she told anyone. She said he was not intoxicated that morning.</p>
+                <p pgmap="128(78) 129(37)" id="b128-11">The appellant testified that he had been an alcoholic for many years. He professed to remember nothing about the earlier incidents and did not see how they could have happened. He said that on the morning of the alleged offense he had drunk beer and whisky. His daughter, according to his version, called him and asked him to come to her apartment. He drove over there. She explained that she was worried about some bills her husband had incurred. After some conversation she asked to borrow his car that night, but he refused because he had no insurance on it and she did not have a driver’s license. “And that’s all that I can remember.”</p>
+                <p pgmap="129" id="b129-6">
+                   The appellant first complains that the trial judge unduly restricted his voir dire of the jurors. Counsel sought to ask a number of hypothetical questions about situations that could not arise during the trial. For example, his first question to one juror was: “Mr. Patterson, if you were asked to cast your vote at this minute, of guilt or innocence of James Johnson, how would you vote?” Other impermissible questions were so long and involved that we do not set them out. When the prosecutor objected to the method of examination, the trial judge noted that the questions were confusing to the jurors. The judge also explained in a general way what questions would be allowed. The hypothetical questions counsel sought to ask were much too detailed and might easily have confused the jury. We find no unnecessary limitation of counsel’s right to examine the veniremen.</p>
+                <p pgmap="129" id="b129-7">
+                   Second, it is argued that the court should not have permitted the prosecutrix to testify about her father’s earlier incestuous relations with her. Uniform Evidence Rule 404(b) excludes proof of a defendant’s other crimes to prove his charac­ter in order to show that he acted in conformity with that character. The Rule then gives examples of permissible purposes in proving other crimes, such as proof of motive, opportunity, intent, and soon. We have long held that proof of prior incestuous acts with the same person is admissible. Adams v. State, 78 Ark. 16, 92 S.W. 1123 (1912). Our reasoning was explained in a carnal abuse case involving proof of prior similar acts between the parties, Williams v. State, 103 Ark. 70, 146 S.W. 471 (1912):</p>
+                <blockquote pgmap="129(76) 130(3)" id="b129-8">The testimony in question was not introduced for the purpose of proving a substantive crime, but to show the relation and familiarity of the parties, their disposition and antecedent conduct towards each other, and as corrobora­tive of the testimony of the prosecuting witness touching the crime charged in the indictment. It showed the inti­macy of the parties, and was admissible as characterizing the previous acts and conduct of the parties in regard to the particular offense charged.</blockquote>
+                <p pgmap="130" id="b130-6">Another incest case so holding is Carmen v. State, 120 Ark. 172, 179 S.W. 183 (1915). The appellant cites Alford v. State, 223 Ark. 330, 266 S.W.2d 804 (1954), where we put an end to a developing practice of saying loosely that proof of recent, similar crimes is admissible to show intent. See Gerlach v. State, 217 Ark. 102, 229 S.W.2d 37 (1950); Hummel v. State, 210 Ark. 472, 196 S.W.2d 594 (1946); Hearn v. State, 206 Ark. 206, 174 S.W.2d 452 (1943). In the Alford opinion, however, we adhered to the rule applicable to prior incestuous acts between the same parties, citing Adams, supra. The trial court correctly applied that rule in the present case.</p>
+                <p pgmap="130" id="b130-7">
+                   The appellant’s third argument is that the trial judge should have directed a verdict for Johnson, because his daughter was an accomplice and her testimony was not corroborated. In the first place, there was no motion for a directed verdict, and the trial judge is not required to take that action on his own initiative. In the second place, the Criminal Code provides that the victim of a crime is not an accomplice. Ark. Stat. Ann. § 41-305 (Repl. 1977). It is argued that the prosecutrix was not a victim, because it is asserted she was trying to lay a trap for her father, to prove that he had abused her sexually in the past. That is an unrealistic interpretation of her testimony, for she said she tried to prevent her father’s impending visit and said positively that she had not intended to have sex with him. Thus whether she was a victim was at the very least a disputed issue of fact; so a directed verdict would have been wrong.</p>
+                <p pgmap="130" id="b130-8">A fourth argument is that the defendant should have been allowed to testify, as part of the defense of intoxication, that after his arrest he had taken Antabuse for months and participated in counseling in an effort to correct his alcoholism. The trial court correctly refused to allow such testimony by the defendant.</p>
+                <p pgmap="130(76) 131(149)" id="b130-9">
+                   Voluntary intoxication is not a statutory defense under the Criminal Code, but is recognized as a common-law defense when a crime, such as burglary, requires the formation of a specific intent. Varnedare v. State, 264 Ark. 596, 573 S.W.2d 57 (1978). AMCI 4005.1, which was given, is based on that case. In the case at hand the instruction told the jury that voluntary intoxication is a defense only if as a result of it James Johnson lacked the capacity to form the purposeful mental state necessary to commit the offense. AMCI2403, which was also given, told the jury that the State must prove that James Johnson had sexual intercourse with a person he knew to be his descendant. Thus the only specific knowledge required is that Johnson knew that the prosecutrix was his daughter. There has never been even the slightest suggestion that he did not recognize her as his daughter. To the contrary, his own testimony showed that immediately before the commission of incest he drove to her house and-­discussed her lack of a driver’s license. Johnson’s proffered testimony about his attempted rehabilitation after his arrest was not relevant to the issue of guilt or innocence. It must be kept in mind that even if the jury believed that he had no memory of the incident, that alone would not establish his innocence.</p>
+                <p pgmap="131" id="b131-4">In the appellant’s brief counsel states that a doctor and a counselor were available to testify at the trial about the blackout problems common to alcoholics and would have given their opinions about the appellant’s alcoholism and his amnesia when intoxicated. Counsel concedes that his proffers “could have been more specific,” but actually there was no proffer of what the doctor or the counselor might have testified; they were not even mentioned. Their opinions were submitted to the trial judge at a sentencing hearing six weeks after the trial, and were considered, but with respect to their possible testimony there was no error at the trial.</p>
+                <p pgmap="131" id="b131-5">
+                   Finally, appellant complains that the prosecutrix was permitted to testify that as a result of the earlier incidents with her father she had a slight nervous breakdown, was in the hospital, and saw a psychiatrist. The point was raised at a bench conference requested before the witness had answered the first question about these matters. Counsel objected, saying: “I think he’s getting into counseling she might have had afterwards.” If the objection was meant to refer to counseling after the offense on trial, there was no such testimony. If it referred to problems she had after the earlier occurrences, that testimony did have some probative value in tending to show that the prior incidents of incest had actually taken place. Whatever prejudicial effect the testimony might have had did not so clearly outweigh its probative value as to enable us to say that the trial judge abused his discretion in admitting the testimony into evidence.</p>
+                <p pgmap="132" id="b132-5">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="127" ORDERLABEL="101" TYPE="page">
+        <fptr FILEID="tiff_00064_0"/>
+        <fptr FILEID="jp2_00064_0"/>
+        <fptr FILEID="alto_00064_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_127.2" BETYPE="IDREF" FILEID="alto_00064_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="128" ORDERLABEL="102" TYPE="page">
+        <fptr FILEID="tiff_00064_1"/>
+        <fptr FILEID="jp2_00064_1"/>
+        <fptr FILEID="alto_00064_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_128.2" BETYPE="IDREF" FILEID="alto_00064_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="129" ORDERLABEL="103" TYPE="page">
+        <fptr FILEID="tiff_00065_0"/>
+        <fptr FILEID="jp2_00065_0"/>
+        <fptr FILEID="alto_00065_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_129.3" BETYPE="IDREF" FILEID="alto_00065_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="130" ORDERLABEL="104" TYPE="page">
+        <fptr FILEID="tiff_00065_1"/>
+        <fptr FILEID="jp2_00065_1"/>
+        <fptr FILEID="alto_00065_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_130.2" BETYPE="IDREF" FILEID="alto_00065_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="131" ORDERLABEL="105" TYPE="page">
+        <fptr FILEID="tiff_00066_0"/>
+        <fptr FILEID="jp2_00066_0"/>
+        <fptr FILEID="alto_00066_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_131.3" BETYPE="IDREF" FILEID="alto_00066_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="132" ORDERLABEL="106" TYPE="page">
+        <fptr FILEID="tiff_00066_1"/>
+        <fptr FILEID="jp2_00066_1"/>
+        <fptr FILEID="alto_00066_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_132.1" BETYPE="IDREF" FILEID="alto_00066_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AUn" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_127.7" BETYPE="IDREF" FILEID="alto_00064_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b132-5" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_132.3" BETYPE="IDREF" FILEID="alto_00066_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b132-6" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_132.4" BETYPE="IDREF" FILEID="alto_00066_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b131-4" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_131.4" BETYPE="IDREF" FILEID="alto_00066_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b128-10" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_128.11" BETYPE="IDREF" FILEID="alto_00064_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b127-4" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_127.3" BETYPE="IDREF" FILEID="alto_00064_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b127-5" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_127.6" BETYPE="IDREF" FILEID="alto_00064_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b129-8" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_129.6" BETYPE="IDREF" FILEID="alto_00065_0"/>
+            <area BEGIN="BL_130.1" BETYPE="IDREF" FILEID="alto_00065_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b128-7" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_128.6" BETYPE="IDREF" FILEID="alto_00064_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b128-11" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_128.12" BETYPE="IDREF" FILEID="alto_00064_1"/>
+            <area BEGIN="BL_129.1" BETYPE="IDREF" FILEID="alto_00065_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b129-6" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_129.4" BETYPE="IDREF" FILEID="alto_00065_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b129-7" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_129.5" BETYPE="IDREF" FILEID="alto_00065_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AAO" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_128.8" BETYPE="IDREF" FILEID="alto_00064_1"/>
+            <area BEGIN="BL_128.9" BETYPE="IDREF" FILEID="alto_00064_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b128-9" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_128.10" BETYPE="IDREF" FILEID="alto_00064_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b128-8" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_128.7" BETYPE="IDREF" FILEID="alto_00064_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b127-18" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_127.18" BETYPE="IDREF" FILEID="alto_00064_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b131-5" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_131.5" BETYPE="IDREF" FILEID="alto_00066_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b130-8" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_130.6" BETYPE="IDREF" FILEID="alto_00065_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b130-9" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_130.7" BETYPE="IDREF" FILEID="alto_00065_1"/>
+            <area BEGIN="BL_131.1" BETYPE="IDREF" FILEID="alto_00066_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b130-6" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_130.4" BETYPE="IDREF" FILEID="alto_00065_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b128-6" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_128.5" BETYPE="IDREF" FILEID="alto_00064_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b130-7" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_130.5" BETYPE="IDREF" FILEID="alto_00065_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AcB" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_127.8" BETYPE="IDREF" FILEID="alto_00064_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AP3" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_127.4" BETYPE="IDREF" FILEID="alto_00064_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AX32" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_127.5" BETYPE="IDREF" FILEID="alto_00064_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,366 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0020" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="State v. Cantrell">The State vs. Cantrell</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 127</citation>
+          <decisiondate>1860-01</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00065_0" MIMETYPE="image/tiff" CHECKSUM="168b29367f3d0b0ebd06f8ef077e0c07" CHECKSUMTYPE="MD5" SIZE="29004">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00065_0.tif"/>
+      </file>
+      <file ID="tiff_00065_1" MIMETYPE="image/tiff" CHECKSUM="2c1ecf62e3f1593edaf40b9f9155ebdd" CHECKSUMTYPE="MD5" SIZE="46886">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00065_1.tif"/>
+      </file>
+      <file ID="tiff_00066_0" MIMETYPE="image/tiff" CHECKSUM="fa2eb58cee27e2b1ed958fb9266d781e" CHECKSUMTYPE="MD5" SIZE="28440">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00066_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00065_0" MIMETYPE="image/jp2" CHECKSUM="9d332930a9179537a73a9902995ebbd8" CHECKSUMTYPE="MD5" SIZE="2430686">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00065_0.jp2"/>
+      </file>
+      <file ID="jp2_00065_1" MIMETYPE="image/jp2" CHECKSUM="b6e3b4bff6c829e9d3e29ba54bc9a05d" CHECKSUMTYPE="MD5" SIZE="2579759">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00065_1.jp2"/>
+      </file>
+      <file ID="jp2_00066_0" MIMETYPE="image/jp2" CHECKSUM="dedd595b346d9d233ce0d4764c580ba2" CHECKSUMTYPE="MD5" SIZE="2473615">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00066_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00065_0" MIMETYPE="text/xml" CHECKSUM="7e895c215c8cd99d1b6b799f14f9c273" CHECKSUMTYPE="MD5" SIZE="56613">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00065_0.xml"/>
+      </file>
+      <file ID="alto_00065_1" MIMETYPE="text/xml" CHECKSUM="3bf55000df28b62732df204f13fa81fe" CHECKSUMTYPE="MD5" SIZE="91668">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00065_1.xml"/>
+      </file>
+      <file ID="alto_00066_0" MIMETYPE="text/xml" CHECKSUM="ae15e379cef3d6bfd5a0cb6625ac063e" CHECKSUMTYPE="MD5" SIZE="50946">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00066_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0020" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="129" firstpage="127">
+              <parties id="b129-8" pgmap="129">The State vs Cantrell.</parties>
+              <attorneys id="b130-6" pgmap="130">Hollowell, Attorney General, for the State.</attorneys>
+              <summary id="b130-5" pgmap="130">Appeal from Izard Circuit Court.</summary>
+              <headnotes id="b129-9" pgmap="129">The sheriff is required by law to summon the persons selected by the County Court) under the statute, to serve as grand jurors: and if he omits to summon one of them and summons another person in his place, the indictments found by such a grand jury may be quashed.</headnotes>
+              <opinion type="majority">
+                <author id="b130-7" pgmap="130">Mr. Justice Compton</author>
+                <p id="Ac" pgmap="130">delivered the opinion of the court.</p>
+                <p id="b130-8" pgmap="130">At the October term, 1857, of the Izard Circuit Court, Can­trell was indicted for gaming. A plea in abatement was filed, to which the State demurred. The court overruled the demur­rer, and the State saying nothing further, the indictment was quashed, and Cantrell discharged.</p>
+                <p id="b130-9" pgmap="130">It appears from the plea in abatement, that the County Court, at July term, 1857, ordered that sixteen persons, naming them, should be summoned as grand jurors to serve at October term, 1857, of the Circuit Court, and that among the number was one Samuel Evans, whom the sheriff did not summon — but that the sheriff without the order of the County Court, or of th.e Circuit Court, summoned one Samuel Jones, who acted as one of the grand jury, by whom the indictment was found, etc.</p>
+                <p id="b130-10" pgmap="130">It is made the duty of the County Court, at its first term after the adjournment of the Circuit Court, to make out, and cause to be delivered to the sheriffj a list of sixteen persons qualified to serve as grand jurors, and the sheriff is required, within twenty days thereafter, to summon them to appear at the next term of the Circuit Court of the county. If the term of the County Court at which grand jurors are to be selected, is not held, the sheriff is required, wdthin twenty days there­after, to select and summon the requisite number himself. And “ if the sixteen persons summoned to serve as grand jurors shall not attend on the first day of the Circuit Court, such court shall order the sheriff, forthwith, to summon a sufficient number of persons qualified to serve as grand jurors to supply the defi­ciency.” Gould’s Dig. chap. 98, sec. 2, 3, 4.</p>
+                <p id="b130-11" pgmap="130">These are the provisions of .the act of Assembly bearing upon the question raised by the plea, and they make it plain that the sheriff had no authority to summon Jones as a grand juror.</p>
+                <p id="b130-12" pgmap="130(22) 131(36)">Power is given the sheriff to summon grand jurors, without the previous action of the court, in but one instance; and that is, when the term of the County Court, at which the jurors should be selected, is not holdgn. In this case sixteen persons had been regularly selected by the County Court to serve as grand jurors.</p>
+                <p id="b131-6" pgmap="131">From some cause, which does not appear, the sheriff omitted to summon one of them, and without the order of the Circuit Court, summoned Jones to make up the deficiency. This was a violation of the statute. The act of the sheriff involved the selection as well as the summoning of the juror, and being without authority, was not performed under the sanction of his official oath, which, where the act is done by authority, it must be supposed, has a salutary influence in stimulating him to make a proper selection.</p>
+                <p id="b131-7" pgmap="131">The design of the statute,, in prescribing the mode .in which grand jurors shall be selected, was to protect the citizen from unfounded prosecution, and to deprive the sheriff, if inclined, of the opportunity of acting corruptly. Any essential depart­ure from its provisions, therefore, the law does not wink at it, however slight.</p>
+                <p id="b131-8" pgmap="131">Finding no error in the record, the judgment of the Circuit Curt must be affirmed with costs.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="129" ORDERLABEL="127" TYPE="page">
+        <fptr FILEID="tiff_00065_0"/>
+        <fptr FILEID="jp2_00065_0"/>
+        <fptr FILEID="alto_00065_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_129.3" BETYPE="IDREF" FILEID="alto_00065_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_129.2" BETYPE="IDREF" FILEID="alto_00065_0"/>
+              <area BEGIN="BL_129.4" BETYPE="IDREF" FILEID="alto_00065_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_129.8" BETYPE="IDREF" FILEID="alto_00065_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="130" ORDERLABEL="128" TYPE="page">
+        <fptr FILEID="tiff_00065_1"/>
+        <fptr FILEID="jp2_00065_1"/>
+        <fptr FILEID="alto_00065_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_130.1" BETYPE="IDREF" FILEID="alto_00065_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_130.2" BETYPE="IDREF" FILEID="alto_00065_1"/>
+              <area BEGIN="BL_130.3" BETYPE="IDREF" FILEID="alto_00065_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="131" ORDERLABEL="129" TYPE="page">
+        <fptr FILEID="tiff_00066_0"/>
+        <fptr FILEID="jp2_00066_0"/>
+        <fptr FILEID="alto_00066_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_131.3" BETYPE="IDREF" FILEID="alto_00066_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_131.2" BETYPE="IDREF" FILEID="alto_00066_0"/>
+              <area BEGIN="BL_131.4" BETYPE="IDREF" FILEID="alto_00066_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b130-10" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_130.10" BETYPE="IDREF" FILEID="alto_00065_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b130-11" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_130.11" BETYPE="IDREF" FILEID="alto_00065_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b130-12" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_130.12" BETYPE="IDREF" FILEID="alto_00065_1"/>
+            <area BEGIN="BL_131.1" BETYPE="IDREF" FILEID="alto_00066_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b131-6" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_131.5" BETYPE="IDREF" FILEID="alto_00066_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b131-8" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_131.7" BETYPE="IDREF" FILEID="alto_00066_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b131-7" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_131.6" BETYPE="IDREF" FILEID="alto_00066_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b130-6" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_130.5" BETYPE="IDREF" FILEID="alto_00065_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b130-7" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_130.6" BETYPE="IDREF" FILEID="alto_00065_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b130-5" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_130.4" BETYPE="IDREF" FILEID="alto_00065_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ac" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_130.7" BETYPE="IDREF" FILEID="alto_00065_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b129-8" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_129.9" BETYPE="IDREF" FILEID="alto_00065_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b129-9" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_129.10" BETYPE="IDREF" FILEID="alto_00065_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b130-8" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_130.8" BETYPE="IDREF" FILEID="alto_00065_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b130-9" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_130.9" BETYPE="IDREF" FILEID="alto_00065_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

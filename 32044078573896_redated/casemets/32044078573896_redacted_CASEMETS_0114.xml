@@ -1,0 +1,503 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0114" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Taylor v. Drew">Taylor et al. vs. Drew</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 485</citation>
+          <decisiondate>1860-07</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00244_0" MIMETYPE="image/tiff" CHECKSUM="5b64396c3cb7f3b652972870df567c20" CHECKSUMTYPE="MD5" SIZE="26660">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00244_0.tif"/>
+      </file>
+      <file ID="tiff_00244_1" MIMETYPE="image/tiff" CHECKSUM="70a124d5430549faa35135837fe5f9f8" CHECKSUMTYPE="MD5" SIZE="43838">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00244_1.tif"/>
+      </file>
+      <file ID="tiff_00245_0" MIMETYPE="image/tiff" CHECKSUM="b1c562ff3b28660dc71add59fb7cce0c" CHECKSUMTYPE="MD5" SIZE="45318">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00245_0.tif"/>
+      </file>
+      <file ID="tiff_00245_1" MIMETYPE="image/tiff" CHECKSUM="9137a02cca49a8a6d979a632328ced27" CHECKSUMTYPE="MD5" SIZE="25370">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00245_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00244_0" MIMETYPE="image/jp2" CHECKSUM="a03fee8a37dc530e0659d5bde89321cb" CHECKSUMTYPE="MD5" SIZE="2382307">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00244_0.jp2"/>
+      </file>
+      <file ID="jp2_00244_1" MIMETYPE="image/jp2" CHECKSUM="4bf5cc62345a49596e4fd144d2d7ae80" CHECKSUMTYPE="MD5" SIZE="2469772">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00244_1.jp2"/>
+      </file>
+      <file ID="jp2_00245_0" MIMETYPE="image/jp2" CHECKSUM="8dc5400abfb86553deaaa6c6cc0f1185" CHECKSUMTYPE="MD5" SIZE="2555280">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00245_0.jp2"/>
+      </file>
+      <file ID="jp2_00245_1" MIMETYPE="image/jp2" CHECKSUM="88680f2ee56d33472e6e98e0706e73ff" CHECKSUMTYPE="MD5" SIZE="2283594">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00245_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00244_0" MIMETYPE="text/xml" CHECKSUM="74311582bfc5b96cfe1023d92a80e557" CHECKSUMTYPE="MD5" SIZE="51634">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00244_0.xml"/>
+      </file>
+      <file ID="alto_00244_1" MIMETYPE="text/xml" CHECKSUM="c68d544b6488d2050cbd8e882dbb6aa6" CHECKSUMTYPE="MD5" SIZE="84111">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00244_1.xml"/>
+      </file>
+      <file ID="alto_00245_0" MIMETYPE="text/xml" CHECKSUM="08bc41207e018edcf35e5242c3b106cc" CHECKSUMTYPE="MD5" SIZE="88843">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00245_0.xml"/>
+      </file>
+      <file ID="alto_00245_1" MIMETYPE="text/xml" CHECKSUM="ccf0449b7dd68170f9d574afa0b8fb3b" CHECKSUMTYPE="MD5" SIZE="50278">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00245_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0114" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="488" firstpage="485">
+              <parties id="b487-6" pgmap="487">Taylor et al. vs. Drew.</parties>
+              <attorneys id="b487-10" pgmap="487">Walker &amp; Green, and Williams &amp; Williams, for the appel­lants,</attorneys>
+              <attorneys id="b488-8" pgmap="488">Fowler &amp; Stillwell, for the appellee.</attorneys>
+              <summary id="b487-8" pgmap="487">• Appeal from Crawford Circuit Court.</summary>
+              <summary id="b487-9" pgmap="487">Hon. Felix I. Batson, Circuit Judge.</summary>
+              <summary id="b487-11" pgmap="487(13) 488(66)">The case of Clarke vs Crosland, 17 Ark. 43, is not an author­ity governing this case, because in that case the plea alleged that the contract was made in the Indian country; and in this, there is no such averment; and under the rule that the plead­ing must be construed most strongly against the pleader (1 Chit. PI. 578), it will be presumed that the contract was entered into in New Orleans as alleged in the declaration.</summary>
+              <summary id="b488-6" pgmap="488">The act of Congress declaring that executory contracts, entered into by an Indian shall be void (9 U. S. Statutes at large, 203,) creates a personal disability upon the Indian to contract, which can only have effect in the Indian country, and upon the Indian as a member of his tribe, and cannot affect contracts entered into in any of the States. The power conferred upon Congress by the constitution to regulate commerce with the Indian tribes, does not, by implication, involve the power to declare his contracts within a State and in reference to its laws null and void: And though the act be broad enough in its terms to embrace all contracts, wherever made by an Indian, yet as effect can be given to the act onty by construing it as intend­ing to include such contracts as were made within the Indian country, that construction will be adopted.</summary>
+              <summary id="b488-7" pgmap="488">In all contracts, the law of the place where the contract is made must govern, as well in reference to the ability of the person to contract, as to the construction of the contract. Story’s Conf. of Laws, 75 to 92; 2 Kent’s Com. p. 458; 5 B &lt;§• Cres. 438.</summary>
+              <summary id="b488-9" pgmap="488">We submit the case on the authority of Clark vs. Crosland, 17 Ark. 43.</summary>
+              <headnotes id="b487-7" pgmap="487">When an Indian goes into one of the States and makes a contract there, its validity must depend, as a general rule, upon the laws of that state: and so an executory contract m^de by an Indian within the State will be enforced.</headnotes>
+              <opinion type="majority">
+                <author id="b488-10" pgmap="488">Mr. Chief Justice English</author>
+                <p id="AZ_" pgmap="488">delivered the opinion of the Court.</p>
+                <p id="b488-11" pgmap="488(39) 489(12)">Taylor &amp; Raddin, merchants, etc., brought assumpsit by attachment, in the Crawford Circuit Court, against Drew &amp; Scales, merchants and partners, etc., upon a note for $506 70 bearing date 24th April, 1857, and alleged in the declaration to have been executed by the defendants, to the plaintiffs, at New Orleans.</p>
+                <p id="b489-5" pgmap="489">The goods of Drew were attached, and also personal service upon him; and he appeared and interposed the following plea:</p>
+                <p id="b489-6" pgmap="489">Aclio non; because he says that he, the said defendant, is a Cherokee Indian, and a native born subject of the Cherokee nation, west of the State of Arkansas, of which said Cherokee nation he, the said defendant, was a citizen and subject at the time of the execution of the said promissory note sued on and in the plaintiff’s declaration mentioned, and this he is ready to verify; wherefore, etc.</p>
+                <p id="b489-7" pgmap="489">The plaintiff demurred to the plea, the court overruled the demurrer, they rested, Drew was discharged, and they appealed.</p>
+                <p id="b489-8" pgmap="489">The plea is wanting in a material allegation, to make out a good defence to the. action under the decision of this court in Clarke vs. Crosland, 17 Ark. 43.</p>
+                <p id="b489-9" pgmap="489">There is no averment in the plea that the note declared on was executed in the Indian country.</p>
+                <p id="b489-10" pgmap="489">Drew may have been born in the Cherokee nation, and have been a citizen and subject of that nation at the time the note was executed, and yet he may have executed the note, for any thing that appears in the plea to the contrary, at New Orleans, in the State of Louisiana, or at Van Burén, in the State of Ar­kansas.</p>
+                <p id="b489-11" pgmap="489">Congress has not undertaken to say that an executory con­tract made by an Indian within the limits of one of the States of the Union, shall be void, and shall not be enforced in our courts, and if Congress were so to enact, we should be slow to concede the constitutional validity of the act.</p>
+                <p id="b489-12" pgmap="489">Congress exercising a parental guardianship over the Indian people, has enacted laws for their protection from imposition in their own country, but when an Indian goes into any one of the States and makes a contract there, its validity must depend, as a general rule, upon the laws of that State.</p>
+                <p id="b489-13" pgmap="489(18) 490(53)">That Congress has the constitutional power “ to regulate commerce with foreign nations, and among the several States, and with the Indian tribes,” is beyond question — But the clause of the Intercourse act declaring that executory contracts made by an Indian for the payment of money or goods shall be null and void, was no exercise of the power to “ regulate commerce,” etc., within the meaning of the constitution.</p>
+                <p id="b490-5" pgmap="490">The judgment must be reversed, and the cause remanded, with instructions to the court below'to sustain the demurrer to the plea.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="487" ORDERLABEL="485" TYPE="page">
+        <fptr FILEID="tiff_00244_0"/>
+        <fptr FILEID="jp2_00244_0"/>
+        <fptr FILEID="alto_00244_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_487.2" BETYPE="IDREF" FILEID="alto_00244_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_487.1" BETYPE="IDREF" FILEID="alto_00244_0"/>
+              <area BEGIN="BL_487.3" BETYPE="IDREF" FILEID="alto_00244_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_487.7" BETYPE="IDREF" FILEID="alto_00244_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="488" ORDERLABEL="486" TYPE="page">
+        <fptr FILEID="tiff_00244_1"/>
+        <fptr FILEID="jp2_00244_1"/>
+        <fptr FILEID="alto_00244_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_488.2" BETYPE="IDREF" FILEID="alto_00244_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_488.3" BETYPE="IDREF" FILEID="alto_00244_1"/>
+              <area BEGIN="BL_488.4" BETYPE="IDREF" FILEID="alto_00244_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="489" ORDERLABEL="487" TYPE="page">
+        <fptr FILEID="tiff_00245_0"/>
+        <fptr FILEID="jp2_00245_0"/>
+        <fptr FILEID="alto_00245_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_489.3" BETYPE="IDREF" FILEID="alto_00245_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_489.2" BETYPE="IDREF" FILEID="alto_00245_0"/>
+              <area BEGIN="BL_489.4" BETYPE="IDREF" FILEID="alto_00245_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="490" ORDERLABEL="488" TYPE="page">
+        <fptr FILEID="tiff_00245_1"/>
+        <fptr FILEID="jp2_00245_1"/>
+        <fptr FILEID="alto_00245_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_490.2" BETYPE="IDREF" FILEID="alto_00245_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_490.3" BETYPE="IDREF" FILEID="alto_00245_1"/>
+              <area BEGIN="BL_490.4" BETYPE="IDREF" FILEID="alto_00245_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_490.6" BETYPE="IDREF" FILEID="alto_00245_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b488-6" BETYPE="IDREF" FILEID="casebody_0114"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_488.5" BETYPE="IDREF" FILEID="alto_00244_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b488-7" BETYPE="IDREF" FILEID="casebody_0114"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_488.6" BETYPE="IDREF" FILEID="alto_00244_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b487-7" BETYPE="IDREF" FILEID="casebody_0114"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_487.9" BETYPE="IDREF" FILEID="alto_00244_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b487-6" BETYPE="IDREF" FILEID="casebody_0114"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_487.8" BETYPE="IDREF" FILEID="alto_00244_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b487-9" BETYPE="IDREF" FILEID="casebody_0114"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_487.11" BETYPE="IDREF" FILEID="alto_00244_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b487-8" BETYPE="IDREF" FILEID="casebody_0114"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_487.10" BETYPE="IDREF" FILEID="alto_00244_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b488-8" BETYPE="IDREF" FILEID="casebody_0114"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_488.7" BETYPE="IDREF" FILEID="alto_00244_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b488-9" BETYPE="IDREF" FILEID="casebody_0114"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_488.8" BETYPE="IDREF" FILEID="alto_00244_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b488-10" BETYPE="IDREF" FILEID="casebody_0114"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_488.9" BETYPE="IDREF" FILEID="alto_00244_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b488-11" BETYPE="IDREF" FILEID="casebody_0114"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_488.11" BETYPE="IDREF" FILEID="alto_00244_1"/>
+            <area BEGIN="BL_489.1" BETYPE="IDREF" FILEID="alto_00245_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b489-5" BETYPE="IDREF" FILEID="casebody_0114"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_489.5" BETYPE="IDREF" FILEID="alto_00245_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b489-9" BETYPE="IDREF" FILEID="casebody_0114"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_489.9" BETYPE="IDREF" FILEID="alto_00245_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b489-8" BETYPE="IDREF" FILEID="casebody_0114"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_489.8" BETYPE="IDREF" FILEID="alto_00245_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b490-5" BETYPE="IDREF" FILEID="casebody_0114"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_490.5" BETYPE="IDREF" FILEID="alto_00245_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b487-11" BETYPE="IDREF" FILEID="casebody_0114"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_487.13" BETYPE="IDREF" FILEID="alto_00244_0"/>
+            <area BEGIN="BL_488.1" BETYPE="IDREF" FILEID="alto_00244_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b487-10" BETYPE="IDREF" FILEID="casebody_0114"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_487.12" BETYPE="IDREF" FILEID="alto_00244_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b489-13" BETYPE="IDREF" FILEID="casebody_0114"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_489.13" BETYPE="IDREF" FILEID="alto_00245_0"/>
+            <area BEGIN="BL_490.1" BETYPE="IDREF" FILEID="alto_00245_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b489-12" BETYPE="IDREF" FILEID="casebody_0114"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_489.12" BETYPE="IDREF" FILEID="alto_00245_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b489-11" BETYPE="IDREF" FILEID="casebody_0114"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_489.11" BETYPE="IDREF" FILEID="alto_00245_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b489-10" BETYPE="IDREF" FILEID="casebody_0114"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_489.10" BETYPE="IDREF" FILEID="alto_00245_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AZ_" BETYPE="IDREF" FILEID="casebody_0114"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_488.10" BETYPE="IDREF" FILEID="alto_00244_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b489-7" BETYPE="IDREF" FILEID="casebody_0114"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_489.7" BETYPE="IDREF" FILEID="alto_00245_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b489-6" BETYPE="IDREF" FILEID="casebody_0114"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_489.6" BETYPE="IDREF" FILEID="alto_00245_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

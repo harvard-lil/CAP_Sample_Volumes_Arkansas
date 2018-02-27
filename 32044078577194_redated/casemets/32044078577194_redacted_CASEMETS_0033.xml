@@ -1,0 +1,1187 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0033" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Potter v. Easley">David J. POTTER v. Betty (Potter) EASLEY</name>
+          <docketnumber>85-144</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 133</citation>
+          <citation category="parallel" type="bluebook">703 S.W.2d 442</citation>
+          <decisiondate>1986-02-03</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:00Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00080_0" MIMETYPE="image/tiff" CHECKSUM="0dd83aea0a21cd01ad59c6b8295fb6b6" CHECKSUMTYPE="MD5" SIZE="30574">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00080_0.tif"/>
+      </file>
+      <file ID="tiff_00080_1" MIMETYPE="image/tiff" CHECKSUM="366f4fc1fdd10839c70b9df87b0f316e" CHECKSUMTYPE="MD5" SIZE="3990">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00080_1.tif"/>
+      </file>
+      <file ID="tiff_00081_0" MIMETYPE="image/tiff" CHECKSUM="f5336facee81d55b34d4df1f06845e4d" CHECKSUMTYPE="MD5" SIZE="31556">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00081_0.tif"/>
+      </file>
+      <file ID="tiff_00081_1" MIMETYPE="image/tiff" CHECKSUM="0f60413c3c4b0b1b5493a59654393ee8" CHECKSUMTYPE="MD5" SIZE="48512">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00081_1.tif"/>
+      </file>
+      <file ID="tiff_00082_0" MIMETYPE="image/tiff" CHECKSUM="dbd51bed80b51b5a7b39d82714dd37b4" CHECKSUMTYPE="MD5" SIZE="49070">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00082_0.tif"/>
+      </file>
+      <file ID="tiff_00082_1" MIMETYPE="image/tiff" CHECKSUM="f8a8ec9cbd24147ffb719daa8dc42bc9" CHECKSUMTYPE="MD5" SIZE="55902">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00082_1.tif"/>
+      </file>
+      <file ID="tiff_00083_0" MIMETYPE="image/tiff" CHECKSUM="35965de8fd97af61418cd64a23e065f4" CHECKSUMTYPE="MD5" SIZE="56200">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00083_0.tif"/>
+      </file>
+      <file ID="tiff_00083_1" MIMETYPE="image/tiff" CHECKSUM="16ed35294a4d3d44b844102066262b45" CHECKSUMTYPE="MD5" SIZE="55344">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00083_1.tif"/>
+      </file>
+      <file ID="tiff_00084_0" MIMETYPE="image/tiff" CHECKSUM="00ef28cc79af25a1d5b8e4ae7551a58b" CHECKSUMTYPE="MD5" SIZE="54642">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00084_0.tif"/>
+      </file>
+      <file ID="tiff_00084_1" MIMETYPE="image/tiff" CHECKSUM="8cd6733ceab98a977dbbf44c42ba5d9e" CHECKSUMTYPE="MD5" SIZE="55652">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00084_1.tif"/>
+      </file>
+      <file ID="tiff_00085_0" MIMETYPE="image/tiff" CHECKSUM="254d51cd92da5325992e5551602d525c" CHECKSUMTYPE="MD5" SIZE="52578">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00085_0.tif"/>
+      </file>
+      <file ID="tiff_00085_1" MIMETYPE="image/tiff" CHECKSUM="5bb73a3149e12429d76c5f2d311c5401" CHECKSUMTYPE="MD5" SIZE="56502">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00085_1.tif"/>
+      </file>
+      <file ID="tiff_00086_0" MIMETYPE="image/tiff" CHECKSUM="01cd5ee5cfd8c5663434dc8bb0291cd2" CHECKSUMTYPE="MD5" SIZE="55098">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00086_0.tif"/>
+      </file>
+      <file ID="tiff_00086_1" MIMETYPE="image/tiff" CHECKSUM="cfb5738feafe7aadcbf26e4a14d250b2" CHECKSUMTYPE="MD5" SIZE="40680">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00086_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00080_0" MIMETYPE="image/jp2" CHECKSUM="b83cdccfaa88fe9b1c0b0018551e6c2f" CHECKSUMTYPE="MD5" SIZE="1976498">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00080_0.jp2"/>
+      </file>
+      <file ID="jp2_00080_1" MIMETYPE="image/jp2" CHECKSUM="9e8fc2c0be42837b9f1ba195ad155846" CHECKSUMTYPE="MD5" SIZE="920229">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00080_1.jp2"/>
+      </file>
+      <file ID="jp2_00081_0" MIMETYPE="image/jp2" CHECKSUM="44b76768193667ce6415993d91a0c7d9" CHECKSUMTYPE="MD5" SIZE="1903588">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00081_0.jp2"/>
+      </file>
+      <file ID="jp2_00081_1" MIMETYPE="image/jp2" CHECKSUM="665e4cc587b518ff5381bf73b0a30006" CHECKSUMTYPE="MD5" SIZE="2476346">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00081_1.jp2"/>
+      </file>
+      <file ID="jp2_00082_0" MIMETYPE="image/jp2" CHECKSUM="50294927d715e4b76fdb46001dc32dff" CHECKSUMTYPE="MD5" SIZE="2484129">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00082_0.jp2"/>
+      </file>
+      <file ID="jp2_00082_1" MIMETYPE="image/jp2" CHECKSUM="4f33d33f5c1f1cf81232165d94a1eb66" CHECKSUMTYPE="MD5" SIZE="2530933">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00082_1.jp2"/>
+      </file>
+      <file ID="jp2_00083_0" MIMETYPE="image/jp2" CHECKSUM="9bf4090f2255ed8d14385b5f4837472e" CHECKSUMTYPE="MD5" SIZE="2515055">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00083_0.jp2"/>
+      </file>
+      <file ID="jp2_00083_1" MIMETYPE="image/jp2" CHECKSUM="3ef58b886cdbb293937c0815c1b99238" CHECKSUMTYPE="MD5" SIZE="2558873">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00083_1.jp2"/>
+      </file>
+      <file ID="jp2_00084_0" MIMETYPE="image/jp2" CHECKSUM="93bd0550df77ebb09b84943b1f0201a7" CHECKSUMTYPE="MD5" SIZE="2507821">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00084_0.jp2"/>
+      </file>
+      <file ID="jp2_00084_1" MIMETYPE="image/jp2" CHECKSUM="9806dc0c0d0b10d2b14b79d1a8071466" CHECKSUMTYPE="MD5" SIZE="2546062">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00084_1.jp2"/>
+      </file>
+      <file ID="jp2_00085_0" MIMETYPE="image/jp2" CHECKSUM="e7fde5354888b0d78f608f12bfacb4af" CHECKSUMTYPE="MD5" SIZE="2507155">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00085_0.jp2"/>
+      </file>
+      <file ID="jp2_00085_1" MIMETYPE="image/jp2" CHECKSUM="851f2fed3654ad248e4496b0e097a7ec" CHECKSUMTYPE="MD5" SIZE="2567062">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00085_1.jp2"/>
+      </file>
+      <file ID="jp2_00086_0" MIMETYPE="image/jp2" CHECKSUM="a6a1a96c60b782f2f13d03adfe0de2f6" CHECKSUMTYPE="MD5" SIZE="2537788">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00086_0.jp2"/>
+      </file>
+      <file ID="jp2_00086_1" MIMETYPE="image/jp2" CHECKSUM="7f016fcde9dec857106a77d7b56b939d" CHECKSUMTYPE="MD5" SIZE="2798675">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00086_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00080_0" MIMETYPE="text/xml" CHECKSUM="d7e7d13bd4b2a5e710713b6181f1b6e4" CHECKSUMTYPE="MD5" SIZE="50051">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00080_0.xml"/>
+      </file>
+      <file ID="alto_00080_1" MIMETYPE="text/xml" CHECKSUM="ccf3601b5e1b96607e75a502b639353b" CHECKSUMTYPE="MD5" SIZE="1780">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00080_1.xml"/>
+      </file>
+      <file ID="alto_00081_0" MIMETYPE="text/xml" CHECKSUM="2a8ec2c30bb6fc0cdc3f675d255ceabb" CHECKSUMTYPE="MD5" SIZE="51815">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00081_0.xml"/>
+      </file>
+      <file ID="alto_00081_1" MIMETYPE="text/xml" CHECKSUM="787d68257519db224df383632ca4c024" CHECKSUMTYPE="MD5" SIZE="88339">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00081_1.xml"/>
+      </file>
+      <file ID="alto_00082_0" MIMETYPE="text/xml" CHECKSUM="dacec489bfaa71027a76cb630c741b51" CHECKSUMTYPE="MD5" SIZE="83381">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00082_0.xml"/>
+      </file>
+      <file ID="alto_00082_1" MIMETYPE="text/xml" CHECKSUM="00a9b94bbe30090d65bdadb6dd02788d" CHECKSUMTYPE="MD5" SIZE="101310">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00082_1.xml"/>
+      </file>
+      <file ID="alto_00083_0" MIMETYPE="text/xml" CHECKSUM="064f64ab551845435b52e18fe8d5bc38" CHECKSUMTYPE="MD5" SIZE="98957">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00083_0.xml"/>
+      </file>
+      <file ID="alto_00083_1" MIMETYPE="text/xml" CHECKSUM="a6c906ff87f78ba3b1d254d8424439f5" CHECKSUMTYPE="MD5" SIZE="97065">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00083_1.xml"/>
+      </file>
+      <file ID="alto_00084_0" MIMETYPE="text/xml" CHECKSUM="a5b41e3da24d9765216980cb97e3f28a" CHECKSUMTYPE="MD5" SIZE="94327">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00084_0.xml"/>
+      </file>
+      <file ID="alto_00084_1" MIMETYPE="text/xml" CHECKSUM="edd805b5808074be03cd791503f8a2ba" CHECKSUMTYPE="MD5" SIZE="92727">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00084_1.xml"/>
+      </file>
+      <file ID="alto_00085_0" MIMETYPE="text/xml" CHECKSUM="5077caaacfd5e9edb775e0cb138a231d" CHECKSUMTYPE="MD5" SIZE="89511">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00085_0.xml"/>
+      </file>
+      <file ID="alto_00085_1" MIMETYPE="text/xml" CHECKSUM="e0817e3b0168e00f2ace4cfc81c5255b" CHECKSUMTYPE="MD5" SIZE="101313">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00085_1.xml"/>
+      </file>
+      <file ID="alto_00086_0" MIMETYPE="text/xml" CHECKSUM="4049359f792ed520b6d605433fedce16" CHECKSUMTYPE="MD5" SIZE="101079">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00086_0.xml"/>
+      </file>
+      <file ID="alto_00086_1" MIMETYPE="text/xml" CHECKSUM="ee8a2b4150ab9d53a0510235396f0501" CHECKSUMTYPE="MD5" SIZE="70500">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00086_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0033" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="133" lastpage="146">
+              <court pgmap="159" id="b159-7">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="159" id="b159-6">85-144</docketnumber>
+              <citation pgmap="159" id="Ai1">703 S.W.2d 442</citation>
+              <parties pgmap="159" id="b159-5">David J. POTTER v. Betty (Potter) EASLEY</parties>
+              <decisiondate pgmap="159" id="AWo">Opinion delivered February 3, 1986</decisiondate>
+              <otherdate pgmap="159" id="ALP">[Rehearing denied March 10, 1986.<footnotemark>*</footnotemark>]</otherdate>
+              <judges pgmap="169" id="b169-9">Purtle, J., not participating.</judges>
+              <judges pgmap="169" id="b169-10">Holt, C.J., and Newbern, J., dissent.</judges>
+              <judges pgmap="172" id="b172-9">Holt, C.J. joins in this dissenting opinion.</judges>
+              <attorneys pgmap="161" id="b161-9">Mitchell, Williams, Selig, Jackson &amp; Tucker, by: Jim Guy Tucker, and Steel &amp; Steel, by: George E. Steel, Jr., for appellant.</attorneys>
+              <attorneys pgmap="161" id="b161-10">Smith, Jernigan &amp; Smith, by: Robert D. Smith, III and H. Vann Smith, for appellee.</attorneys>
+              <footnote label="*">
+                <p pgmap="159" id="b159-11">* Purtle, J., not participating.</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="161" id="b161-11">George Rose Smith, Justice.</author>
+                <p pgmap="161" id="ACX">This is the second appeal in this divorce case. Potter v. Potter, 280 Ark. 38, 655 S.W.2d 382 (1983). After hearing additional testimony on remand, Judge Ford referred to the parties’ constant bickering, felt that he had reached the limit of his endurance, and withdrew from the case. Judge Langston was then assigned to the case and, after another hearing, entered the final decree. By then Mrs. Potter had remarried and is now Mrs. Easley. Potter’s appeal comes to us under Rule 29(1)(j). He argues six assignments of error, none of which can be sustained.</p>
+                <p pgmap="161(76) 162(22)" id="b161-12">I. Confirmation of Sale of Homeplace. Judge Ford ordered that the homeplace be sold at public sale for cash, check, or certified funds. The sale was conducted by the clerk of the court on May 6,1982. The only bidders were the Potters. Potter opened the bidding at $40,000 though the mortgage debt against the property was about $45,000. When the bidding reached a point at which Mrs. Potter had bid $87,000, Potter stopped the sale by producing a $ 1,000 supersedeas bond and persuading the clerk to discontinue the sale and declare that it had not been completed.</p>
+                <p pgmap="162" id="b162-6">After stopping the sale, Potter wrote to Judge Ford on the same day, explaining why he had stopped the sale. His main reason was that Mrs. Potter did not have the money to pay her bid and intended to use the “credits” she was entitled to under the divorce decree, then being appealed. Potter’s letter went on to say:</p>
+                <blockquote pgmap="162" id="b162-7">[I]f those credits are reversed on appeal, Betty would not likely have any source of funds with which to pay if she were the successful bidder on the house. . . .</blockquote>
+                <blockquote pgmap="162" id="b162-8">In essence, she was bidding play money, and when the bid reached and slightly exceeded the value I testified the house would bring, I posted the supersedeas bond. While I was as anxious as anyone to conclude this matter, I cannot be placed in a position of bidding against a person who has no money with which to perform the sale. . . . [I]f the money judgment awards are reversed, she will have no money with which to fulfill the sale. There would be no sanctions against her and I would be damaged with no recourse.</blockquote>
+                <p pgmap="162" id="b162-9">Later on Potter testified that if a resale were ordered his first bid would be $100,000. Mrs. Potter testified that she can pay her bid of $87,000.</p>
+                <p pgmap="162" id="b162-10">Judge Ford was not unsympathetic toward Potter’s self-­induced predicament, for he said to Potter upon withdrawing from the case: “I feel that when you decide something you probably really believe it, and when you decide this is the way it ought to be, that you go forward in that, whether it’s right or wrong or anything else.” Nevertheless, after a hearing about confirmation Judge Ford wrote in an opinion:</p>
+                <blockquote pgmap="162" id="b162-11">It is inconceivable that the Court-ordered sale of the home property could be stopped as was testified to. I feel Mr. Potter waived the supersedeas he later posted, when he took part in the bidding. I will confirm the sale.</blockquote>
+                <p pgmap="162" id="b162-12">Judge Ford withdrew without having confirmed the sale, which was confirmed by Judge Langston.</p>
+                <p pgmap="162(11) 163(69)" id="b162-13">
+                   It is now argued that we should set aside the confirma­tion and order a resale. We disagree. To begin with, Judge Ford was right in saying it was inconceivable that a judicial sale could properly be stopped midway, as Potter succeeded in doing. The court had ordered the sale. It was the duty of the parties to obey the order while it was in force, presenting objections later. See Stewart v. State, 221 Ark. 496, 254 S.W.2d 55 (1953).</p>
+                <p pgmap="163" id="b163-4">
+                   In the second place, Potter cannot be allowed to take inconsistent positions by taking part in the bidding in its early stages and then repudiating the proceeding when the bidding reached what he considered a reasonable figure. It can hardly be doubted that if Potter had bid $85,000 and the bidding had ended, he would have sought confirmation. His maneuver was necessa­rily planned in advance, for he came to the sale with a supersedeas bond already signed by him and a surety. A court has the responsibility of protecting the integrity of its judicial sales, for otherwise prospective bidders can have no confidence in their legitimate high bids. Fleming v. Southland Life Ins. Co., 263 Ark. 272, 564 S.W.2d 216 (1978). There we cited some of our cases holding that a sale will not be reopened merely to permit a party to offer more money for the property. Without discussing all the appellant’s lesser arguments, such as that the sale was invalid because the clerk did not announce the final bid three times, we conclude that the sale was rightly confirmed.</p>
+                <p pgmap="163" id="b163-5">II. Division of Sale Proceeds. In the divorce decree, from which the first appeal was taken, the chancellor ordered that the homeplace be sold and the proceeds, less the mortgage debt and expenses, be divided equally between the parties. Potter argued on appeal that the proceeds should be divided in proportion to the parties’ contributions to the acquisition of the property, which he calculated in his appellate brief to have been as follows:</p>
+                <blockquote pgmap="163" id="b163-6">Potter’s contributions:</blockquote>
+                <blockquote pgmap="163" id="b163-7">Mills fee $7,000.00</blockquote>
+                <blockquote pgmap="163" id="b163-8">Fayetteville proceeds 9,656.08</blockquote>
+                <blockquote pgmap="163" id="b163-9">Gift from McMillin 5,000.00</blockquote>
+                <blockquote pgmap="163" id="b163-10">Debt reduction 3,051.00</blockquote>
+                <blockquote pgmap="163" id="b163-11">24,707.08</blockquote>
+                <blockquote pgmap="163" id="b163-12">Mrs. Potter’s contribution:</blockquote>
+                <blockquote pgmap="163" id="b163-13">Debt reduction 3,051.00</blockquote>
+                <p pgmap="164" id="b164-5">On that basis Potter argued that he would be entitled to 89% of the proceeds of sale and Mrs. Potter to 11%. His theory of proportionate division rested primarily on the case of Tibbetts v. Tibbetts, 406 A.2d 70 (Me. 1979).</p>
+                <p pgmap="164" id="b164-6">Potter’s calculation was based to a large extent upon his own testimony and so is not treated as undisputed. On the first appeal we recognized, on the authority of a Texas case, that property acquired in part out of marital funds and in part out of one spouse’s separate funds may be in part marital property and in part separate. We resolved the issue by holding that Potter “owns a separate interest in the lot and house in the amount of $9,656.08.” We cited the Tibbetts case, not for the principle of proportionate division but for the “acquired in exchange for” clause in statutes governing the division of community property.</p>
+                <p pgmap="164" id="b164-7">
+                   On remand Judge Langston construed our opinion to mean that Potter is entitled to $9,656.08 from the net proceeds of sale, the rest to be divided equally. The judge was right. Our settled procedure is to review chancery cases de novo and to end the controversy by a final judgment or by a direction to the chancellor to enter a final decree. Wilborn v. Elston, 209 Ark. 670, 191 S.W.2d 961 (1946). When, as here, the facts have been fully developed, it would be pointless for us to remand the case to the chancellor for a further evaluation of the facts, with the possibility of a second appeal on the same facts.Yet that is in effect what the appellant is arguing to have been the intent of our opinion on the first appeal.</p>
+                <p pgmap="164" id="b164-8">It is our practice not to leave questions unanswered on chancery appeals. That practice was followed in this case. Our holding that Potter is entitled to a separate $9,656.08 interest in the homeplace was a rejection of his theory of proportionate division. Had we meant to adopt that theory we would have spelled out the exact interest of each party and not have left that question for the chancellor to decide on the very facts that were before us. Needless to say, our opinion on the first appeal is the law of the case, which we would not be at liberty to modify even if we now thought it erroneous. Wilson v. Rodgers, 256 Ark. 276, 507 S.W.2d 508 (1974); United States Annuity &amp; Life Ins. Co. v. Peak, 129 Ark. 43, 195 S.W. 392, 1 A.L.R. 1259 (1917); Taliaferro v. Barnett, 47 Ark. 359, 1 S.W. 702 (1886).</p>
+                <p pgmap="165" id="b165-3">On this appeal the dissenting opinion argues that we should allow Potter a larger share of the proceeds from the sale of the homestead, proportionate to his contribution of $9,656.08. The justification offered is that the opinion on the first appeal was wrong in this respect.</p>
+                <p pgmap="165" id="b165-4">
+                   There are two answers to this argument. First, we are by no means convinced that our decision was wrong. It was not contrary to the specific language of the statute. The statute defines “marital property” as all property acquired subsequent to the marriage, with five specific exceptions. Ark. Stat. Ann. § 34-­1214 (B) (Supp. 1985). All five classes of excepted property might be acquired before a marriage, but only subsection (5) mentions an increase in value: “(5) The increase in value of property acquired prior to the marriage.” The homeplace in question was not so acquired. We do not say that increases in the value of property in the other classes are necessarily included in the definition of marital property, but that is a question of statutory interpretation that might vary with the fact situation.</p>
+                <p pgmap="165" id="b165-5">On the first appeal we allowed one of the disputed items claimed by Potter, but disallowed two others. The actual award of $9,656.08 was evidently selected as the best choice among several possibilities. In fairness we should not reconsider only one of the items without reopening the whole issue and possibly deciding that even the allowance of $9,656.08 was too liberal.</p>
+                <p pgmap="165(180) 166(20)" id="b165-6">
+                   Second, the doctrine of the law of the case requires us to adhere to our decision on the first appeal even though we might think it to have been wrong. The annotation cited in the dissent states in § 4 that some courts follow what is sometimes referred to as the “right or wrong” rule, by which the first decision is considered to be binding whether it was right or wrong. 87 A.L.R.­2d 271, 285. The annotator then cites cases from 27 states that follow that rule. Not only is Arkansas included in that group; the annotator cites 13 of our cases. Those cases were selected with care, for every one of them states in effect that we are bound to follow the first opinion even though we might think it to be incorrect. In fact, four of the thirteen use the exact phrase, “right or wrong.” National Surety Co. v. Long, 85 Ark. 158, 107 S.W. 384 (1908); Miller Lbr.Co. v. Floyd, 169 Ark. 473, 275 S.W. 741 (1925), aff'd 273 U.S. 672 (1927); Arkansas Baptist College v. Dodge, 189 Ark. 592, 74 S.W.2d 645 (1934); Missouri Pac. R.R. v. Hunnicutt, 193 Ark. 1128, 104 S.W.2d 1070 (1937).</p>
+                <p pgmap="166" id="b166-6">In one early case we did disregard the rule by doing what the present dissent would have us do again; that is, we reversed the trial court on the first appeal, and when that court obeyed our instructions, we changed our minds on the second appeal and reversed him again. Rutherford, Use of Callen v. Lafferty, 7 Ark. 402 (1847). We quickly regretted that error and overruled Rutherford in Porter v. Doe ex dem Hanley, 10 Ark. 186 (1850). Apparently we have not since deviated from the law of the case.</p>
+                <p pgmap="166" id="b166-7">
+                   There are, of course, two familiar limitations on the doctrine: One, an erroneous ruling is binding only in later proceedings in the same litigation and may be changed in cases involving other persons. Taliaferro v. Barnett, supra. Two, the rule does not apply if there is a material change in the facts at the second trial. Hartford Fire Ins. Co. v. Enoch, 79 Ark. 475, 96 S.W. 393 (1906). (We do not regard an obvious mathematical error as having any bearing on the validity of the rule, any more than a misspelled name would affect the rule of res judicata.)</p>
+                <p pgmap="166" id="b166-8">We really do not understand what the Florida court meant to hold in the case cited in the dissent: Strazzulla v. Hendrick, 177 So. 2d 1 (Fla., 1965). Apparently the court merely wanted to recede from an earlier statement that it was without authority on a second appeal to review or reverse what had been decided on the first appeal. That seems to have been the sole effect of the court’s discussion, for it affirmed the intermediate court decision that was being reviewed.</p>
+                <p pgmap="166" id="b166-9">The Florida court tried hard to limit its decision by making it clear that an appellate court should reconsider its decision on a former appeal only as a matter of grace, not as a matter of right, and that an exception to “the law of the case” should be made only in unusual circumstances, for the most cogent reasons, and to avoid a manifest injustice. Here there are no unusual circum­stances, no cogent reasons for changing our practice, and no manifest injustice, for Potter lived in the home for many years and is getting back the money he put into it. After that deduction he shares in the enhancement of value resulting from inflation.</p>
+                <p pgmap="166(8) 167(131)" id="b166-10">Finally, the Florida court qualified its purported exceptions by restating what is actually the rule in Arkansas: “But the exception to the rule should never be allowed when it would amount to nothing more than a second appeal on a question determined on the first appeal.” That is the situation before us. No additional testimony on the point at issue was introduced in the trial court. The same facts that we considered on the first appeal are before us again. Potter presents the same argument that he made earlier. If Potter is entitled to a second try, then so is every other litigant coming to us on a second appeal. We adhere to the basic approach we chose in Moose v. Gregory, 267 Ark. 86, 590 S.W.2d 662 (1979): A litigant is entitled to one appeal only, not two.</p>
+                <p pgmap="167" id="b167-4">III. Unpaid Child Support. The divorce decree awarded custody of the three children to Mrs. Potter and ordered Potter to pay $650 a month as child support. The amount was later raised to as much as $850 a month. The suit dragged on for some years. In the court below Mrs. Potter contended that Potter was $10,893.83 behind in his payments. Potter argued below and argues here that he had paid everything due. The chancellor fixed the deficiency at $8,000. For reversal Potter insists there is no deficiency.</p>
+                <p pgmap="167" id="b167-5">The problem is simple. The chancellor, in specifying the amount of child support, expected that Mrs. Potter would have available, for the support of herself and her three children, the $700 a month she was earning as a school teacher and the payments Potter was ordered to make. She did not have those resources, for Potter did not make his payments in full. His explanatory testimony: “I have paid 100% of everything the Court has ordered me to pay except for the deductions I thought were legitimate expenses Betty should have paid.” His “legiti­mate” deductions run for page after page in the record and include such things as taxes, country club dues, swimming lessons, trips, deposits in a savings account, and others too varied to enumerate. When the chancellor found a deficiency of $8,000, Potter asked for findings of fact showing how that figure was determined. He now argues that, absent such findings, we should disregard the chancellor’s determination.</p>
+                <p pgmap="167(22) 168(117)" id="b167-6">
+                   As with respect to the sale of the homeplace, Potter took it upon himself to disregard the court’s order. If the children’s standard of living called for a country club membership, swim­ming lessons, and other frills, it was for Mrs. Potter to decide whether such expenses should be paid from her comparatively modest resources. Potter was not entitled to make such decisions for her. It was, however, his burden to justify his deductions at the trial level and to convince us that the chancellor was in error. Actually, his brief makes no effort to show that the chancellor’s $8,000 figure is demonstrably wrong. Rather, his position is essentially that his deductions were proper and must be allowed in full. The chancellor, confronted with that all-or-nothing choice, adopted an intermediate figure that has not been shown to be wrong.</p>
+                <p pgmap="168" id="b168-6">
+                   Under this point a novel subordinate argument is made. After the divorce decree became final Mrs. Potter married Herbert Easley and moved across the state line to Texarkana, Texas. It is argued that since Texas is a community property state, Mrs. Easley is legally the owner of half of her husband’s income and should assume a greater share of the children’s support than was contemplated by the original decree. That means, in substance, that Easley should bear a substantial part of the expense of supporting Potter’s children, in addition to providing two of them with a home. No authority is cited to support this position, which we do not find to be convincing. The situation might be different if the children were actually in need, but the record contains Potter’s own detailed statement of his net worth, which as of March 15, 1984, was $1,209,027.45. It appears that he is able to support his children.</p>
+                <p pgmap="168" id="b168-7">IV. Child Custody. The divorce decree specified what almost amounted to divided custody of the three children: David, now 14, Stephanie, now 12, and Jackson, now 9. Mrs. Potter was awarded custody, but Potter’s visitation privileges consisted of three 24-hour periods a week, beginning at 8:00 a.m. each Tuesday, Thursday, and Saturday. That arrangement did not prove to be satisfactory. After the first appeal the order was changed to give Potter the full custody of David, Jr., and Mrs. Potter the full custody of the other two. Equal visitation privileges were granted for alternate weekends, so that the three children will spend every weekend together with one parent or the other.</p>
+                <p pgmap="168(9) 169(115)" id="b168-8">
+                   Potter contends that he should have custody of all three children, with visitation privileges in the mother. We cannot agree. We said in 1958, and have often repeated, that there is no type of case in which the personal observations of the chancellor are more significant than in child custody cases. Wilson v. Wilson, 228 Ark. 789, 310 S.W.2d 500 (1958). Since 1980 the two chancellors have had opportunities, denied to us, to observe both these parents and to hear them testify. It does appear, among other things, that Potter has sought to undermine the mother’s parental authority in the eyes of her children. The trial court has attempted to offset those actions. We are not convinced that the custody order is clearly erroneous.</p>
+                <p pgmap="169" id="b169-6">
+                   V. Interest. The final decree allowed interest at 6% on amounts due under the first decree from its date to the date of the final decree, and interest at 10% after that on all the awards. Potter argues that his tenders of payment were refused; but those tenders were in the nature of compromises and were conditioned on Mrs. Potter’s signing various unidentified quitclaim deeds, bills of sale, releases, and other documents. Potter was at liberty to pay the awards at any time and actually retained the money for years. There is no injustice in the allowance of interest.</p>
+                <p pgmap="169" id="b169-7">
+                   VI. Attorney’s Fees. The chancellor allowed Mrs. Easley a $1,200 attorney’s fees, basing the amount on pleadings that could have been avoided “except for the unreasonable legal positions” taken by Potter. On the first appeal we sustained a similar allowance on the ground that an award of attorney’s fees is largely within the discretion of the trial judge, who is familiar with counsel’s services. We find no abuse of discretion in the supplementary allowance.</p>
+                <p pgmap="169" id="b169-8">Affirmed.</p>
+              </opinion>
+              <opinion type="dissent">
+                <author pgmap="169" id="b169-11">David Newbern, Justice,</author>
+                <p pgmap="169(73) 170(51)" id="AZh">dissenting. In our earlier opinion we simply said David Potter “owns a separate interest in the lot and house in the amount of $9,565.08 which sum is directly traceable to the proceeds of the sale of his separate property owned prior to the marriage.” 280 Ark. at 48, 655 S.W.2d at 388. Contrary to the suggestion of the majority opinion on this second appeal, our first opinion did not say anything about limiting David Potter’s interest in the present value of the home to that amount. As the majority says, we cited Tibbetts v. Tibbetts, 406 A.2d 70 (Me. 1979), for the proposition that Mr. Potter is entitled to property acquired during the marriage in exchange for property he owned prior to the marriage.</p>
+                <p pgmap="170" id="b170-6">Our first opinion did not say it clearly, but the briefs in that case, and the ones before us now, show that the $9,565.08 was money received by Mr. Potter from sale of property he owned before the marriage which was invested directly in the property in question here. He argued on the first appeal as he argues now that he is entitled not just to his $9,565.08 investment but to that portion of the current value of the property which represents increase in this initial investment of nonmarital property. I doubt our first opinion has to be read as precluding giving Mr. Potter the increase in value his separate, nonmarital property has borne. If it must be so read, it was wrong. Our law requires that increase, during marriage, in the value of property acquired prior to marriage be excepted from marital property. Ark. Stat. Ann. § 34-1214(B)(5) (Supp. 1985).Once we give Mr.Potter the benefit of identifying his separate property acquired before marriage by saying it can be found in property acquired in exchange for it, then we have established the very tracing principle Mr. Potter asks that we apply to the increase. It makes no sense to say he can identify and be entitled to his separate part and then ignore the statutory requirement that its increase in value also be regarded as nonmarital property. The only circumstance in which we should say such a gain is marital property is when it is demonstra­ble that both spouses contributed to the gain. See Marshall v. Marshall, 285 Ark. 426, 688 S.W.2d 279 (1985).</p>
+                <p pgmap="170" id="b170-7">The remaining question then is whether the law of the case doctrine prevents us from correcting our mistake if we must read our prior opinion as does the majority. The cases cited by the majority place Arkansas among those jurisdictions which seem to be hidebound in application of law of the case even if we could correct an error without undue prejudice to any party. Yet in Ferguson v. Green, 266 Ark. 556, 587 S.W.2d 18 (1979), we allowed ourselves the luxury of correcting an arithmetical error in a former appeal in the same case. We were too bashful to do it in the text of the opinion, but we corrected our error with this footnote:</p>
+                <blockquote pgmap="171" id="b171-3">In our opinion on the first appeal, where we subtracted $80,349 from $165,000, we showed a remainder of $85,651, instead of the correct amount of $84,651. The law of the case is not so inflexible that we cannot resolve a conflict apparent on the face of the earlier opinion, by correcting an obvious arithmetical error. [266 Ark. at 566, 587 S.W.2d at 25.]</blockquote>
+                <p pgmap="171" id="b171-4">Unlike the misspelling to which the majority opinion refers, the correction of this mathematical error changed the result of the case to the extent of reducing the judgment by $ 1,000. We should likewise feel free to correct the mistake here and increase Mr. Potter’s share of the value of the property in question to reflect the increase in the value of his identifiable investment of property held by him before marriage.</p>
+                <p pgmap="171" id="b171-5">In Washington v. State, 278 Ark. 5, 643 S.W.2d 255 (1982), we held that if interim decisions between the first and second appeals of a case change the law so that what we said on the first appeal is no longer the law, we are not bound in the second appeal by what we did or said in the first. Our “right or wrong” stonewall thus has another chink. In my view, application of the law of the case doctrine to preclude us from correcting a mistake makes no sense whether we have changed the law, as in Washington v. State, supra, or merely found it out as we seem to have done here.</p>
+                <p pgmap="171(184) 172(100)" id="b171-6">The changes taking place in the law of the case doctrine and cases from the jurisdictions which have departed from the totally inflexible approach are outlined in Annot., 87 A.L.R. 2d 271 (1963), and its later cases supplement. While a long opinion could be written setting out the reasons given in modern cases for the exercise of some discretion in application of the law of the case doctrine, it need not be done here because the subject is treated comprehensively in A. Vestal, Law of the Case: Single Suit Preclusion, 1967 Utah L. Rev. 1. Additionally, I believe the facts of the case before us are sufficient to illustrate both sides of the issue. Potter v. Potter is a little like Jarndyce v. Jarndyce. It seems to go on forever. As the majority opinion points out, one trial judge left the case because of his frustration with it. The temptation to opt for “finality over everything” is present. However, we should not let our frustration get the better of us to the extent we refuse to recognize our mistake and correct it. If the majority wishes to say our historical embrace of the law of the case doctrine is unyielding despite Ferguson v. Green, supra, I believe we should do as the Florida court in Strazzulla v. Hendrick, 177 So. 2d 1 (Fla. 1965), and “expressly recede” from the doctrine to the extent it requires that we never correct in second appeals our errors in first appeals. See also Greene v. Rothschild, 68 Wash. 2d 5, 414 P.2d 1013 (1966), and Union Light, Heat &amp; Power Co. v. Blackwell’s Administrator, 291 S.W.2d 539 (Ky. 1956). As Professor Vestal said in the article cited above:</p>
+                <blockquote pgmap="172" id="b172-6">An examination of the recent cases involving the effect of an earlier appellate decision upon the same question before the same court at a later time suggests that the “law of the case” doctrine has lost most of its force. Appellate courts should decide cases correctly; any other course would distort the law and treat litigants unfairly. It may be fair to say that the earlier decision is not binding, that “law of the case” does not apply, unless it is an exceptional case. Absent such exceptional circumstances, the appellate court should decide all legal questions cor­rectly without regard to earlier decisions by the court. [1967 Utah L. Rev. at 15].</blockquote>
+                <p pgmap="172" id="b172-7">Leaving this case in its present posture presents a precedent for saying we will not allow increase in the value of property brought to a marriage by one of the parties to be regarded as nonmarital property. Again, that is a clear violation of our statute and a precedent we can ill afford. We should not perpetuate and emphasize it by an unnecessary or unnecessarily strict applica­tion of law of the case.</p>
+                <p pgmap="172" id="b172-8">I respectfully dissent.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="159" ORDERLABEL="133" TYPE="page">
+        <fptr FILEID="tiff_00080_0"/>
+        <fptr FILEID="jp2_00080_0"/>
+        <fptr FILEID="alto_00080_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_159.3" BETYPE="IDREF" FILEID="alto_00080_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="160" ORDERLABEL="134" TYPE="page">
+        <fptr FILEID="tiff_00080_1"/>
+        <fptr FILEID="jp2_00080_1"/>
+        <fptr FILEID="alto_00080_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_160.2" BETYPE="IDREF" FILEID="alto_00080_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="161" ORDERLABEL="135" TYPE="page">
+        <fptr FILEID="tiff_00081_0"/>
+        <fptr FILEID="jp2_00081_0"/>
+        <fptr FILEID="alto_00081_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_161.3" BETYPE="IDREF" FILEID="alto_00081_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="162" ORDERLABEL="136" TYPE="page">
+        <fptr FILEID="tiff_00081_1"/>
+        <fptr FILEID="jp2_00081_1"/>
+        <fptr FILEID="alto_00081_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_162.2" BETYPE="IDREF" FILEID="alto_00081_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="163" ORDERLABEL="137" TYPE="page">
+        <fptr FILEID="tiff_00082_0"/>
+        <fptr FILEID="jp2_00082_0"/>
+        <fptr FILEID="alto_00082_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_163.3" BETYPE="IDREF" FILEID="alto_00082_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="164" ORDERLABEL="138" TYPE="page">
+        <fptr FILEID="tiff_00082_1"/>
+        <fptr FILEID="jp2_00082_1"/>
+        <fptr FILEID="alto_00082_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_164.1" BETYPE="IDREF" FILEID="alto_00082_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="165" ORDERLABEL="139" TYPE="page">
+        <fptr FILEID="tiff_00083_0"/>
+        <fptr FILEID="jp2_00083_0"/>
+        <fptr FILEID="alto_00083_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_165.2" BETYPE="IDREF" FILEID="alto_00083_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="166" ORDERLABEL="140" TYPE="page">
+        <fptr FILEID="tiff_00083_1"/>
+        <fptr FILEID="jp2_00083_1"/>
+        <fptr FILEID="alto_00083_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_166.2" BETYPE="IDREF" FILEID="alto_00083_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="167" ORDERLABEL="141" TYPE="page">
+        <fptr FILEID="tiff_00084_0"/>
+        <fptr FILEID="jp2_00084_0"/>
+        <fptr FILEID="alto_00084_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_167.3" BETYPE="IDREF" FILEID="alto_00084_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="168" ORDERLABEL="142" TYPE="page">
+        <fptr FILEID="tiff_00084_1"/>
+        <fptr FILEID="jp2_00084_1"/>
+        <fptr FILEID="alto_00084_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_168.2" BETYPE="IDREF" FILEID="alto_00084_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="169" ORDERLABEL="143" TYPE="page">
+        <fptr FILEID="tiff_00085_0"/>
+        <fptr FILEID="jp2_00085_0"/>
+        <fptr FILEID="alto_00085_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_169.3" BETYPE="IDREF" FILEID="alto_00085_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="170" ORDERLABEL="144" TYPE="page">
+        <fptr FILEID="tiff_00085_1"/>
+        <fptr FILEID="jp2_00085_1"/>
+        <fptr FILEID="alto_00085_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_170.2" BETYPE="IDREF" FILEID="alto_00085_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="171" ORDERLABEL="145" TYPE="page">
+        <fptr FILEID="tiff_00086_0"/>
+        <fptr FILEID="jp2_00086_0"/>
+        <fptr FILEID="alto_00086_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_171.2" BETYPE="IDREF" FILEID="alto_00086_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="172" ORDERLABEL="146" TYPE="page">
+        <fptr FILEID="tiff_00086_1"/>
+        <fptr FILEID="jp2_00086_1"/>
+        <fptr FILEID="alto_00086_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_172.2" BETYPE="IDREF" FILEID="alto_00086_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b169-8" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_169.6" BETYPE="IDREF" FILEID="alto_00085_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b169-9" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_169.7" BETYPE="IDREF" FILEID="alto_00085_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b172-8" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_172.6" BETYPE="IDREF" FILEID="alto_00086_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AZh" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_169.10" BETYPE="IDREF" FILEID="alto_00085_0"/>
+            <area BEGIN="BL_169.11" BETYPE="IDREF" FILEID="alto_00085_0"/>
+            <area BEGIN="BL_170.1" BETYPE="IDREF" FILEID="alto_00085_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b169-6" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_169.4" BETYPE="IDREF" FILEID="alto_00085_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b168-8" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_168.6" BETYPE="IDREF" FILEID="alto_00084_1"/>
+            <area BEGIN="BL_169.1" BETYPE="IDREF" FILEID="alto_00085_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b161-12" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_161.13" BETYPE="IDREF" FILEID="alto_00081_0"/>
+            <area BEGIN="BL_162.1" BETYPE="IDREF" FILEID="alto_00081_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b161-10" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_161.9" BETYPE="IDREF" FILEID="alto_00081_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b161-11" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_161.10" BETYPE="IDREF" FILEID="alto_00081_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b165-4" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_165.4" BETYPE="IDREF" FILEID="alto_00083_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b165-5" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_165.5" BETYPE="IDREF" FILEID="alto_00083_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b165-6" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_165.6" BETYPE="IDREF" FILEID="alto_00083_0"/>
+            <area BEGIN="BL_166.1" BETYPE="IDREF" FILEID="alto_00083_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b163-12" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_163.12" BETYPE="IDREF" FILEID="alto_00082_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b169-7" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_169.5" BETYPE="IDREF" FILEID="alto_00085_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b168-6" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_168.4" BETYPE="IDREF" FILEID="alto_00084_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b165-3" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_165.3" BETYPE="IDREF" FILEID="alto_00083_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b172-7" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_172.5" BETYPE="IDREF" FILEID="alto_00086_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b163-10" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_163.10" BETYPE="IDREF" FILEID="alto_00082_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b162-13" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_162.11" BETYPE="IDREF" FILEID="alto_00081_1"/>
+            <area BEGIN="BL_163.1" BETYPE="IDREF" FILEID="alto_00082_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b162-12" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_162.10" BETYPE="IDREF" FILEID="alto_00081_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b162-11" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_162.9" BETYPE="IDREF" FILEID="alto_00081_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b162-10" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_162.8" BETYPE="IDREF" FILEID="alto_00081_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b163-11" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_163.11" BETYPE="IDREF" FILEID="alto_00082_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b159-11" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_159.15" BETYPE="IDREF" FILEID="alto_00080_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b162-9" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_162.7" BETYPE="IDREF" FILEID="alto_00081_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b162-8" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_162.6" BETYPE="IDREF" FILEID="alto_00081_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b166-7" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_166.5" BETYPE="IDREF" FILEID="alto_00083_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b164-5" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_164.3" BETYPE="IDREF" FILEID="alto_00082_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b162-7" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_162.5" BETYPE="IDREF" FILEID="alto_00081_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b162-6" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_162.4" BETYPE="IDREF" FILEID="alto_00081_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b167-4" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_167.4" BETYPE="IDREF" FILEID="alto_00084_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b167-5" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_167.5" BETYPE="IDREF" FILEID="alto_00084_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ACX" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_161.11" BETYPE="IDREF" FILEID="alto_00081_0"/>
+            <area BEGIN="BL_161.12" BETYPE="IDREF" FILEID="alto_00081_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b163-7" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_163.7" BETYPE="IDREF" FILEID="alto_00082_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b163-4" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_163.4" BETYPE="IDREF" FILEID="alto_00082_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b163-5" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_163.5" BETYPE="IDREF" FILEID="alto_00082_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b164-7" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_164.5" BETYPE="IDREF" FILEID="alto_00082_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b161-9" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_161.8" BETYPE="IDREF" FILEID="alto_00081_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b164-6" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_164.4" BETYPE="IDREF" FILEID="alto_00082_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b163-6" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_163.6" BETYPE="IDREF" FILEID="alto_00082_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b168-7" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_168.5" BETYPE="IDREF" FILEID="alto_00084_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b163-8" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_163.8" BETYPE="IDREF" FILEID="alto_00082_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b163-9" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_163.9" BETYPE="IDREF" FILEID="alto_00082_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b166-10" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_166.8" BETYPE="IDREF" FILEID="alto_00083_1"/>
+            <area BEGIN="BL_167.1" BETYPE="IDREF" FILEID="alto_00084_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b166-9" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_166.7" BETYPE="IDREF" FILEID="alto_00083_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b164-8" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_164.6" BETYPE="IDREF" FILEID="alto_00082_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b166-8" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_166.6" BETYPE="IDREF" FILEID="alto_00083_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ai1" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_159.8" BETYPE="IDREF" FILEID="alto_00080_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b171-6" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_171.6" BETYPE="IDREF" FILEID="alto_00086_0"/>
+            <area BEGIN="BL_172.1" BETYPE="IDREF" FILEID="alto_00086_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b166-6" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_166.4" BETYPE="IDREF" FILEID="alto_00083_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b172-6" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_172.4" BETYPE="IDREF" FILEID="alto_00086_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AWo" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_159.10" BETYPE="IDREF" FILEID="alto_00080_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ALP" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_159.11" BETYPE="IDREF" FILEID="alto_00080_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b167-6" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_167.6" BETYPE="IDREF" FILEID="alto_00084_0"/>
+            <area BEGIN="BL_168.1" BETYPE="IDREF" FILEID="alto_00084_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b163-13" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_163.13" BETYPE="IDREF" FILEID="alto_00082_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b172-9" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_172.7" BETYPE="IDREF" FILEID="alto_00086_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b171-3" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_171.3" BETYPE="IDREF" FILEID="alto_00086_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b169-10" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_169.8" BETYPE="IDREF" FILEID="alto_00085_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b169-11" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_169.9" BETYPE="IDREF" FILEID="alto_00085_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b159-5" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_159.6" BETYPE="IDREF" FILEID="alto_00080_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b159-7" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_159.9" BETYPE="IDREF" FILEID="alto_00080_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b159-6" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_159.7" BETYPE="IDREF" FILEID="alto_00080_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b171-5" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_171.5" BETYPE="IDREF" FILEID="alto_00086_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b171-4" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_171.4" BETYPE="IDREF" FILEID="alto_00086_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b170-6" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_170.4" BETYPE="IDREF" FILEID="alto_00085_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b170-7" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_170.5" BETYPE="IDREF" FILEID="alto_00085_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

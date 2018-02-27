@@ -1,0 +1,348 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0101" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Hezekiah v. Montross">Hezekiah vs. Montross, surv.</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 454</citation>
+          <decisiondate>1860-07</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00228_1" MIMETYPE="image/tiff" CHECKSUM="acf77862a64e3f6b2ab2728837e069fd" CHECKSUMTYPE="MD5" SIZE="31140">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00228_1.tif"/>
+      </file>
+      <file ID="tiff_00229_0" MIMETYPE="image/tiff" CHECKSUM="80f964bfa68ddc2eba2b5414752ff1f2" CHECKSUMTYPE="MD5" SIZE="23442">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00229_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00228_1" MIMETYPE="image/jp2" CHECKSUM="6b628ade21cb55e01e1b97a7b18c2f98" CHECKSUMTYPE="MD5" SIZE="2370050">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00228_1.jp2"/>
+      </file>
+      <file ID="jp2_00229_0" MIMETYPE="image/jp2" CHECKSUM="6deee7bd47ff6830167ef022b685d7cf" CHECKSUMTYPE="MD5" SIZE="2819649">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00229_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00228_1" MIMETYPE="text/xml" CHECKSUM="fca76d6034e5736decaa3555d9582ca3" CHECKSUMTYPE="MD5" SIZE="62828">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00228_1.xml"/>
+      </file>
+      <file ID="alto_00229_0" MIMETYPE="text/xml" CHECKSUM="387ba87771d9a923fd75dcacb034ca9c" CHECKSUMTYPE="MD5" SIZE="47176">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00229_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0101" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="455" firstpage="454">
+              <parties id="b456-4" pgmap="456">Hezekiah vs. Montross, surv.</parties>
+              <attorneys id="AsG" pgmap="456">Garland &amp; Randolph, for plaintiff.</attorneys>
+              <attorneys id="b456-10" pgmap="456">Bertrand, for defendant.</attorneys>
+              <summary id="b456-7" pgmap="456">Writ of Error to Pulaski Circuit Court.</summary>
+              <summary id="b456-8" pgmap="456">Hon. John J. Clendenin, Circuit Judge.</summary>
+              <headnotes id="b456-5" pgmap="456">Objections to testimony should not be entered upon the record. They can be presented only by bill of exceptions.</headnotes>
+              <headnotes id="b456-6" pgmap="456">The objection, on an issue to the plea of nil debet to an action upon a note which has been made part of the declaration by oyer, that the II. E. K. who signed the note is not the H. E. K., defendant, must be disregarded as frivolous: so also that “ I ” before the word “ promise,” in the note has been omitted.</headnotes>
+              <opinion type="majority">
+                <author id="b456-11" pgmap="456">Mr. Justice Fairchild</author>
+                <p id="A2f" pgmap="456">delivered the opinion of the court.</p>
+                <p id="b456-12" pgmap="456">To an action of debt by Montross, as surviving partner of Montross &amp; Stillwell, Hezekiah appeared and craved oyer, which was granted by exhibiting and filing the two notes sued on. He then pleaded nil debet, to which issue was taken, and the case submitted to the court sitting as a jury. The finding of the court and judgment were for the-plaintiff, and Hezekiah has brought error.</p>
+                <p id="b456-13" pgmap="456">In the order recording the trial and judgment, it is stated that the defendant objected to the notes being read in evidence, and the objections are fully set out in the order, but their statement is surplusage.</p>
+                <p id="b456-14" pgmap="456(20) 457(14)">• The record should not have been encumbered with foreign matter, but if the defendant objected to testimony, and wdshed to preserve his objections, he could only do so by bill of excep­tions.</p>
+                <p id="b457-5" pgmap="457">But the objections were not well made, because, after the notes had been brought on to the record by oyer, they formed a part of the declaration, and there was then no ground for the objection that the defendant was not the H. E. Hezekiah who. signed the notes, or that the omission of the word “ I ” before “'promise,” in the second note could be of any effect.</p>
+                <p id="b457-6" pgmap="457">. And if without oyer, on trial, such objections were made and preserved by bill of exceptions, they would be disregarded as frivolous.</p>
+                <p id="b457-7" pgmap="457">Judgment affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="456" ORDERLABEL="454" TYPE="page">
+        <fptr FILEID="tiff_00228_1"/>
+        <fptr FILEID="jp2_00228_1"/>
+        <fptr FILEID="alto_00228_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_456.1" BETYPE="IDREF" FILEID="alto_00228_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_456.2" BETYPE="IDREF" FILEID="alto_00228_1"/>
+              <area BEGIN="BL_456.3" BETYPE="IDREF" FILEID="alto_00228_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="457" ORDERLABEL="455" TYPE="page">
+        <fptr FILEID="tiff_00229_0"/>
+        <fptr FILEID="jp2_00229_0"/>
+        <fptr FILEID="alto_00229_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_457.3" BETYPE="IDREF" FILEID="alto_00229_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_457.2" BETYPE="IDREF" FILEID="alto_00229_0"/>
+              <area BEGIN="BL_457.4" BETYPE="IDREF" FILEID="alto_00229_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_457.8" BETYPE="IDREF" FILEID="alto_00229_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b456-13" BETYPE="IDREF" FILEID="casebody_0101"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_456.14" BETYPE="IDREF" FILEID="alto_00228_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b456-12" BETYPE="IDREF" FILEID="casebody_0101"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_456.13" BETYPE="IDREF" FILEID="alto_00228_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b456-11" BETYPE="IDREF" FILEID="casebody_0101"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_456.11" BETYPE="IDREF" FILEID="alto_00228_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b456-10" BETYPE="IDREF" FILEID="casebody_0101"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_456.10" BETYPE="IDREF" FILEID="alto_00228_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b456-14" BETYPE="IDREF" FILEID="casebody_0101"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_456.15" BETYPE="IDREF" FILEID="alto_00228_1"/>
+            <area BEGIN="BL_457.1" BETYPE="IDREF" FILEID="alto_00229_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b457-6" BETYPE="IDREF" FILEID="casebody_0101"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_457.6" BETYPE="IDREF" FILEID="alto_00229_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A2f" BETYPE="IDREF" FILEID="casebody_0101"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_456.12" BETYPE="IDREF" FILEID="alto_00228_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b457-5" BETYPE="IDREF" FILEID="casebody_0101"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_457.5" BETYPE="IDREF" FILEID="alto_00229_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AsG" BETYPE="IDREF" FILEID="casebody_0101"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_456.9" BETYPE="IDREF" FILEID="alto_00228_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b456-8" BETYPE="IDREF" FILEID="casebody_0101"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_456.8" BETYPE="IDREF" FILEID="alto_00228_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b457-7" BETYPE="IDREF" FILEID="casebody_0101"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_457.7" BETYPE="IDREF" FILEID="alto_00229_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b456-7" BETYPE="IDREF" FILEID="casebody_0101"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_456.7" BETYPE="IDREF" FILEID="alto_00228_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b456-6" BETYPE="IDREF" FILEID="casebody_0101"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_456.6" BETYPE="IDREF" FILEID="alto_00228_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b456-5" BETYPE="IDREF" FILEID="casebody_0101"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_456.5" BETYPE="IDREF" FILEID="alto_00228_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b456-4" BETYPE="IDREF" FILEID="casebody_0101"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_456.4" BETYPE="IDREF" FILEID="alto_00228_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

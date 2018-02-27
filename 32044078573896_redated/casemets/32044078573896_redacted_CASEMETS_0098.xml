@@ -1,0 +1,710 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0098" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Sebastian v. Bryan">Sebastian vs. John Bryan</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 447</citation>
+          <decisiondate>1860-07</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00225_0" MIMETYPE="image/tiff" CHECKSUM="bd5eabe0e350b36c2f81d9b369eaf420" CHECKSUMTYPE="MD5" SIZE="30914">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00225_0.tif"/>
+      </file>
+      <file ID="tiff_00225_1" MIMETYPE="image/tiff" CHECKSUM="91712e60746a5de7c167af5e4493f5a9" CHECKSUMTYPE="MD5" SIZE="43164">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00225_1.tif"/>
+      </file>
+      <file ID="tiff_00226_0" MIMETYPE="image/tiff" CHECKSUM="eee4fbfc96683677b23cde320d7f175b" CHECKSUMTYPE="MD5" SIZE="42620">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00226_0.tif"/>
+      </file>
+      <file ID="tiff_00226_1" MIMETYPE="image/tiff" CHECKSUM="ab2a334939f7811dadedc1b3ccef4d24" CHECKSUMTYPE="MD5" SIZE="43888">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00226_1.tif"/>
+      </file>
+      <file ID="tiff_00227_0" MIMETYPE="image/tiff" CHECKSUM="7122eee3dd9c287ac5f8163ae589835a" CHECKSUMTYPE="MD5" SIZE="22720">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00227_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00225_0" MIMETYPE="image/jp2" CHECKSUM="e6367924d374315ec20cfc6f1b1dd266" CHECKSUMTYPE="MD5" SIZE="2449046">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00225_0.jp2"/>
+      </file>
+      <file ID="jp2_00225_1" MIMETYPE="image/jp2" CHECKSUM="49cdfdf10bc84ac89e27296e601dcc43" CHECKSUMTYPE="MD5" SIZE="2518054">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00225_1.jp2"/>
+      </file>
+      <file ID="jp2_00226_0" MIMETYPE="image/jp2" CHECKSUM="c13ebc9ee3317ced05ffae72fa10d24c" CHECKSUMTYPE="MD5" SIZE="2574695">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00226_0.jp2"/>
+      </file>
+      <file ID="jp2_00226_1" MIMETYPE="image/jp2" CHECKSUM="550b2b124de44879546b01b6faa3c6cd" CHECKSUMTYPE="MD5" SIZE="2513422">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00226_1.jp2"/>
+      </file>
+      <file ID="jp2_00227_0" MIMETYPE="image/jp2" CHECKSUM="a134d123224d0d833bcde7128d590235" CHECKSUMTYPE="MD5" SIZE="2350708">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00227_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00225_0" MIMETYPE="text/xml" CHECKSUM="194a51d82d786861837828e9ced1de89" CHECKSUMTYPE="MD5" SIZE="70827">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00225_0.xml"/>
+      </file>
+      <file ID="alto_00225_1" MIMETYPE="text/xml" CHECKSUM="989ab688b727a50b81447c81aec85340" CHECKSUMTYPE="MD5" SIZE="91349">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00225_1.xml"/>
+      </file>
+      <file ID="alto_00226_0" MIMETYPE="text/xml" CHECKSUM="8ab36e11bb54ae7fa60a38b2fbd9db8e" CHECKSUMTYPE="MD5" SIZE="86300">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00226_0.xml"/>
+      </file>
+      <file ID="alto_00226_1" MIMETYPE="text/xml" CHECKSUM="21ebf3f596753a465924ed09688b9373" CHECKSUMTYPE="MD5" SIZE="88001">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00226_1.xml"/>
+      </file>
+      <file ID="alto_00227_0" MIMETYPE="text/xml" CHECKSUM="dc0e24cfae35b76db9e4463fc6c49f86" CHECKSUMTYPE="MD5" SIZE="41869">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00227_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0098" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="451" firstpage="447">
+              <parties id="b449-5" pgmap="449">Sebastian vs. John Bryan.</parties>
+              <attorneys id="b450-4" pgmap="450">Watkins &amp; Gallagher, for appellant.</attorneys>
+              <attorneys id="b450-9" pgmap="450">Fowler &amp; Stillwell, for appellee.</attorneys>
+              <summary id="b449-14" pgmap="449">Appeal from, Phillips Circuit Court.</summary>
+              <summary id="ApV" pgmap="449">Hon. George W. Beazrey, Circuit Judge.</summary>
+              <summary id="b450-5" pgmap="450">An action at law cannot be maintained on a guardianship bond before the accounts have been adjusted* and a specific sum decreed to be paid over. 19 J. R. 303; 3 Hill 77; 1 Root 51.</summary>
+              <summary id="b450-6" pgmap="450">It is admitted by the demurrer to the plea that previous to the execution of the bond sued on, the guardian had wasted all the property of the ward which had come to his hands; and that, none had come to his hands since the execution of the bond. And the bond sued on car.not be held liable for such previous waste.</summary>
+              <summary id="b450-7" pgmap="450">No order having been made by the Probate Court for. addi­tional security, the bond sued on is not available to the plantiff.</summary>
+              <summary id="b450-8" pgmap="450">To make the securities liable to an action for a balance of monies due by the guardian, that balance must not only have been ascertained, by the proper court and struck as a final balance, but there must be an order of the proper court directing its- pay­ment, and default of payment under that order. See Jorus vs. The State, 14 Ark. 171, and Outlaw vs. The Gov., 5 Ark. 468..</summary>
+              <summary id="b450-10" pgmap="450">The defendant’s liability as surety was not restricted to matters occurring after the execution of the bond.; but he became responsible to the ward for all moneys, etc., that came to the hands or possession of the guardian, whether before or after the execution of the bond. Sec. 9, ch. 80 Dig.</summary>
+              <summary id="b450-11" pgmap="450">It matters not whether the bond was given in obedience to an order of the Probate Court, or voluntarily. The security is pre­cluded from denying that such an order was made. 11 Ark. 686.</summary>
+              <headnotes id="b449-7" pgmap="449">Whore the bond of a guardian is conditioned for the future faithful performance of his guardianship, and does not extend to indemnify the ward for'the guardians previous default, the liability of the securities in the bond begins only from their undertaking, and does not extend to any waste committed by the guardian previou­s to the execution of the bond.</headnotes>
+              <headnotes id="b449-9" pgmap="449">-The mere non-payment of the balance on the annual settlement of the guardian— where there has been no final settlement and order to pay — does not fix any liability, on him or his securities.</headnotes>
+              <headnotes id="b449-10" pgmap="449">'Quere; Can a minor, who has a guardian, bring an action upon the bond of a former guardian 1</headnotes>
+              <headnotes id="b449-11" pgmap="449">A court of law is not the proper jurisdiction to ascertain the final balance due the ward upon the unsettled account of his guardian, although when the account is once settled, the jurisdiction for its recovery may be clear</headnotes>
+              <headnotes id="b449-12" pgmap="449">An obligor in a guardian’s bond that has been accepted by the Probate Court, is estopped from setting up as a defence to an action upon the bond, that the court did not order it to be made.</headnotes>
+              <headnotes id="b449-13" pgmap="449">The Probate Court caunot, by order, release the securities in a guardian’s bond, upon the presentation and acceptance of another bond by the guardian; and a plea setting up such order in an action upon the second bond is bad.</headnotes>
+              <opinion type="majority">
+                <author id="b450-12" pgmap="450">Mr. Justice Fairchild</author>
+                <p id="AS1" pgmap="450">delivered the opinion of the Court.</p>
+                <p id="b450-13" pgmap="450">Among the pleas interposed by Sebastian in defence of this suit, which is an action brought against him as surety for James E. Jackson, a former guardian of the plaintiff below, and appellee, were three that were quashed on demurrer; and the object of this appeal is, to have the judgment that was rendered against Sebastian by the Phillips Circuit court reversed, for its alleged erroneous action upon these pleas.</p>
+                <p id="b451-4" pgmap="451">The pleas in question were the 6th, 7th and 8th of those tiled by Sebastian.</p>
+                <p id="b451-5" pgmap="451">The 6th plea, in substance is: that before the execution of the bond declared on, James B. Jackson had been duly appointed guardian of the appellee, by the Probate Court of Phillips county, and had given a bond for the performance of his duties, to which William Weatherly and Henry M. Grant were securities, which Iv nd was approved by the Probate Court; and that while Weatherly and Grant were Jackson’s securities, and before ¡Sebastian was, the money, the non payment of which is the cause of action set forth in the declaration, came to the hands of Jackson, and was by him then wasted.</p>
+                <p id="b451-6" pgmap="451">The effect of the plea is to throw the responsibility of the guardian’s waste upon his securities at the time of the waste, at least not to charge Sebastian with a loss that did not happen dur'hrg-his suretyship.</p>
+                <p id="b451-7" pgmap="451">We think the plea is a good answer to the declaration.</p>
+                <p id="b451-8" pgmap="451">In the absence of any statute extending the liability of sure­ties in a bond, it ought to begin only with their undertaking, as such must be supposed to have been their intention; or if the bond itself had provided for a liability to begin from the appoint­ment of the principal as guardian, or at any point previous to its date, the plea might not have been ¿rood.</p>
+                <p id="b451-9" pgmap="451">But the declaration only shows a bond conditioned for the future faithful performance of Jackson’s guardianship, and plainly does not. extend to indemnify, the plaintiff below' for his previous default.</p>
+                <p id="b451-10" pgmap="451">Such is the principle of the case of the State iise of Dennard vs. Roberts, ante., where it was held, upon a question of liability between ihe sureties on a deceased sheriff’s bond and the administrator, that the liability became perfect when the breach of duty was committed.</p>
+                <p id="b451-11" pgmap="451(32) 452(12)">And the jilea in this case going further than to show the retention of the money mentioned in the declaration, by aver­ring its actual appropriation, by w'aste of Jackson, before the ■execution of the bond sued on, brings itself within the case cited.</p>
+                <p id="AB9" pgmap="452">The demurrer to this plea should not have been sustained.</p>
+                <p id="AFP" pgmap="452">As the case is to be reversed for the error just indicated, and 'as the demurrer to the pleas reach back to the declaration, we suggest the following matters, as arising upon the declaration:</p>
+                <p id="ANG" pgmap="452">That this action seems to have been brought by the mindr, when there is a guardian successor to Jackson.</p>
+                <p id="A6XW" pgmap="452">The cause of action declared on, the one that is the subject of the sixth plea, and the one upon which the verdict and judg­ment seem to have been founded, is, that at the first annual settlement of the guardian Jackson, he showed himself indebted -to the plaintiff below in the sum of six hundred and nine 37-100 dollars, which has never been paid. Jackson while guardian, and the declaration shows he was so till his death, was the one to retain this money subject to proper expenditures for his ward, and the mere non-payment of it does not fix any liability upon him, or upon his sureties.</p>
+                <p id="AIM" pgmap="452">And further, the settlement merely shows an unsettled 'guardianship, a trust account, and a court of law is not the proper jurisdiction to ascertain the final balance of such unset­tled account, although when once settled, the jurisdiction for its recovery may be clear.</p>
+                <p id="b452-11" pgmap="452">The 7th plea alleged the former bond of Jackson as did the sixth plea, and that the bond in suit was given without any order of the Probate Court on account of the former bond being insufficient.</p>
+                <p id="b452-12" pgmap="452">This plea presented no defence to the action, and the demur­rer to it was properly sustained. It is not for one who has voluntarily signed a guardian’s bond thathas been accepted by the court, to object that the court did hot order it to be made.</p>
+                <p id="b452-13" pgmap="452">Having executed the bond an obligor is estopped from deny­ing its effect.</p>
+                <p id="b452-14" pgmap="452">This, though perhaps not within the letter, is within the prin­ciple of Sullivan vs. Pierce, 5 Eng. 503; and Outlaw vs. Yell, 3 Eng. 353.</p>
+                <p id="b453-4" pgmap="453">The eighth plea contains the allegations of the sixth plea, and avers further, that upon presentation of the bond sued on to the probate court of Phillips county, an order was made by the court, accepting such bond in the place of the former bond of Weatherly and Grant, and that Weatherly and Grant should be discharged from all liability, upon.the bond whereby Sebas­tian was injured.</p>
+                <p id="b453-5" pgmap="453">This plea is also bad. No such order of the probate court could discharge Weatherly and Grant from any liability incurred by them as Jackson’s securities. It could not affect the pleader in any way, and was no defence to his own liability.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="449" ORDERLABEL="447" TYPE="page">
+        <fptr FILEID="tiff_00225_0"/>
+        <fptr FILEID="jp2_00225_0"/>
+        <fptr FILEID="alto_00225_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_449.3" BETYPE="IDREF" FILEID="alto_00225_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_449.2" BETYPE="IDREF" FILEID="alto_00225_0"/>
+              <area BEGIN="BL_449.4" BETYPE="IDREF" FILEID="alto_00225_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_449.5" BETYPE="IDREF" FILEID="alto_00225_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="450" ORDERLABEL="448" TYPE="page">
+        <fptr FILEID="tiff_00225_1"/>
+        <fptr FILEID="jp2_00225_1"/>
+        <fptr FILEID="alto_00225_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_450.1" BETYPE="IDREF" FILEID="alto_00225_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_450.2" BETYPE="IDREF" FILEID="alto_00225_1"/>
+              <area BEGIN="BL_450.3" BETYPE="IDREF" FILEID="alto_00225_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="451" ORDERLABEL="449" TYPE="page">
+        <fptr FILEID="tiff_00226_0"/>
+        <fptr FILEID="jp2_00226_0"/>
+        <fptr FILEID="alto_00226_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_451.2" BETYPE="IDREF" FILEID="alto_00226_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_451.1" BETYPE="IDREF" FILEID="alto_00226_0"/>
+              <area BEGIN="BL_451.3" BETYPE="IDREF" FILEID="alto_00226_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="452" ORDERLABEL="450" TYPE="page">
+        <fptr FILEID="tiff_00226_1"/>
+        <fptr FILEID="jp2_00226_1"/>
+        <fptr FILEID="alto_00226_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_452.2" BETYPE="IDREF" FILEID="alto_00226_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_452.3" BETYPE="IDREF" FILEID="alto_00226_1"/>
+              <area BEGIN="BL_452.4" BETYPE="IDREF" FILEID="alto_00226_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="453" ORDERLABEL="451" TYPE="page">
+        <fptr FILEID="tiff_00227_0"/>
+        <fptr FILEID="jp2_00227_0"/>
+        <fptr FILEID="alto_00227_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_453.2" BETYPE="IDREF" FILEID="alto_00227_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_453.1" BETYPE="IDREF" FILEID="alto_00227_0"/>
+              <area BEGIN="BL_453.3" BETYPE="IDREF" FILEID="alto_00227_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_453.6" BETYPE="IDREF" FILEID="alto_00227_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b453-5" BETYPE="IDREF" FILEID="casebody_0098"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_453.5" BETYPE="IDREF" FILEID="alto_00227_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b451-7" BETYPE="IDREF" FILEID="casebody_0098"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_451.7" BETYPE="IDREF" FILEID="alto_00226_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b450-11" BETYPE="IDREF" FILEID="casebody_0098"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_450.11" BETYPE="IDREF" FILEID="alto_00225_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b450-10" BETYPE="IDREF" FILEID="casebody_0098"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_450.10" BETYPE="IDREF" FILEID="alto_00225_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b450-13" BETYPE="IDREF" FILEID="casebody_0098"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_450.14" BETYPE="IDREF" FILEID="alto_00225_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ApV" BETYPE="IDREF" FILEID="casebody_0098"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_449.14" BETYPE="IDREF" FILEID="alto_00225_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b453-4" BETYPE="IDREF" FILEID="casebody_0098"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_453.4" BETYPE="IDREF" FILEID="alto_00227_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b451-9" BETYPE="IDREF" FILEID="casebody_0098"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_451.9" BETYPE="IDREF" FILEID="alto_00226_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AIM" BETYPE="IDREF" FILEID="casebody_0098"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_452.12" BETYPE="IDREF" FILEID="alto_00226_1"/>
+            <area BEGIN="BL_452.13" BETYPE="IDREF" FILEID="alto_00226_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b451-10" BETYPE="IDREF" FILEID="casebody_0098"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_451.10" BETYPE="IDREF" FILEID="alto_00226_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b451-11" BETYPE="IDREF" FILEID="casebody_0098"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_451.11" BETYPE="IDREF" FILEID="alto_00226_0"/>
+            <area BEGIN="BL_452.1" BETYPE="IDREF" FILEID="alto_00226_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b451-8" BETYPE="IDREF" FILEID="casebody_0098"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_451.8" BETYPE="IDREF" FILEID="alto_00226_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b449-14" BETYPE="IDREF" FILEID="casebody_0098"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_449.13" BETYPE="IDREF" FILEID="alto_00225_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b449-13" BETYPE="IDREF" FILEID="casebody_0098"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_449.12" BETYPE="IDREF" FILEID="alto_00225_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b449-12" BETYPE="IDREF" FILEID="casebody_0098"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_449.11" BETYPE="IDREF" FILEID="alto_00225_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b449-11" BETYPE="IDREF" FILEID="casebody_0098"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_449.10" BETYPE="IDREF" FILEID="alto_00225_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b449-10" BETYPE="IDREF" FILEID="casebody_0098"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_449.9" BETYPE="IDREF" FILEID="alto_00225_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AB9" BETYPE="IDREF" FILEID="casebody_0098"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_452.5" BETYPE="IDREF" FILEID="alto_00226_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AFP" BETYPE="IDREF" FILEID="casebody_0098"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_452.6" BETYPE="IDREF" FILEID="alto_00226_1"/>
+            <area BEGIN="BL_452.7" BETYPE="IDREF" FILEID="alto_00226_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b450-5" BETYPE="IDREF" FILEID="casebody_0098"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_450.5" BETYPE="IDREF" FILEID="alto_00225_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b450-4" BETYPE="IDREF" FILEID="casebody_0098"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_450.4" BETYPE="IDREF" FILEID="alto_00225_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b450-7" BETYPE="IDREF" FILEID="casebody_0098"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_450.7" BETYPE="IDREF" FILEID="alto_00225_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b450-6" BETYPE="IDREF" FILEID="casebody_0098"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_450.6" BETYPE="IDREF" FILEID="alto_00225_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b450-9" BETYPE="IDREF" FILEID="casebody_0098"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_450.9" BETYPE="IDREF" FILEID="alto_00225_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b450-8" BETYPE="IDREF" FILEID="casebody_0098"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_450.8" BETYPE="IDREF" FILEID="alto_00225_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b451-6" BETYPE="IDREF" FILEID="casebody_0098"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_451.6" BETYPE="IDREF" FILEID="alto_00226_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b450-12" BETYPE="IDREF" FILEID="casebody_0098"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_450.12" BETYPE="IDREF" FILEID="alto_00225_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ANG" BETYPE="IDREF" FILEID="casebody_0098"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_452.8" BETYPE="IDREF" FILEID="alto_00226_1"/>
+            <area BEGIN="BL_452.9" BETYPE="IDREF" FILEID="alto_00226_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b452-11" BETYPE="IDREF" FILEID="casebody_0098"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_452.14" BETYPE="IDREF" FILEID="alto_00226_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b451-4" BETYPE="IDREF" FILEID="casebody_0098"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_451.4" BETYPE="IDREF" FILEID="alto_00226_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b452-14" BETYPE="IDREF" FILEID="casebody_0098"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_452.17" BETYPE="IDREF" FILEID="alto_00226_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b452-13" BETYPE="IDREF" FILEID="casebody_0098"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_452.16" BETYPE="IDREF" FILEID="alto_00226_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b452-12" BETYPE="IDREF" FILEID="casebody_0098"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_452.15" BETYPE="IDREF" FILEID="alto_00226_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b449-9" BETYPE="IDREF" FILEID="casebody_0098"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_449.8" BETYPE="IDREF" FILEID="alto_00225_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b451-5" BETYPE="IDREF" FILEID="casebody_0098"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_451.5" BETYPE="IDREF" FILEID="alto_00226_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b449-7" BETYPE="IDREF" FILEID="casebody_0098"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_449.7" BETYPE="IDREF" FILEID="alto_00225_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b449-5" BETYPE="IDREF" FILEID="casebody_0098"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_449.6" BETYPE="IDREF" FILEID="alto_00225_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A6XW" BETYPE="IDREF" FILEID="casebody_0098"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_452.10" BETYPE="IDREF" FILEID="alto_00226_1"/>
+            <area BEGIN="BL_452.11" BETYPE="IDREF" FILEID="alto_00226_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AS1" BETYPE="IDREF" FILEID="casebody_0098"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_450.13" BETYPE="IDREF" FILEID="alto_00225_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,598 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0045" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Derton v. Boyd">Derton vs. Boyd</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 264</citation>
+          <decisiondate>1860-05</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00133_1" MIMETYPE="image/tiff" CHECKSUM="1b6b9f153708a03630b176b0c307728e" CHECKSUMTYPE="MD5" SIZE="33680">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00133_1.tif"/>
+      </file>
+      <file ID="tiff_00134_0" MIMETYPE="image/tiff" CHECKSUM="0bca5811726aebe3ed26d12c738d5ada" CHECKSUMTYPE="MD5" SIZE="46292">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00134_0.tif"/>
+      </file>
+      <file ID="tiff_00134_1" MIMETYPE="image/tiff" CHECKSUM="2ff622c92bb590e644fe334d72f75067" CHECKSUMTYPE="MD5" SIZE="44428">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00134_1.tif"/>
+      </file>
+      <file ID="tiff_00135_0" MIMETYPE="image/tiff" CHECKSUM="717b2ebf564f56b3b677ff8f6a14d54a" CHECKSUMTYPE="MD5" SIZE="48930">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00135_0.tif"/>
+      </file>
+      <file ID="tiff_00135_1" MIMETYPE="image/tiff" CHECKSUM="aa6d86ef0dc8086cc0419968a342f6b0" CHECKSUMTYPE="MD5" SIZE="29954">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00135_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00133_1" MIMETYPE="image/jp2" CHECKSUM="8dd6a3b15c50f8f3c0d7bc9cd6e39467" CHECKSUMTYPE="MD5" SIZE="2550377">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00133_1.jp2"/>
+      </file>
+      <file ID="jp2_00134_0" MIMETYPE="image/jp2" CHECKSUM="3f13f9f16b05f8a1f338a096cb5a6890" CHECKSUMTYPE="MD5" SIZE="2753396">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00134_0.jp2"/>
+      </file>
+      <file ID="jp2_00134_1" MIMETYPE="image/jp2" CHECKSUM="5641e483746cdcd8013f3372ea0c4077" CHECKSUMTYPE="MD5" SIZE="2579841">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00134_1.jp2"/>
+      </file>
+      <file ID="jp2_00135_0" MIMETYPE="image/jp2" CHECKSUM="dc6bd055c3639434d33002fefad0be55" CHECKSUMTYPE="MD5" SIZE="2680263">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00135_0.jp2"/>
+      </file>
+      <file ID="jp2_00135_1" MIMETYPE="image/jp2" CHECKSUM="765845e7efb618be639adc8d7838e36d" CHECKSUMTYPE="MD5" SIZE="2509937">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00135_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00133_1" MIMETYPE="text/xml" CHECKSUM="5a55718ac076d79fd1a4aa5368863d15" CHECKSUMTYPE="MD5" SIZE="65958">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00133_1.xml"/>
+      </file>
+      <file ID="alto_00134_0" MIMETYPE="text/xml" CHECKSUM="9960039a1e97cfeefc1b03bf7d269f01" CHECKSUMTYPE="MD5" SIZE="92724">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00134_0.xml"/>
+      </file>
+      <file ID="alto_00134_1" MIMETYPE="text/xml" CHECKSUM="7e23a7d23dd8038519251f3403a0a43f" CHECKSUMTYPE="MD5" SIZE="84325">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00134_1.xml"/>
+      </file>
+      <file ID="alto_00135_0" MIMETYPE="text/xml" CHECKSUM="f037da2b26c1fe2cd6356271e6a8d266" CHECKSUMTYPE="MD5" SIZE="95642">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00135_0.xml"/>
+      </file>
+      <file ID="alto_00135_1" MIMETYPE="text/xml" CHECKSUM="00fc750599167b2910ae9dafc3e90f3f" CHECKSUMTYPE="MD5" SIZE="61602">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00135_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0045" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="268" firstpage="264">
+              <parties id="b266-7" pgmap="266">Derton vs. Boyd.</parties>
+              <attorneys id="b267-9" pgmap="267">McConaughey, for the plaintiff.</attorneys>
+              <summary id="b267-7" pgmap="267">Error to Bradley Circuit Court.</summary>
+              <summary id="b267-8" pgmap="267">Hon. Theodoric F. Sorrells, Circuit Judge.</summary>
+              <summary id="b267-10" pgmap="267">That the Circuit Court had full power to issue the writ in this case, as the party interested had no opportunity to appeal. 13 Ark. 355; 7 Eng. 95; 6 Eng. 604. That the Circuit Court erred in rendering judgment for cost on dismissing the appeal. 1 Ark. 55. The court had no power to interfere with the judg­ment at a subsequent term. 2 Ark. 66; 5 Ark. 23; 14 Ark. 203.</summary>
+              <headnotes id="b266-8" pgmap="266">A writ of certiorari, io remove the record of proceedings and judgment of the Probate Court, should be directed to the clerk, and not to the judge of that court.</headnotes>
+              <headnotes id="b266-9" pgmap="266">Where a writ of certiorari has been ordered by the Circuit Court, or judge, but not issued and returned with a transcript of the record, there is nothing before the court for adjudication, though the case be docketed; and in such case, if the plain­tiff fail to move, at the return 'term, that the writ be issued, the case should be stricken from the docket.</headnotes>
+              <headnotes id="b267-5" pgmap="267">The Circuit Court has jurisdiction, by writ of certiorari, over the judgment of the Probate Court allowing and classifying a claim against the estate of a deceased person, where the judgment is irregular and the party interested had no opportu­nity for appeal.</headnotes>
+              <headnotes id="b267-6" pgmap="267">Upon dismissing a case for -want of jurisdiction it is error to render judgment for cost: but such judgment cannot be vacated or expunged at a subsequent term.</headnotes>
+              <opinion type="majority">
+                <author id="b267-11" pgmap="267">Mr. Chief Justice English</author>
+                <p id="APs" pgmap="267">delivered the opinion of the Court.</p>
+                <p id="APY" pgmap="267(202) 268(88)">It appears from the transcript in this case, that on the 4th of August, 1856, Philip Derton presented a petition to the judge of the Bradley Circuit Court in vacation, for a writ of certiorari, stating in substance, that Charles S. Boyd died in said count}', leaving a considerable estate real and personal, upon which administration was granted, by the Probate Court of the county, to F. A. Boyd; that afterwards petitioner purchased, and obtained transfers from the legatees of all their interest in the estate, which transfers are exhibited; that on the last day of the April term, 1856, of the Probate Court, Samuel A. Boyd filed in the office of the clerk of said court an account against said estate for $300, which had been examined and allowed by the administrator, and which, on the same day that it was filed in the clerk’s office, was presented to, and ordered by the court to be allowed and classed against the estate, contrary to law, etc.; that the account should not have been presented to the court for allowance and classification until the next term of the court after it was filed in the clerk’s office; that the account was with­out date, and unjust; that petitioner had a good defence to offer in opposition to the allowance and classification of the account, at the next term of the court after it was filed in the clerk’s office, but his defence was precluded by the allowance of the claim on the day that it was filed, etc. Prayer that a transcript of the proceedings of the Probate Court in the matter be removed into the Circuit Court, by certiorari, aud that the judgment of allowance and classification be quashed.</p>
+                <p id="b268-6" pgmap="268">A transcript of the order of the Probate Court allowing and classifying the account was exhibited with the petition.</p>
+                <p id="b268-7" pgmap="268">On the presentation of the petition to the circuit judge he endorsed upon it an order directing the clerk of the Circuit Court of Bradley county to issue a writ of certiorari to the judge of the Prohate Court, commanding him to send up to the ensu­ing term of the Circuit Court a transcript of the record of the proceedings and judgment of the Probate Court in the matter etc.</p>
+                <p id="b268-8" pgmap="268">It does not appear from the transcript before us, that any writ of certiorari was issued in obedience to the order of the circuit judge.</p>
+                <p id="b268-9" pgmap="268">At the following term of the Circuit Court (September, 1856,) it appears that the case stood upon the docket thus:</p>
+                <blockquote id="b268-10" pgmap="268">“ Philip Derton, Appellant,</blockquote>
+                <blockquote id="b268-11" pgmap="268">vs. Appeal from Prohate Court.</blockquote>
+                <blockquote id="b268-12" pgmap="268">Samuel A. Boyd, Appellee,”</blockquote>
+                <p id="AQp" pgmap="268">The record states that the parties appeared, and the plaintiff moved that the case be continued, which motion was overruled; “and on motion of the defence the certiorari in this case is dis­missed for want of jurisdiction.” Whereupon judgment was entered in favor of Boyd against Derton for the costs in the case.</p>
+                <p id="b268-14" pgmap="268">At the next term of the court, Boyd appeared and moved the court, the record states, “to remit the judgment for costs erro­neously rendered by the clerk at the last term of this court in this case, which motion is sustained, and said judgment expunged from the record.”</p>
+                <p id="b269-5" pgmap="269">Derton brought error.</p>
+                <p id="b269-6" pgmap="269">It may be remarked that, under our practice, the circuit judge should have ordered the writ of certiorari to be directed to the clerk of the Probate Court, and not to the judge, it being a court of record, and the clerk being the custodian of its records, and the keeper of its seal, etc.</p>
+                <p id="b269-7" pgmap="269">No writ of certiorari having been issued in pursuance of the order of the circuit judge, and consequently no transcript of the record of the proceedings and judgment of the Probate Court, in the matter in controversy, having been removed into the Circuit Court, though the case was docketed, there was nothing before the court, at the return term, for adjudication.</p>
+                <p id="b269-8" pgmap="269">The plaintiff in error, upon the petition on file and the bond executed by him, might have moved the court for an order directing the certiorari to be issued returnable to the next term; and on his failure to ask for the writ, the court should have simply stricken the case from the docket.</p>
+                <p id="b269-9" pgmap="269">There was no want of jurisdiction of the subject matter in the court. If the plaintiff in error, by his petition for certiorari made a prima facie showing that he was interested in the estate, that the judgment of the Probate Court, allowing and classify­ing the claim of the defendant in error, was irregular and that there was no opportunity for an appeal, it was perfectly com­petent for the Circuit Court, in the exercise of its constitutional power of supervision over the Probate Court, to cause a tran­script of the record of the proceedings and judgment of the Probate Court to be removed into the Circuit Court by the writ of certiorari; and on the return of the writ to quash the judg­ment if found to be irrregular, or to affirm it, if it proved to be regular, etc. Carnall vs. Crawford County, 6 Eng. 613.</p>
+                <p id="b269-10" pgmap="269">On the supposition that the court properly dismisssed the case for want of jurisdiction, it was an error to render judgment for costs. Levy vs. Shurman, 1 Eng. 182. But the court had not the power, at the next term, to vacate the judgment. Ashley vs. Hyde et al., Ib. 92. The expunging process is not practiced in the courts. King et al. vs. State Bank, 4 Eng. 185.</p>
+                <p id="b270-5" pgmap="270">The question whether the judgment of the Probate Court was irregular or not, is not properly presented for adjudication, by us, in the attitude which the case now occupies.</p>
+                <p id="b270-6" pgmap="270">The judgment must be reversed, and the cause remanded for further proceedings.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="266" ORDERLABEL="264" TYPE="page">
+        <fptr FILEID="tiff_00133_1"/>
+        <fptr FILEID="jp2_00133_1"/>
+        <fptr FILEID="alto_00133_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_266.2" BETYPE="IDREF" FILEID="alto_00133_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_266.3" BETYPE="IDREF" FILEID="alto_00133_1"/>
+              <area BEGIN="BL_266.4" BETYPE="IDREF" FILEID="alto_00133_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_266.7" BETYPE="IDREF" FILEID="alto_00133_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="267" ORDERLABEL="265" TYPE="page">
+        <fptr FILEID="tiff_00134_0"/>
+        <fptr FILEID="jp2_00134_0"/>
+        <fptr FILEID="alto_00134_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_267.2" BETYPE="IDREF" FILEID="alto_00134_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_267.1" BETYPE="IDREF" FILEID="alto_00134_0"/>
+              <area BEGIN="BL_267.3" BETYPE="IDREF" FILEID="alto_00134_0"/>
+              <area BEGIN="BL_267.13" BETYPE="IDREF" FILEID="alto_00134_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="268" ORDERLABEL="266" TYPE="page">
+        <fptr FILEID="tiff_00134_1"/>
+        <fptr FILEID="jp2_00134_1"/>
+        <fptr FILEID="alto_00134_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_268.2" BETYPE="IDREF" FILEID="alto_00134_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_268.3" BETYPE="IDREF" FILEID="alto_00134_1"/>
+              <area BEGIN="BL_268.4" BETYPE="IDREF" FILEID="alto_00134_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="269" ORDERLABEL="267" TYPE="page">
+        <fptr FILEID="tiff_00135_0"/>
+        <fptr FILEID="jp2_00135_0"/>
+        <fptr FILEID="alto_00135_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_269.2" BETYPE="IDREF" FILEID="alto_00135_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_269.1" BETYPE="IDREF" FILEID="alto_00135_0"/>
+              <area BEGIN="BL_269.3" BETYPE="IDREF" FILEID="alto_00135_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="270" ORDERLABEL="268" TYPE="page">
+        <fptr FILEID="tiff_00135_1"/>
+        <fptr FILEID="jp2_00135_1"/>
+        <fptr FILEID="alto_00135_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_270.1" BETYPE="IDREF" FILEID="alto_00135_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_270.2" BETYPE="IDREF" FILEID="alto_00135_1"/>
+              <area BEGIN="BL_270.3" BETYPE="IDREF" FILEID="alto_00135_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_270.6" BETYPE="IDREF" FILEID="alto_00135_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b267-9" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_267.8" BETYPE="IDREF" FILEID="alto_00134_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b267-8" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_267.7" BETYPE="IDREF" FILEID="alto_00134_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="APs" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_267.11" BETYPE="IDREF" FILEID="alto_00134_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AQp" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_268.12" BETYPE="IDREF" FILEID="alto_00134_1"/>
+            <area BEGIN="BL_268.13" BETYPE="IDREF" FILEID="alto_00134_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b270-5" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_270.4" BETYPE="IDREF" FILEID="alto_00135_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b270-6" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_270.5" BETYPE="IDREF" FILEID="alto_00135_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b267-5" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_267.4" BETYPE="IDREF" FILEID="alto_00134_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b267-7" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_267.6" BETYPE="IDREF" FILEID="alto_00134_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b267-6" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_267.5" BETYPE="IDREF" FILEID="alto_00134_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b266-7" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_266.8" BETYPE="IDREF" FILEID="alto_00133_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b268-8" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_268.7" BETYPE="IDREF" FILEID="alto_00134_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b268-9" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_268.8" BETYPE="IDREF" FILEID="alto_00134_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b268-6" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_268.5" BETYPE="IDREF" FILEID="alto_00134_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b268-7" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_268.6" BETYPE="IDREF" FILEID="alto_00134_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b266-8" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_266.9" BETYPE="IDREF" FILEID="alto_00133_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b266-9" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_266.10" BETYPE="IDREF" FILEID="alto_00133_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b269-9" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_269.8" BETYPE="IDREF" FILEID="alto_00135_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b269-8" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_269.7" BETYPE="IDREF" FILEID="alto_00135_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="APY" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_267.12" BETYPE="IDREF" FILEID="alto_00134_0"/>
+            <area BEGIN="BL_268.1" BETYPE="IDREF" FILEID="alto_00134_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b267-11" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_267.10" BETYPE="IDREF" FILEID="alto_00134_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b269-7" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_269.6" BETYPE="IDREF" FILEID="alto_00135_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b269-6" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_269.5" BETYPE="IDREF" FILEID="alto_00135_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b269-5" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_269.4" BETYPE="IDREF" FILEID="alto_00135_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b267-10" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_267.9" BETYPE="IDREF" FILEID="alto_00134_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b269-10" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_269.9" BETYPE="IDREF" FILEID="alto_00135_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b268-14" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_268.14" BETYPE="IDREF" FILEID="alto_00134_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b268-10" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_268.9" BETYPE="IDREF" FILEID="alto_00134_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b268-11" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_268.10" BETYPE="IDREF" FILEID="alto_00134_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b268-12" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_268.11" BETYPE="IDREF" FILEID="alto_00134_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

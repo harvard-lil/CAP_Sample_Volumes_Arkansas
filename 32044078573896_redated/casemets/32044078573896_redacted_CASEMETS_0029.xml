@@ -1,0 +1,914 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0029" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Hicks v. Branton">Hicks et al. vs. Branton et al.</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 186</citation>
+          <decisiondate>1860-01</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00094_1" MIMETYPE="image/tiff" CHECKSUM="310dbfff4fd49ee4e9020f0cd6c65467" CHECKSUMTYPE="MD5" SIZE="47112">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00094_1.tif"/>
+      </file>
+      <file ID="tiff_00095_0" MIMETYPE="image/tiff" CHECKSUM="3291379a5f27ac2fd3a561342532d8b3" CHECKSUMTYPE="MD5" SIZE="42330">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00095_0.tif"/>
+      </file>
+      <file ID="tiff_00095_1" MIMETYPE="image/tiff" CHECKSUM="0cd69edd64e69fb592498d508fde512a" CHECKSUMTYPE="MD5" SIZE="45568">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00095_1.tif"/>
+      </file>
+      <file ID="tiff_00096_0" MIMETYPE="image/tiff" CHECKSUM="e3cab4149be247d27d578d2b807a9b94" CHECKSUMTYPE="MD5" SIZE="47010">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00096_0.tif"/>
+      </file>
+      <file ID="tiff_00096_1" MIMETYPE="image/tiff" CHECKSUM="dff7d91e66b1b2452a97e55f8c0e7054" CHECKSUMTYPE="MD5" SIZE="50436">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00096_1.tif"/>
+      </file>
+      <file ID="tiff_00097_0" MIMETYPE="image/tiff" CHECKSUM="5a3c581741cff7ec3337b7a4e3ac66c3" CHECKSUMTYPE="MD5" SIZE="48452">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00097_0.tif"/>
+      </file>
+      <file ID="tiff_00097_1" MIMETYPE="image/tiff" CHECKSUM="5253b1a3995e5e50f5539f7968df693b" CHECKSUMTYPE="MD5" SIZE="49652">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00097_1.tif"/>
+      </file>
+      <file ID="tiff_00098_0" MIMETYPE="image/tiff" CHECKSUM="e2d92362c79648e8106cb192a94b4250" CHECKSUMTYPE="MD5" SIZE="26424">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00098_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00094_1" MIMETYPE="image/jp2" CHECKSUM="cd0ca9a871b22d4e88156a08e1a95575" CHECKSUMTYPE="MD5" SIZE="2520587">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00094_1.jp2"/>
+      </file>
+      <file ID="jp2_00095_0" MIMETYPE="image/jp2" CHECKSUM="060367bfb9554a0c5eaee30471a60c99" CHECKSUMTYPE="MD5" SIZE="2562606">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00095_0.jp2"/>
+      </file>
+      <file ID="jp2_00095_1" MIMETYPE="image/jp2" CHECKSUM="824f93b5c2236fad0c880fcec2a90b7f" CHECKSUMTYPE="MD5" SIZE="2596850">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00095_1.jp2"/>
+      </file>
+      <file ID="jp2_00096_0" MIMETYPE="image/jp2" CHECKSUM="cdd320b1400ac8ef5fbd18c8c7c3e673" CHECKSUMTYPE="MD5" SIZE="2681835">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00096_0.jp2"/>
+      </file>
+      <file ID="jp2_00096_1" MIMETYPE="image/jp2" CHECKSUM="581ec50597d0417a7684ab6c32e2eafc" CHECKSUMTYPE="MD5" SIZE="2604204">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00096_1.jp2"/>
+      </file>
+      <file ID="jp2_00097_0" MIMETYPE="image/jp2" CHECKSUM="791ea62c25c648bd2393fda207bdad44" CHECKSUMTYPE="MD5" SIZE="2643672">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00097_0.jp2"/>
+      </file>
+      <file ID="jp2_00097_1" MIMETYPE="image/jp2" CHECKSUM="5f7265890cedd0187371152dae8654b9" CHECKSUMTYPE="MD5" SIZE="2663186">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00097_1.jp2"/>
+      </file>
+      <file ID="jp2_00098_0" MIMETYPE="image/jp2" CHECKSUM="69eccacffe9490c52280cd5ede15d050" CHECKSUMTYPE="MD5" SIZE="2514181">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00098_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00094_1" MIMETYPE="text/xml" CHECKSUM="33d6188a61468434b1bb1f6458031836" CHECKSUMTYPE="MD5" SIZE="118880">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00094_1.xml"/>
+      </file>
+      <file ID="alto_00095_0" MIMETYPE="text/xml" CHECKSUM="4ca0634697b7ce8ce33deb6678ee9266" CHECKSUMTYPE="MD5" SIZE="80779">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00095_0.xml"/>
+      </file>
+      <file ID="alto_00095_1" MIMETYPE="text/xml" CHECKSUM="46339362027e647003db45746d430fc9" CHECKSUMTYPE="MD5" SIZE="84902">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00095_1.xml"/>
+      </file>
+      <file ID="alto_00096_0" MIMETYPE="text/xml" CHECKSUM="69cec5f6a18fd01d720707672639303f" CHECKSUMTYPE="MD5" SIZE="98763">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00096_0.xml"/>
+      </file>
+      <file ID="alto_00096_1" MIMETYPE="text/xml" CHECKSUM="06411cca104ad07cccf189cb1281b404" CHECKSUMTYPE="MD5" SIZE="96197">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00096_1.xml"/>
+      </file>
+      <file ID="alto_00097_0" MIMETYPE="text/xml" CHECKSUM="8f0be23aa7ecce57c2d4d464db5431d0" CHECKSUMTYPE="MD5" SIZE="97271">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00097_0.xml"/>
+      </file>
+      <file ID="alto_00097_1" MIMETYPE="text/xml" CHECKSUM="ab7c356cf7c75092395f0546b71a3b64" CHECKSUMTYPE="MD5" SIZE="101055">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00097_1.xml"/>
+      </file>
+      <file ID="alto_00098_0" MIMETYPE="text/xml" CHECKSUM="341b3f01ea9b82caa487615a90871ef2" CHECKSUMTYPE="MD5" SIZE="50170">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00098_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0029" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="193" firstpage="186">
+              <parties id="b188-4" pgmap="188">Hicks et al. vs. Branton et al.</parties>
+              <attorneys id="b189-5" pgmap="189">Watkins &amp; Gallagher, for the appellants.</attorneys>
+              <attorneys id="b189-9" pgmap="189">Carleton, for the appellees,</attorneys>
+              <summary id="b189-3" pgmap="189">Appeal from Columbia Circuit Court.</summary>
+              <summary id="b189-4" pgmap="189">Hon. Abner A. Stith, Circuit Judge.</summary>
+              <summary id="b189-6" pgmap="189">The third plea was improperly stricken out. The plea offered to show that the parties suing were not entitled to a lien, or a lien for the amount claimed.</summary>
+              <summary id="b189-7" pgmap="189">The 4th plea was both a denial and avoidance of the action; and the facts stated being admitted by the demurrer, the plea was good, as the party could not have the benefit of the writ until the money was due.</summary>
+              <summary id="b189-8" pgmap="189">The jury did not find that the lien was filed within the time prescribed by the statute (sec. 10), as they wére required to; nor was it proven that the abstract was entered on the judg­ment docket (sec. 26), which is a prerequisite to a lien,'</summary>
+              <summary id="Aq7" pgmap="189">argued this cause, at length, upon the instruction's and the evidence, contending, also, that it was immaterial whether Vaughan was a partner; because the several partners were severally liable, and the plaintiffs might have sued all or any one. Hamilton vs. Buxton, 1 Eng. 26; 6 lb. 314.</summary>
+              <headnotes id="b188-5" pgmap="188">In actions ex contractu., objection may be taken to the non-joinder of a party who ought to sue as plaintiff, by demurrer, motion in arrest, or writ of error, if it appear on the face of the pleadings; and if it do not so appear, the defendant may avail himself of it by plea in abatement, or as a ground of non-suit on the trial under the general issue, except in the case of the non-joinder of a eo-exccutor or administrator, which can be taken advantage of only by plea in abatement.</headnotes>
+              <headnotes id="b188-6" pgmap="188">At common law, if a partner, or joint contractor, who ought to be joined as defendant, be omitted, the objection cannot be taken on the trial, but must be taken by plea in abatement. But under our statute the liabilities of partners, upon the contracts of the firm, arc joint and several, and the plaintiff may sue one or more of them, at his election.</headnotes>
+              <headnotes id="b188-7" pgmap="188">If the declaration, in an action against several partners, omit the name of some member of the firm in the description of the persons alleged to compose the part­nership, the variance is not material, if the parties sued are liable upon the contract.</headnotes>
+              <headnotes id="b188-8" pgmap="188">Whore a plea, setting up matter in abatement, is not sworn to, or is filed after a pica in bar, it may he stricken out on motion, but those objections are not available on demurrer.</headnotes>
+              <headnotes id="b188-9" pgmap="188">This Court will not reverse a judgment for the error of the Circuit Court in striking out a plea, or in sustaining a demurrer to a plea, where the party had the benefit of the matter set up by the plea upon the general issue.</headnotes>
+              <headnotes id="b188-10" pgmap="188">If a suit be brought before the cause of action is due, the objection may be taken by demurrer, if it appear on the face of the declaration; if not, on the trial under the general issue; or it may be pleaded in abatement.</headnotes>
+              <headnotes id="b188-11" pgmap="188">The mechanic may fix his lien, under the statute {Big., chap. 112,) before the debt is due, by filing his account in the clerk’s office, and causing an abstract thereof to be entered in the judgment docket; but he cannot enforce the lien by judgment and execution before the maturity of the debt.</headnotes>
+              <headnotes id="b188-12" pgmap="188">The entering of the abstract in the judgment docket, as well as the filing of the account, etc., in the clerk’s office,, within the time limited, as prescribed by the statute, is a condition precedent to the attaching of a mechanic’s lien; and he must produce sufficient proof, on a scire facias to enforce his lion, that the abstract has been so entered, before verdict and judgment can be rendered in his favor.</headnotes>
+              <headnotes id="b188-13" pgmap="188">To a scire facias to enforce a mechanic’s lien, the plea of nil debet should be treated as a general issue, and as putting the mechanic on proof of his lien, etc.</headnotes>
+              <opinion type="majority">
+                <author id="b189-10" pgmap="189">Mr. Chief Justice English</author>
+                <p id="Ar_" pgmap="189">delivered the opinion of the Court.</p>
+                <p id="b189-11" pgmap="189">This was a proceeding by scire facias, etc., to establish and enforce a mechanic’s lien, under the statute, upon a house and lot in the town of Magnolia.</p>
+                <p id="b189-12" pgmap="189(94) 190(42)">In the account for $603 83f, which was filed in the office of the clerk of the Circuit Court of Columbia county, on the 26th of September, 1856, and in the scire facias, which was issued on the 29th of the same month, the persons who claim the lien, etc., and who are the plaintiffs in the proceeding, are described as Richard M. Branton and Samuel J. Branton, partners in house building, in the firm name of R. M. Branton &amp; Co.; and the persons who are alleged to have contracted with them for the labor, and who are made defendants, are described as James A. Hicks and Robert E. Arrington, merchants and partners in trade, under the firm name and style of Hicks &amp;c Arrington, ostensible owners of the lot and building erected thereon, etc.</p>
+                <p id="b190-6" pgmap="190">The defendants pleaded to the scire facias:</p>
+                <p id="b190-7" pgmap="190">1. That they did not owe said plaintiffs the said sum, etc., in manner and form, etc. ^</p>
+                <p id="b190-9" pgmap="190">2. Payment.</p>
+                <p id="b190-10" pgmap="190">3. In substance; that they contracted with Richard M. Bran-­ton and Samuel J. Branton, as individuals, together with John Branton, Abraham G. Bird and Claiborn S. Banen, for doing the work and labor in the scire facias mentioned; and that it was done by said Richard M. Branton, Samuel J. Branton and John Branton, the said Bird and Banen, for some reason to the defendants unknown, not assisting in doing said work and .labor; and that defendants did not contract with said Richard M. Branton and Samuel J. Branton, partners in house building, under the firm name of R. M. Branton &amp; Co., as alleged in said scire facias, for the doing of said work and labor, and had no knowledge that they were partners, etc.; and that defendants were liable to said Richard M. Branton, Samuel' J. Branton and John Branton, as individuals, for the doing of said work and labor, etc.; and that the plaintiffs, as such partners, were not entitled to recover the sum demanded therefor in the scire facias, etc.</p>
+                <p id="b190-11" pgmap="190">4. In substance, that by the terms of the contract, the price to be paid for the work, etc., was not due and payable until the 1st of January, 1857, and that, consequently, the scire facias was sued out prematurely.</p>
+                <p id="b190-12" pgmap="190">5. Set-off.</p>
+                <p id="b190-13" pgmap="190">The plaintiffs took issue to the 1st, 2d and 5th pleas, and filed a motion to strike out the 3d, and a demurrer to the 4th plea. The motion to strike out and the demurrer were both sustained, and defendants rested.</p>
+                <p id="b190-14" pgmap="190(12) 191(18)">The issues to the other pleas were submitted to a jury, ver­diet for plaintiff, motion for a new trial overruled, and appeal by the defendants from the final judgment.</p>
+                <p id="b191-5" pgmap="191">1. In the motion to strike out the 3d plea, the objections taken to the plea are that it set up matter in abatement, was not sworn to, and was filed after a plea in bar.</p>
+                <p id="b191-6" pgmap="191">The form of the plea is not in abatement, but in bar, and it was, perhaps, intended by the pleader to be a plea in bar.</p>
+                <p id="b191-7" pgmap="191">In actions ex contractu, if it appear upon the face of the plead­ings that there are other parties to the contract, who ought to be, but are not joined as plaintiffs, it is fatal on demuiTer, in arrest of judgment, or on error; and though the objection may not appear on the face of the pleadings, the defendant may avail himself of it by plea in abatement, or as a ground of non-­suit on the trial under the general issue. 1 Chitty Pl. 13; Arch. Civ. Pl. 55; Armstrong vs. Robinson, 5 Gill &amp; John. 413; Con­verse vs. Symms, 10 Mass. R. 378 and note. Mr. Comyn saj's, the non-joinder may be pleaded in abatement or in bar. 1 Com. Dig. Abatement E. 12, p. 54. But the non-joinder of a co-executor or administrator, can only be taken advantage of by plea in abatement. Arch. Civil Pl. 55; Newton, ex. vs. Cock, ex. 5 Eng. 170.</p>
+                <p id="b191-8" pgmap="191">The court erred, perhaps, in striking out the plea, but the-­appellants were not prejudiced by the error, because they had the full benefit of the objection upon the trial, under the issue to the first plea. The court instructed the jury, at their instance, that if John Branton was a member of the firm of R. M. Bran-­ton &amp; Co., and a party to the contract, he should have been joined as a plaintiff in the action. He was introduced as a witness, and testified that he was not a member of the firm, and that the appellees were the contractors, etc.'</p>
+                <p id="b191-9" pgmap="191(61) 192(24)">2. If a suit be prematurely brought, that is, before the cause of action is due, the objection may be taken by demurrer, if it appear on the face of the declaration, (Zachery vs. Brown, et al. 17 Ark. 442), or advantage may be taken of it on the trial, under the general issue, (1 Chitty Pl. 553; Osborn vs. Moncure et al. 3 Wend. 170), or it may be pleaded in abatement, 1 Chitty Pl. 553; 1 Comyn's Dig. Abatement, G. 6, p. 98.</p>
+                <p id="b192-5" pgmap="192">The mechanic may fix his lien before the debt is due, by filing his account in the clerk’s office, and causing an abstract thereof to be entered in the judgment docket, (Dig. chap, 112, sec. 2, 28), but the statute does not provide that the scire facias may be sued out to enforce the lien by judgment and execution, before the maturity of the debt.</p>
+                <p id="b192-6" pgmap="192">The 4th plea set up matter in abatement, was not sworn to&gt; and was filed after a plea in bar, and might have been stricken out on motion; but these, objections were not available on de­murrer. Allis vs. Bender, 14 Ark. 627; 1 Eng, 198; Knott et al. vs. Clements, ad. 13 Ark. 335.</p>
+                <p id="b192-7" pgmap="192">But the appellants were not prejudiced by the error of the court in sustaining the demurrer to the plea, because they had the benefit of the matter set up by the plea upon'the trial, under the general issue. The court instructed the jury, at their in­stance, that if they believed from the evidence that the money to, be paid for the work, etc., was not due and payable at the time of the institution of the action, etc., they should find for appellants. See Vaden et al. vs. Ellis, 18 Ark. 359; Anderson vs Dunn, 19 Ark. 655.</p>
+                <p id="b192-8" pgmap="192">3. The appellants introduced testimony on-the trial, conduc­ing to prove that before the contract for the carpenter work was made with appellees, the firm of Hicks &amp; Arrington had been dissolved, and a new partnership formed, composed of Hicks, Arrington and one James Vaughan, under the firm name of Hicks, Arrington &amp; Co., and that the contract was made on behalf of the new’- firm, by Hicks. And the appellants moved the court to instruct the jury, in substance, that if they believed from the evidence, that Vaughan, who was not sued, [was a member of the firm on whose behalf the contract was made, etc., they should find for appellants. Which the court refused.</p>
+                <p id="b192-9" pgmap="192(33) 193(121)">With respect to the mode of taking advantage of the omis­sion of a party who. ought to be made co-defendant, there is a material distinction between this case and that of co-plaintiff. We have seen that if a person who ought to join as plaintiff (in an action upon a contract) be omitted, and the objection appear upon the pleadings, the delendant may demur, move in arrest of judgment, or bring a writ of error, or, if the objection do not appear on the pleadings, the plaintiff, except in case of co-executors or administrators, may be non-suited on the trial, under the [general issue. But in the case of defendants, if a partner, or joint contractor, who ought to be joined, be omitted, the objection cannot be taken upon the trial, but must be taken by plea in abatement. 1 Chitty Plea. 46; Hamilton vs. Bux­ton, 1 Eng. 26; 2 Ark. 174.</p>
+                <p id="b193-4" pgmap="193">The defendant is presumed to know who his partners are, if he has any, and he ought not to be permitted to lie by, and put the plaintiff to the delay and expense of a trial, and then set up a plea not founded in the merits of the cause, etc., but he should plead the non-joinder in abatement, and state who his partners are. Rice vs. Shute, 5 Burr. 2613; Ziele et al. vs. Campbell’s ex. 2 John. Cas. 383.</p>
+                <p id="b193-5" pgmap="193">Such is the common law rule in relation to the non-joinder of defendants in actions ex contractu. Under our statute, the liabilities of partners upon the contracts of the firm is joint and several, and the plaintiff may sue one or more of them at his election. 7 Eng. 315; 1 ib. 24; 4 Ark. 164.</p>
+                <p id="b193-6" pgmap="193">It is usual, in practice, to state in the declaration the names of all of the partners, and to designate such as are not sued. But if it turns out in proof, upon the trial, that the name of some member of the firm is omitted, as in this case, in the des­cription of the persons alleged to compose the partnership, the variance is not material, if the parties sued are liable upon the contract. (19 Ark. 250.)</p>
+                <p id="b193-7" pgmap="193">4. It is insisted for the appellants, that fhe court below should .have sustained the motion for a new trial, on the ground that the appellees failed to prove on the trial that they had caused an abstract of their account, etc., to be entered in the judgment docket, etc.</p>
+                <p id="AP0" pgmap="193(12) 194(123)">The mechanic, in order to fix his lien under the statute (Dig. ch. 112), must file in the clerk’s office an account of the work etc., done by him, with a description of the property to be charged with the lien, verified by affidavit, etc., sec. 2-3. And it is made the duty of the clerk to make an abstract therefrom in his judgment docket, containing the name of the person laying the lien, and of the person against whom it is taken, the amount of the debt, and a description of the property charged (sec. 4.) and it is expressly declared by section 26, that the lien shall date and take effect from the time the account is filed and the abstract entered in the judgment docket, and not from any earlier period, etc.</p>
+                <p id="b194-6" pgmap="194">It is manifest from the language of the 4th and 26th sections, that the entering of the abstract in the judgment docket, as well as the filing of the account, etc., in the clerk’s office, within the time limited, is a condition precedent to the attaching of the lien. Section 4 is part of the act of 31st January, 1843, and sec­tion 26 is part of the act of 21 st December, 1846, which seems to have been designed to remove any doubt as to the time when the lien is to attach, and as to the acts to be done as con­ditions precedent to the attaching of the lien. The mechanic must not only file his account in the clerk’s office, but he must see that the clerk makes the abstract in the judgment docket, as required by the statute. The provision requiring the abstract to be made in the judgment docket, is not merely directory to the clerk, but is of the essence of what is to be done before the lien attaches. See M. O. &amp; R. R. Co. vs. Gaster, 20 Ark. 458.</p>
+                <p id="b194-7" pgmap="194">The language, used in the statute construed in Petray vs. Howell, ib. 615, is different from that which is employed in the statute now under consideration.</p>
+                <p id="b194-8" pgmap="194(76) 195(74)">The pleas of the appellants, upon which issues were taken, were in form, nil debet, payment and set off. Neither of these pleas expressly tendered an issue as to whether the appellees had filed their account, in proper form, in the clerk’s office! within the time required by the statute, and caused an abstract to be made in the judgment docket; but the statute required the appellees to produce sufficient proof to sustain their lien, before verdict and judgment could be rendered in their favor, even if the appellants had not appeared at all, or appearing, failed to show sufficient cause why judgment and execution should not he had against the property charged with the lien, secs. 9, 10. We think, however, that the plea of nil debet should be treated as a general issue to the scire facias, and as putting the mechanic on proof of his lien, etc.</p>
+                <p id="b195-6" pgmap="195">The bill of exceptions purports to contain all the evidence introduced upon the trial, and it does not appear to have been proven that the abstract of the account had been made in the judgment docket, as required by the statute.</p>
+                <p id="b195-7" pgmap="195">The judgment must be reversed, and the cause remanded, with instructions to grant the appellants a new trial, etc.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="188" ORDERLABEL="186" TYPE="page">
+        <fptr FILEID="tiff_00094_1"/>
+        <fptr FILEID="jp2_00094_1"/>
+        <fptr FILEID="alto_00094_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_188.1" BETYPE="IDREF" FILEID="alto_00094_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_188.2" BETYPE="IDREF" FILEID="alto_00094_1"/>
+              <area BEGIN="BL_188.3" BETYPE="IDREF" FILEID="alto_00094_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="189" ORDERLABEL="187" TYPE="page">
+        <fptr FILEID="tiff_00095_0"/>
+        <fptr FILEID="jp2_00095_0"/>
+        <fptr FILEID="alto_00095_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_189.2" BETYPE="IDREF" FILEID="alto_00095_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_189.1" BETYPE="IDREF" FILEID="alto_00095_0"/>
+              <area BEGIN="BL_189.3" BETYPE="IDREF" FILEID="alto_00095_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="190" ORDERLABEL="188" TYPE="page">
+        <fptr FILEID="tiff_00095_1"/>
+        <fptr FILEID="jp2_00095_1"/>
+        <fptr FILEID="alto_00095_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_190.2" BETYPE="IDREF" FILEID="alto_00095_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_190.3" BETYPE="IDREF" FILEID="alto_00095_1"/>
+              <area BEGIN="BL_190.4" BETYPE="IDREF" FILEID="alto_00095_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="191" ORDERLABEL="189" TYPE="page">
+        <fptr FILEID="tiff_00096_0"/>
+        <fptr FILEID="jp2_00096_0"/>
+        <fptr FILEID="alto_00096_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_191.3" BETYPE="IDREF" FILEID="alto_00096_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_191.2" BETYPE="IDREF" FILEID="alto_00096_0"/>
+              <area BEGIN="BL_191.4" BETYPE="IDREF" FILEID="alto_00096_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="192" ORDERLABEL="190" TYPE="page">
+        <fptr FILEID="tiff_00096_1"/>
+        <fptr FILEID="jp2_00096_1"/>
+        <fptr FILEID="alto_00096_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_192.2" BETYPE="IDREF" FILEID="alto_00096_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_192.3" BETYPE="IDREF" FILEID="alto_00096_1"/>
+              <area BEGIN="BL_192.4" BETYPE="IDREF" FILEID="alto_00096_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="193" ORDERLABEL="191" TYPE="page">
+        <fptr FILEID="tiff_00097_0"/>
+        <fptr FILEID="jp2_00097_0"/>
+        <fptr FILEID="alto_00097_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_193.3" BETYPE="IDREF" FILEID="alto_00097_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_193.2" BETYPE="IDREF" FILEID="alto_00097_0"/>
+              <area BEGIN="BL_193.4" BETYPE="IDREF" FILEID="alto_00097_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="194" ORDERLABEL="192" TYPE="page">
+        <fptr FILEID="tiff_00097_1"/>
+        <fptr FILEID="jp2_00097_1"/>
+        <fptr FILEID="alto_00097_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_194.2" BETYPE="IDREF" FILEID="alto_00097_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_194.3" BETYPE="IDREF" FILEID="alto_00097_1"/>
+              <area BEGIN="BL_194.4" BETYPE="IDREF" FILEID="alto_00097_1"/>
+              <area BEGIN="BL_194.5" BETYPE="IDREF" FILEID="alto_00097_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="195" ORDERLABEL="193" TYPE="page">
+        <fptr FILEID="tiff_00098_0"/>
+        <fptr FILEID="jp2_00098_0"/>
+        <fptr FILEID="alto_00098_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_195.3" BETYPE="IDREF" FILEID="alto_00098_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_195.2" BETYPE="IDREF" FILEID="alto_00098_0"/>
+              <area BEGIN="BL_195.4" BETYPE="IDREF" FILEID="alto_00098_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_195.7" BETYPE="IDREF" FILEID="alto_00098_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AP0" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_193.9" BETYPE="IDREF" FILEID="alto_00097_0"/>
+            <area BEGIN="BL_194.1" BETYPE="IDREF" FILEID="alto_00097_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b188-13" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_188.13" BETYPE="IDREF" FILEID="alto_00094_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b188-7" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_188.7" BETYPE="IDREF" FILEID="alto_00094_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b188-6" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_188.6" BETYPE="IDREF" FILEID="alto_00094_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b188-5" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_188.5" BETYPE="IDREF" FILEID="alto_00094_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b188-4" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_188.4" BETYPE="IDREF" FILEID="alto_00094_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b188-9" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_188.9" BETYPE="IDREF" FILEID="alto_00094_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b188-8" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_188.8" BETYPE="IDREF" FILEID="alto_00094_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b190-9" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_190.7" BETYPE="IDREF" FILEID="alto_00095_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b191-9" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_191.9" BETYPE="IDREF" FILEID="alto_00096_0"/>
+            <area BEGIN="BL_192.1" BETYPE="IDREF" FILEID="alto_00096_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b193-6" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_193.7" BETYPE="IDREF" FILEID="alto_00097_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b193-5" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_193.6" BETYPE="IDREF" FILEID="alto_00097_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b193-4" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_193.5" BETYPE="IDREF" FILEID="alto_00097_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b191-5" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_191.5" BETYPE="IDREF" FILEID="alto_00096_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b191-7" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_191.7" BETYPE="IDREF" FILEID="alto_00096_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b191-6" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_191.6" BETYPE="IDREF" FILEID="alto_00096_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b190-6" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_190.5" BETYPE="IDREF" FILEID="alto_00095_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b190-7" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_190.6" BETYPE="IDREF" FILEID="alto_00095_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b193-7" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_193.8" BETYPE="IDREF" FILEID="alto_00097_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b189-8" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_189.9" BETYPE="IDREF" FILEID="alto_00095_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b189-9" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_189.10" BETYPE="IDREF" FILEID="alto_00095_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b190-14" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_190.12" BETYPE="IDREF" FILEID="alto_00095_1"/>
+            <area BEGIN="BL_191.1" BETYPE="IDREF" FILEID="alto_00096_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b189-3" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_189.4" BETYPE="IDREF" FILEID="alto_00095_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b192-9" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_192.9" BETYPE="IDREF" FILEID="alto_00096_1"/>
+            <area BEGIN="BL_193.1" BETYPE="IDREF" FILEID="alto_00097_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b189-6" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_189.7" BETYPE="IDREF" FILEID="alto_00095_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b189-7" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_189.8" BETYPE="IDREF" FILEID="alto_00095_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b189-4" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_189.5" BETYPE="IDREF" FILEID="alto_00095_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b189-5" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_189.6" BETYPE="IDREF" FILEID="alto_00095_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aq7" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_189.11" BETYPE="IDREF" FILEID="alto_00095_0"/>
+            <area BEGIN="BL_189.12" BETYPE="IDREF" FILEID="alto_00095_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b192-6" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_192.6" BETYPE="IDREF" FILEID="alto_00096_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b192-7" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_192.7" BETYPE="IDREF" FILEID="alto_00096_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b192-5" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_192.5" BETYPE="IDREF" FILEID="alto_00096_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b190-12" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_190.10" BETYPE="IDREF" FILEID="alto_00095_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b190-13" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_190.11" BETYPE="IDREF" FILEID="alto_00095_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b190-10" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_190.8" BETYPE="IDREF" FILEID="alto_00095_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b190-11" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_190.9" BETYPE="IDREF" FILEID="alto_00095_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b192-8" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_192.8" BETYPE="IDREF" FILEID="alto_00096_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b188-12" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_188.12" BETYPE="IDREF" FILEID="alto_00094_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b189-10" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_189.13" BETYPE="IDREF" FILEID="alto_00095_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b189-11" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_189.15" BETYPE="IDREF" FILEID="alto_00095_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b189-12" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_189.16" BETYPE="IDREF" FILEID="alto_00095_0"/>
+            <area BEGIN="BL_190.1" BETYPE="IDREF" FILEID="alto_00095_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b188-11" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_188.11" BETYPE="IDREF" FILEID="alto_00094_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b188-10" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_188.10" BETYPE="IDREF" FILEID="alto_00094_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b195-7" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_195.6" BETYPE="IDREF" FILEID="alto_00098_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b195-6" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_195.5" BETYPE="IDREF" FILEID="alto_00098_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ar_" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_189.14" BETYPE="IDREF" FILEID="alto_00095_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b194-6" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_194.6" BETYPE="IDREF" FILEID="alto_00097_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b194-7" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_194.7" BETYPE="IDREF" FILEID="alto_00097_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b191-8" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_191.8" BETYPE="IDREF" FILEID="alto_00096_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b194-8" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_194.8" BETYPE="IDREF" FILEID="alto_00097_1"/>
+            <area BEGIN="BL_195.1" BETYPE="IDREF" FILEID="alto_00098_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

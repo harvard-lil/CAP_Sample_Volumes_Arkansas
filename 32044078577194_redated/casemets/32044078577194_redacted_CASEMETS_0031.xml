@@ -1,0 +1,386 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0031" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Bryan v. State">Desmond BRYAN v. STATE of Arkansas</name>
+          <docketnumber>CR 85-165</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 125</citation>
+          <citation category="parallel" type="bluebook">702 S.W.2d 785</citation>
+          <decisiondate>1986-02-03</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:00Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00076_0" MIMETYPE="image/tiff" CHECKSUM="4b30b25b8749d7bbec1faa404e43b3f4" CHECKSUMTYPE="MD5" SIZE="27726">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00076_0.tif"/>
+      </file>
+      <file ID="tiff_00076_1" MIMETYPE="image/tiff" CHECKSUM="ce5421bd38638e099784a3b5ce3e0936" CHECKSUMTYPE="MD5" SIZE="40270">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00076_1.tif"/>
+      </file>
+      <file ID="tiff_00077_0" MIMETYPE="image/tiff" CHECKSUM="24dbc9eca3ec51f82bbf6b482b38becf" CHECKSUMTYPE="MD5" SIZE="44614">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00077_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00076_0" MIMETYPE="image/jp2" CHECKSUM="cc25e706a4c1e5fd656674d1ccaac216" CHECKSUMTYPE="MD5" SIZE="1966570">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00076_0.jp2"/>
+      </file>
+      <file ID="jp2_00076_1" MIMETYPE="image/jp2" CHECKSUM="865c0a247a701f636a268aa9a95aa16a" CHECKSUMTYPE="MD5" SIZE="2236059">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00076_1.jp2"/>
+      </file>
+      <file ID="jp2_00077_0" MIMETYPE="image/jp2" CHECKSUM="571a39badbe7ecea25df10efd76e1b6c" CHECKSUMTYPE="MD5" SIZE="2443113">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00077_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00076_0" MIMETYPE="text/xml" CHECKSUM="1772b7a0dbef4a5210f03091e1a6877b" CHECKSUMTYPE="MD5" SIZE="44068">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00076_0.xml"/>
+      </file>
+      <file ID="alto_00076_1" MIMETYPE="text/xml" CHECKSUM="4c04c95114cb6075ef8df01d22dc8979" CHECKSUMTYPE="MD5" SIZE="68568">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00076_1.xml"/>
+      </file>
+      <file ID="alto_00077_0" MIMETYPE="text/xml" CHECKSUM="61768838edeaa897096f93d2fcce4a9c" CHECKSUMTYPE="MD5" SIZE="76537">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00077_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0031" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="125" lastpage="127">
+              <court pgmap="151" id="b151-10">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="151" id="ApS">CR 85-165</docketnumber>
+              <citation pgmap="151" id="A5J">702 S.W.2d 785</citation>
+              <parties pgmap="151" id="b151-9">Desmond BRYAN v. STATE of Arkansas</parties>
+              <decisiondate pgmap="151" id="AV7">Opinion delivered February 3, 1986</decisiondate>
+              <judges pgmap="153" id="b153-10">Purtle, J., not participating.</judges>
+              <attorneys pgmap="152" id="b152-8">Atchley, Russell, Waldrop &amp; Hlavinka, by: JohnR. Mercy, for appellant.</attorneys>
+              <attorneys pgmap="152" id="b152-9">Steve Clark, Att’y Gen., by: Joel Oliver Huggins, Asst. Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="152" id="b152-10">George Rose Smith, Justice.</author>
+                <p pgmap="152" id="AmO">The appellant, Desmond Bryan, now aged 67, was charged with rape in that he had engaged in deviate sexual activity with a six-year-old boy. Ark. Stat. Ann. § 41-1803(l)(c) (Repl. 1977). The jury found Bryan guilty and imposed a life sentence. Three points for reversal are argued.</p>
+                <p pgmap="152" id="b152-11">
+                   The only evidence introduced by Bryan’s court-ap­pointed trial counsel was a report of a psychological evaluation of Bryan made in September, 1984, three months after the offense. The examining psychologist stated in his report that Bryan was vague about the various charges of sexual misconduct that had resulted in his being in prison for 11 years. It is argued that the trial court should have excluded that reference to prior offenses, even though defense counsel offered the report and made no such request. Not only was the asserted error invited by the defense, doubtless in the belief that the reference was offset by the rest of the evaluation; it was not the trial judge’s responsibility to censor the five-page report before it was admitted, by stipulation.</p>
+                <p pgmap="152(81) 153(102)" id="b152-12">A second argument questions the sufficiency of the evidence. For several weeks before the day of the offense the child’s parents had allowed him to associate with Bryan. On that day the parents were alerted by a stranger to the possibility of misconduct by Bryan. The father ran to Bryan’s nearby residence and entered the back door without knocking. Upon a bed by the door the child was lying on his back with his pants down to his knees. The father at first testified that Bryan was performing oral sex on the boy, and when the door opened “he started to raise up and . . . as he got his head about this far from what he was doing, he took his hand and wiped his mouth across like this.” When the witness was then asked if he could see whether Bryan’s mouth was actually in contact with the child’s penis, he could only say that the best picture he had in his mind was that Bryan’s mouth was about two inches above it and was in the motion of coming up.</p>
+                <p pgmap="153" id="b153-6">
+                   That evidence is sufficient to support the conviction for rape by deviate sexual activity, which must under the statute have involved a penetration, however slight, of Bryan’s mouth by the child’s penis. AMCI 1803, which was given. When the jury considered the two-inch distance described by the witness, the upward movement of Bryan’s head, and his action in wiping his mouth, the jury could have been convinced that the necessary physical contact had occurred. There was substantial evidence to support that conclusion.</p>
+                <p pgmap="153" id="b153-7">
+                   Third, the father was permitted to testify over objection that right after the occurrence he questioned his son, who made statements which the trial court admitted into evidence as excited utterances. Uniform Evidence Rule 803(2). It is now argued, as it was below, that such utterances should not have been introduced without a preliminary showing that the six-year-old child was competent to testify. No such showing was necessary, as we explained in Beal-Doyle Dry Goods Co. v. Carr, 85 Ark. 479, 108 S.W. 1053, 14 Ann. Cas. 48 (1908). The reason is that although the hearsay statement lacks the safeguard of having been made under oath, the probability of truth inherent in an excited utterance supplies a reliable safeguard.</p>
+                <p pgmap="153" id="b153-8">We find no prejudicial error in other rulings that have been brought to our attention.</p>
+                <p pgmap="153" id="b153-9">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="151" ORDERLABEL="125" TYPE="page">
+        <fptr FILEID="tiff_00076_0"/>
+        <fptr FILEID="jp2_00076_0"/>
+        <fptr FILEID="alto_00076_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_151.3" BETYPE="IDREF" FILEID="alto_00076_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="152" ORDERLABEL="126" TYPE="page">
+        <fptr FILEID="tiff_00076_1"/>
+        <fptr FILEID="jp2_00076_1"/>
+        <fptr FILEID="alto_00076_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_152.2" BETYPE="IDREF" FILEID="alto_00076_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="153" ORDERLABEL="127" TYPE="page">
+        <fptr FILEID="tiff_00077_0"/>
+        <fptr FILEID="jp2_00077_0"/>
+        <fptr FILEID="alto_00077_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_153.3" BETYPE="IDREF" FILEID="alto_00077_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b151-10" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_151.11" BETYPE="IDREF" FILEID="alto_00076_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b152-12" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_152.13" BETYPE="IDREF" FILEID="alto_00076_1"/>
+            <area BEGIN="BL_153.1" BETYPE="IDREF" FILEID="alto_00077_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A5J" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_151.10" BETYPE="IDREF" FILEID="alto_00076_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b152-11" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_152.12" BETYPE="IDREF" FILEID="alto_00076_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b152-8" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_152.7" BETYPE="IDREF" FILEID="alto_00076_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b152-9" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_152.8" BETYPE="IDREF" FILEID="alto_00076_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AmO" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_152.10" BETYPE="IDREF" FILEID="alto_00076_1"/>
+            <area BEGIN="BL_152.11" BETYPE="IDREF" FILEID="alto_00076_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b153-9" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_153.7" BETYPE="IDREF" FILEID="alto_00077_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b153-8" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_153.6" BETYPE="IDREF" FILEID="alto_00077_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b151-9" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_151.8" BETYPE="IDREF" FILEID="alto_00076_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ApS" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_151.9" BETYPE="IDREF" FILEID="alto_00076_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b153-10" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_153.8" BETYPE="IDREF" FILEID="alto_00077_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b153-6" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_153.4" BETYPE="IDREF" FILEID="alto_00077_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AV7" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_151.12" BETYPE="IDREF" FILEID="alto_00076_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b153-7" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_153.5" BETYPE="IDREF" FILEID="alto_00077_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b152-10" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_152.9" BETYPE="IDREF" FILEID="alto_00076_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

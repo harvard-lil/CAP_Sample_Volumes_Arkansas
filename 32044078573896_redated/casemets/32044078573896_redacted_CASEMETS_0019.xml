@@ -1,0 +1,400 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0019" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Barnes v. Anderson">Barnes et al. vs. Anderson</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 125</citation>
+          <decisiondate>1860-01</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00064_0" MIMETYPE="image/tiff" CHECKSUM="35b6cdc9e995fe7ba7d1a9ce2cf61053" CHECKSUMTYPE="MD5" SIZE="32706">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00064_0.tif"/>
+      </file>
+      <file ID="tiff_00064_1" MIMETYPE="image/tiff" CHECKSUM="981be18bd1d0425986bdd65bc54c522e" CHECKSUMTYPE="MD5" SIZE="51312">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00064_1.tif"/>
+      </file>
+      <file ID="tiff_00065_0" MIMETYPE="image/tiff" CHECKSUM="168b29367f3d0b0ebd06f8ef077e0c07" CHECKSUMTYPE="MD5" SIZE="29004">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00065_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00064_0" MIMETYPE="image/jp2" CHECKSUM="2b0f0424d6f5ccf1e5171528bbe52b32" CHECKSUMTYPE="MD5" SIZE="2774433">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00064_0.jp2"/>
+      </file>
+      <file ID="jp2_00064_1" MIMETYPE="image/jp2" CHECKSUM="84124d36966b3a5a2148ce56d5a4cf58" CHECKSUMTYPE="MD5" SIZE="2630279">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00064_1.jp2"/>
+      </file>
+      <file ID="jp2_00065_0" MIMETYPE="image/jp2" CHECKSUM="9d332930a9179537a73a9902995ebbd8" CHECKSUMTYPE="MD5" SIZE="2430686">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00065_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00064_0" MIMETYPE="text/xml" CHECKSUM="de80dabe91b74873796542a50c551973" CHECKSUMTYPE="MD5" SIZE="60341">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00064_0.xml"/>
+      </file>
+      <file ID="alto_00064_1" MIMETYPE="text/xml" CHECKSUM="9030fb1b1c56bb194066ae5e92a58e15" CHECKSUMTYPE="MD5" SIZE="93892">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00064_1.xml"/>
+      </file>
+      <file ID="alto_00065_0" MIMETYPE="text/xml" CHECKSUM="7e895c215c8cd99d1b6b799f14f9c273" CHECKSUMTYPE="MD5" SIZE="56613">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00065_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0019" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="127" firstpage="125">
+              <parties id="b127-4" pgmap="127">Barnes et al. vs. Anderson.</parties>
+              <attorneys id="b127-8" pgmap="127">Jordan and Trigg for the appellants.</attorneys>
+              <attorneys id="b127-9" pgmap="127">Bertrand, contra.</attorneys>
+              <summary id="b127-6" pgmap="127">Appeal from, Pulaski Circuit Court.</summary>
+              <summary id="b127-7" pgmap="127">Hon. John J. Clendenin, Circuit Judge.</summary>
+              <headnotes id="b127-5" pgmap="127">The partial failure of consideration in the quality of the land, for which the vendee­may recoup damages, in a suit for the purchase money, must be understood as embracing not only qualities essentially inherent in the lands, as fertility of soil: but also qualities evtrinsieally added, such as preparation for cultivation, or any other material improvement made upon the land.</headnotes>
+              <opinion type="majority">
+                <author id="b127-10" pgmap="127">Mr. Justice Compton</author>
+                <p id="A0j" pgmap="127">delivered the opinion of the Court.</p>
+                <p id="b127-11" pgmap="127">This was an action of debt, by Anderson against Barnes, Morris and Bradshaw, upon two writings obligatory, each for the payment of six hundred dollars.</p>
+                <p id="b127-12" pgmap="127">The only question presented by the record, is as to the suffi­ciency of the plea of partial failure of consideration, interposed by the defendant, Barnes. The plea alleges substantially as follows:</p>
+                <p id="b127-13" pgmap="127(77) 128(104)">That the writing obligatory sued' on — together with a certain other writing obligatory, for the sum of six hundred dollars,, which had been paid — was executed and delivered by Barnes and his co-defendants, for and in consideration of a certain-­tract of land sold to him by one Ringstaff, and of a certain im­provement pointed out and represented by the vendor to be upon the land, consisting of a dwelling and out houses, and. twenty-two acres of cleared land. That the vendor pointed out the land, but did not trace the lines, and the defendant Barnes, relying on the truth of the representation, was induced to make the purchase and execute the writings obligatory; when in fact, the improvement — except about two acres of ground, cleared and fenced — was not on the land, but was situate on certain other land adjoining thereto, belonging to the State, ¡and commonly called swamp land. That the improvement was ■estimated by the defendant, Barnes, at the time of the purchase, to be worth, and was worth seven hundred dollars, etc.</p>
+                <p id="b128-5" pgmap="128">The Circuit Court sustained a demurrer to the plea, and the defendant rested.</p>
+                <p id="b128-6" pgmap="128">It was held in Wheat use etc. vs. Dotson, 7 Eng. 699, that in an action on a writing obligatory, for recovery of the purchase money on the sale of real estate, a partial failure of considera­tion is the subject of recoupment, when the partial failure is in the quantity or quality of the property sold, but not when the partial failure is in the title. The counsel for the appellee, conceding the soundness of the rule, insists that the facts set up in the plea, show no failure in the quantity or quality of the land, but merely a misrepresentation as to its boundaiy, and that the appellant can have relief in a Court of equity only.</p>
+                <p id="b128-7" pgmap="128(149) 129(15)">The Court thinks differently. That the alleged false repre­sentation related to the quality of the land, we think there can be no doubt. To confine the term “ quality,” in this connection, to natural qualities, such as fertility of soil and the like, would be a narrow construction. It must be understood in a more comprehensive sense, as embracing not only qualities essen­tially inherent in the land itself, but also adventitious qualities— qualities extrinsically added, such as preparation for cultivation or any other material improvement made upon the land. This is the received sense in which the term is used when applied to realty. Thus, it is laid down, that in an “ action brought for recovery of real property, its quality should be shown; as whether it consists of houses, lands or other hereditaments, and in general it should be stated whether the lands be meadow, pasture, or arable,” etc. See Stephen on Pleading p. 296; Bouvier's Law Dictionary “ quality.”</p>
+                <p id="b129-5" pgmap="129">According to the decision of this court in Wheat use etc. vs. Dotson, supra, a party is not required to resort to a Court of equity, but may make his defence at law, except in cases where the partial failure goes to the title; and' there is nothing on the face of the plea before us which raises any question touching the title. In Sandford vs. Handy, 23 Wend. 268, which was covenant for the purchase money, the Supreme Court of New York held that the defendant might recoup the damages by showing a false representation as to the location of the land, made under circumstances and in a way calculated to mislead the defendant.</p>
+                <p id="b129-6" pgmap="129">This case is directly responsive to the argument of the counsel.</p>
+                <p id="b129-7" pgmap="129">In sustaining the demurrer to the plea, the Court erred. The judgment must therefore be reversed, and the cause remanded for further proceedings.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="127" ORDERLABEL="125" TYPE="page">
+        <fptr FILEID="tiff_00064_0"/>
+        <fptr FILEID="jp2_00064_0"/>
+        <fptr FILEID="alto_00064_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_127.2" BETYPE="IDREF" FILEID="alto_00064_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_127.1" BETYPE="IDREF" FILEID="alto_00064_0"/>
+              <area BEGIN="BL_127.3" BETYPE="IDREF" FILEID="alto_00064_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="128" ORDERLABEL="126" TYPE="page">
+        <fptr FILEID="tiff_00064_1"/>
+        <fptr FILEID="jp2_00064_1"/>
+        <fptr FILEID="alto_00064_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_128.2" BETYPE="IDREF" FILEID="alto_00064_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_128.3" BETYPE="IDREF" FILEID="alto_00064_1"/>
+              <area BEGIN="BL_128.4" BETYPE="IDREF" FILEID="alto_00064_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="129" ORDERLABEL="127" TYPE="page">
+        <fptr FILEID="tiff_00065_0"/>
+        <fptr FILEID="jp2_00065_0"/>
+        <fptr FILEID="alto_00065_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_129.3" BETYPE="IDREF" FILEID="alto_00065_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_129.2" BETYPE="IDREF" FILEID="alto_00065_0"/>
+              <area BEGIN="BL_129.4" BETYPE="IDREF" FILEID="alto_00065_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_129.8" BETYPE="IDREF" FILEID="alto_00065_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b127-9" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_127.9" BETYPE="IDREF" FILEID="alto_00064_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b129-6" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_129.6" BETYPE="IDREF" FILEID="alto_00065_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b127-10" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_127.10" BETYPE="IDREF" FILEID="alto_00064_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b127-11" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_127.12" BETYPE="IDREF" FILEID="alto_00064_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b127-12" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_127.13" BETYPE="IDREF" FILEID="alto_00064_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b127-13" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_127.14" BETYPE="IDREF" FILEID="alto_00064_0"/>
+            <area BEGIN="BL_128.1" BETYPE="IDREF" FILEID="alto_00064_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b129-7" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_129.7" BETYPE="IDREF" FILEID="alto_00065_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b128-5" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_128.5" BETYPE="IDREF" FILEID="alto_00064_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b128-7" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_128.7" BETYPE="IDREF" FILEID="alto_00064_1"/>
+            <area BEGIN="BL_129.1" BETYPE="IDREF" FILEID="alto_00065_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b128-6" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_128.6" BETYPE="IDREF" FILEID="alto_00064_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b127-6" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_127.6" BETYPE="IDREF" FILEID="alto_00064_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b127-7" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_127.7" BETYPE="IDREF" FILEID="alto_00064_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b127-4" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_127.4" BETYPE="IDREF" FILEID="alto_00064_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b127-5" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_127.5" BETYPE="IDREF" FILEID="alto_00064_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b127-8" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_127.8" BETYPE="IDREF" FILEID="alto_00064_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A0j" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_127.11" BETYPE="IDREF" FILEID="alto_00064_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b129-5" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_129.5" BETYPE="IDREF" FILEID="alto_00065_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

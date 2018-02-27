@@ -1,0 +1,486 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0113" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Collier v. Hershey">Collier vs. Hershey</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 482</citation>
+          <decisiondate>1860-07</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00242_1" MIMETYPE="image/tiff" CHECKSUM="1725e5549edba0d42494f7a547e1d6d2" CHECKSUMTYPE="MD5" SIZE="34246">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00242_1.tif"/>
+      </file>
+      <file ID="tiff_00243_0" MIMETYPE="image/tiff" CHECKSUM="25b7c4e834923463db0771587297faa6" CHECKSUMTYPE="MD5" SIZE="45812">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00243_0.tif"/>
+      </file>
+      <file ID="tiff_00243_1" MIMETYPE="image/tiff" CHECKSUM="3807e814c57c74c26e52018256e50b1a" CHECKSUMTYPE="MD5" SIZE="47116">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00243_1.tif"/>
+      </file>
+      <file ID="tiff_00244_0" MIMETYPE="image/tiff" CHECKSUM="5b64396c3cb7f3b652972870df567c20" CHECKSUMTYPE="MD5" SIZE="26660">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00244_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00242_1" MIMETYPE="image/jp2" CHECKSUM="e4a958e3feb769972a50c0731831877a" CHECKSUMTYPE="MD5" SIZE="2397939">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00242_1.jp2"/>
+      </file>
+      <file ID="jp2_00243_0" MIMETYPE="image/jp2" CHECKSUM="4c0dd97b0f46d4edbe06b947c6d7df84" CHECKSUMTYPE="MD5" SIZE="2522574">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00243_0.jp2"/>
+      </file>
+      <file ID="jp2_00243_1" MIMETYPE="image/jp2" CHECKSUM="f7377fa3e5153ab242796b7a4bfca626" CHECKSUMTYPE="MD5" SIZE="2503762">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00243_1.jp2"/>
+      </file>
+      <file ID="jp2_00244_0" MIMETYPE="image/jp2" CHECKSUM="a03fee8a37dc530e0659d5bde89321cb" CHECKSUMTYPE="MD5" SIZE="2382307">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00244_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00242_1" MIMETYPE="text/xml" CHECKSUM="8c4d03ef46fc8ea8449a9626445cdbe9" CHECKSUMTYPE="MD5" SIZE="73160">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00242_1.xml"/>
+      </file>
+      <file ID="alto_00243_0" MIMETYPE="text/xml" CHECKSUM="a09281c8c6d091234e9cc0e991f40127" CHECKSUMTYPE="MD5" SIZE="88394">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00243_0.xml"/>
+      </file>
+      <file ID="alto_00243_1" MIMETYPE="text/xml" CHECKSUM="bf20fb51366b11db374e48c0f37bac83" CHECKSUMTYPE="MD5" SIZE="90791">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00243_1.xml"/>
+      </file>
+      <file ID="alto_00244_0" MIMETYPE="text/xml" CHECKSUM="74311582bfc5b96cfe1023d92a80e557" CHECKSUMTYPE="MD5" SIZE="51634">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00244_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0113" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="485" firstpage="482">
+              <parties id="b484-4" pgmap="484">Collier vs. Hershey.</parties>
+              <attorneys id="b484-9" pgmap="484">S. F. Clark, for appellant,</attorneys>
+              <summary id="b484-7" pgmap="484">Appeal from Johnson Circuit Court.</summary>
+              <summary id="b484-8" pgmap="484">Hon. Felix I. Batson Circuit Judge.</summary>
+              <summary id="A43" pgmap="484">contended that the ignorance of the defendant of the canceling of the trade for the sale of the note to Houston was no defence as to the amount paid to him by the defendant; that the debt was as much due to Sellars, at the time of the transfer to Sadler, as if the note had never been assigned, or had been re-assigned to him, and the transfer to Sadler cannot affect the case, because the debt was bound by the garnishment’previous to the transfer.</summary>
+              <headnotes id="b484-5" pgmap="484">A payment by the maker of a note to the assignee, where he has been notified of the assignment before a writ of garnishment, on a judgment against the payee, has been served upon him, will bo hold to have been made in good faith, though the contract of assignment may have been rescinded, in the absence of proof of notice of such reseisiou.</headnotes>
+              <headnotes id="b484-6" pgmap="484">Where after assignment of a note the contract of assignment is rescinded, but the note remains in the hands of the assignee, without re-assignment, the legal title is in him, but the equitable title is in the assignor, who cannot transfer it after service of a writ of garnishment upon the maker, so as to defeat the garnishment.</headnotes>
+              <opinion type="majority">
+                <author id="b484-10" pgmap="484">Mr. Chief Justice English</author>
+                <p id="AdR" pgmap="484">delivered the opinion of the Court. On the J 7th of September, 1857, Collier obtained a judgment against Sellars in the Circuit Court of Johnson counly; and on the 6th of October following, he caused a. garnishment to be issued against Hershey, which was served upon him on the same day.</p>
+                <p id="b484-11" pgmap="484(10) 485(97)">At the return term (March, 1858,) in response to allegations and interrogatories filed by Collier, Hershey answered that he was not indebted to Sellars at the time of the service of the writ. That on the 17th day of September, 1857, he executed his note to Sellars for $500, which Sellars' assigned to John S. Houston before the service of the writ, and of which assign­ment Houston notified respondent. That on the 4th of Decem­be, 1857, and, after the service of the writ, he paid to Houston $137 00, which was indorsed by him as a credit upon the note, and the remainder was unpaid.</p>
+                <p id="b485-5" pgmap="485">At the September term, 1858, the truth of the answer being in issue, the causé was submitted to the court, sitting as a jury, upon the following evidence:</p>
+                <p id="b485-6" pgmap="485">On the 17th of September, 1857, (the day on which Collier obtained judgment against Sellars) Hershey.bought of Sellars a Jack, for which he gave him his note for $500. On the same day, Sellars sold the note to Houston for $400, and assigned and delivered it to him. About three days afterwards, Hous­ton hearing of the judgment against Sellars, and apprehensive that he might have trouble in the matter, rescinded with Sel­lars the contract of sale and transfer of the note, Sellars paid him back the $400 which he gave for the note; and it was agreed between them that the note from that time belonged to Sellars. That the note remained in the possession of Houston until sometime in the month of June, 1858, when Sellars directed him to transfer it to one Sadler, which Houston did accordingly, and at the time endorsed on the back of the note the words: “ Pay to Rufus C. Sadler, without recourse on me.”</p>
+                <p id="b485-7" pgmap="485">The contract by which Sellars sold and transferred the note to Houston, was rescinded before the service of the writ of garnishment.</p>
+                <p id="b485-8" pgmap="485">Sometime in December, 1857, Hershey paid to Plouston on the note $137, which Houston endorsed as a credit thereon, and paid the money over to Sellars.</p>
+                <p id="b485-9" pgmap="485(24) 486(20)">Upon the above evidence the court found in favor of Hershey, and he was discharged — Collier moved for a new trial, on the grounds that the finding was contrary to law and evidence, the court overruled the motion and he excepted, and appealed.</p>
+                <p id="b486-4" pgmap="486">1. The note was assigned by Sellars to Houston, and Hershey, notified of the assignment, before the service of the writ of garnishment. After the service of the writ, the note still being in‘the possession of Houston, with the assignment upon it, Hershey paid to him $137 upon the note, which was endorsed as a credit thereon by Houston. There is no proof that at the time Hershey made the payment, he had any knowledge that the contract by which Sellars sold and transferred the note to Houston, had been rescinded by an arrangement between them.</p>
+                <p id="b486-5" pgmap="486">Under such circumstances he must be held to have made the payment to Houston, the holder of the note, in good faith, and to be discharged pro tanto from further liability. Story on Bills, sec. 415-10.</p>
+                <p id="b486-6" pgmap="486">2. The balance of the note remained unpaid to the time of the trial, and why should not Collier have had judgment against Hershey, for the sum still due upon the note. It was proven upon the trial that, at the time of the service of the writ of garnishment, the debt was really due to Sellars, though the note remained in the possession of Houston, and he held the naked legal title thereto, not having re-assigned it to Sellars. By the service of the writ, a lien was fixed upon the debt, in the hands of Hershey, in favor of Collier. Long after the lien was so fixed, Sellars directed the note to be transferred to Sadler. If Sadler really purchased the note, he bought it of Sellars, after the debt was attached by a public proceeding in court, and pur­chased at his peril. The holder of a note cannot transfer it after the maker has been garnisheed, so as to cut off the garnish­ment; if he could, the process of garnishment would become, in most cases, fruitless.</p>
+                <p id="b486-7" pgmap="486">We think it is clearly to be inferred from the evidence, that Sadler purchased the note of Sellars, and not of Houston, if he purchased it at all, because the evidence is that Sellars directed Houston to transfer the note to Sadler.</p>
+                <p id="b487-3" pgmap="487">If Sadler had purchased the note of Houston, who was in possession of it, under an assignment made prior to the service of the garnishment, and had made such purchase without notice of the recision of the contract by which Sellars sold and trans­ferred the note to Houston, he might have been an innocent purchaser entitled to protection.</p>
+                <p id="b487-4" pgmap="487">Upon the facts of the case proven upon the trial, and ás be­tween the parties before the court, we think Collier was enti­tled to judgment against Hershey for the balance due on the note.</p>
+                <p id="b487-5" pgmap="487">The judgment must be reversed, and the cause remanded with instructions to grant appellant a new trial.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="484" ORDERLABEL="482" TYPE="page">
+        <fptr FILEID="tiff_00242_1"/>
+        <fptr FILEID="jp2_00242_1"/>
+        <fptr FILEID="alto_00242_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_484.1" BETYPE="IDREF" FILEID="alto_00242_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_484.2" BETYPE="IDREF" FILEID="alto_00242_1"/>
+              <area BEGIN="BL_484.3" BETYPE="IDREF" FILEID="alto_00242_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="485" ORDERLABEL="483" TYPE="page">
+        <fptr FILEID="tiff_00243_0"/>
+        <fptr FILEID="jp2_00243_0"/>
+        <fptr FILEID="alto_00243_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_485.3" BETYPE="IDREF" FILEID="alto_00243_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_485.2" BETYPE="IDREF" FILEID="alto_00243_0"/>
+              <area BEGIN="BL_485.4" BETYPE="IDREF" FILEID="alto_00243_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="486" ORDERLABEL="484" TYPE="page">
+        <fptr FILEID="tiff_00243_1"/>
+        <fptr FILEID="jp2_00243_1"/>
+        <fptr FILEID="alto_00243_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_486.2" BETYPE="IDREF" FILEID="alto_00243_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_486.3" BETYPE="IDREF" FILEID="alto_00243_1"/>
+              <area BEGIN="BL_486.4" BETYPE="IDREF" FILEID="alto_00243_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="487" ORDERLABEL="485" TYPE="page">
+        <fptr FILEID="tiff_00244_0"/>
+        <fptr FILEID="jp2_00244_0"/>
+        <fptr FILEID="alto_00244_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_487.2" BETYPE="IDREF" FILEID="alto_00244_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_487.1" BETYPE="IDREF" FILEID="alto_00244_0"/>
+              <area BEGIN="BL_487.3" BETYPE="IDREF" FILEID="alto_00244_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_487.7" BETYPE="IDREF" FILEID="alto_00244_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b485-7" BETYPE="IDREF" FILEID="casebody_0113"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_485.7" BETYPE="IDREF" FILEID="alto_00243_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b485-6" BETYPE="IDREF" FILEID="casebody_0113"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_485.6" BETYPE="IDREF" FILEID="alto_00243_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b487-3" BETYPE="IDREF" FILEID="casebody_0113"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_487.4" BETYPE="IDREF" FILEID="alto_00244_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b487-5" BETYPE="IDREF" FILEID="casebody_0113"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_487.6" BETYPE="IDREF" FILEID="alto_00244_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b487-4" BETYPE="IDREF" FILEID="casebody_0113"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_487.5" BETYPE="IDREF" FILEID="alto_00244_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AdR" BETYPE="IDREF" FILEID="casebody_0113"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_484.13" BETYPE="IDREF" FILEID="alto_00242_1"/>
+            <area BEGIN="BL_484.14" BETYPE="IDREF" FILEID="alto_00242_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b486-4" BETYPE="IDREF" FILEID="casebody_0113"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_486.5" BETYPE="IDREF" FILEID="alto_00243_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b486-5" BETYPE="IDREF" FILEID="casebody_0113"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_486.6" BETYPE="IDREF" FILEID="alto_00243_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b486-6" BETYPE="IDREF" FILEID="casebody_0113"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_486.7" BETYPE="IDREF" FILEID="alto_00243_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b486-7" BETYPE="IDREF" FILEID="casebody_0113"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_486.8" BETYPE="IDREF" FILEID="alto_00243_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b485-5" BETYPE="IDREF" FILEID="casebody_0113"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_485.5" BETYPE="IDREF" FILEID="alto_00243_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b485-9" BETYPE="IDREF" FILEID="casebody_0113"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_485.9" BETYPE="IDREF" FILEID="alto_00243_0"/>
+            <area BEGIN="BL_486.1" BETYPE="IDREF" FILEID="alto_00243_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b485-8" BETYPE="IDREF" FILEID="casebody_0113"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_485.8" BETYPE="IDREF" FILEID="alto_00243_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b484-10" BETYPE="IDREF" FILEID="casebody_0113"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_484.12" BETYPE="IDREF" FILEID="alto_00242_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b484-11" BETYPE="IDREF" FILEID="casebody_0113"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_484.15" BETYPE="IDREF" FILEID="alto_00242_1"/>
+            <area BEGIN="BL_485.1" BETYPE="IDREF" FILEID="alto_00243_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A43" BETYPE="IDREF" FILEID="casebody_0113"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_484.10" BETYPE="IDREF" FILEID="alto_00242_1"/>
+            <area BEGIN="BL_484.11" BETYPE="IDREF" FILEID="alto_00242_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b484-8" BETYPE="IDREF" FILEID="casebody_0113"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_484.8" BETYPE="IDREF" FILEID="alto_00242_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b484-9" BETYPE="IDREF" FILEID="casebody_0113"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_484.9" BETYPE="IDREF" FILEID="alto_00242_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b484-6" BETYPE="IDREF" FILEID="casebody_0113"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_484.6" BETYPE="IDREF" FILEID="alto_00242_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b484-7" BETYPE="IDREF" FILEID="casebody_0113"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_484.7" BETYPE="IDREF" FILEID="alto_00242_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b484-4" BETYPE="IDREF" FILEID="casebody_0113"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_484.4" BETYPE="IDREF" FILEID="alto_00242_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b484-5" BETYPE="IDREF" FILEID="casebody_0113"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_484.5" BETYPE="IDREF" FILEID="alto_00242_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

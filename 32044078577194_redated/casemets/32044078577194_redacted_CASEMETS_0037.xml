@@ -1,0 +1,486 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0037" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Johnson v. Hicks">Bobby Joe JOHNSON v. Robert HICKS</name>
+          <docketnumber>85-229</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 158</citation>
+          <citation category="parallel" type="bluebook">702 S.W.2d 797</citation>
+          <decisiondate>1986-02-03</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:00Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00092_1" MIMETYPE="image/tiff" CHECKSUM="36310023cf6964d8b2190e3a9ab0b1c0" CHECKSUMTYPE="MD5" SIZE="12968">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00092_1.tif"/>
+      </file>
+      <file ID="tiff_00093_0" MIMETYPE="image/tiff" CHECKSUM="ad7b83c2a10b7909a70b953693d646d2" CHECKSUMTYPE="MD5" SIZE="27484">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00093_0.tif"/>
+      </file>
+      <file ID="tiff_00093_1" MIMETYPE="image/tiff" CHECKSUM="32387b95ede7910ac33345ab1a39c187" CHECKSUMTYPE="MD5" SIZE="50142">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00093_1.tif"/>
+      </file>
+      <file ID="tiff_00094_0" MIMETYPE="image/tiff" CHECKSUM="18ad1e265bb1783a169537b405a18509" CHECKSUMTYPE="MD5" SIZE="55470">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00094_0.tif"/>
+      </file>
+      <file ID="tiff_00094_1" MIMETYPE="image/tiff" CHECKSUM="ce9597356b6b9e0ef97700e28b30b2e3" CHECKSUMTYPE="MD5" SIZE="12938">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00094_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00092_1" MIMETYPE="image/jp2" CHECKSUM="b486926cb013c9c4a64602b56534e4b2" CHECKSUMTYPE="MD5" SIZE="1587977">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00092_1.jp2"/>
+      </file>
+      <file ID="jp2_00093_0" MIMETYPE="image/jp2" CHECKSUM="0ad1b3d7a16b6eae09c92aef99046bc1" CHECKSUMTYPE="MD5" SIZE="1814888">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00093_0.jp2"/>
+      </file>
+      <file ID="jp2_00093_1" MIMETYPE="image/jp2" CHECKSUM="832c0e43158f2cdeb9a8c5c534b6d0f1" CHECKSUMTYPE="MD5" SIZE="2500652">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00093_1.jp2"/>
+      </file>
+      <file ID="jp2_00094_0" MIMETYPE="image/jp2" CHECKSUM="cc440fac115c867c2990730589d644d4" CHECKSUMTYPE="MD5" SIZE="2798440">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00094_0.jp2"/>
+      </file>
+      <file ID="jp2_00094_1" MIMETYPE="image/jp2" CHECKSUM="0b3430b5765767cdc1331bd7b8f49fbb" CHECKSUMTYPE="MD5" SIZE="1496649">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00094_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00092_1" MIMETYPE="text/xml" CHECKSUM="1dc3be68848ee6ac2d8e19a1a5161a99" CHECKSUMTYPE="MD5" SIZE="20310">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00092_1.xml"/>
+      </file>
+      <file ID="alto_00093_0" MIMETYPE="text/xml" CHECKSUM="4b855e8fc7c018f1b374ad99f5cc56a2" CHECKSUMTYPE="MD5" SIZE="43938">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00093_0.xml"/>
+      </file>
+      <file ID="alto_00093_1" MIMETYPE="text/xml" CHECKSUM="5b11385c66fd23b1113112dbe6d70580" CHECKSUMTYPE="MD5" SIZE="86661">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00093_1.xml"/>
+      </file>
+      <file ID="alto_00094_0" MIMETYPE="text/xml" CHECKSUM="e11d29dca533916267886df192b57ecc" CHECKSUMTYPE="MD5" SIZE="90791">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00094_0.xml"/>
+      </file>
+      <file ID="alto_00094_1" MIMETYPE="text/xml" CHECKSUM="2501e584781585229e5cce04d1a0bcb6" CHECKSUMTYPE="MD5" SIZE="20682">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00094_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0037" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="158" lastpage="162">
+              <court pgmap="184" id="b184-10">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="184" id="b184-9">85-229</docketnumber>
+              <citation pgmap="184" id="Ard">702 S.W.2d 797</citation>
+              <parties pgmap="184" id="b184-8">Bobby Joe JOHNSON v. Robert HICKS</parties>
+              <decisiondate pgmap="184" id="Alb">Opinion delivered February 3, 1986</decisiondate>
+              <judges pgmap="188" id="b188-7">Purtle, J., not participating.</judges>
+              <attorneys pgmap="185" id="b185-10">Guthrie, Burbank, Dodson &amp; McDonald, by: David E. Guthrie, for appellant.</attorneys>
+              <attorneys pgmap="185" id="b185-11">Bill J. Davis, for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="185" id="b185-12">Robert H. Dudley, Justice.</author>
+                <p pgmap="185" id="AFZ">On July 18, 1984, appellant, Bobby Joe Johnson, was charged with a felony. His bond was set at $100,000.00. Appellant contacted a local commercial bonds­man, but he was unable to write a bond in excess of $25,000.00. The commercial bondsman referred appellant to the appellee, Robert Hicks, who agreed to post the bond for a fee of $6,800.00. Appellant paid the fee, and appellee posted the bond.</p>
+                <p pgmap="185" id="b185-13">Subsequently, on September 17, 1984, appellant, a felon, was arrested on the felony charge of being in possession of a weapon, a .357 magnum pistol, and for driving while intoxicated. While appellant was incarcerated on the new charges, appellee surrendered him on the original bond and asked to be exonerated and discharged from the bond.</p>
+                <p pgmap="185(33) 186(7)" id="b185-14">Appellant made a motion in the criminal case for a refund of the $6,800.00 premium. The motion was apparently oral as the only pleading contained in the record is the information. The trial court denied relief to appellant. We affirm.</p>
+                <p pgmap="186" id="b186-6">Appellant first argues that our holding in Troutt v. Langston and Robinson, 283 Ark. 220, 675 S.W.2d 625 (1984) requires the refund of the entire premium, as a matter of law. The argument is based upon a misunderstanding of the case and, in effect, asks us to hold that the execution of a bail bond constitutes an implied contract that the bondsman will keep the defendant at liberty until his case is called for trial, and breach of that implied contract entitles the defendant to a refund of the premium. We decline to so hold.</p>
+                <p pgmap="186" id="b186-7">
+                   The surety on a bail bond may, at his discretion, apprehend and surrender the defendant. Ark. Stat. Ann. § 43-716 (Repl. 1977). The surrender of the defendant may be either with or without cause. If the surrender is without cause, the contract for bond implies that the bondsman must return the premium. Troutt v. Langston and Robinson, supra. However, if the surrender is with cause, there is no implied contract to return the fee.</p>
+                <p pgmap="186" id="b186-8">
+                   When a bondsman has reasonable cause to believe that a defendant has committed a felony while released on bond, he has cause to surrender the defendant. Cf. A.R.Cr.P. Rule 9.6. (Rule 9.6 provides for revocation of release by a court under similar circumstances.) The defendant in this case, appellant, was arrested for committing a felony while released on bond. Therefore, it is not necessary, as a matter of implied contract, for the premium to be returned.</p>
+                <p pgmap="186" id="b186-9">
+                   Appellant next argues that the bond contract in this case did not, in fact, provide that he would be liable for the premium if the bondsman surrendered him with cause. The argument is without merit. There was substantial evidence from which the trial court could find such liability on the part of appellant. The application for bail bond, which appellant exe­cuted, provides in part:</p>
+                <blockquote pgmap="186(50) 187(50)" id="b186-10">I further agree and understand that I will not leave the jurisdiction of the court without the permission of the bondsman; not commit any further offenses that will subject me to any subsequent arrest by any authority; nor fail to pay any premium due; and I will notify promptly my bondsman of any change of address and carefully comply with all specific instructions given me by the bondsman; FURTHER, I understand and agree that failure to comply with any of the herein contained conditions shall be cause for my immediate surrender without any liability for the return of any premium.</blockquote>
+                <blockquote pgmap="187" id="b187-6">(Emphasis added.)</blockquote>
+                <p pgmap="187" id="b187-7">In addition, the bondsman testified that the appellant knew the amount of the premium and understood from their discussion that if appellant violated the law the bond would be revoked.</p>
+                <p pgmap="187(301) 188(37)" id="b187-8">
+                   We do not decide the remaining point on appeal. The record reflects that no written pleading, other than the informa­tion charging the appellant, was filed. The record, which is composed of the criminal case file and the transcript of this hearing, does not contain any agreement between the attorneys and the trial court about the issues to be tried. The transcript contains the following caption: “Hearing on Motion for Return of Bond Premium before Honorable John M. Graves, Judge, Octo­ber 4, 1984; Bobby Joe Johnson, plaintiff, and Robert Hicks, respondent.” At the hearing, appellant testified that he paid the $6,800.00 premium in cash, but that appellee claimed the cash amounted only to $5,800.00, which forced appellant to pay an extra $1,000.00. The ensuing colloquy established that appel­lant’s attorney only learned of the $1,000.00 claim by appellant on the day before the hearing. He did not notify appellee’s attorney. Appellee’s attorney claimed surprise and gave the name of a witness he would have called if he had known the alleged $1,000.00 overcharge was to be an issue. He then moved for a continuance. The court sustained the objection stating that he did not have jurisdiction over the $1,000.00 claim. Appellant’s attorney responded, “Very Well” and “Okay.” In this Court, appellant seeks to reverse the trial court on the complex issue of whether a criminal court has jurisdiction, to the exclusion of a civil court with a jury, to determine whether there was an overcharge in premium by a third party bondsman. We decline to decide the issue. We will not decide an issue if there were no written pleadings before the trial court; neither the opposing side nor the court was in any manner apprised of an issue; the point was only superficially mentioned at the hearing; and counsel raising the issue then assents to the ruling. To rule otherwise would allow an attorney to lay a minefield of traps for appeal concerning points which were not anticipated and for which preparation could not be made.</p>
+                <p pgmap="188" id="b188-6">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="184" ORDERLABEL="158" TYPE="page">
+        <fptr FILEID="tiff_00092_1"/>
+        <fptr FILEID="jp2_00092_1"/>
+        <fptr FILEID="alto_00092_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_184.1" BETYPE="IDREF" FILEID="alto_00092_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="185" ORDERLABEL="159" TYPE="page">
+        <fptr FILEID="tiff_00093_0"/>
+        <fptr FILEID="jp2_00093_0"/>
+        <fptr FILEID="alto_00093_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_185.3" BETYPE="IDREF" FILEID="alto_00093_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="186" ORDERLABEL="160" TYPE="page">
+        <fptr FILEID="tiff_00093_1"/>
+        <fptr FILEID="jp2_00093_1"/>
+        <fptr FILEID="alto_00093_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_186.2" BETYPE="IDREF" FILEID="alto_00093_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="187" ORDERLABEL="161" TYPE="page">
+        <fptr FILEID="tiff_00094_0"/>
+        <fptr FILEID="jp2_00094_0"/>
+        <fptr FILEID="alto_00094_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_187.3" BETYPE="IDREF" FILEID="alto_00094_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="188" ORDERLABEL="162" TYPE="page">
+        <fptr FILEID="tiff_00094_1"/>
+        <fptr FILEID="jp2_00094_1"/>
+        <fptr FILEID="alto_00094_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_188.2" BETYPE="IDREF" FILEID="alto_00094_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b185-10" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_185.8" BETYPE="IDREF" FILEID="alto_00093_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b185-11" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_185.9" BETYPE="IDREF" FILEID="alto_00093_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b185-12" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_185.10" BETYPE="IDREF" FILEID="alto_00093_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b185-13" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_185.13" BETYPE="IDREF" FILEID="alto_00093_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b185-14" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_185.14" BETYPE="IDREF" FILEID="alto_00093_0"/>
+            <area BEGIN="BL_186.1" BETYPE="IDREF" FILEID="alto_00093_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b186-10" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_186.8" BETYPE="IDREF" FILEID="alto_00093_1"/>
+            <area BEGIN="BL_187.1" BETYPE="IDREF" FILEID="alto_00094_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b187-8" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_187.6" BETYPE="IDREF" FILEID="alto_00094_0"/>
+            <area BEGIN="BL_188.1" BETYPE="IDREF" FILEID="alto_00094_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AFZ" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_185.11" BETYPE="IDREF" FILEID="alto_00093_0"/>
+            <area BEGIN="BL_185.12" BETYPE="IDREF" FILEID="alto_00093_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b188-7" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_188.5" BETYPE="IDREF" FILEID="alto_00094_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b187-7" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_187.5" BETYPE="IDREF" FILEID="alto_00094_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b186-9" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_186.7" BETYPE="IDREF" FILEID="alto_00093_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ard" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_184.9" BETYPE="IDREF" FILEID="alto_00092_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b186-8" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_186.6" BETYPE="IDREF" FILEID="alto_00093_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b187-6" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_187.4" BETYPE="IDREF" FILEID="alto_00094_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b184-9" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_184.8" BETYPE="IDREF" FILEID="alto_00092_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b184-8" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_184.7" BETYPE="IDREF" FILEID="alto_00092_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b184-10" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_184.10" BETYPE="IDREF" FILEID="alto_00092_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Alb" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_184.11" BETYPE="IDREF" FILEID="alto_00092_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b188-6" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_188.4" BETYPE="IDREF" FILEID="alto_00094_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b186-7" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_186.5" BETYPE="IDREF" FILEID="alto_00093_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b186-6" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_186.4" BETYPE="IDREF" FILEID="alto_00093_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

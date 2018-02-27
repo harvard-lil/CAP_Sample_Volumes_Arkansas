@@ -1,0 +1,374 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0124" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Zajac v. Missouri Pacific Railroad">Mary Maxine ZAJAC, Administratrix v. MISSOURI PACIFIC RAILROAD et al.</name>
+          <docketnumber>85-289</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 511</citation>
+          <citation category="parallel" type="bluebook">707 S.W.2d 309</citation>
+          <decisiondate>1986-04-14</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:01Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00275_0" MIMETYPE="image/tiff" CHECKSUM="6110960af81ea2055140a1f688292515" CHECKSUMTYPE="MD5" SIZE="23728">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00275_0.tif"/>
+      </file>
+      <file ID="tiff_00275_1" MIMETYPE="image/tiff" CHECKSUM="a7438f65e142391d2883126b41933b2f" CHECKSUMTYPE="MD5" SIZE="54432">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00275_1.tif"/>
+      </file>
+      <file ID="tiff_00276_0" MIMETYPE="image/tiff" CHECKSUM="4244c9686e1006c980e8c8aa79b1226a" CHECKSUMTYPE="MD5" SIZE="13928">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00276_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00275_0" MIMETYPE="image/jp2" CHECKSUM="9f66919caed7902948c9e8f537189d50" CHECKSUMTYPE="MD5" SIZE="1953024">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00275_0.jp2"/>
+      </file>
+      <file ID="jp2_00275_1" MIMETYPE="image/jp2" CHECKSUM="497374c26ca91680296fb33348806846" CHECKSUMTYPE="MD5" SIZE="2559354">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00275_1.jp2"/>
+      </file>
+      <file ID="jp2_00276_0" MIMETYPE="image/jp2" CHECKSUM="82e9fed413764c6fa811cbfb07a70fda" CHECKSUMTYPE="MD5" SIZE="1643021">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00276_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00275_0" MIMETYPE="text/xml" CHECKSUM="5acac3f3779512ef8709a783211adb3f" CHECKSUMTYPE="MD5" SIZE="38262">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00275_0.xml"/>
+      </file>
+      <file ID="alto_00275_1" MIMETYPE="text/xml" CHECKSUM="b972db575e4163527af758ca3cb58870" CHECKSUMTYPE="MD5" SIZE="96468">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00275_1.xml"/>
+      </file>
+      <file ID="alto_00276_0" MIMETYPE="text/xml" CHECKSUM="8e77fc200656c7b5fab68be13a7d177b" CHECKSUMTYPE="MD5" SIZE="19638">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00276_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0124" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="511" lastpage="513">
+              <court pgmap="549" id="b549-4">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="549" id="b549-3">85-289</docketnumber>
+              <citation pgmap="549" id="AU3">707 S.W.2d 309</citation>
+              <parties pgmap="549" id="b549-2">Mary Maxine ZAJAC, Administratrix v. MISSOURI PACIFIC RAILROAD et al.</parties>
+              <decisiondate pgmap="549" id="A04">Opinion delivered April 14, 1986</decisiondate>
+              <judges pgmap="551" id="b551-7">Purtle, J., not participating.</judges>
+              <attorneys pgmap="549" id="b549-8">The Haskins &amp; Hendricks Law Firm, by: Clark W. Mason, for appellant.</attorneys>
+              <attorneys pgmap="549" id="b549-9">Friday, Eldredge &amp; Clark, by: James M. Simpson and C. Tab Turner, for appellees.</attorneys>
+              <opinion type="majority">
+                <author pgmap="549" id="b549-10">George Rose Smith, Justice.</author>
+                <p pgmap="549(96) 550(25)" id="AGT">This action for the wrongful death of Thomas Albert Zajac arose from a crossing accident in Pulaski County in September, 1984. Zajac was killed. The jury’s verdict after a five-day trial was for the defendant. The only argument for reversal is that the trial judge should not have given a modified version of AMI 908, by which the jury was instructed that no person shall drive on any highway a vehicle which is in such an unsafe condition as to endanger any person. AMI Civil 2d, 908 (1974). It is contended that there was no substantial evidence to support a finding that the mechanical condition of Zajac’s pickup truck was a proximate cause of his death. We cannot sustain that contention.</p>
+                <p pgmap="550" id="b550-6">The only two eyewitnesses who described the accident were members of the train crew. The brakeman, who was sitting on the left in the lead engine, had the clearer view. At a distance of 300 feet he saw the pickup slowly approaching the crossing from the left. It crept up on the track and stalled or stopped right in the middle of the track. The emergency brakes were applied, but it was too late to stop the train, which was about a mile long. At first the driver of the truck was looking straight ahead, but a few seconds before the impact he looked at the train. The brakeman testified: “It looked like he was either downshifting — he took the lever and went up with it the last time I seen him.”</p>
+                <p pgmap="550" id="b550-7">The decedent, Tommy Zajac, had been about high-school age. One of his friends testified that Tommy had a problem with the gears in his truck. Occasionally the shifter would hang up when he was going into another gear. It didn’t happen much, but when it did Tommy had to stop and reach under the hood to unjam the linkage. When the trouble occurred, Tommy would try to wiggle the gear shift knob to get it into gear. This witness had seen the gears hang up a day or two before the accident.</p>
+                <p pgmap="550" id="b550-8">Tommy’s girlfriend, who said she and Tommy were planning to be married, was familiar with the gearshift problem. She said that Tommy bought a part for the problem and that he and his father fixed it on the day before the accident. She and Tommy then went for a ride and had no problems. They assumed it was fixed. On cross examination she admitted that in a deposition she had said that the truck was fixed “sometime during the two weeks before he got killed.” She explained that she just couldn’t remember then, but she thought back about it and remembered that it had been the day before the accident.</p>
+                <p pgmap="550(52) 551(37)" id="b550-9">
+                   It was for the jury to decide whether the gearshift defect contributed to the accident. According to the brakeman, young Zajac’s truck stalled on the track. In the last few seconds Zajac saw the approaching train and was working with the gearshift lever just before the impact. Upon all the testimony the jury could have found that the truck stalled on the track because the malfunctioning of the gearshift had not been repaired. It was accordingly proper for the court to give the instruction about which complaint is made.</p>
+                <p pgmap="551" id="b551-6">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="549" ORDERLABEL="511" TYPE="page">
+        <fptr FILEID="tiff_00275_0"/>
+        <fptr FILEID="jp2_00275_0"/>
+        <fptr FILEID="alto_00275_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_549.2" BETYPE="IDREF" FILEID="alto_00275_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="550" ORDERLABEL="512" TYPE="page">
+        <fptr FILEID="tiff_00275_1"/>
+        <fptr FILEID="jp2_00275_1"/>
+        <fptr FILEID="alto_00275_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_550.2" BETYPE="IDREF" FILEID="alto_00275_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="551" ORDERLABEL="513" TYPE="page">
+        <fptr FILEID="tiff_00276_0"/>
+        <fptr FILEID="jp2_00276_0"/>
+        <fptr FILEID="alto_00276_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_551.3" BETYPE="IDREF" FILEID="alto_00276_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b550-6" BETYPE="IDREF" FILEID="casebody_0124"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_550.4" BETYPE="IDREF" FILEID="alto_00275_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b550-9" BETYPE="IDREF" FILEID="casebody_0124"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_550.7" BETYPE="IDREF" FILEID="alto_00275_1"/>
+            <area BEGIN="BL_551.1" BETYPE="IDREF" FILEID="alto_00276_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b549-10" BETYPE="IDREF" FILEID="casebody_0124"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_549.15" BETYPE="IDREF" FILEID="alto_00275_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b551-7" BETYPE="IDREF" FILEID="casebody_0124"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_551.5" BETYPE="IDREF" FILEID="alto_00276_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b549-3" BETYPE="IDREF" FILEID="casebody_0124"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_549.4" BETYPE="IDREF" FILEID="alto_00275_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b549-4" BETYPE="IDREF" FILEID="casebody_0124"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_549.6" BETYPE="IDREF" FILEID="alto_00275_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b549-2" BETYPE="IDREF" FILEID="casebody_0124"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_549.3" BETYPE="IDREF" FILEID="alto_00275_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A04" BETYPE="IDREF" FILEID="casebody_0124"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_549.7" BETYPE="IDREF" FILEID="alto_00275_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AGT" BETYPE="IDREF" FILEID="casebody_0124"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_549.16" BETYPE="IDREF" FILEID="alto_00275_0"/>
+            <area BEGIN="BL_549.17" BETYPE="IDREF" FILEID="alto_00275_0"/>
+            <area BEGIN="BL_550.1" BETYPE="IDREF" FILEID="alto_00275_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b550-8" BETYPE="IDREF" FILEID="casebody_0124"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_550.6" BETYPE="IDREF" FILEID="alto_00275_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b550-7" BETYPE="IDREF" FILEID="casebody_0124"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_550.5" BETYPE="IDREF" FILEID="alto_00275_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b551-6" BETYPE="IDREF" FILEID="casebody_0124"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_551.4" BETYPE="IDREF" FILEID="alto_00276_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AU3" BETYPE="IDREF" FILEID="casebody_0124"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_549.5" BETYPE="IDREF" FILEID="alto_00275_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b549-8" BETYPE="IDREF" FILEID="casebody_0124"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_549.13" BETYPE="IDREF" FILEID="alto_00275_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b549-9" BETYPE="IDREF" FILEID="casebody_0124"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_549.14" BETYPE="IDREF" FILEID="alto_00275_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

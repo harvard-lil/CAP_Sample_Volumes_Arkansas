@@ -1,0 +1,917 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0001" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Conway v. Kinsworthy">Conway vs. Kinsworthy</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 9</citation>
+          <decisiondate>1860-01</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00006_0" MIMETYPE="image/tiff" CHECKSUM="048149a113abc23017e4b96d77939164" CHECKSUMTYPE="MD5" SIZE="25512">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00006_0.tif"/>
+      </file>
+      <file ID="tiff_00006_1" MIMETYPE="image/tiff" CHECKSUM="880fd6563e9605a6cad2b0bd6e22fa98" CHECKSUMTYPE="MD5" SIZE="44354">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00006_1.tif"/>
+      </file>
+      <file ID="tiff_00007_0" MIMETYPE="image/tiff" CHECKSUM="28fdbdcb6eff9b79c5a2e378490c2e4f" CHECKSUMTYPE="MD5" SIZE="48456">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00007_0.tif"/>
+      </file>
+      <file ID="tiff_00007_1" MIMETYPE="image/tiff" CHECKSUM="f91ce27624d08711629df2cda13dbfad" CHECKSUMTYPE="MD5" SIZE="43894">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00007_1.tif"/>
+      </file>
+      <file ID="tiff_00008_0" MIMETYPE="image/tiff" CHECKSUM="08b7fdd7d9844788d0c65a93ac33dd61" CHECKSUMTYPE="MD5" SIZE="48614">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00008_0.tif"/>
+      </file>
+      <file ID="tiff_00008_1" MIMETYPE="image/tiff" CHECKSUM="121f9c7fa65b3d3fecac6fd7d66a65e1" CHECKSUMTYPE="MD5" SIZE="46940">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00008_1.tif"/>
+      </file>
+      <file ID="tiff_00009_0" MIMETYPE="image/tiff" CHECKSUM="af3ce6cca7615e2fef048649a44d3664" CHECKSUMTYPE="MD5" SIZE="48608">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00009_0.tif"/>
+      </file>
+      <file ID="tiff_00009_1" MIMETYPE="image/tiff" CHECKSUM="e22ea9133b80a8e184a96297525c0310" CHECKSUMTYPE="MD5" SIZE="47020">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00009_1.tif"/>
+      </file>
+      <file ID="tiff_00010_0" MIMETYPE="image/tiff" CHECKSUM="7220c4189ba4af8be54467ef99b6ff1c" CHECKSUMTYPE="MD5" SIZE="23360">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00010_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00006_0" MIMETYPE="image/jp2" CHECKSUM="ce9bd4ca39eeb09f1e9641fc9b49883f" CHECKSUMTYPE="MD5" SIZE="2478697">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00006_0.jp2"/>
+      </file>
+      <file ID="jp2_00006_1" MIMETYPE="image/jp2" CHECKSUM="7c30d017dd6e6647e7a8e2453e6b30a1" CHECKSUMTYPE="MD5" SIZE="2506306">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00006_1.jp2"/>
+      </file>
+      <file ID="jp2_00007_0" MIMETYPE="image/jp2" CHECKSUM="6098631b075c1b475d22fcc7ffdec42d" CHECKSUMTYPE="MD5" SIZE="2590109">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00007_0.jp2"/>
+      </file>
+      <file ID="jp2_00007_1" MIMETYPE="image/jp2" CHECKSUM="b371815f10f6d08fbb5f7bb6bcd3e2f4" CHECKSUMTYPE="MD5" SIZE="2563235">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00007_1.jp2"/>
+      </file>
+      <file ID="jp2_00008_0" MIMETYPE="image/jp2" CHECKSUM="6b8209b3fb121497ee1a51e2d1e420b6" CHECKSUMTYPE="MD5" SIZE="2669002">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00008_0.jp2"/>
+      </file>
+      <file ID="jp2_00008_1" MIMETYPE="image/jp2" CHECKSUM="b4705ef2a0b43ee0ac0f7198ce006654" CHECKSUMTYPE="MD5" SIZE="2551878">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00008_1.jp2"/>
+      </file>
+      <file ID="jp2_00009_0" MIMETYPE="image/jp2" CHECKSUM="506663bc4ccdd5a1b76696096b2e9047" CHECKSUMTYPE="MD5" SIZE="2642044">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00009_0.jp2"/>
+      </file>
+      <file ID="jp2_00009_1" MIMETYPE="image/jp2" CHECKSUM="68a7e3aca7513817350a1a88823c34c7" CHECKSUMTYPE="MD5" SIZE="2621654">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00009_1.jp2"/>
+      </file>
+      <file ID="jp2_00010_0" MIMETYPE="image/jp2" CHECKSUM="9a2c7899abce509ceb4c9064e60d8093" CHECKSUMTYPE="MD5" SIZE="2452732">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00010_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00006_0" MIMETYPE="text/xml" CHECKSUM="e320887a2f4d71f52b359e16ee581978" CHECKSUMTYPE="MD5" SIZE="56194">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00006_0.xml"/>
+      </file>
+      <file ID="alto_00006_1" MIMETYPE="text/xml" CHECKSUM="39b0403097f7e87ba7768556d29ba88c" CHECKSUMTYPE="MD5" SIZE="88738">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00006_1.xml"/>
+      </file>
+      <file ID="alto_00007_0" MIMETYPE="text/xml" CHECKSUM="ecfdfbf3784a2f621f08d45dbc9c29ef" CHECKSUMTYPE="MD5" SIZE="89916">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00007_0.xml"/>
+      </file>
+      <file ID="alto_00007_1" MIMETYPE="text/xml" CHECKSUM="1a9702ada2265a016edd20ecd0be9c9e" CHECKSUMTYPE="MD5" SIZE="82276">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00007_1.xml"/>
+      </file>
+      <file ID="alto_00008_0" MIMETYPE="text/xml" CHECKSUM="59cf93a7e6e36dd16392a71da29237c0" CHECKSUMTYPE="MD5" SIZE="90259">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00008_0.xml"/>
+      </file>
+      <file ID="alto_00008_1" MIMETYPE="text/xml" CHECKSUM="85882dff8928c73578cbfb66b78f8445" CHECKSUMTYPE="MD5" SIZE="89461">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00008_1.xml"/>
+      </file>
+      <file ID="alto_00009_0" MIMETYPE="text/xml" CHECKSUM="2799c6bf7bacc83d8a986e503359f7a3" CHECKSUMTYPE="MD5" SIZE="90776">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00009_0.xml"/>
+      </file>
+      <file ID="alto_00009_1" MIMETYPE="text/xml" CHECKSUM="8ec4f577452980c207096b7c1bf56182" CHECKSUMTYPE="MD5" SIZE="89927">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00009_1.xml"/>
+      </file>
+      <file ID="alto_00010_0" MIMETYPE="text/xml" CHECKSUM="3c5240f75d373ab35ef6cabd1f106796" CHECKSUMTYPE="MD5" SIZE="44677">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00010_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0001" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="17" firstpage="9">
+              <parties id="b11-6" pgmap="11">Conway vs. Kinsworthy.</parties>
+              <judges id="b19-8" pgmap="19">Absent, Mr. Justice Rectos.</judges>
+              <attorneys id="b12-8" pgmap="12">Hempstead for the appellant.</attorneys>
+              <attorneys id="b14-5" pgmap="14">Garland, also for appellant.</attorneys>
+              <attorneys id="b14-6" pgmap="14">Watkins &amp; Gallagher, for the appellee.</attorneys>
+              <summary id="b12-7" pgmap="12">Appeal from, the Circuit Court of Sevier county in Chancery.</summary>
+              <summary id="b12-9" pgmap="12">A contract to convey lands carries an equitable title, and the right to compel a conveyance of the legal title descends to the heir of the purchaser. Rutherford .vs. Green, 2 Iredell's Ck. R. 121.</summary>
+              <summary id="b12-10" pgmap="12">A mere possibility coupled with an interest in real estate is assignable. Weight vs. Wright, 1 Ves. Sr. 491; Lawrence vs. Bayard, 7 Paige 76.</summary>
+              <summary id="b12-11" pgmap="12">Although the entry had not been made, when Hall conveyed in 1836, yet he had a vendible interest at that time, and did sell it, and that sale is valid. The case of Fisher vs. Fields, 10 Johns. R. 496, is precisely in point to prove that proposition.</summary>
+              <summary id="b12-12" pgmap="12">The defence of the statute of limitations of ten and five years cannot prevail, because it distinctly appears from the evi­dence, that no person has ever been in the actual possession of these lands or any part of them. There never has been a pcs­sessio pedis. There must be actual possession of the land. Lapse of time and actual, not constructive possession must unite. And this constitutes the adverse possession, which is required to oust or destroy the right of the true owner. Angelí onLimitation, 400; Bradstreet vs. Huntington, 5 Peters. 402. It is not the possession alone, says Mr. Justice Thompson, but that it is accompanied with the claim of the fee, which by construc­tion of law is deemed prima facie evidence of such an estate. Paine's C. C. R. 457.</summary>
+              <summary id="b12-13" pgmap="12(11) 13(76)">No person can plead or rely on the statute of limitations, unless his possession has been adverse to that of the person who claims against him. 3 Cruise Dig. 475; Angelí, 404. The possession must, be so open and exclusive as to amount to a disseizin. Sparhawk vs. Bullard, 1 Met. 95. Coke says that seizin signifies in the common law possession. Co. Litt. 153 a; Frost vs. Cloutman, 7 N. Stamp. R. 15; Abell vs. Harris, 11 Gill &lt;f- J. 371; Angelí on Lim. 412, 413.</summary>
+              <summary id="b13-5" pgmap="13">It is incumbent on a person claiming land by virtue of pos­session, to prove an actual occupation and appropriation of what he so claims within some defined boundaries. Strong acts of exclusive possession, such as building, enclosing, cultivating or improving, and that for a long time, and openly and notori­ously, are necessary in order to constitute an actual ouster of the true owner. Blood vs. Wood 1 Met. 535; Potts vs. Gilbert, 3 Wash. C. C. R. 475; Doe vs. Campbell, 10 Johns. 477.</summary>
+              <summary id="b13-6" pgmap="13">The occupation must in fact be visible and notorious, because the statute proceeds upon the ground that there has been art acquiescence on the part of the owner of the land, and which supposition could never be indulged if an occupation was so secret or clandestine as not to afford notice. Angelí, 416. If land has been enclosed and used in such a manner as to give publicity to the possession, continued residence on it is not necessary to constitute possession. Johnson vs. Irvine, 3 Serg. fy R. 291; Jackson vs. Howe, 14 Johns. 405; Barr vs. Gratz, 4 Wheat. 213; Cummings vs. Wyman, 10 Mass. 464.</summary>
+              <summary id="b13-7" pgmap="13">There must in any event be visible and notorious acts of ownership over the premises for the time limited by statute, to constitute such possession as may be availed of. Ewing vs. Burnett, 11 Peters 53; Angelí 427.</summary>
+              <summary id="b13-8" pgmap="13(65) 14(13)">The occasional cutting of timber on land does not amount to a possession; Smith vs. Mitchell 1 Marsh. 207. Clearing and cultivating land without actual residence upon it, is said to be insufficient: Hoy vs. Perry 1 Litt. 171. Digging a canal and felling trees are not sufficient; McCarty vs. Fourcher, 12 Mart. Louis. R. 11. So payment of taxes does not constitute a pos­session; Sorber vs. Willing 10 Watts. 142; Nagle vs. Albright, 4 Whart. 291.</summary>
+              <headnotes id="b11-7" pgmap="11">The owner of an unlocated donation claim, executed a sealed instrument, acknowl­edged and recorded, reciting that he had sold the claim, and covenanting to make the vendee a deed conveying the legal title to the lands to be entered with it, after the issuance of the patent: Held, that, upon the issuance of the patent, the vendor held the legal title to the lands as a trustee for the benefit of his vendee; and on his failure to comply with his contract, the vendee might either have sued at law for breach of the covenant, or have filed a bill for a specific performance of the contract.</headnotes>
+              <headnotes id="b11-8" pgmap="11(106) 12(17)">The complainant, having an equitable interest in land, filed a bill in chancery to establish and quiet his title to it; thirteen years had elapsed from the time his right to bring his suit accrued until the filing of the bill; he made no proof that during that time, he asserted any claim to the land, paid taxes upon it, or exercised any dominion over it: the defendant and those under whom he claimed, for more than the period of limitation, held the legal title, exercised dominion over the land, paid the taxes upon it, and openly claimed it adversely to the right of the com­plainant: Held, that the relief sought by the complainant was barred before the filing of the bill.</headnotes>
+              <headnotes id="b12-6" pgmap="12">'The person holding the legal title to lands is constructively in possession of them; and where they are wild and unimproved, it is not necessary that he should actually go upon them, and inclose and improve them, to constitute such adverse posses­sion as will cause the statute of limitations to commence running in his favor against one having an equitable title — open and notorious acts of ownership are sufficient in such case.</headnotes>
+              <opinion type="majority">
+                <author id="b14-7" pgmap="14">Mr. Chief Justice English,</author>
+                <p id="AD" pgmap="14">delivered the opinion of the Court.</p>
+                <p id="b14-8" pgmap="14">This was a bill filed by Elias N. Conway, on the 14th of Julj^ 1853, in the Sevier Circuit Court, against Ezekiel Kinsworthy, the unknown heirs of Samuel Hall, deceased, William Burton, and the unknown heirs of George T. Boring, deceased. The objects of the bill were to obtain partition of the N. E. and the S. E. fractional quarters of section 12, in Township 14 South, Range 32 West, and to establish and quiet complainant’s title to one-third of said tracts of land.</p>
+                <p id="b14-9" pgmap="14">There was a decree pro confesso against all of the defendants except Kinsworthy, who answered; and upon the final hearing the bill was dismissed for want of equity, and Conway ap­pealed.</p>
+                <p id="b14-10" pgmap="14">Kinsworthy, in his answer, relied upon two grounds of de­fence: first, that he had purchased the lands, in good faith, with­out notice of Conway’s claim; and second, that the relief sought by the bill was barred by lapse of time.</p>
+                <p id="b14-11" pgmap="14">Conway’s claim to the lands is derived as follows:</p>
+                <p id="b14-12" pgmap="14(130) 15(120)">• On the 15th day of March, 1836, Samuel Hall executed to Alexander Burton, (the father of the defendant, William Bur­ton,) George T. Boring and John R. Conway, a sealed instru­ment, reciting that, by virtue of the act of Congress, of 24th May, 1828, etc., he was entitled to a donation of land not ex­ceeding two quarter sections, which he had the right to enter with the Register of the proper land office in Arkansas; that he had sold to said Burton, Boring and Conway, all his right and title to the land to be entered by his donation claim, and author­ized them to enter the land in his name, but it was not known at that time upon what lands the claim would .be located— therefore, it was witnessed by the instrument that said Hall, in consideration of the sum of $260, to him in hand paid by Bur­ton, Boring and Conway, covenanted with them that he would, on demand by them, or without such demand as soon as a patent should be issued by the President of the United States, execute and deliver to them, their heirs, etc.; a deed, with cov­enants of warranty, for all such lands as might be entered by virtue of his donation claim, etc., etc. He further covenanted that his right to the donation had been proven up before the Register of the Land Office, at Washington, and that he would furnish additional proof if required, etc.</p>
+                <p id="b15-4" pgmap="15">The instrument was acknowledged by Hall, and registered in the Recorder’s office of Sevier county, where he then resided.</p>
+                <p id="b15-5" pgmap="15">On the 17th of August, 1839, after the donation claim had been located upon the lands above described, situate in Sevier county, and the certificate of entry was issued, but before the patent was granted, John R. Conway conveyed to the appel­lant, Elias N. Conwaj’', an undivided third of said lands, recit­ing in the deed that they had been entered by virtue of Hall’s donation claim, and that the Register’s certificate had been issued for the lands in his favor, etc.</p>
+                <p id="b15-6" pgmap="15">The deed was acknowledged and filed for registration in the Recorder’s office of Sevier county, on the day of its execution.</p>
+                <p id="b15-7" pgmap="15">The title of the appellee, Kinsworthy, is derived as follows:</p>
+                <p id="b15-8" pgmap="15">On the 14th of December, 1839, a patent was issued by the President of the United States, to Hall for the lands above de­scribed, which was filed for registration, and recorded in the Recorder’s office of Sevier county, on the 28th of January, 1840.</p>
+                <p id="b15-9" pgmap="15">On the 7th day of March, 1840, Hall, by absolute deed, with covenants of warranty, sold and conveyed the lands to Robert Hamilton, of Sevier county, for $300; and the deed was duly acknowledged, and filed for registration in the office of the Recorder of said county, on the 18th of June, 1840.</p>
+                <p id="b15-10" pgmap="15(21) 16(95)">On the 1st November, 1838, H. S. and A. Roach recovered a judgment against Hamilton, in the Sevier Circuit Cóurt; upon which an execution was issued to the sheriff of said county,'on the 12th of August, 1845, levied upon the lands in question, with other lands, etc., as the property of Hamilton; which were sold by the sheriff, on the 13th of October, 1845, and purchased by Benjamin L. Brittin and Grandison D. Royston, jointly; to whom, on the day after the sale, the sheriff executed a deed for the lands, which was acknowledged in open Court, and filed for registration in the office of the Recorder of said county, on the 15th of October, 1845.</p>
+                <p id="b16-5" pgmap="16">On the 1st of July, 1847, Royston and wife, by quit claim deed, sold and conveyed his undivided interest in the lands to Brittin; and the deed, duly acknowledged, was filed for registration 12th August, 1847.</p>
+                <p id="b16-6" pgmap="16">On the 23d September, 1847, Brittin sold and conveyed all his right, title, claim and interest in and to the lands to Kinswor­thy, without warranty, except as against persons claiming under him, etc., and the deed was duly acknowledged, and on the 18th November, 1847, filed for registration, etc.</p>
+                <p id="b16-7" pgmap="16">The material facts proven by the depositions, read upon the hearing, are, in substanc.e, as follows:</p>
+                <p id="b16-8" pgmap="16">Brittin deposed that at the time Royston and himself pur­chased the lands at the sheriff’s sale, he supposed they were getting a clear and perfect title; that he never heard of any adverse claim to them until after he sold and conveyed them to Kinsworthy. That, during the time deponent and Royston owned them jointly, they paid the taxes on them, etc.</p>
+                <p id="b16-9" pgmap="16">Royston deposed that at the time he and Brittin purchased the lands they were-understood to be in the possession of Ham­ilton; and from that time to the year 1847, he considered them to be in the possession of Brittin and himself. At the time Brittin and himself purchased them, he supposed they were getting a good title. Never heard of any adverse claim until after the institution of this suit. Had no knowledge of the in­strument executed by Hall to Conway, Burton and Boring.</p>
+                <p id="b16-10" pgmap="16(22) 17(52)">Jackson deposed that he was sheriff of the county of Sevier from 1840 to 1848; that Hamilton claimed the lands and paid tatxes on them until they were sold under execution, as his pro­perty, in October, 1845; after which Brittin and Royston paid taxes on them as long as deponent was sheriff. Neither the appellant, Conway, nor any person for him, paid any taxes on the lands while the deponent was in office.</p>
+                <p id="b17-5" pgmap="17">Hawkins deposed that the first knowledge that he had of the lands in dispute was in 1842, when they were held and claimed by Hamilton, who, some time during that year, placed in depo­nent’s hands a deed from Hall to him (Hamilton,) for the lands; and requested deponent to sell them to one Paxton. The deed was placed in deponent’s hands, to be shown to Paxton as evi­dence of Hamilton’s title, etc. Hamilton continued to exercise ownership over the lands until some time in the year 1845, when, they were sold by the sheriff as his property, and purchased by Brittin and Royston; who claimed possession of and exeicised acts of ownership over themun til some time in the year 1847, when Kinsworthy purchased them, and had claimed the posses­sion and ownership of them ever since. Defendant knew the lands well, had lived near them, and in the neighborhood where Hamilton resided, for nineteen years.</p>
+                <p id="b17-6" pgmap="17">There had been no actual residence or improvement on the lands since witness had known them, but they had been claimed by Hamilton and others, as above stated.</p>
+                <p id="b17-7" pgmap="17">Penny deposed that he was sheriff of Sevier from 1848 to 1850, and that the lands, for these years, were assessed to Kins-­worthy, and the taxes paid by him. The appellant, nor any one for him, paid taxes upon them-while deponent was sher­iff, etc.</p>
+                <p id="b17-8" pgmap="17(92) 18(27)">By the sealed instrument of 15th March, 1836, Hall sold to Burton, Boring and John R. Conway, his unlocated donation claim (commonly known as a Lovely claim), and covenanted to make them a deed conveying to them the legal title to the lands to be entered with the claim, after the issuance of the patent. When the patent was granted to him, he held the legal title to the lands as a trustee for their benefit. On his failure or refu­sal to comply with his contract, they had two remedies against him: a suit at law for breach of his covenant to convey, of a bill in equity to compel him to a specific performance of the contract.</p>
+                <p id="b18-6" pgmap="18">On the 7th of March, 1840, and after the issuance of the patent to him, Hall, in open and direct violation of his contract, and of his duty and obligation as a trustee, sold and by absolute deed acknowledged and put upon the public records, conveyed the lands to Hamilton. Prior to this time the appellant had purchased the claim of John R. Conway to the land, and suc­ceeded to his right to bring a suit in equity to enforce the con­tract of Hall to convey the legal title, etc.</p>
+                <p id="b18-7" pgmap="18">From the time Hamilton purchased the lands of Hall until the 13th October, 1845, he openly claimed them, and paid taxes on them. They were then sold by the sheriff, after public no­tice, as his property, and purchased by Brittin and Royston, who took the sheriff’s deed, acknowledged in the Circuit Court, and put upon the public records. They held and claimed the lands, and paid taxes on them jointly until July. 1847, when Royston conveyed to Brittin, who shortly after sold and con­veyed them to Kinsworthy, and both of these conveyances were recorded. Kinsworthy claimed and paid taxes on the lands from the time he purchased them until the institution of this suit by appellant, 14th July, 1853.</p>
+                <p id="b18-8" pgmap="18">Thus, a period of over thirteen years elapsed from the time the right of appellant to bring his suit accrued until the filing of the bill; during all which time there is no proof that he asserted any claim to the lands, or exercised any dominion over them; but the appellee, and the persons through whom he claimed, (Brittin, Royston and Hamilton,) during that time, and for more than the full period prescribed by law for the limita­tion of actions for the recovery of lands, suits upon covenants, etc., held the legal title to the lands, exercised dominion over them, and openly claimed them adversely to the right of the appellant.</p>
+                <p id="b18-9" pgmap="18(21) 19(22)">Under these circumstances we think the relief sought by the appellant was barred before the filing of the bill. Harris vs. King, 16 Ark. 126; Harriet et al. vs. Swan et al. 18 Ark. 507; Sullivan vs. Hadley et al. 16 Ark. 145.</p>
+                <p id="b19-5" pgmap="19">Hamilton having purchased the legal title to the lands of Hall, he and the other persons holding the legal title under him, were constructively in possession of the lands. (Angell on Lim. p. 400; United States vs. Arredonda et al. 6 Peters, 743; Les­see of Clarke et al. vs. Courtney et al. 5 Ib. 354; Green vs. Liter, 8 Cranch, 229.)</p>
+                <p id="b19-6" pgmap="19">The lands being wild and unimproved, it was not necessary for the person holding the legal title to actually go upon them, and enclose or improve them, to constitute such adverse pos­session as would cause, the statute of limitations to commence running against appellant. Angell on Lim. 421, 422, 423; Ew­ing vs. Burnett, 11 Pet. 53; Draper vs. Shoot, 25 Mo. 19. Open and notorious acts of ownership are sufficient in such case. Ib.</p>
+                <p id="b19-7" pgmap="19">The decree of the court below is affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="11" ORDERLABEL="9" TYPE="page">
+        <fptr FILEID="tiff_00006_0"/>
+        <fptr FILEID="jp2_00006_0"/>
+        <fptr FILEID="alto_00006_0"/>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_11.5" BETYPE="IDREF" FILEID="alto_00006_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="12" ORDERLABEL="10" TYPE="page">
+        <fptr FILEID="tiff_00006_1"/>
+        <fptr FILEID="jp2_00006_1"/>
+        <fptr FILEID="alto_00006_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_12.2" BETYPE="IDREF" FILEID="alto_00006_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_12.3" BETYPE="IDREF" FILEID="alto_00006_1"/>
+              <area BEGIN="BL_12.4" BETYPE="IDREF" FILEID="alto_00006_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="13" ORDERLABEL="11" TYPE="page">
+        <fptr FILEID="tiff_00007_0"/>
+        <fptr FILEID="jp2_00007_0"/>
+        <fptr FILEID="alto_00007_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_13.3" BETYPE="IDREF" FILEID="alto_00007_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_13.2" BETYPE="IDREF" FILEID="alto_00007_0"/>
+              <area BEGIN="BL_13.4" BETYPE="IDREF" FILEID="alto_00007_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="14" ORDERLABEL="12" TYPE="page">
+        <fptr FILEID="tiff_00007_1"/>
+        <fptr FILEID="jp2_00007_1"/>
+        <fptr FILEID="alto_00007_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_14.2" BETYPE="IDREF" FILEID="alto_00007_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_14.3" BETYPE="IDREF" FILEID="alto_00007_1"/>
+              <area BEGIN="BL_14.4" BETYPE="IDREF" FILEID="alto_00007_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="15" ORDERLABEL="13" TYPE="page">
+        <fptr FILEID="tiff_00008_0"/>
+        <fptr FILEID="jp2_00008_0"/>
+        <fptr FILEID="alto_00008_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_15.3" BETYPE="IDREF" FILEID="alto_00008_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_15.2" BETYPE="IDREF" FILEID="alto_00008_0"/>
+              <area BEGIN="BL_15.4" BETYPE="IDREF" FILEID="alto_00008_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="16" ORDERLABEL="14" TYPE="page">
+        <fptr FILEID="tiff_00008_1"/>
+        <fptr FILEID="jp2_00008_1"/>
+        <fptr FILEID="alto_00008_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_16.2" BETYPE="IDREF" FILEID="alto_00008_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_16.3" BETYPE="IDREF" FILEID="alto_00008_1"/>
+              <area BEGIN="BL_16.4" BETYPE="IDREF" FILEID="alto_00008_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="17" ORDERLABEL="15" TYPE="page">
+        <fptr FILEID="tiff_00009_0"/>
+        <fptr FILEID="jp2_00009_0"/>
+        <fptr FILEID="alto_00009_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_17.3" BETYPE="IDREF" FILEID="alto_00009_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_17.2" BETYPE="IDREF" FILEID="alto_00009_0"/>
+              <area BEGIN="BL_17.4" BETYPE="IDREF" FILEID="alto_00009_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="18" ORDERLABEL="16" TYPE="page">
+        <fptr FILEID="tiff_00009_1"/>
+        <fptr FILEID="jp2_00009_1"/>
+        <fptr FILEID="alto_00009_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_18.2" BETYPE="IDREF" FILEID="alto_00009_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_18.3" BETYPE="IDREF" FILEID="alto_00009_1"/>
+              <area BEGIN="BL_18.4" BETYPE="IDREF" FILEID="alto_00009_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="19" ORDERLABEL="17" TYPE="page">
+        <fptr FILEID="tiff_00010_0"/>
+        <fptr FILEID="jp2_00010_0"/>
+        <fptr FILEID="alto_00010_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_19.3" BETYPE="IDREF" FILEID="alto_00010_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_19.2" BETYPE="IDREF" FILEID="alto_00010_0"/>
+              <area BEGIN="BL_19.4" BETYPE="IDREF" FILEID="alto_00010_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b12-7" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_12.6" BETYPE="IDREF" FILEID="alto_00006_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b18-6" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_18.5" BETYPE="IDREF" FILEID="alto_00009_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b18-7" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_18.6" BETYPE="IDREF" FILEID="alto_00009_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b19-7" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_19.7" BETYPE="IDREF" FILEID="alto_00010_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b15-10" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_15.11" BETYPE="IDREF" FILEID="alto_00008_0"/>
+            <area BEGIN="BL_16.1" BETYPE="IDREF" FILEID="alto_00008_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b19-6" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_19.6" BETYPE="IDREF" FILEID="alto_00010_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b12-8" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_12.7" BETYPE="IDREF" FILEID="alto_00006_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b12-9" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_12.8" BETYPE="IDREF" FILEID="alto_00006_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b17-8" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_17.8" BETYPE="IDREF" FILEID="alto_00009_0"/>
+            <area BEGIN="BL_18.1" BETYPE="IDREF" FILEID="alto_00009_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b16-10" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_16.10" BETYPE="IDREF" FILEID="alto_00008_1"/>
+            <area BEGIN="BL_17.1" BETYPE="IDREF" FILEID="alto_00009_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b11-8" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_11.4" BETYPE="IDREF" FILEID="alto_00006_0"/>
+            <area BEGIN="BL_12.1" BETYPE="IDREF" FILEID="alto_00006_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b11-7" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_11.3" BETYPE="IDREF" FILEID="alto_00006_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b11-6" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_11.2" BETYPE="IDREF" FILEID="alto_00006_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AD" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_14.8" BETYPE="IDREF" FILEID="alto_00007_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b15-9" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_15.10" BETYPE="IDREF" FILEID="alto_00008_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b16-8" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_16.8" BETYPE="IDREF" FILEID="alto_00008_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b19-5" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_19.5" BETYPE="IDREF" FILEID="alto_00010_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b14-5" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_14.5" BETYPE="IDREF" FILEID="alto_00007_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b14-6" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_14.6" BETYPE="IDREF" FILEID="alto_00007_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b14-7" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_14.7" BETYPE="IDREF" FILEID="alto_00007_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b16-6" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_16.6" BETYPE="IDREF" FILEID="alto_00008_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b16-7" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_16.7" BETYPE="IDREF" FILEID="alto_00008_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b16-5" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_16.5" BETYPE="IDREF" FILEID="alto_00008_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b17-7" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_17.7" BETYPE="IDREF" FILEID="alto_00009_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b17-6" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_17.6" BETYPE="IDREF" FILEID="alto_00009_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b17-5" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_17.5" BETYPE="IDREF" FILEID="alto_00009_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b16-9" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_16.9" BETYPE="IDREF" FILEID="alto_00008_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b14-8" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_14.9" BETYPE="IDREF" FILEID="alto_00007_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b19-8" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_19.8" BETYPE="IDREF" FILEID="alto_00010_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b14-9" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_14.10" BETYPE="IDREF" FILEID="alto_00007_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b14-12" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_14.13" BETYPE="IDREF" FILEID="alto_00007_1"/>
+            <area BEGIN="BL_15.1" BETYPE="IDREF" FILEID="alto_00008_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b14-10" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_14.11" BETYPE="IDREF" FILEID="alto_00007_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b14-11" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_14.12" BETYPE="IDREF" FILEID="alto_00007_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b18-8" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_18.7" BETYPE="IDREF" FILEID="alto_00009_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b18-9" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_18.8" BETYPE="IDREF" FILEID="alto_00009_1"/>
+            <area BEGIN="BL_19.1" BETYPE="IDREF" FILEID="alto_00010_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b12-6" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_12.5" BETYPE="IDREF" FILEID="alto_00006_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b15-8" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_15.9" BETYPE="IDREF" FILEID="alto_00008_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b13-7" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_13.7" BETYPE="IDREF" FILEID="alto_00007_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b13-6" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_13.6" BETYPE="IDREF" FILEID="alto_00007_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b13-5" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_13.5" BETYPE="IDREF" FILEID="alto_00007_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b13-8" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_13.8" BETYPE="IDREF" FILEID="alto_00007_0"/>
+            <area BEGIN="BL_14.1" BETYPE="IDREF" FILEID="alto_00007_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b15-5" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_15.6" BETYPE="IDREF" FILEID="alto_00008_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b15-4" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_15.5" BETYPE="IDREF" FILEID="alto_00008_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b15-7" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_15.8" BETYPE="IDREF" FILEID="alto_00008_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b15-6" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_15.7" BETYPE="IDREF" FILEID="alto_00008_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b12-10" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_12.9" BETYPE="IDREF" FILEID="alto_00006_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b12-11" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_12.10" BETYPE="IDREF" FILEID="alto_00006_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b12-12" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_12.11" BETYPE="IDREF" FILEID="alto_00006_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b12-13" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_12.12" BETYPE="IDREF" FILEID="alto_00006_1"/>
+            <area BEGIN="BL_13.1" BETYPE="IDREF" FILEID="alto_00007_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

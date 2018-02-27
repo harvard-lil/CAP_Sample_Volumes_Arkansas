@@ -1,0 +1,614 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0065" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Camp v. State">David CAMP v. STATE of Arkansas</name>
+          <docketnumber>CR 85-162</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 269</citation>
+          <citation category="parallel" type="bluebook">704 S.W.2d 617</citation>
+          <decisiondate>1986-02-24</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:00Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00149_0" MIMETYPE="image/tiff" CHECKSUM="54333b164407dbe0b2ffb42a5d174100" CHECKSUMTYPE="MD5" SIZE="8328">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00149_0.tif"/>
+      </file>
+      <file ID="tiff_00149_1" MIMETYPE="image/tiff" CHECKSUM="d6de1a71f03191808c9331fcdf3c3519" CHECKSUMTYPE="MD5" SIZE="32988">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00149_1.tif"/>
+      </file>
+      <file ID="tiff_00150_0" MIMETYPE="image/tiff" CHECKSUM="a967ebe3dc5e6fff00ee1c904867d854" CHECKSUMTYPE="MD5" SIZE="55706">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00150_0.tif"/>
+      </file>
+      <file ID="tiff_00150_1" MIMETYPE="image/tiff" CHECKSUM="d244e4b78aad606e593d451cce5f0000" CHECKSUMTYPE="MD5" SIZE="52846">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00150_1.tif"/>
+      </file>
+      <file ID="tiff_00151_0" MIMETYPE="image/tiff" CHECKSUM="9b566b8c7d614ef592821ee851fa6d5b" CHECKSUMTYPE="MD5" SIZE="49010">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00151_0.tif"/>
+      </file>
+      <file ID="tiff_00151_1" MIMETYPE="image/tiff" CHECKSUM="cc4706c70ccf1fa5fa6fcd9653786f49" CHECKSUMTYPE="MD5" SIZE="27566">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00151_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00149_0" MIMETYPE="image/jp2" CHECKSUM="5128642dd6dd2bbb7c6b2cea9f8f6d55" CHECKSUMTYPE="MD5" SIZE="1387534">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00149_0.jp2"/>
+      </file>
+      <file ID="jp2_00149_1" MIMETYPE="image/jp2" CHECKSUM="0a24903c71adf1b310583f3132745cb4" CHECKSUMTYPE="MD5" SIZE="1948686">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00149_1.jp2"/>
+      </file>
+      <file ID="jp2_00150_0" MIMETYPE="image/jp2" CHECKSUM="6daa1e8a637b57e2f1313e5bd2c4b0ee" CHECKSUMTYPE="MD5" SIZE="2908245">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00150_0.jp2"/>
+      </file>
+      <file ID="jp2_00150_1" MIMETYPE="image/jp2" CHECKSUM="d12ce7b5fb18634c947c80cd25023f37" CHECKSUMTYPE="MD5" SIZE="2523111">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00150_1.jp2"/>
+      </file>
+      <file ID="jp2_00151_0" MIMETYPE="image/jp2" CHECKSUM="b90aae50d4ed03426efaf3910d85bf7e" CHECKSUMTYPE="MD5" SIZE="2469694">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00151_0.jp2"/>
+      </file>
+      <file ID="jp2_00151_1" MIMETYPE="image/jp2" CHECKSUM="658664ca2fc3f756e42b76c40bc3104c" CHECKSUMTYPE="MD5" SIZE="2037567">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00151_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00149_0" MIMETYPE="text/xml" CHECKSUM="2bbe256a92351d3c494d3b70a72ebd10" CHECKSUMTYPE="MD5" SIZE="11348">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00149_0.xml"/>
+      </file>
+      <file ID="alto_00149_1" MIMETYPE="text/xml" CHECKSUM="5308aaf6332c0a71b9a94fef7b42b34f" CHECKSUMTYPE="MD5" SIZE="54602">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00149_1.xml"/>
+      </file>
+      <file ID="alto_00150_0" MIMETYPE="text/xml" CHECKSUM="8c36bad686bd24491dd875eda86458ce" CHECKSUMTYPE="MD5" SIZE="97604">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00150_0.xml"/>
+      </file>
+      <file ID="alto_00150_1" MIMETYPE="text/xml" CHECKSUM="341e694e67d30504b531da151219eb4c" CHECKSUMTYPE="MD5" SIZE="90781">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00150_1.xml"/>
+      </file>
+      <file ID="alto_00151_0" MIMETYPE="text/xml" CHECKSUM="7bbfe600d4206199735830ca2a6edecc" CHECKSUMTYPE="MD5" SIZE="82840">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00151_0.xml"/>
+      </file>
+      <file ID="alto_00151_1" MIMETYPE="text/xml" CHECKSUM="be3c1de3ba71728b6cc91fc976a2d77b" CHECKSUMTYPE="MD5" SIZE="44431">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00151_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0065" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="269" lastpage="274">
+              <court pgmap="297" id="b297-9">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="297" id="b297-7">CR 85-162</docketnumber>
+              <citation pgmap="297" id="b297-8">704 S.W.2d 617</citation>
+              <parties pgmap="297" id="b297-6">David CAMP v. STATE of Arkansas</parties>
+              <decisiondate pgmap="297" id="AUi">Opinion delivered February 24, 1986</decisiondate>
+              <otherdate pgmap="297" id="AfT">[Rehearing denied March 31, 1986.<footnotemark>*</footnotemark>]</otherdate>
+              <judges pgmap="301" id="b301-10">Newbern, J., concurs.</judges>
+              <judges pgmap="301" id="b301-11">Purtle, J., not participating.</judges>
+              <attorneys pgmap="298" id="b298-10">Byron Thomason and J.G. Mol les ton, for appellant.</attorneys>
+              <attorneys pgmap="298" id="b298-11">Steve Clark, Att’y Gen., by: Connie Griffin, Asst. Att’y Gen., for appellee.</attorneys>
+              <footnote label="*">
+                <p pgmap="297" id="b297-15">* Purtle J., not participating.</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="298" id="b298-12">Steele Hays, Justice.</author>
+                <p pgmap="298" id="ASSJ">David Camp was convicted of com­mitting incést with his minor stepdaughter, in violation of Ark. Stat. Ann. § 41-2403. He was sentenced to ten years imprison­ment and a fine of $10,000. On appeal, we affirm the judgment.</p>
+                <p pgmap="298" id="b298-13">
+                   For reversal, Camp first argues that the trial court erred in refusing to direct a verdict of acquittal because there was no corroboration of the stepdaughter’s testimony. The argument is predicated on the wording of Ark. Stat. Ann. § 41-2403, reciting that a person commits incest if, being sixteen years of age or older, he purports to marry, has sexual intercourse with, or engages in deviate sexual activity with, a person he knows to be (a) an ancestor or a descendant; or (b) a stepchild or adopted child.</p>
+                <p pgmap="298(71) 299(9)" id="b298-14">
+                   Since the stepdaughter was sixteen years old when the sexual intercourse allegedly occurred, Camp argues that she could have been charged with incest under § 41-2403 as readily as he and, therefore, she is an accomplice whose testimony must be corroborated in accordance with Ark. Stat. Ann. § 43-2116, which provides that a conviction may not be had on the testimony of an accomplice unless corroborated by other evidence tending to connect the defendant with the commission of the offense.</p>
+                <p pgmap="299" id="b299-6">
+                   Camp cites Teel v. State, 129 Ark. 180, 195 S.W. 32 (1917), and Hicks v. State, 219 Ark. 528, 243 S.W.2d 372 (1951) for the proposition that if the incest “victim” is sixteen years old or older when the offense occurs then she is an accomplice if the act occurs with her consent. We are not persuaded by those cases, primarily because there was no proof the intercourse was with the consent of the stepdaughter, and ample proof to the contrary: the child was seven or eight years old when her mother married David Camp; she had lived in the same household with him for eight years in a parent-child relationship; her own father was dead; she testified that her stepfather, who was thirty-eight, told her younger sisters to stay at the house while he and the older girl went to the barn, where he began fondling her. After he had removed her blue jeans and under garments he had intercourse with her. When he had finished he told her she could go back to the house. The next morning she and her boyfriend ran away to his sister’s home in Florida “to get away from David.” She called her mother after a few days and agreed to come back when her mother told her “something would be done about it.” On her return she went directly to her minister where she told the minister and a social worker about the situation; after her return she stayed, not at home, but with friends. Finally, referring to the incident, she testified that that was the last time “she was going to put up with it.” Giving that proof its highest and strongest probative value, we can easily say the intercourse was not with her consent, and, accordingly, we conclude her testimony did not require corroboration. Johnson v. State, 288 Ark. 158, 702 S.W.2d 797 (1986).</p>
+                <p pgmap="299" id="b299-7">On the same premise appellant argues that Ark. Stat. Ann. § 41-2403 violates the due process clause and the equal protection clauses of the Fourteenth Amendment to the United States Constitution and Article 2, Section 18, of the Arkansas Constitution.</p>
+                <p pgmap="299(53) 300(27)" id="b299-8">Camp argues that had she been his natural sixteen year old daughter, the stepdaughter too could have been convicted of incest under § 41-2403 (a) for having sexual intercourse with an ancestor. It follows, he insists, that he cannot be convicted of incest without her corroboration of her testimony. But, as with the first point, the argument presupposes consent and, as we have already seen, we are unwilling to assume that critical fact when the proof plainly suggests the contrary.</p>
+                <p pgmap="300" id="b300-6">
+                   That the legislature chose sixteen years as the age of accountability for purposes of incest does not mean that it also intended that when an unwilling victim of incest is sixteen then corroboration is required. We cannot agree to write that into the statute on the facts of this case. Moreover, the Criminal Code specifically provides that one who is the victim of the offense is not an accomplice. See Ark. Stat. Ann. § 41-305 (Repl. 1977). The commentary states:</p>
+                <blockquote pgmap="300" id="b300-7">(a) It seems clear that the victim of a crime should not be held as an accomplice in its perpetration, though his conduct in a sense assists in the commission of the crime. The businessman who yields to the extortion of a racketeer, the parent who paid ransom to the kidnapper, may be unwise or even may be thought immoral; to view them as involved in the commission of the crime confounds the policy embodied in the provisions; it is laid down, wholly or in part, for their protection. So, too, to hold the female an accomplice in a statutory rape on her person would be inconsistent with the legislative purpose to protect her against her own weakness in consenting, the very theory of the crime.</blockquote>
+                <p pgmap="300" id="b300-8">
+                   Appellant notes that while § 41-2403 (a) covers de­scendants as well as ancestors, § 41-2403(b) applies only to stepparents, suggesting the language creates a dichotomy of criminal responsibility between stepchildren and natural chil­dren, as well as of corroborative proof as to stepparents and natural parents. We concede a distinction between persons in a step relationship, but, for reasons already discussed, we find no distinction between step and natural parents on the requirement of corroboration. In either case if the “victim” is in fact a victim, she, or he, is not an accessory. Ark. Stat. Ann. § 41-305.</p>
+                <p pgmap="300(52) 301(87)" id="b300-9">As to the supposed dichotomy between natural parents and stepparents, we are not persuaded that the disparate treatment of the statute is not intentional, or that it lacks a rational basis. The commentary to § 41-2403 points out that stepchildren and adopted children have been added to the crime of incest because society is as concerned with the integrity of the family, including step and adoptive relationships as well as those of blood relation­ships, and sexual activity is equally disruptive, whatever the makeup of the family. Indeed, this case presents a classic example of the impact of such offenses upon the family: the mother and stepfather are evidently estranged and living apart, the step­daughter became a runaway to escape the situation and even on her return is living elsewhere, thus, the disruption of the family is complete.</p>
+                <p pgmap="301" id="b301-6">
+                   We are obliged to assume the legislature meant what it clearly said in § 41-2403, City of North Little Rock v. Montgom­ery, 261 Ark. 16, 546 S.W.2d 154 (1977), and it may have assumed that the incidence of adult stepchildren becoming victims of incest was rare enough to warrant exclusion from the coverage of the statute. At any rate, appellant has cited nothing to challenge the presumption of constitutionality of this statute, Gay v. Rabon, 280 Ark. 5, 652 S.W.2d 836 (1983), nor that a rational basis for the distinction noted does not exist. In Schock v. Thomas, Comm’r, 274 Ark. 493, 625 S.W.2d 521 (1981), we stated the rule:</p>
+                <blockquote pgmap="301" id="b301-7">The equal protection clause does not require that all persons be dealt with identically; it only requires that classifications rest on real and not on feigned differences, that the distinctions have some relevance to the purpose for which the classification is made, and that the different treatment be not so disparate as to be arbitrary. United States v. Ecker, 543 F.2d 178 (1976); Walters v. City of St. Louis, 347 U.S. 231 (1954); Skinner v. Oklahoma, 316 U.S. 535 (1942).</blockquote>
+                <p pgmap="301" id="b301-8">
+                   We do not reach appellant’s remaining argu­ment — that the trial court wrongly refused to instruct the jury on the issue of corroboration — because the proferred instruction is neither in the abstract nor the record. Chapman v. State, 201 Ark. 91, 143 S.W.2d 575 (1940). Rule 11(f) Rules of the Arkansas Supreme Court and Court of Appeals.</p>
+                <p pgmap="301" id="b301-9">The judgment appealed from is affirmed.</p>
+              </opinion>
+              <opinion type="concurrence">
+                <author pgmap="302" id="b302-5">David Newbern, Justice,</author>
+                <p pgmap="302" id="AQRo">concurring. The entire argument of the appellant is based on the lack of corroboration of the stepdaughter’s testimony. He says his conviction was thus in violation of Ark. Stat. Ann. § 43-2116 (Repl. 1977) which requires testimony of an accomplice be corroborated to serve as the basis of conviction of a felony.</p>
+                <p pgmap="302" id="b302-6">It may be that when a teenaged stepdaughter accuses her stepfather of incest after which she leaves town with her boy­friend the policy of requiring corroboration should be at its strongest. However, the defendant in a case like this finds himself in a logically indefensible position. To argue the stepdaughter was an accomplice he must admit the act.</p>
+                <p pgmap="302" id="b302-7">Therefore, while I agree with the result reached by the majority, I do so only on the basis of finding the appellant’s argument flawed and unpersuasive. I particularly disagree with the majority’s conclusion that the evidence recited showed Karen Vickers was a non-consenting “victim.”</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="297" ORDERLABEL="269" TYPE="page">
+        <fptr FILEID="tiff_00149_0"/>
+        <fptr FILEID="jp2_00149_0"/>
+        <fptr FILEID="alto_00149_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_297.2" BETYPE="IDREF" FILEID="alto_00149_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="298" ORDERLABEL="270" TYPE="page">
+        <fptr FILEID="tiff_00149_1"/>
+        <fptr FILEID="jp2_00149_1"/>
+        <fptr FILEID="alto_00149_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_298.1" BETYPE="IDREF" FILEID="alto_00149_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="299" ORDERLABEL="271" TYPE="page">
+        <fptr FILEID="tiff_00150_0"/>
+        <fptr FILEID="jp2_00150_0"/>
+        <fptr FILEID="alto_00150_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_299.3" BETYPE="IDREF" FILEID="alto_00150_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="300" ORDERLABEL="272" TYPE="page">
+        <fptr FILEID="tiff_00150_1"/>
+        <fptr FILEID="jp2_00150_1"/>
+        <fptr FILEID="alto_00150_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_300.2" BETYPE="IDREF" FILEID="alto_00150_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="301" ORDERLABEL="273" TYPE="page">
+        <fptr FILEID="tiff_00151_0"/>
+        <fptr FILEID="jp2_00151_0"/>
+        <fptr FILEID="alto_00151_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_301.3" BETYPE="IDREF" FILEID="alto_00151_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="302" ORDERLABEL="274" TYPE="page">
+        <fptr FILEID="tiff_00151_1"/>
+        <fptr FILEID="jp2_00151_1"/>
+        <fptr FILEID="alto_00151_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_302.1" BETYPE="IDREF" FILEID="alto_00151_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b298-13" BETYPE="IDREF" FILEID="casebody_0065"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_298.14" BETYPE="IDREF" FILEID="alto_00149_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b298-12" BETYPE="IDREF" FILEID="casebody_0065"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_298.11" BETYPE="IDREF" FILEID="alto_00149_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b298-11" BETYPE="IDREF" FILEID="casebody_0065"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_298.10" BETYPE="IDREF" FILEID="alto_00149_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AUi" BETYPE="IDREF" FILEID="casebody_0065"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_297.9" BETYPE="IDREF" FILEID="alto_00149_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b301-8" BETYPE="IDREF" FILEID="casebody_0065"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_301.6" BETYPE="IDREF" FILEID="alto_00151_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b301-9" BETYPE="IDREF" FILEID="casebody_0065"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_301.7" BETYPE="IDREF" FILEID="alto_00151_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AfT" BETYPE="IDREF" FILEID="casebody_0065"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_297.10" BETYPE="IDREF" FILEID="alto_00149_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ASSJ" BETYPE="IDREF" FILEID="casebody_0065"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_298.12" BETYPE="IDREF" FILEID="alto_00149_1"/>
+            <area BEGIN="BL_298.13" BETYPE="IDREF" FILEID="alto_00149_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b298-14" BETYPE="IDREF" FILEID="casebody_0065"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_298.15" BETYPE="IDREF" FILEID="alto_00149_1"/>
+            <area BEGIN="BL_299.1" BETYPE="IDREF" FILEID="alto_00150_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b301-6" BETYPE="IDREF" FILEID="casebody_0065"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_301.4" BETYPE="IDREF" FILEID="alto_00151_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b301-10" BETYPE="IDREF" FILEID="casebody_0065"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_301.8" BETYPE="IDREF" FILEID="alto_00151_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b301-11" BETYPE="IDREF" FILEID="casebody_0065"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_301.9" BETYPE="IDREF" FILEID="alto_00151_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AQRo" BETYPE="IDREF" FILEID="casebody_0065"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_302.4" BETYPE="IDREF" FILEID="alto_00151_1"/>
+            <area BEGIN="BL_302.5" BETYPE="IDREF" FILEID="alto_00151_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b297-6" BETYPE="IDREF" FILEID="casebody_0065"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_297.5" BETYPE="IDREF" FILEID="alto_00149_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b297-7" BETYPE="IDREF" FILEID="casebody_0065"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_297.6" BETYPE="IDREF" FILEID="alto_00149_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b299-8" BETYPE="IDREF" FILEID="casebody_0065"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_299.6" BETYPE="IDREF" FILEID="alto_00150_0"/>
+            <area BEGIN="BL_300.1" BETYPE="IDREF" FILEID="alto_00150_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b299-6" BETYPE="IDREF" FILEID="casebody_0065"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_299.4" BETYPE="IDREF" FILEID="alto_00150_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b299-7" BETYPE="IDREF" FILEID="casebody_0065"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_299.5" BETYPE="IDREF" FILEID="alto_00150_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b298-10" BETYPE="IDREF" FILEID="casebody_0065"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_298.9" BETYPE="IDREF" FILEID="alto_00149_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b297-8" BETYPE="IDREF" FILEID="casebody_0065"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_297.7" BETYPE="IDREF" FILEID="alto_00149_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b297-9" BETYPE="IDREF" FILEID="casebody_0065"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_297.8" BETYPE="IDREF" FILEID="alto_00149_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b302-6" BETYPE="IDREF" FILEID="casebody_0065"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_302.6" BETYPE="IDREF" FILEID="alto_00151_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b297-15" BETYPE="IDREF" FILEID="casebody_0065"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_297.16" BETYPE="IDREF" FILEID="alto_00149_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b300-9" BETYPE="IDREF" FILEID="casebody_0065"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_300.7" BETYPE="IDREF" FILEID="alto_00150_1"/>
+            <area BEGIN="BL_301.1" BETYPE="IDREF" FILEID="alto_00151_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b300-7" BETYPE="IDREF" FILEID="casebody_0065"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_300.5" BETYPE="IDREF" FILEID="alto_00150_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b300-6" BETYPE="IDREF" FILEID="casebody_0065"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_300.4" BETYPE="IDREF" FILEID="alto_00150_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b302-7" BETYPE="IDREF" FILEID="casebody_0065"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_302.7" BETYPE="IDREF" FILEID="alto_00151_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b301-7" BETYPE="IDREF" FILEID="casebody_0065"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_301.5" BETYPE="IDREF" FILEID="alto_00151_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b302-5" BETYPE="IDREF" FILEID="casebody_0065"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_302.3" BETYPE="IDREF" FILEID="alto_00151_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b300-8" BETYPE="IDREF" FILEID="casebody_0065"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_300.6" BETYPE="IDREF" FILEID="alto_00150_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

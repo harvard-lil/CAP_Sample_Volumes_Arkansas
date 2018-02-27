@@ -1,0 +1,540 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0138" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="McEntire v. Malloy">Margaret McENTIRE and J. A. McENTIRE, III v. Mark MALLOY</name>
+          <docketnumber>85-313</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 582</citation>
+          <citation category="parallel" type="bluebook">707 S.W.2d 773</citation>
+          <decisiondate>1986-04-21</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:01Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00310_1" MIMETYPE="image/tiff" CHECKSUM="8ca2f7efe090b9e454190348ae85e736" CHECKSUMTYPE="MD5" SIZE="16110">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00310_1.tif"/>
+      </file>
+      <file ID="tiff_00311_0" MIMETYPE="image/tiff" CHECKSUM="4a9746516871a952749b5b2aea1600e0" CHECKSUMTYPE="MD5" SIZE="52978">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00311_0.tif"/>
+      </file>
+      <file ID="tiff_00311_1" MIMETYPE="image/tiff" CHECKSUM="35a333fff9bc41ed9d998a4bc6064fe3" CHECKSUMTYPE="MD5" SIZE="57080">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00311_1.tif"/>
+      </file>
+      <file ID="tiff_00312_0" MIMETYPE="image/tiff" CHECKSUM="46e1a2a946704cefe2def69593709936" CHECKSUMTYPE="MD5" SIZE="52654">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00312_0.tif"/>
+      </file>
+      <file ID="tiff_00312_1" MIMETYPE="image/tiff" CHECKSUM="360a9f433d48b227e85929f9bb67b8ff" CHECKSUMTYPE="MD5" SIZE="51974">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00312_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00310_1" MIMETYPE="image/jp2" CHECKSUM="68e516af80e087b7f5985030999a5d53" CHECKSUMTYPE="MD5" SIZE="1551902">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00310_1.jp2"/>
+      </file>
+      <file ID="jp2_00311_0" MIMETYPE="image/jp2" CHECKSUM="4bdb323322ec5641d3469426edbd209d" CHECKSUMTYPE="MD5" SIZE="2528696">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00311_0.jp2"/>
+      </file>
+      <file ID="jp2_00311_1" MIMETYPE="image/jp2" CHECKSUM="85859d5c3a6e78254be51d8d6e19ac86" CHECKSUMTYPE="MD5" SIZE="2574501">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00311_1.jp2"/>
+      </file>
+      <file ID="jp2_00312_0" MIMETYPE="image/jp2" CHECKSUM="37c75537fb4ce152c22353c053ef5520" CHECKSUMTYPE="MD5" SIZE="2524095">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00312_0.jp2"/>
+      </file>
+      <file ID="jp2_00312_1" MIMETYPE="image/jp2" CHECKSUM="44e1e313294cfc5e91343a6b1efdcd4c" CHECKSUMTYPE="MD5" SIZE="2553513">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00312_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00310_1" MIMETYPE="text/xml" CHECKSUM="a3be7a6cebcc5b81c15dcc0febd83004" CHECKSUMTYPE="MD5" SIZE="23069">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00310_1.xml"/>
+      </file>
+      <file ID="alto_00311_0" MIMETYPE="text/xml" CHECKSUM="5ab3b30e5e33339289d3d31cc998298b" CHECKSUMTYPE="MD5" SIZE="87278">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00311_0.xml"/>
+      </file>
+      <file ID="alto_00311_1" MIMETYPE="text/xml" CHECKSUM="dce80aedb8c901c8698d25636c5c8370" CHECKSUMTYPE="MD5" SIZE="96147">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00311_1.xml"/>
+      </file>
+      <file ID="alto_00312_0" MIMETYPE="text/xml" CHECKSUM="ee7b13fb58416d89b103a4b97b6339a8" CHECKSUMTYPE="MD5" SIZE="92693">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00312_0.xml"/>
+      </file>
+      <file ID="alto_00312_1" MIMETYPE="text/xml" CHECKSUM="eeb7667482ca42c1f68dbea057fd38f7" CHECKSUMTYPE="MD5" SIZE="88257">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00312_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0138" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="582" lastpage="586">
+              <court pgmap="620" id="b620-6">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="620" id="b620-4">85-313</docketnumber>
+              <citation pgmap="620" id="b620-5">707 S.W.2d 773</citation>
+              <parties pgmap="620" id="b620-3">Margaret McENTIRE and J. A. McENTIRE, III v. Mark MALLOY</parties>
+              <decisiondate pgmap="620" id="AgB">Opinion delivered April 21, 1986</decisiondate>
+              <judges pgmap="624" id="b624-9">Purtle, J., not participating.</judges>
+              <attorneys pgmap="620" id="b620-12">W. Edward Tarvin, for appellants.</attorneys>
+              <attorneys pgmap="620" id="b620-13">Macom, Moorhead, Green &amp; Henry, by: J. W. Green, Jr., for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="620" id="b620-14">David Newbern, Justice.</author>
+                <p pgmap="620(40) 621(12)" id="A2K">The question presented in this appeal is whether the statute of limitations began to run when the battery was allegedly committed or when the extent of resulting injuries was discovered. We hold it began to run when the tort was allegedly committed, and thus the judge was correct in dismissing the action.</p>
+                <p pgmap="621" id="b621-6">
+                   Margaret McEntire had silicone implants placed in her breasts in 1978. She was, at that time, married to the appellee. Her complaint alleged that in 1982 she was severely beaten by the appellee, and the battery caused an implant to burst, leak, and result in serious permanent injury, although it was unbeknownst to her until later. Margaret thereafter was divorced from the appellee and married J. A. McEntire, III. She alleged she discovered the extent of her injury from the 1982 battery through surgery performed August 27, 1984. The appellants’ complaint seeking damages for personal injury for Margaret and for loss of consortium for J. A. McEntire, III, was filed on February 4,1985. The action was dismissed because Ark. Stat. Ann. § 37-201 (Supp. 1985) requires that an action for battery be brought within one year after the cause of action accrues.</p>
+                <p pgmap="621" id="b621-7">1. The Appellants’ Argument</p>
+                <p pgmap="621" id="b621-8">The appellants contend the statutory one-year period did not begin to run until the extent of the injury from the battery became known. In support of this proposition they cite the four cases we now discuss.</p>
+                <p pgmap="621" id="b621-9">Urie v. Thompson, 337 U.S. 163 (1949), is cited as perhaps being the first case to use the time-of-discovery rule to determine when a cause of action accrues for purposes of applying a statute of limitations. There a worker’s cause of action was held to have accrued when the fact of his injury, i.e., the contraction of silicosis, became known to him.</p>
+                <p pgmap="621" id="b621-10">In Raymond v. Eli Lilly &amp; Co., 371 A.2d 170 (N.H. 1977), the plaintiff alleged that use of an oral contraceptive manufac­tured by Lilly had caused optical hemorrhages which resulted in her becoming legally blind. She did not learn the cause of the hemorrhages until more than six years (the limitations period) had passed. In an opinion answering a question of New Hamp­shire law certified by the United States Court of Appeals for the First Circuit, Chief Justice Kenison reviewed many products liability cases with respect to statutes of limitations and the time-­of-discovery rule. His concise statement was:</p>
+                <blockquote pgmap="621(11) 622(62)" id="b621-11">We believe that the proper formulation of the rule and the one that will cause the least confusion is the one adopted by the majority of the courts: A cause of action will not accrue under the discovery rule until the plaintiff discovers or in the exercise of reasonable diligence should have discovered not only that he has been injured but also that his injury may have been caused by the defendant’s conduct.</blockquote>
+                <p pgmap="622" id="b622-6">In US. v. Kubrick, 444 U.S. 111 (1979), a Federal Tort Claims Act case, the claimant alleged that neomycin had been negligently prescribed as a remedy for his infected leg and had caused him to lose his hearing. The Supreme Court held the cause of action accrued when the claimant learned not just of his injury and its cause, but when he further was given reason to suspect or learned from another doctor that the prescribing doctor had been negligent. The Federal Tort Claims Act limitation provision thus may be tolled for a period even longer than Chief Justice Kenison’s opinion provided with respect to a New Hampshire statute of limitations.</p>
+                <p pgmap="622" id="b622-7">None of these cases deals with the situation with which we are confronted. Here the appellant, Margaret McEntire, knew she had been battered. Her complaint described the attack as “willful, intentional and barbarous.” She obviously knew by whom she had been struck and that she was injured. Her only alleged lack of knowledge was as to the extent of her injuries.</p>
+                <p pgmap="622(174) 623(1)" id="b622-8">The appellants’ final citation is Everhart v. Rich’s, Inc., 229 Ga. 798, 194 S.E.2d 425 (1972). In that case the plaintiffs had purchased fiberglass draperies which disintegrated over a long period placing fiberglass particles in their home environment and causing illness. The Georgia Supreme Court held that, where the alleged wrong is breach of a duty to warn of a hazardous product, the cause of action does not accrue until an injury is ascertainable. The opinion points out that in such a case the tort will be regarded as continuing until eliminated, for example, by warning of the hazard. The appellants in the case now before us ask us to hold that the continuing leakage of the breast implant after the alleged battery is analogous to the disintegration of the draperies. We decline to do so. The continuing tort theory in Everhart v. Rich’s, Inc., supra, was used to support tolling the statute of limitations until injury, as opposed to its extent, was ascertained. The Georgia court’s opinion distinguishes facts similar to those before us:</p>
+                <blockquote pgmap="623" id="b623-6">On a tort claim for personal injury the statute of limitation generally begins to run at the time damage caused by a tortious act occurs, at which time the tort is complete. In such cases the true rule in this State was expressly recognized to the effect that in an action for personal injuries the statute of limitation commences at the time the damage or injury is actually sustained. In such torts, where the injury is occasioned by violent external means, the result of the previous violation of a duty, no problem arises in fixing the date and time when the statute begins to run.</blockquote>
+                <p pgmap="623" id="b623-7">2. The Arkansas Cases</p>
+                <p pgmap="623" id="b623-8">In Field v. Gazette, 187 Ark. 253, 59 S.W.2d 19 (1933), a linotype operator alleged his employer had negligently failed to provide a safe workplace resulting in his contracting lead poison­ing. Within three years (the limitations period) of going to work for the defendant, the plaintiff knew he had the malady because he had some sores on his feet resulting in amputation of a toe and ultimately a foot. The disease progressed, resulting in even more extensive leg amputations, more than three years after he became aware of having the disease. We held the statute of limitations began to run when the injuries were sustained “ ‘although their results may not be then fully developed,’ ” quoting 130 R.C.L. § 30, p. 765 (1917).</p>
+                <p pgmap="623(164) 624(82)" id="b623-9">In Faulkner v. Huie, 205 Ark. 332, 168 S.W.2d 839 (1943), the plaintiff alleged in 1941 that as a result of a 1935 automobile accident he had lost his hearing in one ear. He contended he did not learn of this injury until after the applicable three-year statute of limitations had run. Citing and quoting § 899 c. of the Restatement of Torts, we held the statute began to run when the accident occurred because a battery or negligently inflicted personal injury “ \ . . is complete upon physical contact even though there is no observable damage at the time of contact.’ ” 205 Ark. at 335, 168 S.W.2d at 840. We distinguished two nuisances cases, C., R. I. &amp; P. Ry. Co. v. Humphreys, 107 Ark. 330, 155 S.W. 127 (1913), and Brown v. Arkansas Central Power Co., 174 Ark. 177, 294 S.W. 709 (1927), saying that when a landowner uses his land in a way that is not unlawful but which later results in injury to another, the causes of action accrue when the injury is perceived or could reasonably be ascertained by the plaintiff. We also distinguished the medical malpractice case in which a foreign object is left in the surgical patient’s body, pointing out that a physician has a duty to disclose such misconduct and each day it continues constitutes a “fraudulent concealment.” The latter situation is now governed by a statutory limitations exception. Ark. Stat. Ann. § 34-2616 (Supp. 1985).</p>
+                <p pgmap="624" id="b624-6">3. Conclusion</p>
+                <p pgmap="624" id="b624-7">
+                   The comment in Restatement of Torts, Second, § 899 c. (1965), says as a general rule a statute of limitations does not begin to run until the tort is complete, and that a “battery is complete upon physical contact, even though there is no observa­ble damage at the point of contact.” When the battery in this case allegedly occurred, Margaret McEntire knew the tort had occurred, knew who the perpetrator was, knew she was injured, at least to some extent, and she knew of the causal relationship between the battery and her injury. If we were to hold that a prospective battery plaintiff could wait until the complete extent of her injuries was known, it would seriously interfere with one policy reason for having a statute of limitations. The purpose of a statute of limitations is to encourage the prompt filing of claims by allowing no more than a reasonable time within which to make a claim so a defendant is protected from having to defend an action in which the truth-finding process would be impaired by the passage of time. Zeleznick v. U.S., 770 F.2d 20 (3rd Cir. 1985), citing U.S. v. Kubrick, supra. The possible effects of any injury may be as limitless as the ripples in a lake into which a stone has been cast. Lines have to be drawn. Once a prospective plaintiff knows she has been injured by a wrongdoer her cause of action has accrued. She is in a position to investigate the extent of the injury and to present evidence of its present and probable future extent. If the cause of action is for battery, it must be brought within the one-year statutory period.</p>
+                <p pgmap="624" id="b624-8">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="620" ORDERLABEL="582" TYPE="page">
+        <fptr FILEID="tiff_00310_1"/>
+        <fptr FILEID="jp2_00310_1"/>
+        <fptr FILEID="alto_00310_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_620.1" BETYPE="IDREF" FILEID="alto_00310_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="621" ORDERLABEL="583" TYPE="page">
+        <fptr FILEID="tiff_00311_0"/>
+        <fptr FILEID="jp2_00311_0"/>
+        <fptr FILEID="alto_00311_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_621.3" BETYPE="IDREF" FILEID="alto_00311_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="622" ORDERLABEL="584" TYPE="page">
+        <fptr FILEID="tiff_00311_1"/>
+        <fptr FILEID="jp2_00311_1"/>
+        <fptr FILEID="alto_00311_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_622.2" BETYPE="IDREF" FILEID="alto_00311_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="623" ORDERLABEL="585" TYPE="page">
+        <fptr FILEID="tiff_00312_0"/>
+        <fptr FILEID="jp2_00312_0"/>
+        <fptr FILEID="alto_00312_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_623.3" BETYPE="IDREF" FILEID="alto_00312_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="624" ORDERLABEL="586" TYPE="page">
+        <fptr FILEID="tiff_00312_1"/>
+        <fptr FILEID="jp2_00312_1"/>
+        <fptr FILEID="alto_00312_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_624.2" BETYPE="IDREF" FILEID="alto_00312_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b623-8" BETYPE="IDREF" FILEID="casebody_0138"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_623.6" BETYPE="IDREF" FILEID="alto_00312_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b621-11" BETYPE="IDREF" FILEID="casebody_0138"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_621.9" BETYPE="IDREF" FILEID="alto_00311_0"/>
+            <area BEGIN="BL_622.1" BETYPE="IDREF" FILEID="alto_00311_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b621-10" BETYPE="IDREF" FILEID="casebody_0138"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_621.8" BETYPE="IDREF" FILEID="alto_00311_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A2K" BETYPE="IDREF" FILEID="casebody_0138"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_620.18" BETYPE="IDREF" FILEID="alto_00310_1"/>
+            <area BEGIN="BL_620.19" BETYPE="IDREF" FILEID="alto_00310_1"/>
+            <area BEGIN="BL_621.1" BETYPE="IDREF" FILEID="alto_00311_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b622-7" BETYPE="IDREF" FILEID="casebody_0138"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_622.5" BETYPE="IDREF" FILEID="alto_00311_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b623-7" BETYPE="IDREF" FILEID="casebody_0138"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_623.5" BETYPE="IDREF" FILEID="alto_00312_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b620-12" BETYPE="IDREF" FILEID="casebody_0138"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_620.15" BETYPE="IDREF" FILEID="alto_00310_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b620-13" BETYPE="IDREF" FILEID="casebody_0138"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_620.16" BETYPE="IDREF" FILEID="alto_00310_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b620-14" BETYPE="IDREF" FILEID="casebody_0138"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_620.17" BETYPE="IDREF" FILEID="alto_00310_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b624-7" BETYPE="IDREF" FILEID="casebody_0138"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_624.5" BETYPE="IDREF" FILEID="alto_00312_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b622-8" BETYPE="IDREF" FILEID="casebody_0138"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_622.6" BETYPE="IDREF" FILEID="alto_00311_1"/>
+            <area BEGIN="BL_623.1" BETYPE="IDREF" FILEID="alto_00312_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AgB" BETYPE="IDREF" FILEID="casebody_0138"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_620.7" BETYPE="IDREF" FILEID="alto_00310_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b621-9" BETYPE="IDREF" FILEID="casebody_0138"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_621.7" BETYPE="IDREF" FILEID="alto_00311_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b621-8" BETYPE="IDREF" FILEID="casebody_0138"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_621.6" BETYPE="IDREF" FILEID="alto_00311_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b621-7" BETYPE="IDREF" FILEID="casebody_0138"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_621.5" BETYPE="IDREF" FILEID="alto_00311_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b620-3" BETYPE="IDREF" FILEID="casebody_0138"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_620.3" BETYPE="IDREF" FILEID="alto_00310_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b623-6" BETYPE="IDREF" FILEID="casebody_0138"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_623.4" BETYPE="IDREF" FILEID="alto_00312_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b620-6" BETYPE="IDREF" FILEID="casebody_0138"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_620.6" BETYPE="IDREF" FILEID="alto_00310_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b620-4" BETYPE="IDREF" FILEID="casebody_0138"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_620.4" BETYPE="IDREF" FILEID="alto_00310_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b620-5" BETYPE="IDREF" FILEID="casebody_0138"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_620.5" BETYPE="IDREF" FILEID="alto_00310_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b624-6" BETYPE="IDREF" FILEID="casebody_0138"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_624.4" BETYPE="IDREF" FILEID="alto_00312_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b623-9" BETYPE="IDREF" FILEID="casebody_0138"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_623.7" BETYPE="IDREF" FILEID="alto_00312_0"/>
+            <area BEGIN="BL_624.1" BETYPE="IDREF" FILEID="alto_00312_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b622-6" BETYPE="IDREF" FILEID="casebody_0138"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_622.4" BETYPE="IDREF" FILEID="alto_00311_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b621-6" BETYPE="IDREF" FILEID="casebody_0138"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_621.4" BETYPE="IDREF" FILEID="alto_00311_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b624-8" BETYPE="IDREF" FILEID="casebody_0138"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_624.6" BETYPE="IDREF" FILEID="alto_00312_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b624-9" BETYPE="IDREF" FILEID="casebody_0138"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_624.7" BETYPE="IDREF" FILEID="alto_00312_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

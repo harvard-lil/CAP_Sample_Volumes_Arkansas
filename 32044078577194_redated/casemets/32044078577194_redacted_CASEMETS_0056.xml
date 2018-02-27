@@ -1,0 +1,497 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078577194_0056" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="First Bank &amp; Trust of Jonesboro v. Vaccari">FIRST BANK AND TRUST OF JONESBORO v. Nick VACCARI, et al.</name>
+          <docketnumber>85-147</docketnumber>
+          <citation category="official" type="bluebook">288 Ark. 233</citation>
+          <citation category="parallel" type="bluebook">703 S.W.2d 867</citation>
+          <decisiondate>1986-02-18</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:23:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-03-22T06:15:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T06:27:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T06:32:00Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00131_0" MIMETYPE="image/tiff" CHECKSUM="22e37596a4694bf8bfacb54ec4e1b8a8" CHECKSUMTYPE="MD5" SIZE="15492">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00131_0.tif"/>
+      </file>
+      <file ID="tiff_00131_1" MIMETYPE="image/tiff" CHECKSUM="b432ef040d9721f9c44817ca7694501c" CHECKSUMTYPE="MD5" SIZE="53828">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00131_1.tif"/>
+      </file>
+      <file ID="tiff_00132_0" MIMETYPE="image/tiff" CHECKSUM="f164940177c93be356cd77ebd4a4233a" CHECKSUMTYPE="MD5" SIZE="54830">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00132_0.tif"/>
+      </file>
+      <file ID="tiff_00132_1" MIMETYPE="image/tiff" CHECKSUM="078a01c8bcf7304f7a07cd8cbe70e818" CHECKSUMTYPE="MD5" SIZE="43100">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00132_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00131_0" MIMETYPE="image/jp2" CHECKSUM="8d36b3ffdfb553728ef985bd10f5a696" CHECKSUMTYPE="MD5" SIZE="1986022">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00131_0.jp2"/>
+      </file>
+      <file ID="jp2_00131_1" MIMETYPE="image/jp2" CHECKSUM="932caec923755f392071c73b0afc1a7b" CHECKSUMTYPE="MD5" SIZE="2528384">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00131_1.jp2"/>
+      </file>
+      <file ID="jp2_00132_0" MIMETYPE="image/jp2" CHECKSUM="24b00ead17df24703fe7a2ae518fa66b" CHECKSUMTYPE="MD5" SIZE="2507953">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00132_0.jp2"/>
+      </file>
+      <file ID="jp2_00132_1" MIMETYPE="image/jp2" CHECKSUM="f5c6b107745c39893e794d9c204f6183" CHECKSUMTYPE="MD5" SIZE="2431427">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078577194_00132_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00131_0" MIMETYPE="text/xml" CHECKSUM="061a4f65d8e64be8323ef681a01858b6" CHECKSUMTYPE="MD5" SIZE="21837">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00131_0.xml"/>
+      </file>
+      <file ID="alto_00131_1" MIMETYPE="text/xml" CHECKSUM="8267913849efb76e98467e33b0ead95f" CHECKSUMTYPE="MD5" SIZE="85273">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00131_1.xml"/>
+      </file>
+      <file ID="alto_00132_0" MIMETYPE="text/xml" CHECKSUM="8578404242a68b09a6b1d707d781c19f" CHECKSUMTYPE="MD5" SIZE="90696">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00132_0.xml"/>
+      </file>
+      <file ID="alto_00132_1" MIMETYPE="text/xml" CHECKSUM="061b57d808ebb1fb856915797530863e" CHECKSUMTYPE="MD5" SIZE="70402">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078577194_redacted_ALTO_00132_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0056" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="233" lastpage="236">
+              <court pgmap="261" id="b261-9">Supreme Court of Arkansas</court>
+              <docketnumber pgmap="261" id="b261-7">85-147</docketnumber>
+              <citation pgmap="261" id="b261-8">703 S.W.2d 867</citation>
+              <parties pgmap="261" id="b261-6">FIRST BANK AND TRUST OF JONESBORO v. Nick VACCARI, et al.</parties>
+              <decisiondate pgmap="261" id="AYT">Opinion delivered February 18, 1986</decisiondate>
+              <judges pgmap="264" id="b264-9">Robert F. Morehead, Special Justice, concurred in this decision.</judges>
+              <judges pgmap="264" id="b264-10">Hickman, J., not participating.</judges>
+              <judges pgmap="264" id="b264-11">Purtle, J., not participating.</judges>
+              <judges pgmap="264" id="b264-12">Hays, J., not participating.</judges>
+              <attorneys pgmap="261" id="b261-15">Wright, Lindsey &amp; Jennings, for appellant.</attorneys>
+              <attorneys pgmap="261" id="b261-16">Bill D. Etter and David D. Coop, for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="261" id="b261-17">Dennis L. Shackleford, Special Justice.</author>
+                <p pgmap="261(29) 262(56)" id="A03">First Bank and Trust of Jonesboro (Bank) appeals from a verdict and judgment awarding appellee, Walnut Ridge Flying Service, Inc., (Flying Service), $28,965.00 representing its loss for customer checks which were cashed by the Flying Service bookkeeper on forged endorsements. The Bank contends that it was entitled to a directed verdict on the ground that there was no substantial evidence that it failed to act in accordance with reasonable commercial standards. We agree with the trial judge’s conclusion that the proof presented a jury question.</p>
+                <p pgmap="262" id="b262-6">The facts are not essentially in dispute. The Flying Service performs agricultural aviation services in the Walnut Ridge, Arkansas, area. Barbara Brunson, a bookkeeper with check-­writing authority since 1966, was discovered in 1977 to have embezzled her employer’s account by signing checks. She was terminated but immediately rehired, without check-writing au­thority, after repayment of the loss.</p>
+                <p pgmap="262" id="b262-7">Soon thereafter Brunson opened an account for her own use at the Bank in the name of “Walnut Ridge Flying Service” furnishing her employer’s tax I.D. number and correct address in Walnut Ridge. She designated herself as the sole signatory on the account. During the next several months she deposited about $41,000 in checks of the Flying Service into the account and appropriated the funds to her own use.</p>
+                <p pgmap="262" id="b262-8">Nick Vaccari, owner of the Flying Service, became suspi­cious about the accounts receivable payments in the summer of 1978, but did not follow up until November 1978 because of the demand on his time in the business. He learned a customer check had been deposited in the Bank at Jonesboro and not to the regular bank account in a local bank. After being confronted by Vaccari, Brunson confessed. An audit revealed the loss.</p>
+                <p pgmap="262" id="b262-9">A former employee of the Bank testified she was the new-­accounts clerk and had opened the account. The signature card showed no residence address, the business address was designated as a post office box,, and no telephone number was listed. She recalled nothing out of the ordinary, although without further inquiry an account was opened for an out-of-town “flying service” by a young woman.</p>
+                <p pgmap="262(37) 263(41)" id="b262-10">Expert testimony offered by the Bank from an executive of a competing local bank was that the Bank followed the correct procedure in opening the account and acted in accordance with reasonable commercial standards. On cross-examination, this witness stated new-accounts clerks would be more inquisitive about an out-of-town account. He said standards would be different in New York City for example, a lot more lax in Jonesboro, and would be dictated by the market place and previous experience.</p>
+                <p pgmap="263" id="b263-6">The Flying Service alleged a cause of action for conversion. The Bank contended it acted in good faith and in accordance with reasonable commercial standards under Ark. Stat. Ann. § 85-3-­419(3) which limits liability to the amount of any proceeds remaining in the bank. The Bank further contended that Vaccari was negligent and substantially contributed to the forgery citing Ark. Stat. Ann. § 85-3-407.</p>
+                <p pgmap="263" id="b263-7">
+                   The burden of proof was on the Bank to show it acted in a commercially reasonable manner. Clark v. Griffin et al., — Ind. App_, 481 N. E. 2d 170 (1985). If, at trial, the Bank meets its burden of showing its adherence to reasonable commer­cial standards in dealing with the account and of presenting evidence of Vaccari’s negligence, the jury would be authorized to find the Flying Service is precluded from denying the forged endorsements and there could be no recovery. Trust Co. of Georgia Bank of Savannah, N.A. v. Port Terminal &amp; Warehous­ing Co., 153 Ga. App. 735, 266 S.E.2d 254 (1980). The question of Vaccari’s negligence in permitting the embezzling book­keeper’s forgeries to go undiscovered is irrelevant until the Bank establishes it acted according to reasonable commercial stan­dards. Amer. Machine Tool Distributors Assoc. v. Nat’l Perma­nent Fed’l Savings &amp; Loan Assoc., 464 A. 2d 907 (D.C. 1983).</p>
+                <p pgmap="263(122) 264(51)" id="b263-10">
+                   A situation with strikingly similar facts involving a claim of conversion was considered in Hydroflo Corp. v. First Nat’l Bank of Omaha, 217 Neb. 20, 349 N.W.2d 615 (1984). There, the corporation, named as payee on checks, brought an action against the bank to recover amounts paid on checks to a bank customer who had wrongfully endorsed the checks and deposited the proceeds to his account. An Omaha sales manager of a small Pennsylvania corporation opened a corporate checking account in the name of his employer without its knowledge, and furnished the bank with a signature card containing his signature. Checks of Hydroflo were deposited to the account and withdrawn by the sales manager. The bank’s U.C.C. defense was that it acted in accordance with reasonable commercial standards. In holding that a jury question was presented, the Court declared that it is incumbent upon a depository bank seeking immunity to plead and prove its affirmative defense and “whether or not a bank acted in a commercially reasonable manner is a question of fact.”</p>
+                <p pgmap="264" id="b264-6">There are decisions that as a matter of law it is commercially unreasonable for a bank to accept for deposit in an individual account a check made payable to a corporation without first ascertaining, or at least making an inquiry, as to the authority of the depositor/endorser. Aetna Casualty &amp; Surety Co. v. Hepler State Bank, 6 Kan.App.2d 543, 630 P.2d 721 (1981). In our case Brunson forged an endorsement on a check payable to Walnut Ridge Flying Service, Inc., and deposited the proceeds to her account. Likewise, a Georgia court determined a bank to be not in accordance with reasonable commercial standards when it failed to inquire to ascertain authority of a second corporation (collec­tion agency) to endorse and deposit the payee corporation checks. Nat’l Bank v. Refrigerated &amp; Co., 147 Ga.App. 240, 248 S.E.2d 496 (1978).</p>
+                <p pgmap="264" id="b264-7">
+                   Where reasonable minds may differ as to the conclusion or inferences to be drawn from the evidence, such issues must be submitted to the jury. Home Mutual Fire Ins. Co. v. Cartmell, 245 Ark. 45, 430 S.W.2d 849 (1968). It would be error to direct a verdict in such circumstances. Huffman Wholesale Supply Co. v. Terry, 240 Ark. 399, 399 S.W.2d 658 (1968). On the record as a whole we find substantial evidence to support the verdict.</p>
+                <p pgmap="264" id="b264-8">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="261" ORDERLABEL="233" TYPE="page">
+        <fptr FILEID="tiff_00131_0"/>
+        <fptr FILEID="jp2_00131_0"/>
+        <fptr FILEID="alto_00131_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_261.2" BETYPE="IDREF" FILEID="alto_00131_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="262" ORDERLABEL="234" TYPE="page">
+        <fptr FILEID="tiff_00131_1"/>
+        <fptr FILEID="jp2_00131_1"/>
+        <fptr FILEID="alto_00131_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_262.2" BETYPE="IDREF" FILEID="alto_00131_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="263" ORDERLABEL="235" TYPE="page">
+        <fptr FILEID="tiff_00132_0"/>
+        <fptr FILEID="jp2_00132_0"/>
+        <fptr FILEID="alto_00132_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_263.3" BETYPE="IDREF" FILEID="alto_00132_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="264" ORDERLABEL="236" TYPE="page">
+        <fptr FILEID="tiff_00132_1"/>
+        <fptr FILEID="jp2_00132_1"/>
+        <fptr FILEID="alto_00132_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_264.2" BETYPE="IDREF" FILEID="alto_00132_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b261-7" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_261.6" BETYPE="IDREF" FILEID="alto_00131_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b261-6" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_261.5" BETYPE="IDREF" FILEID="alto_00131_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b262-8" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_262.6" BETYPE="IDREF" FILEID="alto_00131_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b264-12" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_264.10" BETYPE="IDREF" FILEID="alto_00132_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b263-10" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_263.6" BETYPE="IDREF" FILEID="alto_00132_0"/>
+            <area BEGIN="BL_264.1" BETYPE="IDREF" FILEID="alto_00132_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b262-6" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_262.4" BETYPE="IDREF" FILEID="alto_00131_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b262-7" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_262.5" BETYPE="IDREF" FILEID="alto_00131_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AYT" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_261.9" BETYPE="IDREF" FILEID="alto_00131_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b261-8" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_261.7" BETYPE="IDREF" FILEID="alto_00131_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b264-10" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_264.8" BETYPE="IDREF" FILEID="alto_00132_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b261-9" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_261.8" BETYPE="IDREF" FILEID="alto_00131_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b261-15" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_261.17" BETYPE="IDREF" FILEID="alto_00131_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b263-7" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_263.5" BETYPE="IDREF" FILEID="alto_00132_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b262-9" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_262.7" BETYPE="IDREF" FILEID="alto_00131_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b264-8" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_264.6" BETYPE="IDREF" FILEID="alto_00132_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b264-9" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_264.7" BETYPE="IDREF" FILEID="alto_00132_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b264-6" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_264.4" BETYPE="IDREF" FILEID="alto_00132_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b262-10" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_262.8" BETYPE="IDREF" FILEID="alto_00131_1"/>
+            <area BEGIN="BL_263.1" BETYPE="IDREF" FILEID="alto_00132_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A03" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_261.20" BETYPE="IDREF" FILEID="alto_00131_0"/>
+            <area BEGIN="BL_261.21" BETYPE="IDREF" FILEID="alto_00131_0"/>
+            <area BEGIN="BL_262.1" BETYPE="IDREF" FILEID="alto_00131_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b264-11" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_264.9" BETYPE="IDREF" FILEID="alto_00132_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b264-7" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_264.5" BETYPE="IDREF" FILEID="alto_00132_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b261-17" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_261.19" BETYPE="IDREF" FILEID="alto_00131_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b263-6" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_263.4" BETYPE="IDREF" FILEID="alto_00132_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b261-16" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_261.18" BETYPE="IDREF" FILEID="alto_00131_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

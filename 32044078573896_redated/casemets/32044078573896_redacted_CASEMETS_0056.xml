@@ -1,0 +1,532 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0056" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Memphis &amp; St. Francis Plank Road Co. v. Rives">Memphis &amp; St. Francis Plank Road Co. vs. Rives et al.</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 302</citation>
+          <decisiondate>1860-05</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00152_1" MIMETYPE="image/tiff" CHECKSUM="e2247772b3942f6cc28e2e6d75c4af04" CHECKSUMTYPE="MD5" SIZE="30316">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00152_1.tif"/>
+      </file>
+      <file ID="tiff_00153_0" MIMETYPE="image/tiff" CHECKSUM="2dcfb8c3d4e590431a69fc5c2b745a2c" CHECKSUMTYPE="MD5" SIZE="45032">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00153_0.tif"/>
+      </file>
+      <file ID="tiff_00153_1" MIMETYPE="image/tiff" CHECKSUM="f2a3434523ea0c7ce876ac1df49cec49" CHECKSUMTYPE="MD5" SIZE="49204">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00153_1.tif"/>
+      </file>
+      <file ID="tiff_00154_0" MIMETYPE="image/tiff" CHECKSUM="fa16069c45e1188caf2bd757b419f0da" CHECKSUMTYPE="MD5" SIZE="48552">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00154_0.tif"/>
+      </file>
+      <file ID="tiff_00154_1" MIMETYPE="image/tiff" CHECKSUM="6bf224df8f19497dd485b6f718073015" CHECKSUMTYPE="MD5" SIZE="16686">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00154_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00152_1" MIMETYPE="image/jp2" CHECKSUM="f1b405edf16b1e30b56a4182538a73a2" CHECKSUMTYPE="MD5" SIZE="2510147">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00152_1.jp2"/>
+      </file>
+      <file ID="jp2_00153_0" MIMETYPE="image/jp2" CHECKSUM="dd1674dacc6981dd4b0e31dc328be2fc" CHECKSUMTYPE="MD5" SIZE="2835316">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00153_0.jp2"/>
+      </file>
+      <file ID="jp2_00153_1" MIMETYPE="image/jp2" CHECKSUM="693eba677e4e0437ef91b26bfc12dc8b" CHECKSUMTYPE="MD5" SIZE="2620893">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00153_1.jp2"/>
+      </file>
+      <file ID="jp2_00154_0" MIMETYPE="image/jp2" CHECKSUM="15c208b1cf696cd4225d6eac09de09b3" CHECKSUMTYPE="MD5" SIZE="2968712">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00154_0.jp2"/>
+      </file>
+      <file ID="jp2_00154_1" MIMETYPE="image/jp2" CHECKSUM="7f24f92a392a873c324558ef6344667c" CHECKSUMTYPE="MD5" SIZE="2375629">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00154_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00152_1" MIMETYPE="text/xml" CHECKSUM="1588ff6b17a6f539205c3f00a78b136e" CHECKSUMTYPE="MD5" SIZE="61010">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00152_1.xml"/>
+      </file>
+      <file ID="alto_00153_0" MIMETYPE="text/xml" CHECKSUM="e287054be1d36d67d7dbce118b28f363" CHECKSUMTYPE="MD5" SIZE="88123">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00153_0.xml"/>
+      </file>
+      <file ID="alto_00153_1" MIMETYPE="text/xml" CHECKSUM="f746c5a3cf24409b31dae31ae77a5a67" CHECKSUMTYPE="MD5" SIZE="91599">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00153_1.xml"/>
+      </file>
+      <file ID="alto_00154_0" MIMETYPE="text/xml" CHECKSUM="226b7115ff0b9f1dc8d72f8dcc3ab5ae" CHECKSUMTYPE="MD5" SIZE="91037">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00154_0.xml"/>
+      </file>
+      <file ID="alto_00154_1" MIMETYPE="text/xml" CHECKSUM="d2b258f5187ac5092ea99a264be171f1" CHECKSUMTYPE="MD5" SIZE="32150">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00154_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0056" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="306" firstpage="302">
+              <parties id="b304-7" pgmap="304">Memphis &amp; St. Francis Plank Road Co. vs. Rives et al.</parties>
+              <attorneys id="Auj" pgmap="304">Alexander, for the appellant.</attorneys>
+              <attorneys id="b305-6" pgmap="305">Fowler &amp; Stillwell, for appellees.</attorneys>
+              <summary id="b304-10" pgmap="304">Appeal from Phillips Circuit Court.</summary>
+              <summary id="AnL" pgmap="304">Hon. George W. Beazley, Circuit Judge.</summary>
+              <summary id="b305-4" pgmap="305">The act of an agent ratified by the company makes it the act of the company; 12 Barb. S. C. R. 573; 17 John Rep. 60.</summary>
+              <summary id="b305-5" pgmap="305">User under a charter is proof of the acceptance of the char­ter, and of the performance of all conditions precedent. Ang. Sp Ames, on Corp. chap. 2, sec. 3; 12 Barb. 573; 7 Eng. Rep. 769.</summary>
+              <summary id="b305-7" pgmap="305">The corporation could have no legal existence until all the requirements of the statute had been complied with. Angelí &lt;f- Ames on Corp. sec. 83; 10 Wend. 266; 19 John Rep. 300.</summary>
+              <summary id="b305-8" pgmap="305">The act amending the charter must be accepted by the officer and in the manner designated by the Legislature. Bank of .Augusta vs. Early, 13 Pet. S. C. Rep. 587; 4 Hill (N. T.) Rep. 447; 4 Barb. S. C. Rep. 130; Ang. Sp Ames on Corp. sec. 253.</summary>
+              <headnotes id="b304-8" pgmap="304">Proof of the organization of a corporation by the election of the directors and officers, required by the charter, and that the company proceeded to exercise its cor­porate powers, is at least prima facie sufficient to show that the conditions prece­dent to its existence under the charter had been complied with.</headnotes>
+              <headnotes id="b304-9" pgmap="304">As to questions which relate to the power of dealing, in a corporate capacity, with third persons, corporations must be limited by their respective charters; but as to those relating to their organization, a liberal construction is to be adopted: and so, where an amendment to a charter prescribed that the president should file, in the office of the Secretary of State, a declaration accepting the amendment, proof that an agent had filed such declaration, and that the act was ratified by the company, is sufficient.</headnotes>
+              <opinion type="majority">
+                <author id="b305-9" pgmap="305">Mr. Justice Compton</author>
+                <p id="Amo" pgmap="305">delivered the opinion of the Court.</p>
+                <p id="b305-10" pgmap="305">The Memphis and St. Francis Plank Road Company declared against the appellees in an action on the case for disturbance of their franchises.</p>
+                <p id="b305-11" pgmap="305">The appellees pleaded, 1st. Not guilty; and 2d. Nul tiel cor­poration. On issue joined, a trial was had, and the verdict and judgment were for the appellees.</p>
+                <p id="b305-12" pgmap="305">To maintain the action, the appellant, after reading in evi­dence the act of incorporation, approved January 10th, 1851, andan act amendatory thereof, approved January 4th, 1853, and proving by parol testimony — which was not objected to— the organization of the company, offered to prove the appoint­ment of an agent, by the board of directors, to solicit the pas­sage, by the Legislature, of the act of January 4th, 1853, also, the filing in the office of the Secretary of State, the declaratory statement of said agent, accepting in behalf of the company, said act as an amendment to their charter, and also the subse­quent proceedings of the board of directors, ratifying and adopt­ing all that their agent had done in the premises; but the court excluded the evidence and the appellant excepted.</p>
+                <p id="b306-4" pgmap="306">The appellant then offered to prove the appointment of cer­tain commissioners, pursuant to the provisions of the amended charter, whose duty it was to view said road and make report in respect thereof, as also the report of the commissioners in that behalf; but the court refused to permit the evidence to be read to the jury, and the appellant excepted.</p>
+                <p id="b306-5" pgmap="306">The appellant then offered to prove the construction of the road, the erection' of toll gates thereon, the collection of toll, and other acts of user under the amended charter, the value of the road, the amount of toll received annually, and, also, acts of interference with the road by the appellees — all which the court excluded, and the appellant excepted.</p>
+                <p id="b306-6" pgmap="306">For the appellees it is insisted in argument here — 1st. That-­all the evidence offered and rejected, was inadmissible, because the statute creating the corporation in this case, required cer­tain acts to be done before the corporation could be considered in esse, and no evidence being introduced or offered to prove that those acts had been performed, that therefore the corpora­tion had no existence. 2d. That so much of the evidence as relates to the acts of the company, alleged to have been done under the amendment to the charter, was inadmissible, because the amendment was not accepted by the company.</p>
+                <p id="b306-7" pgmap="306">1. It has been decided by this court in Hammett vs. Little Rock &amp; Napoleon R. R. Co., 20 Ark. 204; that where, the stat­ute creating a corporation prescribes something to be done after the passage as a condition precedent to the legal existence of the corporation, the thing thus required must be performed, otherwise the corporation has no existence; and of this charac­ter is the act incorporating the appellant.</p>
+                <p id="b306-8" pgmap="306(68) 307(121)">It required that books of subscription should be opened at different places; and that when the sum of $50,000 should be. subscribed, the central board of commissioners were required to. call a meeting of the stockholders, who should elect, from among their number, nine directors, who', when so elected, should choose a president from among themselves, etc.; and the 9th section provided, that when so organized, the com­pany should be capable of suing and being sued, and of doing all and every thing, which it would be lawful for any corpora­tion or body politic to do, etc. Pamphlet Acts, 1850, p. 287. The organization of the company was proven by the deposition of the witness, Kay, who stated that he was present when the directors and officers, required by the charter, were elected, and that the company then proceeded to construct the road. This was at least prima facie sufficient to show that the previous requisitions of the statute had been complied with, and that the corporation then had an existence. Wood vs. Jefferson co. Bank, 9 Wend. 194; Dulce vs. Cahawba Navigation Co., 10 Ala. 82.</p>
+                <p id="b307-5" pgmap="307(246) 308(20)">- 2. By the 7th section of the amendatory act, it was provided, that before the act should take effect, the president of the com­pany should file in the office of the Secretary of State, a dec­laration in writing, acquiescing in the act, and recognizing a liability on the part of the company, faithfully to comply with all its provisions, and also, with those of the act to which it was a supplement. Pomp. Acts, 1853, page 65. We have seen that it was offered to be shown in evidence, that the written declaration here provided for, was made and filed by an agent of the company, whose acts in that behalf were afterwards ratified. This was a substantial compliance with the statute, and the law, in such cases, requires nothing more than a sub­stantial compliance. The intention of the Legislature was that the company should accept the amendment to the charter, in such manner as that the evidence of accep­tance might be safely kept and easily obtained, if needed. The acceptance was the essence of the thing required to be done, and the mode of acceptance was merely director}'. As to questions which relate to the power of dealing in a corporate capacity, with third persons, corporations must be limited by their respective charters; but as to those relating to the mere manner of getting into oporation — -of becoming prepared to act — a liberal construction is to be adop­ted. Judah vs. The American Life Stock Insurance Co., 4 Ind. 333; Gross vs. Pinckneyville Mill Co., 17 Illi. 56.</p>
+                <p id="b308-5" pgmap="308">The result is, that the court erred in excluding the evidence offered by the appellant. The judgment must, therefore, be reversed and the cause remanded for further proceedings.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="304" ORDERLABEL="302" TYPE="page">
+        <fptr FILEID="tiff_00152_1"/>
+        <fptr FILEID="jp2_00152_1"/>
+        <fptr FILEID="alto_00152_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_304.2" BETYPE="IDREF" FILEID="alto_00152_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_304.3" BETYPE="IDREF" FILEID="alto_00152_1"/>
+              <area BEGIN="BL_304.4" BETYPE="IDREF" FILEID="alto_00152_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_304.7" BETYPE="IDREF" FILEID="alto_00152_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="305" ORDERLABEL="303" TYPE="page">
+        <fptr FILEID="tiff_00153_0"/>
+        <fptr FILEID="jp2_00153_0"/>
+        <fptr FILEID="alto_00153_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_305.2" BETYPE="IDREF" FILEID="alto_00153_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_305.1" BETYPE="IDREF" FILEID="alto_00153_0"/>
+              <area BEGIN="BL_305.3" BETYPE="IDREF" FILEID="alto_00153_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="306" ORDERLABEL="304" TYPE="page">
+        <fptr FILEID="tiff_00153_1"/>
+        <fptr FILEID="jp2_00153_1"/>
+        <fptr FILEID="alto_00153_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_306.1" BETYPE="IDREF" FILEID="alto_00153_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_306.2" BETYPE="IDREF" FILEID="alto_00153_1"/>
+              <area BEGIN="BL_306.3" BETYPE="IDREF" FILEID="alto_00153_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="307" ORDERLABEL="305" TYPE="page">
+        <fptr FILEID="tiff_00154_0"/>
+        <fptr FILEID="jp2_00154_0"/>
+        <fptr FILEID="alto_00154_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_307.3" BETYPE="IDREF" FILEID="alto_00154_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_307.2" BETYPE="IDREF" FILEID="alto_00154_0"/>
+              <area BEGIN="BL_307.4" BETYPE="IDREF" FILEID="alto_00154_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="308" ORDERLABEL="306" TYPE="page">
+        <fptr FILEID="tiff_00154_1"/>
+        <fptr FILEID="jp2_00154_1"/>
+        <fptr FILEID="alto_00154_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_308.2" BETYPE="IDREF" FILEID="alto_00154_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_308.3" BETYPE="IDREF" FILEID="alto_00154_1"/>
+              <area BEGIN="BL_308.4" BETYPE="IDREF" FILEID="alto_00154_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_308.6" BETYPE="IDREF" FILEID="alto_00154_1"/>
+              <area BEGIN="BL_308.10" BETYPE="IDREF" FILEID="alto_00154_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Auj" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_304.13" BETYPE="IDREF" FILEID="alto_00152_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b304-8" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_304.9" BETYPE="IDREF" FILEID="alto_00152_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AnL" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_304.12" BETYPE="IDREF" FILEID="alto_00152_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b308-5" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_308.5" BETYPE="IDREF" FILEID="alto_00154_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b304-7" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_304.8" BETYPE="IDREF" FILEID="alto_00152_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b305-4" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_305.4" BETYPE="IDREF" FILEID="alto_00153_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b305-5" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_305.5" BETYPE="IDREF" FILEID="alto_00153_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b305-6" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_305.6" BETYPE="IDREF" FILEID="alto_00153_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b305-7" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_305.7" BETYPE="IDREF" FILEID="alto_00153_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b305-8" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_305.8" BETYPE="IDREF" FILEID="alto_00153_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b305-9" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_305.9" BETYPE="IDREF" FILEID="alto_00153_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b307-5" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_307.5" BETYPE="IDREF" FILEID="alto_00154_0"/>
+            <area BEGIN="BL_308.1" BETYPE="IDREF" FILEID="alto_00154_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b304-9" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_304.10" BETYPE="IDREF" FILEID="alto_00152_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Amo" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_305.10" BETYPE="IDREF" FILEID="alto_00153_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b304-10" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_304.11" BETYPE="IDREF" FILEID="alto_00152_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b306-8" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_306.8" BETYPE="IDREF" FILEID="alto_00153_1"/>
+            <area BEGIN="BL_307.1" BETYPE="IDREF" FILEID="alto_00154_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b306-7" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_306.7" BETYPE="IDREF" FILEID="alto_00153_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b306-6" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_306.6" BETYPE="IDREF" FILEID="alto_00153_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b306-5" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_306.5" BETYPE="IDREF" FILEID="alto_00153_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b306-4" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_306.4" BETYPE="IDREF" FILEID="alto_00153_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b305-12" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_305.13" BETYPE="IDREF" FILEID="alto_00153_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b305-10" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_305.11" BETYPE="IDREF" FILEID="alto_00153_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b305-11" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_305.12" BETYPE="IDREF" FILEID="alto_00153_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

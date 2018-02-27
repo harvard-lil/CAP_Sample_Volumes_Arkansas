@@ -1,0 +1,564 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078573896_0046" publicationstatus="published">
+          <court abbreviation="Ark." jurisdiction="Arkansas">Arkansas Supreme Court</court>
+          <name abbreviation="Kirkpatrick v. Buford">Kirkpatrick vs. Buford et al.</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">21 Ark. 268</citation>
+          <decisiondate>1860-05</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:12:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-09-20T09:46:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-09-22T12:52:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160912.post155</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00135_1" MIMETYPE="image/tiff" CHECKSUM="aa6d86ef0dc8086cc0419968a342f6b0" CHECKSUMTYPE="MD5" SIZE="29954">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00135_1.tif"/>
+      </file>
+      <file ID="tiff_00136_0" MIMETYPE="image/tiff" CHECKSUM="e68c4d1da679413f76faf27fbcbed457" CHECKSUMTYPE="MD5" SIZE="45650">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00136_0.tif"/>
+      </file>
+      <file ID="tiff_00136_1" MIMETYPE="image/tiff" CHECKSUM="98816c924ad32e946a790075c0cf0f33" CHECKSUMTYPE="MD5" SIZE="46068">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00136_1.tif"/>
+      </file>
+      <file ID="tiff_00137_0" MIMETYPE="image/tiff" CHECKSUM="cc749528194e166774f89810c724ca71" CHECKSUMTYPE="MD5" SIZE="48430">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00137_0.tif"/>
+      </file>
+      <file ID="tiff_00137_1" MIMETYPE="image/tiff" CHECKSUM="c72d3c88e2a4f40985f1a3820e862538" CHECKSUMTYPE="MD5" SIZE="29368">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00137_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00135_1" MIMETYPE="image/jp2" CHECKSUM="765845e7efb618be639adc8d7838e36d" CHECKSUMTYPE="MD5" SIZE="2509937">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00135_1.jp2"/>
+      </file>
+      <file ID="jp2_00136_0" MIMETYPE="image/jp2" CHECKSUM="7e428b2fbb1681268d71807403e41ddd" CHECKSUMTYPE="MD5" SIZE="2674344">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00136_0.jp2"/>
+      </file>
+      <file ID="jp2_00136_1" MIMETYPE="image/jp2" CHECKSUM="d1d7b36146f1ae971175584261c08029" CHECKSUMTYPE="MD5" SIZE="2614491">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00136_1.jp2"/>
+      </file>
+      <file ID="jp2_00137_0" MIMETYPE="image/jp2" CHECKSUM="6a36c9aa71f4cc49d2d46eb9574cfa17" CHECKSUMTYPE="MD5" SIZE="2636194">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00137_0.jp2"/>
+      </file>
+      <file ID="jp2_00137_1" MIMETYPE="image/jp2" CHECKSUM="503cf8c17672cc3413e3068a81e85962" CHECKSUMTYPE="MD5" SIZE="2917940">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078573896_00137_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00135_1" MIMETYPE="text/xml" CHECKSUM="00fc750599167b2910ae9dafc3e90f3f" CHECKSUMTYPE="MD5" SIZE="61602">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00135_1.xml"/>
+      </file>
+      <file ID="alto_00136_0" MIMETYPE="text/xml" CHECKSUM="79176569380cafc2b4f9782b9d1843a4" CHECKSUMTYPE="MD5" SIZE="89738">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00136_0.xml"/>
+      </file>
+      <file ID="alto_00136_1" MIMETYPE="text/xml" CHECKSUM="e0905c3ecefe5210846f6ff52aee895b" CHECKSUMTYPE="MD5" SIZE="89144">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00136_1.xml"/>
+      </file>
+      <file ID="alto_00137_0" MIMETYPE="text/xml" CHECKSUM="abaf9409838c67b939472ba038063974" CHECKSUMTYPE="MD5" SIZE="96481">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00137_0.xml"/>
+      </file>
+      <file ID="alto_00137_1" MIMETYPE="text/xml" CHECKSUM="5f759ab8dafa28a17df8e040b8c830db" CHECKSUMTYPE="MD5" SIZE="55511">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078573896_redacted_ALTO_00137_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0046" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="272" firstpage="268">
+              <parties id="b270-7" pgmap="270">Kirkpatrick vs. Buford et al.</parties>
+              <attorneys id="b270-13" pgmap="270">Yell, for the appellant.</attorneys>
+              <attorneys id="b271-5" pgmap="271">Harrison, for the appellee.</attorneys>
+              <summary id="b270-11" pgmap="270">Appeal from Ashley Circuit Court in Chancery.</summary>
+              <summary id="b270-12" pgmap="270">Hon. Theodoric F. Sorrells, Circuit Judge.</summary>
+              <summary id="b270-14" pgmap="270">It is alleged and admitted that the land sought to be enjoined from sale, was the complainant’s separate property, purchased with her sole and separate money, made so by marriage contract.</summary>
+              <summary id="b271-4" pgmap="271">The suit was brought by the wife, by her husband as next friend — he consented to act as such — knew the object of the bill — consented to it as drawn, and may therefore be con­sidered as a party to it.</summary>
+              <summary id="b271-6" pgmap="271">The husband had a direct interest in the subject matter of the suit, and should have been made a party. Story's Eq. PI. secs. 61, 63, 72; Wolford's Eq. PI. 44; Wake vs. Parker, 2 Keen 59; Moore Sf wife vs. Carter et al., Menvp. C. C. R. 64.</summary>
+              <summary id="b271-7" pgmap="271">Upon the entry of the land by the wife, her husband became seized jure uxoris, and was entitled to the rents and profits during their joint lives, (2 Kent's Com. 130) and his interest was subject to seizure and sale. lb. 131.</summary>
+              <summary id="b271-8" pgmap="271">Though the ante-nuptial agreement gave the wife a separate estate in the furniture, she had no such estate in the land. But if the marital rights of the husband are excluded, the interest of the wife could not be affected or impaired by a sale of the land. Lovett wife vs. Longmire, 14 Ark. 340.</summary>
+              <headnotes id="b270-8" pgmap="270">The- proceeds of the sale of the sole and separate property of the wife are to be regarded as her separate estate; and so are lands purchased with such proceeds, and they are subject to the same rules as was the original estate before it was sold and converted into a different species of property.</headnotes>
+              <headnotes id="b270-9" pgmap="270">On a bill by a wife to enjoin the sale of her sole and separate property by the creditors of her husband, he is a necessary party to the bill; his appearance as the next friend of his wife is not sufficient; she ought to sue as sole plaintiff, by her next friend, and make her husband a party defendant.</headnotes>
+              <headnotes id="b270-10" pgmap="270">Where there are merits in a bill, and it is defective solely for the want of proper parties, it ought to be dismissed without prejudice, and not absolutely.</headnotes>
+              <opinion type="majority">
+                <author id="b271-9" pgmap="271">Mr. Justice Compton</author>
+                <p id="ALg" pgmap="271">delivered the opinion of the Court.</p>
+                <p id="b271-10" pgmap="271">The appellant, Ann P. Kirkpatrick, by her next friend Elijah Kirkpatrick, exhibited her bill in the Ashley Circuit Court to enjoin the sale of certain lands, levied on as the property of her husband, Elijah Kirkpatrick, to satisfy a judgment which the appellees, Buford &amp; Pugh, had recovered against him.</p>
+                <p id="b271-11" pgmap="271(108) 272(17)">The bill charges that by ante-nuptial settlement, made in the State of Georgia, by and between Mrs. Kirkpatrick and the said Elijah, certain articles of household furniture were settled upon her, to her sole and separate use, free from the control of her husband, and exempt from his liabilities; that she continued afterwards to hold the furniture as her own separate property until she and her husband were about moving to the State of Arkansas, when she sold it, and with the proceeds, or a por­tion of them, after her arrival in Arkansas, entered at the United States Land Office, in her own name, the lands levied on; and denies that they were the lands of her husband, or sub­ject to his debts.</p>
+                <p id="b272-6" pgmap="272">A demurrer was sustained to the bill and Mrs. Kirkpatrick appealed.</p>
+                <p id="b272-7" pgmap="272">Two questions were raised upon the demurrer in the court below, and have been argued here: 1st, whether there was any equity in the bill; and 2d, whether the husband was a necessary party.</p>
+                <p id="b272-8" pgmap="272">As to the first of these propositions, it may be said to be true, as contended by the counsel for the appellees, that the husband has an interest in the freehold estate of the wife, which maybe seized and sold on execution. 2 Kent Com. 131. But that is not the question involved. We are called on to determine whether the proceeds of the sale of Mrs. Kirkpatrick’s separate property, or the lands she purchased with them, are to be regarded as her separate estate. That they are so regarded, and subject to the same rules as was the original estate before it was sold and converted into a different species of property, has, in effect, been repeatedly held in the English and Ameri­can courts. Gore vs. Knight, 2 Vern. 535; Hearle vs. Greenbank, 3 Atk. 709; Felleplace vs. Gorges, 1 Ves. p. 48; Hathaway vs. St. John, 20 Con. 343; Quick vs. Garrison, 10 Wen. 335; Merret vs. Lyon, 3 Barb. S. C. 110; Strong vs. Skinner, 4 ib. 546; Young vs. Jones, 9 Humph. 555.</p>
+                <p id="b272-9" pgmap="272">.There being no provision in the ante-nuptial agreement restraining the right of Mrs. Kirkpatrick to dispose of the household furniture, she must, in respect to it, be considered in equity as a feme sole, with full power to make disposition of it in any mode she chose to adopt. Strong vs. Skinner, 4 Barb. S. C. 553; Jaques vs. Methodist Episcopal Church, 17 John. 548. If by a mere sale of the separate estate and the investment of the proceeds in the purchase of other property, she lost her estate, and the husband acquired the property thus purchased, without any intention on her part to give it to him, then this unqualified right of disposition was a delusion, and its exercise an injury.</p>
+                <p id="b273-4" pgmap="273">In Hathaway vs. St. John, 20 Con. 343, supra, the wife was the owner of bank stock as her separate property. The stock was sold at her request, and the avails laid out in real estate; which, through the agency of her trustee, was first mortgaged and then sold to secure and pay for a pair of horses and carriage, which were bought for and went into the possession of the wife. The property being afterwards in the possession of the husband, it was attached as his property at the suit of a creditor. In replevin by the wife’s trustee against the creditor, it was held: 1st, that when the land was sold and the horses and carriage purchased, the wife had, in equity,full capacity to act as a feme sole in relation to the property, and to direct the sale of the former and the purchase of the latter; and 2nd, that the tem­porary possession of the husband at the time the property was attached, did not essentially vary the right of the wife or of her trustee.</p>
+                <p id="b273-5" pgmap="273">In Ferguson &amp; Neill vs. Moore and wife, 19 Ark. 387, the same principle was pressed in argument, upon' the authority of Young vs. Jones, 9 Humphrey 555, and Mr. Justice Scott said: “The doctrine contended for by the counsel for the appellee, that the right of property, in a married woman, attaches to the fund arising from the sale of her sole and separate.estate, to the same extent which existed in regard to the property before the sale, although doubtless sound in itself, has no application to this branch of the case, because here, as we have seen, the wife had no sole and separate property in the lands in question.”</p>
+                <p id="b273-7" pgmap="273(105) 274(12)">It is admitted that property may be purchased with the pro­ducts of the wife’s separate estate, and put into the possession of the husband under such circumstances as to raise the pre­sumption that the wife intended it should be a gift to the hus­band, and not that he should hold it as her trustee, as in McGlinsey vs. McGlinsey, 14 Serg. &amp; Raw. 64;. Shirley vs. Shirley, 9 Paige Ch. 363. But in this case, there is nothing stated in the bill from which a gift by Mrs. Kirkpatrick to her husband could be inferred, and a court of equity will interpose to protect her separate estate against his creditors. Shiiley vs. Shirley, supra.</p>
+                <p id="b274-6" pgmap="274">That the husband was a necessary party to the bill, there can be no doubt. Mr. Justice Story, in his work on Eq. Plead, sec. 63, lays it down as the correct practice in such cases, that the wife “ought to sue as sole plaintiff, by her next friend, and the husband should be made a party defendant; for he may contest that it is her separate property, and the claim may be incom­patible with his marital rights.” In the case before us, the hus­band was brought before the court in no other capacity than as next friend to the wife; and in that attitude a decree would not affect his rightsjas husband.</p>
+                <p id="b274-7" pgmap="274">There being merits in the bill, and it being defective in no other respect than that the husband was not made a party, the court should have dismissed it without prejudice — and not abso­lutely. The decree must therefore be reversed, and the cause remanded with instructions to dismiss the bill without preju­dice to the right of Mrs. Kirkpatrick to bring a bill with proper parties.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="270" ORDERLABEL="268" TYPE="page">
+        <fptr FILEID="tiff_00135_1"/>
+        <fptr FILEID="jp2_00135_1"/>
+        <fptr FILEID="alto_00135_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_270.1" BETYPE="IDREF" FILEID="alto_00135_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_270.2" BETYPE="IDREF" FILEID="alto_00135_1"/>
+              <area BEGIN="BL_270.3" BETYPE="IDREF" FILEID="alto_00135_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_270.6" BETYPE="IDREF" FILEID="alto_00135_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="271" ORDERLABEL="269" TYPE="page">
+        <fptr FILEID="tiff_00136_0"/>
+        <fptr FILEID="jp2_00136_0"/>
+        <fptr FILEID="alto_00136_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_271.2" BETYPE="IDREF" FILEID="alto_00136_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_271.1" BETYPE="IDREF" FILEID="alto_00136_0"/>
+              <area BEGIN="BL_271.3" BETYPE="IDREF" FILEID="alto_00136_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="272" ORDERLABEL="270" TYPE="page">
+        <fptr FILEID="tiff_00136_1"/>
+        <fptr FILEID="jp2_00136_1"/>
+        <fptr FILEID="alto_00136_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_272.2" BETYPE="IDREF" FILEID="alto_00136_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_272.3" BETYPE="IDREF" FILEID="alto_00136_1"/>
+              <area BEGIN="BL_272.4" BETYPE="IDREF" FILEID="alto_00136_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="273" ORDERLABEL="271" TYPE="page">
+        <fptr FILEID="tiff_00137_0"/>
+        <fptr FILEID="jp2_00137_0"/>
+        <fptr FILEID="alto_00137_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_273.2" BETYPE="IDREF" FILEID="alto_00137_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_273.1" BETYPE="IDREF" FILEID="alto_00137_0"/>
+              <area BEGIN="BL_273.3" BETYPE="IDREF" FILEID="alto_00137_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="274" ORDERLABEL="272" TYPE="page">
+        <fptr FILEID="tiff_00137_1"/>
+        <fptr FILEID="jp2_00137_1"/>
+        <fptr FILEID="alto_00137_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_274.2" BETYPE="IDREF" FILEID="alto_00137_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_274.3" BETYPE="IDREF" FILEID="alto_00137_1"/>
+              <area BEGIN="BL_274.4" BETYPE="IDREF" FILEID="alto_00137_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="key">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_274.7" BETYPE="IDREF" FILEID="alto_00137_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b271-8" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_271.8" BETYPE="IDREF" FILEID="alto_00136_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b271-9" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_271.9" BETYPE="IDREF" FILEID="alto_00136_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b270-9" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_270.9" BETYPE="IDREF" FILEID="alto_00135_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b270-8" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_270.8" BETYPE="IDREF" FILEID="alto_00135_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b270-7" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_270.7" BETYPE="IDREF" FILEID="alto_00135_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b272-8" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_272.7" BETYPE="IDREF" FILEID="alto_00136_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b271-4" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_271.4" BETYPE="IDREF" FILEID="alto_00136_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b271-5" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_271.5" BETYPE="IDREF" FILEID="alto_00136_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b271-6" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_271.6" BETYPE="IDREF" FILEID="alto_00136_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b271-7" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_271.7" BETYPE="IDREF" FILEID="alto_00136_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b274-7" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_274.6" BETYPE="IDREF" FILEID="alto_00137_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b272-7" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_272.6" BETYPE="IDREF" FILEID="alto_00136_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b274-6" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_274.5" BETYPE="IDREF" FILEID="alto_00137_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b272-6" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_272.5" BETYPE="IDREF" FILEID="alto_00136_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b270-11" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_270.11" BETYPE="IDREF" FILEID="alto_00135_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b270-10" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_270.10" BETYPE="IDREF" FILEID="alto_00135_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b270-13" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_270.13" BETYPE="IDREF" FILEID="alto_00135_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b270-12" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_270.12" BETYPE="IDREF" FILEID="alto_00135_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b270-14" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_270.14" BETYPE="IDREF" FILEID="alto_00135_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b273-7" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_273.6" BETYPE="IDREF" FILEID="alto_00137_0"/>
+            <area BEGIN="BL_274.1" BETYPE="IDREF" FILEID="alto_00137_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b273-4" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_273.4" BETYPE="IDREF" FILEID="alto_00137_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b273-5" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_273.5" BETYPE="IDREF" FILEID="alto_00137_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ALg" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_271.10" BETYPE="IDREF" FILEID="alto_00136_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b271-10" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_271.11" BETYPE="IDREF" FILEID="alto_00136_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b271-11" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_271.12" BETYPE="IDREF" FILEID="alto_00136_0"/>
+            <area BEGIN="BL_272.1" BETYPE="IDREF" FILEID="alto_00136_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b272-9" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_272.8" BETYPE="IDREF" FILEID="alto_00136_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>
