@@ -42,11 +42,13 @@ Two sample casebook volumes from Arkansas digitized in the Caselaw Access Projec
 
 -  #### Case-level files:
    - `(volume barcode)_redacted_CASEMETS_(case number).xml`
-     - The case number is based on the order of the cases in the volume
+     - The case number is based on the order of the cases in the volume.
 -  #### Page-level files:
    - Alto XML (v3): `(volume barcode)_redacted_ALTO_(leaf no)_(page side).xml`
 
-   - Page Images: `(volume barcode)_(leaf no)_(page side).(tif/jp2)`
-     - The leaf no is a count of each two-sided piece of paper
-     - The page-side specifies the front (0) or back (1) of the leaf
-     - A simple sequence number can be generated using `(leaf no) - 1 + (page_side)`. For example, 32044078577194_00005_0.tif is the 9th image in the volume, so 5 - 1 + 0 = 9.
+   - Page Images: `(volume barcode)_(leaf number)_(page side).(tif/jp2)`
+     - The leaf number is a count of each two-sided paper leaf.
+     - The page-side specifies the front (0) or back (1) of the leaf.
+     - A simple sequence number can be generated using `(leaf number) - 1 + (page_side)`. For example, 32044078577194_00005_0.tif is the 9th image in the volume, so 5 - 1 + 0 = 9.
+
+Thoughts? Ideas? Hate mail? Tell us! Feel free to file an issue, or send us an email at lil@law.harvard.edu.
